@@ -1,3 +1,3 @@
-# anzctr2d2g
+# p2d2g2t
 
-_anzctr2d2g_ is a contraction of "ANZCTR-to-drugs-to-genes", where ANZCTR is the acronym for the Australian New Zealand Clinical Trials Registry.
+_p2d2g2t_ is a contraction of "patients-to-drugs-to-genes-to-(clinical)trials".
