@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372661">
+  <stage>Registered</stage>
+  <submitdate>29/03/2017</submitdate>
+  <approvaldate>5/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000491369p</actrnumber>
+  <trial_identification>
+    <studytitle>Quittr: A game that wants smokers to Quit</studytitle>
+    <scientifictitle>Quittr: A smoking cessation serious game. Determining if game features influence smoker engagement and retention during a Quit attempt.
+</scientifictitle>
+    <utrn>U1111-1194-8865</utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>smoking</healthcondition>
+    <healthcondition>cardiovascular disease</healthcondition>
+    <healthcondition>cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Quittr is an innovative smartphone app designed to support smokers through a quit attempt. It provides useful health and financial statistics, educational/behavioural support content, an achievement system, and novel game features that are designed to entice the smoker remain engaged with the app for longer, thereby improving their likelihood of success.
+
+Participants can use the app at their discretion, but are prompted to check in regularly through daily notifications.
+
+To determine whether these game features work as intended, we are enrolling participants at random into one of two groups. The first group has the full features of the Quittr app enabled, while the second group has the game features disabled. This will allow us to detect differences in the outcomes reported for each group.
+
+We will also monitor usage analytics, to determine how engaged the smoker is with the various features of the apps over time.
+
+The intervention group will have access to the full features of Quittr, including the "Tappy Town" incentivisation game and QuitCoin rewards. They will be granted QuitCoins in return for positive behaviours that are likely to improve their chances of quitting smoking (i.e. not smoking, consuming educational content, checking in regularly). The QuitCoins can be redeemed in the Tappy Town incentivisation game. This is a city builder/clicker style game that allows the player to incrementally grow a city by placing a variety of buildings/improvements into the game map. As the city grows so does its income potential, allowing the player to afford gradually more grand buildings and improvements. Some of the best buildings/improvements available in the game can only be purchased by redeeming QuitCoins. The control group will not have access to the Tappy Town game or the associated QuitCoins (at least until after their 28-day trial expires), but the app will otherwise function identically.
+
+The trial will be in effect over a 28-day period from participant enrolment, with enrolment open between 1/06/2017 and 1/11/2017. After the participant reaches 28-days they will be automatically switched back to the fully featured version of the game, and will retain their access to the app.
+</interventions>
+    <comparator>Participants in the control group will have access to the Quittr app which includes all the progress statistics, educational content, achievements system, and a cravings distraction mini-game. However, they will not have access to the "Tappy Town" incentivisation game and will not be rewarded with QuitCoins for successfully engaging with key systems in the app.
+
+After the 28-day trial period ends, the control group will revert to "normal" fully featured status, gaining access to the games features.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>smoking activity - whenever the smoker opens the app for the first time in a given day, they are prompted to indicate how many cigarettes they have smoked. If they have gone multiple days without logging in, they are prompted to enter their cigarettes for each day missed.</outcome>
+      <timepoint>daily over a 28-day period</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>retention of users - is the smoker checking in on a daily basis, measured using usage analytics logs</outcome>
+      <timepoint>daily over a 28-day period</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>engagement of users (composite) - measured as "seconds per page" using usage analytics automatically recorded during use</outcome>
+      <timepoint>daily over a 28-day period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>truthfulness in self-reported smoking statistics. Where the participant indicates they have successfully quit smoking at the end of the 28-day period, we will seek to verify this finding by, if the participant indicates they are willing, sending them a self-administered cotinine urine analysis test and asking them to photograph the result strip and email it back to the CI.</outcome>
+      <timepoint>at 28-days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>must be a current smoker who is interested in starting a Quit attempt
+must have a compatible mobile device and an internet connection</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Nil. Anyone who meets the inclusion criteria shall be eligible to participate. There are no foreseeable risks beyond usual care.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation performed by a computer</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>After the user has completed the 28-day study period they will revert to having access to the fully featured version of Quittr.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>We anticipate a ~10% 28-day abstinence success rate for those using the app alone, and a ~20% success rate for those using the app with the game features enabled. At a minimum we will aim to recruit 219 patients per group, which will allow us to detect a difference of 0.05 at 80% power.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/11/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>438</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Tasmania</primarysponsorname>
+    <primarysponsoraddress>1 Churchill Ave
+Sandy Bay TAS 7001</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Vanguard Grants (Heart Foundation of Australia)</fundingname>
+      <fundingaddress>Level 1/89 Brisbane Street
+Hobart TAS 7000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will investigate the effectiveness of Quittr, a smoking cessation app.
+
+Who is it for?
+You may be eligible to join this study if you are a current smoker interested in starting a quit attempt.
+
+Study details
+Participants in this study are randomly allocated (by chance) to one of two groups. Participants in one group will have access to full features Quittr, which include health and financial statistics, educational/behavioural support content, an achievement system, and novel game features. Participants in the other group will have access to the same features except the game. After 28-days the study will end, but participants will continue to have access to the full featured version of the app indefinitely.
+
+Participants will be prompted to indicate how many cigarettes they smoke each day, and usage data will be automatically recorded to a web service. Smoking activity, engagement and retention of users will be determined after the 28 day trial window closes.
+
+Participants who indicate they have successfully quit smoking at the end of the trial will optionally be able to demonstrate this using a self-administered cotinine urine analysis test strip. Volunteers will be posted an simple test kit, asked to photograph the result strip, and return the photograph by email. In return, the volunteer will be granted a $40 gift card as remuneration.</summary>
+    <trialwebsite />
+    <publication>Bindoff I, de Salas K, Peterson G, Ling T, Lewis I, Wells L, Gee P, Ferguson SG
+Quittr: The Design of a Video Game to Support Smoking Cessation
+JMIR Serious Games 2016;4(2):e19
+DOI: 10.2196/games.6258
+PMID: 27908844
+PMCID: 5159615</publication>
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Tasmanian Health and Medical Human Research Ethics Committee</ethicname>
+      <ethicaddress>301 Sandy Bay Road, Sandy Bay 7005</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>11/04/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ivan Bindoff</name>
+      <address>Pharmacy, Bag 26
+University of Tasmania
+1 Churchill Ave
+Sandy Bay TAS 7001</address>
+      <phone>+61362268537</phone>
+      <fax />
+      <email>Ivan.Bindoff@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ivan Bindoff</name>
+      <address>Pharmacy, Bag 26
+University of Tasmania
+1 Churchill Ave
+Sandy Bay TAS 7001</address>
+      <phone>+61362268537</phone>
+      <fax />
+      <email>Ivan.Bindoff@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ivan Bindoff</name>
+      <address>Pharmacy, Bag 26
+University of Tasmania
+1 Churchill Ave
+Sandy Bay TAS 7001</address>
+      <phone>+61362268537</phone>
+      <fax />
+      <email>Ivan.Bindoff@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ivan Bindoff</name>
+      <address>Pharmacy, Bag 26
+University of Tasmania
+1 Churchill Ave
+Sandy Bay TAS 7001</address>
+      <phone>+61362268537</phone>
+      <fax />
+      <email>Ivan.Bindoff@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

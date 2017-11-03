@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83499">
+  <stage>Registered</stage>
+  <submitdate>8/01/2009</submitdate>
+  <approvaldate>18/02/2009</approvaldate>
+  <actrnumber>ACTRN12609000116224</actrnumber>
+  <trial_identification>
+    <studytitle>A study to investigate whether the combination of Mozobil and Neulasta is safe and effective for mobilization of blood stem cells for the treatment of lymphoma and multiple myeloma</studytitle>
+    <scientifictitle>A pilot study investigating the combination of Mozobil® plus Neulasta® for Hematopoietic progenitor Cell (HPC-A) Mobilization in Patients with Lymphoma or Multiple Myeloma</scientifictitle>
+    <utrn />
+    <trialacronym />
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lymphoma</healthcondition>
+    <healthcondition>Multiple myeloma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Myeloma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Pegfilgrastim (Neulasta®) 6mg subcutaneous injection once only on day 1,
+Plerixafor (Mozobil®) 240ug/kg subcutaneous injection on day 3. Additional plerixafor doses (240 ug/kg) days 4, 5 and 6 if target apheresis yields not  reached.</interventions>
+    <comparator>Not applicable</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Toxicity/adverse events. The National Cancer Institute (USA) Common Toxicitiy Criteria for Adverse Eevents (CTCAE) version 3 is the instrument used to designate and grade adverse events.</outcome>
+      <timepoint>Baseline, day 3, day 4 , day 11 and day 28 (end) of study</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Peripheral blood CD34+ cell counts. Measured by flow cytometry cytometric assessment of cells expressing the CD34+ antigen.</outcome>
+      <timepoint>Baseline, then daily from day 3 to day 7 or until target CD34+ cell yield is reached (whichever occurs first)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mobilization efficacy defined as:
+"successful" (collection of a minimum &gt; 2x10^6/kg CD34+ cells),
+"optimal" (collection of &gt; 5x10^6/kg CD34+ cells), "unsuccessful" (collection of &lt;2x10^6/kg CD34+ cells) or "mobilization failure" (patient never achieved a peripheral blood CD34+ count of &gt; 5x10^6/L)</outcome>
+      <timepoint>Mobilization status will be assessed at day 7</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Histologically proven multiple myeloma or lymphoproliferative disease
+2. Absolute neutrophil count between 1.5 and 10.0 x 10^9/L
+3. Adequate renal function: calculated creatinine clearance &gt;/= 30 ml/min
+4. Eastern Cooperative Oncology Group (ECOG) performance status &gt;/=2
+5. Life expectancy of at least 2 months
+6. Able to give written informed consent
+7.Patient able to make arrangements for injection of study drugs (self, family member, visiting nurse, etc)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Active infection (fever due to B symptoms in lymphoma patients will not exclude a patient)
+2. Pregnancy or breast feeding.
+3. Significant non-malignant disease including Human Immunodeficieny Virus (HIV) infection, uncontrolled hypertension (diastolic blood pressures &gt; 115 mmHg), unstable angina.
+4. Known allergy to E.coli-derived products
+5. Patients predicted to be adequate mobilizers must have the absence of  specific risk factors for poor mobilization</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>6 patients must be prior failed mobilizers, the remaining 6 must be anticipated adequate mobilizers (no risk factors for failed mobilization)
+
+Patients will be enrolled from a list of prospective patients identified during the Bone Marrow Transplant Meeting at Peter MacCallum Cancer Centre.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>1/06/2009</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Peter MacCallum Cancer Centre</primarysponsorname>
+    <primarysponsoraddress>St Andrews Place
+East Melbourne VIC 3002</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Genzyme Australasia Pty Ltd</fundingname>
+      <fundingaddress>Level 1, Building C, 12-24 Talavera Rd, North Ryde NSW 2113</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A potential treatment for some blood cancer types is high dose therapy with stem cell transplantation. Stem cells are normally found in the bone marrow. Stem cells are collected from your bone marrow by mobilising them into the blood stream. An apheresis machine removes blood from a vein in your arm or chest, collects off the stem cells and then returns the rest of your blood back to your vein. The collected stem cells are frozen and stored for later use.
+At the time of transplantation, a high dose of chemotherapy with or without radiotherapy would be given, and your frozen stem cells thawed and injected into your body (similar to a blood transfusion). These stem cells can help your bone marrow recover from the high dose therapy.
+
+Stem cells are usually mobilised from the bone marrow into the bloodstream using daily or twice-daily injections of a drug called Granulocyte-Colony Stimulating Factor (G-CSF), or filgrastim (Neupogen). This usually requires 6-10 days of injections. This project aims to test the combination of Mozobil® (a new agent for stem cell collection) with Neulasta® (a single dose, long-acting version of filgrastim) in the hope that it will produce better yields of stem cells in a shorter time with fewer injections.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname />
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>19/01/2009</ethicsubmitdate>
+      <ethiccountry />
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Kirsten Herbert</name>
+      <address>Peter MacCallum Cancer Centre
+St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+ 61 3 9656 1111</phone>
+      <fax />
+      <email>kirsten.herbert@petermac.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Kirsten Herbert</name>
+      <address>Peter MacCallum Cancer Centre
+St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+ 61 3 9656 1111</phone>
+      <fax />
+      <email>kirsten.herbert@petermac.org</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

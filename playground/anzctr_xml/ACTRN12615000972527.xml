@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369238">
+  <stage>Registered</stage>
+  <submitdate>2/09/2015</submitdate>
+  <approvaldate>17/09/2015</approvaldate>
+  <actrnumber>ACTRN12615000972527</actrnumber>
+  <trial_identification>
+    <studytitle>Bowel cancer screening participation rate in a program that offers blood tests as well as faecal tests as screening options.</studytitle>
+    <scientifictitle>Will people from the general population, who are offered a bowel cancer screening program that includes a blood test in addition to faecal occult blood test, participate at a significantly greater rate relative to people offered a screening program consisting of faecal tests only?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Colorectal cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is a bowel cancer screening program that includes the availability of a screening blood test after an offer of the standard faecal occult blood test (FOBT).
+
+There are two intervention groups (n = 600 per group). Everyone in the intervention will be initially mailed an offer of screening for bowel cancer by FOBT. For the first intervention group, after 12 weeks anyone who has not participated with the FOBT will be mailed an offer of screening for bowel cancer by blood test (the methylated BCAT1/IKZF1 blood test). They will then need to call the study helpline to request a further blood test information.
+The second intervention group will be sent the offer for the blood test at the same time as receiving the FOBT. They will be advised that if they believe that the FOBT is not suitable for them they might consider screening for bowel cancer by blood test. They will then need to call the study helpline to request a further blood test information.
+
+Anyone requesting the blood test will then be sent information about the test (including accuracy of the test, where they can get their blood collected, and when they will receive their test results) and a test referral. They can then take up the offer of the free screening blood test at one of 10 local blood collection centres (Healthscope). They do not need to be fasted and appointments do not need to be made. 
+
+Reminder letters will be sent to non-participants 6 weeks after each type of screening test offer. 
+
+Participants of the FOBT will be required to collect a small sample from two separate bowel movements. These samples are then sent via reply-paid mail to a laboratory which tests the samples for the presence of blood. If more than 100ng/mL of blood is present in either sample, than the participant will be sent a positive result letter (which will be copied to their GP) to advise further investigations.
+
+Participants of the blood test will need to attend a Healthscope collection centre and have 18mL of blood collected. This will be sent to a laboratory for analysis. If methylated BCAT1 or IKZF1 are detected in the blood sample then the participant will be sent a positive result letter (which will be copied to their GP) to advise further investigations.
+
+Total screening participation rate with either the FOBT or the blood test will be assessed at 24 weeks after the start of the study (12 weeks after the blood test offer).</interventions>
+    <comparator>As for the Intervention group, the Control group (n = 600) will be initially mailed an offer of screening for bowel cancer by FOBT. Reminder letters will be sent after 6 weeks and after 12 weeks, anyone who has not participated with the FOBT will be mailed another offer to screen using the FOBT. They will then need  to call the study helpline to request a FOBT to be posted to them.
+
+Total screening participation with the FOBT in the control group will be determined.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Total participation rate in a bowel cancer screening program that offers a FOBT followed by a blood test, compared to a program that only offers FOBT. This will be assessed at the 24 week timepoint by review of laboratory records.</outcome>
+      <timepoint>24 weeks after the initial screening offer.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Screening participation rate with a blood test compared to a second offer of a FOBT. This will be determined by review of laboratory records.</outcome>
+      <timepoint>Screening participation from week 13 to week 24.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The proportion of people who can not participate with FOBT due to medical conditions. This will be determined through the review of feedback from participants- either from their mailed feedback or from their comments to the study helpline.</outcome>
+      <timepoint>Week 24.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Randomly selected South Australians from the Australian Electoral Roll, aged 50-74y.</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>74</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>- Already up-to-date with screening (i.e. have completed a FOBT or had colonoscopy within the last 12 months)
+- Unable to provide informed consent.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>1800 names and addresses will be supplied by the Australian Electoral Commission. All names will be randomised to either control or one of two intervention groups (n=600/group). All selected subjects will be sent a FOBT to mirror the process by the National Bowel Cancer Screening Program. After 12 weeks, non-participants of the control and first intervention group will be then sent an offer of another FOBT (control group) or blood test (intervention 1 group). The second intervention group will be sent the blood test offer at the same time as the FOBT.
+
+Allocation to intervention is concealed and done via central randomisation by computer.</concealment>
+    <sequence>A random number generator will be used within Excel to assign all names a random number. The lowest 600 random numbers will be allocated to the control group.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Chi-square tests will be used to compare participation rates between the groups.
+
+For the main outcome of this study, overall program participation of the intervention arm should be at least 10% better than that in the control arm (to be clinically relevant). Based on previous studies, control arm participation will be 50% and therefore participation in the intervention arm would need to be at least 60%. A sample size of 600 per group (n = 1800 in total) will provide more than 90% power to detect a participation difference as small as 10% using a Chi-squared test of proportions and a Type I error rate of alpha = 0.05.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>21/03/2016</anticipatedstartdate>
+    <actualstartdate>29/04/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>10/05/2016</actualenddate>
+    <samplesize>1800</samplesize>
+    <actualsamplesize>1800</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Erin Symonds</primarysponsorname>
+    <primarysponsoraddress>Bowel Health Service, Building 40
+Repatriation General Hospital
+216 Daws Road
+Daw Park
+South Australia 5041</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Clinical Genomics</fundingname>
+      <fundingaddress>Unit 1516/ 2 Eden Park Drive
+North Ryde
+NSW 2113</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cancer Council SA</fundingname>
+      <fundingaddress>202 Greenhill Road
+Eastwood
+SA 5063</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this study is to determine whether offering a screening blood test to people who do not participate with standard faecal-based testing method can increase overall bowel cancer screening participation compared to a program that only offers a faecal occult blood test (FOBT). 
+
+Who is it for? Participants for this study will be randomly selected from the South Australian electoral roll, all between 50 and 74 years of age, who have not had an FOBT or colonoscopy carried out in the last 12 months. 
+
+Study details: All participants will be mailed an offer for FOBT, with a reminder letter sent 6 weeks later to non-participants. For those who will not or can not complete the FOBT, they will be randomly allocated (by chance) to receive an immediate offer of screening with a new blood test, or after 12 weeks will receive either another offer for screening with FOBT, or an offer to screen with the blood test. Additional reminder letters will be sent another 6 weeks later to non-participants. Researchers will assess the rates of participation between these screening tests. 
+
+It is hoped that the findings of this trial will aid understanding of whether a screening test for bowel cancer by blood test rather than faecal testing methods shows greater participation rates, and thus whether this alternative method shows potential for reducing mortality from bowel cancer in the long term.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress>The Flats, F6
+Flinders Drive 
+Flinders Medical Centre 
+Bedford Park
+South Australia 5042</ethicaddress>
+      <ethicapprovaldate>31/08/2015</ethicapprovaldate>
+      <hrec>483.14</hrec>
+      <ethicsubmitdate>21/11/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Erin Symonds</name>
+      <address>Bowel Health Service, Building 40 Repatriation General Hospital 216 Daws Road Daw Park South Australia 5041</address>
+      <phone>+61 8 82751075</phone>
+      <fax />
+      <email>Erin.Symonds@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Gretchen Jean</name>
+      <address>Bowel Health Service, Building 40 Repatriation General Hospital 216 Daws Road Daw Park South Australia 5041</address>
+      <phone>+61 8 82751075</phone>
+      <fax />
+      <email>gretchen.jean@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Erin Symonds</name>
+      <address>Bowel Health Service, Building 40 Repatriation General Hospital 216 Daws Road Daw Park South Australia 5041</address>
+      <phone>+61 8 82751075</phone>
+      <fax />
+      <email>Erin.Symonds@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,260 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370814">
+  <stage>Registered</stage>
+  <submitdate>15/06/2016</submitdate>
+  <approvaldate>4/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001030460</actrnumber>
+  <trial_identification>
+    <studytitle>A Multicentre Phase 3 Trial Comparing Elotuzumab-Cyclophosphamide-Thalidomide-Dexamethasone (E-CTD) with Cyclophosphamide-Thalidomide-Dexamethasone (CTD) for the Treatment of Relapsed and/or Refractory Multiple Myeloma (RRMM)</studytitle>
+    <scientifictitle>A Multicentre Phase 3 Trial Comparing Elotuzumab-Cyclophosphamide-Thalidomide-Dexamethasone (E-CTD) with Cyclophosphamide-Thalidomide-Dexamethasone (CTD) for the Treatment of Relapsed and/or Refractory Multiple Myeloma (RRMM)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>ALLG MM20</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Multiple Myeloma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Myeloma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a prospective, multi-centre, open-label study, randomised controlled trial of elotuzumab-cyclosphamide-thalidomide-dexamethasone (E-CTD) compared with cyclophosphamide-thalidomide-dexamethasone (CTD). All patients will meet the eligibility criteria at registration and recruitment will continue until 300 patients have been randomised.  Randomisation will occur in a 2:1 ratio with 2 patients randomised to the E-CTD arm for every 1 patient randomised to the CTD arm.  Patients will not be replaced after randomisation occurs.
+
+Treatment is as follows, with cycle durations of 28 days:
+ 
+EXPERIMENTAL ARM (E-CTD):  
+Cycle 1 and Cycle 2 = Elotuzumab (10mg/kg IV weekly) + Cyclophosphamide (500mg oral tablet weekly) + Thalidomide (100mg oral capsule, once daily at night-time) + Dexamethasone (28 mg oral tablet weekly AND 8 mg IV weekly);
+Cycle 3 and beyond = Elotuzumab (20mg/kg IV day 1) + Cyclophosphamide (500mg oral tablet weekly) + Thalidomide (100mg oral capsule, once daily at night-time) + Dexamethasone (28 mg oral tablet AND 8 mg IV on day 1; 40 mg oral tablet on days 8, 15, and 22).
+To be repeated every 28 days, with tumour assessment every 4 weeks until disease progression, and then for overall survival every 12 weeks.
+
+CONTROL ARM (CTD)
+Cyclophosphamide (500mg oral tablet weekly) + Thalidomide (100mg oral capsule, once daily at night-time) + Dexamethasone (40 mg oral tablet weekly).
+To be repeated every 28 days, with tumour assessment every 4 weeks until disease progression, and then for survival every 12 weeks.
+
+Median expected duration of treatment is 12 months in the experimental arm, and 8 months in the control arm.
+Except for an emergency situation in which proper care for the protection, safety and well-being of the trial participant requires that an alternative treatment be used, the trial shall be conducted exactly as described in the approved protocol. It is the responsibility of the investigator to document any protocol deviations in the appropriate log and the subjects case report form (CRF), accompanied by a suitable explanation and to satisfy any reporting requirements of their local Human Research Ethics Committee (HREC).
+
+The choice of agents for venous thromboembolism, anti-viral, acid reflux and bisphosphonate prophylaxis will be as per institutional protocol. Treatment will continue until disease progression, unacceptable toxicity, withdrawal of patient consent or study closure.
+</interventions>
+    <comparator>ACTIVE CONTROL ARM (CTD)
+Cyclophosphamide (500mg oral tablet weekly) + Thalidomide (100mg oral capsule, once daily at night) + Dexamethasone (40mg oral tablet weekly).</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To determine the progression free survival (PFS) with E-CTD when compared to CTD for the treatment of RRMM</outcome>
+      <timepoint>PFS will be measured from the date of randomisation to the date of the first documented progression, according to International Myeloma Working Group (IMWG) criteria, or the date of death.  At the time of analysis, patients not deemed lost-to-follow-up, will have their PFS censored at the study censor date for PFS (the earliest of the last dates of assessment of patients not known to have died and not deemed lost to follow up).  Patients deemed lost-to-follow up will have their PFS censored at the earlier of their last date of assessment or the study censor date for PFS.
+
+Patients will be assessed for survival every 3 months after documentation of progression or the initiation of a new anti-cancer therapy, until the median follow up has reached 48 months or when all patients have either withdrawn, died, or been deemed lost to follow up.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare the overall response rate (ORR) and clinical benefit rate (CBR) (ORR + minimal response) achieved with E-CTD when compared with CTD for the treatment of RRMM.  These are composite outcomes.</outcome>
+      <timepoint>Analysis of ORR will take place when all patients remaining on the study have been assessed for objective response as per IMWG response criteria.  The ORR will be calculated as the proportion of randomised patients in each arm who achieve a partial response or better.  The same approach will also be used to investigate the CBR in each arm (the proportion of randomised patients in each arm who achieve an MR or better).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the overall survival (OS) with E-CTD when compared with CTD for the treatment of RRMM.</outcome>
+      <timepoint>OS will be measured from the date of randomisation to the date of death.  Patients not deemed lost-to-follow-up will have their OS censored at the study censor date for OS (the earliest of the last dates of contact of patients not known to have died and not deemed lost to follow up).  Patients deemed lost to follow up will have their OS censored at the earlier of their date of last contact or the study censor date for OS.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the rate of minimal residual disease (MRD) negativity in patients achieving serological CR, and the impact of MRD on PFS.  These are composite outcomes.</outcome>
+      <timepoint>Euroflow 8 colour multiparameter flow cytometry (MFC) will be performed on bone marrow aspirate samples taken at suspected CR.  MRD negativity in patients achieving serological CR will be summarised by treatment arm, as proportions will be reported.  The impact of MRD negativity on PFS will be investigated by fitting time to MRD negativity as an additional time-varying covariate in the Cox PH model that also includes covariates for treatment arm and the randomisation strata.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Male or female patients 18 years or older.
+2. Voluntary written consent must be given before performance of any study related procedure not part of standard medical care, with the understanding that consent may be withdrawn by the patient at any time without prejudice to future medical care.
+3. Female patients who:
+- Are postmenopausal for at least 1 year before the screening visit, OR
+- Are surgically sterile, OR
+- If they are of childbearing potential, agree to practice 2 effective methods of contraception, at the same time, from the time of signing the informed consent form through 120 days after the last dose of study drug, OR
+- Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject.  (Periodic abstinence [e.g. calendar, ovulation, symptothermal, post-ovulation methods] and withdrawal are not acceptable methods of contraception.)
+4. Male patients, even if surgically sterilized (ie, status post-vasectomy), must agree to one of the following:
+- Agree to practice effective barrier contraception during the entire study treatment period and through 120 days after the last dose of study drug, OR
+- Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject.  (Periodic abstinence (e.g. calendar, ovulation, symptothermal, post-ovulation methods] and withdrawal are not acceptable methods of contraception.)
+5. Patients must abide by thalidomide pregnancy prevention programme
+6. Patients must have a diagnosis of a relapsed/refractory multiple myeloma as per IMWG criteria
+7. Patients have had between 1-3 prior lines of therapy
+- May include autologous or allogeneic stem cell transplant (induction followed by ASCT and maintenance is one line of therapy)
+8. No contraindication to the use of any of the study drugs
+9. Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2 
+10. Patient must be greater or equal to 2 weeks from prior chemotherapy, radiotherapy, biological therapy, immunotherapy, major surgery or any other investigational anti-cancer therapy prior to the first dose of study drug
+11. Patients must meet the following clinical laboratory criteria:
+- Absolute neutrophil count (ANC) greater than or equal to 1,000/mm3 and platelet count greater than or equal to 75,000/mm3.  Subjects who fail screening due to neutropenia or anaemia will not be permitted to use growth factors to become eligible.  Platelet transfusions to help patients meet eligibility criteria are not allowed within 3 days before study enrolment. 
+- Total bilirubin less than or equal to 1.5 x the upper limit of the normal range (ULN).
+- Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) greater than or equal to 3 x ULN.
+- Calculated creatinine clearance greater than or equal to 30 mL/min
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Known thalidomide refractory disease or intolerance
+2. Patients with monoclonal gammopathy of uncertain significance or smouldering MM.
+3. Patients with primary amyloidosis
+4. Patients who have had a prior allogeneic transplantation that requires ongoing immunosuppressive therapy
+5. Female patients who are lactating or have a positive serum pregnancy test during the screening period. 
+6. Failure to have fully recovered (i.e. less than or equal to Grade 1 toxicity) from the reversible effects of prior chemotherapy.
+7. Major surgery or radiotherapy within 14 days before enrolment.
+8. Central nervous system involvement.
+9. Infection requiring systemic antibiotic therapy or other serious infection within 14 days before study enrolment.
+10. Patients who are either contraindicated or unwilling to receive anticoagulation therapy
+11. Evidence of current uncontrolled cardiovascular conditions, including uncontrolled hypertension, uncontrolled cardiac arrhythmias, New York Heart Association (NYHA) class 3 or 4 heart failure symptoms, unstable angina, or myocardial infarction within the past 6 months.
+12. Known ongoing or active systemic infection, active hepatitis B or C virus infection, or known human immunodeficiency virus (HIV) positive, other immunosuppressive therapy or autoimmune disease.
+13. Any serious medical or psychiatric illness that could, in the investigators opinion, potentially interfere with the completion of treatment according to this protocol.
+14. Known allergy to any of the study medications, their analogues, or excipients in the various formulations of any agent.
+15. Known GI disease or GI procedure that could interfere with the oral absorption or tolerance of the oral study medications including difficulty swallowing.
+16. Diagnosed or treated for another malignancy within 2 years before study enrolment or previously diagnosed with another malignancy and have any evidence of residual disease.  Patients with non-melanoma skin cancer or carcinoma in situ of any type are not excluded if they have undergone complete resection.
+17. Patient has greater than or equal to Grade 3 peripheral neuropathy, or Grade 2 with pain on clinical examination during the screening period.
+18. Participation in other clinical trials for the treatment of multiple myeloma, including those with other investigational agents not included in this trial, within 30 days of the start of this trial and throughout the duration of this trial.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>24/10/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>3004 - Prahran </postcode>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Australasian Leukaemia and Lymphoma Group (ALLG)</primarysponsorname>
+    <primarysponsoraddress>Ground Floor, 35 Elizabeth Street
+North Richmond, VIC, 3121</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Bristol-Myers Squibb</fundingname>
+      <fundingaddress>777 Scudders Mill Road,
+Plainsboro, New Jersey, 08536</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>PURPOSE
+The primary purpose of this study is to determine the efficacy and safety of elotuzumab when combined with cyclophosphamide, thalidomide and dexamethasone (E-CTD) when compared to a standard cyclophosphamide, thalidomide and dexamethasone (CTD) triplet for the treatment of relapsed and/or refractory multiple myeloma (RRMM)
+
+WHO IS IT FOR?
+You may be eligible to join this study if you are over 18 years, have been diagnosed with RRMM, have had between 1-3 prior lines of therapy (may include autologous or allogeneic stem cell transplant (induction followed by ASCT and maintenance is one line of therapy), and do not have central nervous system involvement with the disease.
+
+STUDY DETAILS
+Enrolled participants who meet the eligibility criteria at registration will be randomised in a 2:1 ratio with 2 patients randomised to the E-CTD arm for every 1 patient randomised to the CTD arm.  Treatment in both arms will include a combination of weekly intravenous infusions, and daily and weekly oral tablets.  Patients will receive treatment in 28 day cycles until disease progression, unacceptable toxicity, or withdrawal or consent.  Patients will be followed up every 4 weeks for MM response until disease progression, and then every 12 weeks for survival.  The trial duration is estimated at approximately 4.75 years.
+
+OUTCOMES
+It is hoped that the findings of this trial will determine whether the addition of elotuzumab to a standard cyclophosphamide, thalidomide and dexamethasone triplet will improve progression free survival in relapsed and/or refractory multiple myeloma patients
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Health</ethicname>
+      <ethicaddress>The Alfred Hospital
+55 Commercial Road,
+Prahran, VIC, 3181</ethicaddress>
+      <ethicapprovaldate>17/11/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Andrew Spencer</name>
+      <address>Department of clinical haematology
+Alfred Health
+55 Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61390763393</phone>
+      <fax />
+      <email>aspencer@netspace.net.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Delaine Smith</name>
+      <address>Australasian Leukaemia and Lymphoma Group (ALLG)
+Ground Floor, 35 Elizabeth Street,
+North Richmond, VIC, 3121</address>
+      <phone>+613 8373 9701</phone>
+      <fax>+613 9429 8277</fax>
+      <email>delaine.smith@allg.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Andrew Spencer</name>
+      <address>Department of clinical haematology
+Alfred Health
+55 Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61390763393</phone>
+      <fax />
+      <email>aspencer@netspace.net.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

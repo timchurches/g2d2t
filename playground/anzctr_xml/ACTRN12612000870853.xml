@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362850">
+  <stage>Registered</stage>
+  <submitdate>2/08/2012</submitdate>
+  <approvaldate>16/08/2012</approvaldate>
+  <actrnumber>ACTRN12612000870853</actrnumber>
+  <trial_identification>
+    <studytitle>Catheter-associated bloodstream infections in adults with cancer: A prospective randomised controlled trial.</studytitle>
+    <scientifictitle>A phase III randomised study to assess the risk of catheter-associated blood stream infections between the dominant and non-dominant arm in adults with cancer.</scientifictitle>
+    <utrn />
+    <trialacronym>CABSI</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Catheter-associated blood stream infection in cancer patients</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is the randomisation to insert the central venous access device (CVAD) to either side of the body. The comparison is between two interventions of dominant or non-dominant side of the body.</interventions>
+    <comparator>Central line inserted on the dominant side of the body / central line inserted on the non-dominant side of the body</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>CA-BSI is defined according to the Australian Infection Control Association (Auricht, 2001) based on criteria from the National Nosocomial Infections Surveillance System from the CDC Atlanta, USA (Gaynes, 1996) and from the Public Health Laboratory Service of the UK (Glynn, 1997). CA-BSI are identified when: (a) the patient had a recognised pathogen isolated from one or more blood cultures (e.g. Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Klebsiella species, Proteus species, Candida albicans); or (b) the patient had at least one of the following signs and symptoms within 24 hours of a positive blood culture being collected (fever &gt; 38 degrees celsius, chills, rigors, hypotension), and at least one of the following: isolation of a common skin commensal (e.g. diptheroids, coagulase negative staphylococci, Micrococcus sp, Propionbacterium species, Bacillus species)  from two or more blood culture sets drawn on separate occasions within a 48 hour period; or isolation of a common skin contaminant from a single blood culture and appropriate antimicrobial therapy is commenced. In addition to (a) and (b) above, the CVAD must have been present within 48 hours of the event and the organism must not be related to an infection at another site. When first detected, all positive blood culture results will be communicated by telephone to the treating physician by the laboratory staff and likely relationship to any intravenous line documented. In the event of multiple episodes of positive cultures during the lifespan of a single CVAD, the first episode of CA-BSI will be regarded as the single CA-BSI episode for the purposes of this study.</outcome>
+      <timepoint>The primary endpoint is the CA-BSI rate defined as the number of CA-BSI divided by the number of central line days during the study period, multiplied by 1000. . Patients will continue on study until development of CA-BSI, removal of CVAD or 3 months after the last patient is enrolled.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>A secondary hypothesis is that insertion of CVAD into the non-dominant side of haematology-oncology patients will reduce the risk of catheter related bloodstream infection (CR-BSI) compared to insertion of CVAD into the dominant side. CR-BSI (Mermel, 2009) is defined as per CA-BSI but with additional isolation of the same organism from culture of the CVAD tip (roll tip method (Maki, 1977)) or growth of microbes from a blood sample drawn from a catheter hub at least 2 h before microbial growth is detected in a blood sample obtained from a peripheral vein (differential time to positivity criteria) (Mermel, 2009).</outcome>
+      <timepoint>Catheter-related blood stream infection (CR-BSI) rate: defined as the number of CR-BSI divided by the number of central line days during the study period, multiplied by 1000. Patients will continue on study until development of CA-BSI, removal of CVAD or 3 months after the last patient is enrolled</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Provision of informed consent
+2. Inpatients or outpatients with cancer who need to have a CVAD inserted</inclusivecriteria>
+    <inclusiveminage>15</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Contraindication to CVAD insertion on one side of the body. This may include:
+* patients with breast cancer where there is a preference to insert CVADs in a particular side
+* prior line related thrombosis where there is a preference to insert CVADs in a particular side
+* prior difficult line insertion where there is a preference to insert CVADs in a particular side
+* any other medical reason where the patients physician or interventional radiologist believes that insertion on one side is contraindicated
+
+2. Implantable ports will not be included in the study 
+3. Peripheral venous catheters are excluded</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be those in whom the decision has been made that they require a central line, who have consented
+to have that line inserted, and who can have a line inserted on either side of the body. Participants will then have the study explained to them and after having any questions answered will be asked to give informed consent to having their line inserted on the dominant or non-dominant side of the body as determined by a randomisation process.</concealment>
+    <sequence>Patients consenting to the study will be randomly allocated to either dominant or non-dominant-side CVAD insertion. Randomisation will be performed using a series of sealed opaque envelopes. Trained nursing staff accessing the computer will need to input all relevant patient information before the computer can complete the randomisation procedure and allocate treatment. Due to the large sample size stratification will not be required prior to randomisation (Kernan, 1999). Any chance imbalances that do occur in important subgroups will be accounted for at the analysis stage using post-stratification. There will be three hospital departments where insertion of CVADs is performed: the Radiology Department at Princess Alexandra Hospital, the Radiology Department at Royal Brisbane and Women's Hospital and the Infectious Disease Department at Royal Brisbane and Women's Hospital.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>A power analysis based on 80% power and 5% level of significance shows that 1250 lines will be required to show a 60% relative difference in the infection rate in the two treatment arms. This calculation assumes a Cox proportional hazards regression model and event rate of 11.4%, hence 143 events are expected. Based on the line insertion rate from the Princess Alexandra Hospital Haematology-Oncology Unit observational study it would take three and a half years to accumulate 1250 lines. In addition it is expected that a proportion of patients will not consent or will not be eligible to be involved in the proposed RCT. With two sites it is envisaged that it will take approximately two years to recruit sufficient patients into the study and that follow up will continue for up to a further three months after recruitment has stopped (CA-BSI is rare after a CVAD has been inserted for longer than 3 months). We plan to have an interim analysis at the halfway point in the trial so that, among other things, we can check the assumptions of our power analysis to ensure we will have sufficient numbers to answer the primary study question.</designfeatures>
+    <endpoint>Safety</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1250</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <postcode>4102</postcode>
+    <postcode>4069</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Metro South Hospital and Health Service</primarysponsorname>
+    <primarysponsoraddress>Princess Alexandra Hospital
+Ipswich Road
+Woolloongabba  QLD  4102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cancer Council Queensland</fundingname>
+      <fundingaddress>PO Box 201
+Spring Hill QLD 4004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Metro North Hospital and Health Service</sponsorname>
+      <sponsoraddress>Royal Brisbane and Women's Hospital
+Cnr Butterfield St and Bowen Bridge Rd
+Herston  QLD  4029</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to assess whether the side of the body that a central venous line is inserted affects the risk of developing a bloodstream infection in cancer patients. Who is it for? 
+
+You may be eligible to join this study if you are a cancer patient aged 15 years or above, who needs to have a central venous access device (CVAD) inserted. 
+
+Trial details 
+
+Participants in this trial will be randomly (by chance) allocated to one of two groups. Participants in one group will have the CVAD inserted into their dominant arm (i.e. right arm in right-handed people and left arm in left-handed people). Participants in the other group will have the CVAD inserted into their non-dominant arm. There will be no other change to treatment provided. Participants will be monitored to determine the incidence of catheter-associated bloodstream infection (CA-BSI) and catheter-related bloodstream infection (CR-BSI). This will enable us to find out whether the increased movement of the dominant arm might increase the risk of infection.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Metro South Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Centres for Health Research
+Building 35
+Princess Alexandra Hospital
+Ipswich Road
+Woolloongabba QLD 4102</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>HREC/12/QPAH/163</hrec>
+      <ethicsubmitdate>1/05/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Peter Mollee</name>
+      <address>Haematology Department
+Princess Alexandra Hospital
+Ipswich Road
+Woolloongabbaa QLD 4102</address>
+      <phone>+61 7 3176 6379</phone>
+      <fax />
+      <email>peter_mollee@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Adam Stoneley</name>
+      <address>Cancer Trials Unit
+Princess Alexandra Hospital
+Ipswich Road
+Woolloongabbaa QLD 4102</address>
+      <phone>+61 7 3176 5054</phone>
+      <fax>+61 7 3176 2252</fax>
+      <email>pah_cancer_trials@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Adam Stoneley</name>
+      <address>Cancer Trials Unit
+Princess Alexandra Hospital
+Ipswich Road
+Woolloongabbaa QLD 4102</address>
+      <phone>+61 7 3176 5054</phone>
+      <fax>+61 7 3176 2252</fax>
+      <email>pah_cancer_trials@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,666 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1114">
+  <stage>Registered</stage>
+  <submitdate>29/03/2006</submitdate>
+  <approvaldate>29/03/2006</approvaldate>
+  <nctid>NCT00310180</nctid>
+  <trial_identification>
+    <studytitle>Hormone Therapy With or Without Combination Chemotherapy in Treating Women Who Have Undergone Surgery for Node-Negative Breast Cancer (The TAILORx Trial)</studytitle>
+    <scientifictitle>Program for the Assessment of Clinical Cancer Tests (PACCT-1): Trial Assigning Individualized Options for Treatment:The TAILORx Trial</scientifictitle>
+    <utrn />
+    <trialacronym>TAILORx</trialacronym>
+    <secondaryid>NCI-2009-00707</secondaryid>
+    <secondaryid>NCI-2009-00707</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Breast Adenocarcinoma</healthcondition>
+    <healthcondition>Estrogen Receptor and/or Progesterone Receptor Positive</healthcondition>
+    <healthcondition>HER2/Neu Negative</healthcondition>
+    <healthcondition>Stage IA Breast Cancer AJCC v7</healthcondition>
+    <healthcondition>Stage IB Breast Cancer AJCC v7</healthcondition>
+    <healthcondition>Stage IIA Breast Cancer AJCC v6 and v7</healthcondition>
+    <healthcondition>Stage IIB Breast Cancer AJCC v6 and v7</healthcondition>
+    <healthcondition>Stage IIIB Breast Cancer AJCC v7</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Anastrozole
+Treatment: drugs - Exemestane
+Other interventions - Laboratory Biomarker Analysis
+Treatment: drugs - Letrozole
+Other interventions - Quality-of-Life Assessment
+Treatment: other - Radiation Therapy
+Treatment: drugs - Tamoxifen Citrate
+
+Experimental: Group 1 (Oncotype DX recurrence score =&lt; 10) - Patients in this group receive hormone therapy with tamoxifen, anastrozole, letrozole, or exemestane PO for up to 5 years. Some patients then continue to receive hormone therapy for an additional 5 years.
+
+Experimental: Group 2, Arm I (experimental) - Patients receive hormonal therapy as in Group 1 at the discretion of the treating physician.
+
+Active Comparator: Group 2, Arm II (standard) - Patients receive standard combination chemotherapy at the discretion of the treating physician. Within 4 weeks after the last dose of chemotherapy, patients receive hormonal therapy as in Group 1 at the discretion of the treating physician.
+
+Experimental: Group 3 (Oncotype DX recurrence score &gt;= 26) - Patients in this group receive combination chemotherapy followed by hormone therapy similar to the patients in group two who are assigned to receive both types of treatment.
+
+
+Treatment: drugs: Anastrozole
+Given PO
+
+Treatment: drugs: Exemestane
+Given PO
+
+Other interventions: Laboratory Biomarker Analysis
+Correlative studies
+
+Treatment: drugs: Letrozole
+Given PO
+
+Other interventions: Quality-of-Life Assessment
+Ancillary studies
+
+Treatment: other: Radiation Therapy
+Undergo radiation therapy or partial breast irradiation
+
+Treatment: drugs: Tamoxifen Citrate
+Given PO
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Disease-free survival - DFS will be compared using a stratified log rank test.</outcome>
+      <timepoint>Date of randomization or registration to the date of ipsilateral breast tumor recurrence, local/regional recurrence, distant recurrence, second primary cancer (breast or non-breast), or death from any cause, assessed up to 10 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Distant recurrence-free interval - Compared using a stratified log rank test.</outcome>
+      <timepoint>Date of randomization or registration to the date of distant recurrence of breast cancer, or of death with distant recurrence, if death is the first manifestation of distant recurrence, assessed up to 10 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival</outcome>
+      <timepoint>Date of randomization or registration to date of death from any cause, assessed up to 20 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Perceived cognitive function evaluated using the Functional Assessment of Cancer Therapy - Cognitive Function (FACT-COG) version 3 - A t-test comparing the 3-month evaluations will have 90% power for a mean difference of 4.5 points (0.3 standard deviations), allowing a two-sided type I error of 5%. Within the postmenopausal and premenopausal subsets, there will be 90% power to detect a mean difference of 5.7 and 7.35 points (0.38 and 0.49 standard deviations), respectively.</outcome>
+      <timepoint>At 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life measured using FACT-COG, fatigue (FACT-Fatigue and Patient Reported Outcomes Measurement Information System Fatigue SF), fear of recurrence (Assessment of Survivor Concerns), endocrine symptoms (FACT-ES) and HRQL (FACT-General) - Simultaneous confidence intervals for differences over time will be determined from a model where the effects are allowed to vary smoothly over time which gives a reasonable fit to the data. The relationship of cognitive function to outcomes in other domains, such as symptoms of depression and anxiety (assessed by the Hospital Anxiety and Depression Scale) and fatigue (assessed by the FACT fatigue scale) will be evaluated by including the values as (time-dependent) covariates in the longitudinal models.</outcome>
+      <timepoint>Up to 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Recurrence-free interval</outcome>
+      <timepoint>Date of randomization or registration to the date of first recurrence of breast cancer (IBTR, LRR, or DR) or to the date of death with recurrence, if death is the first manifestation of recurrence, assessed up to 20 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Patients with operable histologically confirmed adenocarcinoma of the female breast
+             who have completed primary surgical treatment and meet the following criteria:
+
+               -  ER and/or progesterone receptor (PR)-positive: Estrogen and/or progesterone
+                  receptor positive disease (as defined by local pathology laboratory)
+
+               -  Negative axillary nodes: As assessed by a sentinel lymph node biopsy, an axillary
+                  dissection, or both, and as defined by the Sixth Edition of the American Joint
+                  Committee on Cancer (AJCC) staging criteria
+
+               -  Tumor size 1.1-5.0 cm (or 5 mm-1.0 cm plus unfavorable histological features):
+
+                    -  Unfavorable features defined as intermediate or poor nuclear and/or
+                       histologic grade, or lymphovascular invasion
+
+                    -  NOTE: Definition of tumor size: The tumor size used for determination of
+                       eligibility is the pathologic tumor size, which is usually determined by the
+                       size of the tumor as measured by inspection of the gross specimen; if the
+                       tumor size is measured microscopically and the tumor includes ductal
+                       carcinoma in-situ, the measurement should include only the invasive
+                       component of the tumor
+
+               -  The tumor must be human epidermal growth factor receptor 2 (Her2)/neu negative by
+                  either fluorescent in-situ hybridization (FISH) or immunohistochemistry (e.g. 0
+                  or 1+ by DAKO Herceptest)
+
+          -  The patient and physician must be agreeable to initiate standard chemotherapy and
+             hormonal therapy as adjuvant therapy
+
+          -  A tissue specimen from the primary breast cancer has been located and is ready to be
+             shipped to the appropriate laboratory after consent is obtained and within 3 days
+             following pre-registration; NOTE: For determination of the Oncotype Recurrence Score,
+             tissue must be shipped to Genomic Health; if the Oncotype DX Recurrence Score was
+             previously performed by Genomic Health (prior to pre-registration), tissue must be
+             submitted to the Eastern Cooperative Oncology Group (ECOG)-American College of
+             Radiology Imaging Network (ACRIN) Central Biorepository and Pathology Facility upon
+             randomization
+
+          -  Leukocyte count &gt;= 3500/mm^3
+
+          -  Platelets &gt;= 100,000/mm^3
+
+          -  Serum creatinine =&lt; 1.5 mg/dL
+
+          -  Serum aspartate transaminase (AST) that is =&lt; 3-fold the upper institutional limits of
+             normal
+
+          -  Patients must be disease-free of prior invasive malignancies for &gt;= 5 years with the
+             exception of curatively-treated basal cell or squamous cell carcinoma of the skin or
+             carcinoma in situ of the cervix; patients with a previous ipsilateral or contralateral
+             invasive breast cancer, or with bilateral synchronous cancers, are not eligible;
+             patients with previous ipsilateral or contralateral ductal in situ carcinoma (DCIS)
+             are not eligible
+
+          -  Prior treatment
+
+               -  Mandatory prior surgery criteria:
+
+                    -  Patient must pre-register within 84 days from the final surgical procedure
+                       required to adequately treat the primary tumor (please note that if margins
+                       are not clear and a resection has to be conducted after pre-registration but
+                       before randomization, the patient will be deemed to be within the 84 day
+                       window allowed by protocol and therefore eligible)
+
+                    -  All tumors should be removed by either a mastectomy or local excision plus
+                       an acceptable axillary procedure (i.e., sentinel lymph node biopsy, axillary
+                       dissection, or both); there must be adequate (at least 1 mm if margin width
+                       specified) tumor-free margins of resection (for invasive and ductal
+                       carcinoma in-situ) in order for the patients to be eligible; patients with
+                       lobular carcinoma in-situ involving the resection margins are eligible
+
+               -  Criteria re: other prior treatments:
+
+                    -  No prior chemotherapy for this malignancy
+
+                    -  No prior radiation therapy for this malignancy; this includes no prior
+                       MammoSite Brachytherapy radiation therapy (RT)
+
+                    -  Hormonal therapy: Patients who develop breast cancer while receiving a
+                       selective estrogen-receptor modulator (SERM; e.g., tamoxifen, toremifene,
+                       raloxifene) or an aromatase inhibitor (e.g., anastrazole, letrozole,
+                       exemestane) for breast cancer prevention or a SERM for other indications
+                       (e.g., raloxifene for osteoporosis) are not eligible; however, patients may
+                       have received up to 8 weeks of a SERM or aromatase inhibitor for this
+                       malignancy and still be eligible for study entry
+
+          -  Patients must have an anticipated life expectancy of at least 10 years
+
+          -  Patients with the following medical conditions should not be enrolled on the study:
+
+               -  Chronic obstructive pulmonary disease requiring treatment
+
+               -  Chronic liver disease (e.g., cirrhosis, chronic active hepatitis)
+
+               -  Previous history of a cerebrovascular accident
+
+               -  History of congestive heart failure or other cardiac disease that would represent
+                  a contraindication to the use of an anthracycline (e.g., doxorubicin or
+                  epirubicin)
+
+               -  Chronic psychiatric condition or other condition that would impair compliance
+                  with the treatment regimen
+
+          -  Women must not be pregnant or breast-feeding; all females of childbearing potential
+             must have a blood test or urine study within 2 weeks prior to pre-registration to rule
+             out pregnancy
+
+               -  Women of childbearing potential must be strongly advised to utilize an accepted
+                  and effective form of non-hormonal contraception (e.g. intrauterine device,
+                  condoms, diaphragm, abstinence)
+
+          -  Patients must not have previously had the Oncotype DX Assay performed, with the
+             exception of patients who have had the assay performed and have a recurrence score of
+             11-25</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Female</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>7/04/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>11248</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,TAS,VIC,WA</recruitmentstate>
+    <hospital>Border Medical Oncology - Albury</hospital>
+    <hospital>Coffs Harbour Health Campus-North Coast Cancer Institute - Coffs Harbour</hospital>
+    <hospital>Concord Repatriation General Hospital - Concord</hospital>
+    <hospital>Lismore Base Hospital - Lismore</hospital>
+    <hospital>Lingard Private Hospital - Merewether</hospital>
+    <hospital>Calvary Mater Newcastle Hospital - Waratah</hospital>
+    <hospital>Royal Brisbane and Women's Hospital - Herston</hospital>
+    <hospital>Nambour Hospital - Nambour</hospital>
+    <hospital>Royal Hobart Hospital - St. Hobart</hospital>
+    <hospital>Breast Unit-Mercy Private - East Melbourne</hospital>
+    <hospital>Epworth Hospital - Richmond</hospital>
+    <hospital>Saint John of God Hospital - Bunbury - Bunbury</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <postcode>2640 - Albury</postcode>
+    <postcode>2450 - Coffs Harbour</postcode>
+    <postcode>2139 - Concord</postcode>
+    <postcode>2480 - Lismore</postcode>
+    <postcode>2191 - Merewether</postcode>
+    <postcode>2310 - Waratah</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>4560 - Nambour</postcode>
+    <postcode>7000 - St. Hobart</postcode>
+    <postcode>3002 - East Melbourne</postcode>
+    <postcode>3121 - Richmond</postcode>
+    <postcode>6230 - Bunbury</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alaska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wyoming</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>New Brunswick</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Cork</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Galway</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Limerick</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Sligo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Co Waterford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Cork</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Letterkenny</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Hamilton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Lima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>San Juan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Northern Ireland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>National Cancer Institute (NCI)</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>American College of Surgeons</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Cancer and Leukemia Group B</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>NSABP Foundation Inc</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>NCIC Clinical Trials Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>North Central Cancer Treatment Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Southwest Oncology Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This randomized phase III trial studies the best individual therapy for women who have
+      node-negative, estrogen-receptor positive breast cancer by using a special test (Oncotype
+      DX), and whether hormone therapy alone or hormone therapy together with combination
+      chemotherapy is better for women who have an Oncotype DX recurrence score of 11-25. Estrogen
+      can cause the growth of breast cancer cells. Hormone therapy may fight breast cancer by
+      blocking the use of estrogen by the tumor cells or by lowering the amount of estrogen the
+      body makes. Drugs used in chemotherapy work in different ways to stop the growth of tumor
+      cells, either by killing the cells, by stopping them from dividing, or by stopping them from
+      spreading. Giving hormone therapy together with more than one chemotherapy drug (combination
+      chemotherapy) has been shown to reduce the chance of breast cancer recurrence, but the
+      benefit of adding chemotherapy to hormone therapy for women with node-negative,
+      estrogen-receptor positive breast cancer is small. New tests may provide information about
+      which patients are more likely to benefit from chemotherapy.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00310180</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Joseph Sparano</name>
+      <address>ECOG-ACRIN Cancer Research Group</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

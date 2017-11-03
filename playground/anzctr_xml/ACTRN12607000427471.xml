@@ -1,0 +1,409 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="81969">
+  <stage>Registered</stage>
+  <submitdate>18/04/2007</submitdate>
+  <approvaldate>22/08/2007</approvaldate>
+  <actrnumber>ACTRN12607000427471</actrnumber>
+  <trial_identification>
+    <studytitle>Radiation Therapy or Temozolomide in Treating Patients With Gliomas</studytitle>
+    <scientifictitle>Trans Tasman Radiation Oncology Group (TROG) 06.01 - Primary Chemotherapy With Temozolomide Versus Radiotherapy in Patients With Low Grade Gliomas After Stratification for Genetic 1p Loss: A Phase III Study to demonstrate a difference in progression free survival.</scientifictitle>
+    <utrn />
+    <trialacronym>TROG 06.01</trialacronym>
+    <secondaryid>Clinicaltrials.gov: NCT00182819</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Brain and Central Nervous System Tumors</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Brain</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm B: Temozolomide administered orally 75 mg/m2 daily x 21 days (one cycle), q 28 days until progression or for max. 12 cycles (experimental arm)</interventions>
+    <comparator>Arm A: Radiotherapy (control arm), 50.4 Gy, standard fractionation (28 fractions
+x 1.8 Gy, 5 days per week, duration is 6 weeks), conformal techniques</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression Free Survival (PFS) - PFS is the time interval between the date of randomization and the date of disease progression or death, whichever comes first. If neither event has been observed, then the patient is censored at the date of the last follow up examination.</outcome>
+      <timepoint>The first follow-up (FU) will be performed 3 months after the start of therapy, then at 3-monthly intervals until progression. After progression patients are followed every 6 months for survival until death.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival</outcome>
+      <timepoint>Measured every 3 months until progression and then every 6 months until death</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life</outcome>
+      <timepoint>Measured by QLQ-C30 v3.0 and EORTC BN-20 every 3 months until progression, and then every 6 months until death</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mini Mental State Examination</outcome>
+      <timepoint>Measured every 3 months until progression and then every 6 months until death</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse Events</outcome>
+      <timepoint>As measured by CTCAE v3.0 every 3 months until progression and then every 6 months until death.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>At registration:
+- Histologically proven low grade diffuse glioma astrocytoma WHO grade II (gemistocytic, fibrillary and protoplasmatic)
+oligoastrocytoma WHO grade II oligodendroglioma WHO II
+- Supratentorial location only
+- WHO performance status = 2
+- Not candidate for treatment exclusively by surgery
+- RTOG neurological function 0-3
+- Results of genetic testing (1p) available
+- Adequate haematological, renal and hepatic function
+- Histopathologic slides available for central pathology review
+- Tumour material (paraffin-embedded) and blood available for molecular testing
+- Written informed consent
+At randomisation:
+Same as above PLUS
+- Requiring treatment as demonstrated by at least one of the following criteria (1-4):
+1. Age = 40 years
+2. Radiologically proven progressive lesion
+3. New or worsening neurological symptoms other than seizures only (focal deficits, signs of raised intracranial pressure, mental deficits)
+4. Intractable seizures, defined as having both:
+persistent seizures interfering with everyday life activities other than driving a car
+AND
+failed three lines of anti-epileptic drug regimen, including at least one combination regimen
+- RTOG Neurological Function 0-3
+- Not candidate for treatment exclusively with surgery
+- Must have recovered from any prior surgery
+- 1p test result available (for stratification: 1p deleted versus 1p normal versus undeterminable)
+- Baseline quality of life questionnaires (QLQ-C30 + BN20) completed
+- Prepared to use effective contraception for the duration of the treatment and for 6 months after(applies to all patients with reproductive potential - male and female)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>-2147483648</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Previous irradiation of the brain
+- Previous chemotherapy
+- Previous or concurrent malignancies at other sites with the exception of surgically cured carcinoma in-situ of the cervix and non-melanoma skin cancer
+- Known HIV infection, chronic hepatitis B or hepatitis C infection
+- Any other serious medical contraindication as per the judgment of the treating physician
+- Any medical condition which could interfere with oral medication intake (e.g. frequent vomiting, partial bowel obstruction)
+- Female pregnant or lactating
+- Any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule as discussed with the patient before randomization</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>central randomisation by phone /computer</concealment>
+    <sequence>Simple Randomisation by computer. Stratified allocation. Factors: institution, 1p deleted versus 1p normal versus undeterminable, contrast enhancement: +/- contrast on MRI, age: &lt;40 years versus = 40 years, WHO performance status: 0 or 1 versus 2.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/07/2005</anticipatedstartdate>
+    <actualstartdate>29/05/2007</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>26/03/2010</actualenddate>
+    <samplesize>699</samplesize>
+    <actualsamplesize>709</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/09/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Egypt</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Luxembourg</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Egypt</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Luxembourg</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>European Organisation for Research and Tretment of Cancer (EORTC)  </primarysponsorname>
+    <primarysponsoraddress>Avenue Mounierlaan, 83/11 Brussel 1200 Bruxelles   </primarysponsoraddress>
+    <primarysponsorcountry>Belgium</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>European Organisation for Research and Tretment of Cancer (EORTC)</fundingname>
+      <fundingaddress>Avenue Mounierlaan, 83/11
+Brussel 1200 Bruxelles</fundingaddress>
+      <fundingcountry>Belgium</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>Trans Tasman Radiation Oncology Group (TROG)</sponsorname>
+      <sponsoraddress>Edith St Waratah NSW 2298</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>National Cancer Institute of Canada – Clinical Trials Group (NCIC CTG)</othercollaboratorname>
+      <othercollaboratoraddress>10 Stewart St
+Kingston, ON, 
+K7L 3N6</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>Medical Research Council – National Cancer Research Institute (MRC-NCRI)</othercollaboratorname>
+      <othercollaboratoraddress>One Kemble Street, London WC2B 4AN</othercollaboratoraddress>
+      <othercollaboratorcountry>United Kingdom</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>National Cancer Institute of Canada – Clinical Trials Group (NCIC CTG)</othercollaboratorname>
+      <othercollaboratoraddress>10 Stewart St
+Kingston, ON, 
+K7L 3N6</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>Medical Research Council – National Cancer Research Institute (MRC-NCRI)</othercollaboratorname>
+      <othercollaboratoraddress>One Kemble Street, London WC2B 4AN</othercollaboratoraddress>
+      <othercollaboratorcountry>United Kingdom</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A randomized study to demonstrate a difference in progression-free survival (PFS) for primary treatment with temozolomide in order to assess: whether PFS and OS can be prolonged by primary chemotherapy with
+temozolomide, whether the incidence of late toxicity can be decreased by using primary chemotherapy, the toxicity profile of the two treatments and the quality of life of the patients
+The impact of 1p deletions in low-grade gliomas: prognostic effect of tumors with deletion on PFS overall and by treatment group. Benefit for patients with LGGs and deletions treated with TMZ compared to
+radiotherapy alone with respect to survival. Interaction between treatment and cytogenetic features.</summary>
+    <trialwebsite>www.trog.com.au</trialwebsite>
+    <publication>Article in scholarly referred journal:
+
+Temozolomide chemotherapy versus radiotherapy in high-risk low-grade glioma. A randomized phase III Intergroup study by EORTC/NCIC-CTG/TROG/MRC-CTU (EORTC 22033-26033) In press, Manuscript Reference THELANCETONCOLOGY-D-16-00595 - 37 authors - Gail Ryan 12th author
+
+Health-related quality of life in high-risk low-grade glioma: results of a randomized controlled trial. In press, Manuscript Reference THELANCETONCOLOGY-D-16-00598R - 26 authors - Gail Ryan 7th author, Michael Back 20th author</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>30/08/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Christchurch Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal North Shore Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Gail Ryan</name>
+      <address>Division of Radiation Oncology
+Peter MacCallum Cancer Centre
+St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+61 3 9656 1111</phone>
+      <fax>+61 3 9656 1424</fax>
+      <email>Gail.Ryan@petermac.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Patrick Wheeler</name>
+      <address>TROG Cancer Research
+CMN, Locked bag 7, HRMC, Newcastle, NSW, 2310</address>
+      <phone>+61 2 401 43903</phone>
+      <fax>+61 2 401 43902</fax>
+      <email>patrick.wheeler@trog.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>TROG Administrator</name>
+      <address>TROG Cancer Research
+Central Operations Office
+PO Box 88
+Waratah NSW 2298</address>
+      <phone>+61 2 4014 3910  </phone>
+      <fax>+61 2 4014 3902</fax>
+      <email>administrator@trog.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Brigitta Baumert</name>
+      <address>Maastricht University Medical Center
+P.O. Box 616
+6200 MD Maastricht 
+</address>
+      <phone>+31 45 5771200</phone>
+      <fax />
+      <email>brigitta.baumert@maastro.nl</email>
+      <country>Netherlands</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

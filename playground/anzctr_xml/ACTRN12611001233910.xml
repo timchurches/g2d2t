@@ -1,0 +1,423 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343258">
+  <stage>Registered</stage>
+  <submitdate>8/08/2011</submitdate>
+  <approvaldate>2/12/2011</approvaldate>
+  <actrnumber>ACTRN12611001233910</actrnumber>
+  <trial_identification>
+    <studytitle>An international collaborative (AIEOP-BFM [Associazione Italiana Ematologia Oncologia Pediatrica - Berlin-Franklin-Munster]) treatment protocol for children and adolescents with Acute Lymphoblastic Leukaemia</studytitle>
+    <scientifictitle>An international collaborative (AIEOP-BFM [Associazione Italiana Ematologia Oncologia Pediatrica - Berlin-Franklin-Munster]) treatment protocol for children and adolescents with Acute Lymphoblastic Leukaemia</scientifictitle>
+    <utrn />
+    <trialacronym>AIEOP-BFM ALL 2009 - Study 9</trialacronym>
+    <secondaryid>EudraCT Number AIEP-BFM ALL 2009: 2007-004270-43</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute lymphoblastic leukemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>These 'Protocols' are chemotherapy treatment phases which all combined constitute 2 years of chemotherapy. The drugs are administered either orally, intravenously, or via intramuscular injsection. 
+
+Patients enrolled on the study will be stratified into 3 treatment groups (standard, medium, and high risk). The stratifications will be determined by certain biologic features of the leukaemia and also by the patients response to treatment. Not all patients will receive every treatment phase - they will receive only those phases tailored to there treatment group. The study also involves 3 randomisations - R1, R2, R-HR. The R1 randomisation is a treatment deintesification for the standard risk group. The R2 and R-HR randomisations will evaluate treatment intensifications for the medium and high risk patient groups. 
+
+
+Protocol IA, IA', and IA-CPM all include the following drugs
+- Prednisone (alternatively prednisolone) p.o or i.v
+- Vincristine i.v
+- Daunorubicin i.v
+- Cyclophosphamide i.v with Mesna
+- PEG-L-Asparaginase i.v
+- Methotrexate intrathecally
+
+Protocol IA-Dexa
+- Dexamethasone p.o. or i.v.
+- Daunorubicin i.v.
+
+Protocol IB
+- Cyclophosphamide i.v give with Mesna
+- Cytarabine i.v. or s.c.
+- 6-Mercaptoprine p.o.
+- Methotrexate intrathecally
+
+Protocol IB-ASP+
+This protocol is the same as protocol 1B with the addtion of PEG-L-Asparaginase i.v
+
+Protocol HR-1 (for all patients in the high risk group)
+- Dexamethasone p.o. or i.v.
+- Vincristine i.v.
+- High-dose Methotrexate i.v
+- Cyclophosphamide i.v given with Mesna
+- High-dose Cytarabine i.v
+- PEG-L-Asparaginase i.v
+- Methotrexate intrathecally during HD-Methotrexate infusion on day 1
+- Granuloctye colony stimulating factor (GCSF) s.c.
+
+Protocol HR-2 (for all patients in the high risk group)
+- Dexamethasone p.o. or i.v.
+- Vindesine i.v.
+- High-dose Methotrexate i.v
+- Ifosfamide i.v given with Mesna
+- Daunorubicin i.v
+- PEG-L-Asparaginase i.v
+- Methotrexate intrathecally given during HD-Methotrexate infusion
+- Granulocyte colony stimulating factor (GCSF) s.c.
+
+Protocol HR-3 (given after HR-2)
+- Dexamethasone p.o. or i.v.
+- High-dose Cytarabine i.v
+- Etoposide i.v
+- PEG-L-Asparaginase i.v
+- Methotrexate intrathecally
+- Granulocyte colony stimulating factor (GCSF) s.c.
+
+Protocol M
+- 6-Mercaptopurine p.o.
+- High-Dose Methotrexate i.v
+- Methotrexate intrathecally
+
+Protocol IIA
+- Dexamethasone p.o. or i.v.
+- Vincristine i.v.
+- Doxorubicin i.v.
+- PEG-L-Asparaginase i.v
+- Methotrexate intrathecally
+
+Protocol IIA-ASP+
+This protocol is the same as IIA but has the addition of PEG-L-Asparaginase i.v.
+
+Protocol IIB
+- Cyclophosphamide i.v.
+- Cytarabine i.v. or s.c.
+- Thioguanine p.o.
+- Methotrexate intrathecally
+
+Protocol IIIA
+- Dexamethasone p.o. or i.v.
+- Vincristine i.v.
+- Doxorubicin i.v.
+- PEG-L-Asparaginase i.v.
+- Methotrexate intrathecally
+
+Protocol IIIB
+- Cyclophosphamide i.v. given with Mesna
+- Cytarabine i.v. or s.c.
+- Thioguaninie p.o.
+- Methotrexate intrathecally
+
+Protocol DNX-FLA (for patients in the high risk group with MRD non-response)
+- Fludarabine i.v.
+- High-dose Cytarabine i.v.
+- Daunoxome i.v.
+- Methotrexate intrathecally
+
+Protocol Interim Maintenance (HR)
+- 6-Mercaptopurine p.o.
+- Methotrexate p.o.
+- Cranial Radiotherapy during the 1st interim maintenance phase only for selected subgroups of patients
+
+Protocol - Maintenance
+- 6-Mercaptopurine p.o.
+- Methotrexate p.o.
+- Methotrexate intrathecally
+- Cranial radiotherapy
+
+Protocol - Maintenance with PEG-L-ASP
+Treatment is the same as the maintenance protocol but has the addition of PEG-L-Asparaginase i.v. for patients randomised into the experimental arm
+
+
+Prednisone
+60 mg/m2/day p.o. or i.v. divided into 3 doses per day, days 1 to 28, Protocol IA, Protocol IA, Protocol IA-CPM
+
+
+Cytarabine
+Protocol IB;75 mg/m2/dose i.v. or s.c. days
+38-41, 45-48, 52-55 and 59-62. Protocol IIB; 75 mg/m2/dose i.v. or s.c. days 38-41, 45-48. HR-3 2mg/m2/dose p.i. (3 h) every 12 hours on days 1 and 2 (4 doses). Protocol IIIB; 75 mg/m2/dose i.v. or s.c. 2 blocks of 4 days each; days17-20, 24-27. DNX-FLA Block; 2 mg/m2/dose p.i. (3 h) every 24 hours on days 1 to 5 (5 doses).
+
+
+Dexamethasone
+Protocol IA; 10 mg/m2/day p.o. or i.v. divided into 3 doses per day, days 8 to 28. Protocol IIA; 10 mg/m2/day p.o. or i.v. divided into 3 doses per day, days 1 to 21. HR-2; 20 mg/m2/day p.o. or i.v. divided into 3 doses per day, days 1 to 5. HR-3; 20 mg/m2/day p.o. or i.v. divided into 3 doses per day, days 1 to 5. Protocol IIIA; 10 mg/m2/day p.o. or i.v. divided into 3 doses per
+day, days 1 to 14 (14 days).
+
+
+Doxorubicin
+Protocol IIA; 30 mg/m2/dose p.i. (1 h) on days 8, 15, 22 and 29. Protocol IIIA; 30 mg/m2/dose p.i. (1 h) on days 1 and 8.
+
+
+Methotrexate
+Protocol IA, Protocol IA, Protocol IA-CPM; Methotrexate intrathecally on day 1, 12, 33. In case of initial CNS status CNS 3 or CNS 2 additional intrathecal methotrexate is given on days 19 and 26. Protocol IB; Methotrexate intrathecally on days 45 and 59. Protocol M; Methotrexate intrathecally on days 8, 22, 36 and 50. 
+Protocol IIA; Methotrexate intrathecally on days 1 and 18 only in patients with initial CNS disease (CNS 3). Protocol IIB; Methotrexate intrathecally on days 38 and 45. Protocol IIIA; Methotrexate intrathecally on day 1 of each Protocol IIIA only in patients with initial CNS disease (CNS 3). Protocol IIIB; Methotrexate intrathecally on days 17 and 24. DNX-FLA; Methotrexate intrathecally on day 1. Age-adjusted dose of intrathecal methotrexate: 1 to &lt; 2 years: 8 mg, 2 to &lt; 3 years: 10 mg, 3 years: 12 mg
+
+HR-1; Methotrexate intrathecally during HD-MTX infusion on day 1. High-Dose Methotrexate 5g/m2/dose p.i. (24 h) on day 1. HR-2; High-Dose Methotrexate 5g/m2/dose p.i. (24 h) on day 1.  Methotrexate intrathecally during HD-MTX infusion on day 1. Only in case of initial CNS involvement another dose is given on day 5. HR-3; Methotrexate intrathecally on day 1. 
+
+Maintenance; Methotrexate 20 mg/m2/dose p.o. once a
+week. Methotrexate intrathecally, beginning at week 6 every 6 weeks up to a total of 6 doses is given to the following subgroups (all CNS status CNS 1 or CNS 2):
+- T-ALL with &lt; 2 years of age at start of maintenance,
+- T-ALL, non-HR and initial WBC &lt; 100 000/µl
+- pB-ALL with PPR and/or FCM-MRD day 15 10 % and/or
+PCR-MRD-MR SER as only HR criteria
+
+
+PEG-asparaginase - Protocol IA, Protocol IA, Protocol IA-CPM; 2 500 IU/m2/dose p.i. (2 h) on days 12 and 26  (maximal single dose 3 750 IU). Protocol IB-ASP+; 2 500 IU/m2/dose p.i. (2 h) on days 40 , 47, 54, and 61 (maximal single dose 3 750 IU). Protocol IIA; 2 500 IU/m2/dose p.i. (2 h) on day 8 (maximal single dose 3 750 IU). Protocol IIA-ASP+; 2 500 IU/m2/dose p.i. (2 h) (maximal single dose 3 750 IU/) at days 8 and 22. Protocol IIB-ASP+; 2 500 IU/m2/dose p.i. (2 h) on day 36 and 50 (maximal single dose 3 750 IU). HR-1; 2 500 IU/m2/dose p.i. (2 h) on day 6 (1 dose) (maximal single dose 3 750 IU). 
+HR-2; 2 500 IU/m2/dose p.i. (2 h) on day 6 (1 dose) (maximal single dose 3 750 IU). HR-3; 2 500 IU/dose p.i. (2 h) on day 6 (1 dose).(maximal single dose 3 750 IU)
+IIIA; 2 500 IU/m2/dose p.i. (2 h) on day 1 (1 dose) (maximal single dose 3 750 IU). Maintenance; Only for patients randomized into the experimental arm in
+randomization R2: 2 500 U/m2/dose p.i. (2 h) every second
+week, 10 doses in total, starting in Protocol II-ASP+.
+
+
+Vincristine
+Protocol IA, Protocol IA, Protocol IA-CPM; Vincristine 1.5 mg/m2/dose i.v. (maximal single dose 2 mg) on days 8, 15, 22, 29. Protocol IIA; Vincristine 1.5 mg/m2/dose i.v. (maximal single dose 2 mg) on days 8, 15, 22, 29.
+HR-1; Vincristine 1.5 mg/m2/dose i.v. (maximal single dose 2 mg) on days 1 and 6. Protocol IIIA; Vincristine 1.5 mg/m2/dose i.v. (maximal single dose 2 mg) on days 1 and 8.
+
+
+Daunorubicin
+Protocol IA, Protocol IA, Protocol IA-CPM; Daunorubicin 30 mg/m2/dose p.i. (1 h) on days 8, 15, 22 and 29. Only two doses on days 8 and 15 are given to patients randomized into the experimental arm in randomization R1. 
+Protocol IA-Dexa (IAD); Daunorubicin 30 mg/m2/dose p.i. (1 h) on days 8, 15, 22 and 29.
+
+
+Cyclophosphamide
+Protocol IA-CPM; Cyclophosphamide 1000 mg/m2/dose
+p.i. (1 h) on day 10. Protocol IB; Cyclophosphamide 1 000 mg/m2/dose p.i. (1 h) on days 36 and 64. Protocol IIB; Cyclophosphamide 1 000 mg/m2/dose p.i. (1 h) on day 36.
+HR-1; Cyclophosphamide 200 mg/m2/dose p.i. (1 h) every 12 hours on days 2 to 4. Protocol IIIB; Cyclophosphamide 500 mg/m2/dose p.i. (1 h) on day 15.
+
+
+Mercaptopurine
+Protocol IB; 6-Mercaptopurine 60 mg/m2/day p.o., days 36 to 63. Protocol M; 6-Mercaptopurine 25 mg/m2/day p.o., days 1 to 56.
+
+
+Thioguanine
+Protocol IIIB; Thioguanine 60 mg/m2/day p.o., days 15 to 28.
+
+
+Ifosfamide
+HR2; Ifosfamide 800 mg/m2/dose p.i. (1 h) every 12 hours on days 2 to 4 (5 doses).
+
+
+Etoposide
+HR3; Etoposide 100 mg/m2/dose p.i. (1 h) every 12 hours on days 3 to 5 (5 doses).
+
+
+Fludarabine
+DNX-FLA (Applicable to HR patients with MRD non-response);Fludarabine 30 mg/m2/dose p.i. (30 min) every 24 hours on days 1 to 5 (5 doses).
+
+
+Daunoxome
+Daunoxome 60 mg/m2/dose p.i. (1 h) on days 1, 3 and 5.
+
+
+Vindesine
+HR-2; Vindesine 3 mg/m2/dose i.v. (maximal single dose 5 mg) on days 1 and 6.
+
+
+p.o. = medication administered orally; i.v. medication administered intravenously; s.c = medication administered by subcutaneous injection</interventions>
+    <comparator>This study is being compared to its historical predecessor study AIEOP-BFM ALL 2000 [PMID: 20154213; PMID: 21719599]. Much of the therapy is identical. Changes include ongoing refinements in ALL risk group stratification, treatment de-intensification for those patients at the lowest risk of relapse, treatment intensification for those patients at a higher risk of relapse, the use of i.v. PEG-L-Asparaginase instead of i.m. PEG-L-Asparaginase.</comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Non-HR pB-ALL pateints with TEL/AML 1-negative ALL or unknown TEL/AML1 status and FCM-MRD in bone marrow on day 15 &lt;0.1% or with TEL/AML1-positive ALL (randomized study question): can the daunorubicin dose in Protocol IA be safely reduced by 50% with a non-inferior EFS and a reduction of toxicity (treatment related mortality and AE/SAE in protocol)?</outcome>
+      <timepoint>Randomisation R1: 5 year event-free survival from time of randomization</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Patients with precursor-B ALL and risk group MR (randomized study question): can the clinical outcome be improved by protracted asparagine depletion achieved through application of intensified pegylated L-asparaginase during reintensification and early maintenance?</outcome>
+      <timepoint>Randomization R2: 5 year disease-free survival from time of randomization</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>HR patients (as identified by day 33 - randomized study question): can the clinical outcome be improved by protracted exposure to PEG-L-Aasparaginase during protocol IB?</outcome>
+      <timepoint>Randomization RHR: rate of MRD highly positive patients (MRD greater than or equal to 10-3) at TP2 (week 12)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>SR patients identified by at least one sensitive marker: Is the clinical outcome comparable to that obtained in SR patients (identified with two sensitive markers) in AIEOP-BFM ALL 2000, or can the outcome even be improved with
+the use of PEG-L-asparaginase instead of native E. coli L-asparaginase?</outcome>
+      <timepoint>5 year DFS for this study compared historically with patients on AIEOP-BFM ALL 2000</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>T-ALL non-HR patients: Can the high level of outcome (pEFS) which was obtained for these patients in study AIEOP-BFM ALL 2000 be preserved or even improved with the use of PEG-L-ASP instead of native E.coli L-ASP?</outcome>
+      <timepoint>5 year EFS for this study compared historically with patients of AIEOP-BFM ALL 2000</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>HR patients with persistingly high MRD levels despite the use of the HR blocks in the intensified consolidation phase (so called MRD Non-Responders): Is it possible to improve their outcome and to achieve a further reduction of leukemic cell burden by administration of an innovative treatment schedule (DNX-FLA)? NOTE: if new drugs or therapeutic options become available, the experimental treatment
+planned in this patient group may change during the course of the study.</outcome>
+      <timepoint>For the study question on MRD Non-Responder patients, the main secondary endpoint will be MRD levels after DNX-FLA.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patients participating in the randomized asparaginase studies (pB-ALL/MR, HR): Are asparaginase activity and asparaginase antibodies associated with development of allergic reactions, and do they have an effect on the outcome of the patients?
+
+This outcome will be assessed using a pharmacokinetic assay (ie a blood test) and correlating this result to the patients clinical situation.</outcome>
+      <timepoint>At the time of each asparaginase administration</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients meeting all:
+- newly diagnosed acute lymphoblastic leukemia
+- no Ph+ (BCR/ABL or t(9;22)-positive) ALL
+- no evidence of pregnancy or lactation period
+- no participation in another study
+- patient enrolled in participating centre
+- written informed consent</inclusivecriteria>
+    <inclusiveminage>365</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients meeting any of the following will not be eligible and will be analysed seperately:
+- pre-treatment with cytostatic drugs
+- steroid pre-treatment with  &gt;/= 1mg/kg/d for more than two weeks during the last month before diagnosis
+- treatment started according to another protocol
+- underlying diseases that prohibit treatment according to the protocol
+- ALL diagnosed as second malignancy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>27/09/2011</anticipatedstartdate>
+    <actualstartdate>20/12/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>4191</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Australian and New Zealand Children's Haematology/Oncology Group</primarysponsorname>
+    <primarysponsoraddress>27-31 Wright St
+Clayton VIC 3168</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University Hospital Schleswig-Holstein</sponsorname>
+      <sponsoraddress>Campus Kiel,
+Brunswiker Str 10
+24105 Keil</sponsoraddress>
+      <sponsorcountry>Germany</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a clinical trial investigating improved outcomes for children and adolescents with acute lymphoblastic leukaemia. Who is it for? You (or your child) may be eligible to join this study if you are aged between 1 and 18 years of age, and have been newly diagnosed with acute lymphoblastic leukaemia.The Study 9 research study is being done in order to maximise the chance of curing your childs ALL while at the same time lowering the chance of significant short- and long-term side effects.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Children's Hospital Westmead</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Draga Barbaric</name>
+      <address>Centre for Children's Cancer and Blood Disorders
+Sydney Children's Hospital
+High Street
+Randwick  NSW  2031</address>
+      <phone>+61 2 93822970</phone>
+      <fax />
+      <email>draga.barbaric@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Draga Barbaric</name>
+      <address>Centre for Children's Cancer and Blood Disorders
+Sydney Children's Hospital
+High Street
+Randwick  NSW  2031</address>
+      <phone>+61 2 93822970</phone>
+      <fax />
+      <email>draga.barbaric@sesiahs.heatlh.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Helen Mueller</name>
+      <address>Centre for Children's Cancer and Blood Disorders
+Sydney Children's Hospital
+High Street
+Randwick  NSW  2031</address>
+      <phone />
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Draga Barbaric</name>
+      <address>Centre for Children's Cancer and Blood Disorders Sydney Children's Hospital High Street Randwick NSW 2031</address>
+      <phone>+61 2 93822970</phone>
+      <fax />
+      <email>draga.barbaric@sesiahs.heatlh.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,14 +1,13 @@
-Package: genes2anzctR
+Package: g2d2t
 Type: Package
-Title: 
+Title: g2d2t: matching genes and mutation to drugs using in clinical trials
 Version: 0.0.1
 Authors@R: c(
-    person("Tim", "Churches", , "tim.churches@@gmail.com", c("aut", "cre")),
-    person("Simon", "Luk", , "", c("aut")),
-    person("Stephanie", "Choi", , "", c("aut"))
+    person("Tim", "Churches", , "tim.churches@gmail.com", c("aut", "cre")),
+    person("James", "Farrow", , "james@fn.com.au", c("aut"))
     )
 Maintainer: Tim Churches <tim.churches@gmail.com.
-Description: Matching patient genes/mutations to drugs in the Australian New Zealand Clinical Trials Registry (ANZCTR) database.
+Description: Matching patient genes/mutations to drugs used in trials registered in the Australian New Zealand Clinical Trials Registry (ANZCTR) database.
     Developed during HealthHack Sydney 2017
 License: GNU General Public License v3.0
 Encoding: UTF-8
@@ -26,5 +25,5 @@ Suggests:
    rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
-URL: https://github.com/timchurches/genes2anzctR
-BugReports: https://github.com/timchurches/genes2anzctR/issues
+URL: https://github.com/timchurches/g2d2t
+BugReports: https://github.com/timchurches/g2d2t/issues

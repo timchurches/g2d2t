@@ -1,0 +1,266 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="320926">
+  <stage>Registered</stage>
+  <submitdate>11/12/2009</submitdate>
+  <approvaldate>18/12/2009</approvaldate>
+  <actrnumber>ACTRN12609001087246</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised controlled trial of prophylactic versus no prophylactic platelet transfusions in patients with haematological malignancies</studytitle>
+    <scientifictitle>A randomised controlled trial to compare the incidence of bleeding events following prophylactic versus no prophylactic platelet transfusions in patients with haematological malignancies</scientifictitle>
+    <utrn />
+    <trialacronym>Trial Of Prophylactic PlateletS (TOPPS)</trialacronym>
+    <secondaryid>International Standard Randomised Controlled Trial Number Register
+
+ISRCTN08758735</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Haematological malignancies</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood</conditioncode1>
+      <conditioncode2>Haematological diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Eligible patients will be randomised to receive either prophylactic platelet transfusions if the platelet count is less than 10 x 10e9/L, or no prophylaxis if the platelet count is less than 10e9/L, with therapeutic transfusions given only after documented signs or symptoms of bleeding (World Health Organization [WHO] Grade 2, 3 or 4) or prior to a planned invasive procedure. The duration of the intervention is 30 days from randomisation. Platelet transfusions will be given as a single adult dose for patients who develop WHO Grade 2 bleeds. For patients who develop WHO Grade 3 or 4 bleeds, the platelet dose will be decided by the attending haematologist.</interventions>
+    <comparator>The comparator treatment is prophylactic platelet transfusions if the platelet count is less than 10 x 10e9/L, following documented signs or symptoms of bleeding (WHO Grade 2, 3 or 4) or prior to planned invasive procedure. A single adult dose will be given on the same day that a platelet count is recorded as less than 10 x 10e9/L and continued daily until the platelet count is greater than 10 x10e9/L. A single adult dose will be given to patients who develop a WHO Grade 2 bleed. For patients who develop WHO Grade 3 0r 4 bleeds, the platelet dose will be decided by the attending haematologist. 
+The overall duration of the prophylactic treatment is 30 days from randomisation.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Primary Outcome: The proportion of patients who experience (modified) WHO Grade 2, 3 or 4 bleeding event. The percentage of patients who experience a WHO Grade 2, 3, or 4 bleed by day 30 will be calculated for each arm.</outcome>
+      <timepoint>30 days after randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Logistic regression for proportion developing WHO Grade 3 or 4 bleed.</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cox proportional hazards regression model for time from randomisation to first WHO Grade 2, 3 or 4 bleed.</outcome>
+      <timepoint>30 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of bleeding events, as a fraction of the number of days with bleeding events divided by total number of days at risk of bleeding (the period of observation with thrombocytopenia).</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time from randomisation to second grade two bleed.</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Period in hospital.</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total number of platelet transfusion episodes.</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total number of red cell transfusions.</outcome>
+      <timepoint>30 days after randomisation.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients are eligible for this trial if:
+1. They are aged 16 years or over
+2. They have a confirmed diagnosis of a haematological malignancy
+3. They have received or are going to receive myelosuppressive chemotherapy on this hospital admission with or without haematopoietic stem cell support (this includes patients undergoing haematopoietic stem cell transplantation  - autologous or allogeneic)
+4. They are thrombocytopenic or expected to become thrombocytopenic with a platelet count of less than 50 x 10e9/L for at least 5 days
+5. They are able to comply with treatment and monitoring</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients are not eligible for this trial if:
+1. They have had a WHO Grade 3 or 4 bleed during any stage of their treatment to date
+2. During the current admission, they have experienced or are currently experiencing a WHO Grade 2 or greater bleed
+3. They have any inherited clotting disorder (e.g. haemophilia)
+4. They need to remain on regular aspirin (or related drugs), or will require therapeutic doses of anticoagulants (e.g. heparin), during the whole period of thrombocytopenia
+5. They have acute promyelocytic leukaemia and undergoing induction chemotherapy
+6. They have known human leukocyte antigen (HLA) antibodies
+7. They are pregnant
+8. They have previously been randomised in this trial at any stage of their treatment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible patients are identified. If consent is obtained and once the patient’s platelet count falls below 50 x 10e9/L, the patient is randomised to either treatment arm. An independent central on-line 24 hour internet system is used for randomisation at all centres. A unique trial number and treatment policy is assigned and the randomising centre confirms the allocated treatment to the principle investigator (PI) by email.</concealment>
+    <sequence>A computer program at the randomising centre will allocate patients using minimisation with a random element. Minimisation will balance the allocation of treatment policy between centres, patients with different diagnosis, and treatment plan.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>7/07/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>600</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>3002</postcode>
+    <postcode>3050</postcode>
+    <postcode>5011</postcode>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>National Health Service Blood &amp; Transplant</primarysponsorname>
+    <primarysponsoraddress>Southmead Road
+Bristol
+United Kingdom
+BS10 5ND</primarysponsoraddress>
+    <primarysponsorcountry>United Kingdom</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health Service (NHS) Blood &amp; Transplant</fundingname>
+      <fundingaddress>Southmead Road
+Bristol
+United Kingdom
+BS10 5ND</fundingaddress>
+      <fundingcountry>United Kingdom</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Australian Red Cross Blood Service</fundingname>
+      <fundingaddress>Level 6, 646 St Kilda Road
+Melbourne
+Victoria
+3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>Australian Red Cross Blood Service</sponsorname>
+      <sponsoraddress>Level 6, 646 St Kilda Road
+Melbourne
+Victoria
+3004</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Peter MacCallum Cancer Centre</othercollaboratorname>
+      <othercollaboratoraddress>St Andrew's Place
+East Melbourne
+Victoria 3002</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>The Royal Melbourne Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Grattan Street
+Parkville
+Victoria 3050</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The trial hypothesis is that a policy of no prophylactic platelet transfusion is as safe as (or non-inferior to) a policy of prophylactic transfusion, based on a threshold peripheral blood platelet count of less than 10 x 10e9/L.</summary>
+    <trialwebsite>www.ctu.mrc.ac.uk</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Australian Red Cross Blood Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>Level 4, 464 St Kilda Road
+Melbourne
+Victoria 3004</ethicaddress>
+      <ethicapprovaldate>29/04/2008</ethicapprovaldate>
+      <hrec>Application 2008#06</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre</ethicname>
+      <ethicaddress>St Andrew's Place
+East Melbourne
+Victoria 3002</ethicaddress>
+      <ethicapprovaldate>23/09/2009</ethicapprovaldate>
+      <hrec>Project number 09/34</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Central Office of Research Ethics Committees (COREC)</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec>06/Q1606/8</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>United Kingdom</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Erica Wood</name>
+      <address>Australian Red Cross Blood Service
+PO Box 354, South Melbourne, VIC, 3205</address>
+      <phone>+61 39 694 0203</phone>
+      <fax>+61 39 694 0108</fax>
+      <email>Ewood@arcbs.redcross.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Erica Wood</name>
+      <address>Australian Red Cross Blood Service
+PO Box 354, South Melbourne, VIC, 3205</address>
+      <phone>+61 39 694 0203</phone>
+      <fax>+61 39 694 0108</fax>
+      <email>Ewood@arcbs.redcross.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Erica Wood</name>
+      <address>Australian Red Cross Blood Service
+PO Box 354, South Melbourne, VIC, 3205</address>
+      <phone>+61 39 694 0203</phone>
+      <fax>+61 39 694 0108</fax>
+      <email>Ewood@arcbs.redcross.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,460 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371436">
+  <stage>Registered</stage>
+  <submitdate>2/09/2016</submitdate>
+  <approvaldate>7/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001251415</actrnumber>
+  <trial_identification>
+    <studytitle>A smartphone application for people with cancer to help reduce distress and unmet needs.</studytitle>
+    <scientifictitle>M-Health: Efficacy and Cost-effectiveness of a smartphone App to reduce distress and unmet needs in people with cancer (ACE): a randomized controlled trial.</scientifictitle>
+    <utrn>U1111-1183-6914</utrn>
+    <trialacronym>ACE</trialacronym>
+    <secondaryid>NHMRC # 1094831</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Distess</healthcondition>
+    <healthcondition>Unmet needs</healthcondition>
+    <healthcondition>Quality of life</healthcondition>
+    <healthcondition>Health literacy</healthcondition>
+    <healthcondition>Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The smartphone application comprises: 
+
+a)	the free downloadable ACE application to a smartphone or similar tablet device, providing patients access to their appointments;  cancer information, improved access to the Cancer Council 13 11 20 Information and Support Service that links them by telephone follow up to a range of community based supportive care services as required; and
+b)	identification of distress with subsequent follow up by the Cancer Council 13 11 20 Information and Support Service for referral to psychological services. Those with elevated levels will be signaled by IT services and referred onto the 13 11 20 service for follow up with a name and contact telephone number. 
+
+This intervention supports the physical, psychological, social, and information needs of people with cancer and aims to reduce unmet needs and distress of people with cancer while improving their ability to participate in their own health care.
+
+For participants randomized into the intervention group, the ACE application will be downloaded onto their Smartphone or similar tablet device and they will be shown features of the app. 
+For example, the Appointments feature will allow participants to view their scheduled upcoming appointments and enable participants to view details of each booking and facilitate requests to re-schedule existing bookings (which will trigger an automatic email to oncology reception at their health service with subsequent telephone follow up to confirm change in appointment). 
+Other features include cancer information including links to reputable cancer specific websites for the participant to access; hospital maps for navigating around the hospital, improved access to the Cancer Council 13 11 20 telephone support service and available peer and online support groups; information on allied health services available at their health service, prompt to complete the Distress Thermometer (DT) at four time points: baseline and monthly thereafter for 3 months with follow up by the Cancer Council 13 11 20 Service for those with levels 7 or higher, which will trigger an automatic email to the Cancer Council 13 11 20 Service to follow up with the patient within 4 hours. In order to monitor adherence, monthly notifications will be sent to each participant through the app  to complete the distress thermometer on the due date. Participants will be able to use the ACE application for a duration of four months.
+</interventions>
+    <comparator>Participants allocated to the control group (usual care) will not receive the ACE smartphone application. Usual care provided to patients by the hospitals, such as information and support, will be provided by the health service.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patient level of distress as assessed by the Impact of Events Scale (IES-R).</outcome>
+      <timepoint>At baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patients unmet needs as assessed by the Supportive Care Needs Survey (SCNS-SF34).</outcome>
+      <timepoint>at baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health education impact as assessed by The Health Education Impact Questionnaire (heiQ)</outcome>
+      <timepoint>at baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health literacy as assessed by the Health Literacy Questionnaire (HLQ). </outcome>
+      <timepoint>at baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life as assessed by the Assessment of Quality of Life (AQoL-4D).</outcome>
+      <timepoint>at baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Resource Use as assessed by the Resource Use Questionnaire (RUQ).</outcome>
+      <timepoint>at baseline and at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Satisfaction with smartphone application (intervention group only) as assessed using a Satisfaction Survey specifically designed for this trial.</outcome>
+      <timepoint>at 4 and 12 month(s) post baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adults, aged 18+ years, who are newly diagnosed cancer patients - all cancer types comprising both solid tumors and haematological cancers - with curative intent (stages 1-3), attending day oncology centers for cycle 2-5 of adjuvant chemotherapy or fraction 2-5 for radiotherapy treatment for cancer; who are able to complete English language questionnaires; and have access to a Smartphone or similar tablet device (Android or iOS).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cognitive dysfunction of the cancer patient. Experienced health service oncology nurses will determine cognitive dysfunction, defined as overt psychotic illness or dementia.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Trained personnel involved in the identification of eligible patients and personnel involved in the recruitment of those at each participating health service will be unaware to which group the patient will be allocated to. 
+Group allocation will be done off-site (at Deakin University) by the trial co-ordinator who is the holder of the allocation schedule.</concealment>
+    <sequence>Simple randomization using a randomization table produced by the trial statistician will be employed, stratified by age.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size
+The primary outcome is a reduction in subjective stress in relation to a cancer diagnosis as measured by the total score on the IES-R.  A linear mixed model analysis will be conducted and the F-test (at the 5% significance level) will be used to test for a study-arm by time interaction. The conjectured interaction is that there will be little change in the average score in the control group across the three assessments from baseline to 12 months but that the average score will decrease at 4 months in the app group and this lower average score (i.e. reduced stress) will be maintained (if not further decreased) at 12 months. In a large sample of Balkan war survivors, Morina et al reported mean (SD) total scores of 52 (17.8) and 17 (18.7) for survivors with and without PTSD respectively. Assuming a standard deviation as high as 20, an intraclass correlation of 0.2 (or as high as 0.8) and a study with 100 patients evaluated three times in each study arm, the F-test has 80% power to detect a reduction of 9.65 (or 4.83) at 4 months that is maintained (if not increased) at 12 months. These conjectured reductions correspond to effect sizes of 0.48 and 0.24, for ICCs of 0.2 and 0.8 respectively, and could be described as medium to small. The maximum SD reported for the three sub-scales of the IES-R was 8, and the analogous F-test, for the same conjectured pattern of change in a sub-scale, has 80% power to detect a reduction of 3.86 (if the ICC=0.2) or 1.93 (if the ICC=0.8) in sub-scale means.  Allowing for 20% attrition, 250 patients will be randomised into the study.
+A secondary outcome is a reduction in unmet needs as measured by each of the five domains of the SCNS-SF34. The analysis of these domain scores will use the same approach as for the IES-R. The conjectured interaction is that there will be little change in the average score in the control group across the three assessments from baseline to 12 months but that the average score will decrease at 4 months in the app group and this lower average score (i.e. reduced unmet needs) will be maintained (if not further decreased) at 12 months. Mean (SD) domain scores for patients not in remission can range from 24 to 45 (SD = 25 to 29) and from 21 to 32 (SD = 21 to 27) in patients in remission. Assuming a standard deviation as high as 30, an intraclass correlation of 0.2 (or as high as 0.8) and a study with 100 patients evaluated three times in each study arm, the F-test has 80% power to detect a reduction of 14.5 (or 7.25) at 4 months that is maintained (if not increased) at 12 months. Reductions in this range are comparable to the significant differences (7.7 to 15.0), reported by Boyes et al, between cancer patients in, and not in, remission, for 5 domains of the SCNS-SF34. 
+
+Based on the number of new health service cancer cases (~600/year; Health Services Information Services; 2013), if we assume conservatively that 1/3 of 600 new cases arrive for treatment at Cycle 2-5 / Fraction 2-5 across the 4 health services and 2/3 have Smartphones or similar tablet devices, a minimum of 18 patients will be recruited per month. We expect an 80% uptake, so an overall recruitment phase of approximately 18 months to recruit our sample: 18 months * 18 patients across 4 health services = ~324 uptake * 80% uptake = ~250.
+
+Patient data
+An intention-to-treat (ITT) analysis will be performed on all endpoints. The intervention and control groups will be examined for baseline comparability with respect to demographic and other factors. The total IES-R and its three subscales, as well as each of the five domains of the SCNS-SF34 will be analysed by fitting linear mixed models. After identification of the most appropriate autocorrelation model for the repeated measurements, the F-test for the time by study-arm interaction will be used to compare the changes over time in each arm of the study. Comparisons of the arms at each of the two post-baseline time points will also be conducted using t-tests that utilize the estimated variances from the mixed model analyses. There will be no adjustment to the significance levels of these tests, either for multiplicity of endpoints or multiplicity of comparisons. A sensitivity analysis will also be conducted on the per-protocol set (PPS), i.e. the set of patients remaining on the study after 13 months without a major protocol deviation. Supplementary ITT analyses, using generalised linear mixed models (GLMMs) will also be conducted on the dichotomized domain scores of the SCNS-SF34 and the IES-R dichotomized at the cut-off (33+) for moderate to severe stress. No interim analyses are planned. The final analysis will be conducted after all participants have been assessed at 12 months or deemed lost-to-follow-up. 
+
+Economic Analysis
+This economic evaluation will comprise a cost-consequences analysis where incremental costs of the intervention will be compared with the full spectrum of outcomes included in the study. This means that a series of cost-effectiveness ratios will be determined rather than just one  such an approach has been shown to be useful for decision-makers. The inclusion of the AQoL-4D will also enable a cost-utility analysis to be undertaken, thereby allowing practical judgements regarding value for money credentials of the intervention to be made. The economic analysis will be primarily from the perspective of the health care sector and a secondary analysis from the broader societal perspective will also be undertaken. The evaluation will first measure and value any change to the use of health care resources over the period of the study between the two arms of the trial (intervention and control) and then compare any additional costs to the additional outcomes achieved. This will be an important addition to the study given that one of the main impacts of the app will be the reduction of missed appointments and increased treatment adherence. Costs associated with the maintenance and ongoing provision of the ACE app will also be assessed and included in the intervention arm of the study. Standardized economic evaluation techniques will be used including incremental analysis of mean differences and bootstrapping to determine confidence intervals.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/10/2016</anticipatedstartdate>
+    <actualstartdate>24/02/2017</actualstartdate>
+    <anticipatedenddate>31/10/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>250</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/10/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <hospital>Epworth Richmond - Richmond</hospital>
+    <hospital>Barwon Health - Geelong Hospital campus - Geelong</hospital>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>3121 - Richmond</postcode>
+    <postcode>3220 - Geelong</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Deakin University - Professor Trish Livingston</primarysponsorname>
+    <primarysponsoraddress>221 Burwood Highway
+Burwood VIC 3125
+
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC)</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Barwon Health - University Hospital Geelong</sponsorname>
+      <sponsoraddress>70 Swanston Street
+Geelong VIC 3220
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Epworth HealthCare Richmond</sponsorname>
+      <sponsoraddress>89 Bridge Road
+Richmond VIC 3121
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Box Hill Hospital - Eastern Health</sponsorname>
+      <sponsoraddress>Nelson Road
+Box Hill VIC 3128
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>North Eastern Metropolitan Integrated Cancer Service (NEMICS)</sponsorname>
+      <sponsoraddress>PO Box 5555
+Heidelberg VIC 3084
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Barwon South Western Integrated Cancer Service (BSWICS)</sponsorname>
+      <sponsoraddress>70 Swanston Street
+Geelong VIC 3220
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Western &amp; Central Melbourne Integrated Cancer Service (WCMICS)</sponsorname>
+      <sponsoraddress>766 Elizabeth St, Melbourne Vic 3000</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Cancer Council Victoria </sponsorname>
+      <sponsoraddress> 1 Rathdowne Street
+Carlton VIC 3053
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>ACRESTA</sponsorname>
+      <sponsoraddress>15-17 Young Street 
+Sydney NSW 2000 </sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>OPTUS</sponsorname>
+      <sponsoraddress>1 Hoddle Street
+Collingwood VIC 3066
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Mari Botti</othercollaboratorname>
+      <othercollaboratoraddress>Deakin University
+School of Nursing and Midwifery
+221 Burwood Highway
+Burwood VIC 3125
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof David Ashley</othercollaboratorname>
+      <othercollaboratoraddress> Barwon Health, The Andrew Love Cancer Centre
+  70 Swanston Street
+  Geelong VIC 3220
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>A/Prof Cathy Mihalopoulos</othercollaboratorname>
+      <othercollaboratoraddress>Deakin University
+Population Health SRC
+221 Burwood Highway
+Burwood VIC 3125
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Jacquie Chirgwin</othercollaboratorname>
+      <othercollaboratoraddress>Medical Oncologist
+  Eastern Health
+  Nelson Road
+  Box Hill VIC 3128
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Suzanne Chambers</othercollaboratorname>
+      <othercollaboratoraddress>Gold Coast campus
+Menzies Health Institute Queensland
+Griffith Health Centre
+Parklands Drive
+SOUTHPORT QLD 4222
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>  Prof Victoria White</othercollaboratorname>
+      <othercollaboratoraddress>Cancer Council Victoria
+1 Rathdowne Street
+Carlton VIC 3053
+
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Anna Boltong</othercollaboratorname>
+      <othercollaboratoraddress>Cancer Council Victoria
+1 Rathdowne Street
+Carlton VIC 3053
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Ms Ann Woollett</othercollaboratorname>
+      <othercollaboratoraddress>University of Melbourne
+Grattan Street
+Parkville VIC 3010</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Mei Krishnasamy</othercollaboratorname>
+      <othercollaboratoraddress>University of Melbourne
+Grattan Street
+Parkville VIC 3010</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>  A/Prof Liliana Orellana</othercollaboratorname>
+      <othercollaboratoraddress>  Deakin University
+  Faculty of Health  Biostatistics Unit
+  221 Burwood Highway
+  Burwood VIC 3125
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Nilmini Wickramasinghe</othercollaboratorname>
+      <othercollaboratoraddress>Deakin University
+221 Burwood Highway
+Burwood VIC 3125
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Anna Ugalde</othercollaboratorname>
+      <othercollaboratoraddress>Deakin University
+221 Burwood Highway
+Burwood VIC 3125</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>A/Prof John Reynolds </othercollaboratorname>
+      <othercollaboratoraddress>Monash University  The Alfred Centre
+99 Commercial Road
+Melbourne VIC 3004
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>A/Prof Phillip Parente</othercollaboratorname>
+      <othercollaboratoraddress>Eastern Health  Box Hill Hospital
+Nelson Road
+Box Hill VIC 3128
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this trial is to evaluate the efficacy and cost-effectiveness of the ACE smartphone application for reducing distress and unmet needs in cancer patients.
+
+Who is it for?
+You may be eligible to participate in this trial if you are aged 18 or over and have been newly diagnosed with any cancer type including both solid tumors and haematological cancer stages 1-3, attending day oncology centers for cycle 2-5 of adjuvant chemotherapy or fraction 2-5 for radiotherapy treatment for cancer. You must also speak English and have access to a Smartphone or similar tablet device (Android or iOS).
+
+Study details
+All participants enrolled in this study will be randomly allocated (by chance) to receive the ACE smartphone application or to receive standard care with no smartphone application. Those in the ACE group will receive access to the application for four months. The ACE application allows participants to view and amend their existing appointments, provides links to cancer information and improved access to the Cancer Council Information and Support Service helpline. The application will also ask participants to rate their level of distress once per month, and participants with elevated distress levels will be referred to the Cancer Council Helpline for a follow-up support phone call.
+
+All participants will complete a number of questionnaires relating to their distress, quality of life and use of healthcare resources at enrollment and 4 and 12 months after enrolment.
+
+It is hoped that this study will show that the ACE smartphone application is a cost-effective tool for reducing distress and unmet needs in cancer patients.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre Ethics Committee</ethicname>
+      <ethicaddress>10 St Andrews Place, East Melbourne, VIC 3002</ethicaddress>
+      <ethicapprovaldate>16/12/2015</ethicapprovaldate>
+      <hrec>HREC/15/PMCC/66</hrec>
+      <ethicsubmitdate>10/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Epworth HealthCare Human Research Ethics Committee</ethicname>
+      <ethicaddress>89 Bridge Road
+Richmond VIC 3121</ethicaddress>
+      <ethicapprovaldate>15/12/2015</ethicapprovaldate>
+      <hrec>705-15</hrec>
+      <ethicsubmitdate>10/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Deakin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>221 Burwood Highway
+3125 Burwood VIC</ethicaddress>
+      <ethicapprovaldate>22/08/2016</ethicapprovaldate>
+      <hrec>2016-265</hrec>
+      <ethicsubmitdate>2/08/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Trish Livingston</name>
+      <address>Deakin University
+Facutly of Health
+221 Burwood Highway
+Burwood 3125 VIC</address>
+      <phone>+613 9244 6609</phone>
+      <fax />
+      <email>trish.livingston@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Trish Livingston</name>
+      <address>Deakin University
+Facutly of Health
+221 Burwood Highway
+Burwood 3125 VIC</address>
+      <phone>+613 9244 6609</phone>
+      <fax />
+      <email>trish.livingston@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Trish Livingston</name>
+      <address>Deakin University
+Facutly of Health
+221 Burwood Highway
+Burwood 3125 VIC</address>
+      <phone>+613 9244 6609</phone>
+      <fax />
+      <email>trish.livingston@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Leila Heckel</name>
+      <address>Deakin University
+Facutly of Health
+221 Burwood Highway
+Burwood 3125 VIC</address>
+      <phone>+613 92517216</phone>
+      <fax />
+      <email>l.heckel@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

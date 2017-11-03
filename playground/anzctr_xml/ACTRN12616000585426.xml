@@ -1,0 +1,270 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370477">
+  <stage>Registered</stage>
+  <submitdate>6/04/2016</submitdate>
+  <approvaldate>5/05/2016</approvaldate>
+  <actrnumber>ACTRN12616000585426</actrnumber>
+  <trial_identification>
+    <studytitle>Prostate Cancer Registry collecting treatment data on patients with Castrate-Resistant prostate cancer to investigate the outcomes of these treatments.</studytitle>
+    <scientifictitle>Analyzing Treatment Patterns and Outcomes from Real-World Patients with Castrate-Resistant Prostate Cancer (CRPC)</scientifictitle>
+    <utrn />
+    <trialacronym>ePAD Australia</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Castrate-Resistant Prostate Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The proposed electronic CRPC Australian database (ePAD) is a multi-site, national prospective cohort study that will collect data regarding baseline patient characteristics, details at diagnosis, pathological characteristics, details regarding local treatment and use of Androgen deprivation therapy, details regarding diagnosis of castration-resistance, prescription of and effectiveness of each systemic therapy and survival. Additionally, factors that influence decision making around systemic treatment selection and the rationale for change of treatments will be captured.
+Participants will be followed up until death and if lost to follow up will be censored at date last visit for analysis purposes. All data on participants will be sourced in the clinic or from medical records.
+Primarily, data from ePAD will be used to determine the patterns of care amongst Australian oncologists, urologists and radiation oncologists, and allow comparisons across each group, </interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To evaluate the presentation of consecutive patients with newly or recently diagnosed CRPC managed in routine clinical practice, thereby determining the patterns of care for CRPC patients.</outcome>
+      <timepoint>The data collection of presentation data will usually occur at the participant's initial visit to clinic. The data will continue to be collected at every follow up visit until death if possible.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To evaluate the treatments of consecutive patients with newly or recently diagnosed CRPC managed in routine clinical practice, thereby determining the patterns of care for CRPC patients.</outcome>
+      <timepoint>The data collection of treatment data will usually occur at the point of participant visit to clinic. Whilst the participant is on treatment, the data will continue to be collected at every follow up visit until treatment is stopped.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To evaluate the treatment outcomes of consecutive patients with newly or recently diagnosed CRPC managed in routine clinical practice, thereby determining the patterns of care for CRPC patients.</outcome>
+      <timepoint>The data collection will usually occur at the point of participant visit to clinic. Progression data, toxicities and survival data will continue to be collected at every follow up visit until death.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine treatment patterns for CRPC in routine clinical practice, including:
+- Determining the proportion of patients who receive 1st, 2nd, 3rd and subsequent lines of systemic treatment
+- Determining the proportion of patients who receive secondary hormone treatment versus chemotherapy in 1st line
+- Determining the impact of age, cardiovascular co-morbidity and performance status on treatment recommendations
+This is a composite secondary outcome that involves collecting data on treatment patterns to enable comparisons to be made and to analyse the effect of different variables on treatment patterns..</outcome>
+      <timepoint>The data collection of treatment data will usually occur at the point of participant visit to clinic. Whilst the participant is on treatment, the data will continue to be collected at every follow up visit until treatment is stopped and follow up data will be continued to be collected until death.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine survival outcomes in CRPC managed in routine clinical practice:
+- Determining the overall survival for all CRPC patients
+- Identifying novel prognostic factors
+- Determining the progression free survival for secondary hormone treatment versus chemotherapy in 1st line
+- Determining the progression free survival for secondary hormone treatment versus chemotherapy in 2nd line
+- Comparing overall survival for CRPC patients initially treated with secondary hormone treatment versus chemotherapy
+
+This is a composite secondary outcome collecting dates of follow up, date of progression and date of death to enable survival analysis of the dataset.</outcome>
+      <timepoint>The data collection of survival data will usually occur at the point of participant visit to clinic e.g date of follow up visit. Follow up data will be continued to be collected until death.
+Progression data will be collected at point of patient visit. There will be annual search for patient's death date.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To explore the role of secondary hormone therapy in changing tumour biology
+- Determining PSA response rates for cabazitaxel following AA versus docetaxel
+- Determining the proportion of patients who develop visceral metastases following secondary hormone therapy versus chemotherapy
+This is a composite secondary outcome comparing different hormonal therapies.</outcome>
+      <timepoint>The data collection of hormone treatment data will usually occur at the point of participant visit to clinic. Whilst the participant is on treatment, the data will continue to be collected at every follow up visit until treatment is stopped and follow up data will be continued to be collected until death.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients eligible for enrolment onto ePAD must meet the following criteria:
+- Patients of any age and any ECOG performance status
+- Diagnosis of CRPC, with or without metastatic disease
+- Histological or cytological confirmation of prostate cancer diagnosis and confirmation of castration-resistance
+      * Histological confirmation of disease is not required in the case of
+         PSA &gt;50 at initial diagnosis
+- No previous systemic therapy for metastatic castration resistant disease, or patients must be initiating 1st or 2nd line therapy in the mCRPC setting (i.e. patients who have yet to receive treatment for mCRPC are eligible; additionally, patients who have recently started 1st or 2nd line treatment for mCRPC are also eligible)
+      * First generation anti-androgens are allowed prior to enrolment</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria for ePAD include:
+- Patients who have received more than two lines of therapy already
+- Patients who are not eligible for treatment
+(chemotherapy or targeted therapies) subsidized by the PBS</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>In order to compare clinical outcomes across different subgroups, Kaplan-Meier survival curves will be defined from survival data and constructed using SAS 'Registered Trademark' software. The stratified log rank test will be used to compare survival curves between different groups of participants. P-values of 0.05 will be considered significant.
+Interim analyses:
+Planned after enrolment of 100 patients (anticipated to be ~15 months after project initiation) to assess data quality, proportion of older or less fit patients enrolled, variation in treatment regimens used across sites, and progression free and overall survival.
+Prevention of skewed data:
+To prevent enrolment of a large number of patients from a single site skewing data such that overall results are not representative of widespread community practice, contributions from any one centre will be limited to a maximum of 20% of the total 500 patients.
+The sample size of 500 patients will be the largest known dataset of real world mCRPC patients and this number was thought to be sufficient to allow descriptive analyses of the patterns of care within Australia.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>3</followup>
+    <followuptype>Years</followuptype>
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/07/2016</anticipatedstartdate>
+    <actualstartdate>6/07/2016</actualstartdate>
+    <anticipatedenddate>15/01/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>Western Hospital - Footscray</hospital>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <hospital>The Chris O’Brien Lifehouse - Camperdown</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>St Vincent's Hospital (Darlinghurst) - Darlinghurst</hospital>
+    <hospital>Concord Repatriation Hospital - Concord</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <hospital>St John of God Hospital, Subiaco - Subiaco</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Ashford Cancer Centre: Adelaide Cancer Centre - Kurralta Park</hospital>
+    <hospital>Barwon Health - Geelong Hospital campus - Geelong</hospital>
+    <postcode>3220 - Geelong</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Walter &amp; Eliza Hall Institute of Medical Research</primarysponsorname>
+    <primarysponsoraddress>1G Royal Parade
+Parkville VIC 3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Astellas Pharma Australia Pty Ltd</fundingname>
+      <fundingaddress>4/6 Eden Park Drive
+Macquarie Park NSW 2113</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Janssen-Cilag Pty Ltd</fundingname>
+      <fundingaddress>1-5 Khartoum Rd
+North Ryde NSW 2113
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Purpose:
+The primary purpose of this study is to develop an electronic castrate-resistant prostate cancer (CRPC) Australian database called ePAD. The data from this will then be used to evaluate the patterns of care for Australians with CRPC.
+ 
+Who is it for?
+Patients will be 'recruited' at participating sites; these sites will submit an ethics application to enable them to collect patient data from routine clinical practice. This is a non-interventional study and purely data collection at the approved site/hospital.
+
+Study details:
+All participants enrolled in this study will have data collected at baseline and ongoing clinic visits. Follow up data will continue to be collected after the completion of patient enrolment which is anticipated to run until January 2019. Data collected will include patient characteristics, details regarding local treatment and use of androgen deprivation therapy, details regarding diagnosis of castration-resistance, prescription of and effectiveness of each systemic therapy and survival. Additionally, factors that influence decision-making around systemic treatment selection and the rationale for change of treatments will be collected. Data will be collected from clinic visits or from medical records. It is hoped that the findings of this study will allow researchers to determine the patterns of care provided to CRPC patients, and potentially improve knowledge of which treatment options may be the most beneficial for individual patients with CRPC.
+
+
+
+
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health HREC</ethicname>
+      <ethicaddress>Office for Research
+Level 6 East
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville VIC 3050</ethicaddress>
+      <ethicapprovaldate>15/01/2016</ethicapprovaldate>
+      <hrec>HREC/15/MH/352</hrec>
+      <ethicsubmitdate>25/11/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ben Tran</name>
+      <address>Medical Oncology
+Peter MacCallum Cancer Centre
+305 Grattan Street
+Parkville VIC 3000</address>
+      <phone>+61 3 8559 7882</phone>
+      <fax>+61 3 8559 7739</fax>
+      <email>Ben.Tran@petermac.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Michael Harold</name>
+      <address>Gibbs Lab
+WEHI
+Level 8 East Main Building
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 2690</phone>
+      <fax>+61 3 9345 2317</fax>
+      <email>Michael.Harold@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ben Tran</name>
+      <address>Medical Oncology
+Peter MacCallum Cancer Centre
+305 Grattan Street
+Parkville VIC 3000</address>
+      <phone>+61 3 8559 7882</phone>
+      <fax>+61 3 8559 7739</fax>
+      <email>Ben.Tran@petermac.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Michael Harold</name>
+      <address>Gibbs Lab
+WEHI
+Level 8 East Main Building
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 2690</phone>
+      <fax>+61 3 9345 2317</fax>
+      <email>Michael.Harold@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

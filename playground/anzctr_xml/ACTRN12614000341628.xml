@@ -1,0 +1,284 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366020">
+  <stage>Registered</stage>
+  <submitdate>21/03/2014</submitdate>
+  <approvaldate>31/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000341628</actrnumber>
+  <trial_identification>
+    <studytitle>Strain sUrveillance during Chemotherapy for improving Cardiovascular OUtcomes </studytitle>
+    <scientifictitle>Randomised controlled trial (RCT) of chemotherapy patients at risk of cardiotoxicity undergoing cardioprotection guided by measurement of LV strain compared with cardioprotection guided by measurement of left ventricular (LV) ejection fraction for avoidance of cardiotoxicity</scientifictitle>
+    <utrn />
+    <trialacronym>SUCCOUR Study
+</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiotoxicity from cancer chemotherapy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Inclusion of myocardial mechanics in screening echocardiography for development of cardiotoxicity. Serial screening test for LV strain is envisaged at 3 monthly intervals for a year and the acquisition takes ~30 minutes.
+</interventions>
+    <comparator>Performance of standard echocardiogram, an ultrasound test of the heart where ejection fraction (EF) is measured. This is an insensitive test for early changes, but is used to ensure that patients with possible cardiotoxicity are managed safely. This screening test is envisaged at 3 monthly intervals for a year and the acquisition takes ~30 minutes.
+</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>New LV dysfunction, defined on the basis of 3D echo.</outcome>
+      <timepoint>Assessed at 3 years post randomisation.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>New heart failure (HF), assessed on the basis of clinical diagnosis of HF. </outcome>
+      <timepoint>Assessed at 3 years post randomisation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Development of cardiotoxicity  ie a categorical analysis of reduced 3D echocardiographic LVEF concordant with the recent guidelines (reduction of LVEF of more than 5% to less than 55% with symptoms of heart failure, or an asymptomatic reduction of LVEF of more than 10% to less than 55%).</outcome>
+      <timepoint>Assessed at 3 years post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of completion of the planned chemotherapy among groups, defined by audit of prescribed drug prescription in patient records</outcome>
+      <timepoint>Assessed at 3 years post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of heart failure among groups, defined by clinical HF diagnosis in patient record.</outcome>
+      <timepoint>Assessed at 3 years post randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>i. Patients actively undergoing chemotherapy at increased risk of cardiotoxicity;
+use of anthracycline WITH current (but not necessarily concurrent)
+trastuzumab (Herceptin) in breast-cancer with the HER2 mutation OR
+tyrosine kinase inhibitors (eg sunitinib) OR
+cumulative anthracycline dose &gt;450g/m2 of doxorubicin, or equivalent other anthracycline cumulative dose (eg for epirubicine &gt;900g/m2).OR
+increased risk of HF (any two of age &gt;65y, type 2 diabetes mellitus, hypertension, previous cardiac injury eg. myocardial infarction)
+ii. Live within a geographically accessible area for follow-up 
+iii. Are able and willing to provide written informed consent to participate in the study (this includes the ability to communicate fluently with the investigator and that the patient is mentally competent)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Unable to provide written informed consent to participate in this study
+- Participating in another clinical research trial where randomized treatment would be unacceptable
+- Valvular stenosis or regurgitation of &gt;moderate severity
+- History of previous heart failure (baseline NYHA &gt;2)
+- Systolic BP &lt;110mmHg
+- Pulse &lt;60/minute
+- Inability to acquire interpretable images (identified from baseline echo)
+- Contraindications/Intolerance to beta blockers or ACE inhibitors
+- Existing therapy with both beta blockers and ACE inhibitors
+- Oncologic (or other) life expectancy &lt;12 months or any other medical condition (including pregnancy) that results in the belief (deemed by the Chief Investigators) that it is not appropriate for the patient to participate in this trial
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>At risk subjects will be identified by cardiologists, oncologists, general practitioners, or self-referred. We plan to compare 138 subjects with strain vs 138 controls. 
+
+Clinical evaluation: All subjects will undertake a clinical history and answer questionnaires on general health status (EQ5D), activity (DASI) and heart failure symptoms (MLHFQ). All will undergo a screening echo for valvular disease. If these results are abnormal, subjects will be excluded.
+
+Study protocol: A central (web-based) randomization program will be used to allocate patients to advanced vs conventional imaging only after the patient is enrolled. This allocation concealment will prevent the person performing recruitment from knowing the allocated group at the time of inclusion. Subsequent management decisions are not based on randomization and will occur as a "usual care' response to data provided from imaging.
+
+Conventional imaging: Limited to evaluation of EF and valve disease. If there is a symptomatic drop of more than 5% of ejection fraction, or a 10% asymptomatic drop of ejection fraction to EF &lt;55% will lead to referral of the patient for initiation and titration of heart failure therapy.
+
+Advanced cardiac imaging: Inclusion of global longitudinal strain. Reduction of global longitudinal strain by &gt;12% in any of the follow-up echocardiograms, as compared to baseline will lead to referral of the patient for initiation and titration of heart failure therapy(see below).</concealment>
+    <sequence>Randomisation will be performed using a randomisation table created by computer software (i.e. computerised sequence generation). Randomization is stratified on the basis of diabetes status. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Those with an abnormal test will be identified as having Stage B heart failure, and undergo better blood pressure and glucose control. Additional protective therapy (ACE inhibitors and beta blockers) will be added and titrated to target dose.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Power calculations; Assumptions  
+1) cutoff for strain = 11% decrement (Negishi JASE 2014)
+2) cutoff for EF = 10% asympt drop to &lt;55% (Seidman AD, JCO 2002)
+3) reduction in EF in at risk patients at 3m = 21% (Sawaya, AJC 2011)
+4) response to medical Rx in patients with reduced EF=40% (from Cardinale).
+5) development of HF in 41% at 3y (from Chen, JACC 2013).
+6) reduction in strain in at risk patients = 34% (from submitted 3 toxic regimen paper by Negishi, using 11% reduction strain).
+7) response to therapy based on strain = 90% (from submitted 3 toxic regimen paper by Negishi, based on 11% reduction strain).% (unpublished observation).
+8) Reduction in EF of patients with reduced strain = 14% (from prelim data). 
+
+Calculations These are based on the development of cardiotoxicity in patients with preserved EF. Based on these assumption of 24 vs 40 patients showing cardiotoxicity, a study of 138 patients/group would give 80% power to identify a difference at p&lt;0.05 using an intention-to-treat approach. To allow for drop-outs we will recruit 320 patients. 
+
+
+Primary data analysis will compare the outcomes of patients will be compared with a t-test (change in EF) or survival analysis (heart failure and cessation of treatment). Multivariable models (respectively linear and Cox regression) will be developed to identify effect size, and will be extremely important if groups are mismatched despite randomization. All analyses will be performed on an intention to treat basis. Subsequent analyses will include the same methods to compare differences in the secondary end-points.
+
+The data from all participating investigational sites will be pooled and summarised with respect to demographic and baseline characteristics. Exploratory data analyses will be performed using descriptive statistics. Data will be presented for the complete intent-to-treat (ITT) population (all patients having taken part in a significant proportion of the study but did not complete follow-up data collection and/or had major protocol deviations) as well as the per-protocol population (ITT patients who completed the study).
+
+Survival curves will be constructed using time-dependent, all-cause survival and event-free survival data for all patients on an ITT basis followed by log-rank and Breslow tests to determine differences between groups with respect to the number and/or timing of events. To examine the interactions between risk factors and treatment mode and other potential correlates of event-free survival and all-cause mortality during study follow-up we will construct Cox-Proportional Hazards Models with calculation of relative risk (RR) and 95% confidence interval. Multiple logistic regressions will be used to determine independent correlates of clinical events at fixed time-points.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate>30/01/2014</actualstartdate>
+    <anticipatedenddate>30/09/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>320</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,TAS,VIC</recruitmentstate>
+    <hospital>Ipswich Hospital - Ipswich</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>The Queen Elizabeth Hospital - Woodville</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>St Vincent's Hospital (Melbourne) Ltd - Fitzroy</hospital>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>4305 - Ipswich</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>5011 - Woodville</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3004 - Melbourne</postcode>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Gunma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Belgrade</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sofia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Flanders</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic Of</country>
+      <state>Geyonggi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Ostlandet</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Central Federal District</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Menzies Research Institute Tasmania</primarysponsorname>
+    <primarysponsoraddress>17 Liverpool St
+Hobart Tasmania 7000 </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>GE Medical Systems</fundingname>
+      <fundingaddress>GE Vingmed Ultrasound AS
+Strandpromenaden 45, box 141
+Horten  3188</fundingaddress>
+      <fundingcountry>Norway</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to define the value of strain in patient management, by identification of subclinical left ventricular (LV) dysfunction, which will be used to guide cardioprotective therapy. Who is it for? You may be eligible to join if you are aged between 18 and 80 years old (inclusive), and actively undergoing chemotherapy at increased risk of cardiotoxicity. Trial details Participants in this study will be randomly (by chance) divided into one of two groups. Participants in one group will undergo screening echocardiography for the development of cardiotoxicity with the inclusion of myocardial mechanics to measure LV strain. The measurement of LV strain will be used to guide the participant's cardioprotection treatment to avoid cardiotoxicity. Serial screening tests are envisaged to take place at 3 monthly intervals for one year with each screening session taking approximately 30 minutes. Participants in the other group will undergo standard echocardiogram and an ultrasound test of the heart where ejection fraction (EF) is measured. The measurement of EF will be used to guide the participant's cardioprotection treatment to avoid cardiotoxicity. This screening test is envisaged to take place at 3 monthly intervals for a year with each session taking approximately 30 minutes. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee (Tasmania)</ethicname>
+      <ethicaddress>Office of Research Services, University of Tasmania, Private Bag 1, Hobart, TAS, 7001
+</ethicaddress>
+      <ethicapprovaldate>21/01/2014</ethicapprovaldate>
+      <hrec>H0013270</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366020-Protocol Version 2.62 23 December 2015 (2).docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas H Marwick</name>
+      <address>Menzies Research Institute Tasmania 17 Liverpool St Hobart, Tas 7000 </address>
+      <phone>+61 (0) 3 6226 7702</phone>
+      <fax />
+      <email>tom.marwick@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tomoko Negishi</name>
+      <address>Menzies Research Institute Tasmania 17 Liverpool St Hobart, Tas 7000 </address>
+      <phone>+61 (0) 3 6226 7702</phone>
+      <fax />
+      <email>tomoko.negishi@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tomoko Negishi</name>
+      <address>Menzies Research Institute Tasmania 17 Liverpool St Hobart, Tas 7000 </address>
+      <phone>+61 (0) 3 6226 7702</phone>
+      <fax />
+      <email>tomoko.negishi@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tomoko Negishi</name>
+      <address>Menzies Research Institute Tasmania 17 Liverpool St Hobart, Tas 7000 </address>
+      <phone>+61 (0) 3 6226 7702</phone>
+      <fax />
+      <email>tomoko.negishi@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

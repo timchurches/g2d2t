@@ -1,0 +1,224 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367116">
+  <stage>Registered</stage>
+  <submitdate>9/10/2014</submitdate>
+  <approvaldate>21/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001113640</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating the Effect of a Shared Care Pathway Intervention on Unplanned Presentations to Hospital by Chemotherapy Outpatients</studytitle>
+    <scientifictitle>Evaluating the Effect of a Shared Care Pathway Intervention on Unplanned Presentations to Hospital by Chemotherapy Outpatients</scientifictitle>
+    <utrn />
+    <trialacronym>ESCAPI</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cancer</healthcondition>
+    <healthcondition>Chemotherapy related unplanned hospital presentations </healthcondition>
+    <healthcondition>Chemotherapy related symptoms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention involves a set number of community nurse (CN) contacts during the patients' first three cycles of chemotherapy (usually 21 days, but this can vary depending on chemotherapy regimen used). CNs will visit patients at home, two visits for each cycle of chemotherapy, and assess patients' general physical and psychosocial wellbeing, provide care for chemotherapy side effects and assess patients' and carers' understanding of chemotherapy regimens. Each visit will take approximately one hour to complete, but this may vary depending on patient needs. CNs will liaise with the patients' GP and cancer centre regarding patients' treatment needs. </interventions>
+    <comparator>Standard care - Patients undergoing chemotherapy will receive standard/usual care and support from their oncologist and cancer centre staff. In this group the patient or carer will contact the cancer centre if they are concerned about chemotherapy related symptoms.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Unplanned hospital presentations as assessed by data linkage to medical records</outcome>
+      <timepoint>A the end of the third cycle (week 9, but this can vary depending on chemotherapy regimen used)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Anxiety and depression assessed using HADS tool</outcome>
+      <timepoint>Measured at baseline and end of cycles 1 to 3 (week 3, 6 and 9, but this can vary depending on chemotherapy regimen used)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The EORTC QLQ-C30 will be used to assess cancer-specific function and symptoms and global quality of life </outcome>
+      <timepoint>Measured at baseline and end of cycles 1 to 3 (week 3, 6 and 9, but this can vary depending on chemotherapy regimen used)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The CBI-B will be used to assess self-efficacy and confidence for coping with cancer and quality of life</outcome>
+      <timepoint>Measured at baseline and end of cycles 1 to 3 (week 3, 6 and 9, but this can vary depending on chemotherapy regimen used)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life assessed using the SF-36</outcome>
+      <timepoint>Measured at baseline and end of cycles 1 to 3 (week 3, 6 and 9, but this can vary depending on chemotherapy regimen used)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1) Over 18 years of age; 
+2) Commencing their first cycle of chemotherapy as an outpatient at one of the participating cancer centres; 
+3) Fully aware of their cancer diagnosis;
+4) Residing at one of the suburbs serviced by the community centres enrolled in the study, for the duration of the study.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1) Unable to give informed consent; 
+2) Receiving treatment for haematological cancers;
+3) Receiving concurrent chemotherapy and radiotherapy.
+4) Non English Speaking
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment will be achieved using opaque, sequentially numbered envelopes containing group assignment</concealment>
+    <sequence>Patients will be individually randomised to intervention or control group in random permuted blocks.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size calculation:
+
+Data from our retrospective study were used to calculate the required sample size. There were 518 chemotherapy patients of whom 233 (45%) made an unplanned presentation to hospital within 6 months of receiving chemotherapy.  Of the 518 patients there were 363 in the target group for this study (cycles 1, 2 &amp; 3), of whom 132 (36.4%) made 204 unplanned presentations on cycles 1, 2 &amp; 3. The research team estimates that the intervention will reduce this rate by 35% (response rate ratio: 0.65). Following the Poisson regression procedure within PASS, to achieve a 35% reduction in number of presentations, assessed once at the end of cycle 3, with a=0.05 (two-tailed) and beta=0.80, a total sample size of 326 is required. This represents a reduction in unplanned presentations from 91/163 (controls) to 59/163 (intervention). The sample size will be increased by 20% to 408 to allow for loss to follow-up. 
+
+Primary data analysis:
+The primary analysis of the primary outcome, unplanned hospital presentations, will be unadjusted and will use a negative binomial regression model to test the effect of the intervention.
+
+The primary analysis of all secondary outcomes will be a comparison of values at the end of cycle 3 between intervention and control groups using a 2-sample t-test. </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/11/2014</anticipatedstartdate>
+    <actualstartdate>4/06/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>408</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Concord Repatriation Hospital - Concord</hospital>
+    <hospital>The Chris O’Brien Lifehouse - Camperdown</hospital>
+    <postcode>2137 - Concord</postcode>
+    <postcode>2050 - Camperdown</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Sydney</primarysponsorname>
+    <primarysponsoraddress>Cancer Nursing Research Unit
+Level 6 North, Chris O'Brien Lifehouse
+119-143 Missenden Road, Camperdown NSW 2050
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>N/A</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>Sydney Local Health District, Community Health</othercollaboratorname>
+      <othercollaboratoraddress>KGV building, Level 11
+Missenden Road, Camperdown, NSW,2050
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will determine the effect of a shared care pathway intervention on unplanned presentations to hospital, physical and psychosocial health of chemotherapy outpatients. Who is it for? You may be eligible to join this study if you are aged 18 years or above and have been diagnosed with any cancer (except for haematological cancers) and are commencing the first cycle of chemotherapy as an outpatient. Study details Participants in this study are randomly allocated (by chance) to one of two groups. Participants in one group will receive home visits from a community nurse during the first three cycles of chemotherapy as well as usual care and support from their oncologist and staff at the cancer centre. The community nurse visits will focus on assessment of the patients general health, physical and psychosocial wellbeing, with emphasis on chemotherapy-related problems. Participants in the other group will only receive usual care and support from their oncologist and staff at the cancer centre. Participants will be followed up until the end of the third cycle to determine any unplanned hospital presentations, quality of life, physical and other psychosocial health outcomes. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HREC Sydney Local Health District (RPAH)</ethicname>
+      <ethicaddress>Research Development Office
+Royal Prince Alfred Hospital
+Camperdown NSW 2050</ethicaddress>
+      <ethicapprovaldate>7/05/2013</ethicapprovaldate>
+      <hrec>Protocol No X13-0101</hrec>
+      <ethicsubmitdate>19/04/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Kate White</name>
+      <address>Level 6 North, Chris O'Brien Lifehouse
+119-143 Missenden Road, 
+Camperdown NSW 2050
+</address>
+      <phone>+612 8627 1567</phone>
+      <fax>+61 2 8627 1500</fax>
+      <email>kate.white@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chantale Boustany</name>
+      <address>Level 6 North, Chris O'Brien Lifehouse
+119-143 Missenden Road, 
+Camperdown NSW 2050
+</address>
+      <phone>+612 8627 0405</phone>
+      <fax>+61 2 8627 1500</fax>
+      <email>chantale.boustany@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chantale Boustany</name>
+      <address>Level 6 North, Chris O'Brien Lifehouse
+119-143 Missenden Road, 
+Camperdown NSW 2050
+</address>
+      <phone>+612 8627 0405</phone>
+      <fax>+61 2 8627 1500</fax>
+      <email>chantale.boustany@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chantale Boustany</name>
+      <address>Level 6 North, Chris O'Brien Lifehouse
+119-143 Missenden Road, 
+Camperdown NSW 2050
+</address>
+      <phone>+612 8627 0405</phone>
+      <fax>+61 2 8627 1500</fax>
+      <email>chantale.boustany@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

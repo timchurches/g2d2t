@@ -1,0 +1,187 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336214">
+  <stage>Registered</stage>
+  <submitdate>9/11/2010</submitdate>
+  <approvaldate>18/11/2010</approvaldate>
+  <actrnumber>ACTRN12610001011077</actrnumber>
+  <trial_identification>
+    <studytitle>Rapid depression treatment in cancer patients</studytitle>
+    <scientifictitle>Effects of low dose intramuscular ketamine on depression ratings in depressed patients with cancer in palliative care</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Major depressive disorder</healthcondition>
+    <healthcondition>Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>- Stage 1: ketamine 1mg/kg single dose, open label. Patients who show a response to ketamine in Stage 1 are eligible to enter Stage 2.
+- Stage 2: ketamine 1mg/kg multiple doses repeated at approximately weekly intervals, open label. Patients may continue to receive ketamine as long as beneficial effects on mood persist
+- After completion of Stage 1, enrollment in Stage 3 will commence. Patients who have participated in Stages 1/2 are not eligible to enter Stage 3.
+- Stage 3: patients will be randomized to one of 3 ketamine dose arms (0.1mg/kg, 0.5mg/kg, 1.0mg/kg IM), single dose, double blind</interventions>
+    <comparator>0.1 vs 0.5 vs 1.0mg/kg</comparator>
+    <control>Dose comparison</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Montgomery-Asberg Depression Rating Scale (MADRS).  Analysis will be on mean MADRS scores at each time point; change from baseline in MADRS; proportion of subjects showing response (&gt;50% reduction at each timepoint) and remission (MADRS &lt;7) at each timepoint). Relapse post-injection is a MADRS score &gt;20.</outcome>
+      <timepoint>At baseline, 1, 2, 4, 24, 48, 72 and 168h post  injection</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>HADS and Demoralization scales</outcome>
+      <timepoint>Baseline, 24 hours post injection</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety and tolerability based on self-report (via clinical interview).</outcome>
+      <timepoint>Up to 168 hours post injection</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Male or female; any cancer type; receiving palliative care; life expectancy &gt;3 months. 
+Major depression with baseline Montgomery-Asberg Depression Rating Scale (MADRS) scores &gt;20. 
+Advanced (incurable cancer), adequate hepatic/renal function.</inclusivecriteria>
+    <inclusiveminage>20</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Presence of cerebral metastases, ECOG performance status &lt;4, not on other experimental medication. Current use of ketamine for analgesia.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Stage 1 and 2 - open label (to ensure ketamine has an antidepressant effect)
+Stage 3: parallel-group double blind dose response (0.1 vs 0.5 vs 1.0mg/kg IM). Patients will be allocated blinded dose of ketamine based on enrollment number. These will be allocated sequentially. Study medication will be prepared by staff not involved with dosing or assessment of outcomes</concealment>
+    <sequence>Computer - generated random code</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>23/03/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>Department of Psychological Medicine
+PO Box 917
+Dunedin 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago</fundingname>
+      <fundingaddress>Department of Psychological Medicine
+PO Box 917
+Dunedin 9054</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Dunedin Public Hospital</sponsorname>
+      <sponsoraddress>Great King St
+Dunedin 9054</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Low dose ketamine has been shown to produce rapid (within hours) improvements in mood in patients with major depression. We plan to test ketamine in depressed patients with advanced cancer, for whom rapid improvement in mood may be particularly important in the context of limited life expectancy. The study has 3 stages: Stage 1: showing that ketamine improves mood; Stage 2: showing this effect can be maintained after repeated (weekly) dosing); and Stage 3: exploring the relationship between dose and improvement in mood.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Lower South Regional Ethics Committee</ethicname>
+      <ethicaddress>PO Box 5849
+Dunedin 9016</ethicaddress>
+      <ethicapprovaldate>21/12/2010</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>9/11/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Paul Glue</name>
+      <address>Department of Psychological Medicine
+PO Box 913
+Dunedin 9054</address>
+      <phone>64 3 470 3867</phone>
+      <fax />
+      <email>paul.glue@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Paul Glue</name>
+      <address>Department of Psychological Medicine
+PO Box 913
+Dunedin 9054</address>
+      <phone>64 3 470 3867</phone>
+      <fax />
+      <email>paul.glue@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

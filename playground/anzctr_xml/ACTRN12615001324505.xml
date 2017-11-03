@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369709">
+  <stage>Registered</stage>
+  <submitdate>30/11/2015</submitdate>
+  <approvaldate>3/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001324505</actrnumber>
+  <trial_identification>
+    <studytitle>Phase 0 Trial of Gallium-68 tris-hydroxypyridinone  prostate specific membrane antigen (Ga-68 THP-PSMA)  positron emission tomography (PET) scanning for prostate cancer</studytitle>
+    <scientifictitle>In patients with prostate cancer, what is the uptake in tumours and normal tissue on positron emission tomography (PET) following administration of Ga-68 THP-PSMA?</scientifictitle>
+    <utrn>U1111-1174-3259</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>prostate cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Positron emission tomography / computed tomography (PET/CT) scan following intravenous administration of Gallium-68 THP-PSMA
+- administered activity of 250 MBq as a single bolus administration
+- scanning commencing following injection encompassing field-of-view from vertex to upper thighs immediately
+- total duration of imaging 3 hours
+</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To assess Ga-68 THP-PSMA safety</outcome>
+      <timepoint>- vital signs following THP-PSMA injection
+- blood tests (full blood count, urea and electrolytes, liver function tests) 24 hours following injection
+- telephone follow-up at 24 hours</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To assess the biodistribution of Ga-68 THP-PSMA </outcome>
+      <timepoint>Analysis of PET images throughout 3 hour scan period:: description of standardised uptake value (SUV) in normal tissues</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To calculate radiation dosimetry of Ga-68 THP-PSMA </outcome>
+      <timepoint>Analysis of PET images throughout the 3 hour scan period: radiation dosimetry expressed as microSv/MBq of administered activity</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess optimal imaging time for Ga-68 THP-PSMA using assessment of dynamic PET scans</outcome>
+      <timepoint>At time of scanning
+- qualitative assessment by visual analysis of the images at different time points</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Determine by immunohistochemistry expression of PSMA relationship to Ga-68 THP-PSMA uptake as determined by PET scanning</outcome>
+      <timepoint>Visual analysis of PSMA uptake within prostate gland compared to PSMA immunohistochemistry from surgical specimen following prostatectomy</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Age 18  80 years
+2.	Proven adenocarcinoma of the prostate gland.
+3.	All patients have to be suitable for surgical treatment as part of their normal management
+4.	Able to comply with treatment plans, scheduled visits, all study PET imaging and follow-up</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Any prior treatment for the prostate gland tumours</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>Descriptive. The sample size of 14 patients is a pragmatic sample size for an exploratory phase 0 study.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 0</phase>
+    <anticipatedstartdate>4/12/2015</anticipatedstartdate>
+    <actualstartdate>4/12/2015</actualstartdate>
+    <anticipatedenddate>1/06/2016</anticipatedenddate>
+    <actualenddate>1/02/2017</actualenddate>
+    <samplesize>14</samplesize>
+    <actualsamplesize>14</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/02/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Peter MacCallum Cancer Institute - East Melbourne</hospital>
+    <postcode>3002 - East Melbourne</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Peter MacCallum Cancer Centre</primarysponsorname>
+    <primarysponsoraddress>St Andrews Place
+East Melbourne VIC 3002</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Theragnostics Ltd</fundingname>
+      <fundingaddress>The Barn, Manor Farm, Church Lane, Chilcompton, Radsock, Avon BA3 4HP</fundingaddress>
+      <fundingcountry>United Kingdom</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary aim of this study is to test the safety as well as define the normal and abnormal scan appearances following injection of a radioactive substance called Gallium-68 tris-hydroxypyridinone  prostate specific membrane antigen (Ga-68 THP-PSMA) and imaging with positron emission tomography (PET).
+
+Who is it for? You may be eligible to join this study if you have prostate adenocarcinoma and are scheduled to undergo a prostatectomy.
+
+Study details: In this study, we will use a radioactive molecule (called Gallium-68) that, after injection into a vein, specifically attaches to prostate cancer cells by binding to a receptor called PSMA. You will need to visit the hospital for an additional occasion for approximately 4 hours. An intravenous line will be inserted into a vein in each arm, one to give the investigational product, and another for sampling your blood during the scan. Ga-68 THP-PSMA will be injected and several scans performed over a 3 hour period. You will be closely observed throughout this period with regular recording of your vital signs.
+
+The radioactive molecule used in this study is not approved by the Therapeutic Goods Administration (TGA). This study will help inform the utility of this agent for imaging prostate cancer, and design of future larger studies assessing accuracy.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre Ethic Committee</ethicname>
+      <ethicaddress>Level 4, 10 St Andrews Place
+East Melbourne, VIC 3002</ethicaddress>
+      <ethicapprovaldate>30/11/2015</ethicapprovaldate>
+      <hrec>15/115</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Hofman</name>
+      <address>Peter MacCallum Cancer Centre
+7 St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+61396561852</phone>
+      <fax />
+      <email>michael.hofman@petermac.org</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Hofman</name>
+      <address>Peter MacCallum Cancer Centre
+7 St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+61396561852</phone>
+      <fax />
+      <email>michael.hofman@petermac.org</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Hofman</name>
+      <address>Peter MacCallum Cancer Centre
+7 St Andrews Place
+East Melbourne VIC 3002</address>
+      <phone>+61396561852</phone>
+      <fax />
+      <email>michael.hofman@petermac.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

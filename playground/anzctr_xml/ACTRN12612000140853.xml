@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="361986">
+  <stage>Registered</stage>
+  <submitdate>23/01/2012</submitdate>
+  <approvaldate>1/02/2012</approvaldate>
+  <actrnumber>ACTRN12612000140853</actrnumber>
+  <trial_identification>
+    <studytitle>How does the genetic make-up of renal cell cancer affect the activity of dovitinib?</studytitle>
+    <scientifictitle>Dovitinib In 1st-Line Renal Cell Carcinoma, an Investigation into tumour Gene status and Correlation with Efficacy  1st exploratory study</scientifictitle>
+    <utrn>U1111-1127-6276</utrn>
+    <trialacronym>DILIGENCE-1</trialacronym>
+    <secondaryid>CTKI258AAU02T (internal Novartis trial ID number)</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Renal cell cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Dovitinib 500 mg taken orally once daily 5 days on / 2 days off, until disease progression</interventions>
+    <comparator>nil</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Primary outcome 1: Progression-free survival (PFS) as assessed by RECIST 1.1.</outcome>
+      <timepoint>Baseline, every 9 weeks until week 54, then every 12 weeks until disease progression</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary outcome 1: Response rate (RR) using RECIST 1.1</outcome>
+      <timepoint>Baseline, every 9 weeks until week 54, then every 12 weeks until disease progression</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary outcome 2: Overall Survival (OS)</outcome>
+      <timepoint>24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary outcome 3: Proportion of subjects who are FGFR-1,-2,-3 amplified using gene analysis by Fluorescent in-situ hybridization</outcome>
+      <timepoint>baseline, disease progression</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary outcome 4: Efficacy (PFS, RR, OS) by FGFR gene amplification status as measured by Spearman's rho correlation coefficient</outcome>
+      <timepoint>8 months, 12 months, 24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety profile of dovitinib (specifically in this first-line patient population) using NCI CTCAE v4.0</outcome>
+      <timepoint>weekly for weeks 1-3; then every 3 weeks until disease progression; then 3-monthly for up to 2 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Advanced / metastatic renal cell (clear cell) carcinoma
+FFPE tumour tissue available for gene status analysis
+ECOG PS = 1
+Adequate organ function</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Uncontrolled brain metastases
+Another primary malignancy &lt; 3 years prior to starting study treatment
+Prior systemic anticancer treatment
+Uncontrolled hypertension
+Impaired cardiac function; clinically significant cardiac disease
+Concurrent severe and/or uncontrolled concomitant medical conditions</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/03/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Auckland District Health Board (ADHB)</primarysponsorname>
+    <primarysponsoraddress>Auckland City Hospital
+Park Road
+Grafton
+Auckland 1023
+New Zealand</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Novartis Pharmaceuticals Australia Pty Limited</fundingname>
+      <fundingaddress>54 Waterloo Road 
+North Ryde
+NSW 2111
+Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>University of Auckland</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 92019
+Victoria Street West
+Auckland 1142
+New Zealand</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>IGENZ Ltd</othercollaboratorname>
+      <othercollaboratoraddress>PO Box 106-542
+Auckland 1143
+New Zealand</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The main purpose of this study is to find out how useful dovitinib is when given as the initial treatment to participants with advanced kidney cancer, that has spread to other parts of the body. The usefulness of dovitinib will be assessed by: how long the disease is controlled while participants are receiving the drug, the proportion of participants who get a reduction in the size of their tumours and how long participants live (both while on dovitinib and on any subsequent therapy they may receive). 
+If participants have secondary disease in the bones, the study will evaluate how useful dovitinib is in controlling this site of disease. In addition, this study will look for changes in the genetic makeup of tumour cells and see if some of these changes are associated with a benefit from dovitinib. The study will also compare and contrast the genetic changes in the primary tumour cells with cells from secondary tumour specimens, and with cells from tumour specimens taken if a participants disease has worsened. The purpose of the latter is to identify possible ways in which the tumour becomes resistant to the study drug.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern X Regional Ethics Committee</ethicname>
+      <ethicaddress>Private Bag 92522
+Wellesley St
+Auckland 1141
+New Zealand</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>NTX/11/12/119</hrec>
+      <ethicsubmitdate>28/11/2011</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Reuben Broom, Medical Oncologist</name>
+      <address>Oncology Department
+Regional Cancer and Blood Services
+Auckland City Hospital
+2 Park Rd 
+Grafton
+Auckland 1023
+New Zealand</address>
+      <phone>+64 9 307 4949 ext 23868</phone>
+      <fax>+64 9 375 4391</fax>
+      <email>reubenb@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Kerin Thompson, Project Manager</name>
+      <address>Adult Oncology Research Centre
+Regional Cancer and Blood Services
+Auckland City Hospital
+2 Park Rd 
+Grafton
+Auckland 1023
+New Zealand</address>
+      <phone>+64 9 307 4949 ext 25197</phone>
+      <fax>+64 9 375 4391</fax>
+      <email>kerint@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Kerin Thompson</name>
+      <address>Adult Oncology Research Centre
+Regional Cancer and Blood Services
+Auckland City Hospital
+2 Park Rd 
+Grafton
+Auckland 1023
+New Zealand</address>
+      <phone>+64 9 307 4949 ext 25197</phone>
+      <fax>+64 9 375 4391</fax>
+      <email>kerint@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

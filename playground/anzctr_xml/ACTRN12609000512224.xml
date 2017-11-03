@@ -1,0 +1,178 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83479">
+  <stage>Registered</stage>
+  <submitdate>22/12/2008</submitdate>
+  <approvaldate>29/06/2009</approvaldate>
+  <actrnumber>ACTRN12609000512224</actrnumber>
+  <trial_identification>
+    <studytitle>Cone Beam Computed Tomography image guided radiation therapy for prostate cancer to improve treatment accuracy and outcomes.</studytitle>
+    <scientifictitle>Improved radiation delivery accuracy to the clinical treatment volume and concommitant reduction in incidental dose to organs-at-risk: assessment and optimisation of cone-beam computed tomography as a potential future standard of care for highly conformal radiation mono-therapy for prostate carcinoma</scientifictitle>
+    <utrn />
+    <trialacronym />
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prostate Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Cone-beam computed tomography (CBCT) with low-energy x-rays is a new image-guidance modality in external beam radiotherapy that permits diagnostic-quality three-dimensional cross-sectional images of a patient to be acquired while lying in the actual treatment position under a medical linear accelerator.  Computed Tomography requires multiple projection images of the patient to be acquired over a 180degree or 360 degree rotation of the imaging device.  CBCT is hence similar to the more ubiquitous Computed Axial Tomography (CAT) scanners used in diagnostic radiology, except in the mathematical details of filtered back-projection and axial reconstruction from a conical projection of diagnostic x-rays.  The high quality of soft-tissue definition in CBCT allows the full spatial extent and orientation of the prostate gland to be imaged routinely with minimal additional radiation exposure, and CBCT does not depend on any invasive implantation of fiducial markers.
+
+CBCT therefore provides the most comprehensive information about the prostate, bladder and rectum status, and can be used immediately prior to radiation to correct for the displacement of the prostate gland with sub-millimeter accuracy.  Hence, the highest degree of treatment accuracy is made feasible with CBCT and this technique can itself be used as a diagnostic-quality reference against which the accuracy of conventional portal imaging of bony landmarks and other fiducial-based methods can be benchmarked.
+
+The additional radiation dose (in excess to the prescribed radiation dose) to the patient due to the low-energy x-rays used in CBCT has been measured by an accredited medical physicist according to International Electrotechnical Commission standards, and the additional dose would not exceed a volume weighted integral dose of 3 centigray (cGy) per CBCT scan in the imaging area.  For relative comparison, the dose to the clinical target volume for each fraction of treatment is 200 cGy.  Hence, even in a worst-case estimate where CBCT were prescribed for each fraction of treatment, the additional imaging dose would amount to no more than 0.15% of  the radiation treatment dose.  The increased accuracy of radiation delivery to a mobile target, such as a prostate gland, concommitantly with improved sparing of adjacent organs-at-risk leading to reduced risk of radiotherapy-related side effects arising from the additional x-radiation exposure.
+
+The radiation therapy dose prescribed for patients in phase 1 is 7400cGy in 37 fractions at 200cGy per daily fraction, 5 fractions per week, over 7 and a half weeks. The imaging x-ray dose due to weekly CBCT (7 scans) is 21 cGy.
+
+The radiation therapy dose prescribed for patients in phase 2 is 7400cGy in 37 fractions at 200cGy per daily fraction, 5 fractions per week, over 7 and a half weeks. Phase 2 will recruit different patients to those used for Phase 1 of the study.  The imaging x-ray dose due to daily CBCT in the first 3 fractions followed by weekly scans (10 in total) is 30 cGy.
+
+Phase 3 is purely digital re-analysis of image data already collected in phase 2, involving clinical assessment of a novel technique of mathematical image reconstruction.  Hence no additional patients are to be recruited in Phase 3 (the data used will be from patients who attend phase 2) and no additional scans will be required.</interventions>
+    <comparator>Not Applicable as this is a Single Group Study</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Comparison of prescribed dose coverage of the TV (p) in CBCT guided set-up with  current pattern of care.  The prescribed dose coverage will be assessed using a commercial treatment dosimetry system able to fuse multiple image sets and calculate dose-volume histograms.</outcome>
+      <timepoint>6 months from patient enrolment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of image quality and work flow efficiency between Limited Angle Cone-Beam computed tomography (LA-CBCT) and Cone-beam computed tomography(CBCT).  Workflow efficiency and image quality will be measured by time and ability to localize the TV (p) accurately.</outcome>
+      <timepoint>12 months from patient enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inter-observer variation in defining the prostate gland location over the course of treatment compared to when using either Cone-beam computed tomography (CBCT) or Limited-angle cone-beam digital tomosynthesis (LA-CBDT).</outcome>
+      <timepoint>6 months from patient enrolment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Histologically confirmed prostate adenocarcinoma Localised prostate cancer of any T-stage Gleason score and Prostate Specific Antigen (PSA)
+Planned by Computed Tomography (CT) study for radical radiotherapy that is - 7400 centigrays (cGy) in 37 fractions. Informed consents obtained for treatment and for clinical study</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Prior radical prostatectomy.
+Prior high dose pelvic radiation therapy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>1/07/2009</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>75</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Perth Radiation Oncology</primarysponsorname>
+    <primarysponsoraddress>24 Salvado Road
+WEMBLEY WA 6014</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This research study will investigate using advanced prostate localisation x-ray imaging to make sure the radiation beams are on the target every day.  This imaging is called Cone Beam Computed Tomography (or CBCT for short)</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Bellberry Human Research and Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>5/11/2008</ethicapprovaldate>
+      <hrec>B151/08</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Chris Harper / Dr Tee Lim</name>
+      <address>Perth Radiation Oncology
+24 Salvado Road Wembley WA 6014</address>
+      <phone>+61 8 9381 5655</phone>
+      <fax>+61 9 9381 4364</fax>
+      <email>harperc@iinet.net.au or Teesinlim@gmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Sharon Ray / Liz Kearney</name>
+      <address>Perth Radiation Oncology
+24 Salvado Road Wembley WA 6014</address>
+      <phone>+61 8 9381 5655</phone>
+      <fax>+61 8 9381 4364</fax>
+      <email>sharon.ray@radonc.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Sharon Ray</name>
+      <address>Perth Radiation Oncology
+24 Salvado Road
+WEMBLEY WA 6014</address>
+      <phone>+61 8 9381 5655</phone>
+      <fax>+61 8 9381 4364</fax>
+      <email>sharon.ray@radonc.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

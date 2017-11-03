@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370322">
+  <stage>Registered</stage>
+  <submitdate>12/03/2016</submitdate>
+  <approvaldate>31/03/2016</approvaldate>
+  <actrnumber>ACTRN12616000416493p</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating the efficacy, safety, and cost-effectiveness of adjuvant ginger supplementation for chemotherapy-induced nausea and vomiting</studytitle>
+    <scientifictitle>Supplemental Prophylactic Intervention for Chemotherapy induced nausea and Emesis (SPICE) trial of the efficacy, safety, and cost-effectiveness of adjuvant ginger supplementation: A multi-center randomized controlled trial</scientifictitle>
+    <utrn />
+    <trialacronym>SPICE</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chemotherapy-induced nausea</healthcondition>
+    <healthcondition>Malnutrition</healthcondition>
+    <healthcondition>Treatment-related fatigue</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Alternative and Complementary Medicine</conditioncode1>
+      <conditioncode2>Herbal remedies</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1.2g standardised Ginger (Zingiber officinale) extract in capsule form. Frequency: 4x300mg capsules (1.2g total) per day, every 3-5 hours. Duration: 5 days per chemotherapy cycle (Day of chemotherapy and 4 days directly after) for three 3 cycles. Initial dose is 1 hour before chemotherapy commences.</interventions>
+    <comparator>Placebo - cellulose capsule containing dextrose powder</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>chemotherapy-induced nausea related-quality of life as assessed by the FLIE-5DR self-reported questionnaire</outcome>
+      <timepoint>Baseline and 5 days post chemotherapy for three chemotherapy cycles</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Control of nausea and vomiting using the MAT self-reported questionnaire</outcome>
+      <timepoint>Baseline and 5 days post chemotherapy during each of the three chemotherapy cycles</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Treatment-related fatigue as assessed using as assessed by the FACIT-F self-reported questionnaire</outcome>
+      <timepoint>Baseline and 5 days post chemotherapy during each of the three chemotherapy cycles</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nutrition status as assessed using the PG-SGA assessment tool</outcome>
+      <timepoint>At the commencement of first three chemotherapy cycles</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost-effectiveness of ginger intervention using the EuroQol questionnaire and collection of health-related expenditures (GP visits, hospital admissions, medication use etc)</outcome>
+      <timepoint>Data collected throughout study and assessed once trial period is complete</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse events as assessed using the National Cancer Institute Common Terminology Criteria for adverse events. These include patient-reported adverse events, platelet-related events (e.g. bruising, bleeding), and gastrointestinal symptoms (e.g.heartburn).</outcome>
+      <timepoint>All adverse events will be reported from baseline to final study-related procedure (24 weeks) </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Chemotherapy-naive (i.e. have not yet started chemotherapy) patients scheduled for chemotherapy classed as moderately or severely emetogenic.
+2.	Scheduled to receive a single or combined agent or chemotherapy regimen repeated in two, three or four week cycles.
+3.	&gt;18 years. 
+4.	Baseline Karnofsky score &gt;60.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Scheduled for concurrent radiotherapy.
+2.	Pregnant or lactating women.
+3.	Concurrent use of other ginger-containing supplements and ingestion of large quantities of ginger (consumption of &gt;1 ginger product &gt; 4 days in the past week).
+4.	History of adverse reactions to ginger.
+5.	Diagnosed with liver disease, metabolic risk factors for nausea (i.e. electrolyte imbalances), or mechanical risk factors for nausea (i.e. intestinal obstruction).
+6.	Chronic alcohol use (predictive factor for decreased CIN risk).
+7.	Experiencing nausea and vomiting for reasons other than chemotherapy (e.g. newly-prescribed opioids) or diagnosed with malignancies that might cause nausea and vomiting due to the position of the cancer (e.g. gastrointestinal cancer).
+8.	Severe thrombocytopenia or likely to experience severe thrombocytopenia (platelets &lt;50 x 10^9/L).
+9.	Prescribed warfarin or other anti-coagulant therapy, hypoglycaemias and insulin, cyclosporine, tacrolimus, and nonsteroidal anti-inflammatory drugs (hypothesised interactions).
+10.	Swallowing difficulties preventing supplement ingestion.
+11.	Concurrent neoplasms or illness that induce nausea independent of chemotherapy.
+12.	Self-prescribed nausea therapies or complementary products.
+13.	Previously undergone chemotherapy treatment.
+14.	Undergoing weekly or multi-day chemotherapy regimens.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>To ensure subsequent unbiased randomisation and allocation concealment, the randomisation sequence will be developed by the manager of the PAH clinical trials service, who is independent of the study team. The trial manager will notify the team by email of the allocation of each patient only after baseline measures are taken. De-identified supplements will already be randomised prior to delivery to the recruitment sites and all staff involved in recruitment will be blinded to this randomisation. </concealment>
+    <sequence>Randomisation will be generated using computer software and participants will be stratified according to emetogenicity of prescribed chemotherapy, age, recruitment site, and gender. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/07/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>278</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Bond University</primarysponsorname>
+    <primarysponsoraddress>Bond University, 14 University Drive, Robina, Queensland, 4226</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cancer Council Queensland </fundingname>
+      <fundingaddress>553 Gregory Terrace, Fortitude Valley QLD 4006</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>What the is aim of this study? The primary purpose of this trial is to evaluate the efficacy and cost-effectiveness of ginger supplementation for the treatment of chemotherapy-induced nausea and vomiting. 
+Who is it for? You may be eligible to participate in this trial if you are aged 18 years or older, and are scheduled to begin your first regimen of chemotherapy using an agent classed as moderately or severely emetogenic, 
+What does it involve? Participants enrolled in this trial will be randomly allocated (by chance) to receive either 1.2g ginger supplementation or a placebo per day in capsule form for five days of each of the first three chemotherapy cycles. Participants will complete a number of questionnaires relating to quality of life, control of nausea and vomiting and fatigue at baseline prior to commencing supplementation and five days after each of the first three chemotherapy cycles. 
+It is hoped that the findings of this trial will provide information on the efficacy of supplemental ginger for chemotherapy-induced nausea and vomiting for cancer patients.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Metro South ethics committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/05/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Liz Isenring</name>
+      <address>Bond University, 14 University Drive, Robina, QLD 4226</address>
+      <phone>+61 7 5595 5530</phone>
+      <fax />
+      <email>lisenrin@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Wolfgang Marx</name>
+      <address>Bond University, 14 University Drive, Robina, Queensland, 4226</address>
+      <phone>+61 7 5595 5530</phone>
+      <fax />
+      <email>wmarx@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Wolf Marx</name>
+      <address>Bond University, 14 University Drive, Robina, Queensland, 4226</address>
+      <phone>+61 7 5595 5530</phone>
+      <fax />
+      <email>wmarx@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Wolf Marx</name>
+      <address>Bond University, 14 University Drive, Robina, Queensland, 4226</address>
+      <phone>+61 7 5595 5530</phone>
+      <fax />
+      <email>wmarx@bond.edu.au</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

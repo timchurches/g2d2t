@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370467">
+  <stage>Registered</stage>
+  <submitdate>5/04/2016</submitdate>
+  <approvaldate>28/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000841471</actrnumber>
+  <trial_identification>
+    <studytitle>A pilot study involving pre-surgery breast Magnetic resonance Imaging (MRI) for target volume delineation for breast- conserving  radiation therapy   </studytitle>
+    <scientifictitle>Pre-surgery MRI for target volume delineation in breast-conserving therapy: A pilot study</scientifictitle>
+    <utrn>U1111-1181-5576 </utrn>
+    <trialacronym>Pre-Surgery Breast MRI</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Breast Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention involved in this study is the introduction of a pre-surgery breast MRI as comparison to the standard of no pre-surgery imaging to guide radiation oncologists in determining radiotherapy treatment volumes. Currently the standard of care is to use CT images. This study will compare the use of MRI with this standard of CT. Patient treatment will still be based on the CT images and there will be no changes to the standard treatment practice. The MR images will require administration of an intravenous contrast agent. These MRIs will be undertaken on two occasions if the participant is not having chemotherapy (within approximately one week prior to surgery and then at the same time as planning imaging for radiotherapy treatment) as part of their standard treatment or three times if the participant is having chemotherapy (within approximately one week prior to surgery, within approximately one week post-surgery and then at the same time as planning imaging for radiotherapy treatment). Two MRI scans will be performed on each occasion with the participant lying on their back (supine) for one scan then lying on their front (prone) for the other scan. The MRI scan will take approximately 60 minutes and a contrast agent will be administered through a cannula during this examination. The MRIs will be undertaken by clinical MRI and radiotherapy staff with expertise required for clinical use of this imaging modality. Definition of the target volumes on the MRIs will be undertaken by radiation oncologists, radiologists and radiation therapists familiar with breast cancer treatment volumes.
+These images will not be used for clinical treatment planning during the course of this study. 
+
+</interventions>
+    <comparator>There will not be a control group per say. The volumes determined on the MRI datasets will be compared with the volumes determined on the current clinical standard of CT images which are taken for standard care.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To assess the feasibility of deformable image registration between pre-surgery MRI and post-surgery MRI. This will be assessed by comparing differences in the radiotherapy treatment planning volumes and associated treatment plans when this extra ( pre-surgery) imaging information is available compared to the standard approach when this information is not available. This comparison will be undertaken for the purpose of this study and standard department processes will be used for radiotherapy treatment. </outcome>
+      <timepoint>At time of radiotherapy planning</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To quantify the variability between pre-surgery and post-surgery target volumes. This will be assessed by comparison of differences in the radiotherapy treatment planning volumes and associated treatment plans generated for the purpose of this study with standard radiotherapy treatment processes. This will be done by direct plan comparison using the radiotherapy treatment planning system. </outcome>
+      <timepoint>At time of radiotherapy planning</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare the difference in image quality between supine and prone MRI scans for pre-surgery and post-surgery scans. This will be assessed by comparing both qualitative and quantitative metrics on image quality comparing the different imaging datasets. This will be done by comparing the signal to noise, uniformity and distortion for prone and supine MRIs.</outcome>
+      <timepoint>At time of radiotherapy planning</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Aged 18 years or older
+Clinical T1-T2, N0 staged breast cancer
+Scheduled for breast conserving surgery
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>History of ipsilateral breast cancer
+Contra-indications for MRI e.g. ferromagnetic materials within the patient, claustrophobia
+Receiving neoadjuvant treatment
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>9/05/2016</actualstartdate>
+    <anticipatedenddate>3/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>10</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <postcode>2170 - Liverpool</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Lois Holloway</primarysponsorname>
+    <primarysponsoraddress>Liverpool Hospital
+Corner of Elizabeth and Goulburn Sts
+Liverpool
+New South Wales 2170, Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Liverpool Cancer Services Trust Fund</fundingname>
+      <fundingaddress>1 Elizabeth St, Liverpool NSW 2170</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to provide proof of principle for the use of pre-surgery breast MRI to guide radiation oncologists in determining radiotherapy treatment volumes. 
+Who is it for? You may be eligible to join this study if you are a female aged 18 years or more and have an early stage breast cancer and are scheduled to undergo breast conserving surgery at Liverpool Hospital, NSW. 
+Study details The study will involve participants completing MRI scans in the supine and prone positions and as per their routine care, will also undergo routine radiotherapy planning CT scans. These scans will be performed before surgery, after surgery and before radiotherapy for patients that are also receiving chemotherapy treatment. These images will be used to compare treatment volumes used to determine where the radiation is delivered generated based on the MRI information and based on the standard of care the CT information. Standard practice will be used for treatment, that is treatment volumes will be based on CT with no change in standard practice. It is hoped that this study will provide a proof of principle that pre-surgery MRI can be used to guide radiation oncologists in determining radiotherapy treatment volumes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Western Sydney Local Health District</ethicname>
+      <ethicaddress>Research and Ethics Office
+Locked Bag 7103
+Liverpool BC
+NSW 2871
+</ethicaddress>
+      <ethicapprovaldate>27/08/2015</ethicapprovaldate>
+      <hrec>HREC/15/LPOOL/299</hrec>
+      <ethicsubmitdate>6/07/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Lois Holloway</name>
+      <address>Dept Radiation Oncology and Ingham Institute
+South Western Sydney Cancer Services
+Locked Bag 7103
+Liverpool BC NSW 1871
+
+ 
+</address>
+      <phone>+61 (0)2 87389218</phone>
+      <fax>+61 (0)2 98285299</fax>
+      <email>Lois.Holloway@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Mel Grand</name>
+      <address>Liverpool Hospital
+Corner of Elizabeth and Goulburn Sts
+Liverpool
+New South Wales 2170, Australia</address>
+      <phone>+61(0)2 8738 9181</phone>
+      <fax>+61(0)2 8738 9205</fax>
+      <email>melissa.grand@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Lois Holloway</name>
+      <address>South Western Sydney Cancer Services
+Locked Bag 7103
+Liverpool BC NSW 1871</address>
+      <phone>+61 (0)2 87389218</phone>
+      <fax>+61 (0)2 98285299</fax>
+      <email>Lois.Holloway@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Mel Grand</name>
+      <address>Liverpool Hospital
+Corner of Elizabeth and Goulburn Sts
+Liverpool
+New South Wales 2170, Australia</address>
+      <phone>+61(0)2 8738 9181</phone>
+      <fax>+61(0)2 8738 9205</fax>
+      <email>melissa.grand@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

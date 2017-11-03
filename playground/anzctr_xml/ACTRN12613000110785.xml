@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363528">
+  <stage>Registered</stage>
+  <submitdate>24/01/2013</submitdate>
+  <approvaldate>30/01/2013</approvaldate>
+  <actrnumber>ACTRN12613000110785</actrnumber>
+  <trial_identification>
+    <studytitle>Investigation of respiratory-related tumour motion in liver cancer patients undergoing stereotactic body radiotherapy (SBRT) using audiovisual (AV) biofeedback</studytitle>
+    <scientifictitle>Evaluating the improvement in reproducibility of respiratory-related tumour motion (via fiducial maker surrogacy) for 30 liver cancer patients by assessing the potential clinical benefit of the audiovisual (AV) biofeedback respiratory guidance system.
+</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Liver cancer</healthcondition>
+    <healthcondition>Motion management</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Liver</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Audiovisual biofeedback is a non-invasive, interactive respiratory guide designed to significantly reduce respiratory irregularities in order to maximize the accuracy of treatment planning as well as the efficiency of treatment delivery. 
+The AV biofeedback system is comprised of audio-visual goggles that the patient wears to receive their audio and visual guiding prompts. The real-time respiratory input is provided by an infra-red camera tracking the motion of a marker positioned on the patient's abdomen. The AV biofeedback system will be implemented during two CBCT scans. By breathing with the guidance of AV biofeedback participants will wear the goggles and follow the audio and visual prompts as best they can. By breathing without the guidance of AV biofeedback, the participant does not wear the goggles, but their respiration motion is still monitored. 
+As a part of their clinical treatment plan, the patients will already be having 18 CBCT scans; by participating in this study, they will have only two additional CBCT scans.
+The patients specifically undergoing SBRT are chosen because they will already have fiducial markers implanted about their liver tumours. SBRT does not form a part of this study. This AV biofeedback study will be conducted during their treatment planning phase when they are receiving numerous CBCT scans.  
+Each study session will take a total of 1 hour inclusive of setting and packing up the AV biofeedback system in addition to the CBCT scans, but it may be completed in less time than this. After each session the patient will be asked to complete a questionnaire regarding the AV biofeedback system; each questionnaire is designed to only take 2 minutes to complete.   
+The additional 2 CBCT scans for this study will be performed one after the other within the one hour study session. There is one study session for each patient, the frequency of study sessions will be dependent on the recruitment rate of liver cancer patients at RPA Hospital. 
+The study session will be booked during the patient's treatment planning phase based on the availability of the patient's physician, radiation oncologist and medical physics staff. </interventions>
+    <comparator>Uncontrolled</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Evaluate improvement in the reproducibility of respiratory-related tumour motion for liver cancer patients with the AV biofeedback system.
+Respiratory motion of external marker and internal fiducial markers will be assessed via a respiratory displacement and frequency analysis. The regularity metric root mean square error (RMSE) of displacement and period will be used to quantify respiratory reproducibility. Numerous studies investigating respiratory motion have used this metric to measure respiratory reproducibility. 
+External respiratory data will be attained from the real-time position management (RPM) system, which is frequently used clinically and is already installed within the facility. The RPM system is an infra-red camera monitoring the motion of a marker block positioned on the patient's abdomen.
+Internal fiducial marker motion will be obtained from the CBCT images in a post-acquisition analysis.  </outcome>
+      <timepoint>Two years after first recruitment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Assess the clinical benefit of AV biofeedback based on: 
+(1) The proportion of patients benefiting from AV biofeedback will be obtained. The metric used to quantify respiratory reproducibility: RMSE will be used for this. A lower value of RMSE (in displacement or period) is indicative of more reproducible respiratory motion. The proportion of patients will be determined from the number of patients for whom their RMSE value was lower for AV biofeedback-guided respiration. 
+(2) Quantification of the improvement in dose distributions and treatment margins with and without AV biofeedback by reconstructing the delivered dose using a method developed for liver SBRT. The reconstruction of the delivered dose will be done using the dose reconstruction method of Poulsen, et al (Med Phys, 2012). This dose reconstruction method incorporates the motion information of the target and is compatible with a number of treatment planning systems including Eclipse, Varian Systems (available at Royal Prince Alfred Hospital).
+(3)  Quantification of the reduction in 4D CT errors with/without AV biofeedback by programming the Quasar phantom with the audiovisual and free-breathing traces.
+The Quasar phantom is commonly used in clinical quality assurance tests; it is a phantom that can be programmed to simulate a previously acquired respiratory signal. The respiratory signals that will be acquired in this study will then be used as input for the Quasar phantom to simulate during 4D CT (rather than the lower image quality: CBCT) to determine whether the AV biofeedback improves 4D CT image quality. 
+(4) Reconstruction of CBCT images into 4D CBCT using the respiratory signal and compare the image quality with/without AV biofeedback. The acquired CBCT images will be compiled into a 4D "movie" of the region of interest (i.e. liver and fiducial markers). The clarity of the images and real-time motion of the fiducial markers will be compared between AV biofeedback and unguided CBCT images.
+(5) Evaluation of the correlation between internal fiducial marker and external marker motion. With the internal and external respiratory signals acquired, how well these two motions correlate will be evaluated and whether AV biofeedback improves the correlation between internal and external respiratory motion. Internal motion will come from the motion of the fiducial markers, while external motion will be acquired from the the RPM system (i.e. motion of a marker block positioned on the patient's abdomen).
+The correlation will be based on the displacement of internal/external motion with respect to time. 
+</outcome>
+      <timepoint>2 years after first recruitment </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1)	 Liver cancer patients, either primary hepatocellular carcinoma or liver metastases, eligible for stereotactic radiotherapy
+2)	&gt; 18 years old
+3)	No gender or ethnic restrictions
+4)	Radio-opaque markers implanted (fiducials and/or surgical clips previously implanted in the liver)
+5)	Ability to give written informed consent and willingness to participate and comply with the study
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1)	Pregnant/ lactating women 
+2)	&lt;18 years old. 
+3)	Prior radiotherapy treatment to the liver
+4)	Life expectancy less than 6 months
+5)	Non-liver cancer patients</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Patients fitting the eligibility criteria will be identified and introduced to this study by the treating physicians who will participate as investigators in this study. </concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/03/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Sydney</primarysponsorname>
+    <primarysponsoraddress>Sydney Medical School  Central
+Room 475, Blackburn Building D06, Camperdown, NSW, 2006
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The main aim of this study is to investigate liver tumour motion management using audiovisual (AV) biofeedback, and test the hypothesis that the more regular respiration as produced by AV biofeedback will result in more reproducible liver tumour motion which will have numerous clinical advantages. We will conduct a 30 liver cancer patient clinical CBCT imaging and correlative outcomes study. 
+
+Who is it for?
+This study is open to liver cancer patients aged 18 and over with either primary hepatocellular carcinoma or liver metastases who are eligible for stereotactic radiotherapy. Patients will also need to have radio-opaque markers (fiducials and/or surgical clips) previously implanted in the liver.
+
+Trial Details
+In this study, participants will receive two additional cone-beam CT (CBCT) scans to investigate the impact of audiovisual (AV) biofeedback on liver tumour motion. AV biofeedback is a non-invasive, interactive respiratory guide designed to significantly reduce respiratory irregularities in order to maximise the accuracy of treatment planning as well as the efficiency of treatment delivery. The AV biofeedback system consists of a pair of audio-visual goggles that provide the participant with the audio and visual guidance-prompts. Each study session will take 1 hour to set up and pack up the equipment in addition to the two CBCT scans. There will be one study session for each of the 30 patients, the frequency of the study sessions will be dependent on the recruitment rate of liver cancer patients at RPA hospital. 
+
+Hypothesis
+We hypothesize that the more regular respiration as produced by AV biofeedback will result in more reproducible liver tumour motion which will have numerous clinical advantages such as improved image quality, dose distributions and treatment margins. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>ERC</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>27/02/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Regina Tse</name>
+      <address>Dept of Radiation Oncology, RPA Hospital, Missenden Road, Camperdown, NSW 2050, Australia</address>
+      <phone>(+612) 9515 8057</phone>
+      <fax />
+      <email>regina.tse@email.cs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Carol Kwong</name>
+      <address>Dept of Radiation Oncology, RPA Hospital, Missenden Road, Camperdown. NSW. 2050</address>
+      <phone>(+612) 9515 6229</phone>
+      <fax />
+      <email>carol.kwong@email.cs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Sean Pollock</name>
+      <address>Foundation Building, 92-94 Parramatta Road. Camperdown. NSW. 2050</address>
+      <phone>(+61)404 759 239</phone>
+      <fax />
+      <email>sean.pollock@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Sean Pollock</name>
+      <address>Foundation Building, 92-94 Parramatta Road. Camperdown. NSW. 2050</address>
+      <phone>(+61)404 759 239</phone>
+      <fax />
+      <email>sean.pollock@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

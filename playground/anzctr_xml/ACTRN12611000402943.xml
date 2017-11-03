@@ -1,0 +1,233 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336777">
+  <stage>Registered</stage>
+  <submitdate>8/04/2011</submitdate>
+  <approvaldate>18/04/2011</approvaldate>
+  <actrnumber>ACTRN12611000402943</actrnumber>
+  <trial_identification>
+    <studytitle>Effect of Vitamin D Supplementation on Cardiovascular and Respiratory Disease Event Rates, and the incidence of fractures</studytitle>
+    <scientifictitle>Effect of Vitamin D Supplementation on Cardiovascular and Respiratory Disease Event Rates in Older Adults, and the incidence of non-vertebral fractures.</scientifictitle>
+    <utrn>U1111-1120-6224</utrn>
+    <trialacronym>ViDA (Vitamin D Assessment) Trial</trialacronym>
+    <secondaryid>HRC 10/400</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular Disease</healthcondition>
+    <healthcondition>Respiratory Disease</healthcondition>
+    <healthcondition>Non-vertebral fractures</healthcondition>
+    <healthcondition>Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Chronic obstructive pulmonary disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Fractures</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Vitamin D3 (cholecalciferol) 200,000 IU oral capsule at baseline, then 100,000 IU oral capsule monthly for 4 years </interventions>
+    <comparator>Placebo capsule with sunflower lecithin</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Incidence rate of fatal and non-fatal cardiovascular disease, as assessed by mortality, hospital discharges and family doctors.</outcome>
+      <timepoint>4 years and 6 months after randomisation of first participant.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence rate of respiratory disease, as assessed by mortality, hospital discharges and consultations with family doctors.</outcome>
+      <timepoint>4 years and 6 months after randomisation of first participant.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence rate of non-vertebral fractures, as assessed by hospital discharges, consultations with family doctors and self-reported questionnaires.</outcome>
+      <timepoint>4 years and 6 months after randomisation of first participant.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first cancer for all neoplasms: ICD-10 codes: C00-D09 (excluding non-melanoma skin cancer) reported after randomization to the NZ Cancer Registry </outcome>
+      <timepoint>From randomization to stopping the study medication (31 July 2015)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	age 50-84 years;
+2.	ability to give informed consent;
+3.	resident in Auckland at recruitment;
+4.	anticipated residence in New Zealand for the 4-year study period.</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>84</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>1.	current use of vitamin D supplements (&gt;600 IU per day if aged 50-70 years; &gt;800 IU per day if aged 71-84 years);
+2.	diagnosis of psychiatric disorders that would limit ability to comply with study protocol - ie. history of regular exacerbation of major psychosis (schizophrenia, bipolar disorder) in last 2 years 
+3.	history of hypercalcaemia, nephrolithiasis, sarcoidosis, parathyroid disease or gastric bypass surgery;
+4.	enrolled in another study which could affect participation in the vitamin D study;
+5.	serum calcium from baseline blood sample &gt;2.50 mmol/L.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be recruited from patient registers of general practitioners in Auckland.
+
+Once eligibility is confirmed, randomisation to either arm of the study will be done by computer.</concealment>
+    <sequence>Randomisation with variable block size within 5 year age and ethnic strata.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>7/04/2011</anticipatedstartdate>
+    <actualstartdate>3/06/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>23/01/2013</actualenddate>
+    <samplesize>5110</samplesize>
+    <actualsamplesize>5108</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>31/07/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland</primarysponsorname>
+    <primarysponsoraddress>School of Population Health,
+Tamaki Campus,
+University of Auckland,
+Private Bag 92019,
+Auckland, 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>Level 3 - ProCare Building, 
+110 Stanley Street, 
+Auckland, 1010.</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Accident Compensation Commission</fundingname>
+      <fundingaddress>80-83 Molesworth St.,
+Wellington, 6140</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Carlos A. Camargo, Jr, MD DrPH (Co-PI)</sponsorname>
+      <sponsoraddress>Massachusetts General Hospital
+326 Cambridge St, Suite 410
+Boston
+Massachusetts 02114</sponsoraddress>
+      <sponsorcountry>United States of America</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The main aims of the study are to see if vitamin D supplementation reduces the incidence rates of cardiovascular disease, respiratory disease and non-vertebral fractures.</summary>
+    <trialwebsite />
+    <publication>Scragg R, Stewart AW, Waayer D, et al. Effect of Monthly High-Dose Vitamin D Supplementation on Cardiovascular Disease in the Vitamin D Assessment Study : A Randomized Clinical Trial. JAMA Cardiol. 2017;2(6):608-616.
+
+Khaw KT, Stewart AW, Waayer D, et al. Effect of monthly high-dose vitamin D supplementation on falls and non-vertebral fractures: secondary and post-hoc outcomes from the randomised, double-blind, placebo-controlled ViDA trial. The Lancet. Diabetes &amp; Endocrinology. 2017;5(6):438-447</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Multi Region Ethics Committee</ethicname>
+      <ethicaddress>c/- Ministry of Health
+1-3 The Terrace
+Level 1
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>21/10/2010</ethicapprovaldate>
+      <hrec>MEC/09/08/082</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Scragg</name>
+      <address>School of Population Health, 
+University of Auckland, Tamaki Campus, 
+Private Bag 92019, Auckland Mail Centre 1142,
+Auckland, New Zealand.</address>
+      <phone>+64-9-3737 599, ext 86336</phone>
+      <fax />
+      <email>r.scragg@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Scragg</name>
+      <address>School of Population Health, 
+University of Auckland, Tamaki Campus, 
+Private Bag 92019, Auckland Mail Centre 1142,
+Auckland, New Zealand </address>
+      <phone>+64-9-3737 599, ext 86336</phone>
+      <fax />
+      <email>r.scragg@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Robert Scragg</name>
+      <address>School of Population Health, 
+University of Auckland, Tamaki Campus, 
+Private Bag 92019, Auckland Mail Centre 1142,
+Auckland, New Zealand</address>
+      <phone />
+      <fax />
+      <email>r.scragg@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Scragg</name>
+      <address>School of Population Health, 
+University of Auckland, Tamaki Campus, 
+Private Bag 92019, Auckland Mail Centre 1142,
+Auckland, New Zealand</address>
+      <phone>+64-9-9236336</phone>
+      <fax />
+      <email>r.scragg@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

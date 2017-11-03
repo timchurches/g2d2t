@@ -1,0 +1,266 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363585">
+  <stage>Registered</stage>
+  <submitdate>29/01/2013</submitdate>
+  <approvaldate>31/01/2013</approvaldate>
+  <actrnumber>ACTRN12613000118707</actrnumber>
+  <trial_identification>
+    <studytitle>Randomised trial to identify the safest and most effective selenium compound for cancer patients</studytitle>
+    <scientifictitle>Phase Ib randomised double-blind dose-escalation study to identify the safest, most effective selenium compound for use in cancer patients </scientifictitle>
+    <utrn>U1111-1138-9924 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm 1: sodium selenite taken orally at doses of 400, 1600 or 6400 mcg elemental selenium daily for eight weeks
+Arm 2: L-selenomethionine taken orally at doses of 400, 1600 or 6400 mcg elemental selenium daily for eight weeks
+Arm 3: Se-methyl-selenocysteine taken orally at doses of 400, 1600 or 6400 mcg elemental selenium daily for eight weeks
+The 3 dose levels within each arm represent separate cohorts.</interventions>
+    <comparator>The three arms are being compared as well as the doses within each arm. In addition each patient serves as their own control.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Safety and tolerability of each selenium compound at the evaluated doses as assessed by compliance with study medication and occurrence of adverse events (graded using CTCAE version 4) on clinical, laboratory and electrocardiographic assessments</outcome>
+      <timepoint>At baseline then 1 day and 4, 8 and 12 weeks after commencing treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma concentrations of selenium achieved with oral administration of the three selenium compounds at each dose</outcome>
+      <timepoint>At baseline then 1 day and 4, 8 and 12 weeks after commencing treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Dose-response of the three selenium compounds with respect to pharmacodynamic markers: 
+1. endoplasmic reticulum stress response assessed by western blotting in peripheral blood mononuclear cells
+2. DNA damage assessed by COMET assay in peripheral blood mononuclear cells
+3. angiogenesis assessed by plasma ELISA assay 
+4. plasma glutathione peroxidase activity assessed by colorimetric assay
+5. intracellular glutathione concentrations in peripheral blood mononuclear cells assessed by colorimetric assay
+
+</outcome>
+      <timepoint>Twice at baseline (a week apart) then 1 day and 4, 8 and 12 weeks after commencing treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tumour response as assessed by serum tumour markers (where relevant) in cancer patients and peripheral blood counts of atypical lymphocytes in patients with chronic lymphocytic leukaemia</outcome>
+      <timepoint>Twice at baseline (a week apart) then 1 day and 4, 8 and 12 weeks after commencing treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The relationship between dose, plasma selenium concentrations and pharmacodynamic markers of each compound in normal and malignant peripheral blood mononuclear cells</outcome>
+      <timepoint>On completion of recruitment and all study procedures </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Speciation of selenium compounds in plasma, urine and peripheral blood mononuclear cells using various chromatography and mass spectrometry methods</outcome>
+      <timepoint>Baseline and 8 weeks after starting treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Subjects with either chronic lymphocytic leukaemia (peripheral blood lymphocyte count &gt; 10 x 10^9/l) or metastatic cancer, in whom the use of chemotherapy is not anticipated in the next 3 months
+2. Adequate liver, renal and bone marrow function 
+3. ECOG performance status 0-2
+4. Life expectancy over 6 months</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Subjects treated within the last 4 weeks with cytotoxic chemotherapy, anticancer biological therapy (excluding hormonal therapy for prostate cancer) or radiotherapy
+2. Unable to swallow or absorb study tablets 
+3. Concurrent selenium supplements over 100 mcg/day
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Permuted block randomisation conducted by the Clinical Trials Pharmacist at Waikato Hospital; randomisation lists will only be available to the pharmacist.</concealment>
+    <sequence>Computer-generated random number sequence with stratification by cancer type</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Dose-escalation: subjects will be randomised between the three treatment arms at the lowest dose level; escalation to the next dose level is permitted if no dose-limiting toxicity is seen in more than one of eight subjects in each compound-dose cohort.
+Pharmacokinetic and pharmacodynamic endpoints also.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Subjects will be grouped together (n=8) in each dose cohort for safety and pharmacokinetic analyses. Analysis of relationships between dose, plasma selenium concentration and changes in pharmacodynamic markers in the different groups will be conducted using repeated measures analysis of variance methods or linear mixed modelling methods. Fishers exact test will be used to compare frequency of adverse events.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate>11/02/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>72</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Waikato District Health Board</primarysponsorname>
+    <primarysponsoraddress>Private Bag 3200
+Hamilton 3240</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Genesis Oncology Trust</fundingname>
+      <fundingaddress>P O Box 17188
+Greenlane
+Auckland 1546</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cycle for Life</fundingname>
+      <fundingaddress>C/o TCA Gym
+210 Jellicoe Crescent
+Thames 3540 </fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Waikato District Health Board</fundingname>
+      <fundingaddress>Private Bag 3200
+Hamilton 3240</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Sabinsa Corporation</fundingname>
+      <fundingaddress>20 Lake Drive
+East Windsor
+NJ 
+08520</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>University of Waikato</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 3105
+Hamilton 3240</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>University of Surrey</othercollaboratorname>
+      <othercollaboratoraddress>Guildford
+Surrey
+GU2 7XH</othercollaboratoraddress>
+      <othercollaboratorcountry>United Kingdom</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>LGC Limited</othercollaboratorname>
+      <othercollaboratoraddress>Queens Road
+Teddington
+Middlesex
+TW110LY</othercollaboratoraddress>
+      <othercollaboratorcountry>United Kingdom</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>
+Selenium is a trace mineral commonly taken by people hoping to prevent or treat cancer. However certain types of selenium could be harmful, especially at the high doses that show promise in reducing side effects of radiotherapy or chemotherapy without reducing their effectiveness. It is important to know which form of selenium can be most safely used at higher doses and have the best effect. In this clinical research study we will compare the effects of three different types of selenium in people with cancer or chronic lymphocytic leukaemia, looking at their safety and beneficial effects on the cancer.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern A Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>C/o Ministry of Health
+P O Box 5013
+Wellington 6145</ethicaddress>
+      <ethicapprovaldate>6/11/2013</ethicapprovaldate>
+      <hrec>13/NTA/172</hrec>
+      <ethicsubmitdate>12/06/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Jameson</name>
+      <address>Oncology Dept
+Waikato Hospital
+Private Bag 3200
+Hamilton 3240</address>
+      <phone>+64 7 839 8899</phone>
+      <fax>+64 7 839 8778</fax>
+      <email>michael.jameson@waikatodhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Jameson</name>
+      <address>Oncology Dept
+Waikato Hospital
+Private Bag 3200
+Hamilton 3240</address>
+      <phone>+64 7 839 8899</phone>
+      <fax>+64 7 839 8778</fax>
+      <email>michael.jameson@waikatodhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Jameson</name>
+      <address>Oncology Dept
+Waikato Hospital
+Private Bag 3200
+Hamilton 3240</address>
+      <phone>+64 7 839 8899</phone>
+      <fax>+64 7 839 8778</fax>
+      <email>michael.jameson@waikatodhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Jameson</name>
+      <address>Oncology Dept
+Waikato Hospital
+Private Bag 3200
+Hamilton 3240</address>
+      <phone>+64 7 839 8899</phone>
+      <fax>+64 7 839 8778</fax>
+      <email>michael.jameson@waikatodhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,512 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="420">
+  <stage>Registered</stage>
+  <submitdate>9/01/2004</submitdate>
+  <approvaldate>9/01/2004</approvaldate>
+  <nctid>NCT00075582</nctid>
+  <trial_identification>
+    <studytitle>Vincristine, Dactinomycin, and Cyclophosphamide With or Without Radiation Therapy in Treating Patients With Newly Diagnosed Low-Risk Rhabdomyosarcoma</studytitle>
+    <scientifictitle>Vincristine, Dactinomycin, and Lower Doses of Cyclophosphamide With or Without Radiation Therapy for Patients With Newly Diagnosed Low-Risk Embryonal/Botryoid/Spindle Cell Rhabdomyosarcoma</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NCI-2009-00425</secondaryid>
+    <secondaryid>ARST0331</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Adult Rhabdomyosarcoma</healthcondition>
+    <healthcondition>Embryonal Childhood Rhabdomyosarcoma</healthcondition>
+    <healthcondition>Embryonal-botryoid Childhood Rhabdomyosarcoma</healthcondition>
+    <healthcondition>Previously Untreated Childhood Rhabdomyosarcoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Sarcoma (also see 'Bone') - soft tissue</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bone</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Other</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: surgery - conventional surgery
+Treatment: drugs - dactinomycin
+Treatment: drugs - cyclophosphamide
+Treatment: drugs - vincristine sulfate
+Treatment: other - radiation therapy
+
+Experimental: Regimen I (chemotherapy, radiotherapy) - Patients receive VAC chemotherapy comprising vincristine sulfate IV over 1 minute on day 1 of weeks 1-9 and dactinomycin IV over 1 minute and cyclophosphamide IV over 1 hour on day 1 of weeks 1, 4, 7, and 10; VA chemotherapy comprising vincristine sulfate IV over 1 minute on day 1 of weeks 13-21 and dactinomycin IV over 1 minute on day 1 of weeks 13, 16, 19, and 22 (dactinomycin is omitted during radiation therapy); and radiation therapy, 5 days a week, beginning on week 13 and continuing for 4-7 weeks, depending on prescribed dose. Some patients do not receive radiation therapy; some start it at week 24. (closed to accrual as of 08/13/2010)
+
+Experimental: Regimen II (chemotherapy, radiotherapy, surgery) - Patients receive VAC chemotherapy and radiation therapy as in regimen I and VA chemotherapy comprising vincristine sulfate IV over 1 minute on day 1 of weeks 13-21, 25-33, and 37-45 and dactinomycin IV over 1 minute on day 1 of weeks 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, and 46 (dactinomycin is omitted during radiation therapy). Some patients do not receive radiation therapy; some start it at week 13 and some at week 24. Some patients have conventional surgery (second-look) at Week 13 (closed to accrual as of 9/23/2011).
+
+
+Treatment: surgery: conventional surgery
+Some patients may undergo second-look surgery
+
+Treatment: drugs: dactinomycin
+Given IV
+
+Treatment: drugs: cyclophosphamide
+Given IV
+
+Treatment: drugs: vincristine sulfate
+Given IV
+
+Treatment: other: radiation therapy
+Undergo radiotherapy
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: surgery</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Treatment: other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Estimated Percentage of Patients Failure Free at 5 Years (95% Confidence Interval) - Failure-free survival: Time to disease recurrence or death as a first event. An analysis plan based on the method of Woolson (1981) will be used to monitor outcome for these patients.</outcome>
+      <timepoint>5 years from study enrollment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Estimated Percentage of Patients With Stage 1, Clinical Group IIB or C (Node Positive) or Stage 2 Group I or Stage 2 Group II Disease Treated With Regimen 1 Failure-free at 5 Years - Failure-free survival: Time to disease recurrence or death as a first event. An analysis plan based on the method of Woolson (1981) will be used to monitor outcome for these patients.</outcome>
+      <timepoint>5 years from study enrollment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Estimated Percentage of Patients With Low-risk Rhabdomyosarcoma Treated With Regimen 2 Therapy Failure Free at 5 Years (95% Confidence Interval). - Failure free survival: Time to disease recurrence or death as a first event. An analysis plan based on the method of Woolson (1981) will be used to monitor outcome for these patients.</outcome>
+      <timepoint>5 years from study enrollment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of Local Failure for Patients Who Receive Reduced Doses of Radiation Therapy - The local failure rate will be estimated using cumulative incidence curves.</outcome>
+      <timepoint>Up to 10 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of Second-look Surgery and the Proportion of Patients Who Are Tumor-free or With Microscopic Tumor Only Following Second-look Surgeries - The decision to perform second-look surgery should be based on the physical examination and imaging studies at Week 12 and should only be considered if a reasonable functional and cosmetic result is anticipated.</outcome>
+      <timepoint>At 13 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of Local Failure for Patients With Clinical Group III Disease When the Radiotherapy Dose is Reduced After Second-look Surgical Resection. - The local failure rate will be estimated using cumulative incidence curves.</outcome>
+      <timepoint>Up to 20 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histologically confirmed newly diagnosed embryonal rhabdomyosarcoma (RMS), botryoid or
+             spindle cell variants of embryonal RMS, or embryonal ectomesenchymoma, meeting
+             criteria for 1 of the following subsets:
+
+               -  Subset 1, defined by meeting 1 of the following criteria (closed to accrual as of
+                  08/13/2010):
+
+                    -  Stage 1 and clinical group I (completely resected) or II (microscopic
+                       residual disease and/or regional lymph node involvement) disease
+
+                    -  Stage 1 and clinical group III (gross residual disease) disease arising in
+                       the orbit
+
+                    -  Stage 2 and clinical group I or II disease
+
+               -  Subset 2, defined by meeting 1 of the following criteria (closed to accrual as of
+                  09/23/2011):
+
+                    -  Stage 1 and clinical group III disease arising in a non-orbit site
+
+                    -  Stage 3 and clinical group I or II disease
+
+          -  Prior staging ipsilateral retroperitoneal lymph node dissection required for all
+             patients age 10 and over with paratesticular tumors and patients under 10 years of age
+             with clinically or radiographically involved lymph nodes (except when extensive lymph
+             node involvement is identified by imaging studies)
+
+               -  If there is extensive gross node involvement only confirmatory node biopsy is
+                  recommended and the patient is classified as Clinical Group III
+
+          -  Prior regional lymph node sampling required for patients with extremity tumors
+
+          -  None of the following diagnoses:
+
+               -  Intermediate-risk embryonal RMS
+
+               -  Metastatic embryonal RMS
+
+               -  Alveolar RMS
+
+               -  Undifferentiated sarcoma
+
+               -  RMS not otherwise specified (NOS)
+
+               -  Other soft tissue sarcoma, including sarcoma NOS
+
+          -  Prior enrollment on clinical trial COG-D9902
+
+          -  Performance status - ECOG 0-2
+
+          -  Performance status - Karnofsky 50-100% (= 16 years old)
+
+          -  Performance status - Lansky 50-100% (&lt; 16 years old)
+
+          -  Absolute neutrophil count at least 750/mm^3
+
+          -  Platelet count at least 75,000/mm^3 (transfusion independent)
+
+          -  Bilirubin no greater than 1.5 times upper limit of normal (ULN)*
+
+          -  Creatinine* based on age/gender as follows:
+
+               -  No greater than 0.8 mg/dL for patients age 5 and under
+
+               -  No greater than 1.0 mg/dL for patients age 6 to 9
+
+               -  No greater than 1.2 mg/dL for patients age 10 to 12
+
+               -  No greater than 1.4 mg/dL for female patients age 13 and over
+
+               -  No greater than 1.5 mg/dL for male patients age 13 to 15
+
+               -  No greater than 1.7 mg/dL for male patients age 16 and over
+
+          -  Creatinine clearance* or radioisotope glomerular filtration rate at least 70
+             mL/min/1.73 m^2
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No uncontrolled infection
+
+          -  No prior chemotherapy (except for patients treated on the related intermediate-risk
+             study)
+
+          -  Prior steroids allowed
+
+          -  No prior radiotherapy</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>49</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/09/2004</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>390</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC,WA</recruitmentstate>
+    <hospital>Sydney Children's Hospital - Randwick</hospital>
+    <hospital>The Children's Hospital at Westmead - Sydney</hospital>
+    <hospital>Sydney West Area Health Service-Westmead Hospital - Westmead</hospital>
+    <hospital>Royal Brisbane and Women's Hospital - Herston</hospital>
+    <hospital>Women's and Children's Hospital-Adelaide - North Adelaide</hospital>
+    <hospital>Royal Children's Hospital - Parkville</hospital>
+    <hospital>Princess Margaret Hospital for Children - Perth</hospital>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>2145 - Sydney</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>5006 - North Adelaide</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <postcode>6008 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Newfoundland and Labrador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>Santurce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Geneva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lausanne</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Children's Oncology Group</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>National Cancer Institute (NCI)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This phase III trial is studying how well combination chemotherapy and radiation therapy work
+      in treating patients with newly diagnosed low-risk rhabdomyosarcoma. Drugs used in
+      chemotherapy, such as vincristine, dactinomycin, and cyclophosphamide, work in different ways
+      to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses
+      high-energy x-rays to damage tumor cells. Combining chemotherapy with radiation therapy may
+      kill more tumor cells. It is not yet known which treatment regimen is more effective in
+      treating low-risk rhabdomyosarcoma.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00075582</trialwebsite>
+    <publication>Woolson RF (1981) Rank-tests and a one-sample log-rank test for comparing observed survival-data to a standard population. Biometrics 37: 687-696.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>David Walterhouse, MD</name>
+      <address>Children's Oncology Group</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

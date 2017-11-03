@@ -1,0 +1,210 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371805">
+  <stage>Registered</stage>
+  <submitdate>15/11/2016</submitdate>
+  <approvaldate>30/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001653459</actrnumber>
+  <trial_identification>
+    <studytitle>A study investigating alternative ways to plan radiotherapy treatment using MRI alone for prostate cancer.</studytitle>
+    <scientifictitle>HIgh precision Prostate Substitute CT External beam Radiotherapy - HIPSTER</scientifictitle>
+    <utrn />
+    <trialacronym>HIPSTER</trialacronym>
+    <secondaryid>CMNDRO-1601</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prostate Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1) Additional T2 weighted MRI sequence added to patients routine MRI scanning session. This is performed once during radiation treatment planning. It will add approximately 6 minutes to the total scanning time. MRI's will be performed at Calvary Mater Newcastle.   2) Technical modification of radiation treatment planning workflow. This intervention will be provided by Clinicians, Physicists and Radiation Therapists who collaborate to plan radiation treatment for prostate cancer patients. The main differences in workflow will be:
+A substitute CT scan will be generated, A substitute CT scan is an artificially created CT scan produced from the MRI scan data. 
+QA procedures will be used to confirm that the substitute CT scan dose calculation is accurate, 
+A comparison of the substitute CT scan dose calculation with the conventional CT scan dose calculation,
+A comparison of marker locations on substitute CT and conventional CT scans for treatment guidance.
+</interventions>
+    <comparator>Only one treatment group and all patients will received the same treatment. There is an inbuilt comparator for this study whereby patients will act as their own control. All patients will have a standard of care treatment plan generated from the conventional CT scan. This plan will be compared to the plan generated from the substitute CT scan. If the substitute CT scan dose calculation and marker locations are not shown to be equivalent to the conventional CT scan from the quantitative comparisons performed then the patient will be treated with the routine treatment planning workflow and the standard of care plan generated from the conventional CT scan.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The outcomes of this study are technical in nature, they are not clinical patient outcomes. 
+Primary Outcome: Percentage of study patients that substitute CT calculated plan was used clinically. This will be assessed by review of electronic trial treatment data collected during the treatment planning process.</outcome>
+      <timepoint>Assessed once all participants have been recruited and had radiation treatment planning completed.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of dose calculation on substitute CT scan compared to CT scan. This outcome will be assessed by technical review of electronic data collected during the treatment planning process.</outcome>
+      <timepoint>Assessed once all participants have been recruited and had radiation treatment planning completed.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of gold marker locations from substitute CT scans compared to marker locations from conventional CT scans. This outcome will be assessed by technical review of electronic data collected during the treatment planning process.</outcome>
+      <timepoint>Assessed once all participants have been recruited and had radiation treatment planning completed.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Men diagnosed with prostate cancer deemed suitable for radiation treatment
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unsuitable for radiotherapy including inability to have MRI scans or gold markers inserted, previous pelvic radiotherapy, hip prosthesis.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>No statistical analysis proposed for this study. Feasibility of implementation of MRI-alone planning will be demonstrated if more than 90% of substitute CT patient plans are accepted for treatment.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/12/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>25</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Calvary Mater Newcastle - Waratah</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <postcode>2298 - Waratah</postcode>
+    <postcode>2170 - Liverpool</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Calvary Mater Newcastle</primarysponsorname>
+    <primarysponsoraddress>Edith St Waratah, NSW, 2298</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Calvary Mater Newcastle - Research Grant</fundingname>
+      <fundingaddress>Edith St Waratah, NSW, 2298</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>CSIRO</othercollaboratorname>
+      <othercollaboratoraddress>LVL 5 UQ HEALTH SCIENCES BUILDING 901/16
+Royal Brisbane And Women's Hospital 
+Butterfield St 
+Herston, QLD, 4029
+
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this trial is to evaluate whether treatment planning for prostate cancer radiotherapy can be completed using only MRI scans, in place of the standard care which involves both MRI and CT scans.
+
+Who is it for?
+You may be eligible to participate in this study if you are aged over 18 years and have been diagnosed with prostate cancer for which you are scheduled to undergo radiotherapy treatment.
+
+Study details
+All participants enrolled in this trial will have the standard care CT scan and MRI scan performed as part of their radiotherapy treatment planning, with an extra type of MRI scan added on to the existing MRI. This will add approximately six minutes to the duration of the MRI scan. A team of doctors, physicists and radiation therapists will work together to generate two treatment plans (CT plan and MRI plan). If the treatment plans are similar then the new MRI only treatment plan will be used for treatment. If the two treatment plans differ then the standard care CT and MRI plan will be used for treatment.
+
+Researchers will keep track of the number of times that the new MRI only treatment plan is used, the doses calculated and the locations of any gold markers used.
+
+It is hoped that the findings of this trial will provide information on whether radiotherapy treatment planning for prostate cancer can be completed using only MRI scans, without the need for CT scans. This would reduce the time and cost required for radiotherapy treatment planning in these patients.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Ethics and Governance Office
+District Headquarters, Administration Building
+Lookout Road,
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>25/10/2016</ethicapprovaldate>
+      <hrec>HREC/16/HNE/298</hrec>
+      <ethicsubmitdate>29/06/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Greer</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle
+Edith St, Waratah, NSW, 2298</address>
+      <phone>+61 2 4014 3689</phone>
+      <fax />
+      <email>peter.greer@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sarah Gallagher</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle
+Edith St, Waratah, NSW, 2298</address>
+      <phone>+61 2 4014 3949</phone>
+      <fax />
+      <email>sarah.gallagher@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Greer</name>
+      <address>Radiation Oncology 
+Calvary Mater Newcastle
+Edith St, Waratah, NSW, 2298</address>
+      <phone>+61 2 4014 3689</phone>
+      <fax />
+      <email>peter.greer@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sarah Gallagher</name>
+      <address>Edith St, Waratah, NSW, 2298</address>
+      <phone>+61 2 4014 3949</phone>
+      <fax />
+      <email>sarah.gallagher@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

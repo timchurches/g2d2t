@@ -1,0 +1,507 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3847">
+  <stage>Registered</stage>
+  <submitdate>2/11/2012</submitdate>
+  <approvaldate>2/11/2012</approvaldate>
+  <nctid>NCT01724346</nctid>
+  <trial_identification>
+    <studytitle>Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma</studytitle>
+    <scientifictitle>An Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia (CLL) or Small Lymphocytic Lymphoma (SLL) Who Participated in Study PCYC-1115-CA (PCI-32765 Versus Chlorambucil)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2012-003968-44</secondaryid>
+    <secondaryid>PCYC-1116-CA</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Lymphocytic Leukemia</healthcondition>
+    <healthcondition>Small Lymphocytic Lymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Arm A - Post-Chlorambucil Therapy Follow-up
+Treatment: drugs - Arm B - PCI-32765
+Treatment: drugs - Second-line PCI-32765
+Treatment: drugs - Alternative Anticancer Treatment
+
+Other: Arm A Post-Chlorambucil Therapy Followup - Patients randomized to Chlorambucil in the parent study, PCYC-1115-CA, and have not progressed at the time of the parent study closure will be transferred to this Arm. Follow-up will continue until PD, unacceptable toxicity, or other reason for treatment discontinuation.
+
+Experimental: Arm B - PCI-32765 - Patients randomized to PCI-32765 in the parent study PCYC-1115-CA who have not experienced PD at the time of parent study closure will be transferred to this Arm to continue on PCI-32765 treatment. Treatment will continue until PD, unacceptable toxicity, or other reasons for treatment discontinuation.
+
+Experimental: Second-line PCI-32765 - Patients who received Chlorambucil in the parent study PCYC-1115-CA and experienced PD are transferred to this Arm for PCI-32765 treatment. Treatment will continue until PD, unacceptable toxicity, or other reasons for treatment discontinuation.
+
+Other: Alternative Anticancer Therapy - At the investigator's discretion, alternative anticancer treatment is a therapeutic option for patients who experienced PD during PCI-32765 treatment or during or after Chlorambucil treatment. This Arm can also be considered if drug is discontinued for other reasons (eg., intolerability or adverse event [AE]) or prior to experiencing PD).
+
+
+Treatment: drugs: Arm A - Post-Chlorambucil Therapy Follow-up
+Patients remain in this Arm for continue follow-up until PD, unacceptable toxicity, or other reason for treatment discontinuation. All patients in this Arm have completed Chlorambucil therapy.
+
+Treatment: drugs: Arm B - PCI-32765
+PCI-32765 will be supplied as hard gelatin 140-mg capsules for oral (PO) administration. PCI-32765 420 mg (3 x 140-mg capsules) is administered orally once daily. The first dose will be delivered in the clinic on Day 1, after which subsequent dosing is typically on an outpatient basis. PCI-32765 will be dispensed to patients in bottles at every other visit.
+
+Treatment: drugs: Second-line PCI-32765
+For patients who experienced PD before other Second-line treatment are eligible to receive PCI-32765.
+
+Treatment: drugs: Alternative Anticancer Treatment
+Specific therapy and treatment regimen are at the investigator's discretion.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-free Survival (PFS) - To monitor progression-free survival (PFS)</outcome>
+      <timepoint>5 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Safety as measured by all AEs and SAEs for patients randomized to Arm B (PCI-32765) in Study PCYC-1115-CA - To continue treatment and safety assessment of patients randomized to Arm B (PCI-32765) in Study PCYC-1115-CA (the parent study) who have not progressed at the time of parent study closure.</outcome>
+      <timepoint>5 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Long-term follow-up and Second-line therapy monitoring - To follow patients for long-term outcome and allow second-line therapy to patients after progressing on their randomized therapy in the parent study</outcome>
+      <timepoint>5 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Efficacy evaluation of subsequent therapy - To capture overall response rate (ORR), duration of response (DOR), PFS, and overall survival (OS) to subsequent therapy, and time to next therapy, in patients progressing in the parent study</outcome>
+      <timepoint>5 years</timepoint>
+    </primaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Randomized in the parent study, PCYC-1115-CA
+
+          2. Informed consent for Study PCYC-1116-CA
+
+          3. IRC-confirmed PD in the parent study PCYC-1115-CA or closure of the parent study</inclusivecriteria>
+    <inclusiveminage>65</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/01/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>232</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/11/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,TAS,VIC</recruitmentstate>
+    <hospital>Site Reference ID/Investigator #654 - Kogarah</hospital>
+    <hospital>Site Reference ID/Investigator #503 - Woolloongabba</hospital>
+    <hospital>Site Reference ID/Investigator #163 - Bedford Park</hospital>
+    <hospital>Site Reference ID/Investigator #555 - Hobart</hospital>
+    <hospital>Site Reference ID/Investigator #193 - Box Hill</hospital>
+    <hospital>Site Reference ID/Investigator #556 - Clayton</hospital>
+    <hospital>Site Reference ID/Investigator #501 - Fitzroy</hospital>
+    <hospital>Site Reference ID/Investigator #715 - Frankston</hospital>
+    <hospital>Site Reference ID/Investigator #558 - Geelong</hospital>
+    <hospital>Site Reference ID/Investigator #170 - Heidelberg</hospital>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3199 - Frankston</postcode>
+    <postcode>3220 - Geelong</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussells</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Oost-Vlaanderen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Vlaams Brabant</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>West-Vlaanderen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Guangdong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Jiangsu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Zhejiang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Kralovehradecky Kraj</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Plzen-Lochotin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Galway</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Nahariya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Peta? Tiqwa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Piemonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Veneto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Modena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Waikato</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lubelskie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Podkarpackie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavl</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Kayseri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Cherkas'ka Oblast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipropetrovs'ka Oblast'</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkivs'ka Oblast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>L'vivs'ka Oblast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Respublika Krym</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Vinnyts'ka Oblast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Zhytomyrs'ka Oblast'</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Dorset</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>England</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Essex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>South Glamergon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Yorkshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Pharmacyclics LLC.</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Janssen Research &amp; Development, LLC</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>An Open-label Extension Study in Patients 65 Years or Older with Chronic Lymphocytic Leukemia
+      (CLL) or Small Lymphocytic Lymphoma (SLL) Who Participated in Study PCYC-1115-CA (PCI-32765
+      versus Chlorambucil)</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01724346</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Lori Styles, MD</name>
+      <address>Pharmacyclics LLC.</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

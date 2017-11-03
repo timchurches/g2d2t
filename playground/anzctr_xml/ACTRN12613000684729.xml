@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362884">
+  <stage>Registered</stage>
+  <submitdate>10/08/2012</submitdate>
+  <approvaldate>21/06/2013</approvaldate>
+  <actrnumber>ACTRN12613000684729</actrnumber>
+  <trial_identification>
+    <studytitle>Comparative evaluation of Contrast Enhanced Spectral Mammography (CESM) and Contrast Enhanced Magnetic Resonance Imaging (CEMRI) for local staging of breast cancer: the CESM V study</studytitle>
+    <scientifictitle>Comparative evaluation of Contrast Enhanced Spectral Mammography (CESM) and Contrast Enhanced Magnetic Resonance Imaging (CEMRI) for local staging of breast cancer: the CESM V study</scientifictitle>
+    <utrn>U1111-1141-3342</utrn>
+    <trialacronym>The CESM V Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Local staging of primary breast cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>CESM is carried out on commercially available equipment approved for diagnostic use in Australia, a device (Senographe DS - GE Healthcare Australia, Rydalmere, NSW) which is capable of  delivering dual energy x-rays in quick succession, with both a normal low Kvp and a higher energy (45-50kVp) exposure. An injection of non-ionic iodinated contrast (1.5mg/kg delivering 350mg I/mL) is given via a catheter in an antecubital vein using a power injector at a rate of 3mL/s. Two minutes later, standard mammographic views (CC and MLO of both breasts) are performed with dual-energy exposures. All four views are obtained within 4 minutes of the injection. The high energy and low energy exposures are subtracted from one another taking advantage of the K-edge of iodine producing images which demonstrate areas of contrast enhancement. The extra exposure is associated with minor increase in radiation dose to the breast of 20% per image.</interventions>
+    <comparator>Comparison will be made with the findings on Contrast Enhanced Magnetic Resonance Imaging (CEMRI)of the breast.
+Breast CEMRI will be performed using standard departmental protocols which use a dedicated breast coil to obtain a T2 weighted sequence, T1 weighted pre contrast images, then T1 post contrast images following injection of 0.1mmol/kg gadolinium GDTA (Magnevist, Bayer Healthcare) with multiple post contrast images acquired every 90 seconds. 
+The current imaging gold standard technique is contrast enhanced MRI. This will be performed on a 1.5T MRI machine using a dedicated breast coil. Sequences will include T2 weighted sequence, T1 weighted pre contrast images, then T1 post contrast images following injection of 0.1mmol/kg gadolinium GDTA (Magnevist, Bayer Healthcare) with multiple post contrast images acquired every 90 seconds. A body coil image in coronal plane to show the axillae and infra and supraclavicular regions will also be performed.
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Detection of additional lesions (each classified as benign or suspicious, to allow determination of TP, FP, TN, FN).
+</outcome>
+      <timepoint>Time points for assessment of primary outcome: immediately after the CESM and CEMRI studies have been performed, at time results of any core biopsies of these lesions (within 2-3 weeks of the studies), or at time of definitive surgery with review of pathology (usually within 6-8 weeks of diagnosis), or for those lesions not biopsied or excised, review with imaging follow up one year post diagnosis.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Size of the  index malignant lesion(s)</outcome>
+      <timepoint>Immediately following the CESM and MRI studies when they are reported by the radiologist.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>times taken for the CESM or CEMRI procedure </outcome>
+      <timepoint>measured at time of these procedures</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>times taken by radiologists to read the studies</outcome>
+      <timepoint>measured at time radiologist fills in the CRF with the results of their assessment of the CESM or CEMRI examination</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Participants will be asked to complete a brief satisfaction survey using a Likert scale and a free text comment </outcome>
+      <timepoint>Filled in just after they have had their second of the two tests, which depending on the bookings will be the CESM or the CEMRI examination</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Female of any race or ethnicity.
+-Aged 35 years and over.
+-Core biopsy proven diagnosis of invasive breast cancer in one or both breasts.
+-Participant fit to undergo surgical treatment, either breast conservation surgery or mastectomy.</inclusivecriteria>
+    <inclusiveminage>35</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>-Male.
+-Unable or unwilling to give informed consent.
+-Impaired mobility (good mobility is needed to ensure the CESM can be performed within the required time after the contrast injection is given).
+-Presence of breast implants.
+-Pregnancy or breast feeding.
+-A participant who is not fit for or declines surgical treatment.
+-participant who is going to have neoadjuvant chemotherapy
+-The breast lesion consists solely of in-situ carcinoma on core biopsy histology.
+-Contraindication to the intravenous use of iodinated or gadolinium-chelated contrast agent, particularly renal insufficiency or allergy.
+-Known contraindication to MRI examination, e.g. metallic implant, aneurysm clip</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Patients who have been diagnosed with breast cancer and meet the eligibility criteria will be invited to participate by a  breast physician or radiologist.</concealment>
+    <sequence>Not applicable</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The participants will all undergo both imaging tests.
+Ground truth will be final histopathology in most cases.
+Where any extra detected lesions over the index lesion are not surgically removed, core biopsy histology is the gold standard and where no biopsy is performed, follow up with imaging to look for absence of interval change at one year post treatment will be the gold standard.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size calculation:
+The primary outcome of the study is the ability of the two methods to detect additional lesions. The sample size gives 80% power (alpha = 0.05) to detect a difference of one additional lesion as statistically significant if these occur in 20% of patients, with a 15% rate of attrition. This is insufficient to allow a conclusion of equivalence to be drawn, but it will provide a secure foundation for the planning of further studies. The design of this study is powered to achieve the secondary outcome (assessment of the size of the index lesion by CESM compared with MRI). The sample size of 60 subjects gives 95% power (alpha = 0.05) to detect as significant a difference of ±2 mm between the two methods. This will allow a conclusion of equivalence to be drawn if the two methods do not differ by more than ±2 mm. 
+Power analysis was conducted using PASS 2008 package.
+Statistical analysis:
+For the primary outcome we will assess the proportion of additional lesions with binomial confidence intervals for each imaging method. The definitive analysis will use a clustered (robust) tobit regression model because the data will be truncated with no cases with zero lesions. The additional detected lesions will be categorised based upon biopsy results and/or imaging follow-up.
+For the secondary outcome, we expect the size of the lesion to follow a log-normal distribution and so a geometric mean will be used for descriptive purposes and a Wilcoxon sign-rank test will be used to compare the CESM and MRI estimates. Definitive analysis will use a linear regression model with a ln-transformed size as the dependent variable.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>19/06/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>20/12/2013</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Perth Hospital</primarysponsorname>
+    <primarysponsoraddress>Wellington Street
+Perth WA 6001</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Department of Diagnostic and Interventional Radiology Special Purpose Account</fundingname>
+      <fundingaddress>Division of Imaging Services
+Royal Perth Hospital
+Wellington Street</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>GE Healthcare</sponsorname>
+      <sponsoraddress>Unit 1, 24-28 Belmont Avenue
+Belmont WA 6104
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Contrast Enhanced Magnetic Resonance Imaging (CEMRI) of the breast is the most accurate imaging test to show the size and extent of breast cancer.  A new technique, Contrast Enhanced Spectral Mammography (CESM) is also capable of showing areas of abnormal blood flow in the breast that are associated with breast cancer, similar to the way in which contrast enhanced breast MRI works. 
+
+Due to limited availability and cost, CEMRI is not routinely used to assess all breast cancers in Australia; rather its use is reserved to answer specific questions.  Whilst approved for use in Australia by the Therapeutic Goods Administration (TGA), CESM is not routinely used for breast cancer assessment as its role in planning treatment is not yet clear. 
+
+This study aims to see whether this new technique is as effective as CEMRI in showing the full extent of cancer in the breast - a finding that has been suggested in other studies of CESM.  We hope that proof of this will allow more accurate assessment of women with potential cancerous areas in their breasts without the need for CEMRI, which is not suitable for everyone and not widely available due to cost and limited access to MRI machines.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Royal Perth Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Level 5 Colonial House,
+Royal Perth Hospital
+GPO Box X2213 Perth WA 6001</ethicaddress>
+      <ethicapprovaldate>26/07/2012</ethicapprovaldate>
+      <hrec>2012/048</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Donna Taylor</name>
+      <address>Department of Diagnostic and Interventional Radiology
+Royal Perth Hospital
+Box X2213 GPO,
+Perth 6847</address>
+      <phone>61 8 92242125</phone>
+      <fax>61 8 92243764</fax>
+      <email>donna.taylor@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Donna Taylor</name>
+      <address>Department of Diagnostic and Interventional Radiology
+Royal Perth Hospital
+Box X2213 GPO,
+Perth 6847</address>
+      <phone>61 8 92242125</phone>
+      <fax>61 8 92243764</fax>
+      <email>donna.taylor@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Donna Taylor</name>
+      <address>Department of Diagnostic and Interventional Radiology
+Royal Perth Hospital
+Box X2213 GPO,
+Perth 6847</address>
+      <phone>61 8 92242125</phone>
+      <fax>61 8 92243764</fax>
+      <email>donna.taylor@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Donna Taylor</name>
+      <address>Department of Diagnostic and Interventional Radiology
+Royal Perth Hospital
+Box X2213 GPO,
+Perth 6847</address>
+      <phone>61 8 92242125</phone>
+      <fax>61 8 92243764</fax>
+      <email>donna.taylor@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

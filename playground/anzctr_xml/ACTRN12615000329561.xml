@@ -1,0 +1,241 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367811">
+  <stage>Registered</stage>
+  <submitdate>22/03/2015</submitdate>
+  <approvaldate>10/04/2015</approvaldate>
+  <actrnumber>ACTRN12615000329561</actrnumber>
+  <trial_identification>
+    <studytitle>Double-blinded randomised trial of prophylactic dexamethasone versus placebo in stereotactic radiotherapy to 1-3 brain metastases</studytitle>
+    <scientifictitle>Double-blinded randomised trial of prophylactic dexamethasone versus placebo in stereotactic radiotherapy to 1-3 brain metastases, assessing symptomatology and quality of life.</scientifictitle>
+    <utrn>U1111-1166-3688 </utrn>
+    <trialacronym>Stereodex Trial</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Brain metastases</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Dexamethasone 4 mg orally daily on day(s) of stereotactic radiotherapy (SRT) and one day after (ie. 2 or 4 days, depending on duration of prescribed SRT)
+
+Instructions will be provided to participant on prescription. Verbal reinforcement will also be available during routine treatment reviews.
+</interventions>
+    <comparator>Placebo (lactose powder in gelatine capsule)
+
+(if patients develop symptoms requiring dexamethasone as per clinician's assessment, dexamethasone can be prescribed up to a total dose of 12 mg per day, if prescribed during the period of study medication ie. on day(s) of SRT and one day following)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Changes or development of symptoms post-stereotactic radiotherapy (SRT) to brain metastases 
+
+Instrument: MD Anderson Symptom Inventory - Brain Tumor questionnaire: mean Symptom Severity and Symptom Interference subscales</outcome>
+      <timepoint>On the first day of SRT (pre-treatment) and days 1, 2, and 7 post-treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of initiation of dexamethasone 
+
+Assessed by the proportion of patients in each treatment arm who required initiation of dexamethasone</outcome>
+      <timepoint>First 30 days following commencement of stereotactic radiotherapy   </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Predictive factors for initiation of dexamethasone
+
+Pre-determined factors would be evaluated for association with initiation of dexamethasone.
+(factors: planned target volume, extent of oedema, number of treated brain metastases, presence of midline shift, presence of impingment of ventricles, tumour location, symptom score pre-treatment, V12 Gy)</outcome>
+      <timepoint>First 30 days following commencement of stereotactic radiotherapy to brain metastases</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health-related quality of life
+
+Instrument: EORTC QLQ-C30 and Brain Cancer Module BN-20; raw scores transformed to scaled scores ranging 0-100</outcome>
+      <timepoint>Baseline, Day 7 post-treatment, and 3- and 6- month follow up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1	Number of brain metastases  1-3 brain metastases (as defined on the MRI brain); at least one lesion planned for SRT
+2	Non-primary brain tumour
+3	ECOG performance status 0-2
+4	Expected life expectancy of &gt;6 months
+5	Not on dexamethasone for at least 7 days preceding treatment
+6	Willing or able to complete questionnaires by themselves 
+7	Willing to be contacted by the study investigators in first 30 days following treatment for follow up
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1	More than 3 untreated brain metastases
+2	Leptomeningeal metastases
+3	Contraindications or comorbidities which may be seriously affected by dexamethasone  uncontrolled diabetes, previous psychosis secondary to dexamethasone
+4	Inability to complete MRI 
+5	Planned cytotoxic chemotherapy during SRT
+6	Other tumour types  primary germ cell tumour, small cell carcinoma, haematological malignancies
+7	Brain metastases unsuitable for SRT (eg: located &lt;2 mm of the optic chiasm)
+8	Pregnant or lactating women
+9	Men or women of childbearing potential who are unwilling to employ adequate contraception throughout study
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Double-blinded - treating doctors, investigators, and participants will be blinded to the study medication.
+
+Randomisation performed by the clinical trials pharmacy, who is uninvolved in study design and execution of the trial, other than randomisation and dispensing of study medication (ie. role of central randomisation). 
+
+Dexamethasone and placebo have the same appearance.
+</concealment>
+    <sequence>Permuted block randomisation is used (computer generated).
+1 stratification factor: 1 versus 2-3 brain metastases</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size: 
+The MDASI-BT Symptom Severity and Symptom Interference subscales range from 0 to 10.  
+
+In a study on patients with brain metastases using these subscales, patients with good performance status reported a mean Symptom Severity subscale score of 1.21 (SD=1.11) while patients with a poor performance status reported a mean score of 2.55 (SD=1.62). For the Symptom Interference subscale, patients in the good performance status group had a mean score of 1.76 (SD=2.17) while patients with a poor performance status reported a mean score of 4.27 (SD=2.96)
+It is hypothesised that patients in the placebo arm will likely develop symptoms following SRT, causing a decline in their performance status and a deterioration, from baseline, in the mean severity subscale score of 1.6. Similarly, it is expected that there might be a deterioration, from baseline, in the interference subscale score of 2.5. These scores were taken from normative data of a similar patient population. In the dexamethasone arm, and for each subscale, mean scores post completion of SRT are expected to be similar to their respective baseline mean scores.  
+
+With 30 evaluable patients in each arm, the power of the 5% level F-test for the treatment by time interaction is, under a conservative scenario in which more than 98% of the total variation in subscale scores is between assessments within individuals, and when the total standard deviations and conjectured declines are as given above, approximately 80%. 
+
+A total of 64 participants will be randomised to account for potential dropouts.
+
+Analysis:
+Intention-to-treat analysis
+
+The analysis of the primary endpoint will be based on a linear mixed model that will be fitted using the method of restricted maximum likelihood (REML). The null hypothesis, that there is no interaction between assessment times and treatment arms (placebo and dexamethasone) will be tested using an F-test conducted at the 5% significance level (a=0.05). The p-value for this test will be reported together with a two-way table of predicted means (time by arm) and their associated 95% confidence intervals. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>20/04/2015</anticipatedstartdate>
+    <actualstartdate>24/04/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>64</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>3004 - Melbourne</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>William Buckland Radiotherapy Centre</primarysponsorname>
+    <primarysponsoraddress>55 Commercial Road, Melbourne, VIC 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>William Buckland Radiotherapy Centre</fundingname>
+      <fundingaddress>55 Commercial Road, Melbourne, VIC 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to assess if dexamethasone influences the development of symptoms, if any during stereotactic radiotherapy (SRT) to brain metastases. 
+
+Who is it for?
+You may be eligible to join this study if you are aged 18 years or above, have 1-3 brain metastases with at least one lesion planned for SRT, and not on dexamethasone for at least 7 days prior to SRT. 
+
+Study details:
+There are no clear guidelines on who would benefit from prophylactic (ie. as a precaution before any symptoms develop) dexamethasone during SRT to brain metastases. Some clinicians may choose to prescribe prophylactic dexamethasone to prevent or minimize any local swelling during radiotherapy. Others may not, as not all patients will develop symptoms. To evaluate this, we are randomising patients to having 4 mg oral dexamethasone (on days of SRT and 1 day after) or placebo. We are also studying the effect of treatment on patients quality of life. It is hypothesised that patients in the placebo arm may develop symptoms following SRT. The results of the study will guide clinicians whether prophylactic dexamethasone is beneficial in a selected group of patients having stereotactic radiation for brain metastases. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Health Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>6/03/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jeremy Ruben</name>
+      <address>William Buckland Radiotherapy Centre
+Alfred Health
+55 Commercial Road
+Melbourne 3002</address>
+      <phone>+61 3 90762337</phone>
+      <fax />
+      <email>jeremy.ruben@wbrc.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jeremy Ruben</name>
+      <address>William Buckland Radiotherapy Centre
+Alfred Health
+55 Commercial Road
+Melbourne 3002</address>
+      <phone>+61 3 90762337</phone>
+      <fax />
+      <email>jeremy.ruben@wbrc.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jeremy Ruben</name>
+      <address>William Buckland Radiotherapy Centre
+Alfred Health
+55 Commercial Road
+Melbourne 3002</address>
+      <phone>+61 3 90762337</phone>
+      <fax />
+      <email>jeremy.ruben@wbrc.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kim Ann Ung</name>
+      <address>William Buckland Radiotherapy Centre
+Alfred Health
+55 Commercial Road
+Melbourne 3002</address>
+      <phone>+61 3 90762337</phone>
+      <fax />
+      <email>k.ung@wbrc.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>
