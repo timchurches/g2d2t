@@ -3,13 +3,28 @@ library(lubridate)
 
 anzctr_xml_to_df <- function(filename) {
   doc <- read_xml(filename)
+  # Collapse secondary outcomes
   secondary_outcomes_outcome <- doc %>% xml_find_all("outcomes/secondaryOutcome/outcome") %>% xml_text()
   secondary_outcomes_timepoint <- doc %>% xml_find_all("outcomes/secondaryOutcome/timepoint") %>% xml_text()
   secondary_outcomes <- paste(secondary_outcomes_outcome, "; TIMEPOINT: ", secondary_outcomes_timepoint, sep="", collapse="::::DELIMITER:::")
+  # Collapse contacts
+  contacts_titles <- doc %>% xml_find_all("contacts/contact/title") %>% xml_text()
+  contacts_names <- doc %>% xml_find_all("contacts/contact/name") %>% xml_text()
+  contacts_addresses <- doc %>% xml_find_all("contacts/contact/address") %>% xml_text()
+  contacts_phones <- doc %>% xml_find_all("contacts/contact/phone") %>% xml_text()
+  contacts_faxes <- doc %>% xml_find_all("contacts/contact/fax") %>% xml_text()
+  contacts_emails <- doc %>% xml_find_all("contacts/contact/email") %>% xml_text()
+  contacts_countries <- doc %>% xml_find_all("contacts/contact/country") %>% xml_text()
+  contacts_types <- doc %>% xml_find_all("contacts/contact/type") %>% xml_text()
+  contacts <- paste("TYPE: ", contacts_types, "; NAME: ", contacts_titles, " ", contacts_names, 
+                    "; ADDRESS: ", contacts_addresses, " ", contacts_countries,
+                    "; PHONE: ", contacts_phones, "; FAX: ", contacts_faxes,
+                    "; EMAIL: ", contacts_emails, sep="", collapse="::::DELIMITER:::")
+
   df <- data.frame(
     actrnumber = doc %>% xml_find_all("actrnumber") %>% xml_text(),
-    submit_date = doc %>% xml_find_all("submitdate") %>% xml_text() %>% dmy(),
-    approval_date = doc %>% xml_find_all("approvaldate") %>% xml_text() %>% dmy(),
+    submit_date = doc %>% xml_find_all("submitdate") %>% xml_text() %>% dmy(quiet=TRUE),
+    approval_date = doc %>% xml_find_all("approvaldate") %>% xml_text() %>% dmy(quiet=TRUE),
     stage = doc %>% xml_find_all("stage") %>% xml_text(),
     utrn = doc %>% xml_find_all("trial_identification/utrn") %>% xml_text(),
     study_title = doc %>% xml_find_all("trial_identification/studytitle") %>% xml_text(),
@@ -56,12 +71,55 @@ anzctr_xml_to_df <- function(filename) {
     trial_purpose_obs = doc %>% xml_find_all("trial_design/purposeobs") %>% xml_text(),
     trial_duration = doc %>% xml_find_all("trial_design/duration") %>% xml_text(),
     trial_selection = doc %>% xml_find_all("trial_design/selection") %>% xml_text(),
-    trial_timing = doc %>% xml_find_all("trial_design/timing") %>% xml_text()
+    trial_timing = doc %>% xml_find_all("trial_design/timing") %>% xml_text(),
+    recruitment_phase = doc %>% xml_find_all("recruitment/phase") %>% xml_text(),
+    recruitment_anticipated_start_date = doc %>% xml_find_all("recruitment/anticipatedstartdate") %>% xml_text() %>% dmy(quiet=TRUE),
+    recruitment_actual_start_date = doc %>% xml_find_all("recruitment/actualstartdate") %>% xml_text() %>% dmy(quiet=TRUE),
+    recruitment_anticipated_end_date = doc %>% xml_find_all("recruitment/anticipatedenddate") %>% xml_text() %>% dmy(quiet=TRUE),
+    recruitment_actual_end_date = doc %>% xml_find_all("recruitment/actualenddate") %>% xml_text() %>% dmy(quiet=TRUE),
+    recruitment_sample_size = doc %>% xml_find_all("recruitment/samplesize") %>% xml_text() %>% as.numeric(),
+    recruitment_status = doc %>% xml_find_all("recruitment/recruitmentstatus") %>% xml_text(),
+    recruitment_anticipated_last_visit_date = doc %>% xml_find_all("recruitment/anticipatedlastvisitdate") %>% xml_text() %>% dmy(quiet=TRUE),
+    recruitment_data_analysis = doc %>% xml_find_all("recruitment/dataanalysis") %>% xml_text(),
+    recruitment_withdrawn_reason = doc %>% xml_find_all("recruitment/withdrawnreason") %>% xml_text(),
+    recruitment_withdrawn_reason_other = doc %>% xml_find_all("recruitment/withdrawnreasonother") %>% xml_text(),
+    recruitment_country = doc %>% xml_find_all("recruitment/recruitmentcountry") %>% xml_text(),
+    recruitment_state = doc %>% xml_find_all("recruitment/recruitmentstate") %>% xml_text(),
+    primary_sponsor_type = doc %>% xml_find_all("sponsorship/primarysponsortype") %>% xml_text(),
+    primary_sponsor_name = doc %>% xml_find_all("sponsorship/primarysponsorname") %>% xml_text(),
+    primary_sponsor_address = doc %>% xml_find_all("sponsorship/primarysponsoraddress") %>% xml_text(),
+    primary_sponsor_country = doc %>% xml_find_all("sponsorship/primarysponsorcountry") %>% xml_text(),
+    sponsor_funding_source_type = doc %>% xml_find_all("sponsorship/fundingsource/fundingtype") %>% xml_text(),
+    sponsor_funding_source_name = doc %>% xml_find_all("sponsorship/fundingsource/fundingname") %>% xml_text(),
+    sponsor_funding_source_country = doc %>% xml_find_all("sponsorship/fundingsource/fundingcountry") %>% xml_text(),
+    secondary_sponsor_type = doc %>% xml_find_all("sponsorship/secondarysponsor/sponsortype") %>% xml_text(),
+    secondary_sponsor_name = doc %>% xml_find_all("sponsorship/secondarysponsor/sponsorname") %>% xml_text(),
+    secondary_sponsor_address = doc %>% xml_find_all("sponsorship/secondarysponsor/sponsoraddress") %>% xml_text(),
+    secondary_sponsor_country = doc %>% xml_find_all("sponsorship/secondarysponsor/sponsorcountry") %>% xml_text(),
+    summary = doc %>% xml_find_all("ethicsAndSummary/summary") %>% xml_text(),
+    trial_website = doc %>% xml_find_all("ethicsAndSummary/trialwebsite") %>% xml_text(),
+    publication = doc %>% xml_find_all("ethicsAndSummary/publication") %>% xml_text(),
+    ethics_review = doc %>% xml_find_all("ethicsAndSummary/ethicsreview") %>% xml_text(),
+    public_notes = doc %>% xml_find_all("ethicsAndSummary/publicnotes") %>% xml_text(),
+    ethics_committee_name = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/ethicname") %>% xml_text(),
+    ethics_committee_address = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/ethicaddress") %>% xml_text(),
+    ethics_approval_date = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/ethicapprovaldate") %>% xml_text() %>% dmy(quiet=TRUE),
+    hrec = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/hrec") %>% xml_text(),
+    ethics_submit_date = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/ethicsubmitdate") %>% xml_text() %>% dmy(quiet=TRUE),
+    ethics_country = doc %>% xml_find_all("ethicsAndSummary/ethicscommitee/ethiccountry") %>% xml_text(),
+  contacts = contacts
   )
-  
-  
   return(df)  
 }
 
-filename <- "playground/anzctr_xml/ACTRN12617000596303.xml"
-anzctr_xml_to_df(filename)
+library(progress)
+filenames <- list.files(path="playground/anzctr_xml/", pattern=glob2rx("ACTRN*.xml"))
+
+pb <- progress_bar$new(
+      format = "Processing ANZCTR record :current of :total (:percent), estimated completion in :eta",
+      total = length(filenames), clear = FALSE, width= 60)
+
+for (f in filenames) {
+  a <- anzctr_xml_to_df(filename)
+  pb$tick()
+}
