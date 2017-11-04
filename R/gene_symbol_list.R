@@ -1,11 +1,8 @@
->   x <- org.Hs.egSYMBOL
->     # Get the gene symbol that are mapped to an entrez gene identifiers
->     mapped_genes <- mappedkeys(x)
->     # Convert to a list
->     xx <- as.list(x[mapped_genes])
->     if(length(xx) > 0) {
-+       # Get the SYMBOL for the first five genes
-+       xx[1:5]
-+       # Get the first one
-+       xx[[1]]
-+     }
+library(org.Hs.eg.db) 
+
+uniKeys <- keys(org.Hs.eg.db, keytype="ENTREZID")
+cols <- c("SYMBOL")
+a <- select(org.Hs.eg.db, keys=uniKeys, columns=cols, keytype="ENTREZID")
+a$term <- a$SYMBOL
+a$associated_id <- a$ENTREZID
+a %>% dplyr::select(associated_id, term) %>% mutate(type="ENTREZID") %>% write_csv("data/entrezid_terms.csv")
