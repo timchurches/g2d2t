@@ -114,7 +114,7 @@ drug_terms2drug_id <- bind_rows(drug_common_names, drug_synonyms) %>% arrange(dr
 
 drug_terms2drug_id %>% rename(drug_term=term, drug_term_type=type) %>% inner_join(gene_terms2drug_id %>% rename(gene_term=term, gene_term_type=type), by="drug_id") -> drugs2drug_id2genes
 
-drug_terms2drug_id %>% rename(associated_id=drug_id) %>% select(associated_id, term, type) %>% write_csv("data/drug_terms.csv")
+drug_terms2drug_id %>% rename(associated_id=drug_id) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/drug_terms.csv")
 
-gene_terms2drug_id %>% rename(associated_id=ID) %>% select(associated_id, term, type) %>% write_csv("data/gene_terms.csv")
+gene_terms2drug_id %>% rename(associated_id=ID) %>% filter(term != "NA", !term %in% 0:99, !term %in% LETTERS, !term %in% letters) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/gene_terms.csv")
 
