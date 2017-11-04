@@ -52,8 +52,6 @@ get_drugbank <- function(types, username="", password="", version="5-0-9") {
   return(list(types=types, rcs=rcs, fetched_files=fetched_files))
 }
 
-drugbank_fetches <- get_drugbank("everything", username=drugbank_username, password=drugbank_password)
-
 read_drugbank <- function(filename) {
     split_fname <- unlist(strsplit(filename, "[.]"))
     type <- split_fname[length(split_fname) - 1]
@@ -62,13 +60,50 @@ read_drugbank <- function(filename) {
     } else {
       df <- NULL
     }
-    return(list(type=type, df=df))
+    return(list(type=type,df=df))
 }
 
-length(a[["types"]])
-any(a[["rcs"]])
-a[["fetched_files"]]
-
-for (db in drugbank_fetches) {
-  b <- read_drugbank("/var/folders/38/7hkr3gf548s5lt7mmd7058_m0000gp/T/RtmpFVIHFh/drugbank-5-0-9-all-drug-links-34e7722bc583.csv.zip")
+create_drugbank_data_frames <- function(drugbank_fetch_list) {
+  for (x in seq_along(drugbank_fetches[["types"]])) {
+    ftype <- drugbank_fetches[["types"]][x]
+    fname <- drugbank_fetches[["fetched_files"]][x]
+    df <- read_drugbank(fname)
+    # print(df)
+    if (df[["type"]] == "csv") { 
+      assign(paste("drugbank_", gsub("-","_", ftype), sep=""), df[["df"]], envir = .GlobalEnv)
+    }
+  }
 }
+
+drugbank_fetches <- get_drugbank("everything", username=drugbank_username, password=drugbank_password)
+
+create_drugbank_data_frames(drugbank_fetches)
+
+# ugly renaming of columns with spaces in them - rename() in dplyr doesn't seem to work?
+
+
+drugbank_target_all_polypeptide_ids$drug_ids <- drugbank_target_all_polypeptide_ids$"Drug IDs"
+drugbank_target_all_polypeptide_ids$name <- drugbank_target_all_polypeptide_ids$"Name"
+drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide_ids$"Gene Name"
+
+drops <- c("Drug IDs","Name", "Gene Name")
+drugbank_target_all_polypeptide_ids <- drugbank_target_all_polypeptide_ids[ , !(names(drugbank_target_all_polypeptide_ids) %in% drops)]
+
+drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) %>% rename(drug_id=drug_ids) -> gene2drug_id
+
+drugbank_all_drugbank_vocabulary$drug_id <- drugbank_all_drugbank_vocabulary$"DrugBank ID"
+drugbank_all_drugbank_vocabulary$common_name <- drugbank_all_drugbank_vocabulary$"Common name"
+drugbank_all_drugbank_vocabulary$synonyms <- drugbank_all_drugbank_vocabulary$"Synonyms"
+
+drops <- c("DrugBank ID","Common name", "Synonyms")
+drugbank_all_drugbank_vocabulary <- drugbank_all_drugbank_vocabulary[ , !(names(drugbank_all_drugbank_vocabulary) %in% drops)]
+
+drugbank_all_drugbank_vocabulary %>% select(drug_id, common_name, synonyms) %>% separate_rows(synonyms, sep=" \\| ", convert=TRUE) -> drug_name2drug_id
+
+drug_name2drug_id %>% rename(term=common_name) %>% distinct(drug_id, term) %>% mutate(common_name=TRUE) -> drug_common_names
+
+drug_name2drug_id %>% rename(term=synonyms) %>% distinct(drug_id, term) %>% mutate(common_name=FALSE) -> drug_synonyms
+
+drug_terms2drug_id <- bind_rows(drug_common_names, drug_synonyms) %>% arrange(drug_id)
+
+# %>% rename(drug_id=drug_ids) -> gene2drug_id
