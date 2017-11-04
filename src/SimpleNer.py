@@ -94,9 +94,9 @@ if __name__ == '__main__':
     s = SimpleNer()
     s.train([['this', 'is', 'a', 'test'], ['simple'], ['simple', 'test'], ['test']])
     l = Tokeniser.Lexer()
-    l.lexer.input('this is a test but not a simple test')
+    l.set_input('this is a test but not a simple test')
 
-    print 'Parsing "%s"' % l.lexer.lexdata
+    print 'Parsing "%s"' % l.lexdata()
     hits = s.recognise(l.lexer)
     for hit in hits:
         s, e = hit[0].lexpos, hit[-1].lexpos+len(hit[-1].value)

@@ -33,9 +33,15 @@ class Lexer:
     def __init__(self, **kwargs):
         self.lexer = lex.lex(module=self, **kwargs)
 
+    def set_input(self, input_data):
+        self.lexer.input(input_data)
+
+    def lexdata(self):
+        return self.lexer.lexdata
+
 
 if __name__ == '__main__':
     l = Lexer()
-    l.lexer.input('this is a test but not a simple test')
+    l.set_input('this is a test but not a simple test')
     for tok in l.lexer:
         print tok
