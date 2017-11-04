@@ -91,6 +91,12 @@ drugbank_target_all_polypeptide_ids <- drugbank_target_all_polypeptide_ids[ , !(
 
 drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) %>% rename(drug_id=drug_ids) -> gene2drug_id
 
+gene2drug_id %>% rename(term=name) %>% distinct(ID, drug_id, term) %>% mutate(type="gene_common_name") -> gene_common_names
+
+gene2drug_id %>% rename(term=gene_name) %>% distinct(ID, drug_id, term) %>% mutate(type="gene_symbol") -> gene_symbols
+
+gene_terms2drug_id <- bind_rows(gene_common_names, gene_symbols) %>% arrange(ID, drug_id)
+
 drugbank_all_drugbank_vocabulary$drug_id <- drugbank_all_drugbank_vocabulary$"DrugBank ID"
 drugbank_all_drugbank_vocabulary$common_name <- drugbank_all_drugbank_vocabulary$"Common name"
 drugbank_all_drugbank_vocabulary$synonyms <- drugbank_all_drugbank_vocabulary$"Synonyms"
@@ -100,10 +106,15 @@ drugbank_all_drugbank_vocabulary <- drugbank_all_drugbank_vocabulary[ , !(names(
 
 drugbank_all_drugbank_vocabulary %>% select(drug_id, common_name, synonyms) %>% separate_rows(synonyms, sep=" \\| ", convert=TRUE) -> drug_name2drug_id
 
-drug_name2drug_id %>% rename(term=common_name) %>% distinct(drug_id, term) %>% mutate(common_name=TRUE) -> drug_common_names
+drug_name2drug_id %>% rename(term=common_name) %>% distinct(drug_id, term) %>% mutate(type="drug_common_name") -> drug_common_names
 
-drug_name2drug_id %>% rename(term=synonyms) %>% distinct(drug_id, term) %>% mutate(common_name=FALSE) -> drug_synonyms
+drug_name2drug_id %>% rename(term=synonyms) %>% distinct(drug_id, term) %>% mutate(type="drug_synonym") -> drug_synonyms
 
 drug_terms2drug_id <- bind_rows(drug_common_names, drug_synonyms) %>% arrange(drug_id)
 
-# %>% rename(drug_id=drug_ids) -> gene2drug_id
+drug_terms2drug_id %>% rename(drug_term=term, drug_term_type=type) %>% inner_join(gene_terms2drug_id %>% rename(gene_term=term, gene_term_type=type), by="drug_id") -> drugs2drug_id2genes
+
+drug_terms2drug_id %>% rename(associated_id=drug_id) %>% select(associated_id, term, type) %>% write_csv("data/drug_terms.csv")
+
+gene_terms2drug_id %>% rename(associated_id=ID) %>% select(associated_id, term, type) %>% write_csv("data/gene_terms.csv")
+
