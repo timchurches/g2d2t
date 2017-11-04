@@ -69,7 +69,7 @@ class SimpleNer:
         state = self.start_state
         length = len(tokens)
         while tokens:
-            next_token = tokens.pop(0)
+            next_token = tokens.pop(0).lower()
             if not state.has_transition(next_token):
                 state = state.add_transition(next_token)
             else:
@@ -92,9 +92,9 @@ class SimpleNer:
 
 if __name__ == '__main__':
     s = SimpleNer()
-    s.train([['this', 'is', 'a', 'test'], ['simple'], ['simple', 'test'], ['test']])
+    s.train([['THIS', 'is', 'a', 'test'], ['simple'], ['simple', 'test'], ['test']])
     l = Tokeniser.Lexer()
-    l.set_input('this is a test but not a simple test')
+    l.set_input('this is a TEST but not a SIMPLE test')
 
     print 'Parsing "%s"' % l.lexdata()
     hits = s.recognise(l.lexer)
