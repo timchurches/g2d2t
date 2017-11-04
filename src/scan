@@ -34,17 +34,19 @@ if __name__ == '__main__':
         data = infile.read()
         l.set_input(data)
         input_tokens = list(l.lexer)
-        results = scan(input_tokens, recognisers)
+        hits = scan(input_tokens, recognisers)
         print
         print "In file: ", infile.name
-        if not results:
+        if not hits:
             print '\t<NOTHING>'
             continue
-        identified_results = {}
-        for terms, associated_id in results:
+        results = {}
+        for terms, associated_id in hits:
             s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
-            identified_results.setdefault((data[s:e], associated_id), []).append((s, e))
-        for k in sorted(identified_results.keys()):
-            term, id = k
-            positions = identified_results[k]
-            print '\t%s (%s) %s' % (term, id, " ".join("[%d, %d)" % (s, e) for s, e in positions))
+            results.setdefault(associated_id, {}).setdefault(data[s:e], []).append((s, e))
+        for associated_id in sorted(results.keys()):
+            print "\t%s" % associated_id
+            terms = results[associated_id]
+            for term in sorted(terms.keys()):
+                positions = terms[term]
+                print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
