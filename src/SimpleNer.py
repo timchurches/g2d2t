@@ -29,8 +29,8 @@ class NerState:
         self.transitions[token] = new_state
         return new_state
 
-    def mark_final(self, token_length):
-        self.final_lengths.append(token_length)
+    def mark_final(self, token_length, associated_id):
+        self.final_lengths.append((token_length, associated_id))
 
     def is_final(self):
         return len(self.final_lengths) != 0
@@ -56,14 +56,14 @@ class SimpleNer:
         self.edit_tolerance = edit_tolerance
         self.start_state = NerState(None)
 
-    def train(self, terms):
-        """
-        Run through the terms and build the recogniser tree
-        """
-        for term in terms:
-            self.train_term(term)
+#   def train(self, terms):
+#       """
+#       Run through the terms and build the recogniser tree
+#       """
+#       for term, associated_id in terms:
+#           self.train_term(term, associated_id)
 
-    def train_term(self, tokens):
+    def train_term(self, tokens, associated_id):
         """
         Add a single sequence of tokens to the recogniser
         """
@@ -76,7 +76,7 @@ class SimpleNer:
             else:
                 state = state.get_transition(next_token)
             if len(tokens) == 0:
-                state.mark_final(length)
+                state.mark_final(length, associated_id)
 
     def recognise(self, tokens):
         result = []
@@ -86,19 +86,22 @@ class SimpleNer:
             traversers = filter(None, [traverser.traverse(token) for traverser in traversers])
             for traverser in traversers:
                 if traverser.state.is_final():
-                    for l in traverser.state.final_lengths:
-                        result.append(traverser.collected_term[-l:])
+                    for length, associated_id in traverser.state.final_lengths:
+                        result.append((traverser.collected_term[-length:], associated_id))
         return result
 
 
 if __name__ == '__main__':
-    s = SimpleNer()
-    s.train([['THIS', 'is', 'a', 'test'], ['simple'], ['simple', 'test'], ['test']])
+    s = SimpleNer('test')
+    s.train_term(['THIS', 'is', 'a', 'test'], 1)
+    s.train_term(['simple'], 2)
+    s.train_term(['simple', 'test'], 3)
+    s.train_term(['test'], 4)
     l = Tokeniser.Lexer()
     l.set_input('this is a TEST but not a SIMPLE test')
 
     print 'Parsing "%s"' % l.lexdata()
     hits = s.recognise(l.lexer)
-    for hit in hits:
-        s, e = hit[0].lexpos, hit[-1].lexpos+len(hit[-1].value)
-        print 'found "%s" at [%d, %d)' % (l.lexer.lexdata[s:e], s, e)
+    for terms, associated_id in hits:
+        s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
+        print 'found "%s" (%s) at [%d, %d)' % (l.lexer.lexdata[s:e], associated_id, s, e)

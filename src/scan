@@ -27,7 +27,7 @@ if __name__ == '__main__':
             common_name = row['Common name']
             l.set_input(common_name)
             tokens = [t.value for t in l.lexer]
-            r.train_term(tokens)
+            r.train_term(tokens, row["DrugBank ID"])
         recognisers.append(r)
 
     for infile in parsed_args.infile:
@@ -40,9 +40,11 @@ if __name__ == '__main__':
         if not results:
             print '\t<NOTHING>'
             continue
-        strings = set()
-        for hit in results:
-            s, e = hit[0].lexpos, hit[-1].lexpos+len(hit[-1].value)
-            strings.add(data[s:e])
-        for s in sorted(strings):
-            print '\t' + s
+        identified_results = {}
+        for terms, associated_id in results:
+            s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
+            identified_results.setdefault((data[s:e], associated_id), []).append((s, e))
+        for k in sorted(identified_results.keys()):
+            term, id = k
+            positions = identified_results[k]
+            print '\t%s (%s) %s' % (term, id, " ".join("[%d, %d)" % (s, e) for s, e in positions))
