@@ -8,6 +8,8 @@ Fed a stream of tokens
 Spits out marked up regions in the text.
 """
 
+import Tokeniser
+
 
 class NerState:
     def __init__(self, token, final_state=False):
@@ -40,7 +42,7 @@ class NerTraverser:
         self.collected_term = []
 
     def traverse(self, token):
-        new_state = self.state.get_transition(token)
+        new_state = self.state.get_transition(token.value)
         if new_state is None:
             return None
         self.collected_term.append(token)
@@ -75,16 +77,25 @@ class SimpleNer:
                 state.mark_final()
 
     def recognise(self, tokens):
+        result = []
         traversers = []
         for token in tokens:
             traversers.append(NerTraverser(self.start_state))
             traversers = filter(None, [traverser.traverse(token) for traverser in traversers])
             for traverser in traversers:
                 if traverser.state.is_final():
-                    print traverser.collected_term
+                    result.append(traverser.collected_term)
+        return result
 
 
 if __name__ == '__main__':
     s = SimpleNer()
     s.train([['this', 'is', 'a', 'test'], ['simple'], ['simple', 'test'], ['test']])
-    s.recognise('this is a test but not a simple test'.split())
+    l = Tokeniser.Lexer()
+    l.lexer.input('this is a test but not a simple test')
+
+    print 'Parsing "%s"' % l.lexer.lexdata
+    hits = s.recognise(l.lexer)
+    for hit in hits:
+        s, e = hit[0].lexpos, hit[-1].lexpos+len(hit[-1].value)
+        print 'found "%s" at [%d, %d)' % (l.lexer.lexdata[s:e], s, e)
