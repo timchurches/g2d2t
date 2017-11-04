@@ -89,5 +89,21 @@ drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide
 drops <- c("Drug IDs","Name", "Gene Name")
 drugbank_target_all_polypeptide_ids <- drugbank_target_all_polypeptide_ids[ , !(names(drugbank_target_all_polypeptide_ids) %in% drops)]
 
-drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) -> gene2drug_id
+drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) %>% rename(drug_id=drug_ids) -> gene2drug_id
 
+drugbank_all_drugbank_vocabulary$drug_id <- drugbank_all_drugbank_vocabulary$"DrugBank ID"
+drugbank_all_drugbank_vocabulary$common_name <- drugbank_all_drugbank_vocabulary$"Common name"
+drugbank_all_drugbank_vocabulary$synonyms <- drugbank_all_drugbank_vocabulary$"Synonyms"
+
+drops <- c("DrugBank ID","Common name", "Synonyms")
+drugbank_all_drugbank_vocabulary <- drugbank_all_drugbank_vocabulary[ , !(names(drugbank_all_drugbank_vocabulary) %in% drops)]
+
+drugbank_all_drugbank_vocabulary %>% select(drug_id, common_name, synonyms) %>% separate_rows(synonyms, sep=" \\| ", convert=TRUE) -> drug_name2drug_id
+
+drug_name2drug_id %>% rename(term=common_name) %>% distinct(drug_id, term) %>% mutate(common_name=TRUE) -> drug_common_names
+
+drug_name2drug_id %>% rename(term=synonyms) %>% distinct(drug_id, term) %>% mutate(common_name=FALSE) -> drug_synonyms
+
+drug_terms2drug_id <- bind_rows(drug_common_names, drug_synonyms) %>% arrange(drug_id)
+
+# %>% rename(drug_id=drug_ids) -> gene2drug_id
