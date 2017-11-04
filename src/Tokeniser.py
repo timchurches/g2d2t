@@ -9,6 +9,7 @@ class Lexer:
 
     tokens = [
         'WORD',
+        'OTHER',
         ]
 
     # token regexes
@@ -26,8 +27,12 @@ class Lexer:
 
     # handle words
     def t_WORD(self, t):
-        r'[a-z\-_][a-z\-_0-9]*'
+        r'[a-z\-_0-9(){}:,]+'
         t.type = self.UNIQUE_WORDS.get(t.value.lower(), 'WORD')
+        return t
+
+    def t_OTHER(self, t):
+        r'.'
         return t
 
     def __init__(self, **kwargs):
@@ -42,6 +47,6 @@ class Lexer:
 
 if __name__ == '__main__':
     l = Lexer()
-    l.set_input('this is a TEST but not a simple test')
+    l.set_input('this is a TEST but not a simple test: 2,2-bis(4-hydroxy-3-tert-butylphenyl)propane')
     for tok in l.lexer:
         print tok
