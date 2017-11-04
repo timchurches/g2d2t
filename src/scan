@@ -13,21 +13,29 @@ def scan(data, recognisers):
         results.extend(r.recognise(data))
     return results
 
+def load_recogniser(r, lexicon):
+    csv_reader = csv.DictReader(lexicon)
+    for row in csv_reader:
+        common_name = row['term']
+        l.set_input(common_name)
+        tokens = [t.value for t in l.lexer]
+        r.train_term(tokens, row['associated_id'])
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-l', '--lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
+    parser.add_argument('-c', '--cs-lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
     parser.add_argument('infile', metavar='INFILE', type=argparse.FileType('r'), default=[], nargs='*')
     parsed_args = parser.parse_args(sys.argv[1:])
     recognisers = []
     l = Lexer()
     for lexicon in parsed_args.lexicon:
+        r = SimpleNer(lexicon.name, standardise=str.lower)
+        load_recogniser(r, lexicon)
+        recognisers.append(r)
+    for lexicon in parsed_args.cs_lexicon:
         r = SimpleNer(lexicon.name)
-        csv_reader = csv.DictReader(lexicon)
-        for row in csv_reader:
-            common_name = row['Common name']
-            l.set_input(common_name)
-            tokens = [t.value for t in l.lexer]
-            r.train_term(tokens, row["DrugBank ID"])
+        load_recogniser(r, lexicon)
         recognisers.append(r)
 
     for infile in parsed_args.infile:
@@ -43,6 +51,8 @@ if __name__ == '__main__':
         results = {}
         for terms, associated_id in hits:
             s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
+            if e - s < 4:
+                continue
             results.setdefault(associated_id, {}).setdefault(data[s:e], []).append((s, e))
         for associated_id in sorted(results.keys()):
             print "\t%s" % associated_id

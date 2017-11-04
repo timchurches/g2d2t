@@ -27,8 +27,8 @@ class Lexer:
 
     # handle words
     def t_WORD(self, t):
-        r'[a-z\-_0-9(){}:,]+'
-        t.type = self.UNIQUE_WORDS.get(t.value.lower(), 'WORD')
+        r'(?i)[a-z\-_0-9(){}:,]+'
+        t.type = self.UNIQUE_WORDS.get(t.value, 'WORD')
         return t
 
     def t_OTHER(self, t):
@@ -39,7 +39,7 @@ class Lexer:
         self.lexer = lex.lex(module=self, **kwargs)
 
     def set_input(self, input_data):
-        self.lexer.input(input_data.lower())
+        self.lexer.input(input_data)
 
     def lexdata(self):
         return self.lexer.lexdata
