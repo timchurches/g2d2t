@@ -80,14 +80,14 @@ drugbank_fetches <- get_drugbank("everything", username=drugbank_username, passw
 create_drugbank_data_frames(drugbank_fetches)
 
 # ugly renaming of columns with spaces in them - rename() in dplyr doesn't seem to work?
-drugbank_target_all_polypeptide_ids$drug_ids <- drugbank_target_all_polypeptide_ids[,"Drug IDs"]
-drugbank_target_all_polypeptide_ids[,"Drug IDs"] <- NULL
-drugbank_target_all_polypeptide_ids$name <- drugbank_target_all_polypeptide_ids[,"Name"]
-drugbank_target_all_polypeptide_ids[,"Name"] <- NULL
-drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide_ids[,"Gene Name"]
-drugbank_target_all_polypeptide_ids$"Gene Name" <- NULL
 
-# library(dplyr)
 
-# drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) -> gene2drug_id
+drugbank_target_all_polypeptide_ids$drug_ids <- drugbank_target_all_polypeptide_ids$"Drug IDs"
+drugbank_target_all_polypeptide_ids$name <- drugbank_target_all_polypeptide_ids$"Name"
+drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide_ids$"Gene Name"
+
+drops <- c("Drug IDs","Name", "Gene Name")
+drugbank_target_all_polypeptide_ids <- drugbank_target_all_polypeptide_ids[ , !(names(drugbank_target_all_polypeptide_ids) %in% drops)]
+
+drugbank_target_all_polypeptide_ids %>% select(ID, name, gene_name, drug_ids) %>% separate_rows(drug_ids, convert=TRUE) -> gene2drug_id
 
