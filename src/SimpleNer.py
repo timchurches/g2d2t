@@ -51,7 +51,8 @@ class NerTraverser:
 
 
 class SimpleNer:
-    def __init__(self, edit_tolerance=0):
+    def __init__(self, label, edit_tolerance=0):
+        self.label = label
         self.edit_tolerance = edit_tolerance
         self.start_state = NerState(None)
 

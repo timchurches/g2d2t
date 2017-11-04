@@ -1,0 +1,48 @@
+#! /usr/bin/env python
+
+import sys
+import argparse
+import csv
+
+from SimpleNer import SimpleNer
+from Tokeniser import Lexer
+
+def scan(data, recognisers):
+    results = []
+    for r in recognisers:
+        results.extend(r.recognise(data))
+    return results
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-l', '--lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
+    parser.add_argument('infile', metavar='INFILE', type=argparse.FileType('r'), default=[], nargs='*')
+    parsed_args = parser.parse_args(sys.argv[1:])
+    recognisers = []
+    l = Lexer()
+    for lexicon in parsed_args.lexicon:
+        r = SimpleNer(lexicon.name)
+        csv_reader = csv.DictReader(lexicon)
+        for row in csv_reader:
+            common_name = row['Common name']
+            l.set_input(common_name)
+            tokens = [t.value for t in l.lexer]
+            r.train_term(tokens)
+        recognisers.append(r)
+
+    for infile in parsed_args.infile:
+        data = infile.read()
+        l.set_input(data)
+        input_tokens = list(l.lexer)
+        results = scan(input_tokens, recognisers)
+        print
+        print "In file: ", infile.name
+        if not results:
+            print '\t<NOTHING>'
+            continue
+        strings = set()
+        for hit in results:
+            s, e = hit[0].lexpos, hit[-1].lexpos+len(hit[-1].value)
+            strings.add(data[s:e])
+        for s in sorted(strings):
+            print '\t' + s
