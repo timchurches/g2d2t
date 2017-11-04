@@ -12,10 +12,10 @@ import Tokeniser
 
 
 class NerState:
-    def __init__(self, token, final_state=False):
+    def __init__(self, token):
         self.token = token
         self.transitions = {}
-        self.final_state = final_state
+        self.final_lengths = []
 
     def has_transition(self, token):
         return self.get_transition(token) is not None
@@ -29,11 +29,11 @@ class NerState:
         self.transitions[token] = new_state
         return new_state
 
-    def mark_final(self):
-        self.final_state = True
+    def mark_final(self, token_length):
+        self.final_lengths.append(token_length)
 
     def is_final(self):
-        return self.final_state
+        return len(self.final_lengths) != 0
 
 
 class NerTraverser:
@@ -67,6 +67,7 @@ class SimpleNer:
         Add a single sequence of tokens to the recogniser
         """
         state = self.start_state
+        length = len(tokens)
         while tokens:
             next_token = tokens.pop(0)
             if not state.has_transition(next_token):
@@ -74,7 +75,7 @@ class SimpleNer:
             else:
                 state = state.get_transition(next_token)
             if len(tokens) == 0:
-                state.mark_final()
+                state.mark_final(length)
 
     def recognise(self, tokens):
         result = []
@@ -84,7 +85,8 @@ class SimpleNer:
             traversers = filter(None, [traverser.traverse(token) for traverser in traversers])
             for traverser in traversers:
                 if traverser.state.is_final():
-                    result.append(traverser.collected_term)
+                    for l in traverser.state.final_lengths:
+                        result.append(traverser.collected_term[-l:])
         return result
 
 
