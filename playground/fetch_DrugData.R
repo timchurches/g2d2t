@@ -52,7 +52,7 @@ get_drugbank <- function(types, username="", password="", version="5-0-9") {
   return(list(types=types, rcs=rcs, fetched_files=fetched_files))
 }
 
-drugbank_fetches <- get_drugbank("everything", username=username, password=password)
+drugbank_fetches <- get_drugbank("everything", username=drugbank_username, password=drugbank_password)
 
 read_drugbank <- function(filename) {
     split_fname <- unlist(strsplit(filename, "[.]"))
@@ -65,10 +65,11 @@ read_drugbank <- function(filename) {
     return(list(type=type,df=df))
 }
 
-length(a[["types"]])
-any(a[["rcs"]])
-a[["fetched_files"]]
-
 for (db in drugbank_fetches) {
-  
-b <- read_drugbank("/var/folders/38/7hkr3gf548s5lt7mmd7058_m0000gp/T/RtmpFVIHFh/drugbank-5-0-9-all-drug-links-34e7722bc583.csv.zip")
+  print(db)
+  # print(db[["types"]])
+  # print(db[["rcs"]])
+  # print(db[["fetched_files"]])
+}
+
+# b <- read_drugbank("/var/folders/38/7hkr3gf548s5lt7mmd7058_m0000gp/T/RtmpFVIHFh/drugbank-5-0-9-all-drug-links-34e7722bc583.csv.zip")
