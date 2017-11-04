@@ -3,6 +3,8 @@
 import sys
 import argparse
 import csv
+import json
+import os
 
 from SimpleNer import SimpleNer
 from Tokeniser import Lexer
@@ -23,6 +25,7 @@ def load_recogniser(r, lexicon):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('--json', default=False, action='store_true')
     parser.add_argument('-l', '--lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
     parser.add_argument('-c', '--cs-lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
     parser.add_argument('infile', metavar='INFILE', type=argparse.FileType('r'), default=[], nargs='*')
@@ -38,15 +41,18 @@ if __name__ == '__main__':
         load_recogniser(r, lexicon)
         recognisers.append(r)
 
+    all_results = {}
     for infile in parsed_args.infile:
         data = infile.read()
         l.set_input(data)
         input_tokens = list(l.lexer)
         hits = scan(input_tokens, recognisers)
-        print
-        print "In file: ", infile.name
+        if not parsed_args.json:
+            print
+            print "In file: ", infile.name
         if not hits:
-            print '\t<NOTHING>'
+            if not parsed_args.json:
+                print '\t<NOTHING>'
             continue
         results = {}
         for terms, associated_id in hits:
@@ -54,9 +60,13 @@ if __name__ == '__main__':
             if e - s < 4:
                 continue
             results.setdefault(associated_id, {}).setdefault(data[s:e], []).append((s, e))
-        for associated_id in sorted(results.keys()):
-            print "\t%s" % associated_id
-            terms = results[associated_id]
-            for term in sorted(terms.keys()):
-                positions = terms[term]
-                print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
+        all_results[os.path.splitext(os.path.basename(infile.name))[0]] = results
+        if not parsed_args.json:
+            for associated_id in sorted(results.keys()):
+                print "\t%s" % associated_id
+                terms = results[associated_id]
+                for term in sorted(terms.keys()):
+                    positions = terms[term]
+                    print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
+    if parsed_args.json:
+        print json.dumps(all_results)
