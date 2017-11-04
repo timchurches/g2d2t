@@ -37,12 +37,13 @@ class NerState:
 
 
 class NerTraverser:
-    def __init__(self, state):
+    def __init__(self, state, standardise=lambda x: x):
         self.state = state
+        self.standardise = standardise
         self.collected_term = []
 
     def traverse(self, token):
-        new_state = self.state.get_transition(token.value)
+        new_state = self.state.get_transition(self.standardise(token.value))
         if new_state is None:
             return None
         self.collected_term.append(token)
@@ -51,9 +52,9 @@ class NerTraverser:
 
 
 class SimpleNer:
-    def __init__(self, label, edit_tolerance=0):
+    def __init__(self, label, standardise=lambda x: x):
         self.label = label
-        self.edit_tolerance = edit_tolerance
+        self.standardise = standardise
         self.start_state = NerState(None)
 
 #   def train(self, terms):
@@ -70,7 +71,7 @@ class SimpleNer:
         state = self.start_state
         length = len(tokens)
         while tokens:
-            next_token = tokens.pop(0).lower()
+            next_token = self.standardise(tokens.pop(0))
             if not state.has_transition(next_token):
                 state = state.add_transition(next_token)
             else:
@@ -82,7 +83,7 @@ class SimpleNer:
         result = []
         traversers = []
         for token in tokens:
-            traversers.append(NerTraverser(self.start_state))
+            traversers.append(NerTraverser(self.start_state, standardise=self.standardise))
             traversers = filter(None, [traverser.traverse(token) for traverser in traversers])
             for traverser in traversers:
                 if traverser.state.is_final():
