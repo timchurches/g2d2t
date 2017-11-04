@@ -181,4 +181,8 @@ anzctr_to_df <- function(xmlpath="", pattern="ACTRN*.xml") {
   return(df)
 }
 
-anzctr <- anzctr_to_df(xmlpath="/Users/tim.churches/g2d2t/playground/anzctr_xml")
+anzctr <- anzctr_to_df(xmlpath="playground/anzctr_xml")
+
+anzctr_output = anzctr[,c("actrnumber", "study_title", "interventions", "intervention_codes", "eligibity_inclusive", "eligibity_exclusive")]
+
+write_csv(anzctr_output, "playground/anzctr_searchable.csv")
