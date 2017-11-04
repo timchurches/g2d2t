@@ -85,7 +85,7 @@ drugbank_target_all_polypeptide_ids[,"Drug IDs"] <- NULL
 drugbank_target_all_polypeptide_ids$name <- drugbank_target_all_polypeptide_ids[,"Name"]
 drugbank_target_all_polypeptide_ids[,"Name"] <- NULL
 drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide_ids[,"Gene Name"]
-drugbank_target_all_polypeptide_ids[,"Gene Name"] <- NULL
+drugbank_target_all_polypeptide_ids$"Gene Name" <- NULL
 
 # library(dplyr)
 
