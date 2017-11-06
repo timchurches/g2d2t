@@ -1,6 +1,7 @@
 {
-  "name": "cancer-match-express",
-  "version": "0.0.0",
+  "name": "cancer-trial-match-frontend-webserver",
+  "version": "0.0.1",
+  "description": "Cancer Trial Match - Garvan HealthHack Sydney 2017 Project",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
@@ -15,8 +16,13 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.0",
     "node-fetch": "^1.7.3",
-    "nodemon": "^1.12.1",
     "request": "^2.83.0",
     "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "engines": {
+    "node": "8.x"
   }
 }

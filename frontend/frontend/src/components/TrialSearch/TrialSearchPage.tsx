@@ -37,7 +37,7 @@ function ResultsTab(props: ResultsTabProps) {
 
             {/* {props.results.length === 0 && <div>No trials</div>} */}
             <p>
-                Data from the <a href="www.anzctr.org.au/">Australian New Zealand Clinical Trials Registry</a>
+                Data from the <a href="https://www.anzctr.org.au/">Australian New Zealand Clinical Trials Registry</a>
             </p>
         </div>
     )

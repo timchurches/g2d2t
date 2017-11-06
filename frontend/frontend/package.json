@@ -1,14 +1,11 @@
 {
   "name": "cancer-trial-match-frontend",
   "version": "0.0.1",
-  "config": {
-    "save-exact": true
-  },
   "description": "Cancer Trial Match - Garvan HealthHack Sydney 2017 Project",
   "main": "index.ts",
   "license": "Apache-2.0",
   "scripts": {
-    "build": "rimraf build && webpack --config webpack.config.prod.js",
+    "build": "rimraf build && rimraf ../webserver/build && bash -c \"mkdir ../webserver/build && cp media/* ../webserver/build/\" && webpack --config webpack.config.prod.js",
     "dev": "webpack-dev-server",
     "prebuild": "rimraf node_modules/@types/async",
     "start-clean": "git clean -f -x dist && npm run dev"
@@ -30,21 +27,19 @@
     "history": "4.6.3",
     "react": "16.0.0",
     "react-dom": "16.0.0",
-    "react-highlight-words": "^0.10.0",
+    "react-highlight-words": "0.10.0",
     "react-redux": "5.0.6",
     "react-router-dom": "4.2.2",
     "react-router-redux": "4.0.8",
     "redux": "3.7.2",
-    "redux-thunk": "^2.2.0",
+    "redux-thunk": "2.2.0",
     "reselect": "3.0.1",
     "semantic-ui-react": "0.75.1",
     "typestyle": "1.5.1",
     "uglifyjs-webpack-plugin": "1.0.1"
   },
   "devDependencies": {
-    "brotli-webpack-plugin": "0.4.3",
     "cache-loader": "1.0.3",
-    "compression-webpack-plugin": "1.0.1",
     "css-loader": "0.28.4",
     "extract-text-webpack-plugin": "3.0.0",
     "fork-ts-checker-webpack-plugin": "0.2.8",

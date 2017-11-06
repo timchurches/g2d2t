@@ -31,7 +31,7 @@ module.exports = {
   },
   output: {
     filename: '[name].[hash].bundle.js',
-    path: path.resolve(__dirname, 'build'),
+    path: path.resolve(__dirname, '..', 'webserver', 'build'),
     publicPath: '/build/',
   },
   devServer: {
