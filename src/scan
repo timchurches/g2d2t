@@ -23,9 +23,29 @@ def load_recogniser(r, lexicon):
         tokens = [t.value for t in l.lexer]
         r.train_term(tokens, row['associated_id'])
 
+def process(data, source_field):
+    l.set_input(data)
+    input_tokens = list(l.lexer)
+    hits = scan(input_tokens, recognisers)
+    if not parsed_args.json:
+        print
+        print "In file: ", infile.name
+    if not hits:
+        if not parsed_args.json:
+            print '\t<NOTHING>'
+        return
+    results = {}
+    for terms, associated_id in hits:
+        s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
+        if e - s < 4:
+            continue
+        results.setdefault(associated_id, {}).setdefault(data[s:e], []).append((s, e))
+    return results
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--json', default=False, action='store_true')
+    parser.add_argument('--csv-input', default=False, action='store_true')
     parser.add_argument('-l', '--lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
     parser.add_argument('-c', '--cs-lexicon', metavar='LEXICON', type=argparse.FileType('r'), default=[], action='append')
     parser.add_argument('infile', metavar='INFILE', type=argparse.FileType('r'), default=[], nargs='*')
@@ -43,30 +63,30 @@ if __name__ == '__main__':
 
     all_results = {}
     for infile in parsed_args.infile:
-        data = infile.read()
-        l.set_input(data)
-        input_tokens = list(l.lexer)
-        hits = scan(input_tokens, recognisers)
-        if not parsed_args.json:
-            print
-            print "In file: ", infile.name
-        if not hits:
-            if not parsed_args.json:
-                print '\t<NOTHING>'
-            continue
-        results = {}
-        for terms, associated_id in hits:
-            s, e = terms[0].lexpos, terms[-1].lexpos+len(terms[-1].value)
-            if e - s < 4:
+        if parsed_args.csv_input:
+            data = csv.DictReader(infile)
+            for n, trial in enumerate(data):
+                trial_id = trial["actrnumber"]
+                results = {}
+                for field in data.fieldnames:
+                    if field == "actrnumber":
+                        continue
+                    fresult = process(trial[field], field)
+                    if fresult is not None:
+                        results[field] = fresult
+                all_results[trial_id] = results
+        else:
+            data = infile.read()
+            results = process(data, "xml")
+            if results is None:
                 continue
-            results.setdefault(associated_id, {}).setdefault(data[s:e], []).append((s, e))
-        all_results[os.path.splitext(os.path.basename(infile.name))[0]] = results
-        if not parsed_args.json:
-            for associated_id in sorted(results.keys()):
-                print "\t%s" % associated_id
-                terms = results[associated_id]
-                for term in sorted(terms.keys()):
-                    positions = terms[term]
-                    print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
+            if not parsed_args.json:
+                for associated_id in sorted(results.keys()):
+                    print "\t%s" % associated_id
+                    terms = results[associated_id]
+                    for term in sorted(terms.keys()):
+                        positions = terms[term]
+                        print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
+            all_results[os.path.splitext(os.path.basename(infile.name))[0]] = results
     if parsed_args.json:
         print json.dumps(all_results)

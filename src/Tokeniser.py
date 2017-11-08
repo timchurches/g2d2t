@@ -27,7 +27,7 @@ class Lexer:
 
     # handle words
     def t_WORD(self, t):
-        r'(?i)[a-z\-_0-9(){}:,]+'
+        r'(?i)[a-z\-_0-9(){}]+'
         t.type = self.UNIQUE_WORDS.get(t.value, 'WORD')
         return t
 

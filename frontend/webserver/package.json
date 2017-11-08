@@ -1,0 +1,28 @@
+{
+  "name": "cancer-trial-match-frontend-webserver",
+  "version": "0.0.1",
+  "description": "Cancer Trial Match - Garvan HealthHack Sydney 2017 Project",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "watch": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}

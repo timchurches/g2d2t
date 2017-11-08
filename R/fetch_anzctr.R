@@ -286,3 +286,9 @@ anzctr_to_df <- function(xmlpath="", rectype="") {
   return(df)
 }
 
+# Deprecated - needs revision:
+# anzctr <- anzctr_to_df(xmlpath="playground/anzctr_xml")
+
+# anzctr_output = anzctr[,c("actrnumber", "study_title", "interventions", "intervention_codes", "eligibity_inclusive", "eligibity_exclusive")]
+
+# write_csv(anzctr_output, "playground/anzctr_searchable.csv")
