@@ -22,7 +22,7 @@ class Lexer:
 
     # skip errors
     def t_error(self, t):
-        print "illegal sequence '%s'" % t.value[0]
+        print("illegal sequence '%s'" % t.value[0])
         t.lexer.skip(1)
 
     # handle words
@@ -49,4 +49,4 @@ if __name__ == '__main__':
     l = Lexer()
     l.set_input('this is a TEST but not a simple test: 2,2-bis(4-hydroxy-3-tert-butylphenyl)propane')
     for tok in l.lexer:
-        print tok
+        print(tok)

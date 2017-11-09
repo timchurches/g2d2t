@@ -2,7 +2,9 @@ library(xml2)
 library(tidyverse)
 library(lubridate)
 library(progress)
-
+library(DBI)
+stopifnot("MonetDBLite" %in% rownames(installed.packages()))
+  
 missing_string <- "Not in record"
 
 get_text_xpath <- function(doc, xpath) {
@@ -471,7 +473,7 @@ anzctr_to_dfs <- function(xmlpath="") {
   secondary_ids_df <- tibble(trial_number=secondary_id_trial_numbers,
                              secondary_id=secondary_ids_vec)
   health_conditions_df <- tibble(trial_number=health_conditions_trial_numbers,
-                                  health_conditions=health_conditions_vec)
+                                  health_condition=health_conditions_vec)
   health_conditions_codes_df <- tibble(trial_number=health_conditions_codes_trial_numbers,
                                   health_condition_code1=health_conditions_code1s_vec,
                                   health_condition_code2=health_conditions_code2s_vec)
@@ -534,26 +536,53 @@ anzctr_to_dfs <- function(xmlpath="") {
               ))  
 }
 
-assign_anzctr_df <- function(df_suffix, df_list, envir) {
+store_anzctr_dfs <- function(df_suffix, df_list, dbcon) {
   df_name <- paste("anzctr_", df_suffix, sep="")
-  assign(df_name, df_list[[df_suffix]], envir=envir)
-  message(paste("Created", df_name, "tbl containing", nrow(df_list[[df_suffix]]), "rows."))
+  # load into database
+  dbWriteTable(dbcon, df_name, df_list[[df_suffix]])
+  message(paste("Loaded", df_name, "tbl containing", nrow(df_list[[df_suffix]]), "rows into MonetDB database."))
   invisible(NULL)
 }
 
-load_anzctr_xml <- function(xmlpath="") {
-  anzctr_dfs <- anzctr_to_dfs(xmlpath=xmlpath)
-  assign_anzctr_df("core", anzctr_dfs, parent.frame())
-  assign_anzctr_df("secondary_ids", anzctr_dfs, parent.frame())
-  assign_anzctr_df("health_conditions", anzctr_dfs, parent.frame())
-  assign_anzctr_df("health_conditions_codes", anzctr_dfs, parent.frame())
-  assign_anzctr_df("interventions_codes", anzctr_dfs, parent.frame())
-  assign_anzctr_df("primary_outcomes", anzctr_dfs, parent.frame())
-  assign_anzctr_df("secondary_outcomes", anzctr_dfs, parent.frame())
-  assign_anzctr_df("recruitment_hospitals", anzctr_dfs, parent.frame())
-  assign_anzctr_df("sponsor_funding_sources", anzctr_dfs, parent.frame())
-  assign_anzctr_df("secondary_sponsors", anzctr_dfs, parent.frame())
-  assign_anzctr_df("ethics_committees", anzctr_dfs, parent.frame())
-  assign_anzctr_df("contacts", anzctr_dfs, parent.frame())
+assign_anzctr_dfs <- function(df_suffix, df_list, envir, dbcon) {
+  df_name <- paste("anzctr_", df_suffix, sep="")
+  # assign to the calling environment
+  df <- as.tibble(dbReadTable(con, df_name))
+  assign(df_name, df, envir=envir)
+  message(paste("Loaded", df_name, "tbl containing", nrow(df), "rows."))
   invisible(NULL)
 }
+
+ingest_anzctr_xml <- function(xmlpath="", dbcon=NULL) {
+  anzctr_dfs <- anzctr_to_dfs(xmlpath=xmlpath)
+  store_anzctr_dfs("core", anzctr_dfs, dbcon)
+  store_anzctr_dfs("secondary_ids", anzctr_dfs, dbcon)
+  store_anzctr_dfs("health_conditions", anzctr_dfs, dbcon)
+  store_anzctr_dfs("health_conditions_codes", anzctr_dfs, dbcon)
+  store_anzctr_dfs("interventions_codes", anzctr_dfs, dbcon)
+  store_anzctr_dfs("primary_outcomes", anzctr_dfs, dbcon)
+  store_anzctr_dfs("secondary_outcomes", anzctr_dfs, dbcon)
+  store_anzctr_dfs("recruitment_hospitals", anzctr_dfs, dbcon)
+  store_anzctr_dfs("sponsor_funding_sources", anzctr_dfs, dbcon)
+  store_anzctr_dfs("secondary_sponsors", anzctr_dfs, dbcon)
+  store_anzctr_dfs("ethics_committees", anzctr_dfs, dbcon)
+  store_anzctr_dfs("contacts", anzctr_dfs, dbcon)
+  invisible(NULL)
+}
+
+load_anzctr_dfs <- function(dbcon=NULL) {
+  assign_anzctr_dfs("core", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("secondary_ids", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("health_conditions", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("health_conditions_codes", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("interventions_codes", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("primary_outcomes", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("secondary_outcomes", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("recruitment_hospitals", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("sponsor_funding_sources", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("secondary_sponsors", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("ethics_committees", anzctr_dfs, parent.frame(), dbcon)
+  assign_anzctr_dfs("contacts", anzctr_dfs, parent.frame(), dbcon)
+  invisible(NULL)
+}
+
