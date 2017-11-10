@@ -89,4 +89,4 @@ if __name__ == '__main__':
                         print "\t\t%s" % term, " ".join("[%d, %d)" % (s, e) for s, e in positions)
             all_results[os.path.splitext(os.path.basename(infile.name))[0]] = results
     if parsed_args.json:
-        print json.dumps(all_results)
+        print(json.dumps(all_results))

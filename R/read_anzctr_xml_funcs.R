@@ -111,38 +111,48 @@ anzctr_to_dfs <- function(xmlpath="") {
   public_notes = character(0)
   # repeating data
   secondary_id_trial_numbers <- character(0)
+  secondary_ids_orders_vec <- integer(0)
   secondary_ids_vec <- character(0)
   health_conditions_trial_numbers <- character(0)
+  health_conditions_orders_vec <- integer(0)
   health_conditions_vec <- character(0)
   health_conditions_codes_trial_numbers <- character(0)
+  health_conditions_codes_orders_vec <- integer(0)
   health_conditions_code1s_vec <- character(0)
   health_conditions_code2s_vec <- character(0)
   interventions_codes_trial_numbers <- character(0)
   interventions_codes_vec <- character(0)
+  interventions_codes_orders_vec <- integer(0)
   primary_outcomes_trial_numbers<- character(0)
+  primary_outcomes_orders_vec <- integer(0)
   primary_outcomes_vec <- character(0)
   primary_outcomes_timepoints_vec <- character(0)
   secondary_outcomes_trial_numbers<- character(0)
+  secondary_outcomes_orders_vec <- integer(0)
   secondary_outcomes_vec <- character(0)
   secondary_outcomes_timepoints_vec <- character(0)
   sponsor_funding_sources_trial_numbers <- character(0)
+  sponsor_funding_sources_orders_vec <- integer(0)
   sponsor_funding_sources_types_vec <- character(0)
   sponsor_funding_sources_names_vec <- character(0)
   sponsor_funding_sources_addresses_vec <- character(0)
   sponsor_funding_sources_countries_vec <- character(0)
   secondary_sponsor_trial_numbers <- character(0)
+  secondary_sponsor_orders_vec <- integer(0)
   secondary_sponsor_types_vec <- character(0)
   secondary_sponsor_names_vec <- character(0)
   secondary_sponsor_addresses_vec <- character(0)
   secondary_sponsor_countries_vec <- character(0)
   ethics_committees_trial_numbers <- character(0)
   ethics_committees_names_vec <- character(0)
+  ethics_committees_orders_vec <- integer(0)
   ethics_committees_addresses_vec <- character(0)
   ethics_approval_dates_vec <- datevec(0)
   hrecs_vec <- character(0)
   ethics_submit_dates_vec <- datevec(0)
   ethics_countries_vec <- character(0)
   contacts_trial_numbers <- character(0)
+  contacts_orders_vec <- integer(0)
   contacts_names_vec <- character(0)
   contacts_titles_vec <- character(0)
   contacts_addresses_vec <- character(0)
@@ -152,8 +162,10 @@ anzctr_to_dfs <- function(xmlpath="") {
   contacts_countries_vec <- character(0)
   contacts_types_vec <- character(0)
   recruitment_hospitals_trial_numbers <- character(0)
+  recruitment_hospitals_orders_vec <- integer(0)
   recruitment_hospitals_vec <- character(0)
   recruitment_other_countries_trial_numbers <- character(0)
+  recruitment_other_countries_orders_vec <- integer(0)
   recruitment_other_countries_vec <- character(0)
   recruitment_other_countries_states_vec <- character(0)
   
@@ -242,17 +254,19 @@ anzctr_to_dfs <- function(xmlpath="") {
     # repeating values
     ## secondary IDs
     secondary_ids <- get_text_xpath(doc, "trial_identification/secondaryid")
-    for (s in secondary_ids) {
+    for (c in seq_along(secondary_ids)) {
       l <- length(secondary_id_trial_numbers) + 1
       secondary_id_trial_numbers[[l]] <- current_trial_number
-      secondary_ids_vec[[l]] <- s
+      secondary_ids_orders_vec[[l]] <- c
+      secondary_ids_vec[[l]] <- secondary_ids[c]
     }
     ## health conditions
     health_conditions <- get_text_xpath(doc, "conditions/healthcondition")
-    for (h in health_conditions) {
+    for (c in seq_along(health_conditions)) {
       l <- length(health_conditions_trial_numbers) + 1
       health_conditions_trial_numbers[[l]] <- current_trial_number
-      health_conditions_vec[[l]] <- h
+      health_conditions_orders_vec[[l]] <- c
+      health_conditions_vec[[l]] <- health_conditions[c]
     }
     ## health condition codes
     health_conditions_code1s <- get_text_xpath(doc, "conditions/conditioncode/conditioncode1")
@@ -261,6 +275,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(health_conditions_code1s)) {
       l <- length(health_conditions_codes_trial_numbers) + 1
       health_conditions_codes_trial_numbers[[l]] <- current_trial_number
+      health_conditions_codes_orders_vec[[l]] <- c
       health_conditions_code1s_vec[[l]] <- health_conditions_code1s[c]
       health_conditions_code2s_vec[[l]] <- health_conditions_code2s[c]
     }
@@ -269,6 +284,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(interventions_codes)) {
       l <- length(interventions_codes_trial_numbers) + 1
       interventions_codes_trial_numbers[[l]] <- current_trial_number
+      interventions_codes_orders_vec[[l]] <- c
       interventions_codes_vec[[l]] <- interventions_codes[c]
     }
     ## primary outcomes
@@ -278,6 +294,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(primary_outcomes)) {
       l <- length(primary_outcomes_trial_numbers) + 1
       primary_outcomes_trial_numbers[[l]] <- current_trial_number
+      primary_outcomes_orders_vec[[l]] <- l
       primary_outcomes_vec[[l]] <- primary_outcomes[c]
       primary_outcomes_timepoints_vec[[l]] <- primary_outcomes_timepoints[c]
     }
@@ -288,6 +305,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(secondary_outcomes)) {
       l <- length(secondary_outcomes_trial_numbers) + 1
       secondary_outcomes_trial_numbers[[l]] <- current_trial_number
+      secondary_outcomes_orders_vec[[l]] <- c
       secondary_outcomes_vec[[l]] <- secondary_outcomes[c]
       secondary_outcomes_timepoints_vec[[l]] <- secondary_outcomes_timepoints[c]
     }
@@ -298,6 +316,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(recruitment_hospitals)) {
       l <- length(recruitment_hospitals_trial_numbers) + 1
       recruitment_hospitals_trial_numbers[[l]] <- current_trial_number
+      recruitment_hospitals_orders_vec <- c
       recruitment_hospitals_vec[[l]] <- recruitment_hospitals[c]
     }
     ## recruitment countries
@@ -307,6 +326,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(recruitment_other_countries)) {
       l <- length(recruitment_other_countries_trial_numbers) + 1
       recruitment_other_countries_trial_numbers[[l]] <- current_trial_number
+      recruitment_other_countries_orders_vec[[l]] <- c
       recruitment_other_countries_vec[[l]] <- recruitment_other_countries[c]
       recruitment_other_countries_states_vec[[l]] <- recruitment_other_countries_states[c]
     }
@@ -321,6 +341,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(sponsor_funding_sources_names)) {
       l <- length(sponsor_funding_sources_trial_numbers) + 1
       sponsor_funding_sources_trial_numbers[[l]] <- current_trial_number
+      sponsor_funding_sources_orders_vec <- c
       sponsor_funding_sources_types_vec[[l]] <- sponsor_funding_sources_types[c]
       sponsor_funding_sources_names_vec[[l]] <- sponsor_funding_sources_names[c]
       sponsor_funding_sources_addresses_vec[[l]] <- sponsor_funding_sources_addresses[c]
@@ -337,6 +358,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(secondary_sponsor_names)) {
       l <- length(secondary_sponsor_trial_numbers) + 1
       secondary_sponsor_trial_numbers[[l]] <- current_trial_number
+      secondary_sponsor_orders_vec[[l]] <- c
       secondary_sponsor_types_vec[[l]] <- secondary_sponsor_types[c]
       secondary_sponsor_names_vec[[l]] <- secondary_sponsor_names[c]
       secondary_sponsor_addresses_vec[[l]] <- secondary_sponsor_addresses[c]
@@ -357,6 +379,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(ethics_committees_names)) {
       l <- length(ethics_committees_trial_numbers) + 1
       ethics_committees_trial_numbers[[l]] <- current_trial_number
+      ethics_committees_orders_vec[[l]] <- c
       ethics_committees_names_vec[[l]] <- ethics_committees_names[c]
       ethics_committees_addresses_vec[[l]] <- ethics_committees_addresses[c]
       ethics_approval_dates_vec[[l]] <- ethics_approval_dates[c]
@@ -383,6 +406,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     for (c in seq_along(contacts_names)) {
       l <- length(contacts_trial_numbers) + 1
       contacts_trial_numbers[[l]] <- current_trial_number
+      contacts_orders_vec[[l]] <- c
       contacts_names_vec[[l]] <- contacts_names[c]
       contacts_titles_vec[[l]] <- contacts_titles[c]
       contacts_addresses_vec[[l]] <- contacts_addresses[c]
@@ -471,32 +495,42 @@ anzctr_to_dfs <- function(xmlpath="") {
   )
   # assemble the repeating data tibbles, trial_number is the foreign key in each.
   secondary_ids_df <- tibble(trial_number=secondary_id_trial_numbers,
+                             secondary_id_order=secondary_ids_orders_vec,
                              secondary_id=secondary_ids_vec)
   health_conditions_df <- tibble(trial_number=health_conditions_trial_numbers,
+                                 health_condition_order=health_conditions_orders_vec,
                                   health_condition=health_conditions_vec)
   health_conditions_codes_df <- tibble(trial_number=health_conditions_codes_trial_numbers,
+                                       health_condition_code_order=health_conditions_codes_orders_vec,
                                   health_condition_code1=health_conditions_code1s_vec,
                                   health_condition_code2=health_conditions_code2s_vec)
   interventions_codes_df <- tibble(trial_number=interventions_codes_trial_numbers,
+                                   intervention_order=interventions_codes_orders_vec,
                                   intervention_code=interventions_codes_vec) %>% filter(intervention_code != missing_string)
   primary_outcomes_df <- tibble(trial_number=primary_outcomes_trial_numbers,
+                                  primary_outcome_order=primary_outcomes_orders_vec,
                                   primary_outcome=primary_outcomes_vec,
                                   primary_outcome_timepoint=primary_outcomes_timepoints_vec) %>% filter(primary_outcome != missing_string, primary_outcome_timepoint != missing_string)
   secondary_outcomes_df <- tibble(trial_number=secondary_outcomes_trial_numbers,
+                                  secondary_outcome_order=secondary_outcomes_orders_vec,
                                   secondary_outcome=secondary_outcomes_vec,
                                   secondary_outcome_timepoint=secondary_outcomes_timepoints_vec) %>% filter(secondary_outcome != missing_string, secondary_outcome_timepoint != missing_string)
   recruitment_hospitals_df <- tibble(trial_number=recruitment_hospitals_trial_numbers,
+                                     recruitment_hospital_order=recruitment_hospitals_orders_vec,
                                   recruitment_hospital=recruitment_hospitals_vec) %>% filter(recruitment_hospital != missing_string)
   recruitment_other_countries_df <- tibble(trial_number=recruitment_other_countries_trial_numbers,
+                                  recruitment_other_country_order=recruitment_other_countries_orders_vec,
                                   recruitment_other_country=recruitment_other_countries_vec,
                                   recruitment_other_country_state=recruitment_other_countries_states_vec) %>% filter(recruitment_other_country != missing_string, recruitment_other_country_state != missing_string)
   sponsor_funding_sources_df <- tibble(trial_number=sponsor_funding_sources_trial_numbers,
+                                  sponsor_funding_source_order=sponsor_funding_sources_orders_vec,     
                                   sponsor_funding_source_type=sponsor_funding_sources_types_vec,
                                   sponsor_funding_source_name=sponsor_funding_sources_names_vec,
                                   sponsor_funding_source_address=sponsor_funding_sources_addresses_vec,
                                   sponsor_funding_source_country=sponsor_funding_sources_countries_vec
                                   ) %>% filter(sponsor_funding_source_type != missing_string, sponsor_funding_source_name != missing_string, sponsor_funding_source_address != missing_string, sponsor_funding_source_country != missing_string)
   secondary_sponsors_df <- tibble(trial_number=secondary_sponsor_trial_numbers,
+                                  secondary_sponsor_order=secondary_sponsor_orders_vec,
                                   secondary_sponsor_type=secondary_sponsor_types_vec,
                                   secondary_sponsor_name=secondary_sponsor_names_vec,
                                   secondary_sponsor_address=secondary_sponsor_addresses_vec,
@@ -504,6 +538,7 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   ) %>% filter(secondary_sponsor_type != missing_string, secondary_sponsor_name != missing_string, secondary_sponsor_address != missing_string, secondary_sponsor_country != missing_string)
 
   ethics_committees_df <- tibble(trial_number=ethics_committees_trial_numbers,
+                                  ethics_committee_order=ethics_committees_orders_vec,
                                   ethics_committee_name=ethics_committees_names_vec,
                                   ethics_committee_address=ethics_committees_addresses_vec,
                                   ethics_approval_date=ethics_approval_dates_vec,
@@ -511,6 +546,7 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   ethics_submit_date=ethics_submit_dates_vec,
                                   ethics_country=ethics_countries_vec)
   contacts_df <- tibble(trial_number=contacts_trial_numbers,
+                                  contact_order=contacts_orders_vec,
                                   contact_title=contacts_titles_vec,
                                   contact_name=contacts_names_vec,
                                   contact_address=contacts_addresses_vec,
@@ -539,7 +575,7 @@ anzctr_to_dfs <- function(xmlpath="") {
 store_anzctr_dfs <- function(df_suffix, df_list, dbcon) {
   df_name <- paste("anzctr_", df_suffix, sep="")
   # load into database
-  dbWriteTable(dbcon, df_name, df_list[[df_suffix]])
+  dbWriteTable(dbcon, df_name, df_list[[df_suffix]], overwrite=TRUE)
   message(paste("Loaded", df_name, "tbl containing", nrow(df_list[[df_suffix]]), "rows into MonetDB database."))
   invisible(NULL)
 }
