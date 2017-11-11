@@ -103,7 +103,7 @@ if __name__ == '__main__':
     s.train_term(['(','4','-','hydroxy','-','3','-','tert','-','butylphenyl',')','propane'],7)
     s.train_term(['(','4','-','tert','-','3','-','hydroxy','-','butylphenyl',')','propane'],8)
     l = Tokeniser.Lexer()
-    l.set_input('this is a TEST, possibly a simplistic test, but not a SIMPLE test because it contains : 2,2-bis(4-hydroxy-3-tert-butylphenyl)propane and 2,2-bis(4-tert-3-hydroxy-butylphenyl)propane amongst other things')
+    l.set_input('this is a TEST, possibly a simplistic test, but not a SIMPLE test because it contains : 2,2-bis(4-hydroxy-3-tert-butylphenyl)propane and 2,2-bis(4-tert-3-hydroxy-butylphenyl)propane amongst other things.')
 
     print('Parsing "%s"' % l.lexdata())
     hits = s.recognise(l.lexer)
