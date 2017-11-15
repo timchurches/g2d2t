@@ -1,0 +1,302 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="5823">
+  <stage>Registered</stage>
+  <submitdate>21/10/2015</submitdate>
+  <approvaldate>21/10/2015</approvaldate>
+  <nctid>NCT02584634</nctid>
+  <trial_identification>
+    <studytitle>Study to Evaluate Safety, Efficacy, Pharmacokinetics And Pharmacodynamics Of Avelumab In Combination With Either Crizotinib Or PF-06463922 In Patients With NSCLC. (Javelin Lung 101)</studytitle>
+    <scientifictitle>A Phase 1b/2, Open-label, Dose-finding Study To Evaluate Safety, Efficacy, Pharmacokinetics And Pharmacodynamics Of Avelumab (msb0010718c) In Combination With Either Crizotinib Or Pf-06463922 In Patients With Advanced Or Metastatic Non-small Cell Lung Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2015-001879-43</secondaryid>
+    <secondaryid>B9991005</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Non-Small Cell Lung Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Mesothelioma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Avelumab
+Treatment: drugs - PF-06463922
+Treatment: drugs - Crizotinib
+
+Experimental: Group A - ALK negative Non-Small Cell Lung Cancer
+
+Experimental: Group B - ALK positive Non-Small Cell Lung Cancer
+
+
+Treatment: drugs: Avelumab
+Administered by IV once every two weeks in doses of either 5 mg/kg or 10 mg/kg
+
+Treatment: drugs: PF-06463922
+Tablets taken orally once every day in doses of either 100mg, 75mg, or 50mg.
+
+Treatment: drugs: Crizotinib
+Capsules. Taken orally once or twice every day in doses of either 200mg or 250mg.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>First two cycles dose limiting toxicities (DLTs) for Group A and Group B</outcome>
+      <timepoint>28 days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Confirmed Overall Response (OR) per RECIST v.1.1 for Group A - Complete response (CR) or Partial Response (PR) from start date (first dose of study treatment) until disease progression or death.
+Both CR and PR must be confirmed by repeat assessments performed no less than 4 weeks after the criteria for response are first met.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Control (DC) - DC is defined as Best Overall Response of CR, PR, or Stable Disease (SD). Both CR and PR must be confirmed by repeat assessments performed no less than 4 weeks after the criteria for response are first met.</outcome>
+      <timepoint>Up to 60 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Confirmed Overall Response (Group B) - CR or PR from start date until disease progression or death. Both CR and PR must be confirmed by repeat assessments performed no less than 4 weeks after the criteria for response are first met.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival - Time from start date to the date of death due to any cause.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>AUClast - Area under the plasma concentration time profile from time zero to the time of the last quantifiable concentration (Clast)</outcome>
+      <timepoint>Avelumab: Day 8, Crizotinib &amp; PF-06463922: 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>AUCtau - Area under the plasma concentration time profile after single dose from time zero to the next dose</outcome>
+      <timepoint>Avelumab: Days 1 and 8, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cmax - Maximum observed plasma concentration</outcome>
+      <timepoint>Avelumab: Day 1, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tmax - Time for Cmax</outcome>
+      <timepoint>Avelumab: Day 1, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>t½a - Terminal half life</outcome>
+      <timepoint>Avelumab: Days 1 and 8, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ctrough - Predose concentration during multiple dosing</outcome>
+      <timepoint>Avelumab: Day 1 pre-dose sample, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>CL/Fa - Apparent clearance</outcome>
+      <timepoint>Avelumab: Days 1 and 8, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Vz/Fa - Apparent volume of distribution</outcome>
+      <timepoint>Avelumab: Days 1 and 8, Crizotinib &amp; PF-06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>MRAUCtau - Metabolite to parent ratio for AUCtau</outcome>
+      <timepoint>Avelumab: Days 1 and 8, Crizotinib &amp; PF=06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>MRCmax - Metabolite to parent ratio for Cmax</outcome>
+      <timepoint>Avelumab: Day 1, Crizotinib &amp; PF=06463922: Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>tumor tissue biomarkers - Tumor tissue biomarkers, including but not limited to, PD-L1 expression and tumor infiltrating CD8+ T cells by immunohistochemistry (IHC)</outcome>
+      <timepoint>baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DR) - DR is defined, for patients with an objective response, as the time from first documentation of objective response (CR or PR) to the date of first documentation of objective progression of disease or death due to any cause.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Treatment Response (TTR) - TTR is defined, for patients with an objective response, as the time from the start date to the first documentation of objective response (CR or PR) which is subsequently confirmed.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival (PFS) - PFS is defined as the time from start date to the date of the first documentation of PD or death due to any cause, whichever occurs first.</outcome>
+      <timepoint>Up to 60 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Inclusion Criteria
+
+          -  Diagnosis of advanced or metastatic NSCLC. Group A must be ALK negative NSCLC and
+             Group B must be ALK positive NSCLC
+
+          -  Group A at least one prior regimen of therapy
+
+          -  Group B any number of prior regimens.
+
+          -  Mandatory tumor tissue available
+
+          -  At least one measurable lesion
+
+          -  ECOG Performance status 0 or 1
+
+          -  Adequate bone marrow, renal, liver and pancreatic function
+
+          -  Negative pregnancy test for females of childbearing potential
+
+          -  Group B Phase 2: No prior systemic treatment for advanced or metastatic disease
+             (adjuvant and/or neoadjuvant therapies are allowed if completed at least 6 months
+             prior to study entry. No prior tyrosine kinase inhibitor therapy is allowed at any
+             time prior to study entry)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  No prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti-CTLA-4
+             antibody.
+
+          -  No Severe or Chronic medical conditions including gastrointestinal abnormalities or
+             significant cardiac history
+
+          -  No active infection requiring systemic therapy
+
+          -  Prior organ transplantation including allogenic stem cell transplantation.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>18/12/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>130</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>14/01/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Chris O'Brien Lifehouse - Camperdown</hospital>
+    <hospital>The Prince Charles Hospital - Chermside</hospital>
+    <hospital>Peter MacCallum Cancer Centre - Melbourne</hospital>
+    <hospital>Royal Melbourne Hospital - Parkville</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>4032 - Chermside</postcode>
+    <postcode>3000 - Melbourne</postcode>
+    <postcode>3050 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Koto-ku, Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Pfizer</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to evaluate the safety and efficacy of avelumab when combined
+      with either crizotinib or PF-06463922.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02584634</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address>Pfizer</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address />
+      <phone>1-800-718-1021</phone>
+      <fax />
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

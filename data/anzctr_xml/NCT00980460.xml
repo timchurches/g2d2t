@@ -1,0 +1,597 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2499">
+  <stage>Registered</stage>
+  <submitdate>18/09/2009</submitdate>
+  <approvaldate>18/09/2009</approvaldate>
+  <nctid>NCT00980460</nctid>
+  <trial_identification>
+    <studytitle>Risk-Based Therapy in Treating Younger Patients With Newly Diagnosed Liver Cancer</studytitle>
+    <scientifictitle>Treatment of Children With All Stages of Hepatoblastoma With Temsirolimus (NSC#683864) Added to High Risk Stratum Treatment</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NCI-2011-01975</secondaryid>
+    <secondaryid>NCI-2011-01975</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>PRETEXT Stage 1 Hepatoblastoma</healthcondition>
+    <healthcondition>PRETEXT Stage 2 Hepatoblastoma</healthcondition>
+    <healthcondition>PRETEXT Stage 3 Hepatoblastoma</healthcondition>
+    <healthcondition>PRETEXT Stage 4 Hepatoblastoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Liver</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Cisplatin
+Treatment: drugs - Doxorubicin Hydrochloride
+Treatment: drugs - Fluorouracil
+Treatment: drugs - Irinotecan Hydrochloride
+Other interventions - Laboratory Biomarker Analysis
+Treatment: surgery - Liver Transplantation
+Treatment: drugs - Temsirolimus
+Treatment: surgery - Therapeutic Conventional Surgery
+Treatment: drugs - Vincristine Sulfate
+
+Experimental: High-risk group (regimen H) - Patients receive up front VIT chemotherapy comprising vincristine sulfate IV on days 1 and 8 and irinotecan hydrochloride IV over 90 minutes on days 1-5, and temsirolimus IV over 30 minutes on days 1 and 8. Treatment with VIT repeats every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity. Responding patients then receive 6 courses of C5VD with 4 courses of VIT in between each 2-course block and non-responding patients receive 6 courses of C5VD in the absence of disease progression or unacceptable toxicity. Patients undergo tumor resection or liver transplant after course 4 of C5VD followed by 2 courses of adjuvant C5VD.
+
+Experimental: Intermediate-risk group (regimen F) - Patients receive C5VD chemotherapy comprising cisplatin IV over 6 hours on day 1, fluorouracil IV on day 2, vincristine sulfate IV on days 2, 9, and 16, and doxorubicin hydrochloride IV over 15 minutes on days 1-2. Treatment repeats every 21 days for 6 courses in the absence of disease progression or unacceptable toxicity. Patients also undergo surgical resection after course 2 OR surgical resection or liver transplantation after course 4 of C5VD. (closed to accrual as of 3/12/2012)
+
+Experimental: Low-risk group (regimen T) - Patients undergo surgery and then receive adjuvant cisplatin IV over 6 hours on day 1, fluorouracil IV on day 2, and vincristine sulfate IV on days 2, 9, and 16. Treatment repeats every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity.
+
+Experimental: Very low-risk group - Patients undergo surgery and then receive no further treatment.
+
+
+Treatment: drugs: Cisplatin
+Given IV
+
+Treatment: drugs: Doxorubicin Hydrochloride
+Given IV
+
+Treatment: drugs: Fluorouracil
+Given IV
+
+Treatment: drugs: Irinotecan Hydrochloride
+Given IV
+
+Other interventions: Laboratory Biomarker Analysis
+Correlative studies
+
+Treatment: surgery: Liver Transplantation
+Undergo liver transplant
+
+Treatment: drugs: Temsirolimus
+Given IV
+
+Treatment: surgery: Therapeutic Conventional Surgery
+Undergo surgery
+
+Treatment: drugs: Vincristine Sulfate
+Given IV
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Disease status at the end of 2 courses of therapy</outcome>
+      <timepoint>Up to 42 days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Event-free survival - Estimated by the method of Kaplan and Meier.</outcome>
+      <timepoint>Time from patient enrollment to progression, treatment failure, death from any cause, diagnosis of a second malignant neoplasm, or last follow-up, assessed up to 7 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Incidence of adverse events graded according to Common Terminology Criteria for Adverse Events version 4.0 - All grade 3 or 4 or greater non-hematological toxicities as well as any toxicity that requires submission of an Cancer Therapy Evaluation Program Adverse Event Reporting System report will be reported while the patient is on protocol therapy. The frequency of each toxicity type will be quantified as the percent of reporting periods on which the toxicity of the relevant grade is reported.</outcome>
+      <timepoint>Up to 7 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Rate of death - The estimated on-protocol-therapy death rate and its 95% confidence interval will be reported as the cumulative incidence of on-treatment death and the 95% confidence intervals at four and six month.</outcome>
+      <timepoint>Possibly, probably or likely related to systemic chemotherapy assessed up to 7 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Feasibility of referral for liver transplantation - A patient for whom referral is considered appropriate who receives a consultation after enrollment will be considered a success with respect to feasibility.</outcome>
+      <timepoint>Up to 7 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Patients must be newly diagnosed with histologically-proven hepatoblastoma
+
+          -  In emergency situations when a patient meets all other eligibility criteria and has
+             had baseline required observations, but is too ill to undergo a biopsy safely, the
+             patient may be enrolled on AHEP0731 without a biopsy
+
+               -  Clinical situations in which such emergent treatment may be indicated include,
+                  but are not limited to, the following circumstances:
+
+                    -  Anatomic or mechanical compromise of critical organ function by tumor (eg,
+                       respiratory distress/failure, abdominal compartment syndrome, urinary
+                       obstruction, etc)
+
+                    -  Uncorrectable coagulopathy
+
+               -  For a patient to maintain eligibility for AHEP0731 when emergent treatment is
+                  given, the following must occur:
+
+                    -  The patient must have a clinical diagnosis of hepatoblastoma, including an
+                       elevated alpha fetoprotein, and must meet all AHEP0731 eligibility criteria
+                       at the time of emergent treatment
+
+                    -  Patient must be enrolled on AHEP0731 prior to initiating protocol therapy; a
+                       patient will be ineligible if any chemotherapy is administered prior to
+                       AHEP0731 enrollment
+
+                    -  If the patient receives AHEP0731 chemotherapy PRIOR to undergoing a
+                       diagnostic biopsy, pathologic review of material obtained in the future
+                       during either biopsy or surgical resection must either confirm the diagnosis
+                       of hepatoblastoma or not reveal another pathological diagnosis to be
+                       included in the analysis of the study aims
+
+          -  Patients will be staged for risk classification and treatment at diagnosis using
+             Children's Oncology Group (COG) staging guidelines
+
+          -  At the time of study enrollment, the patient's treatment regimen must be identified;
+             if the patient's primary tumor was resected prior to the day of enrollment and a blood
+             specimen for the determination of serum alpha fetoprotein was not obtained prior to
+             that surgery, the patient will be considered to have alpha fetoprotein of greater than
+             100 ng/mL for the purpose of treatment assignment; if tumor samples obtained prior to
+             the date of enrollment were not sufficient to determine whether small cell
+             undifferentiated (SCU) histology was present, treatment assignment will be made
+             assuming SCU is not present in the tumor
+
+          -  For patients with stage I or II disease, specimens for rapid central review have been
+             submitted and the rapid central review diagnosis and staging must be available to be
+             provided on the AHEP0731 eligibility case report form (CRF)
+
+          -  Patients must have a performance status corresponding to Eastern Cooperative Oncology
+             Group (ECOG) scores 0, 1, or 2; use Karnofsky for patients &gt; 16 years of age and
+             Lansky for patients =&lt; 16 years of age
+
+          -  Patients may have had surgical resection of some or all sites of hepatoblastoma prior
+             to enrollment
+
+          -  Organ function requirements are not required for enrolled patients who are stage I,
+             PFH and will not be receiving chemotherapy
+
+          -  Creatinine clearance or radioisotope glomerular filtration rate (GFR) &gt;= 70
+             mL/min/1.73 m^2 OR serum creatinine based on age/gender as follows:
+
+               -  1 month to &lt; 6 months: 0.4 mg/dL
+
+               -  6 months to &lt; 1 year: 0.5 mg/dL
+
+               -  1 to &lt; 2 years: 0.6 mg/dL
+
+               -  2 to &lt; 6 years: 0.8 mg/dL
+
+               -  6 to &lt; 10 years: 1 mg/dL
+
+               -  10 to &lt; 13 years: 1.2 mg/dL
+
+               -  13 to &lt; 16 years: 1.5 mg/dL (male) or 1.4 mg/dL (female)
+
+               -  &gt;= 16 years: 1.7 mg/dL (male) or 1.4 mg/dL (female)
+
+          -  Total bilirubin &lt; 1.5 x upper limit of normal (ULN) for age
+
+          -  Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or
+             serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) &lt; 10 x
+             ULN for age
+
+          -  Absolute neutrophil count (ANC) &gt; 750/uL
+
+          -  Platelet count &gt; 75,000/uL
+
+          -  Shortening fraction &gt;= 27% by echocardiogram
+
+          -  Ejection fraction &gt;= 47% by radionuclide angiogram (multi gated acquisition scan
+             [MUGA]); Note: the echocardiogram (or MUGA) may be done within 28 days prior to
+             enrollment
+
+          -  Serum triglyceride level =&lt; 300 mg/dL (=&lt; 3.42 mmol/L)
+
+          -  Serum cholesterol level =&lt; 300 mg/dL (7.75 mmol/L)
+
+          -  Random or fasting blood glucose within the upper normal limits for age; if the initial
+             blood glucose is a random sample that is outside of the normal limits, then a
+             follow-up fasting blood glucose can be obtained and must be within the upper normal
+             limits for age
+
+          -  Normal pulmonary function tests (including diffusing capacity of the lungs for carbon
+             monoxide [DLCO]) if there is clinical indication for determination (e.g. dyspnea at
+             rest, known requirement for supplemental oxygen); Note: for patients who do not have
+             respiratory symptoms or requirement for supplemental oxygen, pulmonary function tests
+             (PFTs) are NOT required
+
+          -  Patients with seizure disorder may be enrolled if on non-enzyme inducing
+             anticonvulsants and if seizures are well controlled
+
+          -  Prothrombin time (PT) &lt; 1.2 x ULN
+
+          -  All patients and/or their parents or legal guardians must sign a written informed
+             consent
+
+          -  All institutional, Food and Drug Administration (FDA), and National Cancer Institute
+             (NCI) requirements for human studies must be met</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>21</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Patients with stage I or II disease who do not have specimens submitted for rapid
+             central pathology review by day 14 after initial surgical resection
+
+          -  Patients that have been previously treated with chemotherapy for hepatoblastoma or
+             other hepatoblastoma-directed therapy (eg, radiation therapy, biologic agents, local
+             therapy [embolization, radiofrequency ablation, laser]) are not eligible
+
+          -  Patients who have received any prior chemotherapy are not eligible
+
+          -  Patients who are currently receiving another investigational drug are not eligible
+
+          -  Patients who are currently receiving other anticancer agents are not eligible
+
+          -  Patients who have previously received a solid organ transplant are not eligible
+
+          -  Patients who have an uncontrolled infection are not eligible
+
+          -  Females who are pregnant or breast feeding are not eligible for this study
+
+          -  Female patients of childbearing potential are not eligible unless a negative pregnancy
+             text result has been obtained
+
+          -  Males and females of reproductive potential are not eligible unless they have agreed
+             to use an effective contraceptive method
+
+          -  Patients receiving corticosteroids are not eligible; patients must have been off
+             corticosteroids for 7 days prior to start of chemotherapy
+
+          -  Patients who are currently receiving enzyme inducing anticonvulsants are not eligible
+
+          -  Patients must not be receiving any of the following potent cytochrome P450, family 3,
+             subfamily A, polypeptide 4 (CYP3A4) inducers or inhibitors: erythromycin,
+             clarithromycin, azithromycin, ketoconazole, itraconazole, voriconazole, posaconazole,
+             grapefruit juice or St. John's wort
+
+          -  Patients who are currently receiving therapeutic anticoagulants (including aspirin,
+             low molecular weight heparin, warfarin and others) are not eligible
+
+          -  Patients who are currently receiving angiotensin-converting enzymes (ACE) inhibitors
+             are not eligible
+
+          -  Patients must not have had major surgery within 6 weeks prior to enrollment on the
+             high risk stratum; patients with history of recent minor surgical procedures (vascular
+             catheter placement, bone marrow evaluation, laparoscopic surgery, liver tumor biopsy)
+             will be eligible</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>14/09/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>253</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,SA,WA</recruitmentstate>
+    <hospital>John Hunter Children's Hospital - Hunter Regional Mail Centre</hospital>
+    <hospital>The Children's Hospital at Westmead - Westmead</hospital>
+    <hospital>Women's and Children's Hospital-Adelaide - North Adelaide</hospital>
+    <hospital>Princess Margaret Hospital for Children - Perth</hospital>
+    <postcode>2310 - Hunter Regional Mail Centre</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>5006 - North Adelaide</postcode>
+    <postcode>6008 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukushima Prefecture</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kagoshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Suntou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hiroshima City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>San Juan</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>National Cancer Institute (NCI)</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This phase III trial studies the side effects and how well risk-based therapy works in
+      treating younger patients with newly diagnosed liver cancer. Surgery, chemotherapy drugs
+      (cancer fighting medicines), and when necessary, liver transplant, are the main current
+      treatments for hepatoblastoma. The stage of the cancer is one factor used to decide the best
+      treatment. Treating patients according to the risk group they are in may help get rid of the
+      cancer, keep it from coming back, and decrease the side effects of chemotherapy.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00980460</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Howard Katzenstein</name>
+      <address>Children's Oncology Group</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

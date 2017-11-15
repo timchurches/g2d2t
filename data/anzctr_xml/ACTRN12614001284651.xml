@@ -1,0 +1,196 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367424">
+  <stage>Registered</stage>
+  <submitdate>13/11/2014</submitdate>
+  <approvaldate>9/12/2014</approvaldate>
+  <actrnumber>ACTRN12614001284651</actrnumber>
+  <trial_identification>
+    <studytitle>biomarkers in the diagnosis and prognosis in septic acute kidney injury</studytitle>
+    <scientifictitle>Serum and urine biomarkers are compared in septic patients with acute renal injury to nonseptic, non acute renal injury in surgical ICU setting</scientifictitle>
+    <utrn>U1111-1164-0664</utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>sepsis
+</healthcondition>
+    <healthcondition>acute renal injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Urine samples will be collected from existing foley cathethers and blood samples collected from arterial catheters from enrolled patients who are recognized as having sepsis with acute renal injury, from admission and every other day for up to 10 days or until these patients are discharged to ward from ICU or deceased.</interventions>
+    <comparator>Patients included in the study will be grouped into four as: 
+(1) sepsis and milder forms of AKI (Risk and Injury), 
+(2) sepsis and more severe AKI (Failure, Loss of kidney function and ESRD), 
+(3) non-sepsis and non-AKI and 
+(4) sepsis and non-AKI.
+</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>serum and urine concentrations of biomarkers(NGAL,IL-18, KIM-1, calprotectin),corresponding to the progression/regression of AKI
+</outcome>
+      <timepoint>from admission and then every other day during ICU stay until discharge from ICU or death</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>prediction of AKI development on admission to ICU; AKI will be defined using RIFLE criteria and patients' RIFLE status will be assessed on the same day as the urine/blood samples are obtained</outcome>
+      <timepoint>concentration of serum and urine biomarkers on ICU admission; concentration will be assessed using appropriate ELISA kit for each biomarker</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>&gt;18 years old without known previous renal diseases admitted to our surgical ICU in the absence of any one of the exclusion criteria</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Urinary tract infection on admission
+2.	Chronic kidney disease (glomerular filtration rate &lt;60ml/min/1.73m2) for more than 3 months)
+3.	Patients requiring routine dialysis program
+4.	Renal transplantation
+5.	Inflammatory bowel disease
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The independent samples t-test, chi-square test and Mann-Whitney U tests will be used for categorical and continuous variables. The biomarkers among the 4 groups will be evaluated and compared with ANOVA analysis. Receiver-operating characteristic (ROC) curves will be used to determine the cutoff values of urine biomarkers for the prediction in progression/recovery of septic AKI and development of septic AKI. The area under ROC curve (AUC) will be used to obtain the specificities and sensitivities of the tests.
+The number of participants expected to enroll the study is calculated based on the number of ICU patients per year in 12-bed surgical ICU at our hospital. We aim to enroll
+(1) 60 sepsis and milder forms of AKI patients(Risk and Injury), 
+(2) 60 sepsis and more severe AKI patients (Failure, Loss of kidney function and ESRD), 
+(3) 20 non-sepsis and non-AKI patients and 
+(4) 40 sepsis and non-AKI patients.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Case control</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>20/08/2014</anticipatedstartdate>
+    <actualstartdate>3/11/2014</actualstartdate>
+    <anticipatedenddate>27/01/2017</anticipatedenddate>
+    <actualenddate>30/06/2015</actualenddate>
+    <samplesize>180</samplesize>
+    <actualsamplesize>25</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Taiwan, Province Of China</country>
+      <state>Taiwan</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr. Hsin-I Tsai</primarysponsorname>
+    <primarysponsoraddress>Chang Gung Memorial Hospital
+No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan County, Taiwan</primarysponsoraddress>
+    <primarysponsorcountry>Taiwan, Province Of China</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Chang Gung Memorial Hospital</fundingname>
+      <fundingaddress>Chang Gung Memorial Hospital
+No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan County, Taiwan</fundingaddress>
+      <fundingcountry>Taiwan, Province Of China</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Severe sepsis is one of the leading causes of acute kidney injury (AKI). Of patients with sepsis in the ICU, 3161% have AKI. Both the incidence of severe sepsis and AKI are increasing. Patients with septic AKI have worse outcome than septic patients without AKI in terms of longer ICU and hospital stays and higher mortality. Because the current RIFLE classification does not integrate biomarkers for early diagnosis, severity staging and predicting prognosis of AKI, the present study will be conducted to determine the association between some biomarkers in predicting the progression or recovery of septic AKI.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>CGMH IRB</ethicname>
+      <ethicaddress>No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan County, Taiwan</ethicaddress>
+      <ethicapprovaldate>21/08/2014</ethicapprovaldate>
+      <hrec>103-2722A3</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Taiwan, Province Of China</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/367424-convert-jpg-to-pdf.net_2015-04-01_05-52-28.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin-I Tsai</name>
+      <address>Chang Gung Memorial Hospital
+No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan county, Taiwan</address>
+      <phone>+886 3 328 1200 (transfer to 2324)</phone>
+      <fax />
+      <email>tsaic@hotmail.com</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin-I Tsai</name>
+      <address>Chang Gung Memorial Hospital
+No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan county, Taiwan</address>
+      <phone>+886 3 328 1200 (2324)</phone>
+      <fax />
+      <email>tsaic@hotmail.com</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin-I Tsai</name>
+      <address>Chang Gung Memorial Hospital
+No.5, Fu-Hsin Street, Guei-Shan Town, Tao-yuan county, Taiwan</address>
+      <phone>+886 3 328 1200 (2324)</phone>
+      <fax />
+      <email>tsaic@hotmail.com</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

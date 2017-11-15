@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366000">
+  <stage>Registered</stage>
+  <submitdate>17/04/2014</submitdate>
+  <approvaldate>8/05/2014</approvaldate>
+  <actrnumber>ACTRN12614000476639</actrnumber>
+  <trial_identification>
+    <studytitle>Effects of normocaloric vs. hypocaloric enteral nutrition on whole-body protein turnover in critically ill patients
+</studytitle>
+    <scientifictitle>Effects of normocaloric vs. hypocaloric enteral nutrition on whole-body protein turnover in critically ill patients</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other metabolic disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Critically ill patients from a medical/surgical adult ICU who are on stable, normocaloric, enteral nutrition via nasogastric tube/gastrostomy/jejunostomy are studied twice on consecutive days. Indirect calorimetry is performed to determine energy expenditure. Enteral nutrition is given at 100% of energy expenditure (normocaloric) for 24 hrs on one day, and at 50% of energy expenditure (hypocaloric) for 24 hrs on the other, in randomised order. 
+
+Measurements of whole-body protein kinetics are made during the last 2 hrs of each 24 hr study period. Intravenous infusions of stable isotope labeled phenylalanine and tyrosine are administered to measure whole-body protein turnover. A different stable isotope labeled phenylalanine tracer is administered enterally during the last 5 hrs of each 24 hr study period to enable calculation of dietary contribution to whole-body protein turnover. Parameters of steady-state whole body protein turnover are calculated from arterial plasma enrichments of isotope labeled phenylalanine and tyrosine tracers. </interventions>
+    <comparator>Patients are studied twice on consecutive days and serve as their own controls. Normocaloric nutrition is considered the control and hypocolaric nutrition the intervention treatment.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Whole body net protein balance
+
+Whole-body protein breakdown and synthesis is calculated from arterial plasma enrichments of isotope labeled phenylalanine and tyrosine tracers. The arithmetic difference of breakdown and synthesis is the net protein balance which is the main outcome. Intermediary calculations are also reported for clarity.</outcome>
+      <timepoint>Parameters of whole body protein turnover are measured 22 hrs post initiation of normocaloric enteral nutrition and 22 hrs post initiation of hypocaloric enteral nutrition </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Splanchnic extraction fraction of dietary phenylalanine is calculated from arterial plasma enrichments of isotope labeled phenylalanine and tyrosine tracers. </outcome>
+      <timepoint>Splanchnic extraction fraction of dietary phenylalanine is measured 22 hrs post initiation of normocaloric enteral nutrition and 22 hrs post initiation of hypocaloric enteral nutrition </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma amino acid profile</outcome>
+      <timepoint>Plasma amino acid profile is measured before intervention, 22 hrs post initiation of normocaloric enteral nutrition, and 22 hrs post initiation of hypocaloric enteral nutrition </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Critically ill patients on stable, normocaloric, enteral nutrition nutrition via nasogastric feeding tube/gastrostomy/jejunostomy
+
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Blood transfusion during study period, intolerance of enteral nutrition at time of recruitment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients are recruited from ICU clientele as available. Randomisation to order of treatment (first normocaloric, then hypocaloric vs. first hypocaloric, then normocaloric) is done by sealed opaque envelope drawing in blocks.</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>A crossover design is used because the outcome measures are presumably subject to temporal variation, due to confounding factors such as the natural course of disease, complications, and therapeutic interventions. 
+
+</designfeatures>
+    <endpoint>Pharmacokinetics</endpoint>
+    <statisticalmethods>A sample size calculation was made using data from an earlier study from our group (Berg A et al. (2013), Crit Care 17(4): R158), using results for the endogenous rate of appearance of phenylalanine (endoRaPhe) which is the measurement on which further calculations are based. Assuming alpha=0.05 and beta=0.2, n=10 patients would be required to detect a 20% difference in endoRaPhe. N=12 patients will be studied to account for protocol violations that are unavoidable in the ICU setting.
+
+With the interval of 24 hrs between measurements, a sufficient equilibration of protein metabolism in response to the altered substrate supply can be assumed, so that carry-over effects can be neglected. Therefore, results for each of  the respective time points "normocaloric" and "hypocaloric" are pooled, irrespective of the group assignment.  The pooled values are considered to constitute the outcome measure.
+
+Statistical tests are made for the comparison between the two time points, appropriately by paired samples t-test (replaced by Wilcoxon signed rank test if sample distributions fail normality tests).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>15/12/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof Olav Rooyackers </primarysponsorname>
+    <primarysponsoraddress>Karolinska Institutet
+Inst. for klinisk vetenskap, intervention och teknik
+Enheten for anestesi
+Karolinska Universitetssjukhuset, Huddinge, K32
+141 86 Stockholm </primarysponsoraddress>
+    <primarysponsorcountry>Sweden</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Regional Agreement on Medical Training and Clinical Research (ALF) between Stockholm County Council and Karolinska Institutet</fundingname>
+      <fundingaddress>Stockholm County Council
+Stockholms lans landsting
+Box 22550
+104 22 Stockholm</fundingaddress>
+      <fundingcountry>Sweden</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Critically ill patients suffer from catabolism, i.e. protein loss, which may contribute to complications such as muscle weakness, protracted ventilator treatment, and delayed recovery. Appropriate feeding may alleviate catabolism, but ideal feeding strategies are controversial, partly because the underlying physiology is poorly understood.  
+
+An earlier study (Berg A et al. (2013), Crit Care 17(4): R158) has shown that protein catabolism is reduced when a higher dose of nutrition is given by the intravenous route. We now investigate the effect of a full dose vs. lower dose nutrition regimen where feeding is given via a nasogastric feeding tube, gastrostomy or jejunostomy. Using stable isotope techniques, we measure whether whole-body protein turnover is affected by the dose of nutrition.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Regionala etikprovningsnamnden i Stockholm</ethicname>
+      <ethicaddress>Box 289 (Nobels vag 12 A)
+171 77 Stockholm</ethicaddress>
+      <ethicapprovaldate>17/02/2016</ethicapprovaldate>
+      <hrec>2016/76-31/4</hrec>
+      <ethicsubmitdate>30/04/2014</ethicsubmitdate>
+      <ethiccountry>Sweden</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Olav Rooyackers</name>
+      <address>Karolinska Institutet Inst. for klinisk vetenskap, intervention och teknik Enheten for anestesi Karolinska Universitetssjukhuset, Huddinge, K32 141 86 Stockholm</address>
+      <phone>+46-8-58580553</phone>
+      <fax />
+      <email>olav.rooyackers@ki.se</email>
+      <country>Sweden</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Olav Rooyackers</name>
+      <address>Karolinska Institutet Inst. for klinisk vetenskap, intervention och teknik Enheten for anestesi Karolinska Universitetssjukhuset, Huddinge, K32 141 86 Stockholm</address>
+      <phone>+46-8-58580553</phone>
+      <fax />
+      <email>olav.rooyackers@ki.se</email>
+      <country>Sweden</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Olav Rooyackers</name>
+      <address>Karolinska Institutet Inst. for klinisk vetenskap, intervention och teknik Enheten for anestesi Karolinska Universitetssjukhuset, Huddinge, K32 141 86 Stockholm</address>
+      <phone>+46-8-58580553</phone>
+      <fax />
+      <email>olav.rooyackers@ki.se</email>
+      <country>Sweden</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Felix Liebau</name>
+      <address>Inst. for klinisk vetenskap, intervention och teknik Enheten for anestesi Karolinska Universitetssjukhuset, Huddinge, K32 141 86 Stockholm</address>
+      <phone>+46-8-58580553</phone>
+      <fax />
+      <email>felix.liebau@karolinska.se</email>
+      <country>Sweden</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

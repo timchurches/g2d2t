@@ -1,0 +1,191 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367744">
+  <stage>Registered</stage>
+  <submitdate>14/01/2015</submitdate>
+  <approvaldate>3/02/2015</approvaldate>
+  <actrnumber>ACTRN12615000090516</actrnumber>
+  <trial_identification>
+    <studytitle>iMove, iPlay: The physical implications of tablet computer use by young children</studytitle>
+    <scientifictitle>Movement of young children using tablet computers compared to free play and television: a within subject design</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Physical activity</healthcondition>
+    <healthcondition>sedentary behaviour</healthcondition>
+    <healthcondition>musculoskeletal discomfort</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions> iPad2 (Apple, Cupertino, USA) with a range of age appropriate apps (including Peppa's Paintbox, and Playschool Playtime) and the apps will be selected based on a review and recommendation by the Australian Council on Children and the Media, will not include violence or gambling, and the name and description of the program and app will be given to parents for approval upon consent. The apps will be games designed for young children will include a pre-academic, or learning component. Children will complete the intervention individually (a single participant at a time). The iPad will be placed in the middle of the mat. Children will be instructed that they may move about the mat freely, but must stay on the mat. The research staff will supervise play for safety, but will not engage the child during play, with the exception of assistance being requested. The intervention condition will be a single 15 minute session. Between each condition, research staff with previous experience leading age-appropriate physical activities will lead an active dance break lasting for approximately 5 minutes. </interventions>
+    <comparator>The iPad condition will be compared to two conditions which children will participate in individually:  1) traditional age appropriate toys to simulate free play environment with age-appropriate toys (e.g duplo blocks, arts &amp; crafts, toy cars, puzzle), 2) television with a range of age appropriate programs. Prior to the toy condition, the research staff will introduce each toy and allow the child to ask any questions.  Each condition will  be a single 15 minutes session. Between each condition, research staff with previous experience leading age-appropriate physical activities will lead an active dance break lasting for approximately 5 minutes. </comparator>
+    <control>Active</control>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Physical Activity measured by actigraph accelerometers (hip &amp; wrist) quantified as % of time spent in moderate to vigorous activity</outcome>
+      <timepoint>During each 15 minute condition</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Muscle activity measured by surface myoelectric activity (sEMG) will be collected from the  upper trapezius (UT) muscle. Mean and patterns of muscle activation (duration, breaks)</outcome>
+      <timepoint>During each 15 minute condition</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Postural variation measured by Vicon (Oxford Metrics, inc., Oxford, U.K) three-dimensional motion analysis system, operated at 250Hz, will be utilised to collect participants head, trunk, and upper limb position, Mean and standard deviation of trunk, head, should, wrist angles</outcome>
+      <timepoint>During each 15 minute condition</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Gross Postures and postural variation measured through systematic observational coding of videotapes, % of time lying, sitting, standing</outcome>
+      <timepoint>During each 15 minute condition</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants will be included in the study if they are aged between 3 and 5 years and are able to complete the study protocol as outlined in the parent information sheet (including previous use of tablet computer as reported by parent).</inclusivecriteria>
+    <inclusiveminage>3</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>5</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Participants will be excluded if they have a diagnosed disorder likely to impact their study participation, or illness around the time of data collection.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants and their parents will complate all consent during an initial lab visit. Participants will participate in the three conditions in a balanced, randomized order. </concealment>
+    <sequence>Randomization to the order of conditions will occur using a stratified block design, groups stratified by gender. Treatment order will be drawn from a selection of sealed envelopes with an equal number of possible treatment orders. Separate sets of sealed envelopes will be for boys and girls.  </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analyses will be conducted using Stata/IC 13.0 for Windows (StataCorp LP, College Station TX, USA). Variables will be screened for normality using histograms and diagnostic measures, and non-normal variables will be transformed or analysed using non-parametric tests. Condition order effects will be tested and if significant, will be adjusted for in the model. Repeated measures, multilevel modelling will be used to test the difference in the dependent continuous variables (percentage of time in each physical activity intensity, trunk and head flexion angle means and standard deviations), and EMG activity between independent factor variables (three conditions).
+The power calculation was based on two primary outcomes: physical activity from accelerometers and head and trunk angles from Vicon. Based upon the ICC of activity among preschool children of 0.81,21 a sample of 24 participants is needed to detect an effect size of 0.2 with resulting 85% power. A small effect size (Cohens d = 0.2) is assumed for studies on behavioural effects due to the subtleties of human performance. Straker et al. found an effect size of 0.25 in degrees of head flexion and 0.61 in trunk flexion when comparing tablet use to pen and paper use,(Straker et al., 2008) thus assuming a within subject correlation of 0.7, we would need 24 participants to detect this minimum difference with 80% power.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>27/01/2015</actualstartdate>
+    <anticipatedenddate>30/04/2015</anticipatedenddate>
+    <actualenddate>21/03/2015</actualenddate>
+    <samplesize>24</samplesize>
+    <actualsamplesize>11</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University</primarysponsorname>
+    <primarysponsoraddress>GPO Box U1987
+Perth, Western Australia
+6854</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>School of Physiotherapy and Exercise Science, Curtin University</fundingname>
+      <fundingaddress>GPO Box U1987
+Perth, Western Australia
+6854</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Mobile technology, especially tablet computer use, is increasingly common among children. With displacement of other activities and prolonged extreme postures, this use may have harmful effects on physical health including decreased physical activity, increased sedentary time, and increased risk of musculoskeletal discomfort. Yet despite a call from parents and media for best practice guidelines on tablet computer use, there has been no research to date on the physical effects of current tablet computer use on children. This experimental, laboratory study will examine the activity and postures while children use tablet computers, and compare this to two typical sedentary play conditions: watching television (screentime) and free-play (non-screen). In a randomized, balanced, within subject design, 24 children (ages 3-5, 12 male and 12 female) will participate in three 15 minute play conditions: tablet computer, television watching, free play. The physical environment will be kept constant and only the activity (TV, iPad or freeplay with toys) will vary. Physical activity (using hip and wrist accelerometry), gross postures (systematic video coding), head and trunk angle position and variation (Vicon three-dimensional motion analysis) and upper trapezius and cervical erector spinae muscle activity (surface myoelectric activity), will be measured during each of the three conditions and compared using linear mixed models.</summary>
+    <trialwebsite />
+    <publication>Straker LM, Campbel A, Coenen P, Ranelli S, Howie EK. Movement, posture and muscle activity in young children using tablet computers. 19th Triennial Congress of the International Ergonomics Association. Melbourne, Australia. August 9-14, 2015.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>GPO Box U1987
+Perth WA 6845</ethicaddress>
+      <ethicapprovaldate>24/11/2014</ethicapprovaldate>
+      <hrec>RD-40-14</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Erin K Howie</name>
+      <address>Curtin University 
+GPO Box U1987
+Perth, Western Australia
+6854</address>
+      <phone>+61 8 9266 4660</phone>
+      <fax />
+      <email>erin.howie@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Erin K Howie</name>
+      <address>Curtin University 
+GPO Box U1987
+Perth, Western Australia
+6854</address>
+      <phone>+61 8 9266 4660</phone>
+      <fax />
+      <email>erin.howie@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Erin K Howie</name>
+      <address>Curtin University 
+GPO Box U1987
+Perth, Western Australia
+6854</address>
+      <phone>+61 8 9266 4660</phone>
+      <fax />
+      <email>erin.howie@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Erin K Howie</name>
+      <address>Curtin University 
+GPO Box U1987
+Perth, Western Australia
+6854</address>
+      <phone>+61 8 9266 4660</phone>
+      <fax />
+      <email>erin.howie@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,288 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="1337">
+  <stage>Registered</stage>
+  <submitdate>5/02/2001</submitdate>
+  <approvaldate>5/02/2001</approvaldate>
+  <actrnumber>ACTRN12606000375550</actrnumber>
+  <trial_identification>
+    <studytitle>The Benefits of Oxygen Saturation Targeting (BOOST) trial: different oxygen levels for preterm infants</studytitle>
+    <scientifictitle>A randomised trial of standard versus higher oxygen saturation levels on long term growth and development of infants</scientifictitle>
+    <utrn />
+    <trialacronym>BOOST Trial</trialacronym>
+    <secondaryid>Perinatal Trials Registry: PTR346</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Preterm infants</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Targeting two different oxygen saturation target ranges, SpO2 (oxygen saturation) 91-94% (control) vs SpO2 95-98% (treatment), using pulse oximetry from 32 weeks postmentrual age for the duration of the infant's supplental oxygen need.</interventions>
+    <comparator>SpO2 (oxygen saturation) 91-94%</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean weight, length and head cicumference</outcome>
+      <timepoint>38 weeks postmenstrual age</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>mean proportion of babies less than the 10th percentile for weight, length, and head circumference</outcome>
+      <timepoint>one year corrected age</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Presence of a major developmental abnormality (blindness; cerebral palsy; or a Griffith score &lt;2 standard deviations below the mean)</outcome>
+      <timepoint>one year corrected age</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>1. Assessment of maternal depression.</outcome>
+      <timepoint>At entry into the study at 32 weeks postmenstrual age (pma).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Assessment of child temperament.</outcome>
+      <timepoint>At 4 , 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Parental stress</outcome>
+      <timepoint>At 4, 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal depression during follow-up.</outcome>
+      <timepoint>At trial entry, 4, 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>2. Health service use during first year of life.</outcome>
+      <timepoint>Parental self report at 4, 12 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>3. Presence and progrssion of retinopathy of prematurity (ROP).</outcome>
+      <timepoint>Assessed from 32 weeks pma at 2 weekly intervals until ROP resolved.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>4. Sudden unexplained deaths and other mortality in the first year of life.</outcome>
+      <timepoint>Recorded if/when events occurred).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>i) babies born at less than 30 weeks gestational age who remain oxygen-dependent at 32 weeks postmenopausal age (gestational age plus postnatal age).ii) Agreement of parents to participate in long-term follow-up.iii) registration at one of the level three neonatal intensive care units (NICU) of the eight participating preinatal centres. These are: Canberra Hospital, Woden Valey (ACT); John Hunter Hospital, Newcastle (NSW); King George V Hospital, Camperdown (NSW); Liverpool Hospital, Liverpool (NSW); Mater Mothers Hospital, Brisbane (QLD); Nepean Hospital, Penrith (NSW); Royal Hospital for Women, Ranwick (NSW); and Royal North Shore Hospital, St Leonards (NSW)</inclusivecriteria>
+    <inclusiveminage>24</inclusiveminage>
+    <inclusiveminagetype>Weeks</inclusiveminagetype>
+    <inclusivemaxage>29</inclusivemaxage>
+    <inclusivemaxagetype>Weeks</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>i) lethal and selected congential defects, including congential heart defects; congential lung defects; intestinal atresias or stenoses; anomalies of the abdominal wallii) major surgery and disease complications influencing growth and development directly, including: intestinal resections/ostomies/fistuals; ventriculostomies; ventricular shuntsiii) grade 3 or grade 4 intraventricular haemorrhage (IVH) at 32 weeks postmenstrual age diagnosed by head ultrasound at enrolment or earlieriv) periventricular (cystic) leukomalacia (PVL) at 32 weeks postmenopausal age diagnosed by head ultrasound at enorlment or earlierv) porencephalic cyst at 32 weeks postmenstrual age diagnosed by head ultrasound at enrolment or earliervi) other established neurological injury or abnormailty at 32 weeks postmenstrual age diagnosed by head ultrasound at enrolment or earliervii) babies expected to die imminetly at the time of eligibility assessment as determined by the primary clinicianviii) babies not exptected to live with the biological mother (if adoption is planned or if baby is to live with family other than the biological mother, as noted in medical record or after discussion with clinical staff)ix) infants of multiple confinements if more than tow infants are eligible at 32</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>central telephone randomisation</concealment>
+    <sequence>computer generated random number sequence, with dynamic balancing, stratified for enrolment centre, multiple/singleton birth and gestational age category</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Double blinding of treatment allocation was achieved using the following method: the allocated study oximeter was adjusted to display a reading either 2% above of below the infant's actual saturation value. All infants in the trial were asked to target the blinded range of 93-96% which meant that some babies were actually targeting a range of 91-94% whilst others were actually targeting a range of 95-98%.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>15/09/1996</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>358</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Centre for Perinatal Health Services Research, University of Sydney</primarysponsorname>
+    <primarysponsoraddress>Sydney</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health &amp; Medical Research Council project grant</fundingname>
+      <fundingaddress>Canberra</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC Postgraduate Scholarship</fundingname>
+      <fundingaddress>Canberra</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Financial Markets Foundation for Children</fundingname>
+      <fundingaddress>Melbourne</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Nil</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The trial assessed the effect of different oxgen saturation targeting ranges on the long-term growth and development of oxygen-dependent, extremely preterm infants.</summary>
+    <trialwebsite />
+    <publication>Askie LM, Henderson-Smart DJ, Irwig L, Simpson JM. Oxygen-saturation targets and outcomes in extremely preterm infants. N Engl J Med 2003; 349(10): 953-961.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Sydney</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/06/1995</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Central Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec>95-0055,</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Central Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec>X99-105</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>South Western Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>18/06/1905</ethicapprovaldate>
+      <hrec>96/05</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Northern Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/06/1905</ethicapprovaldate>
+      <hrec>9511-164M</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Hunter Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/06/1905</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>University of Wollongong</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>19/06/1905</ethicapprovaldate>
+      <hrec>HE97/051</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Woden Valley Hospital Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>18/06/1905</ethicapprovaldate>
+      <hrec>ETH.3/96.54</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/06/1905</ethicapprovaldate>
+      <hrec>95/189</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Western Sydney Area Health Service</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>18/06/1905</ethicapprovaldate>
+      <hrec>96/003</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Mater Misericordiae Hospital Brisbane</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>20/06/1905</ethicapprovaldate>
+      <hrec>084M</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Lisa Askie</name>
+      <address>NHMRC Clinical Trial Centre
+University of Sydney
+88 Mallett Street
+Camperdown. NSW. 2050</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9565 1863</fax>
+      <email>laskie@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Lisa Askie</name>
+      <address>NHMRC Clinical Trial Centre
+University of Sydney
+88 Mallett Street
+Camperdown NSW 2050</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9565 1863</fax>
+      <email>laskie@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Lisa Askie</name>
+      <address>NHMRC Clinical Trials Centre UNiversity of Sydney 88 Mallett St Camperdown NSW 2050</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9565 1863</fax>
+      <email>laskie@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

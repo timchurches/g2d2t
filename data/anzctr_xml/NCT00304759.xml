@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1102">
+  <stage>Registered</stage>
+  <submitdate>17/03/2006</submitdate>
+  <approvaldate>17/03/2006</approvaldate>
+  <nctid>NCT00304759</nctid>
+  <trial_identification>
+    <studytitle>PROFIT - Prostate Fractionated Irradiation Trial</studytitle>
+    <scientifictitle>A Randomized Trial of a Shorter Radiation Fractionation Schedule for the Treatment of Localized Prostate Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>CIHR grant MCT-78776</secondaryid>
+    <secondaryid>OCOG-2005-PROFIT</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prostate Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: surgery - 7800 cGy/39 fractions in 8 weeks
+Treatment: surgery - 6000 cGy/20 fractions in 4 weeks
+
+Experimental: 1 - 6000 cGy / 20 fractions in 4 weeks
+
+Active Comparator: 2 - 7800 cGy / 39 fractions in 8 weeks
+
+
+Treatment: surgery: 7800 cGy/39 fractions in 8 weeks
+see above
+
+Treatment: surgery: 6000 cGy/20 fractions in 4 weeks
+see above
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Biochemical (PSA) Failure</outcome>
+      <timepoint>five years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biochemical-Clinical Failure</outcome>
+      <timepoint>five years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Prostate Cancer Specific Mortality</outcome>
+      <timepoint>five years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Toxicity</outcome>
+      <timepoint>five years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life</outcome>
+      <timepoint>five years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Histologic diagnosis of carcinoma of the prostate within 6 months of entry without
+             evidence of metastatic disease to the lymph nodes, bone or lung;
+
+          2. Intermediate risk prostate cancer (that is, T1-2a, Gleason score &lt;6, PSA 10.1-20.0
+             ng/ml; T2b-c Gleason &lt;6, PSA = 20.0 ng/ml; T1-2, Gleason 7, PSA = 20.0 ng/ml).</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Male</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Histologic diagnosis of carcinoma of the prostate more than six months prior to study
+             entry;
+
+          2. Previous therapy for carcinoma of the prostate other than biopsy or transurethral
+             resection;
+
+          3. Patients previously on more than 12 weeks of hormone therapy for treatment of their
+             prostate cancer;
+
+          4. Any other active malignancy (untreated, progressive or recurrent), except for
+             non-melanoma skin cancer. Any inactive malignancy diagnosed within 5 years of entry,
+             except for non-melanoma skin cancer;
+
+          5. Treatment plan cannot meet dose constraints for the hypofractionation arm of the
+             trial;
+
+          6. Previous pelvic radiotherapy;
+
+          7. Inflammatory bowel disease.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/05/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1204</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>15/07/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Liverpool Hospital &amp; Campbelltown Hospital - Liverpool</hospital>
+    <hospital>Calvary Mater Newcastle Hospital - Newcastle</hospital>
+    <hospital>Northern Sydney Cancer Centre, Royal North Shore Hospital - St. Leonards</hospital>
+    <hospital>Westmead Cancer Care Centre - Wentworthville</hospital>
+    <hospital>Wollongong Hospital / Illawarra Cancer Care Centre - Wollongong</hospital>
+    <hospital>Toowoomba Cancer Research Centre - Toowoomba</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Ballarat Austin Radiation Oncology Centre (BAROC) - Ballarat</hospital>
+    <hospital>Peter MacCallum Cancer Centre - Melbourne</hospital>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>2310 - Newcastle</postcode>
+    <postcode>2065 - St. Leonards</postcode>
+    <postcode>2145 - Wentworthville</postcode>
+    <postcode>2500 - Wollongong</postcode>
+    <postcode>4350 - Toowoomba</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>3350 - Ballarat</postcode>
+    <postcode>8006 - Melbourne</postcode>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Newfoundland and Labrador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Herblain</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Ontario Clinical Oncology Group (OCOG)</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Canadian Institutes of Health Research (CIHR)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Trans-Tasman Radiation Oncology Group (TROG)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This trial is designed to determine whether an 8-week course of escalated dose conformal
+      radiation can be compressed safely, and with similar efficacy into a 4-week course.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00304759</trialwebsite>
+    <publication>Martin J, Frantzis J, Chung P, Langah I, Crain M, Cornes D, Plank A, Finch T, Jones M, Khoo E, Catton C. Prostate radiotherapy clinical trial quality assurance: how real should real time review be? (A TROG-OCOG Intergroup Project). Radiother Oncol. 2013 Jun;107(3):333-8. doi: 10.1016/j.radonc.2013.05.015. Epub 2013 Jun 8.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Charles Catton, MD</name>
+      <address>Princess Margaret Hospital, Canada</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

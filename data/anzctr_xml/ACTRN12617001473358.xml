@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373719">
+  <stage>Registered</stage>
+  <submitdate>29/09/2017</submitdate>
+  <approvaldate>18/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001473358p</actrnumber>
+  <trial_identification>
+    <studytitle>Treating hypoglycaemia in newborns with Glucagon And Diazoxide: The Glad Study</studytitle>
+    <scientifictitle>A randomized, controlled trial to evaluate the effect of Diazoxide and Glucagon for the treatment of significant hypoglycaemia in neonates: The GLAD study</scientifictitle>
+    <utrn>U1111-1202-7735</utrn>
+    <trialacronym>GLAD</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hypoglycaemia</healthcondition>
+    <healthcondition>Infant of diabetic mother</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other metabolic disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Diazoxide  5mg/kg/dose 8 hourly orally.
+Treatment algorithm will be used to maintain treatment fidelity, with increases and decreases in glucose and medications based on blood glucose level (BGL)
+Fluids or Diazoxide will be titrated down (by 1mg/kg) if BGL is 5.0mmol/L. 
+Treatment will continue until Diazoxide is no longer required; OR if BGLs not maintained at 3.5 mmol/L or more in spite of maximal therapy; OR at 48 hours; OR at discretion of clinician (with reason to be documented). After this point, further management is at the discretion of the clinician and may involve increased concentration glucose infusion or use of glucagon.
+Adherence with treatment algorithm will be monitored by investigators. The case notes of all enrolled patients will be screened for adherence by research nurse/investigators.</interventions>
+    <comparator>Glucagon  10microgram/kg/hr continuous intravenous infusion. For up to 48 hours.
+Glucagon will be titrated up to a maximum of 20microgram/kg/hr if blood glucose level is less than 3.5mmol/L. Glucagon will be titrated down (by half each time) if BGL is 5.0mmol/L or more.
+Treatment algorithm will be used to maintain treatment fidelity, with increases and decreases in glucose and medications based on blood glucose level (BGL)
+Treatment will continue until Glucagon is no longer required; OR if BGLs not maintained at 3.5 mmol/L or more in spite of maximal therapy; OR at 48 hours; OR at discretion of clinician (with reason to be documented). After this point, further management is at the discretion of the clinician and may involve increased concentration glucose infusion or use of diazoxide.
+Adherence with treatment algorithm will be monitored by investigators. The case notes of all enrolled patients will be screened for adherence by research nurse/investigators.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Treatment failure in allocated study arm defined as:
+	requirement for continuous intravenous glucose infusion with &gt;10% glucose to maintain blood glucose measurement more than or equal to 3.5mmol/l 
+	and/or failure to obtain central venous access if required
+	and/or additional therapies (Diazoxide/Glucagon) required
+
+All blood glucose concentrations will be analysed by the gold standard glucose oxidase method by a combined metabolite/ blood gas analyser (e.g. ABL 700, Radiometer Ltd, Copenhagen, Denmark).</outcome>
+      <timepoint>within 48 hours of treatment commencement.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of participants with a reduction in serum sodium to less than 132 mmol/L</outcome>
+      <timepoint>In the first 24 hours after commencement of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of use of peripheral central venous catheter for glucose administration
+</outcome>
+      <timepoint>1 week after commencement of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in weight
+</outcome>
+      <timepoint>24 hours after treatment commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of hypoglycaemic episodes (defined as a BGL of less than 3.5mmol/l)
+</outcome>
+      <timepoint>within 48 hours of treatment commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in the nursery</outcome>
+      <timepoint>Within 1 week of treatment commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost effectiveness of each treatment. A health economist will assess this outcome based on such measures as length of nursery stay, duration of treatment and relative cost of treatments.</outcome>
+      <timepoint>2 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Infants of diabetic mothers (any type of diabetes) who satisfy ALL of the following:
+1.	more than or equal to 35 weeks gestation
+2.	Birth-weight more than 2.2 kg
+3.	Less than 12 hours old
+4.	Unlikely to require admission to NICU for any other reason e.g. respiratory distress 
+5.	Diagnosis of neonatal hypoglycaemia with 10% Glucose infusion rate 90ml/kg/day and BGL less than 3.5mmol/L</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>12</inclusivemaxage>
+    <inclusivemaxagetype>Hours</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Major congenital abnormalities</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Data analysis
+Continuous data will be compared by Student s t test, or the Mann Whitney U test if the data are not normally distributed and cannot be converted to near normality by simple transformation. Data with repeated points, such as blood glucose concentrations, will be compared using mixed model techniques, modelling the main effect of treatment group allocation, time and their interaction, with significant main effects and interactions tested using the method of Tukey. All tests will be two-tailed, with P &lt; 0.05 considered significant. The data will be analysed on an intention-to-treat basis.
+
+Economic evaluation
+The cost-effectiveness of Diazoxide to prevent primary treatment failure will be compared with glucagon within the period to discharge. Resource utilisation will be obtained from a clinical record form identifying both length of stay (LOS) and relevant Diagnostic Related Group (DRG) code for the mother, plus any subsequent operative procedure (DRG), respiratory problem requiring treatment (DRG), and NICU admission for the baby (plus LOS). Costs will be assessed using Australian Department of Health cost weights and purchase unit prices. 
+
+Power and sample size
+Typically, 50% of term infants of mothers with diabetes (gestational or insulin dependent) will be diagnosed as hypoglycaemic in our institution. Assuming a similar 10% rate of admission to NICU for intensive treatment  this would still result in 90 nursery admissions per year. In 2015-16 42 infants were prescribed Diazoxide for the management hypoglycaemia. We predict a 25% reduction in the rate of treatment failure in the Diazoxide arm of the study. This will require 100 infants who meet the eligibility criteria and a recruitment period of 2 years.
+No head to head trial has been previously undertaken and there is no data on the effectiveness of either medication for this outcome. As such, a more pragmatic approach has been taken based on both clinical experience and available trial information. The authors propose the current trial size as a representative sample, being similar to the annual experience in our centre. We will recalculate sample size after enrollment of the first 25 babies. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>6/11/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/06/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/07/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Womens and Childrens Hospital - North Adelaide</hospital>
+    <postcode>5006 - North Adelaide</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Lydia Kennedy</primarysponsorname>
+    <primarysponsoraddress>Department of Perinatal Medicine,
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Department of Perinatal Medicine, Women's and Children's Hospital</fundingname>
+      <fundingaddress>Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Michael Stark</sponsorname>
+      <sponsoraddress>Department of Perinatal Medicine,
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this research project is to compare Glucagon with Diazoxide for the maintenance of normal blood sugar levels in babies of mothers with diabetes who have low blood sugar levels. The routine nursery treatment differs with each baby but includes use of high concentration sugar infusion (drip) given through an IV line placed in a large vein, intravenous Glucagon and oral Diazoxide. We aim to determine which of these medications, Glucagon or Diazoxide, is better at maintaining blood sugar and which is easier to use</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Women's and Children's Human Research Ethics Committee</ethicname>
+      <ethicaddress>Samuel Way Building
+72 King William Road
+North Adelaide SA 5006</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>6/06/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373719-The GLAD study protocol for CTR.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Lydia Kennedy</name>
+      <address>Department of Perinatal Medicine
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</address>
+      <phone>+61 8 81617631</phone>
+      <fax>+61 8 81617654</fax>
+      <email>lydia.kennedy@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lydia Kennedy</name>
+      <address>Department of Perinatal Medicine
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</address>
+      <phone>+61 8 81617631</phone>
+      <fax>+61 8 81617654</fax>
+      <email>lydia.kennedy@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lydia Kennedy</name>
+      <address>Department of Perinatal Medicine
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</address>
+      <phone>+61 8 81617631</phone>
+      <fax>+61 8 81617654</fax>
+      <email>lydia.kennedy@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lydia Kennedy</name>
+      <address>Department of Perinatal Medicine
+Women's and Children's Hospital
+72 King William Street
+North Adelaide  SA  5006</address>
+      <phone>+61 8 81617631</phone>
+      <fax>+61 8 81617654</fax>
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

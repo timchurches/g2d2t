@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373436">
+  <stage>Registered</stage>
+  <submitdate>8/08/2017</submitdate>
+  <approvaldate>11/08/2017</approvaldate>
+  <actrnumber>ACTRN12617001184369</actrnumber>
+  <trial_identification>
+    <studytitle>Vitamin C administration in severe sepsis</studytitle>
+    <scientifictitle>Vitamin C administration in severe sepsis: a pilot randomised controlled trial of vasopressor requirements</scientifictitle>
+    <utrn>UTN: U1111-1186-1269</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Vitamin C (ASCOR L500)
+Dose: 25 mg/kg/6h (total: 100 mg/kg/d)
+Duration: 4 days
+Mode: intravenous infusion
+</interventions>
+    <comparator>Placebo (D5W) infusion </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Norepinephrine dose requirement </outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Duration of norepinephrine administration </outcome>
+      <timepoint>Up to 4 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma vitamin C concentrations</outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Vasopressin requirements</outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inflammatory biomarker concentrations (plasma CRP)</outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Illness severity (SOFA scores)</outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality (hospital)</outcome>
+      <timepoint>Up to 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay (hospital)</outcome>
+      <timepoint>censored at day 28</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urinary vitamin C concentrations</outcome>
+      <timepoint>Daily for 4 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Receiving IV antimicrobial therapy specifically for infection
+2. Receiving &gt;/=5 µg/min (&gt;/=0.06 µg/kg/min) noradrenaline/adrenaline
+3. Evidence of organ dysfunction - SOFA &gt;/= 2 for at least ONE of: 
+respiratory system (PaO2/FiO2 &lt; 300)
+liver (bilirubin &gt;33)
+coagulation (platelets &lt;100)
+renal system (creatinine &gt;171)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Age &lt; 18 years
+2. Consent cannot be obtained
+3. Patient not expected to survive 24 hours
+4. Known glucose-6-phosphate dehydrogenase (G6PD) deficiency
+5. Known or suspected pregnancy or breastfeeding</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>sealed opaque envelopes</concealment>
+    <sequence>computerised sequence generation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Sample size calculations based on the vitamin C-dependent decreases in norepinephrine dose and duration from Zabet et al (J Res Pharm Pract, 2016)  indicate that a total of 36 participants (18 per group) will have a power of 95% to detect a difference of 22 hours norepinephrine duration or a difference of 6 µg/min norepinephrine dose with 5% type 1 error. Therefore, a total of 40 participants will be enrolled to account for an anticipated 10% loss due to withdrawal of consent to continue. 
+The primary analysis will be as intention-to-treat principle followed by a per-protocol analysis of patients fully complying with the trial protocol. For the primary endpoint, an unadjusted hazard ratio (HR) and 95% confidence interval (CI) using Cox proportional hazards regression based on a binary outcome of achieving or not achieving relevant clinical outcome will be calculated. As a sensitivity analysis, the primary analysis will be repeated on the per-protocol population. As a further sensitivity analysis, multivariable Cox proportional hazard models will be fitted with treatment group and potential confounders of patient age and APACHE scores included as independent variables. Subgroup analyses (e.g. patient age, initial CRP concentration) will be included as interaction terms in a multivariable Cox proportional hazards model. Multivariate analyses will include stratification of outcomes by vitamin C levels on admission to determine whether there is a benefit to all patients regardless of baseline vitamin C and severity of sepsis. Potential interactions will also be examined with age, severity and comorbidities. For all secondary endpoints, unadjusted and adjusted (for patient age and APACHE score) estimates of the effect size and corresponding 95% CIs using linear, logistic, or Cox proportional hazards regression (as appropriate) will be performed. For all time-to-event analyses of secondary endpoints, patients lost to follow-up will be censored at the time of lost contact. For all other analyses of secondary outcomes complete case analyses will be used. All reported CIs will be two-sided 95% intervals, and tests will be done at the two-sided 5% significance level. We use will use the R language for statistical computing for all analyses. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>2/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Anitra Carr</primarysponsorname>
+    <primarysponsoraddress>Department of Pathology, University of Otago, Christchurch, PO Box 4345, Christchurch 8140</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>PO Box 5541, Wellesley Street, Auckland 1141</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Canterbury Medical Research Foundation</fundingname>
+      <fundingaddress>Level 1/230 Antigua Street, Christchurch 8011</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Geoff Shaw</othercollaboratorname>
+      <othercollaboratoraddress>Department of Intensive Care, Christchurch Hospital, Private Bag 4710, Christchurch 8140</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Sepsis is a major health problem worldwide and in New Zealand. Despite a massive effort in recent years to develop therapies, none has as yet proven successful in reducing mortality in patients with sepsis, which currently remains the leading cause of death in most intensive care units. Studies indicate that critically ill patients, including those with sepsis, exhibit very low vitamin C levels compared to healthy people. Furthermore, recent preclinical trials and clinical studies indicate a potential role for vitamin C in decreasing inflammation, vasopressor requirements, and multiple organ failure, and improving outcomes in patients with severe sepsis and septic shock, including decreased mortality. Our study will be a double blind randomised placebo controlled trial to test the efficacy of intravenous (IV) vitamin C administration in patients with severe sepsis, with a specific focus on vasopressor requirements. Participants with severe sepsis will be recruited after being admitted to the Christchurch Hospital Intensive Care Unit (ICU). Forty participants will be randomised into two groups: IV vitamin C (100 mg/kg body weight/day) or IV placebo (1:1 ratio) for a duration of 4 days. Blood and urine samples will be collected daily from patients to measure vitamin C levels along with selected biomarkers of inflammation and organ function. The analyses of these biomarkers, which relate to the severity of sepsis, will determine whether levels are changed in patients who receive the intervention. Clinical outcomes will also be monitored; we hypothesise that the patients who receive vitamin C will have improved outcomes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern A Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health,  Health and Disability Ethics Committees,  PO Box 5013,  Wellington 6140</ethicaddress>
+      <ethicapprovaldate>2/05/2017</ethicapprovaldate>
+      <hrec>16/NTA/238</hrec>
+      <ethicsubmitdate>30/11/2016</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Anitra Carr</name>
+      <address>Department of Pathology, University of Otago, Christchurch, PO Box 4345, Christchurch 8140</address>
+      <phone>+643 364 0649</phone>
+      <fax />
+      <email>anitra.carr@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Anitra Carr</name>
+      <address>Department of Pathology, University of Otago, Christchurch, PO Box 4345, Christchurch 8140</address>
+      <phone>+643 364 0649</phone>
+      <fax />
+      <email>anitra.carr@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Anitra Carr</name>
+      <address>Department of Pathology, University of Otago, Christchurch, PO Box 4345, Christchurch 8140</address>
+      <phone>+643 364 0649</phone>
+      <fax />
+      <email>anitra.carr@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Anitra Carr</name>
+      <address>Department of Pathology, University of Otago, Christchurch, PO Box 4345, Christchurch 8140</address>
+      <phone>+643 364 0649</phone>
+      <fax />
+      <email>anitra.carr@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

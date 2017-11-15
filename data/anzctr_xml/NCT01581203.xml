@@ -1,0 +1,556 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3523">
+  <stage>Registered</stage>
+  <submitdate>18/04/2012</submitdate>
+  <approvaldate>18/04/2012</approvaldate>
+  <nctid>NCT01581203</nctid>
+  <trial_identification>
+    <studytitle>Phase III Hallmark DUAL: ASV+DCV (Nulls/Partials, Intolerants/Ineligibles. Naives)</studytitle>
+    <scientifictitle>A Phase 3 Study With Asunaprevir and Daclatasvir (DUAL) for Null or Partial Responders to Peginterferon Alfa and Ribavirin (P/R), Intolerant or Ineligible to P/R Subjects and Treatment-Naive Subjects With Chronic Hepatitis C Genotype 1b Infection</scientifictitle>
+    <utrn />
+    <trialacronym>Hallmark DUAL</trialacronym>
+    <secondaryid>2011-005446-35</secondaryid>
+    <secondaryid>AI447-028</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hepatitis C Virus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Asunaprevir (ASV)
+Treatment: drugs - Daclatasvir (DCV)
+Treatment: drugs - Pegylated-interferon alfa 2a (PegIFN)
+Treatment: drugs - Ribavirin (RBV)
+
+Experimental: Arm 1: Null or Partial Responder to P/R (ASV + DCV) - Asunaprevir 100 mg Capsules by mouth, Twice daily for 24 Weeks
+Daclatasvir 60 mg Tablet by mouth, Once daily for 24 Weeks
+
+Experimental: Arm 2: Intolerant to or Ineligible for P/R (ASV + DCV) - Asunaprevir 100 mg Capsules by mouth, Twice daily for 24 Weeks
+Daclatasvir 60 mg Tablet by mouth, Once daily for 24 Weeks
+
+Experimental: Arm 3: Treatment naive (ASV + DCV) - [Subjects will receive ASV + DCV for 24 weeks] followed by ASV + DCV for 24 weeks in protocol AI444026]
+Subjects meeting prespecified rescue criteria in the treatment naive cohort may have therapeutic rescue instituted with QUAD regimen (QUAD= ASV + DCV + P/R)
+Asunaprevir 100 mg Capsules by mouth, Twice daily for 24 or 48 Weeks
+Daclatasvir 60 mg Tablet by mouth, Once daily for 24 or 48 Weeks
+Pegylated-interferon alfa 2a (PegIFN) 180 mcg/0.5 mL injection subcutaneously (SC), once weekly for 24 or 48 weeks
+Ribavirin 1000 mg/1200 mg (total daily dose) tablet by mouth for 24 or 48 weeks
+
+Experimental: Arm 4: Null or Partial Responder to P/R (ASV + DCV) 24/48 week - Subjects meeting prespecified rescue criteria in the null or partial responder cohort or active arm of the treatment naive cohort may have therapeutic rescue instituted with QUAD regimen (QUAD= ASV + DCV + P/R)
+Asunaprevir 100 mg Capsules by mouth, Twice daily for 24 or 48 Weeks
+Daclatasvir 60 mg Tablet by mouth, Once daily for 24 or 48 Weeks
+Pegylated-interferon alfa 2a (PegIFN) 180 mcg/0.5 mL injection subcutaneously (SC), once weekly for 24 or 48 weeks
+Ribavirin 1000 mg / 1200 mg (total daily dose) Tablet by mouth, for 24 or 48 weeks
+
+
+Treatment: drugs: Asunaprevir (ASV)
+
+
+Treatment: drugs: Daclatasvir (DCV)
+
+
+Treatment: drugs: Pegylated-interferon alfa 2a (PegIFN)
+
+
+Treatment: drugs: Ribavirin (RBV)
+
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of treated subjects with SVR12, defined as HCV RNA &lt; LOQ at post treatment Week 12, for subjects who are prior null or partial responders to P/R or are treatment-naive</outcome>
+      <timepoint>At 12 weeks post-treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of treated subjects with SVR12, defined as HCV RNA &lt; LOQ at post-treatment Week 12, for subjects who are intolerant or ineligible to P/R</outcome>
+      <timepoint>Post-treatment Week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>On treatment safety, as measured by frequency of Serious Adverse Events (SAEs) and discontinuations due to Adverse Events (AEs)</outcome>
+      <timepoint>End of Treatment (up to 48 weeks) plus 7 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in rates of selected grade 3-4 laboratory abnormalities during the first 12 weeks between treatments (ASV + DCV vs PBO) for naive subjects</outcome>
+      <timepoint>Up to first 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of genotype 1b subjects with SVR12 (HCV RNA &lt; LOQ at post treatment Week 12) by the rs12979860 single nucleotide polymorphisms (SNP) in the IL28B gene for each cohort</outcome>
+      <timepoint>Post-treatment Week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of genotype 1b subjects with HCV RNA undetectable - eRVR = Extended rapid virologic response, EOT = End of treatment</outcome>
+      <timepoint>At weeks 1, 2, 4, 6, 8 and 12; at both Weeks 4 and 12 [eRVR]; EOT (up to 24 weeks), post-treatment Week 12, or post-treatment Week 24 for each cohort</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of genotypes 1b subjects with HCV RNA &lt; LOQ</outcome>
+      <timepoint>At weeks 1, 2, 4, 6, 8 and 12; at both Weeks 4 and 12 [VR(4&amp;12)]; EOT (up to 24 weeks), post-treatment Week 24 (SVR24) for each cohort</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of subjects with anemia</outcome>
+      <timepoint>At 12 weeks post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of subjects with rash</outcome>
+      <timepoint>At 12 weeks post-treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>For more information regarding BMS clinical trial participation, please visit
+        www.BMSStudyConnect.com
+
+        
+
+          -  Males and females, = 18 years of age
+
+          -  HCV Genotype 1b who previously failed treatment with peginterferon alfa and ribavirin,
+             classified as previous null or partial responders based on previous therapy, OR
+             intolerant or ineligible to P/R due to neutropenia, anemia, depression or
+             thrombocytopenia with fibrosis/cirrhosis, OR treatment naive
+
+          -  HCV RNA = 10,000 IU/mL
+
+          -  Seronegative for Human immunodeficiency virus (HIV) and Hepatitis B surface antigen
+             (HBsAg)
+
+          -  Subjects with compensated cirrhosis are permitted (compensated cirrhotics are capped
+             at approximately 25% of treated population)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Prior treatment of HCV with HCV direct acting antiviral (DAA)
+
+          -  Evidence of a medical condition contributing to chronic liver disease other than HCV
+
+          -  Evidence of decompensated liver disease including, but not limited to, a history or
+             presence of ascites, bleeding varices, or hepatic encephalopathy
+
+          -  Diagnosed or suspected hepatocellular carcinoma or other malignancies
+
+          -  Uncontrolled diabetes or hypertension</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/05/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>748</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/09/2014</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC,WA</recruitmentstate>
+    <hospital>Local Institution - Darlinghurst</hospital>
+    <hospital>Local Institution - Kogarah</hospital>
+    <hospital>Local Institution - Randwick</hospital>
+    <hospital>Local Institution - Fitzroy</hospital>
+    <hospital>Local Institution - Adelaide</hospital>
+    <hospital>Local Institution - Bedford Park, Sa</hospital>
+    <hospital>Local Institution - Clayton</hospital>
+    <hospital>Local Institution - Heidelberg</hospital>
+    <hospital>Local Institution - Melbourne</hospital>
+    <hospital>Local Institution - Fremantle</hospital>
+    <hospital>Local Institution - Nedlands</hospital>
+    <hospital>Local Institution - Perth</hospital>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2070 - Randwick</postcode>
+    <postcode>3065 VIC - Fitzroy</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>5042 - Bedford Park, Sa</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>3004 - Melbourne</postcode>
+    <postcode>6160 - Fremantle</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>6001 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clichy Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 04</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille Cedex 08</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 13</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre Les Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bonn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Hashomer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Zafed</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Messina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Busan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Daegu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeongsangnam-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Leiden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Hamilton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Chelyabinsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Krasnoyarsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Smolensk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Tyumen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Greater London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Greater Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Lanarkshire</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Bristol-Myers Squibb</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to estimate efficacy, as determined by the proportion of
+      subjects with Sustained virologic response at post-treatment Week 12 (SVR12), defined as
+      Hepatitis C virus (HCV) Ribonucleic acid (RNA) &lt; Limit of quantitation (LOQ) at
+      post-treatment Week 12, for subjects who are prior null or partial responders to P/R or who
+      are treatment-naive.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01581203</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Bristol-Myers Squibb</name>
+      <address>Bristol-Myers Squibb</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

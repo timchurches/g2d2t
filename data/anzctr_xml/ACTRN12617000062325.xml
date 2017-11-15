@@ -1,0 +1,233 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370674">
+  <stage>Registered</stage>
+  <submitdate>8/01/2017</submitdate>
+  <approvaldate>12/01/2017</approvaldate>
+  <actrnumber>ACTRN12617000062325</actrnumber>
+  <trial_identification>
+    <studytitle>Agreement between TEG6S(Registered) and TEG5000(Registered) devices</studytitle>
+    <scientifictitle>Assessment of agreement and clinical interchangeability between the TEG5000(Registered) and TEG6S(Registered) thromboelastography haemostasis analysers: a prospective validation study</scientifictitle>
+    <utrn>U1111-1182-7814 </utrn>
+    <trialacronym>Not applicable</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Coagulation</healthcondition>
+    <healthcondition>Surgery</healthcondition>
+    <healthcondition>Anaesthesia </healthcondition>
+    <healthcondition>Intensive Care Medicine</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood </conditioncode1>
+      <conditioncode2>Clotting disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is an observation study.  No results will be used by any clinician to influence patient care.
+
+TEG6s (Registered)  and TEG5000 (Registered) (Haemonetics Corp, USA) are commercial haemostasis analysers that measure viscoelasticity properties of whole blood. Both use different mechanisms to assess identical coagulation variables. The aim of this observational study was to assess agreement and clinical interchangeability between the TEG6s and TEG5000 analysers. 
+
+A trained operator, proficient in the use of both the TEG6s and TEG5000 systems will perform all the measurements. The skilled operator will collect 3.5mL whole blood in citrated tubes from 25 adult patients in a tertiary level intensive care unit. Measurements will be performed by one operator on two TEG devices i.e. (Interdevice agreement). Five variables will be examined on each device. Agreement between these variables will be compared. 
+The variables to measured include:
+1. Reaction Time (R) measured in minutes
+2. Kinetics Time (K) measured in minutes
+3. Alpha Angle (AA) measured in degrees
+4. Maximum Amplitude (MA), measured in millimetres
+5. Lysis 30 (LY30), measured as a percentage (%)
+
+Duration of follow up will be until each test has been completed. This takes approximately 60 minutes. There is no patient follow up as this study is device validation study.  
+</interventions>
+    <comparator>Comparing coagulation as assessed by the newer TEG6S global coagulation assessment device with the existing TEG5000 device.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Primary outcome assessed: Agreement the TEG6S and TEG5000 devices in measuring global coagulation in subjects. 
+
+Both the TEG6S and TEG5000 devices examine the same components of the coagulation process, assessing blood as it clots in real time. This provides an overview of the function of various components of the coagulation process (such as coagulation initiation, coagulation rate, thrombus strength and the rate and degree of fibrinolysis), as well as providing an indication of overall coagulation state, that is, whether a subject is broadly hypo-, hyper- or normocoagulative. </outcome>
+      <timepoint>Duration of thisTEG measurement will be over a 60 minute period.
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the TEG6S and TEG5000 devices in measuring the Reaction Time (R), measured in minutes.  </outcome>
+      <timepoint>Duration of this TEG measurement will be over a 60 minute period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the TEG6S and TEG5000 devices in measuring the clot kinetic time (K time), measured in minutes.  </outcome>
+      <timepoint>Duration of this TEG measurement will be over a 60 minute period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the TEG6S and TEG5000 devices in measuring the Alpha Angle (AA,) measured in degrees.  </outcome>
+      <timepoint>Duration of this TEG measurement will be over a 60 minute period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the TEG6S and TEG5000 devices in measuring the Maximum Amplitude (MA), measured in millimetres.</outcome>
+      <timepoint>Duration of thisTEG measurement will be over a 60 minute period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the TEG6S and TEG5000 devices in measuring the Lysis 30 (LY30), measured as a percentage.  </outcome>
+      <timepoint>Duration of thisTEG measurement will be over a 60 minute period.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients admitted to ICU who required an arterial line as part of standard care. 
+Patients admitted to ICU who receive TEG as part of standard routine hospital care. 
+Patients undergoing major cardiac surgery who receive TEG as part of standard routine hospital care. 
+Adult patients (Age 18 years or greater)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Subjects less than 18 years old. 
+Subjects who would not otherwise require TEG assessment as part of their standard clinical care. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Statistical analysis was performed using commercial statistical software STATA/IC v.13 with a p value of 0.05 to indicate statistical significance. Interdevice agreement was estimated using Lins condordance coefficient and further validated using intraclass correlation coefficients and reduced major axis regression. Lins concordance assesses the degree of agreement between two continuous variables and calculates the value of Lins concordance correlation coefficient. A value of 1 denotes perfect concordance; a value of zero denotes its complete absence. Due to the pragmatic and exploratory nature of the study, power calculations were not performed. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Convenience sample</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>9/04/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>12/09/2015</actualenddate>
+    <samplesize>33</samplesize>
+    <actualsamplesize>25</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>25/09/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <postcode>3084 - Heidelberg</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Austin Hospital</primarysponsorname>
+    <primarysponsoraddress>145 Studley Road, Heidelberg, Victoria, 3084</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Austin Hospital Anaesthesia and Intensive Care Research Fund</fundingname>
+      <fundingaddress>Austin Hospital
+145 Studley Rd
+Heidelberg
+VIC 
+3084</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Thromboelastography (TEG) allows rapid, comprehensive and accurate identification of an individuals haemostasis condition in a laboratory or point-of-care setting. Until now, different TEG assays had to be performed individually, with each assay requiring lengthy preparation and calibrated pipetting. TEG6s and TEG5000 (Haemonetics Corp, USA) are commercial haemostasis analysers that measure viscoelasticity properties of whole blood. Both use different mechanisms to assess identical coagulation variables. The aim of this study was to assess agreement and clinical interchangeability between the TEG6s and TEG5000 analysers. 
+
+After Ethics Committee approval, we systematically collected 3.5mL whole blood in citrated tubes from 25 adult patients in a tertiary level intensive care unit (ICU). A trained operator, proficient in the use of both the TEG6S and TEG5000 systems performed all the measurements. Interdevice agreement between the TEG6S and TEG5000 analysers was measured using Lins condordance coefficient, and further validated this using intraclass correlation coefficients and reduced major axis regression, which allowed separation of the observed bias into fixed and proportional components. 
+
+As this is an observational device study, no results results will be used by any clinician to influence patient care.</summary>
+    <trialwebsite>Not applicable</trialwebsite>
+    <publication>Lloyd-Donald P, Zia F, Bellomo R, Hart G, Churilov L, Weinberg L. Assessment of agreement and clinical interchangeability between the TEG5000 and TEG6S thromboelastography haemostasis analysers: a prospective validation study. European Journal of Anaesthesiology 33(Supplement 54):11AP04-13. June 2016.
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Research and Ethics Committee</ethicname>
+      <ethicaddress>Research Ethics
+Office for Research
+Level 8, Harold Stokes Building 
+Austin Health
+PO Box 5555
+Heidelberg
+Victoria
+Australia 3084</ethicaddress>
+      <ethicapprovaldate>20/11/2014</ethicapprovaldate>
+      <hrec>Approval number: 05006/2013</hrec>
+      <ethicsubmitdate>30/10/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia, Austin Hospital
+152 Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+ 61394965000</phone>
+      <fax />
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia, Austin Hospital
+152 Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+ 61394965000</phone>
+      <fax />
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia, Austin Hospital
+152 Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+ 61394965000</phone>
+      <fax />
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia, Austin Hospital
+152 Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+ 61394965000</phone>
+      <fax />
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,219 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369111">
+  <stage>Registered</stage>
+  <submitdate>13/08/2015</submitdate>
+  <approvaldate>8/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000461493</actrnumber>
+  <trial_identification>
+    <studytitle>Oxygen Therapy in Acute Coronary Syndromes Trial</studytitle>
+    <scientifictitle>All New Zealand Acute Coronary syndromes quality improvement (ANZACS-QI) registry trial to evaluate two oxygen protocols as part of usual care in patients presenting with a suspected acute coronary syndrome</scientifictitle>
+    <utrn>U1111-1173-1861 </utrn>
+    <trialacronym>Nil</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Coronary Syndrome</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention strategies will commence from first medical contact by the ambulance service or in the emergency department.
+
+High oxygen strategy 
+In patients with probable or confirmed acute coronary syndrome give oxygen for ischemic chest pain, ischemic ECG changes or dyspnea related to myocardial ischemia irrespective of the measured oxygen saturation level.
+In the ambulance oxygen will be administered by face mask at ~8l/minute.  If a face mask is not tolerated give oxygen by nasal prongs at ~4 l/minute.  Oxygen flow rate is increased if necessary to achieve saturation greater than or equal to 95%.  Continue oxygen until the patient is admitted to hospital or when a doctor decides it is no longer necessary.
+In hospital oxygen can be administered by face mask at between 5 and 8 l/minute or by nasal prongs between 1 and 4 L/minute.  Increase or adjust the flow rate to achieve an oxygen saturation between 95% and 99%.  The treating clinician will decide on oxygen flow rate, method of administration, and when to discontinue oxygen when symptoms and signs (including ECG changes) of ischemia have resolved, or when clinically appropriate.
+Caution or avoid high flow oxygen in patients at risk of hypercapnia, including those with possible obesity hypoventilation syndrome or chronic obstructive pulmonary disease. 
+
+In individual cases the oxygen protocol can be overruled by clinician preference or clinical indication.  
+
+Two regions will be randomised to use the high oxygen strategy for 4 months, then wash out for two weeks, then use the conservative oyygen strategy for 12 months, then wash-out for two weeks, then use the high oxygen strategy for 8 months.  </interventions>
+    <comparator>Conservative oxygen strategy 
+In patients with a suspected or confirmed acute coronary syndrome do not give oxygen for ischemic chest pain, ischemic ECG changes or dyspnea related to myocardial ischemia, unless the measured oxygen saturation is less than 90%. 
+When the oxygen saturation cannot be measured only administer oxygen if there is a significant clinical concern of hypoxia.  
+The treating clinician will make the decision on oxygen administration flow rate and whether to use a mask or nasal prongs.
+If oxygen is administered by face mask or nasal prongs adjust the flow rate to achieve a target oxygen saturation of 90 to 94%.
+The protocol recommends oxygen is discontinued when no longer needed to maintain saturation greater than 90%. 
+Caution or avoid high flow oxygen in patients with possible obesity hypoventilation syndrome or chronic obstructive pulmonary disease. 
+Oxygen can be administered in the ambulance to patients who need ventilation or continuous  positive airways pressure (CPAP).
+In individual cases the oxygen protocol can be overruled by clinician preference or clinical indication.
+Two regions will be randomised to use the conservative oxygen strategy for 4 months, then wash out for two weeks, then use the high  oyygen strategy for 12 months, then wash-out for two weeks, then use the conservative  oxygen strategy for 8 months.  </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>30 day mortality rate by electronic linkage to national mortality data-base</outcome>
+      <timepoint>Mortality rate 30 days following episode of ACS</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>One year mortality rate
+ by electronic linkage to national mortality data-base</outcome>
+      <timepoint>One year following episode of ACS</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital readmission for cardiovascular cause at  one year form national hosptial admission data.</outcome>
+      <timepoint>One year following episode of ACS</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	All patients in New Zealand admitted to the coronary care unit and/or cardiac catheter laboratory with an acute coronary syndrome (ACS) at participating hospitals.
+2.	Patients attended by the ambulance service with a confirmed ACS who die before admission to CCU or catheter lab. 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Dead on ambulance arrival at the scene
+2.	Presented with an out of hospital cardiac arrest 
+3.	Ventilated prior to admission to CCU/catheter lab
+4.	Documented for end of life cares
+5.	On home oxygen
+6.	Not admitted to CCU or catheter lab because of advanced age, co-morbidity, or because a diagnosis other than ACS is made.  (this does not  exclude patient from administered oxygen strategy prior to this decision being made).
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The proposed study has a cluster randomized cross over design.  The unit of randomization will be the four regional cardiac clinical networks and time periods of 4 months each .  One of two oxygen administration protocols will be recommended for use in the ambulance, emergency department, CCU and cardiac catheter lab for all subjects presenting with a proven or suspected ACS.  Allocation is not concealed</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Based on a recent report of all patients admitted to NZ hospitals with an ACS 30 day mortality was 9.5%, and one year mortality was 20.6%.  With a simple comparison of the two strategies on first admission of all eligible patients over the trial period, a total sample size of ~21,000 would have 80% power at 5% level of significance (two-sided) to detect a 1% difference in 30 day mortality (the primary outcome).  The statistical power for differences in mortality of &gt;1% would be stronger.  This power calculation does not account for the cluster randomization design (4 networks), which will be considered as a fixed effect in analysis.  
+
+Treatment evaluation will be performed on the principle of intention to treat. All patients in the ANZACS-QI registries presenting with an acute coronary syndrome will be included.  For patients with multiple admissions during the trial, the oxygen protocol used at the first admission will be applied in the analysis.  
+
+Patients baseline characteristics will be summarized descriptively for each treatment period and by important subgroups. Mortality rates will be presented as frequency and percentage, and compared between two treatment targets using generalized linear regression models, controlling for the fixed effects of cluster and time period. A similar approach will be applied to other secondary outcomes. 
+
+The trial will be monitored by the Health Research Council of New Zealand Data Safety Monitoring Committee
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>11/04/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>21000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Ralph Stewart</primarysponsorname>
+    <primarysponsoraddress>Cardiovascular research unit, 
+Auckland City Hospital, 
+Park Rd. Grafton, Auckland 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>National Heart Foundation New Zealand</fundingname>
+      <fundingaddress> PO Box 17-160 Greenlane, Auckland 1546</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Oxygen has been routinely administered as part of the standard of care to patients presenting with acute myocardial infarction for many years.  However, several reviews of the limited experimental and clinical evidence have questioned its benefits and risks.  The NZ national cardiac clinical network trials group will compare two oxygen protocols as part of usual care in the ambulance, emergency department, coronary care unit and cardiac catheter laboratory.  The proposed study is a ~2 year randomized cross-over study within the 4 regional cardiac networks. The primary outcome will be 30 day mortality.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Freyburg Building
+20 Aitken Street
+PO Box 5013
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>15/09/2015</ethicapprovaldate>
+      <hrec>15/NTA/117</hrec>
+      <ethicsubmitdate>17/08/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ralph Stewart</name>
+      <address>Green Lane Cardiovascular Service,
+Auckland City Hospital,
+Private Bag 92024,
+Auckland 1030</address>
+      <phone>+64 9 3074949 ext 23668</phone>
+      <fax />
+      <email>rstewart@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ralph Stewart</name>
+      <address>Green Lane Cardiovascular Service,
+Auckland City Hospital,
+Private Bag 92024,
+Auckland 1030</address>
+      <phone>+64 9 3074949 ext 23668</phone>
+      <fax />
+      <email>rstewart@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ralph Stewart</name>
+      <address>Green Lane Cardiovascular Service,
+Auckland City Hospital,
+Private Bag 92024,
+Auckland 1030</address>
+      <phone>+64 9 3074949 ext 23668</phone>
+      <fax />
+      <email>rstewart@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Darragh Mc Guire</name>
+      <address>Green Lane Cardiovascular Service,
+Auckland City Hospital,
+Private Bag 92024,
+Auckland 1142</address>
+      <phone>+64 9 3074949 ext 23668</phone>
+      <fax />
+      <email>darraghm@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

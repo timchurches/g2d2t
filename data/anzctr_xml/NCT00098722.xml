@@ -1,0 +1,714 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="505">
+  <stage>Registered</stage>
+  <submitdate>7/12/2004</submitdate>
+  <approvaldate>7/12/2004</approvaldate>
+  <nctid>NCT00098722</nctid>
+  <trial_identification>
+    <studytitle>Trial of Maraviroc (UK-427,857) in Combination With Optimized Background Therapy Versus Optimized Background Therapy Alone for the Treatment of HIV-1 Infected Subjects</studytitle>
+    <scientifictitle>A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of a Novel CCR5 Antagonist, UK-427,857, in Combination With Optimized Background Therapy Versus Optimized Background Therapy Alone for the Treatment of Antiretroviral-Experienced HIV-1 Infected Subjects</scientifictitle>
+    <utrn />
+    <trialacronym>MOTIVATE 2</trialacronym>
+    <secondaryid>A4001028</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>HIV Infections</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Acquired immune deficiency syndrome (AIDS / HIV)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Maraviroc (UK-427,857)
+Treatment: drugs - optimized background therapy
+Treatment: drugs - Maraviroc (UK-427,857)
+Treatment: drugs - optimized background therapy
+Treatment: drugs - optimized background therapy
+
+Experimental: 1 - 
+
+Placebo Comparator: 2 - 
+
+Experimental: 3 - 
+
+
+Treatment: drugs: Maraviroc (UK-427,857)
+maraviroc (UK-427,857) 150 mg taken once daily, OBT + maraviroc (UK-427,857) 150 mg taken twice daily, or OBT alone.
+
+Treatment: drugs: optimized background therapy
+[OBT (3-6 drugs based on treatment history and resistance testing)]
+
+Treatment: drugs: Maraviroc (UK-427,857)
+maraviroc (UK-427,857) 150 mg taken twice daily
+
+Treatment: drugs: optimized background therapy
+[OBT (3-6 drugs based on treatment history and resistance testing)]
+
+Treatment: drugs: optimized background therapy
+[OBT (3-6 drugs based on treatment history and resistance testing)]
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Log 10-transformed Human Immunodeficiency Virus Ribonucleic Acid (HIV-1 RNA) Levels at Baseline - Baseline value calculated as average of pre-dose measurements collected at screening, randomization, and immediately pre-dose.</outcome>
+      <timepoint>Baseline</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Log 10-transformed HIV-1 RNA Levels at Week 24 - Change from baseline in log 10-transformed plasma viral load (HIV-1 RNA) levels (log10 copies/mL). Baseline value calculated as average of pre-dose measurements collected at screening, randomization, and immediately pre-dose.</outcome>
+      <timepoint>Baseline and Week 24</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Log 10-transformed HIV-1 RNA Levels at Week 48 - Change from baseline in log 10-transformed plasma viral load (HIV-1 RNA) levels (log10 copies/mL). Baseline value calculated as average of pre-dose measurements collected at screening, randomization, and immediately pre-dose.</outcome>
+      <timepoint>Baseline and Week 48</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With HIV-1 RNA Levels Less Than 400 Copies/mL</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With HIV-1 RNA Levels Less Than 400 Copies/ml or With at Least 0.5 log10 Decrease From Baseline</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With HIV-1 RNA Levels Less Than 400 Copies/ml or With at Least 1.0 log10 Decrease From Baseline</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With HIV-1 RNA Levels Less Than 50 Copies/mL</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cluster of Differentiation 4 (CD4) and Cluster of Differentiation 8 (CD8) Cell Count at Baseline - Baseline value calculated as average of pre-dose measurements collected at screening and immediately pre-dose.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in CD4 Cell Count at Week 24 and 48 - Change from baseline in CD4 cell count measured as cells/µL. Baseline value calculated as average of pre-dose measurements collected at screening and immediately pre-dose.</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in CD8 Cell Count at Week 24 and 48 - Change from baseline in CD8 cell count measured as cells/µL. Baseline value calculated as average of pre-dose measurements collected at screening and immediately pre-dose.</outcome>
+      <timepoint>Week 24 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Virological Failure - Time to virologic failure based on observed HIV-1 RNA levels and failure events (death;permanent discontinuation of drug;lost to follow-up[LTFU];new anti-retroviral drug added [except background drug change to drug of same class];or on open label for early non-response or rebound). Failure:at Time 0 if level not &lt;400 copies/mL (2 consecutive visits) before events or last available visit;at time of earliest event if level &lt;400 copies/mL (2 consecutive visits);failure if level &gt;=400 copies/mL (2 consecutive visits) or 1 visit &gt;=400 copies/mL followed by permanent discontinuation of drug or LTFU.</outcome>
+      <timepoint>Week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time-Averaged Difference (TAD) From Baseline in log10 Transformed HIV-1 RNA Levels - TAD from baseline was calculated as area under the curve of HIV-1 RNA load (log10 copies/mL) divided by time period minus baseline HIV-1 RNA load (log10 copies/mL). Baseline value calculated as the average of pre-dose measurements collected at screening, randomization, and immediately pre-dose.</outcome>
+      <timepoint>Baseline to Week 24 and Week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Genotypic Susceptibility Score (GSS) and Phenotypic Susceptibility Score (PSS) at Screening - Number of participants with GSS and PSS were used as surrogates for genotype and phenotype. Genotypic and phenotypic resistance to protease inhibitors(PIs), nucleoside reverse transcriptase inhibitors(NRTIs) and non-nucleoside reverse transcriptase inhibitors(NNRTIs) were evaluated at screening (not at baseline), by Monogram Biosciences PhenoSense genotyping (GT) assay. Score was determined for each drug in OBT, giving 1:drug 'sensitive'/'susceptible' and 0:'resistant'. GSS and PSS score range:0 to &gt;3. Genotypic enfuvirtide value was used for PSS, no phenotypic enfuvirtide was recorded.</outcome>
+      <timepoint>Screening</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Change in GSS and PSS From Screening at the Time of Treatment Failure Through Week 24 - Number of participants with GSS and PSS were used as surrogates for genotype and phenotype. Genotypic and phenotypic resistance to PIs, NRTIs, NNRTIs were evaluated at screening and time of treatment failure analyzed through Week 24 visit, by Monogram Biosciences PhenoSense GT assay. Score was determined for each drug in OBT, giving 1:drug 'sensitive'/'susceptible' and 0:'resistant'. GSS and PSS score range:0 to &gt;3. Genotypic enfuvirtide value was used for PSS, no phenotypic enfuvirtide was recorded.</outcome>
+      <timepoint>Screening and time of failure through Week 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Change in GSS and PSS From Screening at the Time of Treatment Failure Through Week 48 - Number of participants with GSS and PSS were used as surrogates for genotype and phenotype. Genotypic and phenotypic resistance to PIs, NRTIs, NNRTIs were evaluated at screening and time of treatment failure analyzed through Week 48 visit, by Monogram Biosciences PhenoSense GT assay. Score was determined for each drug in OBT, giving 1:drug 'sensitive'/'susceptible' and 0:'resistant'. GSS and PSS score range:0 to &gt;3. Genotypic enfuvirtide value was used for PSS, no phenotypic enfuvirtide was recorded.</outcome>
+      <timepoint>Screening and time of failure through Week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Per Tropism Status at Baseline and at the Time of Treatment Failure Through Week 24 - Number of participants per tropism status (C-X-C chemokine receptor 5 {CCR5} [R5], C-X-C chemokine receptor type 4 {CXCR4} [X4], Dual/Mixed [DM], or Non-reportable/Non-phenotypable [NR/NP]) at baseline and time of treatment failure analyzed through week 24 visit. Treatment failure defined as discontinuation due to insufficient clinical response. HIV-1 RNA viral load &lt;500 copies/ml categorized as below lower limit of quantification (BLQ). The assessment for time of treatment failure was defined as the last on treatment assessment.</outcome>
+      <timepoint>Baseline and time of failure through Week 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Per Tropism Status at Baseline and at the Time of Treatment Failure Through Week 48 - Number of participants per tropism status R5, X4, DM, or NR/NP at baseline and time of failure analyzed through week 48 visit. Treatment failure defined as discontinuation due to insufficient clinical response. HIV-1 RNA viral load &lt;500 copies/ml categorized as BLQ. The assessment for time of treatment failure was defined as the last on treatment assessment.</outcome>
+      <timepoint>Baseline and time of failure through Week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Viral Load at Week 24 and Week 48 by Overall Susceptibility Score (OSS) at Screening - Association between baseline resistance and virological response was assessed as change in viral load by OSS at screening. OSS categorized as 0, 1, 2, &gt;3 (maximum value of 6) and calculated as the sum of the net assessment of in-vitro phenotypic and genotypic susceptibility using a binary scoring system (0= resistant, 1= sensitive or susceptible) for each antiretroviral agent in OBT. Higher scores indicate greater susceptibility. Baseline value is the average of the values from screening, randomization and immediately pre-dose.</outcome>
+      <timepoint>Baseline, Week 24 and Week 48</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Men or women at least 16 yers of age (or minimum age as determined by local regulatory
+             authorities)
+
+          -  HIV-1 RNA viral load of greater than or equal to 5,000 copies/mL
+
+          -  Stable pre-study antiretroviral regimen, or on no antiretroviral agents, for at least
+             4 weeks
+
+          -  Documented genotypic or phenotypic resistance to three of the four antiretroviral drug
+             classes, OR, Antiretroviral-class experience greater than or equal to 6 months
+             (sequential or cumulative) with at least three of the following: One nucleoside or
+             nucleotide reverse transcriptase inhibitor, one non-nucleoside reverse transcriptase
+             inhibitor, two protease inhibitors (excluding low-dose ritonavir) and/or enfuvirtide
+
+          -  Be willing to remain on randomized treatment without any changes or additions to the
+             OBT regimen, except for toxicity management or upon meeting criteria for treatment
+             failure
+
+          -  A negative urine pregnancy test at the baseline visit for Women of Child Bearing
+             Potential (WOCBP)
+
+          -  Effective barrier contraception for WOCBP and males</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Patients requiring treatment with more than 6 antiretroviral agents (excluding
+             low-dose ritonavir)
+
+          -  Prior treatment with maraviroc (UK-427,857) or another experimental HIV entry
+             inhibitor for more than 14 days
+
+          -  Suspected or documented active, untreated HIV-1 related opportunistic infection (OI)
+             or other condition requiring acute therapy
+
+          -  Treatment for an active opportunistic infection, or unexplained temperature &gt;38.5
+             degrees Celsius for 7 consecutive days
+
+          -  Active alcohol or substance abuse sufficient, in the Investigator's judgment, to
+             prevent adherence to study medication and/or follow up
+
+          -  Lactating women, or planned pregnancy during the trial period
+
+          -  Significant renal insufficiency
+
+          -  Initiating therapy with a potentially myelosuppressive, neurotoxic, hepatotoxic and/or
+             cytotoxic agent within 60 days prior to randomization or the expected need for such
+             therapy during the study period
+
+          -  Documented or suspected acute hepatitis or pancreatitis within 30 days prior to
+             randomization
+
+          -  Significantly elevated liver enzymes or cirrhosis
+
+          -  Significant neutropenia, anemia or thrombocytopenia
+
+          -  Malabsorption or an inability to tolerate oral medications
+
+          -  Certain medications
+
+          -  Malignancy requiring parenteral chemotherapy that must be continued for the duration
+             of the trial
+
+          -  X4- or dual/mixed-tropic virus or repeated assay failure
+
+          -  Any other clinical condition that, in the Investigator's judgement, would potentially
+             compromise study compliance or the ability to evaluate safety/efficacy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2/Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2004</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>474</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/04/2011</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Pfizer Investigational Site - Burwood</hospital>
+    <hospital>Pfizer Investigational Site - Darlinghurst</hospital>
+    <hospital>Pfizer Investigational Site - Surry Hills</hospital>
+    <hospital>Pfizer Investigational Site - Sydney</hospital>
+    <hospital>Pfizer Investigational Site - Wentworthville</hospital>
+    <hospital>Pfizer Investigational Site - Herston</hospital>
+    <hospital>Pfizer Investigational Site - Miami</hospital>
+    <hospital>Pfizer Investigational Site - Melbourne</hospital>
+    <hospital>Pfizer Investigational Site - North Fitzroy</hospital>
+    <hospital>Pfizer Investigational Site - South Yarra</hospital>
+    <postcode>2134 - Burwood</postcode>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2010 - Surry Hills</postcode>
+    <postcode>2010 - Sydney</postcode>
+    <postcode>2145 - Wentworthville</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>4220 - Miami</postcode>
+    <postcode>3004 - Melbourne</postcode>
+    <postcode>3068 - North Fitzroy</postcode>
+    <postcode>3141 - South Yarra</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liege</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bp1412</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 02</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 09</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 10</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 12</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Kremlin Bicêtre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice Cedex 3, 06</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris, 75</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Aachen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bochum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bonn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Duesseldorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Fuerth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Koeln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Osnabrueck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Stuttgart</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Antella (FI)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Brescia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Firenze</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Modena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monserrato, CA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Venezia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Arnhem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Utrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Szczecin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>San Sebastian</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Malmö</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Genève</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lausanne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lugano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St. Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zürich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leics</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Loth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Brighton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Edinburgh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyre</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>ViiV Healthcare</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Pfizer</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Maraviroc (UK-427,857), a selective and reversible CCR5 coreceptor antagonist, has been shown
+      to be active in vitro against a wide range of clinical isolates (including those resistant to
+      existing classes). In HIV-1 infected patients, maraviroc (UK-427,857) given as monotherapy
+      for 10 days reduced HIV-1 viral load by up to 1.6 log, consistent with currently available
+      agents. Safety and toleration have been studied in over 400 subjects for up to 28 days at 300
+      mg twice daily. No significant effects were seen on the QTc interval. The purpose of this
+      study is to evaluate the antiretroviral activity of maraviroc (UK-427,857) in HIV infected,
+      treatment experienced patients who are failing their current antiretroviral regimen and
+      infected with R5-tropic virus exclusively. This study will involve more than 100 centers in
+      Europe and Australia to achieve a total randomized subject population of 500 subjects.
+      Patients will be randomly (2:2:1) assigned to one of three groups: Optimized Background
+      Therapy [OBT (3-6 drugs based on treatment history and resistance testing)] + maraviroc
+      (UK-427,857) 150 mg taken once daily, OBT + maraviroc (UK-427,857) 150 mg taken twice daily,
+      or OBT alone. The study will enroll over approximately a 9 month period with 48 weeks of
+      treatment. This may be extended for an additional year depending on the results at 48 weeks.
+      Physical examinations will be performed at study entry, weeks 4, 8, 12, 16, 20, 24, 32, 40
+      and 48. Blood samples will also be taken at study entry, weeks 2, 4, 8, 12, 16, 20, 24, 32,
+      40 and 48. Additionally, blood samples will be drawn twice, at least 30 minutes apart, at
+      weeks 2 and 24 for maraviroc (UK-427,857) pharmacokinetic analysis. As part of this clinical
+      study a blood sample will also be taken for non-anonymized pharmacogenetic analysis. Patients
+      will undergo a 12-lead electrocardiogram at study entry, weeks 24 and 48.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00098722</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address>Pfizer</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

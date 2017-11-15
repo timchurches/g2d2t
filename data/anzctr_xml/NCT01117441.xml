@@ -1,0 +1,823 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2755">
+  <stage>Registered</stage>
+  <submitdate>3/05/2010</submitdate>
+  <approvaldate>3/05/2010</approvaldate>
+  <nctid>NCT01117441</nctid>
+  <trial_identification>
+    <studytitle>International Collaborative Treatment Protocol For Children And Adolescents With Acute Lymphoblastic Leukemia</studytitle>
+    <scientifictitle>International Collaborative Treatment Protocol For Children And Adolescents With Acute Lymphoblastic Leukemia</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>AIEOP-BFM ALL 2009</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Leukemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - PEG-L-asparaginase
+Treatment: drugs - cyclophosphamide
+Treatment: drugs - cytarabine
+Treatment: drugs - daunorubicin hydrochloride
+Treatment: drugs - dexamethasone
+Treatment: drugs - doxorubicin hydrochloride
+Treatment: drugs - etoposide
+Treatment: drugs - ifosfamide
+Treatment: drugs - mercaptopurine
+Treatment: drugs - methotrexate
+Treatment: drugs - prednisone
+Treatment: drugs - thioguanine
+Treatment: drugs - vincristine sulfate
+Treatment: drugs - vindesine
+Treatment: drugs - daunoxome
+Treatment: drugs - fludarabine
+Treatment: other - Radiation Therapy
+
+Active Comparator: R1 control arm - see detailed protocol description
+
+Experimental: R1 experimental arm - see detailed protocol description
+
+Active Comparator: R2 control arm - see detailed protocol description
+
+Experimental: R2 experimental arm - see detailed protocol description
+
+Active Comparator: R-HR control arm - see detailed protocol description
+
+Experimental: R-HR experimental arm - see detailed protocol description
+
+
+Treatment: drugs: PEG-L-asparaginase
+see detailed protocol description
+
+Treatment: drugs: cyclophosphamide
+see detailed protocol description
+
+Treatment: drugs: cytarabine
+see detailed protocol description
+
+Treatment: drugs: daunorubicin hydrochloride
+see detailed protocol description
+
+Treatment: drugs: dexamethasone
+see detailed protocol description
+
+Treatment: drugs: doxorubicin hydrochloride
+see detailed protocol description
+
+Treatment: drugs: etoposide
+see detailed protocol description
+
+Treatment: drugs: ifosfamide
+see detailed protocol description
+
+Treatment: drugs: mercaptopurine
+see detailed protocol description
+
+Treatment: drugs: methotrexate
+see detailed protocol description
+
+Treatment: drugs: prednisone
+see detailed protocol description
+
+Treatment: drugs: thioguanine
+see detailed protocol description
+
+Treatment: drugs: vincristine sulfate
+see detailed protocol description
+
+Treatment: drugs: vindesine
+see detailed protocol description
+
+Treatment: drugs: daunoxome
+see detailed protocol description; only given by patients with poor MRD-response during the high risk treatment
+
+Treatment: drugs: fludarabine
+see detailed protocol description; only given by patients with poor MRD-response during the high risk treatment
+
+Treatment: other: Radiation Therapy
+for eligibility for radiotherapy see detailed protocol description
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Treatment: other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Event-free survival - Randomization R1: Event-free survival from time of randomization
+Historical comparison non-HR T-ALL: Event-free survival from diagnosis
+Historical comparison "MRD Non-Responders": Event-free survival from start of DNX-FLA (morphological non-response after HR-3' is no event for this study question)</outcome>
+      <timepoint>10 years from the start of recruitment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Disease-free survival - Randomization R2: Disease-free survival from time of randomization
+Historical comparison SR: Disease-free survival from start of Protocol M</outcome>
+      <timepoint>10 years from the start of recruitment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>minimal residual disease (MRD) - Randomization RHR: rate of MRD highly positive patients (MRD = 10-3) at TP2 (week 12)</outcome>
+      <timepoint>week 12 of treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>survival - All randomized and historical comparisons: Survival</outcome>
+      <timepoint>10 years from the start of recruitment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>treatment-related mortality - All randomized and historical comparisons: treatment-related mortality in induction or CCR (overall and by chemotherapy/SCT)</outcome>
+      <timepoint>up to 25 months from the diagnosis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>adverse events - All randomized and historical comparisons: incidence and frequency of adverse events of interest and serious adverse events</outcome>
+      <timepoint>up to 25 months from the diagnosis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>event-free survival - Randomization R-HR: Event-free survival from time of randomization</outcome>
+      <timepoint>10 years from the start of recruitment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>minimal residual disease - "MRD Non-Responders": MRD levels after DNX-FLA</outcome>
+      <timepoint>after 24 weeks of treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  newly diagnosed acute lymphoblastic leukemia
+
+          -  age = 1 year (&gt; 365 days) and &lt; 18 years old (up to 17 years old and 365 days)
+
+          -  no Ph+ (BCR/ABL or t(9;22)-positive) ALL
+
+          -  no evidence of pregnancy or lactation period
+
+          -  no participation in another clinical study
+
+          -  patient enrolled in a participating center
+
+          -  written informed consent</inclusivecriteria>
+    <inclusiveminage>1</inclusiveminage>
+    <inclusiveminagetype>Year</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  pre-treatment with cytostatic drugs
+
+          -  pre-treatment with cytostatic drugs
+
+          -  steroid pre-treatment with = 1 mg/kg/d for more than two weeks during the last month
+             before diagnosis
+
+          -  treatment started according to another protocol
+
+          -  underlying diseases that prohibit treatment according to the protocol
+
+          -  ALL diagnosed as second malignancy steroid pre-treatment with = 1 mg/kg/d for more
+             than two weeks during the last month before diagnosis</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/06/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>4750</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2021</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>The Sydney Children's Hospital, Centre for Children's Cancer and Blood Disorders - Randwick</hospital>
+    <hospital>The Children's Hospital at Westmead, Department of Oncology - Westmead</hospital>
+    <postcode>NSW 2031 - Randwick</postcode>
+    <postcode>NSW 2145 - Westmead</postcode>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Dornbirn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbruck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Klagenfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Leoben</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Hradec Králové</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Ostrava-Poruba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Plzen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Ústí nad Labem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Ceské Budejovice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Aachen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayreuth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Braunschweig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Chemnitz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Cottbus</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Datteln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Detmold</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dortmund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Düsseldorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Gießen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Greifswald</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Göttingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Halle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heilbronn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Herdecke</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Homburg / Saar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Jena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Karlsruhe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kassel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kiel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Koblenz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Köln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Lübeck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Magdeburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Minden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Münster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Nürnberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Oldenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Rostock</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Sankt Augustin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Schwerin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Stuttgart</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Trier</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tübingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Wolfsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Würzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Afula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beer-Sheva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petach Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel-Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel-Hashomer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ancona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Belluno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bergamo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bolzano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Brescia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Cagliari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Catania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Catanzaro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Cosenza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ferrara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Firenze</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova Quarto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lecce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Modena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Nocera Inferiore - SA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Novara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Palermo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pavia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Perugia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pesaro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pescara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pisa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pordenone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Reggio Calabria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rimini</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>San Giovanni Rotondo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sassari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Siena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Tricase</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Trieste</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Udine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Varese</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Verona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Vicenza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Aarau</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bellinzona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Luzern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St. Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zürich</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>University of Schleswig-Holstein</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Deutsche Krebshilfe e.V., Bonn (Germany)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Rationale/Purpose: Drugs used in chemotherapy work in different ways to stop the growth of
+      cancer cells, either by killing the cells or by stopping them from dividing. Giving more than
+      one drug (combination chemotherapy) may kill more cancer cells. It is not yet known which
+      combination chemotherapy regimen is more effective in treating young patients with acute
+      lymphoblastic leukemia (ALL).
+
+      This trial is studying several different combination chemotherapy regimens to compare how
+      well they work in treating young patients with ALL.
+
+      Study objectives
+
+      Primary study questions:
+
+        -  Non high-risk (non-HR) precursor-B ALL (pB-ALL) patients with TEL/AML1-negative ALL or
+           unknown TEL/AML1 status and flow cytometry minimal residual disease (MRD) in bone marrow
+           on day 15 &lt;0.1% or with TEL/AML1-positive ALL (randomized study question R1): Can the
+           daunorubicin dose in Protocol IA be safely reduced by 50 % with a non-inferior EFS and a
+           reduction of toxicity (treatment-related mortality and AE/SAE in Protocol I)?
+
+        -  Patients with pB-ALL and risk group medium risk (MR) (randomized study question R2): Can
+           the clinical outcome be improved by protracted asparagine depletion achieved through
+           application of intensified PEG-L-asparaginase during reintensification and early
+           maintenance?
+
+        -  High-risk (HR) patients (as identified by day 33 - randomized study question RHR): Can
+           the clinical outcome be improved by protracted exposure to PEG-L-asparaginase during
+           Protocol IB?
+
+      Secondary study questions:
+
+        -  Standard risk (SR) patients identified by at least one sensitive marker: Is the clinical
+           outcome comparable to that obtained in SR patients (identified with two sensitive
+           markers) in AIEOP-BFM ALL 2000, or can the outcome even be improved with the use of
+           PEG-L-asparaginase instead of native E. coli L-ASP?
+
+        -  T-ALL non-HR patients: Can the high level of outcome which was obtained for these
+           patients in study AIEOP-BFM ALL 2000 be preserved or even improved with the use of
+           PEG-L-ASP instead of native E. coli L-ASP?
+
+        -  HR patients with persisting high MRD levels despite the use of the HR blocks in the
+           intensified consolidation phase "MRD Non-Responders": Is it possible to improve the
+           outcome and to achieve a further reduction of leukemic cell burden by administration of
+           an innovative treatment schedule (DNX-FLA)?
+
+        -  Patients participating in the randomized asparaginase studies (pB-ALL/MR, HR): Are
+           asparaginase activity and asparaginase antibodies associated with development of
+           allergic reactions, and do they have an effect on the outcome of the patients?
+
+        -  What is the relative value of different methods of MRD monitoring in the definition of
+           alternative stratification systems within a BFM-oriented protocol?</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01117441</trialwebsite>
+    <publication>Conter V, Bartram CR, Valsecchi MG, Schrauder A, Panzer-Grümayer R, Möricke A, Aricò M, Zimmermann M, Mann G, De Rossi G, Stanulla M, Locatelli F, Basso G, Niggli F, Barisone E, Henze G, Ludwig WD, Haas OA, Cazzaniga G, Koehler R, Silvestri D, Bradtke J, Parasole R, Beier R, van Dongen JJ, Biondi A, Schrappe M. Molecular response to treatment redefines all prognostic factors in children and adolescents with B-cell precursor acute lymphoblastic leukemia: results in 3184 patients of the AIEOP-BFM ALL 2000 study. Blood. 2010 Apr 22;115(16):3206-14. doi: 10.1182/blood-2009-10-248146. Epub 2010 Feb 12.
+Flohr T, Schrauder A, Cazzaniga G, Panzer-Grümayer R, van der Velden V, Fischer S, Stanulla M, Basso G, Niggli FK, Schäfer BW, Sutton R, Koehler R, Zimmermann M, Valsecchi MG, Gadner H, Masera G, Schrappe M, van Dongen JJ, Biondi A, Bartram CR; International BFM Study Group (I-BFM-SG). Minimal residual disease-directed risk stratification using real-time quantitative PCR analysis of immunoglobulin and T-cell receptor gene rearrangements in the international multicenter trial AIEOP-BFM ALL 2000 for childhood acute lymphoblastic leukemia. Leukemia. 2008 Apr;22(4):771-82. doi: 10.1038/leu.2008.5. Epub 2008 Jan 31.
+Möricke A, Zimmermann M, Reiter A, Henze G, Schrauder A, Gadner H, Ludwig WD, Ritter J, Harbott J, Mann G, Klingebiel T, Zintl F, Niemeyer C, Kremens B, Niggli F, Niethammer D, Welte K, Stanulla M, Odenwald E, Riehm H, Schrappe M. Long-term results of five consecutive trials in childhood acute lymphoblastic leukemia performed by the ALL-BFM study group from 1981 to 2000. Leukemia. 2010 Feb;24(2):265-84. doi: 10.1038/leu.2009.257. Epub 2009 Dec 10.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Martin Schrappe, MD PhD</name>
+      <address>Department of Pediatrics, University Hospital of Schleswig-Holstein, Campus Kiel</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

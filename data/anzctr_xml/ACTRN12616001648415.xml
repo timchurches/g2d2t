@@ -1,0 +1,219 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370699">
+  <stage>Registered</stage>
+  <submitdate>13/05/2016</submitdate>
+  <approvaldate>29/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001648415</actrnumber>
+  <trial_identification>
+    <studytitle>Does the addition of intravenous lignocaine to midazolam and fentanyl sedation for gastrointestinal endoscopy improve the quality and safety of sedation?</studytitle>
+    <scientifictitle>Does the addition of intravenous lignocaine to standard sedation protocol for gastrointestinal endoscopy reduce requirements for midazolam and fentanyl, and improve the quality and safety of sedation? A randomised, double blind controlled trial.</scientifictitle>
+    <utrn>U1111-1182-9108 </utrn>
+    <trialacronym>InLiGIE</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>GI endoscopy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients will be randomised to an intravenous lignocaine (2%) or placebo (0.9% NaCl). Study drug will be administered as a bolus of 0.1ml/kg (2mg/kg lignocaine) by the anaesthetic researcher following initial dose of midazolam and fentanyl. Further boluses of 0.025ml/kg (0.5mg/kg lignocaine) will be given every 15mins for the duration of the procedure (approx 20 - 60 mins). The anaesthetic researcher will not be otherwise involved with the care of the patient. Midazolam and fentanyl will be titrated to effect by the gastroenterologist (blinded to study drug) throughout the procedure according to their normal practice. They will be instructed to reduce their initial dose to 50% of what they would normally give to allow for potential reduced requirements, and titrate further sedation as needed.</interventions>
+    <comparator>Comparative treatment will be placebo (0.9% NaCl)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Midazolam dose required. The dosage of midazolam administered will be recorded at the end of the case by the anaesthetic researcher.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Fentanyl dose required. The dosage of fentanyl administered will be recorded at the end of the case by the anaesthetic researcher.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proceduralist rated quality of sedation. At the end of the procedure the gastroenterologist will be asked to rate the quality of sedation which will then be recorded by the anaesthetic researcher. Sedation will be rated according to the following scale
+1  inadequate sedation to allow completion of procedure
+2  completion of procedure, but with significant disruption/difficulty due to patient discomfort/movement of adverse events requiring intervention
+3  completion of procedure with mild disruption/difficulty due to BOTH patient discomfort/movement and adverse events requiring intervention
+4 - completion of procedure with mild disruption/difficulty due to EITHER patient discomfort/movement OR adverse events requiring intervention
+5 - excellent sedation, allows completion of procedure without negative impacts from either patient discomfort/movement or adverse events requiring intervention
+</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of failed sedation. This will be the incidence of rating 1 on the proceduralist rated quality of sedation (inadequate sedation to allow completion of procedure).</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient rated satisfaction with sedation. Patients will be asked to rate their satisfaction with the sedation prior to discharge from the unit. They will record this on a scale of 1 to 5 on a form with the explanation of the scale, 1 representing complete dissatisfaction and 5 representing complete satisfaction. No further explanation or instructions will be given. The form will later be collected by the anaesthetic researcher. </outcome>
+      <timepoint>Prior to discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of desaturation &lt;92%. All patients will have oxygen administered at a rate of 4 litres per minute via nasal prongs during the procedure. The anaesthetic researcher will record whether oxygen saturations (as measured by finger probe SpO2) drop below 92% at any point during the procedure.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of airway obstruction requiring airway support. The anaesthetic researcher will record whether intervention to relieve upper airway obstruction (jaw thrust, chin lift) by any of the treating team (nurse, gastroenterologist) was required at any point during the procedure.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of hypotension (SBP &lt;90mmHg, or pharmacological intervention). The anaesthetic researcher will record whether the systolic blood pressure (as measured by intermittent, automated, non invasive cuff) drops below 90mmHg, or pharmacological intervention for reduced blood pressure (metaraminol, ephedrine) was administered during the procedure.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of bradycardia (&lt;50bpm or pharmacological intervention). The anaesthetic researcher will record whether the heart rate (as measured by either ECG or SpO2) drops below 50bpm, or pharmacological intervention for bradycardia (atropine, ephedrine) was administered during the procedure.</outcome>
+      <timepoint>End of procedure</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Elective (Outpatient) GI endoscopy (diagnostic or therapeutic) under proceduralist sedation (midazolam/fentanyl)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Pregnancy
+- History of significant cardiac arrhythmia or conduction delay or pacemaker
+- Pre-procedure bradycardia (HR&lt;50)
+- Cardiac failure equivalent to NYHA III/IV
+- COPD requiring home O2, or saturations &lt;94% on room air
+- Chronic Liver Disease/Cirrhosis
+- Chronic Renal Failure
+- History of epilepsy or seizure disorder
+- Recent administration of fluvoxamine, verapamil or ciprofloxacin
+- Cognitive impairment significant enough to preclude informed consent
+- Insufficient English to enable informed consent
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Student T test for normally distributed data, Mann-Whitney U test for non-parametric data. Given that data will be analysed as all cases, Upper GI and Colonoscopies sample sizes have been calculated to allow for meaningful analysis of subgroups. Data from pilot study suggests that 103 upper GI procedures  and 58 colonoscopies will give 80% power to detect a 25% reduction in midazolam dose with an alpha of 0.017 (Bonferroni correction for 3 measures to 0.05). Given that the upper GI and combined to colonoscopy only case ratio was roughly 2:1 in the pilot study, the total number of cases will be 120 upper GI endoscopies (upper GI endoscopy and combined procedures) and 60 colonoscopies.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>3/07/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/01/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>180</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/01/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <postcode>6009 - Nedlands</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Daniel Ellyard</primarysponsorname>
+    <primarysponsoraddress>Sir Charles Gairdner Hospital, Hospital Ave, Nedlands WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Sir Charles Gairdner Hospital</fundingname>
+      <fundingaddress>Sir Charles Gairdner Hospital, Hospital Ave, Nedlands, WA 6009</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Sedation and analgesia during GI endoscopy under proceduralist guided sedation is limited by the dose dependent adverse effect profile of midazolam and fentanyl. Quality of sedation and patient comfort must be balanced against adverse effects such as respiratory depression, airway obstruction, and loss of verbal response. Intravenous lignocaine possesses a different side effect profile, with less sedative and respiratory effects. The airway reflex suppressive and analgesic properties of intravenous lignocaine may allow a reduction in the required dose of fentanyl and/or midazolam, limiting the incidence of clinically relevant adverse events (multimodal sedation) and allowing an improved quality of sedation.
+
+Intravenous lignocaine has shown to provide significant postoperative analgesia in open and laparoscopic abdominal surgery, with improved pain, reduced opioid requirements and improved quality of recovery. It has also been shown to improve tolerability of instrumentation of the upper airway, with improved haemodynamic following laryngoscopy and intubation, as well as decreased rates of coughing, gagging and laryngospasm with LMA insertion.
+
+The objective of this trial is to assess whether the addition of intravenous lignocaine as to standard sedation protocol reduces midazolam/fentanyl requirements, improves the quality of sedation and decreases adverse events in patients undergoing GI endoscopy.
+
+The trial will be a randomised, double-blind, placebo controlled trial. Patients will be stratified into those undergoing upper GI endoscopy, colonoscopy or both. Patients will be randomised to a loading bolus of 2mg/kg lignocaine or saline, at commencement of sedation, with further 0.5mg/kg lignocaine or saline boluses ever 15 mins for the duration of the procedure. 
+
+Primary outcome will be midazolam/fentanyl dose. Secondary outcomes will be proceduralist rated quality of sedation, patient satisfaction with sedation, incidence of bradycardia, hypotension, desaturations, airway support and sedation failure.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Hospital HREC</ethicname>
+      <ethicaddress>Sir Charles Gairdner Hospital, Hospital Ave, Nedlands 6009</ethicaddress>
+      <ethicapprovaldate>27/07/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>20/05/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Ellyard</name>
+      <address>Department of Anaesthesia, Sir Charles Gairdner Hospital, Hospital Ave, Nedlands WA 6009</address>
+      <phone>+61 8 9346 3333</phone>
+      <fax />
+      <email>daniel.ellyard@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Ellyard</name>
+      <address>Department of Anaesthesia, Sir Charles Gairdner Hospital, Hospital Ave, Nedlands WA 6009</address>
+      <phone>+61 8 9346 3333</phone>
+      <fax />
+      <email>daniel.ellyard@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Ellyard</name>
+      <address>Department of Anaesthesia, Sir Charles Gairdner Hospital, Hospital Ave, Nedlands WA 6009</address>
+      <phone>+61 8 9346 3333</phone>
+      <fax />
+      <email>daniel.ellyard@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Ellyard</name>
+      <address>Department of Anaesthesia, Sir Charles Gairdner Hospital, Hospital Ave, Nedlands WA 6009</address>
+      <phone>+61 8 9346 3333</phone>
+      <fax />
+      <email>daniel.ellyard@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

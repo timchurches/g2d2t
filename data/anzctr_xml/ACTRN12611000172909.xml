@@ -1,0 +1,251 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336478">
+  <stage>Registered</stage>
+  <submitdate>1/02/2011</submitdate>
+  <approvaldate>15/02/2011</approvaldate>
+  <actrnumber>ACTRN12611000172909</actrnumber>
+  <trial_identification>
+    <studytitle>Fetal lactate measurement to reduce caesarean sections during labour: a randomised trial</studytitle>
+    <scientifictitle>Non-reassuring fetal status assessed  by the addition of lactate measurement, compared with fetal heart rate by cardiotocography-only, to reduce caesarean section rates.</scientifictitle>
+    <utrn>U1111-1119-2619</utrn>
+    <trialacronym>Flamingo</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Caesarean section</healthcondition>
+    <healthcondition>Non-reassuring fetal status</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Childbirth and postnatal care</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Fetal medicine and complications of pregnancy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Addition of fetal blood sampling for lactate measurement during labour to standard monitoring of the fetal heart rate by cardiotocography. 
+
+The initial sample will be taken following study enrollment. If  non-reassuring cardiotocograph persists, repeat samples will be taken at 30-60 minute intervals until birth.</interventions>
+    <comparator>Standard monitoring of the fetal heart rate by cardiotocography only</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Caesarean section following the initiation of labour</outcome>
+      <timepoint>Time of birth</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total operative birth (forceps + vacuum + caesarean section)</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total operative vaginal birth (forceps + vacuum)</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Normal vaginal birth</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Caesarean section specifically for the indication of non-reassuring fetal status</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Assisted vaginal birth (forceps or vacuum) for non-reassuring fetal status</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal satisfaction with fetal monitoring in labour: assessed by survey, modified for this trial from survey used by East et al, BIRTH, 33:2, 2006.</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal length of hospital stay</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite fetal/neonatal endpoint: Death or serious outcome for the infant: includes one or more of fetal death after trial entry; death of a liveborn infant prior to hospital discharge; Apgar score &lt;4 at 5 minutes; seizures at &lt;24hours of age or requiring two or more drugs to control; neonatal encephalopathy (stages II / III); care in neonatal intensive care unit &gt;4 days.</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Individual components of the composite fetal/neonatal endpoint</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neonatal encephalopathy (stages I, II, III)</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Apgar score &lt;7 at 5 minutes</outcome>
+      <timepoint>Birth to 5 minutes of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Umbilical cord arterial and venous blood gases (pH, base deficit and lactate)</outcome>
+      <timepoint>Sampled within few minutes of birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neonatal resuscitation (bag and mask ventilation, intubation, external cardiac massage and/or adrenaline)</outcome>
+      <timepoint>Birth to 20 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neonatal length of hospital stay</outcome>
+      <timepoint>Birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic analysis (cost-effectiveness) of fetal monitoring: costs of treatment-related expenses, incorporating diagnosis-related group costs and direct costs.</outcome>
+      <timepoint>Labour/birth to hospital discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Greater than or equal to 37 weeks gestation
+Labour
+Non-reassuring fetal heart rate pattern</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>45</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Contraindication to fetal scalp blood sampling, including known HIV and Hepatitis B or C
+Planned caesarean section
+Chorioamnionitis requiring urgent delivery
+Known significant fetal anomaly</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Opt-in consent in use throughout trial.
+April 2014, the Royal Women's Hospital Human Research Ethics Committee approved the use of the opt-out approach for consent, with women provided with information at least twice during their pregnancy and asked to advise of their wish to opt-out. 
+Following consent, randomisation occurs by sequentially numbered, sealed, opaque envelopes</concealment>
+    <sequence>A researcher not otherwise involved with the trial will use computerised sequence generation, with permuted block randomisation, stratified for parity (nulliparous, parous).</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/03/2012</anticipatedstartdate>
+    <actualstartdate>14/03/2012</actualstartdate>
+    <anticipatedenddate>30/06/2015</anticipatedenddate>
+    <actualenddate>7/07/2015</actualenddate>
+    <samplesize>600</samplesize>
+    <actualsamplesize>123</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Royal Women's Hospital - Parkville</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof Christine East</primarysponsorname>
+    <primarysponsoraddress>Royal Women's Hospital
+20 Flemington Rd
+Parkville VIC 3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC Project Grant</fundingname>
+      <fundingaddress>16 Marcus Clarke Street Canberra ACT 2601 Australia </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>There is currently an epidemic of caesarean sections performed in Australia and overseas. Although many caesarean sections are performed for concerns about fetal welfare, the majority of babies are shown to be well at birth, meaning that the operation, with its inherent short- and long-term risks, could have been avoided, without compromising the babys health. In this study, half the babies with a non-reassuring heart rate recording during labour will have a blood test to measure lactate and the other half will not. We will then determine whether having a lactate test makes a difference in the number women having caesarean births.</summary>
+    <trialwebsite />
+    <publication>Published Protocol
+East CE, Kane SV, Davey M-A, Kamlin CO, Brennecke SP. Protocol for a randomised controlled trial of fetal scalp blood lactate measurement to reduce caesarean sections during labour: the Flamingo trial. BMC Pregnancy and Childbirth 2015, 15:285. DOI: 10.1186/s12884-015-0709-7
+
+Updated Cochrane systematic review
+East CE, Leader LR, Sheehan P, Henshall NE, Colditz PB, Lau R. Intrapartum fetal scalp lactate sampling for fetal assessment in the presence of a non-reassuring fetal heart rate trace. Cochrane Database of Systematic Reviews 2015, Issue 5. Art. No.: CD006174.DOI: 10.1002/14651858.CD006174.pub3</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Women's Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>20 Flemington Rd
+Parkville VIC 3052</ethicaddress>
+      <ethicapprovaldate>6/12/2011</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>31/07/2011</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Christine East</name>
+      <address>Royal Women's Hospital
+20 Flemington Rd
+Parkville VIC 3052</address>
+      <phone>+61 3 8345 3726</phone>
+      <fax>+61 3 8345 3702</fax>
+      <email>flamingo@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Christine East</name>
+      <address>Royal Women's Hospital
+20 Flemington Rd
+Parkville VIC 3052</address>
+      <phone>+61 3 8345 3726</phone>
+      <fax>+61 3 8345 3702</fax>
+      <email>flamingo@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Christine East</name>
+      <address>Royal Women's Hospital
+20 Flemington Rd
+Parkville VIC 3052</address>
+      <phone>+61 409063495</phone>
+      <fax>+61 3 8345 3702</fax>
+      <email>christie.east@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Prof Christine East</name>
+      <address>c/- Department of Obstetrics and Gynaecology
+Royal Women's Hospital
+20 Flemington Rd
+Parkville VIC 3052
+Australia
+</address>
+      <phone>+61 409063495</phone>
+      <fax />
+      <email>christine.east@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

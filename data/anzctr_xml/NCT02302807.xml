@@ -1,0 +1,937 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4715">
+  <stage>Registered</stage>
+  <submitdate>25/11/2014</submitdate>
+  <approvaldate>25/11/2014</approvaldate>
+  <nctid>NCT02302807</nctid>
+  <trial_identification>
+    <studytitle>A Study of Atezolizumab Compared With Chemotherapy in Participants With Locally Advanced or Metastatic Urothelial Bladder Cancer [IMvigor211]</studytitle>
+    <scientifictitle>A Phase III, Open-Label, Multicenter, Randomized Study to Investigate the Efficacy and Safety of Atezolizumab (Anti-PD-L1 Antibody) Compared With Chemotherapy in Patients With Locally Advanced or Metastatic Urothelial Bladder Cancer After Failure With Platinum-Containing Chemotherapy</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2014-003231-19</secondaryid>
+    <secondaryid>GO29294</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Bladder Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bladder - transitional cell cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Atezolizumab (MPDL3280A) [TECENTRIQ], an engineered anti-PDL1 antibody
+Treatment: drugs - Docetaxel
+Treatment: drugs - Paclitaxel
+Treatment: drugs - Vinflunine
+
+Experimental: Arm A: Atezolizumab - Atezolizumab will be administered intravenously at a fixed dose of 1200 milligrams (mg) on Day 1 of each 21-day cycle. Participants will receive atezolizumab as long as they continue to experience clinical benefit in the opinion of the investigator until unacceptable toxicity or symptomatic deterioration attributed to disease progression as determined by the investigator.
+
+Active Comparator: Arm B: Chemotherapy (Vinflunine, Paclitaxel, or Docetaxel) - Participants randomized to the chemotherapy arm will receive vinflunine, paclitaxel, or docetaxel per the investigator's choice. Vinflunine 320 milligrams per square meter (mg/m^2), paclitaxel 175 mg/m^2, or docetaxel 75 mg/m^2 will be administered intravenously on Day 1 of each 21-day cycle until disease progression per standard RECIST v1.1 or unacceptable toxicity.
+
+
+Treatment: drugs: Atezolizumab (MPDL3280A) [TECENTRIQ], an engineered anti-PDL1 antibody
+Atezolizumab will be administered intravenously at a fixed dose of 1200 mg on Day 1 of each 21-day cycle.
+
+Treatment: drugs: Docetaxel
+Docetaxel 75 mg/m^2 will be administered intravenously on Day 1 of each 21-day cycle.
+
+Treatment: drugs: Paclitaxel
+Paclitaxel 175 mg/m^2 will be administered intravenously on Day 1 of each 21-day cycle.
+
+Treatment: drugs: Vinflunine
+Vinflunine 320 mg/m^2 will be administered intravenously on Day 1 of each 21-day cycle.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival</outcome>
+      <timepoint>Between randomization and death due to any cause, up to approximately 25 months after first participant enrolled</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Objective Response as Determined by the Investigator With Use of Response Evaluation Criteria In Solid Tumors Version 1.1 (RECIST v1.1)</outcome>
+      <timepoint>Up to approximately 25 months after first participant enrolled</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-free Survival (PFS) as Determined by the Investigator With Use of RECIST v1.1</outcome>
+      <timepoint>Up to approximately 25 months after first participant enrolled</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DOR) as Determined by the Investigator With Use of RECIST v1.1</outcome>
+      <timepoint>Up to approximately 25 months after first participant enrolled</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Adverse Events (AEs)</outcome>
+      <timepoint>Up to approximately 25 months after first participant enrolled</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Anti-therapeutic Antibodies (ATA) to Atezolizumab</outcome>
+      <timepoint>Predose (0 hours) on Day 1 of Cycles 1, 2, 3, 4 and every 8 cycles thereafter; at treatment discontinuation (up to 25 months); at 120 days after last dose of atezolizumab (up to 25 months; each cycle is 21 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Observed Serum Atezolizumab Concentration (Cmax)</outcome>
+      <timepoint>Predose (0 hours) on Day 1 of Cycles 1, 2, 3, 4, every 8 cycles thereafter; 30 minutes postdose on Day 1 of Cycle 1; at treatment discontinuation (up to 25 months); at 120 days after last dose of atezolizumab (up to 25 months; each cycle is 21 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimum Observed Serum Atezolizumab Concentration (Cmin)</outcome>
+      <timepoint>Predose (0 hours) on Day 1 of Cycles 1, 2, 3, 4 and every 8 cycles thereafter; at treatment discontinuation (up to 25 months); at 120 days after last dose of atezolizumab (up to 25 months; each cycle is 21 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Organisation for Research and Treatment of Cancer (EORTC) Quality-of-Life Questionnaire Core 30 (QLQ-C30) Score</outcome>
+      <timepoint>Cycle 1 Day 1 (prior to any health care interaction), on Day 1 of each subsequent cycle, and at 30 days after the last treatment dose (Up to approximately 25 months; each cycle is 21 days)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histologically or cytologically documented locally advanced or metastatic UBC
+             (including renal pelvis, ureters, urinary bladder, and urethra)
+
+          -  Representative tumor specimens as specified by the protocol
+
+          -  Disease progression during or following treatment with at least one
+             platinum-containing regimen for inoperable, locally advanced or metastatic UBC or
+             disease recurrence
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Life expectancy greater than or equal to (&gt;/=) 12 weeks
+
+          -  Measurable disease, as defined by RECIST v1.1
+
+          -  Adequate hematologic and end organ function
+
+          -  For female participants of childbearing potential and male participants with partners
+             of childbearing potential, agreement (by participant and/or partner) to use highly
+             effective form(s) of contraception as defined by the protocol and to continue its use
+             90 days after the last dose of atezolizumab</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Any approved anti-cancer therapy within 3 weeks prior to initiation of study treatment
+
+          -  Treatment with any other investigational agent or participation in another clinical
+             trial with therapeutic intent within 28 days prior to enrollment
+
+          -  Active or untreated central nervous system (CNS) metastases as determined by computed
+             tomography (CT) or magnetic resonance imaging (MRI) evaluation during screening and
+             prior radiographic assessments
+
+          -  Leptomeningeal disease
+
+          -  Malignancies other than UBC within 5 years prior to Cycle 1, Day 1, with the exception
+             of those with a negligible risk of metastasis or death and treated with expected
+             curative outcome, or localized prostate cancer treated with curative intent and
+             absence of prostate-specific antigen (PSA) relapse or incidental prostate cancer
+
+          -  Pregnant and lactating women
+
+          -  Significant cardiovascular disease
+
+          -  Severe infections within 4 weeks prior to randomization
+
+          -  Major surgical procedure other than for diagnosis within 4 weeks prior to
+             randomization
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins; known hypersensitivity or allergy
+             to biopharmaceuticals produced in Chinese hamster ovary cells or any component of the
+             atezolizumab formulation
+
+          -  History of autoimmune disease
+
+          -  Prior allogeneic stem cell or solid organ transplant
+
+          -  History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced
+             pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening
+             chest CT scan
+
+          -  Positive test for human immunodeficiency virus (HIV) and/or active hepatitis B or
+             hepatitis C or tuberculosis
+
+          -  Administration of a live, attenuated vaccine within 4 weeks prior to randomization
+
+          -  Prior treatment with cluster of differentiation 137 (CD137) agonists or immune
+             checkpoint blockade therapies, including anti-cytotoxic T-lymphocyte-associated
+             protein 4 (anti-CTLA-4), anti-programmed death-1 (anti-PD-1) or anti-programmed
+             death-ligand 1 (anti-PD-L1) therapeutic antibodies</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>13/01/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>932</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>28/11/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD,SA,VIC</recruitmentstate>
+    <hospital>Royal Brisbane and Women's Hospital; Medical Oncology - Herston</hospital>
+    <hospital>Royal Adelaide Hospital; Oncology - Adelaide</hospital>
+    <hospital>Monash Medical Centre; Oncology - East Bentleigh</hospital>
+    <hospital>Austin and Repatriation Medical Centre; Cancer Services - Melbourne</hospital>
+    <postcode>4029 - Herston</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>VIC 3165 - East Bentleigh</postcode>
+    <postcode>3084 - Melbourne</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Kortrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Pardubice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Herlev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>København Ø</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Helsinki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Turku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besancon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Limoges</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nimes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre Benite</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Herblain</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Suresnes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Aachen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Düsseldorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Göttingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Homburg/Saar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Magdeburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tübingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Heraklion</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Patras</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Thessaloniki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kecskemét</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szolnok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Campania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Emilia-Romagna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Friuli-Venezia Giulia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lombardia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Piemonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Puglia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sicilia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aomori</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Gunma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hiroshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hokkaido</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ibaraki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Iwate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kumamoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Niigata</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shizuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokushima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Hoofddorp</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Maastricht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nieuwegein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Zwolle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Kristiansand</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tromsø</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Trondheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Loures</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Baia Mare</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Craiova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Targu Mures</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Timisoara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Niznij Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Barnaul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Stavropol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Serbia</country>
+      <state>Belgrade</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Serbia</country>
+      <state>Sremska Kamenica</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovenia</country>
+      <state>Ljubljana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Islas Baleares</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>La Coruña</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Navarra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Caceres</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Malaga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Umea</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Chur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Geneve</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St. Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zürich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Bursa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Edirne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Malatya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Sihhiye, ANKARA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bristol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cambridge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cheltenham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Coventry</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Exeter</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Lancaster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leicester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Oxford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Scunthorpe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Truro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Wirral</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a Phase III, global, multicenter, open-label, two-arm, randomized, controlled study
+      designed to evaluate the efficacy and safety of atezolizumab compared with chemotherapy in
+      participants with locally advanced or metastatic urothelial bladder cancer (UBC) who have
+      progressed during or following a platinum-containing regimen. The anticipated time on study
+      treatment is based on continued clinical benefit, i.e., until disease progression or
+      unacceptable toxicity. The target sample size is 932 participants.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02302807</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

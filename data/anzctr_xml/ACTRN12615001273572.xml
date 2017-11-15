@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369601">
+  <stage>Registered</stage>
+  <submitdate>18/11/2015</submitdate>
+  <approvaldate>23/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001273572</actrnumber>
+  <trial_identification>
+    <studytitle>N-Acetyl Cysteine In Schizophrenia Resistant To Clozapine: A Double-Blind Randomised Placebo-Controlled Trial Targeting Negative Symptoms</studytitle>
+    <scientifictitle>N-Acetyl Cysteine In Schizophrenia Resistant To Clozapine: A Double-Blind Randomised Placebo-Controlled Trial Targeting Negative Symptoms</scientifictitle>
+    <utrn />
+    <trialacronym>ENHANCE</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Schizophrenia resistant to clozapine</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Schizophrenia</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>In this study, the efficacy and tolerability 2g daily of oral N-acetyl cysteine (NAC) will be compared to placebo as an augmenting strategy in patients with SZ who have proven resistant to clozapine. All participants will remain on clozapine for the duration of the trial (i.e. 52 weeks). Adherence will be monitored with pill checks at each visit and the supervision of all doses.</interventions>
+    <comparator>Placebo (lactose tablet).</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Negative symptoms as assessed with the Positive and Negative Symptoms Scale (PANSS)</outcome>
+      <timepoint>8, 24 and 52 weeks.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cognition as assessed by the MATRICS.</outcome>
+      <timepoint>8,24 and 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life as assessed by the Manchester Short Assessment of Quality of Life (MANSA) and the Assessment of Quality of Life (AQoL) </outcome>
+      <timepoint>8, 24 and 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Peripheral and cortical glutathione concentrations as assessed through blood samples and magnetic resonance spectroscopy, respectively.</outcome>
+      <timepoint>8, 24 and 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biomarkers pertinent to glutathione (including thiols (such as GSH, cysteine, cysteinyl-glycine, N-acetylcysteine) and corresponding disulphides (such as glutathione disulphide (GSSG) and cysteine), other markers of oxidative stress (lipid peroxidation  thiobarbaturic acid -TBARS, DNA damage - 8-oxoguanine and protein carbonylation) and antioxidant levels).</outcome>
+      <timepoint>8, 24 and 52 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>To be included the participants will be required to meet DSM5 criteria for SZ and: 
+- Have been on clozapine at an adequate dose, ascertained by a serum level of &gt;350mcg/L for at least 6 months with residual symptom
+- Have a PANSS score of 60 or at least two negative symptom items of &gt;4 
+- Have the capacity to consent to the study
+- Aged between 18 and 65 years
+-  Be utilising effective contraception if female and of childbearing age</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Participants who are currently taking NAC 
+- Participants who are allergic to NAC or any component of the preparation
+- Inability to comply with either the requirements of informed consent or the treatment protocol.
+- People taking nitro-glycerine 
+- Diabetics on insulin replacement
+- People taking Selenium or Vitamin E </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation will be concealed from local investigators, who will assign a number to the participant that will be linked to a prescription from the associated pharmacy.</concealment>
+    <sequence>Randomisation will be performed independently of the researchers by a statistician and will have a permuted block randomisation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The proposed trial is a randomised controlled double blinded superiority trial of two parallel patient groups.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Intention-to-treat analysis will be employed to prevent over-estimation of efficacy. Categorical variables will be analysed using chi-squared tests (or Fishers exact test for small samples). A mixed-effects model, repeated measures (MMRM) approach will be used to examine the longitudinal profile of all continuous variables at weeks 8, 24, and 52 post-baseline. For all MMRM analyses, baseline scores will be used as covariates and the models will include pre-specified fixed effects of treatment, site, and time, and treatment-by-time and treatment-by-site interactions.
+The MMRM modelling for the primary outcome measure  PANSS Negative scores   will also include baseline PANSS Positive, Negative, and General Psychopathology scores, CDSS scores, and extrapyramidal side effects (AIMS, SAS) as covariates. The secondary outcomes consist of CDSS, LQoLP, and MCCB global score, while the process outcomes include GSH concentrations peripherally and cortically, respectively.
+Secondary analyses using Analysis of Covariance will be conducted to compare change scores during treatment and follow-up phases for all primary, secondary, and process outcomes using treatment group as a main effect with the baseline score as a covariate. Correlational analyses will also be performed to examine for relationships between outcome variables (i.e. treatment response with cognition and GSH levels, peripherally and cortically).
+Power was calculated to detect a medium effect size of d = 0.5. The calculations followed the method described by Diggle et al. and assumed one primary outcome measure (PANSS Negative scores), four assessment points (baseline, 8-weeks, 26-weeks, and 52-weeks follow-ups), a study-wide Type I error rate (alpha) of .05, a Type II error rate (beta) of .10 (power of .90), a correlation of post-treatment scores with baseline measurements (rho) of 0.70, and a two-tailed statistical test. To detect the effect size of d = 0.5, 45 participants in each of the control and intervention groups will be required. Allowing for up to 46% attrition (based on a 20% dropout over the first 8 weeks and a further 30% dropout over the ensuing 44 weeks), a total of 168 participants, or 84 in each group will be recruited. Similar attrition rates are reported in other treatment trials with treatment resistant SZ. To accommodate the required number of patients, at least 42 patients will need to be recruited from each of the four study sites. For the MRS component, groups of 15-20 are widely accepted as an appropriate size to permit appropriate neuroimaging analysis.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/06/2016</anticipatedstartdate>
+    <actualstartdate>23/03/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>168</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>12</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC</recruitmentstate>
+    <hospital>St Vincent's Hospital (Melbourne) Ltd - Fitzroy</hospital>
+    <hospital>Cumberland Hospital - Westmead</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Logan Hospital - Meadowbrook</hospital>
+    <hospital>Lyell McEwin Hospital - Elizabeth Vale</hospital>
+    <hospital>Modbury Hospital - Modbury</hospital>
+    <hospital>Redland Hospital - Cleveland</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>The University of Melbourne, Parkville, VIC 3010</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>Level 1,  16 Marcus Clarke Street,  Canberra, ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A proportion of individuals with schizophrenia (SZ) do not respond adequately to clozapine, with anything from 40-60% of individuals having residual symptoms at the completion of an adequate trial of clozapine. Agents that could work synergistically with clozapine to improve efficacy whilst not increasing the side effect burden are both desired and necessary to improve the lives of individuals with clozapine-resistant SZ, such as N-acetyl cysteine (NAC). Our group has extensive experience with NAC with pilot data support from a rigorous RCT exploring the efficacy of NAC in clozapine-resistant SZ. This project grant seeks funding to expand this work by conducting a multi-site randomised placebo-controlled trial of NAC in the treatment of clozapine-resistant schizophrenia, with 8, 24 and 52 week endpoints. 
+We will target negative symptoms as our primary outcome measure, with quality of life and cognition as secondary outcomes. We will examine both peripheral and cortical glutathione concentrations. Additionally, we will measure a number of other biomarkers pertinent to the glutathione hypothesis. Such analyses will further our understanding the role of oxidative stress in SZ.
+The trial is a randomised controlled double-blinded superiority trial of two parallel patient groups. The study will be conducted across four Australian sites, namely Melbourne (St Vincents Mental Health Service), Sydney (Cumberland Hospital), Adelaide (Northern Adelaide Local Health Network), and Brisbane (Metro South Addiction and Mental Health Service). Forty-two patients will be recruited from each of the sites, with a total target of 168 patients aged 18 - 65 years meeting DSM-5 criteria for schizophrenia. Block randomisation will be used.
+This trial, if successful, will establish a cheap, safe and easy-to-use agent (NAC) as a go to adjunct in patients only partly responsive to
+clozapine.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Vincent's Hospital Melbourne Human Research Ethics Committee D</ethicname>
+      <ethicaddress>41 Victoria Parade, Fitzroy VIC 3065</ethicaddress>
+      <ethicapprovaldate>30/03/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>15/12/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>David Castle</name>
+      <address>Department of Mental Health, St Vincent's Hospital, Level 2, 46 Nicholson St, Fitzroy 3065 VIC</address>
+      <phone>+61 3 9231 4751</phone>
+      <fax />
+      <email>david.castle@svha.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Castle</name>
+      <address>Department of Mental Health, St Vincent's Hospital, Level 2, 46 Nicholson St, Fitzroy 3065 VIC</address>
+      <phone>+61 3 9231 4751</phone>
+      <fax />
+      <email>david.castle@svha.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Castle</name>
+      <address>Department of Mental Health, St Vincent's Hospital, Level 2, 46 Nicholson St, Fitzroy 3065 VIC</address>
+      <phone>+61 3 9231 4751</phone>
+      <fax />
+      <email>david.castle@svha.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Erica Neill</name>
+      <address>St Vincent's Mental Health Service
+PO BOX 2900
+Fitzroy 3065</address>
+      <phone>+61 3  9231 4304</phone>
+      <fax />
+      <email>erica.neill@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

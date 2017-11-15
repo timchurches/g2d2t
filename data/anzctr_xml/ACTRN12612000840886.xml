@@ -1,0 +1,186 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362856">
+  <stage>Registered</stage>
+  <submitdate>3/08/2012</submitdate>
+  <approvaldate>10/08/2012</approvaldate>
+  <actrnumber>ACTRN12612000840886</actrnumber>
+  <trial_identification>
+    <studytitle>Effect of wording and presentation of electronic alerts on behavior of providers caring for out-of-control diabetics</studytitle>
+    <scientifictitle>The effect of active/passive wording and plain/enhanced presentation of electronic alerts on ordering of insulin by providers caring for out-of-control diabetics on 2 or more oral hypoglycemic agents</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Look and feel of electronic alerts</healthcondition>
+    <healthcondition>Diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>During a direct patient encounter, an electronic message to the provider caring for an out-of-control diabetic suggests the patient be placed on insulin.  This message appears on the screen of the Electronic Health Record during the time the provider is charting on the patient.  The message appears once per provider per encounter.  The same message appears to all providers at the same health center.  Messages are changed every month for 4 months without a washout period based on the randomization schedule.  Messages differ by wording (active vs passive voice) and presentation (all black text vs black and red text).
+Arm 1: Wording in active voice plus all black text presentation
+Arm 2: Wording in active voice plus black and red text presentation
+Arm 3: Wording in passive voice plus all black text presentation
+Arm 4: Wording in passive voice plus black and red text presentation</interventions>
+    <comparator>During a direct patient encounter, an electronic message to the provider caring for an out-of-control diabetic suggests the patient be placed on insulin.  This message appears on the screen of the Electronic Health Record during the time the provider is charting on the patient.  The message appears once per provider per encounter.  The same message appears to all providers at the same health center.  Messages are changed every month for 4 months without a washout period based on the randomization schedule.  Messages differ by wording (active vs passive voice) and presentation (all black text vs black and red text).
+Arm 1: Wording in active voice plus all black text presentation
+Arm 2: Wording in active voice plus black and red text presentation
+Arm 3: Wording in passive voice plus all black text presentation
+Arm 4: Wording in passive voice plus black and red text presentation</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of insulin preparations prescribed at each medical center in each of the four 1-month study periods.</outcome>
+      <timepoint>Five month baseline followed by Four, 1-month cross-over periods</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>none</outcome>
+      <timepoint>none</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients in diabetic registry with HgA1C &gt; 8.0 on at least 2 oral hypoglycemic agents.  All physicians and advanced practioners caring for these patients.  Only practioners in adult primary care, cardiology, endocrinology, and nephrology are included.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>120</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>on insulin, not on at least 2 oral agents, HgA1C not &gt; 8.0</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Four -arm block randomized cross over trial.  All providers meeting iniclusion criteria are automatically enrolled.  All patients meeting inclusion criteria are automatically enrolled. The  randomization schedule was determined centrally and concealed from both providers and patients the allocation of which message the providers received was not related to their inclusions or exclusion into the study.</concealment>
+    <sequence>Coin flip to determine which of 4 sequences.  Sequences are a balanced series of interventions:  ABCD, DCBA, BDAC, CADB</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>No wash out period after crossing over</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>14/02/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>5000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Kaiser Permanente</primarysponsorname>
+    <primarysponsoraddress>Systems Solutions and Deployment
+74 North Pasadena Ave,
+Pasadena, CA 91103</primarysponsoraddress>
+    <primarysponsorcountry>United States of America</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Kaiser Permanente</fundingname>
+      <fundingaddress>Systems Solutions and Deployment
+74 North Pasadena Ave,
+Pasadena, CA 91103</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Research to date has shown that Clinical Decision Support systems do have some efficacy in changing provider behavior, however the "look and feel" of electronic alerts has not been well studied.  This study presents 1 of 4 messages to providers caring for out-of-control diabetics.  The messages differ in wording (active vs passive voice) and presentation (plain black text vs black and red text).</summary>
+    <trialwebsite>none</trialwebsite>
+    <publication>none</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Kaiser Permanente IRB</ethicname>
+      <ethicaddress>393 E. Walnut Street
+Pasadena, CA 91188</ethicaddress>
+      <ethicapprovaldate>23/04/2012</ethicapprovaldate>
+      <hrec>(Note:  the IRB felt this was a quality improvement project and did not meet the criteria for human subjects research as defined by 45 CFR 46.102 (d) and (f).)
+These alerts triggered in the background (unseen by and unknown to the providers) for a 5 month period (starting February 2012).  These baseline data were used to obtain information for our power analysis and also to be able to do a pre- post intervention analysis in addition to the RCT analysis.  Providers started seeing the alerts in July 2012 (after letter from IRB).</hrec>
+      <ethicsubmitdate>17/04/2012</ethicsubmitdate>
+      <ethiccountry>United States of America</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Erin G. Stone, MD</name>
+      <address>Systems Solutions and Deployment
+Parsons West Annex, 5th Floor
+74 North Pasadena Ave.
+Pasadena, CA 91103</address>
+      <phone>+1-626-381-3121</phone>
+      <fax />
+      <email>erin.g.stone@kp.org</email>
+      <country>United States of America</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Erin G. Stone, MD</name>
+      <address>Systems Solutions and Deployment
+Parsons West Annex, 5th Floor
+74 North Pasadena Ave.
+Pasadena, CA 91103</address>
+      <phone>+1-626-381-3121</phone>
+      <fax />
+      <email>erin.g.stone@kp.org</email>
+      <country>United States of America</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Erin G. Stone, MD</name>
+      <address>Systems Solutions and Deployment
+Parsons West Annex, 5th Floor
+74 North Pasadena Ave.
+Pasadena, CA 91103</address>
+      <phone>01-626-381-3121</phone>
+      <fax />
+      <email>erin.g.stone@kp.org</email>
+      <country>United States of America</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

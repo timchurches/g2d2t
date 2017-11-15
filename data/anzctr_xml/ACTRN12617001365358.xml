@@ -1,0 +1,236 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373671">
+  <stage>Registered</stage>
+  <submitdate>18/09/2017</submitdate>
+  <approvaldate>27/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001365358</actrnumber>
+  <trial_identification>
+    <studytitle>A randomized clinical trial comparing preoperative continuation versus cessation of angiotensin converting enzyme inhibitors and angiotensin receptor blockers in patients undergoing elective, noncardiac surgery at a major tertiary hospital. </studytitle>
+    <scientifictitle>A randomized clinical trial comparing preoperative continuation versus cessation of angiotensin converting enzyme inhibitors and angiotensin receptor blockers in patients undergoing elective, noncardiac surgery at a major tertiary hospital. </scientifictitle>
+    <utrn>U1111-1202-2693 </utrn>
+    <trialacronym>PAAB</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>noncardiac surgery</healthcondition>
+    <healthcondition>perioperative cardiovascular events</healthcondition>
+    <healthcondition>cardiovascular mortality</healthcondition>
+    <healthcondition>cardiac arrest
+</healthcondition>
+    <healthcondition>decompensated cardiac failure
+</healthcondition>
+    <healthcondition>myocardial infarction</healthcondition>
+    <healthcondition>myocardial injury after noncardiac surgery</healthcondition>
+    <healthcondition>acute kidney injury</healthcondition>
+    <healthcondition>cerebrovascular event</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Withholding angiotensin converting enzyme II inhibitors (ACEi) and angiotensin receptor blockers (ARBs) medication at least twenty-four hours prior to noncardiac surgery. The commencement of ACEi and ARB after surgery will be independent of the clinical trial and at the discretion of the treating clinician. </interventions>
+    <comparator>Continuing angiotensin converting enzyme II inhibitors (ACEi) and angiotensin receptor blockers (ARBs) medication prior to noncardiac surgery</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Composite outcome of cardiovascular mortality, cardiac arrest, cardiac arrhythmia, decompensated cardiac failure, stroke, and myocardial infarction in the period from anesthesia induction to five days post-operatively. The outcome will be assessed by reviewing medical records and investigations. All outcome events will be assessed by an independent adjudicator. </outcome>
+      <timepoint>Five days postoperatively</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>all-cause mortality</outcome>
+      <timepoint>30-day </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>cardiovascular mortality
+- as per ICD-10 coding for cause of death with I00-I99 representing cardiovascular mortality
+- all outcome events with be reviewed by an independent adjudicator </outcome>
+      <timepoint>30-day</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Myocardial injury after noncardiac surgery (MINS) 
+- as defined by peak cTnT &gt;= 0.03ng/ml without evidence of non-ischaemic etiology </outcome>
+      <timepoint>five days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postoperative acute kidney injury
+- using AKIN definition of AKI as follows:  creatinine: &gt;1.5 times baseline OR &gt; 26.5 mmol/l increase OR urine output: &lt;0.5 ml/kg/h for 612 hours as measured using an indwelling catheter (IDC)
+</outcome>
+      <timepoint>five days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite outcome of clinical significant haemodynamic instability during operation or up to five days. 
+Consists of the following
+o	Intraoperative hypotension: Mean arterial blood pressure &lt;65mmHg
+o	Postoperative hypotension: Systolic blood pressure &lt; 90 mmHg requiring intervention (fluid administration, vasopressor use
+o	Postoperative hypertension: Systolic blood pressure &gt;180mmHg requiring immediate administration of antihypertensive medication
+</outcome>
+      <timepoint>Five days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>	Adult (&gt;18 years of age)
+	Non-pregnant
+	Patients at Princess Alexandra Hospital (Brisbane, Queensland)
+	Attendance at preadmission clinic at least twenty-four hours prior to day of surgery
+	Elective surgery
+	Planned general anaesthetic
+	Prescribed an ACEi or ARB on a stable dose for the previous twenty-eight days 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>	Systolic blood pressure greater than 180 mmHg noted on preadmission clinic visit
+	Cardiac surgery
+	Transplant surgery
+	Cognitive impairment or other neurological disorders resulting in patients lacking capacity to  provide informed consent and a legally authorized substitute decision maker (power of attorney or statutory health attorney or appointed guardian) does not exist  or is unavailable to  provide informed consent.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Online / Central randomisation</concealment>
+    <sequence>Permuted block randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>To compare the risk of postoperative cardiovascular events between the group of patients withholding AAB agents at least twenty-fours prior to noncardiac surgery and the ones continuing these agents, a Chi-square test or Fishers exact test (when appropriate) will be performed. 
+
+The association between treatment group and perioperative mortality, myocardial events, postoperative acute kidney injury, postoperative stroke and clinically significant haemodynamic instability will be investigated using Chi-square test or Fishers exact test (when appropriate) for categorical outcomes and t-test or Mann-Whitney test (when appropriate) for continuous outcomes.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>2/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>2/11/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>666</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>14/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <postcode>4102 - Woolloongabba</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Metro South Health - Princess Alexandra Hospital</primarysponsorname>
+    <primarysponsoraddress>199 Ipswich Road
+Woolloongabba QLD 4102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>Not applicable</fundingname>
+      <fundingaddress>Not applicable</fundingaddress>
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Not applicable</sponsorname>
+      <sponsoraddress>Not applicable</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The research study will investigate the effect a common blood pressure tablet has on patients undergoing elective surgery. Participants will be randomly assigned to continue or cease their angiotensin converting enzyme inhibitors and angiotensin receptor blockers at least one day before their operation. Researchers will collate and analyze routinely collected patient information to detect if continuation or cessation results in better outcomes for the participants. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Metro South Health HREC</ethicname>
+      <ethicaddress>PAH Centres for Health Research
+Level 7, Translational Research Institute
+37 Kent Street
+Woolloongabba QLD 4102</ethicaddress>
+      <ethicapprovaldate>25/08/2017</ethicapprovaldate>
+      <hrec>HREC/17/QPAH/476</hrec>
+      <ethicsubmitdate>13/07/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ian Scott</name>
+      <address>Internal Medicine Department
+Princess Alexandra Hospital
+199 Ipswich Road Woolloongabba, QLD 4102
+
+</address>
+      <phone>+61731767355</phone>
+      <fax />
+      <email>ian.scott@health.qld.gov.au</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ian Scott</name>
+      <address>Internal Medicine Department
+Princess Alexandra Hospital
+199 Ipswich Road Woolloongabba, QLD 4102
+</address>
+      <phone>+61731767355</phone>
+      <fax />
+      <email>ian.scott@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ian Scott</name>
+      <address>Internal Medicine Department
+Princess Alexandra Hospital
+199 Ipswich Road Woolloongabba, QLD 4102</address>
+      <phone>+61731767355</phone>
+      <fax />
+      <email>ian.scott@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

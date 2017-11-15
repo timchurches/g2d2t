@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362004">
+  <stage>Registered</stage>
+  <submitdate>27/01/2012</submitdate>
+  <approvaldate>30/01/2012</approvaldate>
+  <actrnumber>ACTRN12612000132842</actrnumber>
+  <trial_identification>
+    <studytitle>Randomised Controlled Trial of the Diabetes Self-Management Glucose Buddy Smartphone Application.</studytitle>
+    <scientifictitle>For an adult with Type 1 diabetes, does using a diabetes self-management smartphone application combined with text-message feedback improve glycemic control as compared to usual care.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type 1 Diabetes</healthcondition>
+    <healthcondition>Effect of a diabetes self-management smartphone application</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Usual Care - 3-monthly visits to health care practitioner (general practitioner or endocrinologist) for 9-month duration of study. Plus Glucose Buddy iPhone App allows patients to enter in diabetes parameters (blood glucose, insulin, physical activity and diet). Text-message feedback from a Credentialed Diabetes Educator on a weekly basis for 6-months.  Minimum of one text message a week, maximum of three.  Feedback related to diabetes care - primarily stabilizing blood glucose levels.</interventions>
+    <comparator>Usual Care - 3-monthly visits to health care practitioner (general practitioner or endocrinologist) for 9-month duration of study.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome measure is the improvement in glycemic control assessed by a patients glycosylated haemoglobin levels (HbA1c).  HbA1c is regarded an optimal parameter for assessing long term quality of glycemic control (Biermann, et al., 2000).   This measure is a reliable indicator of glucose control over the preceding 2-3 months (Australasian Paediatric Endocrine Group, 2005). This measure will be collected at each data collection point (baseline and 3-monthly) by a pathology lab as requested by the patients' General Practitioner (within the conventional care plan of patients with T1DM).  The Bayer DCA 2000 + glycohaemoglobin analyser (Bayer Australia, Melbourne, Vic) is the standard instrument in Australia to analyse the HbA1c levels of patients.</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 9 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Diabetes-related self-efficacy will be measured using the short form of the Diabetes Empowerment questionnaire (DES-SF). The DES-SF questionnaire measures eight conceptual dimensions i.e., assessing the need for change, developing a plan, overcoming barriers, asking for support, supporting oneself, coping with emotion, motivating oneself, and making diabetes care choices appropriate for one?s priorities and circumstances. Research has shown that DES-SF is a valid and reliable measure of overall diabetes-related psychosocial self-efficacy (Anderson, et al., 2003; Anderson, et al., 2000).</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 9 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The revised version of the Summary of Diabetes Self-Care Activities (SDSCA) questionnaire will be used to assess diabetes self-management behaviours for diet, physical activity, blood glucose testing, foot checks, and smoking. The SDSCA is a brief, reliable, valid, and multidimensional measure of diabetes self-care behaviours based on self report. Psychometric analyses support the construct validity and internal consistency reliability of SDSCA in an adult diabetes population (Toobert, et al., 2000) .</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 9 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Diabetes-specific quality of life will be measured using the Diabetes Quality of Life questionnaire (DQOL) developed specifically for insulin-dependent diabetes patients.  The DQOL was initially designed for use in the DCCT (DCCT Research Group, 1996) and has demonstrated high degrees of internal consistency and test-retest reliability (Jacobson, Barofsky, Cleary, &amp; Rand, 1988).  The DQOL has 46 core items and four major dimensions: treatment satisfaction, treatment impact, worry about long-term complications, and worry about social/vocational issues. Patients respond to all items on a 5-point Likert scale. A score of 1 indicates no impact, no worries, or always satisfied. A score of 5 represents always affected, always worried, or never satisfied.</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 9 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Smartphone Application Usage - as described by the number of logs (blood glucose, physical activity, diet, insulin) entered into the app by a participant.</outcome>
+      <timepoint>6-month</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intervention engagement - as measured by the number of text-messages sent from Credentialed Diabetes Educator to patients and the number of text-messages sent from patients to Credentialed Diabetes Educator.</outcome>
+      <timepoint>6-month</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Diagnosed with Type 1 Diabetes
+-Duration of disease &gt; 6 months
+-Treated with multiple daily injections (MDI) or continuous subcutaneous insulin injections (Insulin Pump)
+-Inadequate glycemic control (HbA1c &gt; 8%) 
+-Own an iPhone and not currently using an iPhone application to self-monitor diabetes
+-Consent from patient and patients general practitioner to participate</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-Pregnant patients with Type 1 Diabetes
+-Early indicators of diabetes related complications: retinopathy, neuropathy, nephropathy and heart-disease
+
+General practitioner or endocrinologist of patient had to provide consent for their participation.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients who volunteered to take part in study were contacted by the project staff to determine participant eligibility as per inclusion/exclusion criteria. Those who meet inclusion criteria were asked to provide ethical consent and have baseline measures taken. The primary outcome measure of glycemic control (HbA1c) was collected by a pathology laboratory, which the patient has been referred to by their general practitioner as per the norm of a diabetes care plan (usual care). The secondary outcome measures was collected via a web survey. Following baseline data collection participants were randomly allocated to one of the two arms of the research (control/intervention). Randomisation was  undertaken by an independent researcher using a freely available online randomisation program (randomization.com). Individuals selected to the intervention arm were given information regarding the download and use of the Glucose Buddy application and website (http://www.beta.glucosebuddy.com).</concealment>
+    <sequence>Permuted block randomisation was undertaken by an independent researcher using a freely available online randomisation program (www.randomization.com).</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/10/2010</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>72</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Central Queensland University</primarysponsorname>
+    <primarysponsoraddress>Building 18, 
+Bruce Highway,
+Rockhampton QLD 4701</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Central Queensland University</fundingname>
+      <fundingaddress>Building 18, 
+Bruce Highway,
+Rockhampton QLD 4701</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In the study we trialled the effectiveness of a diabetes-related smart phone application to improve self-management and glycemic control in adult patients with T1DM. Specifically the aims of the project were to (i) trial the effectiveness of the Glucose Buddy self-management application in improving glycemic control in adults with T1DM, (ii) trial the effectiveness of the Glucose Buddy self-management application in producing relevant health behaviour change outcomes in adults with T1DM and, (iii) to  examine the relationship of utilisation of the Glucose Buddy application, patients engagement with the application and the level of self-care and glycemic control.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Queensland University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Building 32,
+Bruce Highway,
+Rockhampton QLD 4701</ethicaddress>
+      <ethicapprovaldate>16/07/2010</ethicapprovaldate>
+      <hrec>H10/06-119</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Morwenna Kirwan</name>
+      <address>Building 18, 
+Bruce Highway
+Central Qld University
+Rockhampton QLD 4701</address>
+      <phone>+61749232546</phone>
+      <fax>+61749306781</fax>
+      <email>m.kirwan@cqu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Morwenna Kirwan</name>
+      <address>Building 18, 
+Bruce Highway
+Central Qld University
+Rockhampton QLD 4701</address>
+      <phone>+61749232546</phone>
+      <fax>+61749306781</fax>
+      <email>m.kirwan@cqu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Morwenna Kirwan</name>
+      <address>Building 18, 
+Bruce Highway
+Central Qld University
+Rockhampton QLD 4701</address>
+      <phone>+61749232546</phone>
+      <fax>+61749306781</fax>
+      <email>m.kirwan@cqu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

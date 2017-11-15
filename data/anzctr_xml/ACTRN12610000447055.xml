@@ -1,0 +1,202 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="308121">
+  <stage>Registered</stage>
+  <submitdate>27/05/2010</submitdate>
+  <approvaldate>2/06/2010</approvaldate>
+  <actrnumber>ACTRN12610000447055</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of low dose intravenous premedication (co-induction) on cardiac output and induction of anaesthesia</studytitle>
+    <scientifictitle>To explore the effect during induction of anaesthesia of low dose intravenous premedication (co-induction) with a variety of drugs, on cardiac output and the dose of propofol required for loss of consciousness, in patients requiring insertion of arterial line for surgery</scientifictitle>
+    <utrn />
+    <trialacronym>COS Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+    <secondaryid>There is no secondary ID.
+</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Anaesthetics</healthcondition>
+    <healthcondition>Cardiac output changes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Administration of a small dose of midazolam (0.03mg/kg), propofol (0.4mg/kg), fentanyl (1.5mcg/kg) or placebo by intravenous bolus, 3 minutes prior to induction of anaesthesia by propofol, infused at a rate of 3ml/kg/hr until loss of consciousness as confirmed by syringe drop.</interventions>
+    <comparator>Saline bolus administered intravenously 3 mins prior to induction.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Amount of induction drug required (as determined by time to LOC x infusion rate of 3ml/kg/hr)  to loss of consciousness (LOC) as determined by:
+1. Syringe drop and
+2. Lack of response to command</outcome>
+      <timepoint>Time to LOC measured from 'propofol on' time and determined by:
+1. Syringe drop (primary indicator)
+2. Lack of response to command (every 30 sec until lack of response)
+Bi-Spectral Index monitor (BIS) 'below 60' time is also noted and amount of propofol till this point calculated as above.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change in cardiac output after "coinduction" as assessed by Vigileo ('Minimally Invasive, Arterial Pressure Cardiac Output Monitor'. utilising FloTrac sensor attatched to an Arterial Line).</outcome>
+      <timepoint>Monitored continually from insertion of arterial line until induction/LOC.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nil</outcome>
+      <timepoint>Nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Surgery requiring insertion of arterial line,
+American Society of Anesthetist (ASA) rating 1,2 or 3</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Contra-indication to propofol.
+Requirement for specific co-induction drug, other than study drug.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Identify patients fitting inclusion criteria; consult with rostered anaesthetist re patient/procedure suitability.
+Inform patient of study and seek consent. Allocate sequential study number to patient. Administer drug at defined time. Co-induction drug concealed in covered syringe. Drug administered by 'outside' anaesthetist, and not in front of theatre anaesthetist or researcher.</concealment>
+    <sequence>Computerised randomisation sequence.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacokinetics / pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/11/2009</anticipatedstartdate>
+    <actualstartdate>24/11/2009</actualstartdate>
+    <anticipatedenddate>29/01/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Christchurch Anaesthesia Education Trust</primarysponsorname>
+    <primarysponsoraddress>c/o Dr R French,
+Department of Anaesthesia,
+Christchurch Hospital, 
+Private Bag 4710,
+Christchurch 8011,
+New Zealand</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Christchurch Anaesthesia Education Trust</fundingname>
+      <fundingaddress>c/- Dr R French,
+Department of Anaesthesia,
+Christchurch Hospital ,
+Private Bag 4710,
+Christchurch 8011,
+New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>There is good evidence of a true synergy between midazolam and propofol induction and data suggests that pre-dosing with propofol also reduces induction requirements. However, there has been no measure of the actual cardiac output changes in any human studies apart from that of Adachi et al.
+We plan to explore the relationship between cardiac output and induction doses of propofol in more detail and, in particular, to explore the effect of co-induction agents on cardiac output and to further evaluate cardiac output changes around induction of anaesthesia.</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>Not to date.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Upper South A Regional Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+PO Box 3877 Christchurch 4011</ethicaddress>
+      <ethicapprovaldate>13/11/2008</ethicapprovaldate>
+      <hrec>URA/08/10/065</hrec>
+      <ethicsubmitdate>1/10/2008</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Assoc Prof Ross Kennedy</name>
+      <address>c/o Department of Anaesthesia
+Christchurch Hospital 
+Private Bag 4710
+Christchurch 8011</address>
+      <phone>+64 3 3640288</phone>
+      <fax>+64 3 3640289</fax>
+      <email>ross.kennedy@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Assoc Prof Ross Kennedy/Margie McKellow</name>
+      <address>c/o Department of Anaesthesia
+Christchurch Hospital 
+Private Bag 4710
+Christchurch 8011</address>
+      <phone>+64 3 3640288</phone>
+      <fax>+64 3 3640289</fax>
+      <email>margie.mckellow@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Margie McKellow</name>
+      <address>c/o Department of Anaesthesia
+Christchurch Hospital 
+Private Bag 4710
+Christchurch 8011</address>
+      <phone>+64 3 3640288</phone>
+      <fax>+64 3 3640289</fax>
+      <email>margie.mckellow@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Dr R Ross Kennedy</name>
+      <address>Dept of Anaesthesia
+Christchurch Hospital
+Private Bag 4710
+Christchurch 8011
+</address>
+      <phone>+64 3 3640288</phone>
+      <fax>+64 3 3640289</fax>
+      <email>ross.kennedy@otago.ac.nz  </email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

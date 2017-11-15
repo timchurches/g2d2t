@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365686">
+  <stage>Registered</stage>
+  <submitdate>30/01/2014</submitdate>
+  <approvaldate>27/02/2014</approvaldate>
+  <actrnumber>ACTRN12614000210673</actrnumber>
+  <trial_identification>
+    <studytitle>The Emergency Department Delirium Identification (EDDI) trial: a study to improve the diagnosis and management of older people with delirium.</studytitle>
+    <scientifictitle>In older people hospitalised via emergency departments, does a brief screening process and warning card system compared to standard care improve the diagnosis and management of delirium?</scientifictitle>
+    <utrn />
+    <trialacronym>EDDI</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Delirium</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A risk assessment score based on nursing assessment, prompting a standardised diagnostic and management pathway. This is a locally developed and tested delirium screening score to be applied by based on clinical findings at the initial nurse assessment in ED. It takes approximately 5 minutes to complete. If the patient screens positive on this score, it triggers medical staff to perform a diagnostic Confusion Assessment Method and follow a set of action plans for diagnostic workup and prevention/management of delirium e.g. medication review. These action plans will be prompted by the visual cue of placing an end of bed warning card with the patient, which will stay with them throughout their admission. The intervention period will last for six months.</interventions>
+    <comparator>Standard (unspecified) diagnosis and management. In the six months prior to the intervention period, we will collect identical outcome data on patients before the introduction of the intervention. Hence the control group is the group in the baseline six month period. We have chosen historical, though these patients will be prospectively followed up.</comparator>
+    <control>Historical</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Hospital length of stay in bed days</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients receiving a diagnosis of delirium during their admission
+	</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients receiving a formal delirium assessment
+	</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inpatient morbidity including falls, fractures, pressure sores, requirement for pharmacological sedation and complications of sedation such as aspiration pneumonia, as determined by ICD10 coding performed for that admission augmented by medical chart review.
+</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Discharge destination from the hospital, based on electronic discharge records.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients aged 65 years or more who are to be admitted to any inpatient unit via the ED</inclusivecriteria>
+    <inclusiveminage>65</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients with critical illness requiring acute resuscitation
+Patients who are unable to speak English with no professional interpreter present
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>A locally developed delirium screening assessment will be performed by ED nursing staff on all patients not meeting exclusion criteria. In the initial six months of the study, we will conduct the screening only to define a comparator population for the intervention. The results of screening assessments will NOT be brought to the attention of medical staff and no visual identification of delirium risk for these patients will be made. 
+
+During the next six months intervention period, patients will undergo screening identical to that described above but those patients with positive screening test will receive intervention: placement of end-of-bed cards and a formal diagnostic process using the recognised gold standard Confusion Assessment Method (CAM) to confirm the diagnosis of delirium. 
+</concealment>
+    <sequence>Non randomised consecutive enrolments</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>Nonrandom allocation (before - after study) to control and intervention groups</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Based on a mean length of hospital stay for patients with a diagnosis of delirium of 14 days with a standard deviation of 13 days (local data 2012), a reduction of length of stay by 25% (4 days) in the intervention group will require 223 patients in each study arm if alpha = 0.05 and 1-beta= 0.9. We estimate from our preliminary study that 30 patients aged 65 and over per day will present to our ED, and conservatively 3 will have or develop delirium. Therefore, a 6 month period for both the comparator (baseline) and intervention populations should be ample to obtain 223 patients in each period, as it is estimated that 500 or more older people will have delirium in each period.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/03/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>446</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Fremantle Hospital</primarysponsorname>
+    <primarysponsoraddress>PO Box 480
+Fremantle 6959
+WA</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Research Development Unit, WA Health</fundingname>
+      <fundingaddress>Level 2, Block C
+Department of Health
+189 Royal Street
+East Perth 6004
+WA</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Delirium occurs commonly in hospitalised older patients and is frequently under-diagnosed and mistreated. 
+There are two major shortfalls in Emergency Department (ED) care related to delirium: failure to diagnose and treat already established delirium, and failure to prevent the development of delirium. 
+This study will test whether a screening process we have developed to identify delirium risk, coupled with the use of diagnostic and preventative measures in the ED and during hospital admission, will address these shortfalls.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Humann Research Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>22/08/2013</ethicapprovaldate>
+      <hrec>13/66</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ian Dey</name>
+      <address>Emergency Department, Fremantle Hospital
+Alma St
+Fremantle
+WA 6160</address>
+      <phone>61 8 94312798</phone>
+      <fax />
+      <email>ian.dey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Holly Criddle</name>
+      <address>Emergency Department, Fremantle Hospital
+Alma St
+Fremantle
+WA 6160</address>
+      <phone>61 8 94312798</phone>
+      <fax />
+      <email>holly.criddle@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Glenn Arendts</name>
+      <address>Emergency Medicine, University of Western Australia
+Level 2 R Block
+QEII Medical Centre
+Nedlands WA 6009</address>
+      <phone>61 8 93464354</phone>
+      <fax />
+      <email>glenn.arendts@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Glenn Arendts</name>
+      <address />
+      <phone />
+      <fax />
+      <email>glenn.arendts@uwa.edu.au</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370555">
+  <stage>Registered</stage>
+  <submitdate>19/04/2016</submitdate>
+  <approvaldate>22/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000523404</actrnumber>
+  <trial_identification>
+    <studytitle>A study looking at the reproducibility of Magnetic Resonance Imaging (MRI) Simulation Scans for  Radiotherapy Planning</studytitle>
+    <scientifictitle>Uncertainty in Magnetic Resonance Imaging (MRI) Simulation Scans for  Radiotherapy Planning</scientifictitle>
+    <utrn>U1111-1182-1022 </utrn>
+    <trialacronym>HOHO</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cancer - prostate</healthcondition>
+    <healthcondition>Cancer - head and neck</healthcondition>
+    <healthcondition>Cancer - central nervous system</healthcondition>
+    <healthcondition>Cancer - rectal</healthcondition>
+    <healthcondition>Cancer -  lung </healthcondition>
+    <healthcondition>Cancer - cervix. </healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Cervical (cervix)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention involves an additional MRI scan for participants that will only be used for the purpose of the study and not for the radiotherapy treatment planning. Participants would otherwise be attending for an MRI scan for the purposes of planning for their radiotherapy treatment (simulation) but the intervention is an additional scan. The scan will be performed by a suitably qualified allied health professional. The scan will be performed at only one time point and on the same day as their radiotherapy planning MRI or clinical research MRI and the additional scan will take approximately 15 minutes. 
+The additional MRI scan will be completed with fewer sequences than the first scan. The sequences used will be one anatomical and one functional imaging sequence (DWI). </interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To assess the reproducibility of Magnetic resonance Imaging (MRI) setup in the radiotherapy position. This will be assessed through the acquisition of 2 MRI sets of scans which will be fused and compared to determine the consistency of imaging and impact of MRI distortion, landmark positions and contours. </outcome>
+      <timepoint>At time of MRI scan</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To assess the consistency of imaging information considering the magnitude and consistency of anatomical and Diffusion Weighted Imaging (DWI) distortion. This will be assessed through the acquisition of 2 MRI sets of scans which will be fused and compared to determine the consistency of imaging and impact of MRI distortion, landmark positions and contours. </outcome>
+      <timepoint>At time of MRI scan</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>None</outcome>
+      <timepoint>None</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Aged 18 years or older
+- Patients undergoing a planning MRI for their radiotherapy treatment or research purposes for prostate, head and neck, central nervous system, rectal, lung or cervix cancer</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Patient refusal
+- Contraindication to MRI, such as pacemakers and embodied metal objects, as assessed with the MRI Safety Questionnaire
+- Patients with severe claustrophobia or who are unable to lie still
+- Inability to give informed consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>3/03/2016</actualstartdate>
+    <anticipatedenddate>30/11/2018</anticipatedenddate>
+    <actualenddate>5/04/2017</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>60</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>5/04/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <postcode>2170 - Liverpool</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Liverpool Hospital</primarysponsorname>
+    <primarysponsoraddress>1 Elizabeth St, Liverpool NSW 2170</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Liverpool Cancer Services Trust Fund</fundingname>
+      <fundingaddress>1 Elizabeth St, Liverpool NSW 2170</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>A/Prof Shalini Vinod</sponsorname>
+      <sponsoraddress>Liverpool Cancer Therapy
+Liverpool Hospital
+1 Campbell St Liverpool
+NSW 2170</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will evaluate the reproducibility of magnetic resonance imaging (MRI) setup of patients in the radiotherapy treatment position and assess how this impacts the image quality for radiotherapy planning and treatment delivery.   
+Who is it for? You may be eligible to join this study if you are aged 18 years or above and have been diagnosed with prostate, head and neck, central nervous system, rectal, cervix or lung  cancer. 
+Study details: Patients would otherwise be undergoing an MRI scan in the radiotherapy department for their cancer treatment or other research purposes. Patients will undergo a planning MRI scan in the treatment position then the patient  would then get off the MRI couch and be set-up for a second MRI scan with limited MRI sequences. 
+The main purpose of this study is to determine the consistency of positioning and the impact of MRI distortion, landmark positions and contours between scans. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Western Sydney Local Health District</ethicname>
+      <ethicaddress>Research and Ethics Office
+Locked Bag 7103
+Liverpool BC
+NSW 1871</ethicaddress>
+      <ethicapprovaldate>14/12/2015</ethicapprovaldate>
+      <hrec>HREC/15/LPOOL/555</hrec>
+      <ethicsubmitdate>23/11/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Shalini Vinod</name>
+      <address>Liverpool Cancer Therapy Centre,
+Locked Bag 7103
+Liverpool BC 
+1871 NSW</address>
+      <phone>+61 (0)2 8738 9806 </phone>
+      <fax>+61 (0)2 8738 9819</fax>
+      <email>shalini.vinod@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Shalini Vinod</name>
+      <address>Liverpool Cancer Therapy Centre,
+Locked Bag 7103
+Liverpool BC 
+1871 NSW</address>
+      <phone>+61 (0)2 8738 9806 </phone>
+      <fax>+61 (0)2 8738 9819</fax>
+      <email>shalini.vinod@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Shalini Vinod</name>
+      <address>Liverpool Cancer Therapy Centre,
+Locked Bag 7103
+Liverpool BC 
+1871 NSW</address>
+      <phone>+61 (0)2 8738 9806 </phone>
+      <fax>+61 (0)2 8738 9819</fax>
+      <email>shalini.vinod@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Mel Grand</name>
+      <address>Liverpool Cancer Therapy Centre,
+Locked Bag 7103
+Liverpool BC 
+1871 NSW</address>
+      <phone>+61 (0)2 8738 9181</phone>
+      <fax>+61 (0)2 8738 9205</fax>
+      <email>melissa.grand@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

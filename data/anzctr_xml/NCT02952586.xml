@@ -1,0 +1,559 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6525">
+  <stage>Registered</stage>
+  <submitdate>31/10/2016</submitdate>
+  <approvaldate>31/10/2016</approvaldate>
+  <nctid>NCT02952586</nctid>
+  <trial_identification>
+    <studytitle>Study To Compare Avelumab In Combination With Standard of Care Chemoradiotherapy (SoC CRT) Versus SoC CRT for Definitive Treatment In Patients With Locally Advanced Squamous Cell Carcinoma Of The Head And Neck (JAVELIN HEAD AND NECK 100)</studytitle>
+    <scientifictitle>A Randomized Double-blind Phase 3 Study Of Avelumab In Combination With Standard Of Care Chemoradiotherapy (Cisplatin Plus Definitive Radiation Therapy) Versus Standard Of Care Chemoradiotherapy In The Front-line Treatment Of Patients With Locally Advanced Squamous Cell Carcinoma Of The Head And Neck</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2016-001456-21</secondaryid>
+    <secondaryid>B9991016</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Squamous Cell Carcinoma of the Head and Neck</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Non melanoma skin cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Head and neck</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Avelumab
+Other interventions - Chemoradiation
+
+Experimental: Avelumab + SOC Chemoradiation Therapy - Avelumab 10 mg/kg IV: Day 1 of the Lead-in Phase; Days 8, 25, and 39 of the CRT Phase; and Q2W for 12 months during the Maintenance Phase
+Cisplatin 100 mg/m2 IV: Days 1, 22, and 43 of the CRT Phase
+Intensity Modulated Radiation Therapy (IMRT) 70 Gy/35 fractions/7 weeks; 1 fraction per day, 5 fractions/week for 7 weeks during the CRT Phase
+
+Placebo Comparator: Placebo + SOC CRT - Placebo IV matching avelumab: Days 1 of the Lead-in Phase; Days 8, 25, and 39 of the CRT Phase; Q2W for 12 months during the Maintenance Phase
+Cisplatin 100 mg/m2 IV: Days 1, 22, and 43 of the CRT Phase
+IMRT 70 Gy/35 fractions/7 weeks; 1 fraction per day, 5 fractions/week for 7 weeks during the CRT Phase
+
+
+Treatment: drugs: Avelumab
+Avelumab + SOC Chemoradiation
+
+Other interventions: Chemoradiation
+Cisplatin + Radiation Therapy
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression Free Survival (PFS) - PFS per modified Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS)</outcome>
+      <timepoint>Baseline up to 103 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Trough plasma concentration (Ctrough) of avelumab - Ctrough is defined as the trough plasma concentration of avelumab</outcome>
+      <timepoint>Lead-in Day 1; and Days 8 and 25 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients with positive anti-drug antibodies (ADA) and neutralizing antibodies</outcome>
+      <timepoint>Day 1 of the Lead-in Phase, and Days 8, and 25 of the CRT Phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tumor tissue biomarker status - Tumor tissue biomarkers including, but not limited to PD-L1 expression and tumor-infiltrating CD8+ T-lymphocytes.</outcome>
+      <timepoint>Lead-in Day 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum plasma concentration (Cmax) of Avelumab</outcome>
+      <timepoint>Lead-in Day 1; and Days 8 and 25 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Area under the concentration-time curve extrapolated to infinity (AUCinf) for cisplatin</outcome>
+      <timepoint>Day 1 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cmax of Cisplatin</outcome>
+      <timepoint>Day 1 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clearance (CL) of cisplatin</outcome>
+      <timepoint>Day 1 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to maximum plasma concentration (Tmax) and elimination half-life (t1/2)for cisplatin</outcome>
+      <timepoint>Day 1 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Volume of distribution (Vz) for cisplatin (total and free)</outcome>
+      <timepoint>Day 1 of CRT phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from Baseline in the EuroQoL Group 5-Dimension 5- Level Self-Report Questionnaire (EQ-5D-5L)</outcome>
+      <timepoint>Lead-in Day 1 and CRT phase Day 1 and Day 29</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in National Cancer Comprehensive Network (NCCN) Head and Neck Symptom Index-22 items (FHNSI-22)</outcome>
+      <timepoint>Lead-in Day 1 and CRT phase Day 1 and Day 29</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of pathologic complete response - In any patients with resected specimens, neck dissection.</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Locoregional tumor control - Per modified RECIST v1.1</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Distant metastatic failure - Per modified RECIST v1.1</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective Response Rate - Percentage of Participants With Objective Response - Per modified RECIST v1.1</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of response - Per modified RECIST v1.1</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The incidence of pathologically-positive neck dissection versus the incidence of pathologically-negative neck dissection</outcome>
+      <timepoint>Baseline up to 49 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histological diagnosis of squamous cell carcinoma of the oral cavity, oropharynx,
+             hypopharynx, or larynx
+
+          -  HPV negative disease, Stage III, IVa, IVb or Non oropharyngeal HPV positive disease,
+             Stage III, IVa, IVb or HPV positive oropharyngeal disease T4, N2c, or N3
+
+          -  No prior therapy for advanced stage SCCHN; eligible for definitive CRT with curative
+             intent.
+
+          -  Available tumor samples for submission or willing to undergo further tumor biopsies:
+
+          -  Age =18 years (=19 in Korea;20 years in Japan and Taiwan).
+
+          -  ECOG Performance Status (PS) 0 or 1 (Appendix 2).
+
+          -  Adequate bone marrow function
+
+          -  Adequate renal function
+
+          -  Adequate liver function
+
+          -  Pregnancy test (for patients of childbearing potential) negative at screening</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Prior immunotherapy with an anti PD 1, anti PD L1, anti PD L2, anti CD137, or anti
+             CTLA 4 antibody (including ipilimumab), or any other antibody or drug specifically
+             targeting T cell co stimulation or immune checkpoint pathways.
+
+          -  Major surgery 4 weeks prior to randomization.
+
+          -  Diagnosis of any other malignancy within 5 years prior to randomization, except for
+             superficial esophageal cancer (TIS or T1a) fully resected by endoscopy, prostate
+             cancer (Gleason score =6) either curatively treated or deemed to not require
+             treatment, ductal in situ carcinoma of the breast that has completed curative
+             treatment, adequately treated basal cell or squamous cell skin cancer, or carcinoma in
+             situ of the cervix or bladder.
+
+          -  Active autoimmune disease
+
+          -  Any of the following in the 6 months prior to randomization: myocardial infarction,
+             severe/unstable angina, coronary/peripheral artery bypass graft, symptomatic
+             congestive heart failure, cerebrovascular accident, transient ischemic attack, or
+             symptomatic pulmonary embolism.
+
+          -  Active infection requiring systemic therapy.
+
+          -  Use of immunosuppressive medication at time of randomization
+
+          -  Prior organ transplantation including allogenic stem-cell transplantation.
+
+          -  Diagnosis of prior immunodeficiency or known human immunodeficiency virus (HIV) or
+             acquired immunodeficiency syndrome (AIDS) related illness.
+
+          -  Hepatitis B virus (HBV) or hepatitis C virus (HCV) infection
+
+          -  Vaccination within 4 weeks prior to randomization.
+
+          -  Current use of or anticipated need for treatment with other anti-cancer drugs.
+
+          -  Pregnant female patients, breastfeeding female patients, and male patients able to
+             father children and female patients of childbearing potential who are unwilling or
+             unable to use 2 highly effective methods of contraception as outlined in the protocol
+             for the duration of the study and for at least 6 months after the last dose of
+             cisplatin and 60 days after the last dose of avelumab/placebo (whichever is later).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>28/11/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>640</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>18/05/2022</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>Chris O'Brien Lifehouse Medical Imaging - Camperdown</hospital>
+    <hospital>Chris O'Brien Lifehouse Radiation Oncology Department - Camperdown</hospital>
+    <hospital>Chris O'Brien Lifehouse - Camperdown</hospital>
+    <hospital>Pharmacy Department - Camperdown</hospital>
+    <hospital>Clinical Trials Pharmacy - St Leonards</hospital>
+    <hospital>Northern Sydney Cancer Centre - St Leonards</hospital>
+    <hospital>Illawarra Shoalhaven Local Health District - Wollongong</hospital>
+    <hospital>Oncology Day Care Pharmacy - Wollongong</hospital>
+    <hospital>Clinical Trials Pharmacy - Heidelberg</hospital>
+    <hospital>Olivia Newton John Cancer, Wellness and Research Centre, Austin Health - Heidelberg</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2065 - St Leonards</postcode>
+    <postcode>2500 - Wollongong</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Charleroi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Haine Saint Paul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Wilrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avingon Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes cedex 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice cedex 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice cedex 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Priest en Jarez cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tiqva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hokkaido</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Miyagi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Saitama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shizuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tochigi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Chungcheongbuk-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Jeollanam-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Ulsan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Chelyabinsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Vaud</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zurich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taoyuan City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Aberdeen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Foresterhill</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Pfizer</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a phase 3 randomized, placebo controlled study to evaluate the safety and anti-tumor
+      activity of Avelumab in combination with standard of care chemoradiation (SoC CRT) versus SoC
+      CRT alone in front-line treatment of patients with locally advanced head and neck cancer.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02952586</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address>Pfizer</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address />
+      <phone>1-800-718-1021</phone>
+      <fax />
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

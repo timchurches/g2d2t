@@ -1,0 +1,210 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="308336">
+  <stage>Registered</stage>
+  <submitdate>25/08/2009</submitdate>
+  <approvaldate>28/08/2009</approvaldate>
+  <actrnumber>ACTRN12609000749202</actrnumber>
+  <trial_identification>
+    <studytitle>Screening, feedback and treatment in overweight 4-8 year old children: the MInT study</studytitle>
+    <scientifictitle>The use of motivational interviewing for screening and feedback of weight status in overweight 4-8year old children and the effect on body mass index of a tailored family-based approach: the MInT study</scientifictitle>
+    <utrn />
+    <trialacronym>MInT</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Overweight/obesity in children</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>MInT has a two-stage study design: 1) screening and feedback and 2) treatment.
+
+1) Screening and feedback: 1500 children aged 4-8 years will attend well child health checks. Parents of children with body mass index (BMI) values less than the 85th percentile of age- and sex-specific reference norms (Center for Disease Control (CDC)) will be informed of their child's weight and will not participate further in the study. Children who are overweight (BMI greater than or equal to the 85th percentile, estimate 400) will be randomised to one of two feedback mechanisms: Business as Usual versus motivational interviewing (MI). Trained staff will interact with families to deliver the feedback in the appropriate manner. MI is a non-judgemental, empathetic style of counseling which encourages individuals (or families) to buy into changing behaviours. For those randomised to the Business as Usual feedback condition, the research nurse will discuss the results briefly with the families, using a report card which details the results. In the motivational interviewing condition, the same report card would be used but the nurse will use MI to discuss the BMI findings in a way that allows parents to explore their reactions to the information and what they might be able to do in response. Two weeks later they will be reinterviewed to assess their reactions to feedback (benefits, harm, perceived behaviour change).
+
+2) Treatment: All 400 overweight children will be invited into a two-year family-based weight management programme. They will be randomised to one of two treatment conditions: usual care versus tailored treatment. Those in the usual care condition will meet once with a nurse to receive a single 30 minute session detailing general healthy eating and physical activity advice. Those in the tailored treatment condition will meet once with an expert team to develop goals and solutions that are family-based and tailored to each individual family. Each family will then meet regularly with their mentor who will assist them with their progress (using motivational interviewing where appropriate). Frequency of contact will decrease over two years from initially weekly to three-monthly.</interventions>
+    <comparator>The control group will receive weight-related feedback in a "usual care" manner for the feedback condition. For the intervention, the control group will receive a single 30 minute session detailing general healthy eating and physical activity advice. They will then be referred back to their general practitioner (GP) for further care. Additional visits to their GP will be monitored through the study.</comparator>
+    <control>Active</control>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>BMI z-score - BMI will be calculated as weight in kilograms divided by height in metres squared. BMI will then be convered to z-scores using the age- and sex-specific CDC reference data</outcome>
+      <timepoint>Baseline, and 12 and 24 months following randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physical activity (Actigraph accelerometry)</outcome>
+      <timepoint>Baseline, and 12 and 24 months following randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Food behaviours and intake will be assessed using a modified version of the Home Food Inventory (Fulkerson et al, Int J Behav Nutr Phys Act 2008;5: 55) and the Children's Dietary Questionnaire (Int J Pediatr Obes 2009;08 April)</outcome>
+      <timepoint>Baseline, and 12 and 24 months following randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life will be assessed using the Peds QL and the Health Utilities Index</outcome>
+      <timepoint>Baseline, and 12 and 24 months following randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Psychological functioning will be assessed using the Parenting Scale, and the Strengths and Difficulties questionnaire</outcome>
+      <timepoint>Baseline, and 12 and 24 months following randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All children enrolled at local general practices or attending Paediatrics Outpatients will be invited to attend well child screening checks. Only those with BMI values greater than or equal to the 85th percentile (CDC) will be randomised to feedback and intervention conditions.</inclusivecriteria>
+    <inclusiveminage>4</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>8</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Inability to participate in a behavioural intervention.
+On any medication known to affect body composition or growth.
+Not intending to reside in Dunedin for the next two years.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes containing randomisation group - opened once consent had been obtained to participate</concealment>
+    <sequence>Randomization to feedback condition occurred using random block lengths (Stata 12.0, StataCorp, College Station, TX) after stratifying for practice</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The participants and nurses working with the families cannot be blinded to intervention condition because of the nature of the intervention. However, the researchers undertaking all annual outcome measures will be blinded to group allocation.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Our study has 90% power (P , .05) to detect differences of 0.15 BMI z score units with 73 children in each intervention group (assuming SD of 0.5 and repeated- measures correlation of 0.8). Recruiting 200 children allows for 20% dropout and a design effect of 1.15 to account for sampling of general practices rather than individuals. A mixed model, adjusting for the base- line measure will be used to analyse the data. The model will test for differences between treatments at the two time periods and the analysis will conform to the CONSORT statement for analysing randomised control trials</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2009</anticipatedstartdate>
+    <actualstartdate>15/03/2010</actualstartdate>
+    <anticipatedenddate>30/05/2011</anticipatedenddate>
+    <actualenddate>14/08/2011</actualenddate>
+    <samplesize>1500</samplesize>
+    <actualsamplesize>1093</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>Department of Medical &amp; Surgical Sciences
+University of Otago
+PO Box 913
+Dunedin 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council</fundingname>
+      <fundingaddress>Level 3, 110 Stanley Street
+Auckland, 1010</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Screening for overweight during growth means that parents should receive appropriate feedback regarding the weight status of their child and that effective treatments are widely available for those identified as overweight. This may be particularly important in younger children where parents often do not recognise that a child is overweight. Our randomised controlled trial has two parts: feedback and treatment. The aim of part one is to determine whether feedback about a child's weight status delivered using motivational interviewing can improve parental acceptance of the health risks associated with overweight and increase engagement in lifestyle changes, relative to "usual" feedback. In part two, we want to determine whether a tailored family-based package that involves frequent nurse support and limited expert involvement can improve weight and other health outcomes in 4-8 year overweight children at two years, relative to usual care.</summary>
+    <trialwebsite />
+    <publication>Taylor RW, Cox A, Brown DA et al. A tailored family-based obesity intervention: a randomized trial. Pediatrics 2015 doi: 10.1542/peds.2008-1536.
+
+Meredith-Jones K, Williams SM, Galland BC, Kennedy G, Taylor RW. 24hr accelerometry: impact of sleep-screening methods on estimates of physical activity and sedentary time. J Sports Sci 2015;21:1-7 (epub ahead of print)
+
+Taylor RW, Williams SM, Dawson AM, Haszard JJ, Brown DA. Parental motivation to change body weight in young overweight children. Pub Health Nutr 2014;7:1-8. 
+
+Meredith-Jones K, Williams SM, Taylor RW. Bioelectrical impedance as a measure of change in body composition in young children. Pediatr Obes 2014: 7 OCT 2014DOI: 10.1111/ijpo.263
+
+Dawson AM, Taylor RW, Williams SM, Taylor BJ, Brown DA. Do parents recall and understand children's weight status information after BMI screening? BMJ Open 2014;4:e004481.
+
+Dawson AM, Brown DA, Cox A, Williams SM, Treacy L, Haszard JJ, et al Taylor RW. Using motivational interviewing for weight feedback to parents of young children. Journal of Paediatrics and Child Health 2014;1st online 12 March 2014. DOI: 10.1111/jpc.12518.
+
+Taylor RW, Williams SM, Dawson AM, Taylor BJ, Meredith-Jones K, Brown DA. What factors influence uptake into family-based obesity treatment after weight screening? Journal of Paediatrics 2013; 163(6):1657-1662
+
+Haszard JJ, Williams SM, Dawson AM, Skidmore PML, Taylor RW. Factor analysis of the comprehensive feeding practices questionnaire in a large sample of children. Appetite 2013;62:110-8
+
+Taylor RW et al. Wanting to and doing so: parental intent to change weight does not translate into behaviour. J Child Adol Behav 2015;3:1
+
+Taylor et al. Motivational interviewing for screening and feedback and encouraging lifestyle changes to reduce relative weight in 4-8 year old children: design of the MInT study. BMC Public Health 2010;10:271</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Lower South Regional Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+229 Moray Place
+Dunedin 9016</ethicaddress>
+      <ethicapprovaldate>22/10/2009</ethicapprovaldate>
+      <hrec>LRS/09/09/039</hrec>
+      <ethicsubmitdate>1/09/2009</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Rachael Taylor</name>
+      <address>Department of Medicine, University of Otago, PO Box 56, Dunedin 9054, New Zealand</address>
+      <phone>+64 3 479 0999 extn 8507</phone>
+      <fax />
+      <email>rachael.taylor@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Rachael Taylor</name>
+      <address>Department of Medicine, University of Otago, PO Box 56, Dunedin 9054, New Zealand</address>
+      <phone>+64 3 4795262</phone>
+      <fax />
+      <email>rachael.taylor@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Rachael Taylor</name>
+      <address>Department of Medicine, University of Otago, PO Box 56, Dunedin 9054, New Zealand</address>
+      <phone>+64 3 479 0999 extn 8507</phone>
+      <fax />
+      <email>rachael.taylor@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

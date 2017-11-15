@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371248">
+  <stage>Registered</stage>
+  <submitdate>12/08/2016</submitdate>
+  <approvaldate>2/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001217493</actrnumber>
+  <trial_identification>
+    <studytitle>Integrated e-Screening for Postnatal Depression and Anxiety</studytitle>
+    <scientifictitle>Integrated e-Screening for Postnatal Depression and Anxiety- feasibility and effectiveness</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Postnatal depression</healthcondition>
+    <healthcondition>Postnatal anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Childbirth and postnatal care</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>e-Screening.  Maternal and child health nurses (MCHNs) in this condition will use an e-screening system ("iCOPE") as part of each woman's emotional health assessment during her 4-week Key Ages and Stages (KAS) visit at the maternal and child health centre. iCOPE is a tablet-based electronic screening system for carrying out perinatal depression screening and providing clinical decision support to health professionals. It includes the Whooley questions, Edinburgh Postnatal Depression Scale (EPDS) and psychosocial questions following the beyondblue Clinical Practice Guidelines for Depression and Related Disorders in the Perinatal Period. The woman answers the questions on the tablet herself (approximately 5 minutes).  iCOPE automatically scores the EPDS and the other psychosocal information is collated. The MCHN is then provided with reports offering guidance, support and prompts for best-practice management tailored to each individual woman's data.  Adherence to the intervention will be monitored using a Logbook specifically developed for this study on which information is recorded about the number of potential participants, number who agree to participate in the study, and number screened using the e-screening system.  This data will be compared with completed consent forms, data from the e-screening system and service level data to monitor adherence.</interventions>
+    <comparator>Standard care. Maternal and child health nurses (MCHNs) in this condition will continue to follow their usual practice when completing each woman's emotional health assessment during her 4-week Key Ages and Stages (KAS) visit at the maternal and child health centre.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Depression screening acceptability measured by a questionnaire developed specifically for this study</outcome>
+      <timepoint>4-week KAS visit</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Uptake: Proportion of participants receiving a depression screening assessment at the 4-week KAS visit</outcome>
+      <timepoint>4-week KAS visit</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Depression symptoms as measured by the Depression, Anxiety and Stress Scales (DASS-21)</outcome>
+      <timepoint>3-months post-birth</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Depressive Disorder measured by the Structured Clinical Interview for the DSM-5</outcome>
+      <timepoint>3-months post-birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Referral rates and types of services referred to measured by a questionnaire developed for this project</outcome>
+      <timepoint>4-week KAS visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Staff time and costs (composite outcome) measured by a questionnaire developed for this project</outcome>
+      <timepoint>4-week KAS visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ease of implementation and integration into existing clinical systems measured by a questionnaire developed for this project and thematic analysis of qualitative data from focus group transcripts</outcome>
+      <timepoint>Post-recruitment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Anxiety symptoms as measured by the Depression, Anxiety and Stress Scales (DASS-21) 
+is also a primary outcome.</outcome>
+      <timepoint>3-months post-birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stress symptoms as measured by the Depression, Anxiety and Stress Scales (DASS-21) 
+is also a primary outcome.</outcome>
+      <timepoint>3-months post-birth</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Ability to understand spoken and written language
+Baby aged 4-6 weeks</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>nil</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is concealed from researchers and maternal and child health nurses.  Sealed opaque envelopes are used to allocate maternal and child health nurses to the two conditions.</concealment>
+    <sequence>A permuted blocks, computer generated random sequence. The schedule is stratified by municipality and years of experience as a perinatal nurse.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Frequency data will be assessed by Chi square.  Parameter estimates will be given with 95% Confidence Intervals (CIs).  Logistic regression models will be fitted to data and regression coefficients expressed in terms of Odds Ratios.  For continuous outcome variables, between-group comparisons will be made by fitting generalised estimating equations (GEEs) that account for the clustering of data. In addition, some outcomes are qualitative and descriptive and these will be analysed and presented using standard conventions.
+With 80% power at a = 0.05, taking into account a conservative estimate of the intra-cluster correlation (0.1) with a cluster size of 15 women per nurse, the power achieved with n = 600 is sufficient to detect small-to-medium effect sizes in the outcome measures, for example, correlations (e.g., between depression score and an acceptability scale), differences in frequencies of dichotomous variables (e.g. Diagnostic status), and mean between-group differences on continuous outcomes (e.g. symptom severity).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>29/07/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>600</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>68</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Parent-Infant Research Institute</primarysponsorname>
+    <primarysponsoraddress>Level 1, South Wing, Centaur Building
+Heidelberg Repatriation Hospital
+300 Waterdale Rd
+Heidelberg Heights VIC 3081</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Collier Charitable Fund</fundingname>
+      <fundingaddress>Level 31, 570 Bourke St, Melbourne VIC 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>One in seven women will experience depression or anxiety after the birth of their baby; however 60% of cases will go undetected. The identification of postnatal depression (PND) or anxiety is not part of the routine care provided by health care systems, meaning that only 10% of women experiencing these difficulties will receive treatment.  This is mainly due to not screening for, and identifying, postnatal depression or anxiety. Although methods to identify PND exist, they are inconsistently carried out, and are prone to error as primary care professionals lack time as well as a clear system when making decisions on how to manage depression.
+
+We have co-developed a tablet-based application (e-screening tool) to screen for postnatal depression and to conduct a broad assessment of a womans well-being. This tool will help health professionals to identify postnatal depression and/or anxiety easily, accurately and consistently and provide best-practice guidance tailored to womens responses. 
+
+To determine whether our e-screening tool will be useful for health professionals in identifying PND, we will compare it to the existing method of screening and identification that is currently used by health professionals. The success of the new system will be measured by its capacity to deliver real improvements to the healthcare system. The new e-screening tool aims to be quicker, more accurate, involve less staff time and resources, be used more frequently, and lead to improvements in treatment and recovery rates for depressed women. Ultimately, this trial could lead to a cost-effective and sustainable new system.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office for Research
+Level 8 HSB
+Austin Health
+Studley Rd, Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>19/04/2016</ethicapprovaldate>
+      <hrec>HREC/15/Austin/273</hrec>
+      <ethicsubmitdate>25/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Jeannette Milgrom</name>
+      <address>Parent-Infant Research Institute
+Level 1, South Wing, Centaur Building
+Heidelberg Repatriation Hospital
+300 Waterdale Rd
+Heidelberg Heights VIC 3081</address>
+      <phone>+61 3 9496 4009</phone>
+      <fax />
+      <email>jeannette.milgrom@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Charlene Holt</name>
+      <address>Parent-Infant Research Institute
+Level 1, South Wing, Centaur Building
+Heidelberg Repatriation Hospital
+300 Waterdale Rd
+Heidelberg Heights VIC 3081</address>
+      <phone>+61 3 9496 4496</phone>
+      <fax />
+      <email>charlene.holt@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Alan Gemmill</name>
+      <address>Parent-Infant Research Institute
+Level 1, South Wing, Centaur Building
+Heidelberg Repatriation Hospital
+300 Waterdale Rd
+Heidelberg Heights VIC 3081</address>
+      <phone>+61 3 9496 4496</phone>
+      <fax />
+      <email>alan.gemmill@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

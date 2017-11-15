@@ -1,0 +1,270 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372010">
+  <stage>Registered</stage>
+  <submitdate>13/01/2017</submitdate>
+  <approvaldate>19/01/2017</approvaldate>
+  <actrnumber>ACTRN12617000107325</actrnumber>
+  <trial_identification>
+    <studytitle>MoOVi-therapy: Using illusory virtual reality exercises to treat neck pain</studytitle>
+    <scientifictitle>MoOVi-therapy: Using illusory virtual reality exercises to treat neck pain</scientifictitle>
+    <utrn>U1111-1190-8259</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Neck pain</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This study consists of four phases - 1. Baseline phase (pain intensity and movement-evoked pain threshold measurements are collected but no intervention is performed), 2. Control phase (pain intensity and movement-evoked pain threshold measurements are collected AND exercises are performed in virtual reality but WITHOUT the illusion applied, 3. the Intervention phase (pain intensity and movement-evoked pain threshold measurements are performed AND exercises are performed in virtual reality WITH the MoOVi illusion applied, and 4. Follow-up phase (pain intensity and movement-evoked pain threshold measurements are collected but no intervention is performed). Since the power of the statistical approach to analysing multiple baseline designs depends on randomisation of phase start-points/durations (and the number of points available for randomisation), the length of each phase will be randomised for each participant within set duration parameters. These are duration parameters are: Baseline phase (5-14days), Control phase (5-14days), Intervention phase (21-28days), Follow-up phase (5-14 days). In addition the start time (morning or afternoon) is also randomised. These phase durations/start points are determined a-priori and randomly allocated among participants.
+
+Experimental Intervention: Head rotation exercises will be performed in virtual reality with a progressive visual illusion that increasingly suggests their pain-free movement is increasing towards a more normal, pain-free range. 
+
+Location: Initial assessment and instruction will be given at Recover Injury Research Centre by a physiotherapist. Subsequent measurement and exercise is conducted independently by the participant in their own home.
+
+Equipment: The treatment will be delivered using a Samsung Gear VR headset, and a Samsung Galaxy s7 smartphone as the installed display. The VR application running the virtual reality is the custom build MoOVi therapy application.
+
+Procedure:	
+1. Participant applies the virtual reality headset.
+2. Participant follows the on-screen instructions to turn to the first onset of pain in each direction to measure movement-evoked pain threshold. 
+3. The head mounted display then instructs the patient to move following a tracer inside the virtual world. The tracer will control movement to within real-world pain-free range of motion while gradually increasing the range of virtual movement (through progressively exaggerated visual feedback). Movements will include 2 sets of 10 repetitions of head rotation repeated twice per day (=40 repetitions per day). 
+4. In-between sets, and at the end of the session participants again follow the on-screen instructions to turn to the first onset of pain in each direction to measure movement-evoked pain threshold. 
+
+During a 1 x 1 hour session at the beginning of the study, a physiotherapists will teach the participant the exercise regime in person. Once taught, the participant will execute the regime independently. 
+
+Adherence is assessed by a digital log that records all exercise session. This also aids to enhance adherence since participants are aware that sessions are recorded. </interventions>
+    <comparator>The control treatment will precisely mimic the experimental intervention, except that the virtual reality will not exaggerate the performed movements. 
+
+Procedure:	
+1. Participant applies the virtual reality headset.
+2. Participant follows the on-screen instructions to turn to the first onset of pain in each direction to measure movement-evoked pain threshold. 
+3. The head mounted display then instructs the patient to move following a tracer inside the virtual world. The tracer will control movement to within real-world pain-free range of motion and virtual movement will not progressively exaggerate visual feedback. Movements will include 2 sets of 10 repetitions of head rotation repeated twice per day (=40 repetitions per day). 
+4. In-between sets, and at the end of the session participants again follow the on-screen instructions to turn to the first onset of pain in each direction to measure movement-evoked pain threshold.
+
+Duration: As noted, the control treatment will be randomised between 5-14 days duration.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Movement-evoked pain threshold.
+
+This is assessed using the sensors onboard the Samsung gear VR headset and Galaxy smartphone. On-screen instructions ask the participant to rotate left to the first onset of pain, press a button on the side of the VR headset, and return to centre. This is repeated to the right and then the range of motion for each rotation pain threshold is recorded digitally in a log including a time and date stamp. This is repeated three times at each session, including before and after each set of 10 movements in the control and treatment phases..</outcome>
+      <timepoint>Movement-evoked pain threshold will be measured twice daily through baseline, placebo, intervention, and follow-up phases. That is, from the commencement of the study, movement evoked-pain threshold is measured twice every single day.
+
+Since we are using a multiple-baseline replicated single case series, the statistical analyses compare trends within the treatment phase relative to control phases. </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Pain intensity
+
+Pain intensity is rated using a 0-10 visual analogue scale, and recorded in the symptom diary. The scale includes the anchors 0 = no pain and 10 = the worst imaginable pain. 
+
+Ratings for 'worst' and 'average pain' for the day so far, as well as 'pre-' and 'post-exercise session' ratings are recorded.</outcome>
+      <timepoint>Pain intensity will be measured twice daily through baseline, placebo, intervention, and follow-up phases. That is, from the commencement of the study, movement evoked-pain threshold is measured twice every single day.
+
+Since we are using a multiple-baseline replicated single case series, the statistical analyses compare trends within the treatment phase relative to control phases. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neck Disability Index
+</outcome>
+      <timepoint>NDI will be measured daily through baseline, placebo, intervention, and follow-up phases. That is, from the commencement of the study, movement evoked-pain threshold is measured twice every single day.
+
+Since we are using a multiple-baseline replicated single case series, the statistical analyses compare trends within the treatment phase relative to control phases. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>The presence of neck pain longer than 3-month.
+The presence of pain with head rotation.
+The presence of moderate to severe neck pain, as defined by a &gt;3/10 'average pain over the previous week'. 
+Traumatic (including whiplash associated disorder) and idiopathic cases may be included provided other inclusion criteria are met.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Individuals with known or suspected spinal pathology (e.g. metastatic disease of the spine);
+confirmed fracture or dislocation at time of injury (whiplash grade IV); concussion or head injury as a result of motor vehicle accident, lack of fluency in spoken and written English insufficient for informed consent and questionnaire completion; Children and/or young people (ie. &lt;18 years); People with an intellectual or mental impairment; People in existing dependent or unequal relationships with any member of the research team, the researcher(s), and/or the person undertaking the recruitment/consent process; Women
+who are pregnant; People who's symptoms are unreasonably exacerbated by movement; People with epilepsy; Neurological deficit.
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment>Other</assignment>
+    <designfeatures>Multiple baseline replicated single case series design.
+
+All subjects will undergo phases: Baseline - Control Intervention - Experimental Intervention - Post-treatment</designfeatures>
+    <endpoint />
+    <statisticalmethods>The data of the randomized multiple-baseline design will be analyzed with a randomization test specifically designed for randomized multiple-baseline designs (e.g., Bulté &amp; Onghena, 2009). The sample size needed to achieve a power of at least 80% in the test using a 5% significance level was calculated through a simulation study. For an estimate of the expected treatment effect of the MoOVI-therapy in the power analysis we used the effect size estimate of 1.06 for a graded motor imagery treatment reported by Bowering et al. (2012).
+ 
+In the simulation study we generated the data patterns of individual cases using a first order autoregressive (AR1) model with a positive autocorrelation of 0.3. The use of this model seemed feasible as it has been shown that this level of autocorrelation is usually present in data from multiple-baseline designs (Shadish &amp; Sullivan, 2011).
+ 
+References:
+ 
+Bowering, K. J., OConnell, N. E., Tabor, A., Catley, M. J., Leake, H. B., Moseley, G. L., &amp; Stanton, T. R. (2013). The Effects of Graded Motor Imagery and Its Components on Chronic Pain: A Systematic Review and Meta-Analysis. The Journal of Pain, 14(1), 313. doi:10.1016/j.jpain.2012.09.007
+Bulté, I., &amp; Onghena, P. (2009). Randomization tests for multiple-baseline designs: an extension of the SCRT-R package. Behavior Research Methods, 41(2), 477485. doi:10.3758/BRM.41.2.477
+Shadish, W. R., &amp; Sullivan, K. J. (2011). Characteristics of single-case designs used to assess intervention effects in 2008. Behavior Research Methods, 43(4), 971980. doi:10.3758/s13428-011-0111-y</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>23/01/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/05/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/07/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <postcode>4222 - Griffith University</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Recover Injury Research Centre, Griffith University</primarysponsorname>
+    <primarysponsoraddress>Recover Injury Research Centre
+Griffith University
+Gold Coast Campus
+Parklands Dr
+Southport, QLD 4222</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Griffith University</fundingname>
+      <fundingaddress>Griffith University
+Gold Coast Campus
+Parklands Dr, QLD
+Southport 4222</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Sansom Institute for Health Research, University of South Australia</sponsorname>
+      <sponsoraddress>North Tce
+Adelaide, SA 5000</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>Physiotherapy Research Foundation</sponsorname>
+      <sponsoraddress>Level 1, 
+1175 Toorak Road, 
+Camberwell VIC 3124</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Illusory movement as therapy: Background and plausible mechanisms.
+
+To date, persistent pain treatments targeting suspected tissue pathology have shown to have very limited or no ongoing benefit (see e.g. van Tulder et al., 2006a; van Tulder et al., 2006b).  The quest for better treatments has seen attention shifted to include central mechanisms (Wand et al. 2011; Moseley &amp; Flor 2012). While cognitive and behavioural approaches targeting thoughts, beliefs and behaviors undoubtedly have potential to alter neural processes associated with pain, considering brain-based approaches from a perceptual and brain science perspective will likely lead to a range of different treatment avenues. Recent perspectives highlight several pathways by which perception-altering associative learning processes might lead to chronic pain (Moseley &amp; Vlaeyen 2015; Tabor et al. in publication; Zaman et al. 2015). Further, recent reviews have highlighted a potential role for multisensory illusions in developing future treatment opportunities (Senkowski and Heinz 2016; Moseley &amp; Flor 2014; Boesch et al. 2016). It follows that similar mechanisms applied differently might reverse some of these processes.
+
+The view of chronic pain employed here, is one where pain persists because the affected body part(s) in someway continue to be represented in the brain as being under threat and requiring certain protectionsperhaps because the injurious event-related encoding persists (Moseley &amp; Vlaeyen 2015). One way to consider altering this bodily threat-related neural encoding is to disconfirm implicit expectations of pain, such as those during associated with movements. This requires an experience that is normally painful to be experienced without pain. Such violations of expectation are known to be powerful drivers of learning (Rescorla &amp; Wagner, 1972), and are thought to alter prior implicit expectancies that may drive the resulting pain responses (Tabor et al. in press). 
+
+Under normal clinical conditions, creating pain-free or non-threatening movement experiences, through which to extinguish implicit expectations of pain, can be difficult. The MoOVi illusion presents an opportunity for users to experience ranges of pain-free movement that exceed the expected range of pain-free movement. Doing so may assist to reinstate a less threatened bodily representation. This is conceptually similar, not only to mirror therapy, but to Graded Motor Imagery (GMI)  which targets progressive activation of motor processes without triggering unwanted protective responses (Moseley 2004; Moseley 2006). Indeed the final phase of three in graded motor imagery is illusory movement with mirror therapy, which has preliminary evidence of benefit for arm pain (Bowering et al. 2013).
+
+The purpose of this study is to determine whether pain-free illusory movement can reduce pain. We hypothesise that illusory movement exercises will reduce pain greater than movement alone.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Griffith University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Nathan campus
+Room 0.10D, The Bray Centre (N54)
+Griffith University
+170 Kessels Road, Nathan QLD 4111</ethicaddress>
+      <ethicapprovaldate>27/05/2016</ethicapprovaldate>
+      <hrec>GU Ref No: 2016/378</hrec>
+      <ethicsubmitdate>25/03/2016</ethicsubmitdate>
+      <ethiccountry />
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Simon Harvie</name>
+      <address>Griffith University 
+Gold Coast Campus
+G05_3.20
+Parklands Dr,
+Southport, QLD 4222</address>
+      <phone>+61418826254</phone>
+      <fax />
+      <email>d.harvie@griffith.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Harvie</name>
+      <address>Griffith University 
+Gold Coast Campus
+G05_3.20
+Parklands Dr,
+Southport, QLD 4222</address>
+      <phone>+61418826254</phone>
+      <fax />
+      <email>d.harvie@griffith.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Harvie</name>
+      <address>Griffith University 
+Gold Coast Campus
+G05_3.20
+Parklands Dr,
+Southport, QLD 4222</address>
+      <phone>+61418826254</phone>
+      <fax />
+      <email>d.harvie@griffith.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel Harvie</name>
+      <address>Griffith University 
+Gold Coast Campus
+G05_3.20
+Southport, QLD 4222</address>
+      <phone>+61418826254</phone>
+      <fax />
+      <email>d.harvie@griffith.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

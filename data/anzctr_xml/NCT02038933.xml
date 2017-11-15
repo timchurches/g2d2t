@@ -1,0 +1,346 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4321">
+  <stage>Registered</stage>
+  <submitdate>15/01/2014</submitdate>
+  <approvaldate>15/01/2014</approvaldate>
+  <nctid>NCT02038933</nctid>
+  <trial_identification>
+    <studytitle>Study of Nivolumab in Patients With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL) That Have Either Failed or Are Not Eligible for Autologous Stem Cell Transplant (CheckMate 139)</studytitle>
+    <scientifictitle>A Single-Arm, Open-Label, Phase 2 Study of Nivolumab (BMS-936558) in Subjects With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL) After Failure of Autologous Stem Cell Transplant (ASCT) or After Failure of At Least Two Prior Multi-Agent Chemotherapy Regimens in Subjects Who Are Not Candidates for ASCT</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2013-003621-28</secondaryid>
+    <secondaryid>CA209-139</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lymphoma. Non-Hodgkin</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Nivolumab
+
+Experimental: Nivolumab (3 mg/kg) - Nivolumab 3 mg/kg solution intravenously every 2 weeks until progression or unacceptable toxicity
+
+
+Treatment: drugs: Nivolumab
+
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Objective Response Rate (ORR) Per Independent Radiologic Review Committee (IRRC) Assessment - ORR is defined as the number of subjects with a Best Overall Response (BOR) of Complete Remission (CR) or Partial Remission (PR), according to the 2007 revised International Working Group (IWG) Criteria for Malignant Lymphoma, , based on IRRC assessment, divided by the number of treated subjects. CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; Stable Disease (SD)= Failure to attain CR/PR or PD; Progressive Disease (PD)= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From first dose until date of documented disease progression or subsequent therapy, whichever occurs first (assessed up to April 2016, approximately 25 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DOR) - DOR is defined as the time from first response (CR or PR) to the date of initial objectively documented progression as determined using the 2007 revised IWG Criteria for Malignant Lymphoma, based on IRRC assessment, or death due to any cause, whichever occurs first. CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; SD= Failure to attain CR/PR or PD; PD= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From date of first response to the date of documented disease progression or death, whichever occurs first (assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Complete Remission Rate - Complete Remission Rate is defined as the number of subjects with a BOR of CR according to the 2007 revised IWG Criteria for Malignant Lymphoma, based on IRRC assessment, divided by the number of treated subjects. CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; SD= Failure to attain CR/PR or PD; PD= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From date of first dose to date of documented CR</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Complete Remission - The duration of CR is defined as the time from first documentation of CR (the date of first negative FDG-PET scan or the date of first documentation of no disease involvement in the bone marrow [if required], whichever occurs later) to the date of initial objectively documented progression as determined using the 2007 IWG criteria, based on IRRC assessment, or death due to any cause, whichever occurs first.
+CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; Stable Disease (SD)= Failure to attain CR/PR or PD; Progressive Disease (PD)= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From time of first documentation of CR to the date of initial documented disease progression or death due to any cause, whichever occurs first (Assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of Partial Remission - PR rate is defined as the number of subjects with a BOR of PR according to the 2007 revised IWG Criteria for Malignant Lymphoma, based on IRRC assessment, divided by the number of treated subjects.
+CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; Stable Disease (SD)= Failure to attain CR/PR or PD; Progressive Disease (PD)= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From date of first dose to date of documentation of PR (assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Partial Remission - Duration of PR is defined as the time from first documentation of PR to the date of initial objectively documented progression as determined using the 2007 IWG criteria, based on IRRC assessment, or death due to any cause, whichever occurs first.
+CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; Stable Disease (SD)= Failure to attain CR/PR or PD; Progressive Disease (PD)= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From date of first documentation of PR to date of disease progression or death due to any cause, whichever occurs first (assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival - PFS is defined as the time from first dosing date to the date of the first documented progression, as determined by an IRRC according to the 2007 revised IWG Criteria for Malignant Lymphoma, or death due to any cause, whichever occurs first.</outcome>
+      <timepoint>From date of first dose to date of documented disease progression or death due to any cause, whichever occurs first (assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective Response Rate (ORR) Per Investigator Assessment - ORR is defined as the number of subjects with a BOR of CR or PR, according to investigator assessment, divided by the number of treated subjects.
+CR= Disappearance of all evidence of disease, confirmed by PET scan; PR= Regression of measureable disease and no new sites; Stable Disease (SD)= Failure to attain CR/PR or PD; Progressive Disease (PD)= Any new lesion or increase by &gt;=50% of previously involved sites from nadir.</outcome>
+      <timepoint>From first dose until date of documented disease progression or subsequent therapy, whichever occurs first (assessed up to April 2016, approximately 25 months)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>For more information regarding BMS clinical trial participation, please visit
+        www.BMSStudyConnect.com
+
+        
+
+          -  Confirmation of relapsed or refractory DLBCL or transformed lymphoma (TL)
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 -1
+
+          -  At least one lesion that measures &gt;1.5 cm
+
+          -  Prior therapy and screening lab criteria must be met
+
+          -  Appropriate contraceptive measures must be taken</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Known central nervous system (CNS) lymphoma
+
+          -  History of interstitial lung disease, prior malignancy, active autoimmune disease,
+             positive test for hepatitis B or hepatitis C virus
+
+          -  Prior allogeneic stem cell transplant (SCT), chest radiation = 24 weeks from study
+             drug, =1000 mg of Carmustine Bis-chloroethylnitrosourea (BCNU) as part of
+             pre-transplant conditioning regimen, prior treatment with drug targeting T-cell
+             costimulation or immune checkpoint pathways
+
+          -  Women who are breastfeeding or pregnant</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>10/02/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>161</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>2/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,SA,VIC</recruitmentstate>
+    <hospital>Local Institution - Waratah</hospital>
+    <hospital>Local Institution - Woodville</hospital>
+    <hospital>Local Institution - Heidelberg</hospital>
+    <postcode>NSW 2298 - Waratah</postcode>
+    <postcode>5011 - Woodville</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>B-leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre Benite Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rennes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Homburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bergamo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Utrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Hospitalet Llobregat- Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Gothenberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Surrey</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Bristol-Myers Squibb</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to determine whether Nivolumab is effective in the treatment of
+      DLBCL in patients that have failed or are ineligible for ASCT</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02038933</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Bristol-Myers Squibb</name>
+      <address>Bristol-Myers Squibb</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

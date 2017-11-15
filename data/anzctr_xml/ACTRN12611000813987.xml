@@ -1,0 +1,230 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343284">
+  <stage>Registered</stage>
+  <submitdate>1/08/2011</submitdate>
+  <approvaldate>3/08/2011</approvaldate>
+  <actrnumber>ACTRN12611000813987</actrnumber>
+  <trial_identification>
+    <studytitle>A cluster randomized controlled trial to evaluate a disease and care-management intervention for cardiovascular prevention in primary care: The Raffaello Project.</studytitle>
+    <scientifictitle>Effectiveness of a disease and care-management intervention in primary care versus usual care in controlling cardiovascular risk factors in subjects at increased cardiovascular risk</scientifictitle>
+    <utrn>nil</utrn>
+    <trialacronym>Raffaello project</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>cardiovascular disease primary and secondary prevention</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The overall duration of  interventions is 12 months.
+In Arm 1: The disease and care-management intervention evaluated is the Care Management Team (General Practitioner, Nurse as Care Manager, Patient and any Specialist needed) with the mission to define and apply tailored care plans for patients based on international guidelines on cardiovascular disease prevention. 
+The intervention develops in 6 main steps:
+1. Patient assessment. The GP assess patient health status and his/her cardiovascular risk.
+2. Health goals definition. The GP sets health goals on the basis of evidence-based clinical recommendations.
+3. Tailored health plan development. The GP and the CM elaborate a patient tailored health plan integrating clinical and care treatment goals, patient preferences and priorities and implementation strategies.   
+4. Patient education and support. The Care Manager deliver ongoing patient coaching,  providing patients with information, motivation and support. Counselling occurs through recurrent telephone contacts and face-to-face meetings at the GP group practices.
+5. Health plan implementation and results monitoring. The Care Manager  manages counselling sessions, follow up visits, laboratory examinations, at frequency of patient recall established by health plan. 
+6. Periodic revision of healthcare plan. The Care Manager, in the light of the monitoring results, could adjust strategies  and goals in agreement with the GP and the patient if necessary. 
+Clinical decisional algorithms, based on international guidelines of cardiovascular disease prevention were used to guide Care Manager practice: the frequency of follow-up and laboratory examinations,  when to refer to GP for drugs dosage adjustment/change or when to refer to specialists.
+
+In Arm 2: Control practices provided usual care.</interventions>
+    <comparator>Arm 2: usual care. 
+The six clusters randomized at usual care continue to perform the routine practice with the only difference that, before the beginning of the trial, GPs participated to an educational event about the clinical recommendations on cardiovascular prevention as the GPs in the intervention arm.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The proportion of patients reaching target level recommended by the international guidelines at least for one of the cardiovascular risk factors present at enrolment without  worsening and/or developing any other risk factor.
+Recommended Targets
+Hypertension: BP &lt; 140/90 or &lt;130/80 if previous CHD event, diabetes mellitus o renal disease.
+Diabetes Mellitus: HbA1c &lt; 7%.
+Hypercholesterolemia: LDL-C&lt;100 mg/dL if previous CHD event and/or diabetes or LDL-C&lt;130 mg/dL if no previous CHD event and no diabetes and &gt;1 CHD risk factors or LDL-C&lt;160 mg/dL if no previous CHD event and no diabetes and 1 CHD risk factor.
+Obesity: BMI &lt; 30</outcome>
+      <timepoint>at 12 month of follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>the proportion of patients achieving recommended target for single risk factors: hypertension, diabetes mellitus, hypercholesterolemia, smoking and obesity.
+Recommended Targets
+Hypertension: BP &lt; 140/90 or &lt;130/80 if previous CHD event, diabetes mellitus o renal disease.
+Diabetes Mellitus: HbA1c &lt; 7%.
+Hypercholesterolemia: LDL-C&lt;100 mg/dL if previous CHD event and/or diabetes or LDL-C&lt;130 mg/dL if no previous CHD event and no diabetes and &gt;1 CHD risk factors or LDL-C&lt;160 mg/dL if no previous CHD event and no diabetes and 1 CHD risk factor.
+Obesity: BMI &lt; 30</outcome>
+      <timepoint>at 12 month of follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the proportion of patient changing the class of risk of fatal cardiovascular event using SCORE (Systematic COronary Risk Evaluation) risk estimation system of the European Society of Cardiology (ESC)</outcome>
+      <timepoint>at 12 month of follow-up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with at least one of the following cardiovascular risk factors were considered eligible for the project:   
+Arterial blood pressure: &gt;=140/90 mmHg 
+Dyslipidemia: LDL &gt;=160 mg/dL for primary prevention and LDL &gt;=100 mg/dL for secondary prevention
+Diabetes mellitus: Hb1AC &gt;=7%
+Obesity: BMI  &gt;=30  
+Smoking status (at least one cigarette/day)</inclusivecriteria>
+    <inclusiveminage>35</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients did not provide informed consent or presented with one of the following condition were excluded from the trial:
+Mental illness
+Institutionalization in a nursing home
+Pregnant status</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Clusters, the units of randomization, are represented by physicians’ association in group practices we called, for study purpose, Primary Care Groups (PCGs). Clusters randomization was performed at central level before subjects enrolment (see next section).
+
+Patients enrolment in the clusters.
+
+There was one physician, called Recruiter/Assessor, assigned for each Primary Care Group to enrol subjects in the trial. All the Recruiter/Assessor physicians were unaware to which type of cluster they were assigned, if intervention or control cluster. 
+Before starting the trial, from the electronic databases of each of the Primary Care Groups recruited was extracted a screening list, composed by patients presented with at least one of the following risk factors at their last clinical visit: fasting blood glucose =&gt;126 mg/dl or post-prandial blood glucose = &gt;200 mg/dl or Hb1Ac =&gt; 7%; LDL &gt; 160 mg/dl; Blood Pressure &gt; 140/90; Smoking (&gt;=1 cigarette/day); BMI &gt; 30. The lists were given to the GPs involved in the trial so that, during the enrolment phase, all consecutive patients whose names were on the screening lists and who presented to their doctor for a visit were referred by their GP to a physician, we called the Recruiter/Assessor, specifically trained to verify the eligibility criteria for inclusion in the trial. There was one Recruiter/Assessor for each PCG during the entire enrolment period and all these physicians were blinded with respect to the intervention or control arm of the trial they were assigned.</concealment>
+    <sequence>Cluster selection and randomization.
+A randomized and stratified sampling technique was used to recruit Primary Care Groups (PCGs) located in the Health Authorities of Marche and Abruzzo Regions that accepted to participate to the trial 
+The first step was the selection of six Health District, one for each of the 6 Health Authorities that agreed to participate to the trial. To do so, we first stratified the Health Districts for the degree of urbanization (to select a mix of districts representative of all the districts throughout Italy) and then an independent assistant, not involved in the trial, randomly drew six Health District, in the form of opaque envelopes containing  the ID number, previously assigned, corresponding to a specific District. 
+The second step was the selection of two PCGs for each Health District. All the PCGs present in each District were eligible for the study if they were composed by minimum 3 – maximum 10 GPs partners sharing offices, equipment, and functional work organization. An independent assistant, not involved in the trial, randomly drew two opaque envelopes containing the ID numbers, previously assigned, corresponding to PCGs per selected District. 
+The third step was to randomly assign, for each Health District, one PCG to the intervention group and the other to the control group. This selection technique was intended to maintain an homogeneous distribution of the organizational features peculiar to each Health District in the experimental and the control group.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The study design used is the cluster randomized trial . The choice of cluster randomization arises both from the type of intervention to assess, an health care organization change in primary care, and to avoid contamination when individuals within the same setting are managed with competing interventions.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>25/03/2008</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>900</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Marche</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Abruzzo</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Marche Regional Healthcare Agency</primarysponsorname>
+    <primarysponsoraddress>Via Gentile da Fabriano 3
+60125 Ancona</primarysponsoraddress>
+    <primarysponsorcountry>Italy</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>General Directorate of Scientific and Technologic Research, Department of innovation, Ministry of Health, Italy</fundingname>
+      <fundingaddress>Viale Giorgio Ribotta, 5 - 
+00144 Rome</fundingaddress>
+      <fundingcountry>Italy</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Pfizer Italia Srl</fundingname>
+      <fundingaddress>Via Valbondione 113 
+00188 Rome</fundingaddress>
+      <fundingcountry>Italy</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Project Raffaello is a Research Project  to evaluate the efficacy of an innovative model of healthcare management in prevention of cardiovascular diseases. The intervention evaluated is the Care Management Team (General Practitioner, Nurse as Care Manager, Patient and any Specialist needed) with the mission to define and apply patient personalized health plan based on international guidelines on CVD prevention. Patients participating in the program received (a) on-going, one-on-one health  and motivational coaching sessions; (b) customized,  personalized, patient focused care plans; (c) education materials, and (d) service coordination between providers.</summary>
+    <trialwebsite />
+    <publication>Alberto Deales, Massimo Magi. PROJECT RAFFAELLO: EFFICACY OF DISEASE AND CARE MANAGEMENT IN CARDIOVASCULAR DISEASE PREVENTION. Wonca Europe Regional Conference, Malaga, Spain, 6 - 9 October 2010. 
+
+Manzoli L, Mascella F, Fratini M, Deales A, Panella M, Di Stanislao F. [Methodological problems associated with the planning of a cluster randomized controlled trial]. Ig Sanita Pubbl. 2007 May-Jun;63(3):273-90</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comitato Etico Azienda Ospedaliero Universitaria "Ospedali Riuniti Umberto I-Lancisi-Salesi</ethicname>
+      <ethicaddress>Via Conca 71, 60020 Torrette di Ancona</ethicaddress>
+      <ethicapprovaldate>14/07/2007</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Italy</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Marina Fratini</name>
+      <address>Marche Regional Healthcare Agency, via Gentile da Fabriano 3, 60125 Ancona</address>
+      <phone>+39-071-8064194</phone>
+      <fax>+39-071-8064056</fax>
+      <email>marina.fratini@regione.marche.it</email>
+      <country>Italy</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Alberto Deales</name>
+      <address>Marche Regional Healthcare Agency, via Gentile da Fabriano 3, 60125 Ancona</address>
+      <phone>+39-071-8064079</phone>
+      <fax>+39-071-8064056</fax>
+      <email>alberto.deales@regione.marche.it</email>
+      <country>Italy</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Marina Fratini</name>
+      <address>Marche Regional Healthcare Agency, via Gentile da Fabriano 3, 60125 Ancona</address>
+      <phone>+39-071-8064194</phone>
+      <fax>+39-071-8064056</fax>
+      <email>marina.fratini@regione.marche.it</email>
+      <country>Italy</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

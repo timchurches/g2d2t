@@ -1,0 +1,289 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365269">
+  <stage>Registered</stage>
+  <submitdate>13/11/2013</submitdate>
+  <approvaldate>18/11/2013</approvaldate>
+  <actrnumber>ACTRN12613001264774</actrnumber>
+  <trial_identification>
+    <studytitle>High Flow Humidified Nasal Cannula versus Standardised Oxygen Therapy </studytitle>
+    <scientifictitle>A comparative study of high flow humidified nasal cannula versus standardised oxygen therapy for adult patients who present to the emergency department in respiratory distress. Success will be determined by a decrease in respiratory rate by 20% by the end of the second hour from the time therapy was commenced. </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory</healthcondition>
+    <healthcondition>Dyspnoea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Humidified high flow nasal cannula is a supplementary oxygen therapy that provides a complete range of flow as well as fraction of inspired oxygen (Fi02) beyond that of standard oxygen therapy.
+
+The higher flows up to 60 litres allows the patients inspiratory demand to be met. With the aim to reduce their work of breathing. Additionally being able to prescribe the Fi02 (ranges between 21%-100%) independently to the flow to meet the patients individual needs. 
+
+Adult patients who present to one of two metropolitan Emergency Departments with dyspnoea and a respiratory rate greater or equal to 25  and oxygen saturations of equal or less than 93% on room air will be randomised to either high flow nasal cannula or standard oxygen therapy. 
+
+Both therapies will be titrated to the patients individual requirements while in the Emergency Department (ED). We will be assessing the outcomes of the treatment for the duration of the patient stay in the ED</interventions>
+    <comparator>If the patient meets the inclusion criteria they could be randomised to either high flow nasal cannula or standard oxygen therapy. Standard oxygen therapy equates to nasal prong oxygen, venturi mask, face mask or non-rebreather mask depending on the patients needs. We will be assessing the outcomes of the treatment for the duration of the patient stay in the ED</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Success will be determined by a decrease in the patients respiratory rate by 20% without requiring escalation to either humidified high flow, non invasive ventilation or invasive ventilation. The need for escalation will be at the discretion of the treating clinician.
+
+The primary outcome between  the two groups will be compared using Chi Square tests.</outcome>
+      <timepoint>At the end of the second hour from the time therapy is commenced</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The patient's disposition time will be captured. This is routinely done using the ED data base by medical, nursing and clerical. 
+Continous outcomes will be compared using Wilcoxon rank sum test.</outcome>
+      <timepoint>Time collected on the ED database</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Delay to ward transfer (yes/no) will be collected on the ED database. The data will be analysed using Chi square tests.</outcome>
+      <timepoint>The length of stay and if there was a delay will be collected at the time patient departs from the ED.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in the hospital (days) will be defined as day of arrival to discharge. The continous outcome will be compared using Wilcoxon rank sum test.</outcome>
+      <timepoint>Day of discharge from an inpatient department</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Unexpected adverse events (death, ICU admission, NIV, intubation,) will be recorded in the clinical notes and on the data collection form. All analysis will be intention-to-treat. Each event will be compared using Chi square test</outcome>
+      <timepoint>During the patient's length of stay in the ED that will be capture in hours and minutes from arrival to the ED to admission to an inpatient ward/unit.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient comfort during the administration of the oxygen therapy will be measured using a 5 point Likert scale and self rated dyspnoea  (Borg) scale. Data will be analysied comparing the two groups using Chi Sqaure tests.</outcome>
+      <timepoint>This will be assessed periodically in the first 2 hours from when the therapy was commenced. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients who are 16years and over who present with dyspnoea and a respiratory rate great or equal to 25  and oxygen saturations of less than or equal to 93% on room air to either Royal Prince Alfred ED or Canterbury Hospital ED
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>110</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Patients presenting to the ED who require immediate BiPAP or intubation/ventilation 
+2. Any patient under the age 16
+3. Patients who have received a trauma call; including facial trauma, chest trauma
+4. Patients with suspected spontaneous pneumothorax
+5. Patients who are unable to provide informed consent (cognitive impairment, intoxication from drugs and/or alcohol, intellectual disability, mental illness)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients presenting to either Royal Prince Alfred (RPA) or Canterbury Hospital (CH) acutely short of breath and a RR greather or equal to 25 or saturation less than or equal to 93% will be offered the oportunity to participate in the study. 
+
+They patient will be enrolled and consented by a staff member independent to the treating team.
+
+Randomisation of High Flow Humidifed Nasal Cannula (HFHNC) or standard oxygen therapy will be achieved by computer generated allocation. The allocated therapy will be kept in numbered individual sealed opaque envelopes and will be only opened and revealed to staff and patient once the patient has been consented.</concealment>
+    <sequence>Randomisation was done using a sequencing program in Microsoft Excel 2007</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>25/11/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <hospital>Canterbury Hospital - Campsie</hospital>
+    <postcode>2050 - Missenden Road</postcode>
+    <postcode>2194 - Campsie</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Nerida Bell</primarysponsorname>
+    <primarysponsoraddress>Royal Prince Alfred 
+Emergency Department
+Missenden Rd
+Camperdown
+NSW
+2050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Prince Alfred Hospital</fundingname>
+      <fundingaddress>Missenden Road
+Camperdown
+NSW
+2050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Canterbury Hospital</fundingname>
+      <fundingaddress>Canterbury Road
+Campsie
+NSW
+2194</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Claire Hutchinson
+</sponsorname>
+      <sponsoraddress>Canterbury Hospital
+Emergency Department
+Canterbury Road
+Campsie
+NSW
+2194</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Assoc Prof Michael Dinh
+</othercollaboratorname>
+      <othercollaboratoraddress>Royal Prince Alfred
+Emergency Department
+Missenden Rd
+Camperdown
+NSW
+2050</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Kendall Bein</othercollaboratorname>
+      <othercollaboratoraddress>Royal Prince Alfred Hospital
+Emergency Department
+Missenden Road
+Camperdown
+NSW
+2050</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Simon Rodda
+</othercollaboratorname>
+      <othercollaboratoraddress>Canterbury Hospital
+Emergency Department
+Canterbury Road
+Campsie
+NSW
+2194</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Eileen Rogan</othercollaboratorname>
+      <othercollaboratoraddress>Canterbury Hospital
+Emergency Department
+Canterbury Road
+Campsie
+NSW
+2194</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to  define which patients will benefit most from the High Flow Humidified Nasal Cannula as apposed to standard oxygen therapy in the acute Emergency department setting. Outcomes which we will be measuring include improved vital signs, length of stay in the Emergency Department, need for escalation to non invasive and invasive ventialtion and patient comfort.
+
+ </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Ethics Review Committee (RPAH Zone)</ethicname>
+      <ethicaddress>Research Development Office
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown
+NSW 2050</ethicaddress>
+      <ethicapprovaldate>1/11/2013</ethicapprovaldate>
+      <hrec>HREC/13/RPAH/367</hrec>
+      <ethicsubmitdate>7/08/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>Nerida Bell</name>
+      <address>Royal Prince Alfred Hospital
+Emergency Department
+Missenden rd
+Camperdown
+NSW 2050</address>
+      <phone>+61 2 95158912</phone>
+      <fax />
+      <email>nerida.bell@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Nerida Bell</name>
+      <address>Royal Prince Alfred Hospital
+Emergency Department
+Missenden rd
+Camperdown
+NSW 2050</address>
+      <phone>+61 2 95158912</phone>
+      <fax />
+      <email>nerida.bell@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Nerida Bell</name>
+      <address>Royal Prince Alfred Hospital
+Emergency Department
+Missenden rd
+Camperdown
+NSW 2050</address>
+      <phone>+61 2 95158912</phone>
+      <fax />
+      <email>nerida.bell@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Nerida Bell</name>
+      <address>Royal Prince Alfred Hospital
+Emergency Department
+Missenden rd
+Camperdown
+NSW 2050</address>
+      <phone>+61 2 95158912</phone>
+      <fax />
+      <email>nerida.bell@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

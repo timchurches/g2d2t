@@ -1,0 +1,190 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367069">
+  <stage>Registered</stage>
+  <submitdate>9/09/2014</submitdate>
+  <approvaldate>22/09/2014</approvaldate>
+  <actrnumber>ACTRN12614001017617</actrnumber>
+  <trial_identification>
+    <studytitle>Pharmacist demonstration of EpiPen and Anapen autoinjectors to simulated patients: assessment of accuracy. </studytitle>
+    <scientifictitle>Pharmacist demonstration of EpiPen and Anapen autoinjectors to simulated patients: assessment of accuracy.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Anaphylaxis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Allergies</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is an observational study of pharmacist practice and performance in demonstrating adrenaline autoinjectors (EpiPen and Anapen) to simulated anaphylaxis patients. 
+Pharmacists were observed during a single consultation where a simulated patient requested advice on how to use an adrenaline autoinjector. Consultations lasted 5-15 minutes. </interventions>
+    <comparator>No control group as this is an observational study.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Accurate demonstration (overall, i.e. for all devices) of all steps required for correct adrenaline autoinjector administration according to the steps for administration published on the (device specific) ASCIA Action Plan for Anaphylaxis.</outcome>
+      <timepoint>Upon request for demonstration by the simulated patient.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Demonstration accuracy by device (original EpiPen, new-look EpiPen, Anapen). Accurate demonstration was defined as one that fulfilled all steps listed on the relevant Australasian Society of Clinical Immunology and Allergy (ASCIA) Action Plan for Anaphylaxis. A custom designed data collection tool (which we validated before use) captured demographic variables (broadly: pharmacy environment, pharmacist age group and gender), and adrenaline autoinjector variables (broadly: materials used for demonstration, use of references, steps used in demonstration, errors or omissions in demonstration and other advice provided).</outcome>
+      <timepoint>Upon request for demonstration </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Predictors of accurate demonstration based on the consultation with the pharmacist.
+Binary logistic regression was performed to identify consultation-specific predictors of accurate EpiPen and Anapen demonstration. Potential predictors in the model were device type, age, gender, use of references, and general anaphylaxis and device-specific information provided by the pharmacist. Recognising that consultations with pharmacists may vary from brief to extended interactions (and thus to assess the impact of predictor variables independently and collectively), we conducted both single variable and multi variable (adjusted) logistic regression analyses. Odds ratios and 95% confidence intervals for each predictor were obtained.</outcome>
+      <timepoint>After data analysis - i.e. this will not be identified at the time of demonstration. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Australian pharmacists working in community pharmacies, located within a 20km radius of the Perth Central Business District, and listed on the Pharmacy Registration Board of Western Australia Premises Register. </inclusivecriteria>
+    <inclusiveminage>20</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Pharmacists who are known to the researcher. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Accuracy to be analysed descriptively. Binary logistic regression will be used to identify predictors of accurate demonstration. There is no existing data upon which to estimate sample sizes, however we elected to sample the majority of pharmacies within the Perth metropolitan area (sample represented 96% of all pharmacies within a 20km radius of Perth CBD, and 73% of all Perth metropolitan pharmacies). No formal sample size calculations were performed. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Random sample</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>12/03/2012</anticipatedstartdate>
+    <actualstartdate>12/03/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>4/05/2012</actualenddate>
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>Centre for Optimisation of Medicines
+School of Medicine and Pharmacology
+Division of Pharmacy
+M315, The University of Western Australia
+32 Stirling Highway
+CRAWLEY WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Pharmaceutical Society of Western Australia</fundingname>
+      <fundingaddress>21 Hamilton Street 
+Subiaco WA 6008</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Successful treatment of anaphylaxis in the community relies on early and correct use of epinephrine autoinjectors. Community pharmacists supply these devices with and without prescription and have a crucial role teaching patients how to use them. Supply of epinephrine autoinjectors in Australia increased 70-fold in the past decade. New EpiPen and Anapen autoinjectors were launched in Australia in 2011 and 2012, with the potential to cause confusion. However there is no information about how pharmacists demonstrate epinephrine autoinjectors to patients. Therefore the aim of this study was to assess real-world community pharmacist demonstrations of EpiPen and Anapen. We also sought to identify consultation-based predictors of accurate demonstration. </summary>
+    <trialwebsite />
+    <publication>This work has been presented as follows:
+1. Salter SM, Loh R, Sanfilippo FM, Clifford RM. Pharmacist demonstration of adrenaline autoinjectors is accurate, but there is room for improvement. ASCIA 2014 Annual Conference: Melbourne (AU); September 10-12, 2014. 
+2. Salter SM, Loh R, Sanfilippo FM, Clifford RM. Pharmacist demonstration of adrenaline autoinjectors is accurate, but there is room for improvement. Internal Medicine Journal 2014; 44 (S4): S1-29.
+3. Salter SM, Loh R, Sanfilippo FM, Clifford RM. Demonstration of epinephrine autoinjectors (EpiPen and Anapen) by pharmacists in a randomised, simulated patient assessment: acceptable but room for improvement. Allergy, Asthma &amp; Clinical Immunology 2014 (in press as at 18 September 2014). </publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>UWA HREC</ethicname>
+      <ethicaddress>The University of Western Australia
+35 Stirling Highway
+CRAWLEY WA 6009</ethicaddress>
+      <ethicapprovaldate>1/03/2012</ethicapprovaldate>
+      <hrec>RA/4/1/5440</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>Sandra Salter</name>
+      <address>Centre for Optimisation of Medicines
+School of Medicine and Pharmacology
+Division of Pharmacy
+M315, The University of Western Australia
+35 Stirling Highway
+CRAWLEY WA 6009</address>
+      <phone>+61 416 003 808</phone>
+      <fax />
+      <email>sandra.salter@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sandra Salter</name>
+      <address>Centre for Optimisation of Medicines
+School of Medicine and Pharmacology
+Division of Pharmacy
+M315, The University of Western Australia
+35 Stirling Highway
+CRAWLEY WA 6009</address>
+      <phone>+61 416 003 808</phone>
+      <fax />
+      <email>sandra.salter@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sandra Salter</name>
+      <address>Centre for Optimisation of Medicines
+School of Medicine and Pharmacology
+Division of Pharmacy
+M315, The University of Western Australia
+35 Stirling Highway
+CRAWLEY WA 6009</address>
+      <phone>+61 416 003 808</phone>
+      <fax />
+      <email>sandra.salter@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

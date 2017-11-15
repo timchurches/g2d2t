@@ -1,0 +1,259 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373601">
+  <stage>Registered</stage>
+  <submitdate>14/09/2017</submitdate>
+  <approvaldate>19/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001333303</actrnumber>
+  <trial_identification>
+    <studytitle>Link-me: A randomised controlled trial of a systematic model of stepped mental health care in general practice</studytitle>
+    <scientifictitle>Link-me: A randomised controlled trial of the effectiveness of a systematic approach to stepped mental health care in improving psychological distress among general practice patients </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>mental health</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention being tested in this trial is multifaceted and includes:
+1. Estimating future symptom severity using a Decision Support Tool (DST) developed by our team using findings from our naturalistic longitudinal cohort study of depression in Australian primary care (the diamond study). Using an individuals responses to the DST, he or she will be stratified into either the minimal/mild or severe/complex group, based on predicted severity of mental health problem in 3 months time. 
+2. Feedback to participants on their DST responses: "From what you have told us, things seem to be ok for you in these areas right now" and "Things seem to be difficult for you in these areas right now", presented on sequential screens
+3. An opportunity to set priorities: If the participant has many areas that are identified as being difficult, he/she is encouraged to select one or two to focus on. 
+4. A treatment recommendation matched to severity group (minimal/mild or severe/complex), detailed below.
+
+Note that all patients enrolled in the trial will have their DST data recorded. Randomisation will occur at the point of DST completion, within severity groups as defined by DST results. Therefore both comparison and intervention groups will comprise a mix of symptom severities. Only participants randomly allocated to the intervention arm will receive the intervention as above. 
+
+Participants identified as being likely to experience severe mental health symptoms in three months time and randomised to the intervention arm will receive assistance from a practice-based mental health care navigator to develop an individual care package. The care navigator is a registered health professional who will work with the patient, the GP and other providers to develop a care plan, support the patient through their care and ensure that elements of the care package are connected. Participants will be offered 8 appointments with the care navigator at their GP clinic over a 12 week period. Participants are free to take up the offer of care navigation or not.
+
+On completion of the DST, participants identified as being likely to have minimal/mild symptoms at 3 months and randomised to the intervention arm will receive a list of relevant low intensity services, matched to the areas prioritised by the participant. Services will include those delivered online, via telephone, via mobile app, and in the participant's local area, in order to assist participants find an option that is most acceptable and therefore most likely to be used. Participants are free to follow the recommendation or not, and are free to discuss it with their GP or not.
+
+It should be noted that the trial is designed to identify patients in the two groups above, however the DST will also identify a third group of patients  those whose mental health problems that are more severe than the minimal/mild group but less so than those in the severe/complex group. Patients in this moderate group will not be randomised but instead will all enter into the usual care comparison arm (see below).</interventions>
+    <comparator>Participants who are randomized to the comparison arm will be presented with a message thanking them for taking part in the trial, reminding them that their GP is available to talk about any concerns they have, and advising them that they will receive a survey in 6 months time. They will continue to access health services as usual. 
+</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Psychological distress as assessed by the K10</outcome>
+      <timepoint>6 and 12 months post randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life as assessed by the EQ-5D</outcome>
+      <timepoint>6 and 12 months post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Depressive symptom severity as assessed by the PHQ-9</outcome>
+      <timepoint>6 and 12 months post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Anxiety symptom severity as assessed by the GAD-7</outcome>
+      <timepoint>6 and 12 months post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health service use, using information collected from:
+1. Medicare Benefits Schedule
+2. Pharmaceutical Benefits Scheme
+3. Primary Health Care Minimum Data Set
+4. headspace
+5. purpose designed self-report resource use questionnaire, adapted from one used previously in Australian trials of mental health interventions</outcome>
+      <timepoint>6 and 12 months post randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Aged 18-75
+2. Some level of mental health need, evidenced by:
+    - a score of 2 or more on the PHQ-2, and/or
+    - a score of 2 or more on the GAD-2, and/or
+    - current use of medication for mental health
+3. Able to complete the screening questionnaire and consent in English
+4. Current Medicare card holder
+5. Able to provide a mobile phone number and/or email address
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>n/a</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Randomisation will be triggered automatically within the trial website, after a participant has provided consent and completed the Decision Support Tool, thus ensuring allocation concealment.</concealment>
+    <sequence>Participants will be randomly assigned in a 1:1 ratio to the intervention or comparison arm. Randomisation will be stratified by general practice and symptom severity group. The allocation sequence will be computer generated sequentially, using a biased coin algorithm embedded in the trial website.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size calculations are based on our previous research experience and are designed to test for a difference in K10+ between the intervention and comparison patients in the minimal/mild and severe/complex groups. We estimate that a sample size of 1080 in each symptom severity group (540 in each arm) will allow us to detect a moderate effect size (Cohens D = 0.3) with 88% power (assuming an intra-class correlation of 0.3). To achieve this sample size we will need to recruit 60 patients per practice in the minimal/mild group and do the same in the severe/complex, (i.e., 60 x 18 = 1,080 participants in each group). We anticipate that the majority of patients (around 65%) will fall into the minimal/mild group, with a smaller proportion (20%) being identified as having severe/complex needs (the remainder will fall in between these two groups and are not included in sample size calculations). Using these estimates, we need to recruit 5,400 patients to achieve sufficient numbers in the severe/complex group. Recruitment to the trial will continue until 1080 severe/complex participants are enrolled; naturally, this will result in oversampling of the minimal/mild group. 
+
+We will use descriptive statistics to describe the socio-demographic and clinical characteristics of participants in each symptom severity group when they join the trial, making comparisons between those who are allocated to receive the intervention and those who are allocated to receive usual care. This will allow us to check for any imbalances that have not been addressed by the randomisation process. 
+
+Primary analysis will involve an intention-to-treat approach and will be conducted on individual participant outcome data. For each cohort, we will use linear mixed effects regression models to compare changes in K10+ scores from baseline to follow-up (i.e., from the beginning to the end of individuals episodes of care), with fixed-effects covariates for trial arm (i.e., clinical care coordination versus usual care for the severe/complex group; low intensity services versus usual care for the minimal/mild group), baseline K10+ scores and calendar time. Our models will also include a random effect covariate for the general practice. Any imbalances in baseline characteristics identified in the descriptive analyses will also be considered for adjustment in the regression analysis.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>2/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/09/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>5400</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/09/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>Centre for Mental Health 
+Melbourne School of Population and Global Health
+235 Bouverie St
+Carlton VIC 3053</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Department of Health</fundingname>
+      <fundingaddress>Mental Health Early Intervention Branch
+Health Services Division
+Department of Health
+Scarborough House
+Atlantic Street
+Woden Town Centre
+GPO Box 9848
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>1 in 2 Australians will experience mental health problems in their lifetime. Mental health problems can make it hard for people to live the life they want. Lots of things can help improve mental health, but it can be hard for people to know what is the best option for
+them. Link-me is a randomised controlled trial that is testing a new approach to helping people find support that works for them. It is funded by the Australian Government and is being conducted by researchers at the University of Melbourne.
+
+Link-me builds on almost 15 years of research in Australian general practice. This research has shown that about one third of people attending a general practice are experiencing difficulties with their mental health. GPs currently have no systematic way of identifying the best way to tailor mental health care to each individuals needs. 
+
+In this trial, we aim to address this gap and determine whether a simple, purpose-built online tool can improve mental health outcomes in a cost-effective way.  Using the tool, GP patients can: 
+- complete an assessment
+- receive feedback on their results
+- set priorities based on these results
+- receive a suggested treatment option matched to their risk of future mental health problems.
+
+Reception staff at participating general practices will invite patients to complete a 2-minute survey on an iPad before they see their GP. Whether or not someone completes the survey is entirely up to them. The survey identifies whether or not a person is eligible for the trial  if so, they are invited to read the study information and provide informed consent to take part.
+
+People who are interested in participating then answer a few more questions on the iPad. The questions take about 2 minutes to answer and at the end, the iPad will randomly allocate people to one of two groups. Each group will provide us with different information about managing mental health and wellbeing. Some people will be asked for feedback on how mental health is currently managed, others might be asked to try something different (like using the internet or working with their GP clinic to find other options).
+
+People taking part in Link-me will be contacted 6, 12, and 18 months after they complete the iPad questions in their GP waiting room to complete short online surveys. Answering these surveys will help us understand whether the Link-me approach to care can help people improve their mental health.
+
+Taking part in Link-me is completely voluntary and people who do decide to take part can change their mind at any time. </summary>
+    <trialwebsite>https://blogs.unimelb.edu.au/phn-lead-site-project/</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Melbourne</ethicname>
+      <ethicaddress>Office for Research Ethics &amp; Integrity
+Level 3, 780 Elizabeth St
+The University of Melbourne
+VIC 3010</ethicaddress>
+      <ethicapprovaldate>10/08/2017</ethicapprovaldate>
+      <hrec>1749832</hrec>
+      <ethicsubmitdate>28/06/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Jane Gunn</name>
+      <address>The University of Melbourne
+Department of General Practice
+200 Berkeley Street
+Carlton VIC 3053</address>
+      <phone>+61 3 8344 4530</phone>
+      <fax />
+      <email>j.gunn@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Maria Potiriadis</name>
+      <address>The University of Melbourne
+Department of General Practice
+200 Berkeley Street
+Carlton VIC 3053</address>
+      <phone>+61 3 8344 9719</phone>
+      <fax />
+      <email>m.potiriadis@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Fletcher</name>
+      <address>The University of Melbourne
+Department of General Practice
+200 Berkeley Street
+Carlton VIC 3053</address>
+      <phone>+61 3 9035 4872</phone>
+      <fax />
+      <email>susanlf@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Fletcher</name>
+      <address>The University of Melbourne
+Department of General Practice
+200 Berkeley Street
+Carlton VIC 3053</address>
+      <phone>+ 61 3 9035 4872</phone>
+      <fax />
+      <email>susanlf@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

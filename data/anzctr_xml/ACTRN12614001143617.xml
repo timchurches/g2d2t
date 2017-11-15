@@ -1,0 +1,211 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367196">
+  <stage>Registered</stage>
+  <submitdate>6/10/2014</submitdate>
+  <approvaldate>29/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001143617</actrnumber>
+  <trial_identification>
+    <studytitle>Determining Circulating Tumour Cells (CTC) and other rare cells in cancer patients and for early detection screening</studytitle>
+    <scientifictitle>Determining Circulating Tumour Cells (CTC) and other rare cells in cancer patients before and after treatment and for early detection screening using ISET (Isolation by Size of Epithelial/ Trophoblastic Tumour Cells) technology</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cancer</healthcondition>
+    <healthcondition>Chronic illness due to infection</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Diagnostic test: Circulating tumour cells are isolated from blood (10 ml in EDTA) by ISET (Isolation by Size of Epithelial Tumour Cells using filtration) technology and analysed within one week before treatment (baseline) and at 3 months after treatment cycle commenced and at least 3 weeks after treatment cycle ceased (follow-up) - primary outcome measure
+Follow-up at 6 months, 9 months and 12 months, if applicable (secondary outcome measures)
+
+Screening test: Early detection in patients with a family history of cancer or patients with chronic disease, or as part of a health check. The ISET-ED (early detection screening) test has the potential to detect potentially malignant cells, and other illness causing rare cells. 
+Circulating rare cells are isolated from blood (10 ml in EDTA) by ISET technology and analysed at baseline and at 3 months (follow-up)</interventions>
+    <comparator>Intra-individual: Number of CTC at follow-up (e.g. after treatment) compared to number of CTC at baseline (e.g. before treatment). Detection of rare cells at follow-up compared with baseline.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in number of CTC and other rare cells using blood filtered by ISET technology </outcome>
+      <timepoint>3 months after baseline (e.g. treatment cycle commenced), and at least 3 weeks after treatment cycle ceased (follow-up)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>type of CTC / rare cells using ISET technology </outcome>
+      <timepoint>3 months after baseline (e.g. treatment cycle commenced), and at least 3 weeks after treatment cycle ceased (follow-up)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Optional CTC count including assessment of CTC type at 6, 9, 12 months after commencement of treatment using ISET technology.</outcome>
+      <timepoint>6, 9, 12 months after commencement of treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>treatment effectiveness: Patient diagnosed with cancer;
+Have previously received (at least 3 weeks ago) or will receive treatment within one week;
+treatment may include chemotherapy, radiotherapy, hyperthermia, intravenous Vitamin C, or other complementary treatment as prescribed by the treating physician;
+
+Early detection screening: Patients with a family history of cancer or patients with chronic disease, or as part of a health check</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>no exclusion
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>1-way repeated measures ANOVA;
+The sample size is primarily based on clinical availability of patients. A sample size of 50-100 patients would be sufficient to detect a change of &gt;50% in CTC numbers at follow-up compared to baseline with the power of 90% and a confidence of 95%.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>3-12</followup>
+    <followuptype>Months</followuptype>
+    <purposeobs>Screening</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/10/2014</anticipatedstartdate>
+    <actualstartdate>6/10/2014</actualstartdate>
+    <anticipatedenddate>31/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Karin Ried</primarysponsorname>
+    <primarysponsoraddress>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>National Institute of Integrative Medicine</fundingname>
+      <fundingaddress>11-23 Burwood Rd
+Hawthorn, VIC 3122</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Treatment effectiveness:
+This study will determine whether there is a difference between the number and type of circulating tumour cells in cancer patients before and after treatment. 
+
+Who is it for? 
+You may be eligible to join this study if you are aged 18-80 years, diagnosed with any cancer and have received treatment at least 3 weeks ago or will receive treatment within one week. 
+
+Study details 
+The study aims to establish the Circulating Tumour Cell (CTC) detection method using the ISET (Isolation by Size of Epithelial/Trophoblastic Tumour Cells) device (Rarecells, France) in conjunction with cancer therapies offered at National Institute of Integrative Medicine. There will be no changes to the participants cancer treatment plans. Participants will be required to provide a blood sample at the beginning of their treatment and 3 months after commencement of treatment. The blood will be processed using the ISET technology to determine the number and types of circulating tumour cells.
+
+Early detection screening:
+This component of the study aims to determine whether the ISET-ED screening blood test can be used for early detection of cancer.
+Who is it for?
+You may be eligible to join this part of the study if you are aged between 18-80 years and have a family history of cancer, or have been diagnosed with chronic disease, or are attending a health check.
+Study details:
+Participants in this part of the study will undergo a blood test at baseline and at 3 months.
+The ISET-ED (early detection screening) test has the potential to detect potentially malignant cells, and other illness causing rare cells. </summary>
+    <trialwebsite>www.niim.com.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>NIIM HREC</ethicname>
+      <ethicaddress>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122</ethicaddress>
+      <ethicapprovaldate>18/08/2014</ethicapprovaldate>
+      <hrec>EC00436</hrec>
+      <ethicsubmitdate>14/08/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122
+</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax>+61 3 9804 0513</fax>
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax>+61 3 9804 0513</fax>
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax>+61 3 9804 0513</fax>
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+11-23 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax>+61 3 9804 0513</fax>
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

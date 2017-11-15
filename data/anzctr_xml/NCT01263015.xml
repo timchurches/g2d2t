@@ -1,0 +1,599 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3030">
+  <stage>Registered</stage>
+  <submitdate>16/12/2010</submitdate>
+  <approvaldate>16/12/2010</approvaldate>
+  <nctid>NCT01263015</nctid>
+  <trial_identification>
+    <studytitle>A Trial Comparing GSK1349572 50mg Plus Abacavir/Lamivudine Once Daily to Atripla (Also Called The SINGLE Trial)</studytitle>
+    <scientifictitle>A Randomized, Double-Blind Study of the Safety and Efficacy of GSK1349572 Plus Abacavir/Lamivudine Fixed-Dose Combination Therapy Administered Once Daily Compared to Atripla Over 96 Weeks in HIV-1 Infected Antiretroviral Therapy Naive Adult Subjects</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>114467</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Infection, Human Immunodeficiency Virus I</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Acquired immune deficiency syndrome (AIDS / HIV)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Dolutegravir
+Treatment: drugs - Atripla
+Treatment: drugs - Abacavir/Lamivudine
+Treatment: drugs - Abacavir/Lamivudine Placebo
+Treatment: drugs - Dolutegravir placebo
+Treatment: drugs - Atripla placebo
+
+Experimental: Dolutegravir (N=~394): - Dolutegravir 50mg once daily + abacavir/lamivudine as the fixed-dose combination once daily + Atripla placebo once daily
+
+Active Comparator: Atripla (N=~394): - Atripla once daily + Dolutegravir placebo once daily + abacavir/lamivudine as the fixed-dose combination placebo once daily
+
+
+Treatment: drugs: Dolutegravir
+Dolutegravir (also known as GSK1349572) 50 mg taken once daily
+
+Treatment: drugs: Atripla
+Atripla once daily on an empty stomach
+
+Treatment: drugs: Abacavir/Lamivudine
+taken once daily; also known as EPZICOM
+
+Treatment: drugs: Abacavir/Lamivudine Placebo
+matching placebo taken once daily
+
+Treatment: drugs: Dolutegravir placebo
+matching placebo taken once daily
+
+Treatment: drugs: Atripla placebo
+matching placebo taken once daily on an empty stomach
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of Subjects Responding Based on Plasma HIV-1 RNA &lt;50 c/mL at Week 48 - The percentage of participants with plasma HIV-1 RNA &lt;50 c/mL at Week 48 was assessed. Plasma samples were collected for the quantitative assessment of HIV-1 RNA based on the Missing, Switch, or Discontinuation equals Failure (MSDF) algorithm,as codified by the Food and Drug Administration's Snapshot algorithm. This algorithm treats all participants without HIV-1 RNA data at the visit of interest (due to missing data or discontinuation of investigationl product prior to the visit window) as non-responders, as well as participants who switched their concomitant antiretroviral therapy (ART) in certain scenarios. Since changes in ART were not permitted in this protocol, all such participants who changed ART were to be considered non-responders. Otherwise, virologic success or failure was to be determined by the last available HIV-1 RNA assessment while the participant was on treatment within the visit of interest window.</outcome>
+      <timepoint>Week 48</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Viral Suppression (&lt;50 c/mL) - Viral suppression is defined as the first viral load value&lt;50 c/mL. The Kaplan-Meier method was used to estimate time to viral suppression, defined as the time from the first dose of study treatment until the first viral load value &lt;50 c/mL was reached. Participants who withdrew for any reason without having suppressed prior to the analysis were censored.</outcome>
+      <timepoint>From Baseline until Week 144) (average of 877.4 days for DTG; average of 788.8 study days for EFV/TDF/FTC)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Plasma Human Immunodeficiency Virus -1 (HIV-1) Ribonucleic Acid (RNA) &lt;50 Copies/Milliliter (c/mL) at Week 96 and Week 144 - The percentage of participants with plasma HIV-1 RNA &lt;50 c/mL at Week 96 and Week 144 was assessed. Plasma samples were collected for the quantitative assessment of HIV-1 RNA based on the Missing, Switch, or Discontinuation equals Failure (MSDF) algorithm,as codified by the Food and Drug Administration's Snapshot algorithm. This algorithm treats all participants without HIV-1 RNA data at the visit of interest (due to missing data or discontinuation of investigationl product prior to the visit window) as non-responders, as well as participants who switched their concomitant antiretroviral therapy (ART) in certain scenarios. Since changes in ART were not permitted in this protocol, all such participants who changed ART were to be considered non-responders. Otherwise, virologic success or failure was to be determined by the last available HIV-1 RNA assessment while the participant was on treatment within the visit of interest window.</outcome>
+      <timepoint>Week 96 and Week 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With a Confirmed Plasma HIV-1 RNA Level &gt;=1000 c/mL at or After Week 16 and Before Week 24, or a Confirmed Plasma HIV-1 RNA Level &gt;=200 c/mL at or After Week 24 - Data are presented as Kaplan Meier estimates of virologic failure (VF), defined as a confirmed plasma HIV-1 RNA level &gt;=1000 c/mL at or after Week 16 and before Week 24, or a confirmed plasma HIV-1 RNA level &gt;=200 c/mL at or after Week 24. A plasma HIV-1 RNA value was considered to be confirmed failure if a consecutive measurement satisfied the same failure criterion. The number of participants who experienced autoimmune deficiency syndrome (AIDS) Clinical Trials Group (ACTG) VFs was measured. For participants who withdrew from the study/were not documented to have reached confirmed VF at the cut off date of the Week 48 analysis, time to VF was to be censored at the planned visit week of the last measured plasma HIV-1 RNA sample. Data for participants who missed three consecutive scheduled plasma HIV-1 RNA measurements were to be censored at the planned visit week of the last assessment prior to the 3 consecutive missed visits.</outcome>
+      <timepoint>From Baseline until Week 144) (average of 877.4 days for DTG; average of 788.8 study days for EFV/TDF/FTC)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Plasma HIV-1 RNA at Weeks 2, 4, 8, 12, 16, 24, 32, 40,48, 60, 72, 84, 96, 108, 120, 132 and 144 - Blood samples were collected for the measurement of HIV-1 RNA in plasma. Changes from Baseline was calculated as the post-Baseline value minus the Baseline value. Only those participants available at the indicated time points were assessed (represented by n=X, X in the category titles).</outcome>
+      <timepoint>Baseline and at Weeks 2, 4, 8, 12, 16, 24, 32, 40, 48, 60, 72, 84, 96, 108, 120, 132 and 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in CD4+ Cell Counts at Week 144 - Cluster of differentiation (CD4) lymphocyte cells (also called T-cells or T-helper cells) are the primary targets of HIV. The CD4 count and the CD4 percentage mark the degree of immunocompromise. The CD4 count is used to stage the patient's disease, determine the risk of opportunistic illnesses, assess prognosis, and guide decisions about when to start antiretroviral therapy. Change from Baseline was calculated as the Week 144 value minus the Baseline value. The least squares mean is the estimated mean change from Baseline in CD4+ cell counts at Week 144 calculated from a repeated measures model including the following covariates: treatment, visit, Baseline plasma HIV-1 RNA, Baseline CD4+ cell count, treatment*visit interaction, Baseline HIV-1 RNA*visit interaction, and Baseline CD4+ cell count*visit interaction. No assumptions were made about the correlations between a participant's readings of CD4+, i.e., the correlation matrix for within-participant errors is unstructured.</outcome>
+      <timepoint>Baseline and Week 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in CD4+ Cell Counts at Weeks 4, 8, 12, 16, 24, 32, 40, 48, 60, 72, 84, 96, 108, 120, 132 and 144 - CD4 lymphocyte cells (also called T-cells or T-helper cells) are the primary targets of HIV. The CD4 count and the CD4 percentage mark the degree of immunocompromise. The CD4 count is used to stage the patient's disease, determine the risk of opportunistic illnesses, assess prognosis, and guide decisions about when to start antiretroviral therapy. Change from Baseline was calculated as the value at Indicated visit minus the Baseline value. Only those participants available at the indicated time points were assessed (represented by n=X, X in the category titles).</outcome>
+      <timepoint>Baseline and Week 4, 8, 12, 16, 24, 32, 40, 48, 60, 72, 84, 96, 108, 120, 132 and 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With the Indicated Post-baseline HIV-associated Conditions and Progression, Excluding Recurrences at Week 144 - Clinical disease progression (CDP) was assessed according to the Centers for Disease Control and Prevention (CDC) HIV-1 classification system. Category (CAT) A: one or more of the following conditions (CON), without any CON listed in Categories B and C: asymptomatic HIV infection, persistent generalized lymphadenopathy, acute (primary) HIV infection with accompanying illness or history of acute HIV infection. CAT B: symptomatic CON that are attributed to HIV infection or are indicative of a defect in cell-mediated immunity; or that are considered by physicians to have a clinical course or to require management that is complicated by HIV infection; and not included among CON listed in clinical CAT C. CAT C: the clinical CON listed in the AIDS surveillance case definition. Indicators of CDP were defined as: CDC CAT A at Baseline (BS) to a CDC CAT C event (EV); CDC CAT B at BS to a CDC CAT C EV; CDC CAT C at BS to a new CDC CAT C EV; or CDC CAT A, B, or C at BS to death.</outcome>
+      <timepoint>From Baseline until Week 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With the Indicated Grade 1 to 4 Clinical and Hematology Toxicities at Week144 - All Grade 1 to 4 post-Baseline-emergent chemistry toxicities included alanine aminotransferase (ALT), albumin, alkaline phosphatase (ALP), asparate aminotransferase (AST), carbon dioxide (CO2) content/bicarbonate, cholesterol, creatine kinase (CK), creatinine, hyperglycemia, hyperkalemia, hypernatremia, hypoglycemia, hypokalemia, hyponatremia, low density lipoprotein (LDL) cholesterol calculation, lipase, phosphorus inorganic, total bilirubin, and triglycerides. All Grade 1 to 4 post-Baseline-emergent hematology toxities included hemoglobin, platelet count, total neutrophils, and white blood cell count. The Division of AIDS (DAIDS) defined toxicity grades as follows: Grade 1, mild; Grade 2, moderate; Grade 3, severe; Grade 4, potentially life threatening; Grade 5, death.</outcome>
+      <timepoint>From Baseline until Week 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With the Indicated Genotypic Resistance With Virological Failure (VF) Through 144 - Whole blood samples were collected from participants to provide plasma for storage samples for potential viral genotypic and phenotypic analyses. Participants with confirmed virological failure (confirmed HIV-1 RNA &gt;=50 copies/mL throughout the study and/or confirmed HIV-1 RNA &gt;=200 copies/mL at Week 144) had plasma samples tested for HIV-1 RT genotype and HIV-1 integrase genotype from Baseline samples and from samples collected at the time of virological failure. Genotype testing was conducted at Day 1 and at the time of suspected protocol-defined virological failure (PDVF). A genotyping assessment was made of change across all amino acids within the integrase (IN)-encoding region, with particular attention paid to specific amino acid changes associated with the development of resistance to RAL, ELV, or DTG.</outcome>
+      <timepoint>Through Week 144</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in the Symptom Bother Score (SBS) at Week 4 Through Week 48 - The Symptom Distress Module (SDM) is a 20-item, self-reported questionnaire measuring the presence/perceived distress linked to symptoms associated with HIV/its treatments. Developed with support from the AIDS Clinical Trials Group of the U.S. National Institute of Allergy and Infectious Diseases, it has demonstrated construct validity and has shown strong associations with physical/mental health summary scores and with disease severity. The SDM consists of 2 main scores: symptom count and the SBS, ranging from 0 (best) to 80 (worst) and based on the degree of bother that each symptom present posed. The SBS was calculated by adding the 20 individual bother item scores, which were calculated as: 0, "I do not have this symptom"; 1, "It doesn't bother me"; 2, "It bothers me a little"; 3, "It bothers me"; 4, "It bothers me a lot." Estimates are calculated from an analysis of covariance (ANCOVA) model adjusting for age, sex, race, Baseline (BL) viral load, BL CD4+ cell count, and BL SBS.</outcome>
+      <timepoint>Baseline and Week 4 through 48</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Screening plasma HIV-1 RNA =1000 c/mL
+
+          -  Antiretroviral-naïve (= 10 days of prior therapy with any antiretroviral agent
+             following a diagnosis of HIV-1 infection)
+
+          -  Ability to understand and sign a written informed consent form
+
+          -  Willingness to use approved methods of contraception to avoid pregnancy (women of
+             child bearing potential only)
+
+          -  Age equal to or greater than 18 years
+
+          -  A negative HLAB*5701 allele assessment</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Women who are pregnant or breastfeeding;
+
+          -  Active Center for Disease and Prevention Control (CDC) Category C disease
+
+          -  Hepatic impairment
+
+          -  HBV co-infection
+
+          -  Anticipated need for HCV therapy during the study
+
+          -  Allergy or intolerance to the study drugs or their components or drugs of their class
+
+          -  Malignancy within the past 5 years
+
+          -  Treatment with an HIV-1 immunotherapeutic vaccine within 90 days of Screening
+
+          -  Treatment with radiation therapy, cytotoxic chemotherapeutic agents or any
+             immunomodulator within 28 days of Screening
+
+          -  Exposure to an agent with documented activity against HIV-1 in vitro or an
+             experimental vaccine or drug within 28 days of first dose of study medication
+
+          -  Primary viral resistance in the Screening result
+
+          -  Verified Grade 4 laboratory abnormality
+
+          -  ALT &gt;5 xULN
+
+          -  ALT = 3xULN and bilirubin = 1.5xULN (with &gt;35% direct bilirubin);
+
+          -  Estimated creatinine clearance &lt;50 mL/min
+
+          -  Recent history (=3 months) of upper or lower gastrointestinal bleed</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/02/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>844</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/12/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>GSK Investigational Site - Darlinghurst, Sydney</hospital>
+    <hospital>GSK Investigational Site - Carlton</hospital>
+    <hospital>GSK Investigational Site - North Fitzroy</hospital>
+    <hospital>GSK Investigational Site - Prahran</hospital>
+    <postcode>2010 - Darlinghurst, Sydney</postcode>
+    <postcode>3053 - Carlton</postcode>
+    <postcode>3078 - North Fitzroy</postcode>
+    <postcode>3181 - Prahran</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liege</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Hvidovre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Koebenhavn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Orléans Cedex 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 20</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Denis Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Tourcoing cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Baden-Wuerttemberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hessen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Niedersachsen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Nordrhein-Westfalen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Emilia-Romagna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Liguria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lombardia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Utrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Constanta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Asturias</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>(Móstoles) Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alcala de Henares</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Badalona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Basurto/Bilbao</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Elche (Alicante)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Granada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Granollers (Barcelona)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>La Laguna (Santa Cruz de Tenerife)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Logroño</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Marid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Málaga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Palma de Mallorca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sabadell (Barcelona)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>San Sebastián</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santiago de Compostela</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Vigo ( Pontevedra)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Tooting, London</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>ViiV Healthcare</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Shionogi</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>GlaxoSmithKline</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this trial is to assess the non-inferior antiviral activity of GSK1349572 50
+      mg plus Abacavir/Lamivudine once daily versus Efavirenz/Emtricitabine/Tenofovir disoproxil
+      fumarate (ATRIPLA® a trade mark of Bristol-Myers Squibb and Gilead Sciences LLC) over 48
+      weeks; non-inferiority will also be tested at Week 96. This study will be conducted in HIV-1
+      infected ART-naïve adult subjects. Long term antiviral activity, tolerability, safety, and
+      development of viral resistance will be evaluated.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01263015</trialwebsite>
+    <publication>Brinson C, Walmsley S, Arasteh K, et al. Dolutegravir treatment response and safety by key subgroups in treatment naive HIV-infected individuals. Published at: Conference on Retroviruses and Opportunistic Infections - 20th Annual; March 3-6, 2013; Atlanta, GA.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>GSK Clinical Trials</name>
+      <address>ViiV Healthcare</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

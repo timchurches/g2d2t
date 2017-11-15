@@ -1,0 +1,219 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369720">
+  <stage>Registered</stage>
+  <submitdate>2/12/2015</submitdate>
+  <approvaldate>3/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001327572</actrnumber>
+  <trial_identification>
+    <studytitle>Chewing Gum for the Treatment of Post-Operative Nausea and Vomiting</studytitle>
+    <scientifictitle>Pilot trial: Efficacy of chewing gum for the treatment of post-operative nausea and vomiting in females undergoing laparoscopic or breast surgery</scientifictitle>
+    <utrn>U1111-1177-1892</utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Post operative nausea and vomiting</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Wrigley's Peppermint flavoured gum, administered in the Post Anaesthesia Care Unit in the event of nausea or vomiting occurring after anaesthesia. Gum chewing period is one stick of gum, chewed for target 15 minutes, not repeated in the event of repeat nausea or vomiting. Adherence will be monitored via researcher at the bedside.</interventions>
+    <comparator>Ondansetron 4mg intravenous to control group, in a single dose, in the event of nausea and vomiting complained of. Administered by recovery room nurse, monitored and recorded by study staff in the drug administration log.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Efficacy of chewing gum as a rescue therapy for PONV, determined by complete resolution of symptoms as reported by patient.</outcome>
+      <timepoint>15 minutes after intervention concluded.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of nausea, retching or vomiting in PACU, reported by patient and monitored by study staff, recorded in study log.</outcome>
+      <timepoint>At any point during PACU admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient satisfaction with anti-emetic treatment, assessed with 5 point Likert scale</outcome>
+      <timepoint>At discharge from PACU</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Female patients aged 18 years and over
+American Society of Anesthesiologists (ASA) physical status 1-3 
+Laparoscopic or breast surgery (wide local excision/mastectomy)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Inadequate English comprehension due to a language barrier, cognitive deficit or intellectual disability
+Significant cardiorespiratory impairment (i.e. ASA 4 patients)
+Impaired pharyngeal/oesophageal function (e.g. bulbar palsy, achalasia)
+Phenylketonuria (contraindication to sweetener aspartame in chewing gum)
+Contraindication to dexamethasone (e.g. severe uncontrolled diabetes mellitus, uncontrolled infection)
+Contraindication to droperidol (e.g. prolonged QT syndrome)
+Contraindication to ondansetron
+Full upper or lower denture (not feasible to chew gum)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Concealed envelope technique</concealment>
+    <sequence>Computer generated randomisation sequence</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Continuous data will be tested for normality. Normally distributed data will be summarised using mean and standard deviation and will be compared with unpaired two-tailed t-tests. Non-normally distributed data will be summarized with median (range/IQR) and will be compared with Wilcoxon ranksum tests. Categorical data will be summarised using number (count) and compared using Fischers exact test or chi-squared test as appropriate. Survival data (e.g. time to discharge) will be summarised using median (range/IQR) and compared using the logrank test.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>8/02/2016</anticipatedstartdate>
+    <actualstartdate>5/02/2016</actualstartdate>
+    <anticipatedenddate>8/08/2016</anticipatedenddate>
+    <actualenddate>23/06/2016</actualenddate>
+    <samplesize>100</samplesize>
+    <actualsamplesize>94</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>23/06/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <postcode>3050 - Royal Melbourne Hospital</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Jai Darvall</primarysponsorname>
+    <primarysponsoraddress>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Australian and New Zealand College of Anaesthetists</fundingname>
+      <fundingaddress>630 St Kilda Rd., Melbourne VIC 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Kate Leslie</othercollaboratorname>
+      <othercollaboratoraddress>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this pilot trial is to determine the efficacy and safety of chewing gum compared with ondansetron for the treatment of postoperative nausea or vomiting (PONV). PONV is a significant complication of general anaesthesia. In addition to patient dissatisfaction resulting from PONV, the cost burdens of anti-emetic therapy and delayed discharge from the PACU are considerable. Chewing gum in the postoperative period has been well established in the treatment of ileus resulting from gastrointestinal surgery, but its efficacy as a treatment for PONV has to date not been assessed. A prospective cohort study conducted by this research team on the use of chewing gum in the PACU confirmed its acceptability to patients and staff. We now propose to determine the non-inferiority of chewing gum to ondansetron for PONV. The results of this pilot study will guide a future large randomised controlled trial assessing the efficacy of this comparative simple therapy, of negligible cost. This study thus has the potential to significantly improve patient and health service outcomes.
+
+The aims of the pilot study
+1. Refine and test the trial protocol for a large multicentre study
+2. Assess acceptability of the trial protocol to our patients and anaesthetic/nursing staff, as a
+high recruitment and participation rate will be required for a viable definitive study.
+3. Confirm the high rates of PONV despite prophylaxis seen in our prior trial, to inform sample
+size estimates for a definitive trial.
+4. Assess the proportion of patients meeting criteria for chewing gum in the PACU, to guide the external validity of this trial.
+5. Assess the event rates using the protocol developed
+
+Hypothesis to be tested
+Chewing gum in the immediate postoperative period is efficacious and safe compared to ondansetron in the treatment of PONV.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health HREC</ethicname>
+      <ethicaddress>Office for Research
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</ethicaddress>
+      <ethicapprovaldate>21/12/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>28/10/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jai Darvall</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 7136</phone>
+      <fax />
+      <email>jai.darvall@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jai Darvall</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 7136</phone>
+      <fax />
+      <email>jai.darvall@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jai Darvall</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 7136</phone>
+      <fax />
+      <email>jai.darvall@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jai Darvall</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Melbourne Hospital
+300 Grattan St
+Parkville VIC 3050</address>
+      <phone>+61 3 9342 7136</phone>
+      <fax />
+      <email>jai.darvall@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

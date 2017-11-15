@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371779">
+  <stage>Registered</stage>
+  <submitdate>4/11/2016</submitdate>
+  <approvaldate>3/01/2017</approvaldate>
+  <actrnumber>ACTRN12617000008325p</actrnumber>
+  <trial_identification>
+    <studytitle>Using brain rhythms to assess anti-anxiety drug action</studytitle>
+    <scientifictitle>Using brain rhythms to assess anti-anxiety drug action in healthy adult volunteers</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Single doses of one of the following anxiolytic medications: buspirone 5, 10 or 15mg, citalopram 10mg, clonidine 75mcg, pregabalin 25, 75 or 100mg, triazolam 0.125, 0.25 or 0.5mg, promethazine 10mg, quetiapine 25mg, venlafaxine 75mg. All medications will be encapsulated (i.e.administered as an oral capsule) to assist with blinding. Dosing will be directly observed by study staff.</interventions>
+    <comparator>Encapsulated microcellulose placebo capsule</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Response inhibition, assessed using the Stop Signal Task.</outcome>
+      <timepoint>Approximately 1 hour after dosing</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome> EEG frontal midline power, </outcome>
+      <timepoint>Approximately 1 hour after dosing</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>EEG left-right and frontal-posterior alpha asymmetry</outcome>
+      <timepoint>Approximately 1 hour after dosing</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stop signal reaction time in the stop signal task</outcome>
+      <timepoint>Over the first hour post-dose</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Choice reaction time task; Subjects press mouse buttons in response to presented stimuli. The percent of left (outcome delivery) click responses out of left+right (no outcome) responses in the choice task are assessed separately for each condition (net gain, conflict, and net loss). This is a composite outcome for net gain, conflict and net loss conditions.</outcome>
+      <timepoint>Over the first hour post-dose</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Capable of understanding and signing an informed consent.
+2.	Aged 18-65 years on the day of consent.
+3.	Good general health.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>1.	Females who are or intend to become pregnant, or are lactating.
+2.	Participants who, in the opinion of the investigator, do not understand the information and procedures of the study, or would not be compliant with them (in particular the study restrictions and risks involved).
+3.	Any participant for whom the investigator believes, for any reason, that participation would not be an acceptable risk. 
+4.	Regular use of any drug that alters mood or is used to treat mental disorder, including daily use of alcohol or use of alcohol within 24 hours prior to testing. 
+5.	Subjects with a prior history of seizures; susceptibility to photosensitivity; or a history of allergic skin reactions.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Prof Glue will create the random codes and encapsulate all treatments. All study personnel involved with recruitment, dosing, data collection and analysis will have no access to the random codes until the databases are locked. All medications will be provided in opaque labelled envelopes.</concealment>
+    <sequence>Computer generated random code, with stratification based on gender.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>There are four discrete dosing groups in this study, three of which are evaluating dose-response relationships in the study tasks for buspirone, triazolam and pregabalin. The fourth group will test single doses of other anxiolytic drugs not yet evaluated in the study task paradigm.
+1. Placebo, buspirone (5, 10*, 15mg)
+2. Placebo, triazolam (0.125, 0.25*, 0.375mg)
+3. Placebo, pregabalin (25, 75*, 100 mg)
+4. Placebo, buspirone (10*mg), citalopram (SSRI, 10mg), venlafaxine (SNRI, 75mg), clonidine (adrenergic agonist, 75mcg), quetiapine (atypical antipsychotic, 25mg), promethazine (antihistamine, 10mg)
+</designfeatures>
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods>- Behaviour: Post-dosing behaviour changes will be compared between drug and placebo dosing using a mixed measures ANOVA with drug/dose as a between participants factor and, e.g., changes in measures across trials as repeated measures with polynomial contrasts extracted. 
+- Biomarker: Raw EEG will be converted to log Fourier power for an epoch centred on the 500ms after a stop signal. GCSR will be calculated as stop-go[linear] x delay[quadratic] for channel F8 and the resultant value submitted to ANOVA.  Additional EEG analyses will assess polynomial components of anterior-posterior and left-right location of channels on the scalp. Significant results will be explored with post hoc split ANOVAs.  
+- Choice EEG: as for biomarker EEG analysis but with analysis centred on the trial start and GCSR calculated as payoff[quadratic]. 
+- Resting EEG: log Fourier power will be calculated for eyes open and eyes closed periods separately for all electrodes. Frontal midline power, left-right alpha asymmetry, and frontal-posterior alpha asymmetry will be extracted as separate measures and each subjected to repeated measures ANOVA with effect of drug group and eyes open/closed as factors. 
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate>1/02/2018</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>190</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>PO Box 56
+Dunedin, 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Otago University</fundingname>
+      <fundingaddress>PO Box 56
+Dunedin, 9054
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Anxiety disorders diagnosis is currently based on clinical symptom check lists and there are no biological markers to diagnose specific syndromal causes. We have described a detailed theory of the brain systems controlling anxiolytic-insensitive threat-avoidance and anxiolytic-sensitive threat-approach. This new biomarker should allow division of untreated anxiety patients, with superficially similar clusters of symptoms, into distinct high scoring (syndromal) and low scoring groups with different treatment-responses. This would be the first theoretically-derived biomarker for any mental disorder and should: 1) predict treatment efficacy better than current symptom-based diagnoses; 2) provide a human single dose test of novel anxiolytics; 3) provide a starting point for developing biomarkers for other anxiety syndromes; and so, 4) greatly improve treatment outcomes and cost-effectiveness.
+
+Our previous work has shown that single doses of 3 types of anxiolytic drug all reduce goal-conflict-specific rhythmicity (GCSR) in a stop signal task despite sharing only anxiolytic and not panicolytic or antidepressant or other actions. Preliminary results indicate that this action is also seen in a variant of the stop signal task with targeted rather than speeded responses; but drug action has not been tested in the choice tasks, involving monetary gain and loss, in which GCSR was originally demonstrated and from which the money-free variant was developed. Generality of the results has also not been extended to other doses of the original anxiolytic drugs or to drugs with broader actions on panic and depression that share a capacity to reduce clinical anxiety.
+
+There are several objectives in the proposed randomized double blind parallel group studies:
+-To evaluate the dose-response relationship for drugs already known to affect an EEG biomarker of an anxiety-related process. 
+-To evaluate the generalisation of effect on the EEG biomarker of the anxiety-related process to drugs with broader anxiolytic-antipanic-antidepressant-antipsychotic actions.
+-To evaluate the dose-response relationship of anxiolytic drugs on behaviour and potential EEG biomarkers in behavioural tasks involving explicit approach-avoidance conflict generated by gain and loss of money.</summary>
+    <trialwebsite>none</trialwebsite>
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern HDEC</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+133 Molesworth Street
+Thorndon
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>18/11/2016</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Neil McNaughton</name>
+      <address>Department of Psychology
+University of Otago
+William James Building
+275 Leith Walk
+Dunedin 9016</address>
+      <phone>+64 3 479 7634</phone>
+      <fax>NA</fax>
+      <email>nmcn@psy.otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Neil McNaugthon</name>
+      <address>Department of Psychology
+University of Otago
+William James Building
+275 Leith Walk
+Dunedin 9016</address>
+      <phone>+64 3 479 7634</phone>
+      <fax>NA</fax>
+      <email>nmcn@psy.otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Neil Mcnaughton</name>
+      <address>Department of Psychology
+University of Otago
+William James Building
+275 Leith Walk
+Dunedin 9016</address>
+      <phone>+64 3 479 7634</phone>
+      <fax>NA</fax>
+      <email>nmcn@psy.otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Paul Glue</name>
+      <address>University of Otago
+PO Box 56
+Dunedin, 9054
+</address>
+      <phone>+64 21 243 3372</phone>
+      <fax>NA</fax>
+      <email>paul.glue@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

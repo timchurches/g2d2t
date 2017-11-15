@@ -1,0 +1,218 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368783">
+  <stage>Registered</stage>
+  <submitdate>18/06/2015</submitdate>
+  <approvaldate>14/08/2015</approvaldate>
+  <actrnumber>ACTRN12615000846527</actrnumber>
+  <trial_identification>
+    <studytitle>Peri-Operative Evaluation of Sedation Depth in Cardiac Surgery: Validity and Reliability of Ocular Micro-Tremor (OMT)</studytitle>
+    <scientifictitle>Peri-Operative Evaluation of Sedation Depth in Cardiac Surgery: Validity and Reliability of Ocular Micro-Tremor (OMT) in comparison with clinically used tools.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil </secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiac surgery .</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The Brainstem Biometrics Tremor Monitoring Unit (TMU) provides a method of measuring OMT through the eyelid (open or closed) and automatically displaying and analysing the resulting measurement on a monitor.  The primary measurement variable is mean OMT frequency averaged over a short time interval (0.5-5 seconds). The TMU is composed of a surface mount amplifier and a piezoelectric transducer.  The sensor is adhered to the patients eyelid and the surface mount amplifier is snapped onto a standard EEG patch at the temple.  A connecting wire passes behind the patients ear into the recording device.  The signal from the sensor is amplified, filtered, processed and displayed real-time on both an oscilloscope (waveform) and a numerical reading (frequency and amplitude numbers) taken as an average of each interval of data and filtering out saccadic or seismic events which are outside of the naturally occurring range of OMT values. The TMU will be put on by the research coordinator or Sub Investigator (anaesthetist), it will be continuous monitoring until extubation. This is not part of routine standard care.</interventions>
+    <comparator>BIS monitoring is routine in anaesthesia using smal external pads covered by a plastic strip over the forehead. Measurements are recorded continuously prior to anaesthesia,during induction, re-emergence and until extubation in the ICU.It will administered by the Research Coordinator or the anaesthetist and is commonly used as part of standard care but not always. The RASS (Richmond Agitation-Sedation scale) is a clinical scale of sedation in ICU. This involves talking or applying physical stimulation to the patient to determine sedation level of patient based on RASS clinical scale, etc.Patients will act as their own controls and different measurements will be compared in the same patients.
+RASS scores will be taken at 30 minute intervals, after emergence from anaesthesia, these scores will be taken by the ICU bedside nurse.
+ </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome is the level of agreement between OMT and RASS at all clinical RASS levels achieved while sedated in intensive care</outcome>
+      <timepoint>RASS scores will be taken at 30 minute intervals, after emergence from anaesthesia until  extubation in the ICU.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Predictive capacity of OMT vs BIS to differentiate specific clinical events: induction, intubation, skin incision, bypass on and off, sternal closure and transfer to ICU.
+	</outcome>
+      <timepoint>OMT and BIS measurements will be recorded continuously prior to anaesthesia, during induction, re-emergence and until extubation in the ICU.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Determine the nature and strength and of the relationship between OMT and BIS under differing anesthetic agents and during hypothermia
+
+</outcome>
+      <timepoint>From prior to anaesthesia until re-emergence from anaesthesia</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ease of OMT application and monitoring on visual scale of 1-10
+</outcome>
+      <timepoint>From prior to induction of anaesthesia to completion of surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bedside nurse satisfaction with OMT on a visual scale 1-10
+</outcome>
+      <timepoint>At completion of monitoring of OMT at the bedside.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients undergoing elective/semi-elective cardiac surgery and expected to be ventilated and sedated post-operatively.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age less than 18 years, salvage surgery,Anaesthesia plan doesn't include Sevoflurane, Propofol or Dexmedetomidine, Patients with artifical eye/lens, Patients with third nerve palsy, refused consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Data will initially be assessed for normality with quantification of the relationship between OMT and RASS determined using generalised linear modelling accounting for repeated measures. Should OMT be found to have significant departures from normality, comparisons will be performed using Wilcoxon sign-rank tests. The predictive capacity of OMT and BIS to differentiate specific clinical events will be performed using logistic regression and reported as area under the receiver operator curve. The nature and strength and of the relationship between OMT and BIS under differing anesthetic agents and during hypothermia will be determined using generalized linear modeling and reported at specific time points using the R-square statistic. Ease of application, monitoring and nurse satisfaction will be reported using means (standard deviation) or median (interquartile range) in accordance with the underlying distribution of the visual scale. A two sided p-value of 0.05 will be considered to be statistically significant
+With 90 subjects, this study will have a 90% power to detect a difference in OMT between any two RASS levels equivalent to 37% of one standard deviation with a two sided p-value of 0.05. Similarly, 90 subjects will provide a 90% power to detect a correlation coefficient at any given time point between OMT and BIS equal to r=0.37 with a two sided p-value of 0.05. These calculations are inclusive of a 15% allowance to account for the unexpected possibility that OMT will not follow a normal distribution19. In accordance with Kevin3, effect sizes of this magnitude are both clinically relevant and biologically achievable.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>31/08/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/08/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>90</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Prince of Wales Private Hospital - Randwick</hospital>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>2031 - Randwick</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Monash Health</primarysponsorname>
+    <primarysponsoraddress>246 Clayton Road, Clayton Victoria 3168</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>BrainstenBiometrics Prop Ltd
+</fundingname>
+      <fundingaddress> Unit 156/145 Lincoln Road, Lincoln MA01773</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to assess monitoring of anaesthetised and sedated patients in intensive care using devices that assess different parts of your brain activity which reflects your level of consciousness and sedation. 
+Sedation management is based on a wide range of factors including variable assessments of amnesia and recall, comfort level, risk of self-injury, and nurses judgment. At present the standardised sedation scoring systems such as the Richmond Agitation Scoring Scale (RASS) and the Glasgow Coma Score (GCS) are used frequently by doctors and nurses to manage sedative medication to ensure patient comfort.  Monitoring device such as the Bispectral Index (BIS), which measures electrical activity of the brain via small external pads attached to the forehead, is used in patients undergoing general anaesthesia fairly routinely.
+Comparison of these three different sedation monitoring techniques with the different combinations of standardly used anaesthetics and analgesics will hopefully determine more accurate ways of tracking patients sedation levels and improve management in both surgery and intensive care settings. Furthermore, as light sedation is highly desirable in intensive care patients, this study will test the feasibility of using OMT in achieving light sedation more effectively than with clinical scales.
+</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>Nil to date</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Prince of Wales Human research and Ethics Committee</ethicname>
+      <ethicaddress>Room G71 East Wing
+Edmund Blacket Building
+Prince of Wales Hospital
+Randwick NSW 2031</ethicaddress>
+      <ethicapprovaldate>20/12/2013</ethicapprovaldate>
+      <hrec>HREC/13/POWH/677</hrec>
+      <ethicsubmitdate>26/11/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Health Human Research and Ethics Committee</ethicname>
+      <ethicaddress>246 Clayton Road, Clayton
+Victoria 3168</ethicaddress>
+      <ethicapprovaldate>9/07/2015</ethicapprovaldate>
+      <hrec>15254A</hrec>
+      <ethicsubmitdate>11/06/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Yahya Shehabi</name>
+      <address>Monash Medical Centre
+246 Clayton Road
+Clayton Victoria 3168</address>
+      <phone>+61 3 9594 2730</phone>
+      <fax>+61 3  9594 6063</fax>
+      <email>yahya.shehabi@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Yahya Shehabi</name>
+      <address>Program Director Critical Care 
+Monash Medical Centre
+246 Clayton Road
+Clayton Victoria 3168</address>
+      <phone>+61 3 9594 2730</phone>
+      <fax>+61 3 9594 6063</fax>
+      <email>yahya.shehabi@monashhealth.org </email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Yahya Shehabi</name>
+      <address>Program Director Critical Care 
+Monash Medical Centre
+246 Clayton Road
+Clayton Victoria 3168</address>
+      <phone>+61 3 9594 2730</phone>
+      <fax>+61 3  9594 6063</fax>
+      <email>yahya.shehabi@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Pauline Galt</name>
+      <address>Intensive care Unit 
+Monash Medical Centre
+246 Clayton Road
+Clayton Victoria 3168</address>
+      <phone>+61 3 9594 3048</phone>
+      <fax>+61 3  9594 6063</fax>
+      <email>pauline.galt@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

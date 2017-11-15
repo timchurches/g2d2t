@@ -1,0 +1,521 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1233">
+  <stage>Registered</stage>
+  <submitdate>13/07/2006</submitdate>
+  <approvaldate>13/07/2006</approvaldate>
+  <nctid>NCT00352534</nctid>
+  <trial_identification>
+    <studytitle>Vincristine, Dactinomycin, and Doxorubicin With or Without Radiation Therapy or Observation Only in Treating Younger Patients Who Are Undergoing Surgery for Newly Diagnosed Stage I, Stage II, or Stage III Wilms' Tumor</studytitle>
+    <scientifictitle>Treatment for Very Low and Standard Risk Favorable Histology Wilms Tumor</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NCI-2009-01067</secondaryid>
+    <secondaryid>AREN0532</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stage I Wilms Tumor</healthcondition>
+    <healthcondition>Stage II Wilms Tumor</healthcondition>
+    <healthcondition>Stage III Wilms Tumor</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Other</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: surgery - therapeutic conventional surgery
+Treatment: drugs - vincristine sulfate
+Other interventions - dactinomycin
+Treatment: drugs - doxorubicin hydrochloride
+Treatment: other - 3-dimensional conformal radiation therapy
+
+Experimental: Nephrectomy and re-evaluation (very low-risk disease) - Patients undergo nephrectomy only. If they meet criteria, they are then observed periodically for 5 years. Patients with recurrent disease undergo surgery (immediate or delayed) and receive chemotherapy as in stratum III. Patients with no metachronous renal disease receive radiotherapy. Patients with metachronous disease undergo renal-sparing surgery and chemotherapy as in stratum III, but no radiotherapy. Treatment continues for up to 25 weeks.
+
+Experimental: Nephrectomy, chemotherapy (standard-risk, stg I or II) - Patients undergo nephrectomy. Between 9 and 14 days post-nephrectomy, patients receive vincristine IV beginning on day 1, every week for 10 weeks then every 3 weeks for a total of 15 doses. Patients receive dactinomycin IV beginning day 1, alternating every 3 weeks with doxorubicin hydrochloride IV for a total of 5 doses of dactinomycin and 4 doses of doxorubicin. Treatment continues for up to 25 weeks.
+
+Experimental: Nephrectomy/biopsy, chemotherapy (standard-risk, stage III) - Patients undergo nephrectomy, if feasible, or biopsy. For patients who undergo biopsy only, definitive surgery is undertaken at week 7 or 13. Between 9 and 14 days post-nephrectomy, patients receive vincristine IV beginning on day 1 every week for 10 weeks then every 3 weeks for a total of 15 doses. Patients receive dactinomycin IV beginning day 1, alternating every 3 weeks with doxorubicin hydrochloride IV for a total of 5 doses of dactinomycin and 4 dose of doxorubicin hydrochloride. Patients undergo radiotherapy over 5-7 days after nephrectomy. Treatment continues for up to 25 weeks.
+
+
+Treatment: surgery: therapeutic conventional surgery
+Undergo surgery
+
+Treatment: drugs: vincristine sulfate
+Given IV
+
+Other interventions: dactinomycin
+Given IV
+
+Treatment: drugs: doxorubicin hydrochloride
+Given IV
+
+Treatment: other: 3-dimensional conformal radiation therapy
+Patients undergo radiotherapy
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: surgery</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Event Free Survival Probability - Probability of no relapse, secondary malignancy, or death after 4 year in the study.</outcome>
+      <timepoint>4 years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) Probability - Probability of being alive after 4 years in the study.</outcome>
+      <timepoint>4 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of Contralateral Kidney Lesions - Number of contralateral kidney lesions during follow-up.</outcome>
+      <timepoint>During follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of Renal Failure - Number of renal failures defined as requiring dialysis or renal transplant as determined by low GFR during follow-up</outcome>
+      <timepoint>During follow-up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histologically confirmed Wilms' tumor
+
+               -  Newly diagnosed stage I-III disease
+
+               -  Favorable histology
+
+          -  No moderate- or high-risk Wilms' predisposition syndromes
+
+          -  Must meet 1 of the following disease stratification categories:
+
+               -  Very low-risk disease
+
+                    -  Stage I disease
+
+                    -  Age &lt; 2 years
+
+                    -  Tumor weight &lt; 550 g
+
+                    -  Regional lymph nodes histologically negative (must have been sampled)
+
+                    -  No pulmonary metastases on CT scan of chest
+
+                    -  No synchronous bilateral Wilms tumors (Stage V)
+
+                    -  Not predisposed to develop bilateral Wilms tumors, defined as unilateral
+                       Wilms tumor and any of the following:
+
+                         -  Aniridia
+
+                         -  Beckwith-Wiedemann syndrome
+
+                         -  Simpson-Golabi-Behmel syndrome
+
+                         -  Denys-Drash syndrome or other associated genito-urinary anomalies
+
+                         -  Multicentric WT or unilateral WT with contralateral nephrogenic rest(s)
+                            in a child &lt; 1 year of age
+
+                         -  Diffuse hyperplastic perilobar nephroblastomatosis
+
+               -  Standard-risk disease meeting 1 of the following criteria:
+
+                    -  Disease does not require radiotherapy
+
+                         -  LOH at chromosomes 1p and 16q for stage I or II
+
+                         -  Stage I disease meeting 1 of the following criteria:
+
+                              -  Age = 2 years to age &lt; 30 years
+
+                              -  Tumor weight = 500 g
+
+                         -  Stage II disease
+
+                              -  Age &lt; 30 years
+
+                              -  Any tumor weight
+
+                    -  Disease requires radiotherapy
+
+                         -  No LOH at chromosomes 1p and 16q*
+
+                         -  Stage III disease
+
+          -  Must be enrolled on protocol COG-AREN03B2
+
+          -  Karnofsky performance status (PS) 50-100% for patients &gt; 16 years old
+
+          -  Lansky PS 50-100% for patients = 16 years old
+
+          -  Bilirubin (direct) = 1.5 times upper limit of normal (ULN)
+
+          -  AST or ALT &lt; 2.5 times ULN
+
+          -  Shortening fraction = 27% by echocardiogram OR ejection fraction = 50% by radionuclide
+             angiogram (standard-risk disease)
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patient must use effective contraception
+
+          -  No prior tumor-directed chemotherapy or radiotherapy
+
+               -  Patients transferring from AREN03B2 with LOH 1p and 16q allowed</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>29</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/10/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>808</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/09/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC,WA</recruitmentstate>
+    <hospital>Sydney Children's Hospital - Randwick</hospital>
+    <hospital>The Children's Hospital at Westmead - Westmead</hospital>
+    <hospital>Royal Brisbane and Women's Hospital - Herston</hospital>
+    <hospital>Royal Childrens Hospital - Herston</hospital>
+    <hospital>Women's and Children's Hospital-Adelaide - North Adelaide</hospital>
+    <hospital>Royal Children's Hospital - Parkville</hospital>
+    <hospital>Princess Margaret Hospital for Children - Perth</hospital>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>5006 - North Adelaide</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <postcode>6008 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Newfoundland and Labrador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>San Juan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Children's Oncology Group</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>National Cancer Institute (NCI)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This phase III trial is studying vincristine, dactinomycin, and doxorubicin with or without
+      radiation therapy or observation only to see how well they work in treating patients
+      undergoing surgery for newly diagnosed stage I, stage II, or stage III Wilms' tumor. Drugs
+      used in chemotherapy, such as vincristine, dactinomycin, and doxorubicin, work in different
+      ways to stop the growth of tumor cells, either by killing the cells or by stopping them from
+      dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving these
+      treatments after surgery may kill any tumor cells that remain after surgery. Sometimes, after
+      surgery, the tumor may not need additional treatment until it progresses. In this case,
+      observation may be sufficient.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00352534</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Conrad Fernandez, MD</name>
+      <address>Children's Oncology Group</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

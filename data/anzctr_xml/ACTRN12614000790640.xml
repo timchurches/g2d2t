@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366752">
+  <stage>Registered</stage>
+  <submitdate>19/07/2014</submitdate>
+  <approvaldate>24/07/2014</approvaldate>
+  <actrnumber>ACTRN12614000790640</actrnumber>
+  <trial_identification>
+    <studytitle>A Prospective Randomised Trial of Two Tidal Volume Ventilator Strategies in Patients Undergoing Major Surgery</studytitle>
+    <scientifictitle>A prospective randomised trial of intraoperative tidal volume ventilation with 6ml/kg (Ideal Body weight) and positive end expiratory pressure (PEEP) of 5 cm H2O versus 10ml/kg (Ideal Body weight) and PEEP of 5 cm H2O, in adult patients undergoing major surgery.</scientifictitle>
+    <utrn>U1111-1159-4667</utrn>
+    <trialacronym>Not applicable</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Effects of ventilation in patients undergoing major surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>In patients undergoing major surgery who mechanical ventilation patients with an endotracheal tube, the ventilation strategy will be randomised to compare either a 6ml/kg or 10ml/kg tidal volume strategy in combination with PEEP. </interventions>
+    <comparator>Both group will receive the intervention; the ventilation strategy will either a 6ml/kg or 10ml/kg tidal volume in combination with PEEP. </comparator>
+    <control>Dose comparison</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The number of patients with a postoperative pulmonary complication. Pulmonary complications include pneumonia, bronchospasm, atelectasis, pulmonary congestion, pulmonary embolism, respiratory failure and requirements for mechanical ventilation.</outcome>
+      <timepoint>Duration of hospital stay</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Requirements for post-operative Intensive Care </outcome>
+      <timepoint>Duration of hospital stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of hours in ICU</outcome>
+      <timepoint>Duration of ICU stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital stay</outcome>
+      <timepoint>Duration of hospital stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>30 day mortality</outcome>
+      <timepoint>30 days postoperatively</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients will be eligible to participate in this study if:
+1. The patient is aged 40 years or older
+2. The treating anaesthetist expects that the patient will remain intubated for a period of equal to or greater than two hours
+3. The patient will have an arterial line inserted for routine monitoring of blood pressure during the surgical procedure</inclusivecriteria>
+    <inclusiveminage>40</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be ineligible for participation if:
+1. The patient is pregnant and/or lactating
+2. The patient has planned thoracic surgery
+3. The patient has planned cardiac surgery
+4. The patient has planned intracranial neurosurgery
+5. Previously enrolment in this Trial</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All adult patients scheduled to undergoing a major surgical procedure and require mechanical ventilation in the operating  suite of the Austin Hospital will be screened for eligibility. Once informed consent has been obtained, randomisation will be by means of sealed opaque envelopes with permuted blocks of variable size. Each envelope will contain a study arm allocation with the tidal volume target as well as a copy of a simplified study protocol.</concealment>
+    <sequence>Permuted block randomisation will be used using computer generated software.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>There are two study groups associated with this trial:
+1. Volume control ventilation with a tidal volume 6ml/kg of Ideal Body Weight and PEEP of 5cm H2O.
+2. Volume control ventilation with tidal volume 10ml/kg of Ideal Body Weight and PEEP of 5cm H2O.
+
+Calculation of tidal volume &amp; use of PEEP.
+Tidal volume for each participant will be calculated base on a) the patients gender and b) the patients ideal body weight (IBW). IBW will be calculated by the treating anaesthetist using the following standard formula.
+For males: 50 + 0.91 (centimetres in height  152.4)
+For females 45.5 + 0.91 (centimetres in height  152.4) 
+
+Immediately after randomisation, the tidal volume will be set on the ventilator for either a target of 6ml/kg or 10 ml/kg based on ideal body weight and gender. This allocated tidal volume target will be maintained for the duration of the surgical procedure. At the end of the surgical procedure the patient will have their anaesthesia reversed and will be woken and weaned from mechanical ventilation according to standard hospital protocol. There is no change to the type of anaesthesia provide or any oxygenation or ventilation management of enrolled patients during the surgical procedures.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>This is a prospective randomised trial comparing two tidal volume targets in patients undergoing major surgery. Data will be analysed on an intention-to-treat basis. Comparisons will be made using t-test and ANOVA for repeated-measures or Wilcoxon rank-signed test and Kruskall-Wallis according to the underlying distribution for continuous data and Chi-square for categorical data. A Kaplan-Meier curve with log-rank test will be performed to further compare in-hospital mortality and rate of discharge home where appropriate. Logistic regression analysis will also be performed to adjust for baseline imbalances.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/08/2014</anticipatedstartdate>
+    <actualstartdate>1/09/2014</actualstartdate>
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1240</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <postcode>3084 - Heidelberg</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Departments of Intensive Care and Anaesthesia, Austin Hospital </primarysponsorname>
+    <primarysponsoraddress>Studley Road, Heidelberg, Victoria, 3084, Australia </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Departments of Intensive Care and Anaesthesia, Austin Hospital </fundingname>
+      <fundingaddress>Studley Road, Heidelberg, Victoria, 3084, Australia </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>There is no good evidence to guide the choice of breath size (tidal volume) delivered by the breathing machine during anaesthesia. In a recent multi-centre study, we found that anaesthetists deliver a variable tidal volumes with some patients receiving low-tidal volumes (6-7 ml/kg) and others receiving high-tidal volumes (9-10 ml/Kg) according to clinician preference. We also found that they typically positive end expiratory pressure (PEEP) (pressure to keep lung when breathing out has been completed) at an average modest value of 5.0 cmH2O. Thus, in Victoria and the Austin hospital in patients under general anaesthesia administered tidal volume can be variably high or low and PEEP is often applied at modest levels. Because of such variability and the possibility that one approach or another may be better at avoiding lung complications after anaesthesia, we wish to perform prospective randomised trial to evaluate the impact and outcome of two different tidal volume strategies during anaesthesia.
+
+Specifically, we wish to conduct a pilot single-centre prospective randomised trial comparing a low tidal volume (6 ml/kg) to a higher tidal volume (10 ml/kg) tidal volume strategy in combination with PEEP at 5 cm H2O for patients undergoing major surgery. The anticipated sample size is 900 participants over a 18 month period. Patients will be randomly allocated to either low or control tidal volume ventilation for the period of their surgical procedure to test the hypothesis that one of these two approaches in superior at decreasing post-surgical lung complications.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Research Ethics Unit Austin Health</ethicname>
+      <ethicaddress>Studley Road, Heidelberg, Victoria, 3084, Australia </ethicaddress>
+      <ethicapprovaldate>14/07/2014</ethicapprovaldate>
+      <hrec>HREC/14/Austin/260</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia
+Austin Hospital, Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+61 3 94965000</phone>
+      <fax>+61 3 94596421</fax>
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia
+Austin Hospital, Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+61 3 94965000</phone>
+      <fax>+61 3 94596421</fax>
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia
+Austin Hospital, Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+61 3 94965000</phone>
+      <fax>+61 3 94596421</fax>
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurence Weinberg</name>
+      <address>Department of Anaesthesia
+Austin Hospital, Studley Road, Heidelberg, 3084, Victoria</address>
+      <phone>+61 3 94965000</phone>
+      <fax>+61 3 94596421</fax>
+      <email>laurence.weinberg@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

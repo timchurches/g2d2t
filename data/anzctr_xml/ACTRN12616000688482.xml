@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370715">
+  <stage>Registered</stage>
+  <submitdate>17/05/2016</submitdate>
+  <approvaldate>26/05/2016</approvaldate>
+  <actrnumber>ACTRN12616000688482</actrnumber>
+  <trial_identification>
+    <studytitle>Change of Respiratory Function during Extracorporeal Life Support (ECLS), a Pilot Study to identify Pulmonary Predictors of Outcome</studytitle>
+    <scientifictitle>Change of Respiratory Function in Children during ECLS, a Pilot Study to identify Pulmonary Predictors of Outcome</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory failure</healthcondition>
+    <healthcondition>Cardiac failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Pulmonary function data will be collected, including measures of electrical impedance tomography (EIT) which, will be performed on a once daily base whilst the patient is on ECLS and the day after weaning off ECLS. The EIT will measure pulmonary function when the patient is on standard ventilation settings. An example of typical ventilation setting for a patient on ECLS are:
+Mode:Pressure Controlled Ventilation (PC)
+Positive End-Expiratory Pressure [mbar] (PEEP): 10
+Peak Inspiratory Pressure [mbar] (PIP): 20
+Tidal Volume (Vt)[mL/kg]: Not Applicable
+Respiratory Rate [bpm] (RR): 10-15
+Fraction of Inspired Oxygen (FiO2): 0.4
+Inspiration Time [sec] (Ti):1
+Pressure Support [mbar] (PS): Not applicable
+
+Lung recruitment will can be undertaken on patients on ECLS for both respiratory and cardiac conditions, however remains at the discretion of the daily treating team. These function test maneuvers taken 30minutes. The pressure ramp is set according to the patient's age. Hysteresis, upper and lower inflection points, resistance and compliance values will be recorded, The maximal pressure ramp settings are as follows:
+0-1 years- 30 mbar
+2-5 years- 35 mbar
+&gt;5 years- 45 mbar
+
+This pulmonary function data will be collected once daily for the duration of the ECLS run and one day following cessation of ECLS. There is no maximum follow-up period.</interventions>
+    <comparator>Not applicable</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Early Detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>We intend to use our standard approach to explore all possible EIT parameters including respiratory mechanic data of the ventilator to identify predictors of successful ECLS treatment and recovery of the lung. A change of 20% from baseline is generally accepted as a clinical important change in pulmonary function tests. This will be determined through review of the collected data (see below).
+
+The pulmonary function measures to be collected include:
+
+Ventilation: tidal volume, tidal volume/kg, respiratory rate, FiO2, PEEP, PIP, PS, Ti, Compliance, Resistance, MAP, Amplitude, Frequency.  
+PV Curve: Max. Pressure Ramp, Compliance Stat, Volume recruitment, Slope.
+EIT: End-expiratory level (EEL) Global, EEL Anterior, EEL Posterior, Amplitude Global, Amplitude Anterior, Amplitude Posterior, F-Index, GI Index, Profiles, Perfusion index. 
+
+This data will be collected on a data collection form, from the patient's medical records and directly from the ventilator. </outcome>
+      <timepoint>Data will be collected from the recruited patients once daily for the duration of ECLS and once daily one day following weaning off ECLS</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Not applicable</outcome>
+      <timepoint>Not applicable</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>This study will include patients that require extracorporeal life support (ECLS) for both respiratory and/or cardiac failure. The plan for enrollment is to capture patients from day 1 of the ECLS run. This allows for greater data collection to determine if there is a trend in pulmonary function indicators.</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>None</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>We will use an ANOVA with Bonferroni correction for repeated measurements and analyze data with a general mixed model, if one of the lung function parameters at any given point of ECLS treatment predicts outcome. The patients will be stratified into ECLS for cardiac and respiratory conditions.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>2/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/10/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Lady Cilento Children's Hospital - South Brisbane</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Lady Cilento Children's Hospital</primarysponsorname>
+    <primarysponsoraddress>501 Stanley Street
+South Brisbane
+QLD, 4101</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Paediatric Critical Care Research Group</fundingname>
+      <fundingaddress>Level 7, Centre for Children's Health Research
+Lady Cilento Children's Hospital Precinct
+62 Graham Street, South Brisbane, QLD 4101</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other</sponsortype>
+      <sponsorname>Paediatric Critical Care Research Group</sponsorname>
+      <sponsoraddress>Level 7, Centre for Children's Health Research
+Lady Cilento Children's Hospital Precinct
+62 Graham Street, South Brisbane, QLD 4101</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Pulmonary function tests including measures of electrical Impedance tomography (EIT) will be performed on a daily base whilst the patient is on Extracorporeal Life Support (ECLS) and preferentially one day after weaning off ECLS.The following proposed interventions and pulmonary function tests are part of our current standard treatment protocol and used for clinical assessment of patients on ECLS, except for the use of EIT. To facilitate easier use of  the EIT system and measurement of pulmonary function tests, patients will be transitioned to a Hamilton G5 ventilator, which gives an easier access and download of pulmonary function data than our current fleet of ventilators (Evita XL, Servo I and Servo U). Mode and ventilation delivery of the Hamilton G5 ventilator is no different to our standard fleet. Based on the findings a potential interventional trial will be conducted investigating whether a different ventilation strategy on ECLS may improve outcome.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Children's Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>Children's Health Queensland Human Research Ethics Committee, 
+Level 7, Centre for Children's Health Research, Lady Cilento Children's Hospital Precinct, 
+62 Graham Street, South Brisbane QLD 4101</ethicaddress>
+      <ethicapprovaldate>30/06/2016</ethicapprovaldate>
+      <hrec>HREC/16/QRCH/213</hrec>
+      <ethicsubmitdate>6/06/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>Lady Cilento Children's Hospital 
+501 Stanley Street South Brisbane QLD 4101</address>
+      <phone>+61 7 3068 5733</phone>
+      <fax />
+      <email>a.schibler@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>Lady Cilento Children's Hospital 
+501 Stanley Street South Brisbane QLD 4101</address>
+      <phone>+61 7 3068 5733</phone>
+      <fax />
+      <email>a.schibler@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>Lady Cilento Children's Hospital 
+501 Stanley Street South Brisbane QLD 4101</address>
+      <phone>+61 7 3068 5733</phone>
+      <fax />
+      <email>a.schibler@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>Lady Cilento Children's Hospital 
+501 Stanley Street South Brisbane QLD 4101</address>
+      <phone>+61 7 3068 5733</phone>
+      <fax />
+      <email>a.schibler@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

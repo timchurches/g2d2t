@@ -1,0 +1,233 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371416">
+  <stage>Registered</stage>
+  <submitdate>5/09/2016</submitdate>
+  <approvaldate>27/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001346460</actrnumber>
+  <trial_identification>
+    <studytitle>A randomized controlled trial of the rapid symptom shifting therapy for anxiety </studytitle>
+    <scientifictitle>A randomized controlled trial of the Rapid symptom shifting technique (a form on imaginal therapy) for people with significant anxiety versus a control imaginal therapy using an anxiety inventory score (STAI) as an outcome.. </scientifictitle>
+    <utrn>U1111-1179-1166</utrn>
+    <trialacronym>RASST (Rapid Symptom Shift Technique) </trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention group will receive the Rapid Symptom Shift. The interviewer (a GP with 30 years experience, a masters student with research training and a alternative therapy practitioner with 20 years experience) asks the patient if they can describe where their anxiety is in space. While this may seem an unusual request, patients often have no difficulty in explaining where it is located. They are asked to describe their anxiety in terms of colour and shape. In almost all cases they say it is close but has no shape and a variety of colours. Then they are asked to change the shape to a circle and put it in front of them. They are then asked what a safe colour for them is and to make the circle that colour. That image is then moved away visually and pushed to the horizon where it is stood up like a 50 cent piece. They are asked to then make it a 10 cent piece and put it face down so it is not visible. At this point they are asked how they feel about their anxiety or stress and this visualisation from experience in the clinic almost always provides a positive response. We plan to measure this response with changes in the STAI questionnaire and the participants heart rate variability. The moving of the image to the horizon we think is the essential difference between the intervention and the control intervention. The mode of the interview delivery will be face to face on a one to one basis. It is done once only and lasts about 3 minutes. The interview will be conducted in University consulting rooms or private clinics. </interventions>
+    <comparator>The control condition will be a visualisation of washing a car. This will not involve any attempt to move the visual object (the car) to the horizon. The sessions last about 3 minutes and they are done once only. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome of the trial is to measure any statistically significant change to the participants anxiety scores on the state trait anxiety scale immediately after the intervention, and at 8 weeks after the intervention. </outcome>
+      <timepoint>Immediately after the intervention</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Heart rate variability as measured by a chest lead sending a signal to a Polar watch.</outcome>
+      <timepoint>Immediately after the intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>STAI questionnaire </outcome>
+      <timepoint>8 weeks after the intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>HAD-s Hospital anxiety and depression scale</outcome>
+      <timepoint>8 weeks after the intervention.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Otherwise healthy volunteers with significant anxiety</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Inability to understand the information sheet.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Via remote server www.caseweaver.co.nz) </concealment>
+    <sequence>Patients are randomised to the control group or treatment arm by way of the standard built-in random number generator on the server. This produces a random number between zero (assignment to the control group) and the treatment arm (assignment to one of the treatment arm or control). Each time the application launches, the random number generator is initialized with a random value, which is obtained from the system clock</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>There will be a validation certificate asking participants to state that the interviewers have not implied that the intervention they got was better than the one they did not and that there was no influence on how they answered the questionnaire. </designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The analysis will done by intention to treat analysis. Categorical outcomes were expressed using counts (percentages) and compared between treatment groups using the Chi squared test. Continuous variables were expressed using mean (standard deviation) and compared between groups using an analysis of variance. The secondary outcome of GAD is expressed in medians and compared between groups using the Mann-Whitney U test. The multivariate models for the dichotomous outcomes will be evaluated using logistic regression to calculate odds ratios (which will be converted to risk ratios using the formula of Zhang), with confidence intervals. The continuous outcomes will be analysed using multiple linear regression. All multivariate models controlled for age and gender (and the baseline level of STAI for the primary outcome of STAI). Missing data at 8 weeks will be imputed. A two-tailed p value&lt; 0.05 was considered to be significant. Statistical analysis was performed using SAS V.9.3 (SAS Institute Inc., Cary, North Carolina, USA). 
+
+The sample size: based on a difference of 7 points from a baseline of 45 (SD 13.5) on the STAI states scale and will require -58 in the intervention and 58 in the control group (two sided alpha =0.05, beta = 0.2) Total n= 116. We will recruit 130 participants to allow for 14 dropouts.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>5/10/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>29/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>130</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>10</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>23/02/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland </state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland </primarysponsorname>
+    <primarysponsoraddress>University of Auckland
+Private Bag 92019
+Auckland 1142
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Oakley Mental Health Research Foundation</fundingname>
+      <fundingaddress>PO Box 302499
+North Harbour
+Auckland 0751</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Anxiety disorders are the most common mental disorder in the developed world. The prevalence of any anxiety disorder in general practice is approximately 13% (35.7% of patients in primary care have mental disorders). In the New Zealand (NZ) community the lifetime prevalence is 24.9% and the one month prevalence is 9.3%.Anxiety is associated with poorer mental, physical health, reduced role functioning and more physical pain. General practitioners are in a good position to treat anxiety but have limited access to psychological therapies and are not always keen (and patient resistance) on using medication. A brief and effective therapy would be very helpful. The rapid symptom shifting technique has worked well when used in clinical general practice. The aim of this research is to test the effectiveness of a rapid therapy for anxiety. The symptom shifting is an adaptation of Neurolingistic Programming (NLP) processes. We have recently completed the rapid phobia NLP cure (single visit) for fear of heights (funded by the Oakley Foundation) and we found a statistically significant result (as yet unpublished other than in a conference abstract).</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committees</ethicname>
+      <ethicaddress>Ministry of Health Freyberg Building 20 Aitken Street PO Box 5013 Wellington 6011 </ethicaddress>
+      <ethicapprovaldate>20/09/2016</ethicapprovaldate>
+      <hrec>16/NTB/140 </hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>Elaine Gurr Chair of General Practice and Primary Health Care
+Director of the Goodfellow Unit
+Department of General Practice and Primary Health Care
+University of Auckland
+Private Bag 92019
+Auckland 1142
+
+Physical Address
+Tamaki Campus
+261 Morrin Road 
+Glen Innes 1072
+New Zealand
+
+
+</address>
+      <phone>+64 9-9236978</phone>
+      <fax>+64-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>Elaine Gurr Chair of General Practice and Primary Health Care
+Director of the Goodfellow Unit
+Department of General Practice and Primary Health Care
+University of Auckland
+Private Bag 92019
+Auckland 1142
+
+Physical Address
+Tamaki Campus
+261 Morrin Road 
+Glen Innes 1072
+New Zealand
+
+
+</address>
+      <phone>+64 9-9236978</phone>
+      <fax>+64-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>Director of the Goodfellow Unit
+Department of General Practice and Primary Health Care
+University of Auckland
+Private Bag 92019
+Auckland 1142
+
+Physical Address
+Tamaki Campus
+261 Morrin Road 
+Glen Innes 1072
+New Zealand
+</address>
+      <phone>+64 9-9236978</phone>
+      <fax>+64-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>Director of the Goodfellow Unit
+Department of General Practice and Primary Health Care
+University of Auckland
+Private Bag 92019
+Auckland 1142
+
+Physical Address
+Tamaki Campus
+261 Morrin Road 
+Glen Innes 1072
+New Zealand
+</address>
+      <phone>+64 9-9236978</phone>
+      <fax>+64-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

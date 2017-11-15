@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369665">
+  <stage>Registered</stage>
+  <submitdate>24/11/2015</submitdate>
+  <approvaldate>9/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001343594</actrnumber>
+  <trial_identification>
+    <studytitle>Epaderm ointment in children with eczema</studytitle>
+    <scientifictitle>Pilot study comparing two emollients, Emulsifying ointment B.P. and Epaderm topical ointment in children with eczema</scientifictitle>
+    <utrn>U1111-1167-0979</utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>eczema</healthcondition>
+    <conditioncode>
+      <conditioncode1>Skin</conditioncode1>
+      <conditioncode2>Dermatological conditions</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomised single subject double-blind parallel superiority trial of two emollients: Epaderm ointment (active ingredient Cetomacrogol Emulsifying Wax BP) and Emulsifying ointment (BP)(active ingredient white soft paraffin and liquid paraffin) . Each emollient will be randomly assigned for application to one or other side (sagittal plane) of the body as required, but at least once a day, on the affected area for 8 weeks.. Each emollient will always be applied to the same side and will be clearly marked for use of XXX (child in study) only and for use on left side only or for use on right side only.
+Parents will be asked to record if they have mistakenly applied the emollient to the wrong side in the study diary and will be asked to bring both containers of study emollient to every clinic visit (week 2, 4, 6 and 8) so they can be weighed by the study staff.
+</interventions>
+    <comparator>Epaderm ointment </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in SCORAD scores for skin treated with Emulsifying ointment(BP) and with Epaderm at baseline and at 2 weekly intervals for a total of 8 weeks. </outcome>
+      <timepoint>After 60 participants have been recruited and treated for 8 weeks, with study assessments completed at the baseline, week 2, 4, 6, and 8 will be final study visit/assessment. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences between SCORAD and EASI as tools for assessing eczema severity will be measured on each side of the body at baseline and at 2 weekly intervals for a total of 8 weeks. </outcome>
+      <timepoint>After 60 participants have been recruited and treated for 8 weeks, with study assessments completed at the baseline, week 2, 4, 6, and 8 will be final study visit/assessment. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess the usefulness of measuring skin temperature in children with skin inflammation due to eczema by using infrared camera. We will compare mean side skin temperature measurements with SCORAD scores on skin treated with the two emollients </outcome>
+      <timepoint>After 60 participants have been recruited and treated for 8 weeks, with study assessments completed at the baseline, week 2, 4, 6, and 8 will be final study visit/assessment. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare skin flora on affected and unaffected skin prior to and after treatment with the two emollients by swabbing at the baseline and week 8. </outcome>
+      <timepoint>After 60 participants have been recruited and treated for 8 weeks, with study assessments completed at the baseline, week 2, 4, 6, and 8 will be final study visit/assessment. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>a) Eczema  with a severity on SCORAD of greater or equal to 5 for objective measures only
+b) Children with eczema aged 0-5
+c) Parent/caregiver must be able to speak enough English to understand the trial and be able to complete the trial diary</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>5</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>a) Other serious chronic disease that may require immunosuppressive therapy, as decided on a case by case basis by the principal investigator.
+b) Use of systemic antibacterial therapy within one week prior to starting study treatment
+c) Patients with co-morbid conditions that would require long term systemic corticosteroid therapy during study treatment. Systemic steroid use for less or equal to 5 days for another reason such as asthma is permissible. 
+d) Severe eczema requiring regular use of potent topical steroids 
+e) Family unable to comply with study requirements as judged by the investigator, such as the desire to use other non-study eczema medications unless medically indicated 
+f) Use of potent topical steroids within one month of enrolment (e.g. mometasone, betamethasone, fluticasone, clobetasol)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The list specifying which treatment is to be applied to which side of the body (for any given participant) will be held in a central administrative file. The nature of the study materials (emollient) is blinded for investigators and participants, and so this randomisation file will use coded allocations (e.g. "A" for the control emollient, "B" for the intervention emollient.) 
+When a new participant enters the trial, the Study Nurse will contact the administrator of this file (who will be an appropriate staff member not otherwise involved in the study) who will tell the study nurse the next randomisation from this list. 
+</concealment>
+    <sequence>Sequence generation:
+
+The random list of which treatment (A/B) is to be applied to which side of the patient's body (left/right) will be generated using a random number generator (in the statistical package R). Each trial allocation will be either "A -- left, B -- right" or "A -- right, B -- left". A total of 60 randomised allocations will be created in this file. The randomisation will be blocked, in order to minimise the impact of randomisation imbalance if the trial ends early due to low recruitment
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>As data are paired (each child receives both treatments simultaneously) analysis will need to take this into account. All analyses will be intention-to-treat.
+The analysis of the primary outcome, treated as a continuous outcome, will use mixed linear model methods to analyse the outcomes. Measurements at the two-month follow up will be compared between the intervention/control paired study conditions, adjusted for baseline scores. The mixed models approach allows for calculation of within-subjects correlation to properly account for the paired nature of the measurements.
+The mixed linear model design can partially compensate for participant dropout (presuming that there is at least some follow-up data for each participant.)
+Sample size estimates are predicted around detecting a difference between emollients of around 10% from baseline measurements. Based on current estimates, this would be a difference of 3 to 3.5 points. The analysis (mixed linear model adjusting for baseline as covariate) is closely aligned to analysis of covariance (ANCOVA) Therefore with a baseline standard deviation of 10.5 points, and a pre-post correlation of 0.68  a sample size of 46 would have 87% power to detect a difference of 3.5 points). The sample size of sixty patients allows for an approx. 25% drop out rate.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>23/11/2015</actualstartdate>
+    <anticipatedenddate>30/06/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Capital and Coast District Health board</primarysponsorname>
+    <primarysponsoraddress>Research Office, Level 8, CSB, Wellington hospital, Riddiford Street, Wellington , New Zealand 6021
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Capital and Coast District Health Board</fundingname>
+      <fundingaddress>Department of Paediatrics, level 4, Wellington Hospital, Riddiford street, Wellington 6021</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Atopic eczema is a chronic relapsing skin condition that affects 5 to 20% of children under the age of 10. Eczema can affect the quality of life of the children and their  parents/caregivers as well as being a financial burden to families and the health care system. We aim to compare the efficacy of Epaderm ointment with that of a standard ointment in decreasing the severity of eczema in 50 children under the age of 5.
+We will measure eczema severity using validated SCORAD and EASI scoring systems and by taking infrared photographs of the skin (to measure erythema).
+We will also take swab samples of the affected and unaffected skin at the start and the end of the trial to determine if the microbiota of the skin is affected by 1] eczema and 2] the different ointments. </summary>
+    <trialwebsite>none</trialwebsite>
+    <publication>none</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Southern Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Freyberg Building
+20 Aitken Street
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>23/09/2015</ethicapprovaldate>
+      <hrec>15/STH/152</hrec>
+      <ethicsubmitdate>2/09/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Dr Thorsten Stanley </name>
+      <address>University of Otago, Wellington
+ 23A Mein Street,  Newtown,Wellington 6242
+</address>
+      <phone>+6443855999</phone>
+      <fax>+6443855496</fax>
+      <email>thorsten.stanley@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Marina Dzhelali</name>
+      <address>Research Office, Level 8,  CSB, Wellington Hospital, Riddiford Street, Wellington 6021</address>
+      <phone>+6449185117</phone>
+      <fax>+6443855496</fax>
+      <email>Marina.Dzhelali@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Thorsten Stanley </name>
+      <address>University of Otago, Wellington
+ 23A Mein Street,  Newtown,Wellington 6242
+</address>
+      <phone>+6443855999</phone>
+      <fax>+6443855496</fax>
+      <email>thorsten.stanley@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Marina Dzhelali</name>
+      <address>Research Office, Level 8,  CSB, Wellington Hospital, Wellington</address>
+      <phone>+6449185117</phone>
+      <fax>+6443855496</fax>
+      <email>Marina.Dzhelali@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

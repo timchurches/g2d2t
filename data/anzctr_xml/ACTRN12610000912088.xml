@@ -1,0 +1,194 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336093">
+  <stage>Registered</stage>
+  <submitdate>14/10/2010</submitdate>
+  <approvaldate>26/10/2010</approvaldate>
+  <actrnumber>ACTRN12610000912088</actrnumber>
+  <trial_identification>
+    <studytitle>Comparison of respiratory mechanics according to tidal volume obtained from predicted, current estimated and no body weight prediction method in patients under pressure controlled mechanical ventilation.</studytitle>
+    <scientifictitle>Do differences of tidal volume, calculated from predicted, current estimated and no body weight prediction method, change the respiratory mechanics of patients under pressure controlled mechanical ventilation?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil.</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory failure.</healthcondition>
+    <healthcondition>Inappropriate tidal volume during pulmonary mechanical ventilation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>All the calculation will be done for every participant. Each phase correspond to one of the three interventions. Each phase will be performed once over a single day. 
+PHASE 1: calculation of predicted body weight through the formulas:50+0,91(height in centimeters)-152,4 for men and  45,5 +0,91 (height in centimeters)-152,4 for women. The result will be multiplied by 6 ml (this is the ARDS recommendation of protective ventilation) and the final result will be the tidal volume. We'll adjust the pressure limit that offers this tidal volume and keep the ventilation for 2 hours. After, the respiratory mechanics will be calculated according to the found tidal volume.
+PHASE 2: calculation of the current estimated body weight through the formula: [0,98 X calf circumference(cm) + 1,16 X knee height(cm)]+[1,73 X arm circumference (cm)]+0,37 X subscapularis skinfold(mm)]-81,69 for men and [1,27 X calf ircumference(cm)]+[0,87 X knee height(cm)]+0,98 X arm circumference (cm)]+0,4 X subscapularis skinfold(cm)]-62 for women. The result will be multiplied by 6 ml  and the final result will be the tidal volume. We'll adjust the pressure limit that offers this tidal volume and keep the ventilation for 2 hours. After, the respiratory mechanics will be calculated according to the found tidal volume.
+PHASE 3: for no body weight prediction method we'll use the tidal volume observed at the mechanical ventilator initially. After, the respiratory mechanics will be calculated according to this tidal volume. Then the results of respiratory mechanics corresponding to each phase will be compared and defined which prediction body weight method is more appropriate, closer to normal values os respiratory mechanics.</interventions>
+    <comparator>Uncontrolled</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Alteration of respiratory mechanics (pulmonary static compliance, pulmonary dynamic compliance and resistance).</outcome>
+      <timepoint>After the application of tidal volumes corresponding to each calculated weight.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Which tidal volume can avoid acute lung injury.</outcome>
+      <timepoint>After 2 hours of mechanical ventilation.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult patients, patients under mechanical ventilation, pressure controlled mode, respiratory failure diagnosed, hemodynamically stable patients, sedated patients.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Other ventilatory mode, sepsis diagnosed, presence of respiratory drive.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/12/2010</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Lilane Maria Alves Silva</primarysponsorname>
+    <primarysponsoraddress>Rua: Dona Rafa Cecilio, 259
+Vila Maria Helena
+Cep: 38020-080
+Uberaba - Minas Gerais</primarysponsoraddress>
+    <primarysponsorcountry>Brazil</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Universidade Federal do Triangulo Mineiro</fundingname>
+      <fundingaddress>Avenida Getulio Guarita n.130
+Bairro Abadia
+Cep: 38025-440
+Uberaba - Minas Gerais</fundingaddress>
+      <fundingcountry>Brazil</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Taciane Cristina Santana</sponsorname>
+      <sponsoraddress>Rua: Joao Pessoa n.280
+Bairro: Abadia
+Cep: 38025-400
+Uberaba - Minas Gerais</sponsoraddress>
+      <sponsorcountry>Brazil</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Hospital de Clinicas da Universidade Federal do Triangulo Mineiro</othercollaboratorname>
+      <othercollaboratoraddress>Avenida Getulio Guarita n.130
+Bairro Abadia
+Cep: 38025-440
+Uberaba - Minas Gerais</othercollaboratoraddress>
+      <othercollaboratorcountry>Brazil</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Acute Respiratory Distress Syndrome Group (ARDS) determines that we must use 6 ml of kg of predicted body weight in order to offer appropriate measures of tidal volume to patients under mechanical ventilation. But improper methods to predict the body weight  may cause damage to patients' lungs. Inadequate tidal volume will reflect in respiratory mechanics alteration.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comite de Etica em Pesquisa da Universidade Federal do Triangulo Mineiro</ethicname>
+      <ethicaddress>Avenida Frei Paulino, 30   2 andar, Sala H  Abadia
+Cep: 38025-180 - Uberaba - Minas Gerais</ethicaddress>
+      <ethicapprovaldate>8/12/2008</ethicapprovaldate>
+      <hrec>1226</hrec>
+      <ethicsubmitdate>26/09/2008</ethicsubmitdate>
+      <ethiccountry>Brazil</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Lilane Maria Alves Silva</name>
+      <address>Avenida Getulio Guarita, 130
+Bairro Abadia
+Cep: 38025-440
+Uberaba-Minas Gerais</address>
+      <phone>553433185177/553488013953</phone>
+      <fax />
+      <email>lilanealves@yahoo.com.br</email>
+      <country>Brazil</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Lilane Maria Alves Silva</name>
+      <address>Avenida Getulio Guarita, 130
+Bairro Abadia
+Cep: 38025-440
+Uberaba-Minas Gerais</address>
+      <phone>553433185177/553488013953</phone>
+      <fax />
+      <email>lilanealves@yahoo.com.br</email>
+      <country>Brazil</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Lilane Maria Alves Silva</name>
+      <address>Avenida Getulio Guarita, 130
+Bairro Abadia
+Cep: 38025-440
+Uberaba-Minas Gerais</address>
+      <phone>553433185177/553488013953</phone>
+      <fax />
+      <email>lilanealves@yahoo.com.br</email>
+      <country>Brazil</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

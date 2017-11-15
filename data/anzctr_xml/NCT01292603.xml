@@ -1,0 +1,517 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3072">
+  <stage>Registered</stage>
+  <submitdate>8/02/2011</submitdate>
+  <approvaldate>8/02/2011</approvaldate>
+  <nctid>NCT01292603</nctid>
+  <trial_identification>
+    <studytitle>A Study to Compare Subcutaneous Versus Intravenous MabThera (Rituximab) in Combination With Chemotherapy in Patients With Chronic Lymphocytic Leukemia</studytitle>
+    <scientifictitle>An Adaptive, Comparative, Randomized, Parallel-group, Multi Center, Phase Ib Study of Subcutaneous (SC) Rituximab Versus Intravenous (IV) Rituximab Both in Combination With Chemotherapy (Fludarabine and Cyclophosphamide), in Patients With Previously Untreated CLL</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2010-021380-32</secondaryid>
+    <secondaryid>BO25341</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lymphocytic Leukemia, Chronic</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Cyclophosphamide
+Treatment: drugs - Fludarabine
+Treatment: drugs - rituximab [MabThera]
+Treatment: drugs - rituximab [MabThera]
+Treatment: drugs - rituximab [MabThera]
+
+Experimental: 1 - 
+
+Experimental: 2 - 
+
+Experimental: 3 - 
+
+
+Treatment: drugs: Cyclophosphamide
+Days 1-3 or Days 1-5 of cycles 1-6
+
+Treatment: drugs: Fludarabine
+Days 1-3 or Days 1-5 of cycles 1-6
+
+Treatment: drugs: rituximab [MabThera]
+One cycle of intravenous MabThera, followed by 5 cycles of subcutaneous MabThera
+
+Treatment: drugs: rituximab [MabThera]
+After 4 cycles of intravenous MabThera without experiencing grade 3 or 4 infusion-related reactions. patients will receive 1 additional cycle of intravenous MabThera and 1 cycle of subcutaneous MabThera.
+
+Treatment: drugs: rituximab [MabThera]
+6 cycles of intravenous MabThera
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Part 1: Subcutaneous Rituximab Dose Resulting in Trough Concentration (Ctrough) Levels Non-Inferior to Intravenous Rituximab - Ctrough is defined as the trough or minimum serum concentration. Pharmacokinetic parameters for rituximab were assessed during Cycles 5 (IV rituximab) and 6 (SC rituximab). Rituximab pharmacokinetic (PK) data from Part 1 were integrated into a population PK model using parametric, nonlinear, mixed-effects modelling. Rituximab IV 500 mg/m^2 administered once every 4 weeks was compared to fixed doses of rituximab SC between 1400 mg and 1870 mg. The dose selection was performed on Ctrough concentrations at Cycle 5 (pre-dose Cycle 6). A test of the probability of success was applied to each of the 100 replicates, and the percentage of replicates with a positive test corresponded to the probability of success of the trial.</outcome>
+      <timepoint>Pre-dose and post-dose (15 minutes to end of infusion) on Day 1 and on Days 2, 5, 11 and 15 of Cycle 5 and Pre-dose, Post-dose on Days 2, 3, 5,11, 15 and 29 of Cycle 6; Pre-dose was taken 2 hours prior rituximab dose</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Part 2: Rituximab C Trough Levels at Cycle 5 - Ctrough is defined as the trough or minimum serum concentration in a given cycle of treatment. The objective of Part 2 was to demonstrate the comparability of the observed Ctrough of rituximab SC 1600 mg and rituximab IV 500 mg/m2 at Cycle 5, as assessed by a non-inferiority test with a lower boundary of at least 0.8 for the 90% CI.</outcome>
+      <timepoint>+/- 25hours around the 28th day post the 5th Cycle of Rituximab administration</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Observed Area Under the Serum Concentration-Curve (AUC) of Rituximab at Cycle 6 - AUC values were calculated by numerical integration using the linear trapezoidal rule. AUC levels were analyzed using the model below:
+Ln(AUC) = µ + ti + BlTLij + eij wherein, Ln is the natural log, µ denotes the overall mean effect, ti the effect in each treatment group, BlTLij the tumor load at baseline for each patient and eij a random error variable with normal distribution and mean 0. The treatment effect therein was based on a contrast statement in the model to calculate 90 % confidence intervals for ln(AUC SC)- ln(AUC IV).</outcome>
+      <timepoint>Rituximab IV arm: pre-dose, post-dose and on Days 2, 3, 8 ,15, 29 of Cycle 6; Rituximab SC arm: pre-dose, and on Days 2, 3, 8 ,15, 29 of Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Maximum Observed Concentration (Cmax) of Rituximab at Cycle 6 - Cmax was obtained directly from the measured concentration-time curves. The concentration-time curve is the result of time points of blood sampling and its measured concentration of rituximab in the blood samplings.</outcome>
+      <timepoint>Rituximab IV arm: pre-dose, post-dose and on Days 2, 3, 8 ,15, 29 of Cycle 6; Rituximab SC arm: pre-dose, and on Days 2, 3, 8 ,15, 29 of Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Time to Cmax (Tmax) of Rituximab at Cycle 6 - Multiple blood samples were obtained at pre-dose, post-dose and on Days 2, 3, 8 ,15, 29 of Cycle 6 in Rituximab IV arm, and at pre-dose, and on Days 2, 3, 8 ,15, 29 of Cycle 6 in Rituximab SC arm and time to peak plasma concentration of rituximab was determined.</outcome>
+      <timepoint>Rituximab IV arm: pre-dose, post-dose and on Days 2, 3, 8 ,15, 29 of Cycle 6; Rituximab SC arm: pre-dose, and on Days 2, 3, 8 ,15, 29 of Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Terminal Half-Life of Rituximab at Cycle 6 - The terminal half-life (t1/2) of rituximab is defined as the time required for the plasma concentration of rituximab to reach half of its original concentration.</outcome>
+      <timepoint>Rituximab IV arm: pre-dose, post-dose and on Days 2, 3, 8 ,15, 29 of Cycle 6; Rituximab SC arm: pre-dose, and on Days 2, 3, 8 ,15, 29 of Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 1: Percentage of Participants and Nurses Recording a Preference For Either SC or IV Administration - In part 1 of the trial, upon completion of dosing in cycle 6, participants and their treating nurses were asked whether they have a preference of dosing route, IV vs SC</outcome>
+      <timepoint>Days 4 to 5 in Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Physician/Nurse Opinion on Time Savings With Rituximab SC Compared With Rituximab IV - Physicians and nurses who administered rituximab were asked to answer the following question: " If used in routine practice, on average, how much staff time could be saved with each administration of rituximab SC as compared to rituximab IV? (Please do not consider the time needed for the first IV administration, consider only the subsequent ones). Percentage of participants with specified answers were reported.
+A- Less than 1 hour
+B- At least 1 hour but less than 2 hours
+C- At least 2 hours but less than 3 hours
+D- At least 3 hours but less than 4 hours
+E- 4 or more hours</outcome>
+      <timepoint>Days 4-5 in Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Physician/Nurse Opinion on Convenience of Rituximab SC Compared With Rituximab IV - Physicians and nurses who administered rituximab were asked to answer the following question: Which formulation of rituximab (SC or IV) do you think is more convenient? with pre-specified responses as below. Percentage of participants with specified answers were reported.
+A - Rituximab SC is much more convenient.
+B - Rituximab SC is a little more convenient.
+C - Both formulations are equally convenient.
+D - Rituximab IV is a little more convenient.
+E - Rituximab IV is much more convenient</outcome>
+      <timepoint>Days 4-5 in Cycle 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 1: Percentage of Participants With Anti-Rituximab Antibodies - Blood samples for the assessment of antibodies against rituximab (HACAs) were drawn pre-dose at Cycle 5 and Cycle 6 in Part 1 and at each follow up visit until 24 months after the last dose.</outcome>
+      <timepoint>Predose at Cycles 5 and 6 and at each follow up visit until 24 months after the last dose</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Percentage of Participants With Anti-Rituximab Antibodies - In Part 2, samples for the HACA assay were collected at each treatment cycle prior to the administration of rituximab and at each follow-up visit until 24 months after the last dose of rituximab.</outcome>
+      <timepoint>Day 0 of Cycle 1 and Day 1 of Cycles 1, 2, 3, 4, 5, and 6 and at each follow-up visit until 24 months after the last dose of rituximab.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 1: Total Cluster Differentiation19 Positive (CD19+) B-Cell Counts by Visit - CD 19 is a surface antigen (protein) present on B-lymphocytes.</outcome>
+      <timepoint>Day 1 of Cycles 5 and 6 and Follow-up Days 28 and 56 and Follow-up Visits at Months 3, 6, 9, 12, 15,18, 21 and 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 1: Percentage of Participants With Total B-Cell Depletion by Visit - Total B-cell depletion (normal B-cell plus Malignant B-cell depletion) was defined for each individual participant when the sum of CD5-/CD19+ (normal B-cells) and CD5+/CD19+ (malignant B-cells) cell counts decreased below 80 cells/µL.</outcome>
+      <timepoint>Day 1 pre-dose of Cycles 5 and 6 and Follow-up Days 28 and 56 and Follow-up Visits at Months 3, 6, 9, 12, 15, 18, 21 and 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Total CD19+ B-Cell Counts by Visit - CD 19 is a surface antigen (protein) present on B-lymphocytes.</outcome>
+      <timepoint>Cycle 1 pre-dose, 60 minutes post-dose, Days 2 and 3 in Cycle 2, day 1 pre-dose in Cycles 3, 4, 5 and 6, Follow-up Days 28 and 56, and Follow-up Visits at Months 3, 6, 9, 12, 15, and 18 and Withdrawal Visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Part 2: Percentage of Participants With Total B-Cell Depletion by Visit - Total B-cell depletion (normal B-cell plus Malignant B-cell depletion) was defined for each individual participant when the sum of CD5-/CD19+ (normal B-cells) and CD5+/CD19+ (malignant B-cells) cell counts decreased below 80 cells/µL.</outcome>
+      <timepoint>Cycle 1 Pre-dose, 60 minutes post-dose, Days 2 and 3 in Cycle 2, day 1 in Cycles 3, 4, 5 and 6, Follow-up Days 28 and 56, and Follow-up Visits at Months 3, 6, 9, 12, 15, and 18 and Withdrawal Visit</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Adult patients, &gt;/=18 years of age
+
+          -  Patients with treatment-requiring chronic lymphocytic leukemia (CLL)
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1
+
+          -  Life expectancy &gt;6 months</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Transformation to aggressive B-cell malignancy
+
+          -  History of other malignancy unless the patient was treated with curative intent and
+             has been in remission for more than 5 years prior to enrolment
+
+          -  HIV or Hepatitis B positive unless clearly due to vaccination
+
+          -  Inadequate liver or renal function
+
+          -  Any coexisting medical or psychological condition that would preclude participation in
+             the required study procedures
+
+        Additional exclusion criterion for Part 1:
+
+          -  Any previous treatment for CLL except for up to 4 cycles of rituximab IV in
+             combination with FC chemotherapy as first-line treatment for CLL
+
+        Additional exclusion criterion for Part 2:
+
+          -  Any previous treatment for CLL</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate />
+    <actualstartdate>18/04/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>240</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>14/11/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC</recruitmentstate>
+    <hospital>St George Hospital; Department of Haematology - Kogarah</hospital>
+    <hospital>Royal Brisbane and Women'S Hospital; Haematology - Herston</hospital>
+    <hospital>Ashford Cancer Center Research - Kurralta Park</hospital>
+    <hospital>Queen Elizabeth Hospital; Haematology - Woodville South</hospital>
+    <hospital>St Vincent'S Hospital; Haematology - Fitzroy</hospital>
+    <hospital>Frankston Hospital; Oncology/Haematology - Frankston</hospital>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>5037 - Kurralta Park</postcode>
+    <postcode>5011 - Woodville South</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3199 - Frankston</postcode>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Córdoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>RS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Croatia</country>
+      <state>Zagreb</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Hradec Kralove</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Reims</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre Les Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt an der Oder</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Greifswald</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kassel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Köln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Landshut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Lübeck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Marburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Neunkirchen/Saar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Recklinghausen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Thessaloniki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Emilia-Romagna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Friuli-Venezia Giulia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lombardia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Piemonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Veneto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Chihuahua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Culiacan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Newtown</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Penza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Perm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Bratislava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Toledo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This randomized, parallel-group, multi-center study will compare the pharmacokinetics and
+      safety of subcutaneous administration of MabThera (rituximab) versus intravenous MabThera in
+      combination with chemotherapy in previously untreated patients with chronic lymphocytic
+      leukemia (CLL). The study consists of 2 parts. In part 1, patients who have previously
+      received 4 cycles of intravenous MabThera will receive in Cycle 5 intravenous MabThera and in
+      Cycle 6 subcutaneous MabThera. In part 2, patients will be randomized to receive either 6
+      cycles of intravenous MabThera, or 1 cycle of intravenous MabThera and 5 cycles of
+      subcutaneous MabThera. Additionally, all patients will receive chemotherapy (fludarabine and
+      cyclophosphamide) on Days 1-3 or Days 1-5 of every cycle. The anticipated time on study drug
+      is 24 weeks.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01292603</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

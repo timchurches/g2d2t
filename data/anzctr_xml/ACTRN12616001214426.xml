@@ -1,0 +1,237 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371392">
+  <stage>Registered</stage>
+  <submitdate>29/08/2016</submitdate>
+  <approvaldate>1/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001214426</actrnumber>
+  <trial_identification>
+    <studytitle>The Chronic Conditions Course: A Randomised Controlled Trial of an Online Treatment Program for Adults with Chronic Health Conditions</studytitle>
+    <scientifictitle>The Chronic Conditions Course: A Randomised Controlled Trial of an Online Treatment Program for Adults with Chronic Health Conditions</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Various chronic health conditions / diseases</healthcondition>
+    <healthcondition>Various mental health conditions</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention, the Chronic Conditions Course, is an internet-delivered self-management program, which consists of:
+
+(a) 5 online lessons provided over 8 weeks.
+(b) A homework summary with assignments for each lesson
+(c) Additional written resources that can be downloaded and which include information about other important skills, such as assertiveness and communication skills and techniques for managing sleep difficulties.
+(d) Case Stories and real-world examples based on previous participants, which they can follow throughout the Course.
+(e) Weekly contact with a Psychologist via secure email or telephone.
+
+Participants will be encouraged to complete a lesson every 10 days and to read through a summary of the lesson and complete some basic homework in the following 10 days. Participants will have the option of contacting a Psychologist by phone or email each week for support with working through the course; each eCentreClinic Psychologist receives 1 hour or more of weekly supervision from another eCentreClinic Psychologist in which all of their participants are reviewed; as per best-practice guidelines and eCentreClinic Policy.
+
+The Chronic Conditions Course is based on cognitive behaviour therapy (CBT) principles and teaches evidence-based skills for managing the impacts of chronic health condition on day-to-day activities and overall mental health. Each lesson takes between 10 and 20 minutes to complete and it is suggested that participants read each lesson at least twice and spend approximately 4 hours, across the week, practicing the skills taught. Telephone calls will be limited to approximately 10 minutes per week; however, more time will be provided where clinically indicated. Adherence (e.g., logins, lesson completion, lesson views, time spent on course) will be monitored via the eCentreClinic software, which is used to provide the Chronic Conditions Course.</interventions>
+    <comparator>A Treatment-As-Usual Waitlist Control group who begin the treatment immediately after the treatment groups complete the Course. Treatment-As-Usual comprises any treatments that participants obtain via the care of their regular health professionals and general engagement with the health system across the treatment period.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>World Health Organization Disability Assessment Schedule 2.0 12-Item (WHODAS-12). This is a measure that assesses health and disability, which is applicable to a variety of disability domains, including neurological, mental, and chronic physical conditions. </outcome>
+      <timepoint>Application, pre-treatment, mid-treatment, post-treatment, 3-months post-treatment, 12-months post-treatment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Patient Health Questionnaire 9-Item (PHQ9), which is a measure of depression.</outcome>
+      <timepoint>Application, pre-treatment, mid-treatment, post-treatment, 3-months post-treatment, 12-months post-treatment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Generalized Anxiety Disorder 7-Item (GAD7), which is a measure of anxiety.</outcome>
+      <timepoint>Application, pre-treatment, mid-treatment, post-treatment, 3-months post-treatment, 12-months post-treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Satisfaction with Life Scale (SWLS), which is a measure of life satisfaction.</outcome>
+      <timepoint>pre-treatment, post-treatment, 3-months post-treatment, 12-months post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>EQ-5D-5L, which measures health outcome and is used for cost-effectiveness analysis.</outcome>
+      <timepoint>Application, pre-treatment, mid-treatment, post-treatment, 3-months post-treatment, 12-months post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Service use questionnaire, measures health service utilisation </outcome>
+      <timepoint>Pre-treatment, post-treatment,3 month post-treatment, 12 months post-treatment. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Treatment Satisfaction Questionnaire (TSQ), which is a purpose built measure to assess the acceptability of online treatment Courses and to measure participants satisfaction with treatment. </outcome>
+      <timepoint>Post-treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>(a) Confirmed diagnosis of a chronic physical health condition;
+(b) Self-report that the condition is affecting their emotional wellbeing and quality of life
+(c) Aged 18 years or older;
+(d) Living in Australia;
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>(a) Very severe depression (i.e., indicated by a score &gt; 24 on the PHQ-9)
+(b) Acutely suicidal or recent history of attempted suicide (i.e., last 12 months)
+(c) Not being under the medical management of a doctor for their chronic health condition.  
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants apply online via the clinic's website (www.ecentreclinic.org.au). Successful applications are followed by a telephone interview to confirm suitability for the trial. Randomisation will occur prior to application and concealment occurs through the use of locked and concealed cells in a spreadsheet, which recruitment staff are required to open serially.</concealment>
+    <sequence>Participants will be randomized using a list generated prior to the study via a software program (www.random.org) using permuted block randomisation.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Primary analyses of symptom outcomes will carried out employing longitudinal Generalised Estimation Equation (GEE) modelling. Missing data will be imputed using GEE accounting for individuals initial scores across the outcomes and adherence. Health economic analyses will evaluated by examining the incremental differences in costs and QALYs between the groups using a seemingly-unrelated regression model, which takes into account the correlation between costs and QALYs. Uncertainty in the incremental cost-effectiveness ratio (ICER) will be estimated using non-parametric bootstrapping and decision uncertainty will be evaluated using the cost-effectiveness acceptability curve (CEAC), which represents the probability of the treatments being cost-effective over a range of willingness to pay thresholds per QALY.  
+
+Analyses will also be carried conducted accounting for the impact of treatment adherence on outcomes as well as the impact of pre-treatment symptom severity on clinical outcomes. Subgroup analyses are also expected to be carried out to explore the efficacy and acceptability of the intervention for participants with different chronic health conditions.
+
+A total sample of n = 500 in the treatment and control groups will provide power &gt; 0.80 to detect small but clinically meaningful between-group differences at the 3 and 12 month follow-up; however, n = 500 also provides power in the situation where increasing between group differences appear at the follow-up time points. Importantly, a sample of n = 98 is required to achieve statistical power of 0.8 at the 0.05 level of statistical significance where the true ratio of means is 1.0 and the sample finding lies within +/- 20%. A sample size of n = 64 per group is needed to detect an incremental difference corresponding to a Cohen d effect size of 0.5 in costs per QALY between the groups with power set to 0.8 at the p = 0.05 (two-tailed) level of statistical significance. No specific sample size calculation is possible for the exploratory analyses;; however, we note that the sample size planned will allow statistical power of &gt; 0.80 for small-to-moderate standardized effect sizes. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>12/09/2016</anticipatedstartdate>
+    <actualstartdate>26/09/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>223</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Blake Dear</primarysponsorname>
+    <primarysponsoraddress>Department of Psychology
+Macquarie University
+NSW 2109
+Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Australian National Health and Medical Research Council (NHMRC)</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Macquarie University</sponsorname>
+      <sponsoraddress>Balaclava Road, North Ryde 
+NSW, 2109, Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The diagnosis of a chronic physical disease can present multiple and significant challenges. It frequently requires adjustment to new and changing circumstances, limitations and treatment regimens that can have a profound impact on all aspects of life. Reflecting this, there is significant comorbidity between chronic physical disease and mental health disorder, particularly anxiety and depressive disorders. Research shows that anxiety and depressive disorders are at least twice as common in people with chronic physical diseases. Chronic physical diseases are one of the strongest risk factors for anxiety and depression and anxiety and depression are some of the strongest modifiable risk factors for deteriorating physical health.
+
+Psychological treatments teach patients the skills to understand and manage symptoms and to limit their impact on functional abilities and quality of life.More than sixty years of research has proven cognitive behaviour therapy (CBT) to be effective in treating anxiety and depression. There is strong evidence that suitably tailored CBT significantly reduces disability and improves mental health in adults with chronic physical diseases. 
+
+Australian epidemiological studies indicate that fewer than 20% of Australians with anxiety and depression access any mental health treatment. Common barriers to treatment include direct and indirect costs, stigma, insufficient numbers of appropriately trained mental health professionals and the decreasing availability of specialist services outside of metropolitan areas. The organisation and limited resources of health services means that mental health is not routinely considered alongside the management of chronic physical disease. Primary health care providers desperately need somewhere they can refer large numbers of patients with the chronic physical diseases for effective mental health treatment. Thus, there is an urgent need for psychological treatments that are accessible, acceptable, efficacious and cost-effective.
+
+The proposed project has three primary aims: (1) to evaluate the short-term and long-term clinical efficacy of a new internet-delivered and transdiagnostic psychological treatment, the Chronic Disease Course, in reducing disability and improving emotional wellbeing and quality of life among adults with different chronic physical diseases; (2) to evaluate the treatment cost per patient and the cost-effectiveness of the treatment over the short-term and long-term; and (3) to explore the demographic, disease and patient-related predictors and moderators of treatment response. 
+
+The hypotheses include:
+
+1. The treatment will result in significant improvements in mental health and improvements in quality of life and disability at the completion of treatment. 
+2. The treatment will be cost-effective from the health services perspective at the common willingness-to-pay thresholds per Quality-Adjusted Life Year (QALY</summary>
+    <trialwebsite>www.ecentreclinic.org</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Macquarie University Medical Sciences Human Research Ethics Committee</ethicname>
+      <ethicaddress>Balaclava Road, North Ryde 
+NSW, 2109, Australia</ethicaddress>
+      <ethicapprovaldate>9/08/2016</ethicapprovaldate>
+      <hrec>5201600560</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Blake Dear</name>
+      <address>Department of Psychology
+Macquarie University
+NSW 2109</address>
+      <phone>+61 2 9850 9979</phone>
+      <fax />
+      <email>blake.dear@mq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Blake Dear</name>
+      <address>Department of Psychology
+Macquarie University
+NSW 2109</address>
+      <phone>+61 2 9850 9979</phone>
+      <fax />
+      <email>blake.dear@mq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Blake Dear</name>
+      <address>Department of Psychology
+Macquarie University
+NSW 2109</address>
+      <phone>+61 2 9850 9979</phone>
+      <fax />
+      <email>blake.dear@mq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Blake Dear</name>
+      <address>Department of Psychology
+Macquarie University
+NSW 2109</address>
+      <phone>+61 2 9850 9979</phone>
+      <fax />
+      <email>blake.dear@mq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

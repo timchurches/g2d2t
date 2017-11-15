@@ -1,0 +1,199 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371480">
+  <stage>Registered</stage>
+  <submitdate>21/09/2016</submitdate>
+  <approvaldate>26/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001340426</actrnumber>
+  <trial_identification>
+    <studytitle>Does controlling force and orientation when using real time ultrasound imaging improve reliability of measuring transverse abdominis in experienced and novice clinicians?</studytitle>
+    <scientifictitle>Reliability of muscle measurement using real time ultrasound imaging in healthy individuals: Comparison of examiner experience to measure transverse abdominis with and without force and orientation control</scientifictitle>
+    <utrn>U1111-1187-5088</utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Measurement reliability of thickness and activation of transverse abdominis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Normal musculoskeletal and cartilage development and function</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The thickness and activation of patient's transverse abdominis (TrA) will be measured using real time ultrasound imaging (RTUI) and the reliability of these measures examined. This will be measured using a device that controls for the force and orientation of the probe (force probe device). The force probe device measures the force, inclination and roll of the US probe and displays these values on a laptop screen. The examiner can then increase/decrease the force applied through the probe to maintain a consistent amount of pressure. Images are later collected from video files at time points in which the force, inclination and roll match. 
+Data collection will be conducted by both an experienced and an inexperienced examiner. The experienced examiner is a physiotherapist with 23 years clinical experience, a level 2 postgraduate RTUI certificate, 6 years experience in measurement using musculoskeletal RTUI (last 5 measuring TrA and LM). The inexperienced examiner is a fourth year physiotherapy student with 6 hours of training and hands on practice in using RTUI to measure TrA using the force probe device with the experienced examiner and another student who previously completed his honours project using the same equipment. 2-3 sessions of free practice are also planned.
+Participants will be taught to contract their TrA prior to data collection. Participants will be required to remove their shirt and may be required to lower their pants to expose the top of the pelvis for TrA. Participants will lie on their back with their hips and knees bent to measure TrA. An adhesive tape marker will be used to mark where the ultrasound probe will sit. 
+Videos will be collected using RTUI in movie mode for later analysis. Two videos will be taken of each muscle using the force probe device: a video with the muscle at rest for approximately 20 seconds and a video in which the participant contracts the muscle twice will be captured. The participant will then have the same videos captured again to determine reliability of measurement.</interventions>
+    <comparator>Scanning same patients using free hand RTUI (without using FPD). Two videos will be taken of the TrA muscle: a video with the muscle at rest for approximately 20 seconds and a video in which the participant contracts the muscle twice will be captured. The participant will then have the same videos captured again to determine reliability of measurement.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Reliability of RTUI to measure TrA thickness and activation (% thickness change) with and without force and orientation control (using force probe device) -using intra-class correlation coefficient and coefficient of variation to quantify</outcome>
+      <timepoint>Within-day reliability will be compared (approximately 20-30 minutes between measures)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of reliability of RTUI to measure TrA thickness and activation with and without force and orientation control between experienced and inexperienced examiners -using intra-class correlation coefficient and coefficient of variation to quantify</outcome>
+      <timepoint>Within-day reliability (measures will be taken by each examiner approximately 30-60 minutes apart)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>General population</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>History of low back pain in the previous 2 years of significant enough severity to seek treatment, unable to tolerate lying on back 30 mins each, pregnancy in past 12 months, allergies to adhesive tapes</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>A sample size of 34 is required to obtain a small effect (aim to recruit 40 to allow for dropouts and unusable images). This was determined using GPower software by conducting an a.priori power calculation with the following variables:
+- anticipated effect size 0.25
+- alpha error probability 0.05
+- power of 0.8 (G*Power 3.1.9.2)
+- repeated measures analysis of variance
+- within factors
+- two time points
+- correlation among repeated measures maintained at a default of 0.5
+- non-sphericity correction of 1.0
+
+To determine systematic bias: 2-way (time x examiner) repeated measures analysis of variance (ANOVA), Bonferroni's pairwise adjustments to determine location of difference
+To determine reliability: intra-class correlation coefficient (ICC) for inter- and intra-rater reliability, coefficient of variation (%) to determine degree of inter- and intra-rater measurement error, limits of agreement: Bland-Altman plots to determine agreement between examiners and time points
+Alpha levels for all analyses will be set at 0.05</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>10/10/2016</anticipatedstartdate>
+    <actualstartdate>21/10/2016</actualstartdate>
+    <anticipatedenddate>31/05/2017</anticipatedenddate>
+    <actualenddate>22/02/2017</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize>34</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate>31/05/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate>22/02/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>James Cook University</primarysponsorname>
+    <primarysponsoraddress>1 James Cook Drive
+Townsville, QLD 4811</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>James Cook University</fundingname>
+      <fundingaddress>1 James Cook Drive
+Townsville, QLD 4811</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Not applicable</sponsorname>
+      <sponsoraddress>Not applicable</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of the study is to determine if using a standardized method of RTUI improves reliability of measuring the thickness and activation of a muscle in the abdomen (transverse abdominis). The standardized method uses a device that controls for the force and orientation of the US probe. Reliability will be compared in an experienced an an inexperienced examiner. 
+Currently, the reliability of this measure is based mainly on poor quality studies and much of the research does not look at muscle activation. Dysfunction of this muscle has been observed in patients with low back pain, thus their ability to activate is clinically relevant.
+It is hypothesized that both inter- and intra-rater reliability will be significantly increased when force and orientation of the probe is controlled. Secondly, it is hypothesized that a significantly greater increase in intra-rater reliability will be observed with an inexperienced clinician using this device.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>James Cook University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Office, Room 128
+Faculty Science and Engineering Building (DB17)
+James Cook University
+1 James Cook Drive
+Townsville, QLD 4811</ethicaddress>
+      <ethicapprovaldate>12/10/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>6/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mrs</title>
+      <name>Vanessa Kennedy</name>
+      <address>James Cook University
+Rehabilitation Sciences Building (43)
+1 James Cook Drive
+Townsville, QLD 4811</address>
+      <phone>+61 7 47814121</phone>
+      <fax />
+      <email>vanessa.kennedy@my.jcu.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Vanessa Kennedy</name>
+      <address>James Cook University
+Rehabilitation Sciences Building (43)
+1 James Cook Drive
+Townsville, QLD 4811</address>
+      <phone>+61 7 47814121</phone>
+      <fax />
+      <email>vanessa.kennedy@my.jcu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Vanessa Kennedy</name>
+      <address>James Cook University
+Rehabilitation Sciences Building (43)
+1 James Cook Drive
+Townsville, QLD 4811</address>
+      <phone>+61 7 47814121</phone>
+      <fax />
+      <email>vanessa.kennedy@my.jcu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Vanessa Kennedy</name>
+      <address>James Cook University
+Rehabilitation Sciences Building (43)
+1 James Cook Drive
+Townsville, QLD 4811</address>
+      <phone>+61 7 47814121</phone>
+      <fax />
+      <email>vanessa.kennedy@my.jcu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

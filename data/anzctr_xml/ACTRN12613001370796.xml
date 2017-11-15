@@ -1,0 +1,268 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365460">
+  <stage>Registered</stage>
+  <submitdate>10/12/2013</submitdate>
+  <approvaldate>13/12/2013</approvaldate>
+  <actrnumber>ACTRN12613001370796</actrnumber>
+  <trial_identification>
+    <studytitle>0.9% saline vs. Plasma-Lyte 148 for Intensive Care Fluid Therapy.  (the SPLIT study)</studytitle>
+    <scientifictitle>A multi-centre, cluster randomised, double cross over, feasibility trial investigating the effect of using 0.9% saline or Plasma-lyte 148 as fluid therapy on the risk of developing acute kidney injury in intensive care patients </scientifictitle>
+    <utrn>U1111-1136-3741</utrn>
+    <trialacronym>The SPLIT study</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Intravenous Fluid Management in Critical Illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>0.9% saline for intravenous fluid therapy in intensive care.  The rate, duration, and frequency of fluid administration will determined by the treated clinician.  All fluid used for either fluid resuscitation or crystalloid rehydration will be 0.9% saline unless a specific indication exists for another fluid.  Each of the four study ICUs will be randomly assigned, in alternating seven week blocks, to use blinded 0.9% saline or Plasma-Lyte 148 as the default resuscitation fluid.  There will be no wash-out period between treatments.  Each patient will receive the treatment they were assigned at the time of their ICU admission for the entire duration of their ICU admision irrespective of whether a cross-over occurs while they are admitted.</interventions>
+    <comparator>Plasma-lyte 148 for intravenous fluid therapy in intensive care. The rate, duration, and frequency of fluid administration will determined by the treated clinician.  All fluid used for either fluid resuscitation or crystalloid rehydration will be Plasma-Lyte 148 unless a specific indication exists for another fluid. Each of the four study ICUs will be randomly assigned, in alternating seven week blocks, to use blinded 0.9% saline or Plasma-Lyte 148 as the default resuscitation fluid.  There will be no wash-out period between treatments.  Each patient will receive the treatment they were assigned at the time of their ICU admission for the entire duration of their ICU admision irrespective of whether a cross-over occurs while they are admitted.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The proportion of patients with either acute kidney injury or failure based on on creatinine levels in accordance with RIFLE criteria</outcome>
+      <timepoint>Highest value measured during the patient's stay in the Intensive Care Unit (censored at day 90)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Delta creatinine (the difference between the pre-randomisation creatinine and the peak creatinine).  The creatinine values used will be serum creatinine measures taken for clinical purposes.</outcome>
+      <timepoint>The baseline creatinine will be the creatinine measured at study enrolment.  The peak creatinine will be the highest creatinine measured in the Intensive Care Unit (censored at day 90).  The creatinine values used will be serum creatinine measures taken for clinical purposes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the cumulative incidence of acute kidney injury by category based on creatinine levels and classified into the following groups: Risk, Injury, Failure, Loss, and End stage renal failure.  The creatinine values used will be serum creatinine measures taken for clinical purposes.</outcome>
+      <timepoint>based on the highest value measured during the patient's stay in the Intensive Care Unit (censored at day 90)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients requiring renal replacement therapy</outcome>
+      <timepoint>during the course of their ICU admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients requiring renal replacement therapy (among those patients who require renal replacement therapy in the Intensive Care Unit)</outcome>
+      <timepoint>after hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients requiring mechanical ventilation</outcome>
+      <timepoint>during the course of their ICU admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>duration of mechanical ventilation (among patients who require mechanical ventilation)</outcome>
+      <timepoint>during the course of their ICU admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of ICU admission (days)</outcome>
+      <timepoint>Time from enrolment until ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital admission (days)</outcome>
+      <timepoint>time from enrolment until hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients who require readmission to ICU </outcome>
+      <timepoint>within their index hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the cumulative incidence of acute kidney injury by KDIGO stage category based on creatinine levels and classified into the following groups: KDIGO stage 1, KDIGO stage 2, and KDIGO stage 3. The creatinine values used will be serum creatinine measures taken for clinical purposes. </outcome>
+      <timepoint>based on the highest serum creatinine value measured during the patient's stay in the Intensive Care Unit (censored at day 90)  </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients admitted to the study ICU who require crystalloid fluid therapy</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. patients currently receiving or expected to require renal replacement therapy within six hours of ICU admission 2. patients who are usually on dialysis for end stage renal failure 3. patients who are admitted to the ICU solely for consideration of organ donation or for palliative care 4. patients previously enrolled in the SPLIT study </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The study is a cluster cross over trial in which the entire ICU will be randomly assigned to using either 0.9% saline or plasma-lyte 148 for routine fluid therapy.  Each of four study ICUs will use each treatment strategy twice over the 28 weeks of the study.  The allocation of study treatments in each cluster will be determined ahead of time by the study statistician.  Masked study fluid appropriate for each study block which is labelled either 'fluid A' or 'fluid B' will be delivered to each study unit by Baxter Pty Ltd (who will prepare blinded study fluids for this study).  Allocation concealment will be maintained until all analyses (including post hoc analyses) are complete.</concealment>
+    <sequence>The order of study treatments will be determined at random by the study statistician using a computer algorithm.  </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>Multicentre, cluster, double cross over.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analyses will be conducted on an intention-to-treat basis. Primary and secondary outcomes will be analysed using longitudinal analysis techniques accounting for attending hospital and drug sequence. Binomial outcomes will be assessed using generalized estimating equations (GEE) with results reported as Odds Ratios (95%CI) while continuous outcomes will be analysed using generalised linear modelling (GLM) and reported as either differences (95%CI) or ratios (95%CI) as appropriate. Sensitivity analysis will be performed adjusting for an a-priori defined list of covariates (presence or absence of trauma, APACHE-III admission diagnosis, age, ICU admission source, APACHE-II score, and baseline serum creatinine level) with results reported both overall and at an individual hospital level. All analysis will be performed using SAS version 9.3 (SAS Institute Inc., Cary, USA) and a two-sided p-value of 0.05 will be considered to be statistically significant.  
+
+Due to the current lack of established statistical methodologies for calculating sample size for cluster cross over trials with binary outcome variables, we have not performed any sample size calculations for this study.  However, the data obtained in this study will be used to facilitate modelling of sample size requirements for a larger scale study.  This study will enrol between 2,000 and 3,000 patients over a 28-week period and will be the largest prospective clinical trial comparing 0.9% saline to plasma-lyte 148 ever conducted.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>15/03/2014</anticipatedstartdate>
+    <actualstartdate>1/04/2014</actualstartdate>
+    <anticipatedenddate>14/10/2014</anticipatedenddate>
+    <actualenddate>14/10/2014</actualenddate>
+    <samplesize>2500</samplesize>
+    <actualsamplesize>2262</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>5/01/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland, Wellington, and Christchurch</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Medical Research Institute of New Zealand</primarysponsorname>
+    <primarysponsoraddress>Private Bag 7902
+Wellington 6242
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>PO Box 5541, Wellesley Street, Auckland 1141</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Baxter Pty Ltd</fundingname>
+      <fundingaddress>Baxter Dr, Old Toongabbie NSW 2146, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Capital Coast District Health Board</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 7902
+Wellington South 6242</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Canterbury District Health Board</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 4710
+Christchurch 8104</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Auckland District Health Board</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 92024
+Auckland Mail Centre
+Auckland 1142</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The administration of intravenous fluid is a common therapy in acutely unwell patients. The study will provide preliminary data from a large interventional trial to inform clinicians looking after acutely unwell patients as to whether 0.9% saline or Plasma-Lyte 148 'Registered Trademark' is the preferred fluid for routine use in the ICU.  </summary>
+    <trialwebsite />
+    <publication>Manuscript published.  Young P, Bailey M, Beasley R, Henderson S, Mackle D, McArthur C, McGuinness S,
+Mehrtens J, Myburgh J, Psirides A, Reddy S, Bellomo R; SPLIT Investigators;
+ANZICS CTG. Effect of a Buffered Crystalloid Solution vs Saline on Acute Kidney
+Injury Among Patients in the Intensive Care Unit: The SPLIT Randomized Clinical
+Trial. JAMA. 2015 Oct 27;314(16):1701-10. doi: 10.1001/jama.2015.12334. Erratum
+in: JAMA. 2015 Dec 15;314(23):2570.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern B Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6011
+
+</ethicaddress>
+      <ethicapprovaldate>10/12/2013</ethicapprovaldate>
+      <hrec>12NTB57</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>c/o Intensive Care Unit
+Wellington Hospital
+Private Bag 7902
+Newtown
+Wellington 6242</address>
+      <phone>+6448060441</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Diane Mackle</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242
+
+</address>
+      <phone>+64 4 805 0147</phone>
+      <fax />
+      <email>diane.mackle@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Diane Mackle</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242
+</address>
+      <phone>+64 4 805 0147</phone>
+      <fax />
+      <email>diane.mackle@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>c/o Intensive Care Unit
+Wellington Hospital
+Private Bag 7902
+Newtown
+Wellington 6242</address>
+      <phone />
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

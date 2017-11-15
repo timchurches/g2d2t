@@ -1,0 +1,190 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="489">
+  <stage>Registered</stage>
+  <submitdate>9/09/2005</submitdate>
+  <approvaldate>4/10/2005</approvaldate>
+  <actrnumber>ACTRN12605000579695</actrnumber>
+  <trial_identification>
+    <studytitle>Heparin In Total Parenteral Nutrition</studytitle>
+    <scientifictitle>Randomised controlled trial of heparin in total parenteral nutrition to reduce the complications of peripherally inserted central venous catheters (long lines) in neonates.</scientifictitle>
+    <utrn />
+    <trialacronym>HILL TOP Trial</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Central venous catheter complications, in particular nosocomial central line associated infections.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomised double blind controlled trial with Heparin added to the total parenteral nutrition at a concentration of 0.5IU/mL. The intervention continues for as long as the infant is receiving total parenteral nutrition or a predetermined end site is reached, such as confirmed central line infection.</interventions>
+    <comparator>Controls have total parenteral nutrition without heparin.</comparator>
+    <control>Active</control>
+    <interventioncode>None</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Definite or probable baterial line infection while actively on the HILL TOP Trial is the primary outcome.  We are looking at the number of definite or probable bacterial line infections while on the trial per total number of infants enrolled in each arm.  The infant is considered actively "on the trial" from the time they have a long line inserted until either a primary outcome is reached (ie. definite or probable infection) or the long line is removed.  The reason for coming off the trial is recorded.</outcome>
+      <timepoint>While long line remains in situ</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Rate of definite or probable bacterial line infections while on the trial per total long line days in each arm.  The infant is considered actively "on the trial" from the time they have a long line inserted until either a primary outcome is reached (ie. definite or probable infection) or the long line is removed.  The reason for coming off the trial is recorded.</outcome>
+      <timepoint>While long line remains in situ</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Most of the secondary outcomes are also recorded while the infant is actively on the trial.  Each infant can only have a single outcome as the reason for exiting the trial and the primary outcome takes precedence.  These secondary outcomes recorded while actively on the trial are: 
+  The number of bacteraemic episodes with organisms not commonly associated with line sepsis per total number of infants in each group.
+  The number of definite or probable Candida line infections per total number of infants in each group.
+  The number of infants who had the long line removed because of extravasation or occlusion per total number of infants in each group.
+  The number of infants who had the long line removed because the line was no longer required per total number of infants in each group.
+We are also looking at the number of infants with progression of intraventricular haemorrhage per total number of infants in each group.  The definition being progression from a minor grade IVH to a severe grade IVH comparing ultrasound scans taken before starting the trial to the first scan after exiting the trial.</outcome>
+      <timepoint>While long line remains in situ</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All infants admitted to the Wellington Neonatal Unit requiring there first long line were eligible for inclusion.</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>3</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>They were excluded if they had previously had an effective long line inserted and utilised.  no other exclusion criteria.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Computer generated randomisation lists held in pharmacy production and infants allocated there, thus concealing allocation from parents, medical and nursing staff and investigators</concealment>
+    <sequence>Stratification at randomisation was done on the basis of size (&lt;850g, 850-2000, &gt;2000g).  Treatment allocation was balanced within blocks of random length.  Random numbers were generated using the ranuni function of the SAS (SAS Institute Inc., Cary, NC) software.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2 / Phase 3</phase>
+    <anticipatedstartdate>5/03/2004</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Pita Birch</primarysponsorname>
+    <primarysponsoraddress>Royal Women's Hospital
+Melbourne
+Victoria</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Baxter Clinical Nutrition Grant 2004</fundingname>
+      <fundingaddress>Baxter NZ
+33 Vestey Drive
+Mt Wellington
+Auckland, 1006
+NEW ZEALAND</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>NZ Branch of the RACP</fundingname>
+      <fundingaddress>The Royal Australasian College of Physicians
+5th Floor, 99 The Terrace
+(PO Box 10601)
+Wellington 6036</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Michael Hewson</sponsorname>
+      <sponsoraddress>Capital and Coast District Health Board Wellington Hospital Riddiford Street Private Bag 7902 Wellington South Wellington 6002</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In this trial we are testing the hypothesis that the addition of low dose heparin to total parenteral nutrition reduces the complications associated with long lines in neonates, particularly long line infections.  We are investigating the possible benefits of heparin in improving the delivery of TPN to sick or premature neonates.  In this study half of the babies will have heparin added to their TPN and the other half will have TPN without heparin.  No one, except for the pharmacists, will know which babies are having heparin and which ones are not and this makes the trial double blind.  At the end of the study we will compare the two groups to see if the babies that have had heparin have had less infections or less complications in general.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Wellington Neonatal Unit-Central Regional Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Michael Hewson</name>
+      <address>Capital and Coast District Health Board
+Wellington Hospital
+Riddiford Street
+Private Bag 7902
+Wellington South Wellington 6002</address>
+      <phone>+64 4 3855999</phone>
+      <fax>+64 4 3855309</fax>
+      <email>michael.hewson@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Pita Birch</name>
+      <address>Royal Women's Hospital
+Melbourne</address>
+      <phone>+64 21 2619727</phone>
+      <fax>N/A</fax>
+      <email>pitabirch@gmai.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

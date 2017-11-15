@@ -1,0 +1,587 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6311">
+  <stage>Registered</stage>
+  <submitdate>24/07/2014</submitdate>
+  <approvaldate>24/07/2014</approvaldate>
+  <nctid>NCT02201251</nctid>
+  <trial_identification>
+    <studytitle>A Study to Investigate the Safety of the Drugs Topiramate and Levetiracetam in Treating Children Recently Diagnosed With Epilepsy</studytitle>
+    <scientifictitle>A Randomized, Active-Controlled, Open-Label, Flexible-Dose Study to Assess the Safety and Tolerability of Topiramate as Monotherapy Compared With Levetiracetam as Monotherapy in Pediatric Subjects With New or Recent-Onset Epilepsy</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>TOPMATEPY4067</secondaryid>
+    <secondaryid>CR104425</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Epilepsy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Epilepsy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Topiramate
+Treatment: drugs - Levetiracetam
+
+Experimental: Topiramate - Topiramate weight based dosing for participants 2 to less than (&lt;) 10 years of age not to exceed 350 mg/day (milligram per day), as tolerated; 400 mg/day in participants 10-15 years of age.
+
+Active Comparator: Levetiracetam - Levetiracetam weight based dosing for all participants 2-15 years of age, not to exceed 60 milligram per kilogram per day (mg/kg/day), as tolerated. The maximum recommended daily dosage is 3,000 milligram (mg).
+
+
+Treatment: drugs: Topiramate
+Topiramate weight based dosing for participants 2 to &lt; 10 years of age not to exceed 350 mg/day, as tolerated; 400 mg/day in participants 10-15 years of age. brief description of the arm. This element may not be necessary if the associated intervention descriptions contain sufficient information to describe the arm.
+
+Treatment: drugs: Levetiracetam
+Levetiracetam weight based dosing for all participants 2-15 years of age, not to exceed 60 mg/kg/day, as tolerated. The maximum recommended daily dosage is 3,000 mg.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of Participants With Kidney Stones - Percentage of participants with kidney stones will be assessed.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Weight Z-score at Month 12 - The Z-Score indicates how many standard deviations a participant is from the population norm values. The body weight z-scores are designed to take into account the amount of weight gain that would be expected due to normal growth in children and adolescents. The body weight z-scores are by age and gender standardized values (corresponding to a normal distribution with mean 0 and a standard deviation of 1) of the actual weight measurements. Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Height at Month 12 - Height analyses will be conducted at Month 12, for prepubertal participants (2 to 9 years of age), participants 10 to 15 years of age, and participants 2 to 15 years of age.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Height at Month 12 - Height analyses will be conducted at Month 12, for prepubertal participants (2 to 9 years of age), participants 10 to 15 years of age, and participants 2 to 15 years of age. Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Height Z-score at Month 12 - Standing height will be taken as a mean of 3 consecutive measurements using a wall mounted stadiometer. Z-Score will be a statistical measure to evaluate how a single data point compares to a standard. It described whether a mean will be above or below the standard and how unusual the measurement is with range from -3 to +3; 0 =same mean, greater than (&gt;) 0 a greater mean, and less than (&lt;) 0 a lesser mean than the standard. Growth parameters were compared to a standard defined by Centers for Disease Control's growth charts.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Height Z-score at Month 12 - Standing height will be taken as a mean of 3 consecutive measurements using a wall mounted stadiometer. Z-Score will be a statistical measure to evaluate how a single data point compares to a standard. It described whether a mean will be above or below the standard and how unusual the measurement is with range from -3 to +3; 0 =same mean, &gt;0 a greater mean, and &lt;0 a lesser mean than the standard. Growth parameters were compared to a standard defined by Centers for Disease Control's growth charts. Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Height Velocity (HV) at Month 12 - The HV is the change in height since the previous year´s measurement and more precisely: HV = {(h-hp)/(d-dp)} * 365.25 [centimeter (cm)/year] where h is current height in cm, hp is previous height in cm, closest to 1 year previous, d is the current date and dp is the date of measurement of previous height, closest to 1 year previous. Additionally, d and dp have to be within 0.6 years and 1.5 years. HV is the mean height velocity over the interval between d and dp but is displayed as HV at d.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Height Velocity (HV) Z-score at Month 12 - The HV Z-score will be assessed.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percentage of Outlier Participants - Percentage of outlier participants with height Z-score decrease of &gt; 0.5, &gt;1.0, and &gt;2.0 will be reported.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Bone Mineral Density (BMD) - The BMD is measured by dual energy x-ray absorptiometry (DEXA). The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity. Positive scores indicate BMD above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Bone Mineral Content (BMC) - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Density (BMD) at Month 12 - The BMD is the amount of mineral per square centimeter of bone, which will be assessed by dual energy x-ray absorptiometry (DEXA) scan. Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Content (BMC) at Month 12 - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan. Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Bone Mineral Density (BMD)-Z Score - BMD is measured by dual energy x-ray absorptiometry (DEXA). The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Bone Mineral Content (BMC) Z-Score - The BMC is measured by dual energy x-ray absorptiometry (DEXA). The Z-Score is the number of standard deviations a participant's BMC differs from the average BMC of their age, sex and ethnicity. Positive scores indicate BMC above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Density (BMD)-Z Score at Month 12 - The BMD is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity. Positive scores indicate BMD above the mean; Positive values are "best values" and negative values are "worst values". Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Content (BMC) Z-Score at Month 12 - The BMC is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMC differs from the average BMC of their age, sex and ethnicity. Positive scores indicate BMC above the mean; Positive values are "best values" and negative values are "worst values". Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percent Change From Baseline in Bone Mineral Density (BMD) at Month 12 - The BMD is the amount of mineral per square centimeter of bone, which will be assessed by DEXA scan. Percent change from baseline in BMD at Month 12 will be reported.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percent Change From Baseline in Bone Mineral Content (BMC) at Month 12 - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan. Percent change from baseline in BMD will be reported.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percentage of Outlier Participants with BMD Z-score - Percentage of outlier participants with BMD Z-score decrease of &gt; 0.5, &gt;1.0, and &gt;2.0 will be reported.</outcome>
+      <timepoint>Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Biochemical Markers at Month 12 - Biochemical markers of bone mineralization will include alkaline phosphatase, calcium, phosphorus, parathyroid hormone (intact), 25-hydroxy- vitamin D, 1,25-dihyroxy vitamin D, and insulin-like growth factor-1 (IGF-1). Change From Baseline is calculated as value at Month 12 minus value at Baseline.</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Screening in Serum Laboratory Tests at Month 12 - Change from screening in serum laboratory tests will be summarized over time.</outcome>
+      <timepoint>Screening and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Baseline in Bone Age at Month 12 - A hand or wrist x-ray will be obtained in the non-dominant hand or wrist to determine bone age at Baseline and at Month 12</outcome>
+      <timepoint>Baseline and Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change From Screening in Urine Laboratory Tests at Month 12 - Change from screening in urine laboratory tests will be summarized over time.</outcome>
+      <timepoint>Screening and Month 12</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Weight Z-score at Month 1, 3, 6 and 9 - The Z-Score indicates how many standard deviations a participant is from the population norm values. The body weight z-scores are designed to take into account the amount of weight gain that would be expected due to normal growth in children and adolescents. The body weight z-scores are by age and gender standardized values (corresponding to a normal distribution with mean 0 and a standard deviation of 1) of the actual weight measurements.</outcome>
+      <timepoint>Baseline, Month 1, 3, 6 and 9</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Height at Month 1, 3, 6 and 9 - Height analyses will be conducted at Month 12, for prepubertal participants (2 to 9 years of age), participants 10 to 15 years of age, and participants 2 to 15 years of age.</outcome>
+      <timepoint>Baseline, Month 1, 3, 6 and 9</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Height Z-score at Month 1, 3, 6 and 9 - Standing height will be taken as a mean of 3 consecutive measurements using a wall mounted stadiometer. Z-Score will be a statistical measure to evaluate how a single data point compares to a standard. It described whether a mean will be above or below the standard and how unusual the measurement is with range from -3 to +3; 0 =same mean, &gt;0 a greater mean, and &lt;0 a lesser mean than the standard. Growth parameters were compared to a standard defined by Centers for Disease Control's growth charts.</outcome>
+      <timepoint>Baseline, Month 1, 3, 6 and 9</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Outlier Participants - Percentage of outlier participants with height Z-score decrease of &gt; 0.5, &gt;1.0, and &gt;2.0 will be reported.</outcome>
+      <timepoint>Month 1, 3, 6 and 9</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bone Mineral Density (BMD) - The BMD is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity. Positive scores indicate BMD above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bone Mineral Content (BMC) - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan.</outcome>
+      <timepoint>Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Density (BMD) at Month 6 - The BMD is the amount of mineral per square centimeter of bone, which will be assessed by dual energy x-ray absorptiometry (DEXA) scan.</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Content (BMC) at Month 6 - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan.</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bone Mineral Density (BMD)-Z Score - BMD is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity.</outcome>
+      <timepoint>Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bone Mineral Content (BMC) Z-Score - The BMC is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMC differs from the average BMC of their age, sex and ethnicity. Positive scores indicate BMC above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Density (BMD)-Z Score at Month 6 - The BMD is measured by DEXA. The Z-Score is the number of standard deviations a participant's BMD differs from the average BMD of their age, sex and ethnicity. Positive scores indicate BMD above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Bone Mineral Content (BMC) Z-Score at Month 6 - The BMC is measured by dual energy x-ray absorptiometry (DEXA). The Z-Score is the number of standard deviations a participant's BMC differs from the average BMC of their age, sex and ethnicity. Positive scores indicate BMC above the mean; Positive values are "best values" and negative values are "worst values".</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent Change From Baseline in Bone Mineral Density (BMD) at Month 6 - The BMD is the amount of mineral per square centimeter of bone, which will be assessed by DEXA scan. Percent change from baseline in BMD at Month 6 will be reported.</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent Change From Baseline in Bone Mineral Content (BMC) at Month 6 - The BMC is an estimate of the amount of mineral (such as calcium) in the bone, which will be assessed by DEXA scan. Percent change from baseline in BMD will be reported.</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Outlier Participants with BMD Z-score - Percentage of outlier participants with BMD Z-score decrease of &gt; 0.5, &gt;1.0, and &gt;2.0 will be reported.</outcome>
+      <timepoint>Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Biochemical Markers at Month 6 - Biochemical markers of bone mineralization will include alkaline phosphatase, calcium, phosphorus, parathyroid hormone (intact), 25-hydroxy- vitamin D, 1,25-dihyroxy vitamin D, and insulin-like growth factor-1 (IGF-1).</outcome>
+      <timepoint>Baseline and Month 6</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Screening in Laboratory Tests at Month 1, 3, 6 and 9 - Change from screening in serum laboratory tests will be summarized over time.</outcome>
+      <timepoint>Screening, Month 1, 3, 6 and 9</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Screening in Urine Laboratory Tests at Month 6 - Change from screening in urine laboratory tests will be summarized over time.</outcome>
+      <timepoint>Screening, Month 6</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Participant with a clinical diagnosis of new-onset or recent-onset epilepsy
+             characterized by partial-onset seizures (POS) (with or without secondary
+             generalization) or primary generalized tonic-clonic seizures (PGTCS) in accordance
+             with criteria of the International League Against Epilepsy. The epilepsy diagnosis
+             must be within the previous 2 years before screening
+
+          -  Caregivers (parents or legally acceptable representatives) of the participant must be
+             able to accurately maintain the participant take-home record and seizure diary
+
+          -  At screening, participant must have weight and height values within the 5th to 95th
+             percentile for chronological age (based on standard Child Height and Weight Charts
+             from the Centers for Disease Control [CDC])
+
+          -  Participant must never have been treated for epilepsy (treatment-naïve) or have been
+             treated with no more than 1 standard antiepileptic drug (AED) if temporary or urgent
+             AED use was necessary. Previous AED exposure must not exceed either of the following:
+             1.)Thirty-one days immediately preceding enrollment, or 2.)A total of 6 months of
+             previous AED exposure in the past if the AED has been discontinued for at least 1 year
+             prior to enrollment
+
+          -  Parents (or legally acceptable representatives) of the participant must sign an
+             informed consent/permission document, indicating that they understand the purpose of
+             and procedures required for the study and are willing to give permission for their
+             child to participate in the study. Participant 7 years of age and older, capable of
+             understanding the nature of the study, must provide assent for their participation</inclusivecriteria>
+    <inclusiveminage>2</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>15</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Participant has a surgically implanted and functioning vagus nerve stimulator
+
+          -  Participant has a history of seizures as a result of a correctable medical condition,
+             such as metabolic disturbance, toxic exposure, neoplasm, or active infection within 2
+             weeks prior to the first day of Screening
+
+          -  Participant has had uncontrolled seizures while previously taking either topiramate or
+             levetiracetam
+
+          -  Participant has a history of non-epileptic seizures within 2 weeks prior to the first
+             day of Screening
+
+          -  Participant has myoclonic or absence seizures</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Health Services Research</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>6/10/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>282</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>26/03/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Lady Cilento Childrens Hospital - Queensland</hospital>
+    <postcode>4101 - Queensland</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>La Plata, Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Bregenz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Amiens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bron</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Munchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tübingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Balassagyarmat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Veszprém</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Morelia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>San Luis Potosí</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Cebu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Manila</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Quezon City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warsaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ulyanovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Voronezh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavl</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Durban</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Mthatha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>New Taipei City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taoyuan</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Janssen Research &amp; Development, LLC</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to evaluate the safety of topiramate monotherapy compared with
+      levetiracetam another standard antiepileptic drug (AED), as monotherapy for new-onset or
+      recent-onset epilepsy (seizure disorder) on pediatric growth and maturation, bone
+      mineralization, and kidney stone formation in children aged 2 to 15 years.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02201251</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Janssen Research &amp; Development, LLC Clinical Trial</name>
+      <address>Janssen Research &amp; Development, LLC</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Use link at the bottom of the page to see if you qualify for an enrolling site (see list). If you still have questions:</name>
+      <address />
+      <phone />
+      <fax />
+      <email>JNJ.CT@sylogent.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

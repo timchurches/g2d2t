@@ -1,0 +1,237 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369388">
+  <stage>Registered</stage>
+  <submitdate>28/09/2015</submitdate>
+  <approvaldate>2/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001164583</actrnumber>
+  <trial_identification>
+    <studytitle>Stress hyperglycaemia and mortality in critical illness</studytitle>
+    <scientifictitle>Single-centre, observational trial of stress hyperglycaemia and in-hospital mortality in adult patients admitted to intensive care</scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>hyperglycaemia</healthcondition>
+    <healthcondition>critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Stress hyperglycaemia ratio as defined by the admission blood glucose level divided by the estimated average glycaemia. Estimated average glycaemia will be computed from the HbA1c using the formula as suggested by Nathan, D.M. et al. Diabetes Care 31, 14738 (2008). The patients will have routine intensive care. Bloods needed for testing (e.g. for HbA1c) are those already drawn during routine intensive care and added retrospectively if not already ordered in standard care. The patients will be followed up until hospital discharge.</interventions>
+    <comparator>admission glucose concentration by blood sample performed as part of standard care for admission into intensive care.</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>all-cause mortality</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite: major adverse cardiac events, acute renal injury (by KDIGO criteria), all-cause mortality, nosocomial infection, neurological complication (stroke or transient ischaemic attack) as assessed by review of hospital records, imaging results and laboratory results.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>major adverse cardiac events as assessed by review of hospital records and laboratory results.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>acute renal injury (by KDIGO criteria) as assessed by review of hospital records and laboratory results.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>nosocomial infection as assessed by review of hospital records and laboratory results.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>neurological complication (stroke or transient ischaemic attack) as assessed by review of hospital records, laboratory results and imaging results.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>length of stay as assessed by review of hospital records.</outcome>
+      <timepoint>in-hospital admission</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>admission to intensive care unit within study period</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>elective admissions to ICU (e.g. post-operative), glycaemia-related admission to ICU, pregnancy, major blood loss</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>A statistician has undertaken a simulation analysis using a previous study on the stress hyperglycaemia ratio (SHR) to determine the sample size required for this study. Assuming an event rate of 15%, a sample size of 1200 subjects has 80% power to detect an independent association between SHR and mortality with an estimated odds ratio of 1.25 per 0.1 increase in SHR at the two-tailed 0.05 significance level. To ensure we have sufficient power, we will recruit 1400 subjects. We will perform univariate as well as multi-variate analyses to compare the SHR with other predictors of outcome in intensive care, including absolute glycaemia, APACHE III scores.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>27/01/2016</anticipatedstartdate>
+    <actualstartdate>27/01/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1400</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Assoc Prof Morton Burt</primarysponsorname>
+    <primarysponsoraddress>Southern Adelaide Diabetes and Endocrinology Services
+Repatriation General Hospital
+216 Daws Rd, Daw Park SA 5041</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Royal Australasian College of Physicians</fundingname>
+      <fundingaddress>145 Macquarie St, Sydney NSW 2000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Novo Nordisk Regional Diabetes Scheme</fundingname>
+      <fundingaddress>Novo Nordisk Pharmaceuticals Pty. Ltd.
+PO Box 7586
+Baulkham Hills Business Centre NSW 2153</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>FMC Foundation</fundingname>
+      <fundingaddress>Flinders Medical Centre Foundation
+Flinders Drive
+Bedford Park 5042
+South Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Hyperglycaemia in hospitalised patients is independently associated with increased morbidity and mortality in a wide range of patient groups, including the critically ill. The association between hyperglycaemia and poor inpatient outcomes is strong in patients without diabetes. However, despite a greater elevation in plasma glucose concentration and poorer prognosis, hyperglycaemia is a weaker predictor of morbidity and mortality in patients with diabetes.
+
+A high plasma glucose concentration in a hospitalised patient can occur because of chronic poor diabetes control and be normal for that patient, represent a transient physiologic response to an inter­current illness (stress hyperglycaemia), or be a combination of the above. Stress hyperglycaemia arises because of the inflammatory and neuro­hormonal derangements that occur during a major illness. Therefore, stress hyperglycaemia develops in proportion to the severity of an inter­current illness, and an association between hyperglycaemia and adverse patient outcomes will be, at least in part, a reflection of this. However, stress hyperglycaemia may also directly contribute to adverse outcomes by inducing endothelial dysfunction and oxidative stress.
+
+The Endocrine Research Unit, Southern Adelaide Diabetes and Endocrine Services recently developed a metric for stress hyperglycaemia. Estimated average glucose concentration was calculated from glycosylated haemoglobin in 2290 patients acutely admitted to Flinders Medical Centre, Adelaide. Relative hyperglycaemia was defined by the stress hyperglycaemia ratio (SHR), calculated by dividing admission glucose by estimated average glucose. Thus, a patient with a SHR of 1.5 has an admission glucose concentration 50% higher than their average glucose over the prior 3 months.
+Using data gathered from a research primarily focused on validating the use of HbA1c for diagnosis of diabetes mellitus, a multivariable analysis including glucose, SHR and other potential predictors of poor outcome (e.g age, sex, renal function), the odds ratio for in­-hospital death or ICU admission per 0.1 SHR increment was 1.20 (p&lt;0.001). In contrast, the odds ratio per one mmol/L glucose increment was 1.03 (p=0.31). In contrast to glucose, the association between diabetes and SHR was not affected by diabetic status. These data suggest that SHR is a better predictor of adverse outcomes than glucose and that SHR is associated with poor outcomes in patients with and without diabetes.
+In this study, we will evaluate whether SHR is more strongly associated with in-­hospital mortality in critically ill patients than absolute glucose. If true, this may create a new paradigm whereby patients in ICU are selected for glucose­lowering therapy based on relative, rather than absolute, hyperglycaemia.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress>The Flats G5  Rooms 3 and 4
+Flinders Drive
+Flinders Medical Centre, Bedford Park  SA 5042</ethicaddress>
+      <ethicapprovaldate>7/08/2015</ethicapprovaldate>
+      <hrec>AU/15/F77F18</hrec>
+      <ethicsubmitdate>15/06/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Morton Burt</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+216 Daws Road,
+Daw Park, SA 5041
+</address>
+      <phone>+61882751094</phone>
+      <fax />
+      <email>morton.burt@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tien Lee</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+216 Daws Road,
+Daw Park, SA 5041</address>
+      <phone>+61455982828</phone>
+      <fax />
+      <email>lee0522@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tien Lee</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+216 Daws Road,
+Daw Park, SA 5041</address>
+      <phone>+61455982828</phone>
+      <fax />
+      <email>lee0522@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tien Lee</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+216 Daws Road,
+Daw Park, SA 5041</address>
+      <phone>+61455982828</phone>
+      <fax />
+      <email>lee0522@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

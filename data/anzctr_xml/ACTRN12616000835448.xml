@@ -1,0 +1,256 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370920">
+  <stage>Registered</stage>
+  <submitdate>17/06/2016</submitdate>
+  <approvaldate>27/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000835448</actrnumber>
+  <trial_identification>
+    <studytitle>The GAINS trial - Growth and Anabolism in Intensive Care Survivors</studytitle>
+    <scientifictitle>The GAINS trial - a randomised controlled double blind pilot study comparing nandrolone and placebo for muscle weakness in Intensive Care Survivors</scientifictitle>
+    <utrn />
+    <trialacronym>GAINS trial</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Intensive Care</healthcondition>
+    <healthcondition>Critical illness myopathy</healthcondition>
+    <healthcondition>Critical illness malnutrition</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomized controlled trial:  placebo versus nandrolone administration.
+
+Intervention arm: Nandrolone intramuscular injection (IMI) administered weekly for 3 weeks.
+Dose 100mg females, 200mg males
+
+Intervention will be administered by blinded investigators to inpatients so adherence will not be a problem.</interventions>
+    <comparator>Sterile water for injection IMI.
+
+Both placebo and study drug will be prepared in masked syringes so contents not apparent to person administering.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in muscle strength measured by:
+1) grip strength (handheld dynamometry)
+</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>2) medical research council muscle strength sum score</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>3) functional activity level using Chelsea critical care physical assessment tool (CPAx)</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Body weight change as measured by calibrated bed scale or digital scale
+</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU  length of stay (using patient medical records)</outcome>
+      <timepoint>Assessed at discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum albumin</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum Haemoglobin</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mid arm circumference (MUAC is the circumference of the left upper arm, measured at the mid-point between the tip of the shoulder and the tip of the elbow (olecranon process and the acromium))</outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quadriceps muscle layer thickness as measured by ultrasound (measured at the border between the lower third and upper two-thirds between the ASIS and the upper pole of the patella, as well as the measurement of the midpoint between the ASIS and the upper pole of the patella. The right and left quadriceps value assessed was the average of these four readings over the right and left legs (two at each site) see http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4502435/) </outcome>
+      <timepoint>Weekly from time of first dose to day after last dose or discharge from hospital.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay (using patient medical records)</outcome>
+      <timepoint>Assessed at  discharge from hospital </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Admitted To Intensive Care Unit or High Dependency Unit
+Significant weakness as result of ICU stay or pre-ICU condition as deemed by the treating clinician
+Weight loss (BMI &lt; 20 or &gt;10% weight loss in last 6 months)
+Receiving nutritional inputs at estimated goals for at least 3 days</inclusivecriteria>
+    <inclusiveminage>21</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Intercurrent septic shock (infection + vasopressors)
+Prostate or breast cancer
+Active cardiac disease (STEMI/NSTEMI last 2 weeks) or EF &lt; 35%
+Ongoing non-curable reason for catabolic state (such as active malignancy, HIV with opportunistic infection in last 2 months, inadequate nutritional intake)
+Unable to engage in rehabilitation (due to significant neurological or orthopaedic issues)
+Normal age related level of serum testosterone
+Pregnancy or breast feeding
+Any known allergies to nandrolone components (peanuts, soya, latex)
+Elevated LFTS (ALT &gt; 5 x normal) and impaired bilirubin excretion
+Nephrotic syndrome (&gt;3 g proteinuria/day</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment by numbered containers containing prepared syringes</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The investigational pharmacist will not be blinded, but will not be involved in administering,assessing outcomes or analysis.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>This is a pilot study and thus a power analysis is not possible.
+Differences in end points are exploratory.
+Means and standard deviations will be calculated for age, height, weight.
+Primary outcomes will be tested using independent sample t tests
+Non-parametric tests will be used where results are not normally distributed.
+Chi square tests will be used for categorical variables.
+Efficacy of intervention will be analysed on an intention to treat basis.
+Baseline variables will be recorded to demontrate that the groups are comparable, if this is not demonstrated, post-hoc adjustmets to correct for differences will be applied.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/06/2017</anticipatedstartdate>
+    <actualstartdate>1/10/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>1</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Sir Charles Gairdner Hospital</primarysponsorname>
+    <primarysponsoraddress>Sir Charles Gairdner Hospital
+Hospital Avenue
+Nedlands 6009 WA</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Sir Charles Gairdner Hospital, Intensive Care Research Fund</fundingname>
+      <fundingaddress>Intensive Care Department
+Sir Charles Gairdner Hospital
+Hospital Avenue
+Nedlands 6009, WA</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>ICU acquired weakness, the result of catabolism, immobility and critical illness polymyoneuropathy is of significant consequence to long-stay ICU patients. Recent advances have tried to prevent ICU acquired weakness by early mobilisation of patients and optimising nutrition. The loss of lean body mass in critical illness is also associated with misalignment between catabolic and anabolic hormones. One potential treatment may be to provide anabolic support in the recovery phase from prolonged critical illness.
+
+Nandrolone is a synthetic anabolic steroid that has greater anabolic (growth) and less androgenic (masculinizing) properties than testosterone. It has previously been used successfully in patients with weight loss in HIV/AIDS, and muscle wasting in patients with chronic obstructive pulmonary disease and end stage renal failure.
+
+This is a pilot multicentre randomized placebo controlled trial that will look at the effects of nandrolone given weekly for three weeks, versus placebo, in patients who have lost significant amounts of weight or strength while in the ICU. Our primary outcome will be changes in muscle strength, but we will also be looking for changes in weight and length of stay.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Human Research Ethics Committee</ethicname>
+      <ethicaddress>Hospital Avenue
+Nedlands 6009 WA</ethicaddress>
+      <ethicapprovaldate>26/07/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>24/05/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Intensive Care Department
+Sir Charles Gairdner Hospital
+Hospital Avenue
+Nedlands WA 6009</address>
+      <phone>+61893461010</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Intensive Care Department
+Sir Charles Gairdner Hospital
+Hospital Avenue
+Nedlands WA 6009</address>
+      <phone>+61893461010</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Intensive Care Department
+Sir Charles Gairdner Hospital
+Hospital Avenue
+Nedlands WA 6009</address>
+      <phone>+61893461010</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

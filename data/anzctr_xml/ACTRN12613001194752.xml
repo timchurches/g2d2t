@@ -1,0 +1,238 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365211">
+  <stage>Registered</stage>
+  <submitdate>28/10/2013</submitdate>
+  <approvaldate>30/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001194752</actrnumber>
+  <trial_identification>
+    <studytitle>A Pilot, Randomised, Blinded, Feasibility, Safety and Biochemical and Physiological Efficacy Study of Terlipressin vs. Placebo in Cardiac Surgery Patients with the Post-operative High Cardiac Output and Hypotension syndrome</studytitle>
+    <scientifictitle>A Pilot, Randomised, Blinded, Feasibility, Safety and Biochemical and Physiological Efficacy Study of Terlipressin vs. Placebo in Cardiac Surgery Patients with the Post-operative High Cardiac Output and Hypotension syndrome</scientifictitle>
+    <utrn />
+    <trialacronym>STEP</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Post-operative high cardiac output and hypotension syndrome in patients following cardiac surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intravenous push of Terlipressin (Lucassin) 0.85mg, at baseline as a minimum and then 6 hourly for a maximum of 24 hours with the need for further doses determined by continuous invasive monitoring via an arterial line.</interventions>
+    <comparator>Normal Saline (0.9%)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean arterial blood pressure via continuous invasive monitoring via arterial line</outcome>
+      <timepoint>one hour after each intravenous drug administration</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiac output via invasive thermodilution monitoring</outcome>
+      <timepoint>one hour after each intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Central venous pressure via invasive central venous catheter</outcome>
+      <timepoint>one hour after each intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pulmonary artery pressure via invasive pulmonary artery catheter</outcome>
+      <timepoint>one hour after each intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intravenous fluid given as per fluid balance chart</outcome>
+      <timepoint>one hour after each intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intravenous fluid given as per fluid balance chart</outcome>
+      <timepoint>In the first 6 hours after intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intravenous fluid given as per fluid balance chart</outcome>
+      <timepoint>In the first 24 hours after intravenous drug administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood creatinine levels</outcome>
+      <timepoint>At baseline and in the first 3 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of acute kidney injury based on creatinine according to risk, injury, failure, loss, end-stage (RIFLE) classification</outcome>
+      <timepoint>In the first three days after randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Patients aged 18 years or older
+- Admitted to the intensive care unit after cardiopulmonary bypass
+- High cardiac index (greater than 3 litres/minute/m2)
+- Hypotension (systolic blood pressure less than 90 mmHg or mean arterial blood pressure less than 65 mmHg)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Pregnancty
+- Death is considered imminent (within 24 hours)
+- Known sever peripheral vascular disease
+- Raynaud's phenomenon
+- Known allergy to terlipressin
+- Unstable angina
+- Recent myocardial infarction
+- Asthma
+- Surgery for coronary artery disease</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible patients will be randomised to receive either:
+- Terlipressin at 0.85mg IV push, OR
+- Placebo (Normal Saline 0.9%)
+
+The study treatments will be macroscopically identical and will be supplied in identical 5 ml syringes prepared by ICU research staff.</concealment>
+    <sequence>Randomisation will be by means of sealed envelopes with permuted blocks of variable size.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Outcomes will be compared after log transformation where appropriate. Comparisons will be made using t-test and ANOVA for repeated-measures or Wilcoxon rank-signed test and Kruskall-Wallis according to the underlying distribution for continuous data and Chi-square for categorical data. A Kaplan-Meier curve with log-rank test will be performed to further compare in-hospital mortality and rate of discharge home. Logistic regression analysis will also be performed to adjust for baseline imbalances.  Analysis will be on intention-to-treat.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/04/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <postcode>3084 - Banyule</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Austin Health</primarysponsorname>
+    <primarysponsoraddress>Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Anaesthesia Intensive Care Trust Fund, Austin Hospital, Austin Health</fundingname>
+      <fundingaddress>c/o Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The management of patients who have a high cardiac output (the amount of blood pumped by the heart every minute) and a low blood pressure after open heart surgery is complex because the best way to deliver best post-operative treatment of the circulation is uncertain. However, treatment typically includes the use of fluids given though a vein and drugs to help increase blood pressure to safer levels. Such blood pressure drugs can be useful but can have adverse effects on heart function or cause disturbances of the heart rhythm. Thus, they are often avoided and used very late in the management of these patients when blood pressure is really low. As a consequence, blood pressure may remain undesirably low for a long time and patients may be given large amounts of fluids instead, which can also be undesirable. More recently, however, a medication called terlipressin has been developed to help liver patients who have a high cardiac output with low blood pressure and worsening kidney function. 
+
+Terlipressin can be given as a single shot through any hand or arm vein and can increase blood pressure for up to 6 hours. Terlipressin offers the opportunity to improve blood pressure management in patients with a high cardiac output and a low blood pressure after heart surgery without the risk of causing heart injury and rhythm disturbances. However, because terlipressin has only been used to support blood pressure in this way in liver patients, we do not know how effective it would be in such selected cardiac surgery patients. 
+
+In this study we wish to test whether, in open heart surgery patients with a high cardiac output but a low blood pressure, terlipressin is more effective than placebo (dummy injection) at restoring blood pressure and whether such treatment is safe and changes the amount of fluid given and kidney function for the better.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office for Research
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>17/06/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>11/02/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/365211-HREC14Austin217 Ethics Approval  Site Authorisation SINGLE SITE.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 5992</phone>
+      <fax>+61 3 9496 5992</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 5992</phone>
+      <fax>+ 61 3 9496 3932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 5992</phone>
+      <fax>+61 3 9496 3932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Glenn Eastwood</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 4835</phone>
+      <fax>+61 3 9496 3932</fax>
+      <email>glenn.eastwood@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

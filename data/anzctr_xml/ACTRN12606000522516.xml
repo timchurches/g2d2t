@@ -1,0 +1,178 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="1330">
+  <stage>Registered</stage>
+  <submitdate>1/06/2006</submitdate>
+  <approvaldate>18/12/2006</approvaldate>
+  <actrnumber>ACTRN12606000522516</actrnumber>
+  <trial_identification>
+    <studytitle>Testing for interactions between anaesthetic drugs</studytitle>
+    <scientifictitle>The use of response modelling to define the interaction between sevoflurane and remifentanil as measured by Observer Assessment Sleep and Sedation (OASS) score and bispectral index during general anaesthesia.</scientifictitle>
+    <utrn />
+    <trialacronym />
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patients who are undergoing any type of surgery that require general anaesthetic, intubation and the surgery duration is more than one hour.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>That response surface methodology (a technique that models the pharmacodynamic effect of two and three drug combinations) can define the interaction between sevoflurane and remifentanil for the duration of a general anaesthetic (approx 2 hrs).  Remifentanil intravenously dose range 0.05 &amp; 0.25%mcg/kg/min, and will be incremented. Sevoflurane dose range will be 0.25-1.25% mcg/kg/min.
+One drug will be randomly assigned as the start drug and ramped up to a preset randomly selected dose within the dose range (sevoflurane 0.25, 0.5, 0.75, 1.0 or 1.25%, remifentanil 0.05, 0.1, 0.15, 0.2 or 0.25%mcg/kg/min) then second drug will be introduced and ramped up until OASS score of 5 is attained.  Doses will be incremented once 5 plasma half times have elapsed to allow equilibration at the effect site.  This will approximately 5 mins for each increment.  Increments will be ceased when patient is OASS 5 (unconscious and able to tolerate laryngoscopy) at which stage the patient will be intubated and preparations for surgery to be continued.</interventions>
+    <comparator>No comparator.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Bispectral Index (BIS) </outcome>
+      <timepoint>Measured for the duration of surgery estimated 1 to 4 hours at 1 minute intervals.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Observer Assessment Sleep &amp; Sedation (OASS) </outcome>
+      <timepoint>Measured 5 min after every change in drug dosage.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physiological - Blood Pressure and Pulse.</outcome>
+      <timepoint> 5 min intervals during the general anaesthetic estimated 1 to 4 hours.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1) American Society Anaesthesiology Grade (ASA) grade 1-3 (healthy or with mild or moderate but stable disease). 2) Surgery usually associated with minimal blood loss and expected to last at least 1.5hrs.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1) Contraindication to using reminfentanil or sevoflurane - including allergy and malignant hyperpyrexia2) inability to converse fluently in English.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>nil</concealment>
+    <sequence>nil</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>nil</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/07/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Doug Campbell</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Patient Vital Signs Monitoring Group Committee based at Auckland City Hosptial</fundingname>
+      <fundingaddress />
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Timothy Short</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>General anaesthesia is a complex process requiring many drugs being given to a patient and monitoring their effect on organs like the heart, lungs and brain.  These drugs can have similar actions but the combined effects can be complicated and difficult to predict because of large variations of drug dosing and differences in patient responses.  This study aims to establish the interaction between sevofularane and remifentanil across a wide variety of doses for different anaesthesia and endpoints</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Auckland City Hospital-Northern X Regional Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>13/05/2006</ethicapprovaldate>
+      <hrec>NTX/06/04/041</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Doug Campbell</name>
+      <address>Auckland City Hospital
+Department of Anaesthesia
+Level 8, Support Building
+Park Road, Grafton
+Auckland</address>
+      <phone>0064 2 503 010</phone>
+      <fax>0064 9 307 2814</fax>
+      <email>dcampbell@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Timothy Short</name>
+      <address>Auckland City Hospital
+Department of Anaesthesia
+Level 8, Support Building
+Park Road, Grafton
+Auckland</address>
+      <phone>0064 274 542 464</phone>
+      <fax>0064 9 307 2814</fax>
+      <email>tims@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

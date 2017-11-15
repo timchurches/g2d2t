@@ -1,0 +1,460 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="5999">
+  <stage>Registered</stage>
+  <submitdate>1/08/2016</submitdate>
+  <approvaldate>1/08/2016</approvaldate>
+  <nctid>NCT02854436</nctid>
+  <trial_identification>
+    <studytitle>An Efficacy and Safety Study of Niraparib in Men With Metastatic Castration-Resistant Prostate Cancer and DNA-Repair Anomalies</studytitle>
+    <scientifictitle>A Phase 2 Efficacy and Safety Study of Niraparib in Men With Metastatic Castration-Resistant Prostate Cancer and DNA-Repair Anomalies</scientifictitle>
+    <utrn />
+    <trialacronym>Galahad</trialacronym>
+    <secondaryid>64091742PCR2001</secondaryid>
+    <secondaryid>CR108208</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prostatic Neoplasms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Human Genetics and Inherited Disorders</conditioncode1>
+      <conditioncode2>Other human genetics and inherited disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Fetal medicine and complications of pregnancy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Niraparib
+
+Experimental: Niraparib - Participants will receive 300 milligram (mg) niraparib (3 capsules*100 mg) orally once daily.
+
+
+Treatment: drugs: Niraparib
+Participants will receive 300 mg niraparib (3 capsules*100 mg) orally once daily.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Objective Response Rate (ORR) - ORR of soft tissue disease with no evidence of bone progression. ORR is defined as proportion of participants with best objective response of complete response (CR) or partial response (PR) based on Response Evaluation Criteria In Solid Tumors Version 1.1 (RECIST v1.1) criteria.</outcome>
+      <timepoint>Screening, Cycle 1 (each cycle of 28 days) Day 1 (every 8 weeks for the first 6 months and then every 12 weeks thereafter) till Follow-up Phase</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - OS is defined as time from enrollment to death from any cause.</outcome>
+      <timepoint>From enrollment to completion of study (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Radiographic Progression-Free Survival (rPFS) - rPFS is defined as time from enrollment to radiographic progression or death.</outcome>
+      <timepoint>From enrollment to completion of study (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Prostate Specific Antigen (PSA) Progression - First PSA increase that is 25 percent (%) or greater and an absolute increase of 2 nanogram/milliliter (ng/mL) or more above the nadir.</outcome>
+      <timepoint>From enrollment to completion of study (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Symptomatic Skeletal Event (SSE) - Time to SSE: time from enrollment to first symptomatic fracture, radiation or surgery to bone, or spinal cord compression.</outcome>
+      <timepoint>From enrollment to completion of study (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Adverse Events as a Measure of Safety and Tolerability</outcome>
+      <timepoint>From enrollment to completion of study (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Objective Response - Duration of objective response is defined as time from complete response or partial response to radiographic progression of disease, unequivocal clinical progression or death, whichever occurs first.</outcome>
+      <timepoint>From complete response (CR) or partial response (PR) to radiographic progression of disease (approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Circulating Tumor Cells (CTC) Response - CTC is a potential biomarker for tumor sensitivity.</outcome>
+      <timepoint>From Screening till End of Treatment (within 30 days of last dose - approximately up to 3 years and 2 months)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histologically confirmed prostate cancer (mixed histology is acceptable, with the
+             exception of the small cell pure phenotype, which is be excluded)
+
+          -  Disease progression while on treatment with at least 1 line of taxane-based
+             chemotherapy for prostate cancer
+
+          -  Disease progression while on treatment with at least 1 line of Androgen Receptor (AR)
+             targeted therapy
+
+          -  Tumor that is Biomarker-positive for deoxyribonucleic acid (DNA) repair anomalies
+
+          -  Progression of metastatic prostate cancer in the setting of castrate levels of
+             testosterone or history of bilateral orchiectomy at study entry</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Male</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Prior treatment with a poly (adenosine diphosphate [ADP] ribose) polymerase (PARP)
+             inhibitor
+
+          -  Prior platinum-based chemotherapy for the treatment of prostate cancer
+
+          -  Known history or current diagnosis of myelodysplastic syndrome (MDS)/acute myeloid
+             leukemia (AML)
+
+          -  Known symptomatic or impending cord compression
+
+          -  Known symptomatic uncontrolled brain or leptomeningeal metastases (Day 1)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>31/08/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>160</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Suspended</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Camperdown</hospital>
+    <hospital> - Darlinghurst</hospital>
+    <hospital> - East Albury</hospital>
+    <hospital> - Kurrulta Park</hospital>
+    <hospital> - Melbourne</hospital>
+    <hospital> - Port Macquarie</hospital>
+    <hospital> - Randwick</hospital>
+    <hospital> - Wahroonga</hospital>
+    <postcode> - Camperdown</postcode>
+    <postcode> - Darlinghurst</postcode>
+    <postcode> - East Albury</postcode>
+    <postcode> - Kurrulta Park</postcode>
+    <postcode> - Melbourne</postcode>
+    <postcode> - Port Macquarie</postcode>
+    <postcode> - Randwick</postcode>
+    <postcode> - Wahroonga</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Aalst</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Charleroi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Hasselt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Kortrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Wilrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus N</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Herlev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense C</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besancon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice Cedex 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Alkmaar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Tomsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Córdoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santiago De Compostela</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Umeå</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taoyuan County</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Blackburn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bristol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cardiff</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Exeter</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Janssen Research &amp; Development, LLC</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to assess the efficacy, safety, and pharmacokinetics of
+      niraparib in men with metastatic castration resistant prostate cancer (mCRPC) and
+      deoxyribonucleic acid (DNA) repair anomalies.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02854436</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Janssen Research &amp; Development, LLC Clinical Trial</name>
+      <address>Janssen Research &amp; Development, LLC</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

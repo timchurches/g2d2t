@@ -1,0 +1,242 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335599">
+  <stage>Registered</stage>
+  <submitdate>9/06/2010</submitdate>
+  <approvaldate>26/08/2010</approvaldate>
+  <actrnumber>ACTRN12610000711011</actrnumber>
+  <trial_identification>
+    <studytitle>Feasibility of Online Adaptive Radiotherapy for Muscle Invasive Bladder Cancer</studytitle>
+    <scientifictitle>Trans Tasman Radiation Oncology Group (TROG) 10.01 - A multi-centre feasibility study of online adaptive image guided radiotherapy for muscle invasive bladder cancer</scientifictitle>
+    <utrn />
+    <trialacronym>BOLART</trialacronym>
+    <secondaryid>clinicaltrials.gov ID: NCT01142102</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Muscle Invasive Bladder Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bladder</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Radiation Therapy
+A radical dose of radiotherapy (RT) to be delivered to the entire bladder volume: 64Gy in 32 fractions over 6 weeks and 2 days.
+Conventional plan is used to deliver treatment for fractions 1-7 using a standard planning approach and a Clinical Target Volume (CTV) to Planning Target Volume (PTV) margin of 1.5cm.
+Adaptive plan is used to deliver treatment for fractions 8-32 using the same standard techniques as for fractions 1-7 but using one of the three specific CTV's, namely: small, average and large. In all these cases the CTV to PTV margin is 0.7cm. Image guidence using a treatment unit based verification Computed Tomography (CT) unit (cone beam CT or CT on rails) based on soft tissue delinieation is used to position the traetment fields and select the plan to best cover the CTV.</interventions>
+    <comparator>N/A - this is a single group study</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Compliance with online adaptive radiation therapy process. A patient is considered to be compliant if that patient completes treatment without experiencing a major protocol deviation.
+A major protocol deviation will be considered to have occurred for any patient for whom the following 3 conditions applies: 
+1. All 3 adaptive treatment plans (small, average, and large) were found to be inadequate for more than 10% of treatment fractions, necessitating use of the conventional plan for those treatment fractions. Since the adaptive treatment plans must be available for fractions 10-32 inclusive, this means that using the conventional plan for three or more of these fractions would constitute a Major
+Protocol Deviation.
+2. Three adaptive plans cannot be created and quality assured in time for the patients 10th fraction.
+3. Post treatment imaging shows that the Clinical Target Volume (CTV) has expanded beyond the Planning Target Volume (PTV) chosen in any one of the treatment fractions where post treatment imaging is conducted (namely fractions 10,15,20,25,30).</outcome>
+      <timepoint>Patients will be monitored on a daily basis, from the start date of radiotherapy to the last day of radiotherapy treatment (approximately 6 weeks and 2 days)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to local bladder failure. Documented by biopsy within the bladder or by cystoscopic assessment (Cystoscopy performed at baseline, every 3 months following radiotherapy for 12 months, then every six months following radiotherapy until trial ends)</outcome>
+      <timepoint>From date of enrolment until a local failure or regional nodal recurrence. (Cystoscopy performed at baseline, every 3 months following radiotherapy for 12 months, then every six months following radiotherapy until trial ends)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pattern of failure. Assessed clinically and with imaging where appropriate.</outcome>
+      <timepoint>From date of enrolment until a local failure or regional nodal recurrence. Patients will be assessed at Baseline, weekly during radiotherapy (where applicable), 1 month following radiotherapy, 3 months following radiotherapy, then every three months until 12 months following radiotherapy reached; at 12 months following radiotherapy then every three months until 2 year follow up is completed</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Free survival. Assessed clinically and with imaging where appropriate.</outcome>
+      <timepoint>From date of enrolment until a local failure or regional nodal recurrence. Patients will be assessed at Baseline, weekly during radiotherapy (where applicable), 1 month following radiotherapy, 3 months following radiotherapy, then every three months until 12 months following radiotherapy reached; at 12 months following radiotherapy then every three months until 2 year follow up is completed</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Acute Toxicity using National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTC AE) version 4.0</outcome>
+      <timepoint>Patients will be assessed weekly during radiotherapy, then at 1 month and 3 months following radiotherapy.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life (QoL) measured using appropriate QoL questionnaires. Assessment of Quality of life - 8 Dimensional (AQoL-8D), European Organisation for research and treatment of cancer Quality of Life Questionnaire (EORTC QLQ C30), European Organisation for research and treatment of cancer Quality of Life Questionnaire Bladder Module (EORTC QLQ BLM30) and EuroQol Group 5-Dimension Self-Report Questionnaire (EQ-5D).</outcome>
+      <timepoint>within 2 weeks prior to commencement of treatment, during the last week of traetment, 1 and 18 Months after the completion of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Late Normal Tissue effects using National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTC AE) version 4.0</outcome>
+      <timepoint>Measured between 3 months and 3 years after the completion of radiation treatment. Patients will be assesed at 3 months following radiation, then every 3 months until 2 years post radiation treatment, then 6 monthly for 12 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival. Assessed clinically and with imaging where appropriate.</outcome>
+      <timepoint>From start date of treatment until death due to any cause. Patients will be assessed at Baseline, weekly during radiotherapy (where applicable), 1 month following radiotherapy, 3 months following radiotherapy, then every three months until 12 months following radiotherapy reached; at 12 months following radiotherapy then every three months until 2 year follow up is completed</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Aged 18 years or older 2. Has provided written Informed Consent for participation in this trial 3. Histologically confirmed muscle invasive bladder cancer. 4. Transitional cell, squamous cell, adenocarcinoma or mixed histology. Stage T2-4 N0 M0. 5. An Eastern Cooperative Oncology Group (ECOG) performance status score of 2 or less. 6. Life expectancy greater than 6 months. 7. Considered suitable for radical radiotherapy. 
+8. Participants capable of childbearing are using adequate contraception. 9. Radiotherapy must be able to be commenced within 12 weeks of surgery. 10. Available for follow up.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Women who are pregnant or lactating. 2. Previous pelvic radiotherapy 3. Previous cystectomy 4. A small contracted bladder 5. Unilateral or bilateral hip replacement 6. Small cell histology 7.Clinical or radiological evidence of nodal or distant metastases 8. Presence of indwelling urinary catheter</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>To register a patient the following documents should be faxed to the Trial Coordinating Centre.
+- Enrolment and Eligibility Case Report Forms (CRFs)
+- De-identified copy of the consent form (by blacking out the participant’s name, only leaving the initials)
+
+On receipt of the faxed enrolment, eligibility and consent forms, the trial centre will review documents. Once the eligibility is confirmed the investigator will be advised that the patient is enrolled in the study.</concealment>
+    <sequence>Not applicable</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>16/08/2010</anticipatedstartdate>
+    <actualstartdate>16/08/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/12/2012</actualenddate>
+    <samplesize>50</samplesize>
+    <actualsamplesize>54</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>18/06/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Calvary Mater Newcastle - Waratah</hospital>
+    <hospital>Mater Adult Hospital - South Brisbane</hospital>
+    <hospital>Peter MacCallum Cancer Institute - East Melbourne</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <hospital>The Townsville Hospital - Douglas</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>The Alfred - Prahran </hospital>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Waikato</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Trans Tasman Radiation Oncology Group (TROG)</primarysponsorname>
+    <primarysponsoraddress>Calvary Mater Newcastle
+Locked Bag 7 Hunter Region Mail Centre
+NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC)</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The principal objective of the trial is to test the hypothesis that Online Adaptive Radiotherapy for Muscle Invasive Bladder Cancer is feasible across multiple Radiation Oncology departments.</summary>
+    <trialwebsite>www.trog.com.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Human Research Ethics Committee</ethicname>
+      <ethicaddress>Ethics Committee Secretariat
+Peter MacCallum Cancer Centre
+Locked Bag 1 A Beckett St
+East Melbourne
+Victoria 8006</ethicaddress>
+      <ethicapprovaldate>6/04/2010</ethicapprovaldate>
+      <hrec>10/14</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Farshad Foroudi</name>
+      <address>Perter MacCallum Cancer Centre
+St Andrew's Place East Melbourne VIC 3002  </address>
+      <phone>+61 3 96561111</phone>
+      <fax />
+      <email>farshad.foroudi@petermac.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Christine Russell</name>
+      <address>Centre for Biostatistics and Clinical Trials (BaCT)
+Level 2, No. 10
+St Andrew's Place
+East Melbourne
+VIC 3002</address>
+      <phone>+61 3 96563661</phone>
+      <fax />
+      <email>christine.russell@petermac.org</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>TROG Administrator</name>
+      <address>Trans Tasman Radiation Oncology Group
+Central Operations Office
+Calvar Mater Newcastle
+Locked Bag 7 Hunter Region Mail Centre
+NSW 2310</address>
+      <phone>+61 2 4014 3910  </phone>
+      <fax>+61 2 4014 3902</fax>
+      <email>administrator@trog.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Farshad Foroudi</name>
+      <address>Peter MacCallum Cancer Centre
+St Andrews Place
+East Melbourne
+VIC
+3002</address>
+      <phone>+61 3 96561111</phone>
+      <fax />
+      <email>farshad.foroudi@petermac.org</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

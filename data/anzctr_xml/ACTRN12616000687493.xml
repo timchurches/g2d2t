@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369425">
+  <stage>Registered</stage>
+  <submitdate>19/05/2016</submitdate>
+  <approvaldate>26/05/2016</approvaldate>
+  <actrnumber>ACTRN12616000687493</actrnumber>
+  <trial_identification>
+    <studytitle>Prospective evaluation of a paramedic neurological assessment for spinal cord injury</studytitle>
+    <scientifictitle>Prospective evaluation of the SPinal Emergency Evaluation of Deficits (SPEED) paramedic neurological assessment for spinal cord injury</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Spinal Cord Injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The SPEED (SPinal Emergency Evaluation of Deficits) has been developed to determine whether a simple assessment of neurological function can rapidly determine the level and severity of cervical SCI. This assessment involves paramedics evaluating the participants' foot motor and sensory function (ability to feel light touch at the base of the heel) to indicate the severity of injury. C3 sensation will be assessed by light touch at the jugular notch, bilateral hand grip strength and spinal pain level will also be assessed to indicate whether injury is in the high cervical, low and mid cervical or thoracic regions. The assessment procedure is expected to take 2 minutes.
+This project will apply the SPEED assessment to a prospective cohort of patients with suspected cervical SCI to validate this assessment tool. </interventions>
+    <comparator>The SPEED score will be compared to the American Spinal Injury Association Impairment Scale (AIS) grade at each assessment time point</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Agreement between the paramedic neurological assessment (SPEED) score and the AIS grade prior to surgery or within 24 hours post-injury. </outcome>
+      <timepoint>Paramedic assessment less than or equal to 2 hours of injury
+Prior to surgery or within 24 hours post-injury. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the paramedic SPEED score and the hospital AIS grade within 3-7 days post-injury. </outcome>
+      <timepoint>3-7 days post-injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the paramedic SPEED score and the hospital SPEED score within 24 hours post-injury or prior to decompressive surgery. </outcome>
+      <timepoint>24 hours post-injury or prior to decompressive surgery. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Agreement between the paramedic SPEED score and the hospital SPEED score at 3-7 days post-injury.</outcome>
+      <timepoint>3-7 days post-injury.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Assessed by paramedics within 2 hours of injury.
+Suspected vertebral column injury (any level) with neurological deficits* due to possible SCI.
+Admitted to participating hospitals within 24 hours post-injury. 
+*Neurological deficits defined as: any weakness, paralysis or change in sensation of one or more limbs reported by participant or found on examination. 
+</inclusivecriteria>
+    <inclusiveminage>15</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to follow commands due to significant head injury, drug or alcohol intoxication, mental or hearing impairment.
+GCS &lt; 13. 
+Suspected multiple traumatic injuries (defined as likely trauma to at least one other major organ, more than two long bone fractures, significant abdominal bleeding and head injury). 
+Immediate intubation needed.
+Cardiac arrest at scene. 
+Known or obvious pregnancy. 
+Pre-injury major neurological deficits (e.g. stroke, Parkinsons disease and Alzheimers disease).
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Power calculations using Choens kappa require an estimation of the null value of kappa, the estimated kappa, the proportion of positive ratings, and required power. The null value of kappa would be around 0.6; below this the SPEED test would likely not be clinically useful. Based on the results of the retrospective SPEED study in Victoria, a kappa of 0.9 would be expected and the proportion of positive ratings between a motor score of 0 and an ASIA A or B score expected to be around 70%. From this data, a sample size of 66 is required for an 80% power to detect a 90 % agreement (kappa score) between a SPEED motor score of 0 and a pre-surgical ASIA score of A or B. To ensure availability of the required number of assessed patients, the sample size will be increased 70 to account for losses to follow-up. 
+Choens kappa will be used to determine the agreement between the SPEED and AIS grade.
+To determine the ability of the field paramedic neurological assessment to predict participants ability to walk independently 6 months post-injury, receiver-operating-characteristics analysis will be utilised.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>16/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>70</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA,WA,VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>Parkville, VIC 3010</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>16 Marcus Clarke Street, 
+Canberra City, ACT 2600
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Institute for Safety, Compensation and Recovery Research (ISCRR)</fundingname>
+      <fundingaddress>222 Exhibition Street
+Melbourne, VIC 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The SPinal Emergency Evaluation of Deficits (SPEED) has been developed to determine whether a brief and simple neurological assessment tool can rapidly determine the severity and level of cervical spinal cord injury. The primary purpose of this study is to prospectively validate this assessment tool in cohort of patients with suspected cervical spinal cord injury. SPEED will be undertaken within 2 hours of injury and will be correlated with neurological assessments performed during the acute hospital admission and at 6 months post-injury. The hypothesis of this study is that an acute neurological assessment (SPEED) performed by paramedics within 2 hours of injury can accurately determine the severity and level of spinal cord injury prior to surgery or within 24 hrs post-injury.  </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Committee </ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>8/10/2015</ethicapprovaldate>
+      <hrec>15/364</hrec>
+      <ethicsubmitdate>2/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Batchelor</name>
+      <address>Level 4, Clinical Sciences Building 
+Royal Parade (via Melbourne Private Hospital)
+Parkville VIC 3050
+</address>
+      <phone>+61 3 8344 7958</phone>
+      <fax />
+      <email>peter.batch@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Camila Battistuzzo</name>
+      <address>Level 4, Clinical Sciences Building 
+Royal Parade (via Melbourne Private Hospital)
+Parkville VIC 3050</address>
+      <phone>+61 3 8344 3297</phone>
+      <fax />
+      <email>camilab@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Batchelor</name>
+      <address>Level 4, Clinical Sciences Building 
+Royal Parade (via Melbourne Private Hospital)
+Parkville VIC 3050</address>
+      <phone>+61 3 8344 7958</phone>
+      <fax />
+      <email>peter.batch@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Camila Battistuzzo</name>
+      <address>Level 4, Clinical Sciences Building 
+Royal Parade (via Melbourne Private Hospital)
+Parkville VIC 3050</address>
+      <phone />
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

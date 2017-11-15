@@ -1,0 +1,197 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364817">
+  <stage>Registered</stage>
+  <submitdate>23/08/2013</submitdate>
+  <approvaldate>27/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000953730</actrnumber>
+  <trial_identification>
+    <studytitle>Comparison of the performance of two sperm preparation methods for conventional in vitro fertilisation (IVF) insemination by assessing subsequent embryo development with time-lapse technology</studytitle>
+    <scientifictitle>Morphokinetic analysis of embryos resulting from different sperm preparation methods (Swim-up vs Density gradient centrifugation)- a sibling oocyte study</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Infertility</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Fertility including in vitro fertilisation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Swim-up (SU) and Density Gradient centrifugation (DGC) are both routinely used sperm preparation methods during IVF procedure. SU involves layering semen sample and culture media, and active swimming-up of sperm into the media phase so that sperm with good motility can be yielded. However there is a risk that seminal components migrate into the media which is believed to impact fertilisation and subsequent embryo growth. DGC involves centrifugations to force the motile sperm to go through density gradient media and then get separated. But centrifugations are proven to be harmful to sperm integrity and in turn affect fertilisation and subsequent embryo development. DGC is currently used as standard method for sperm preparation at Fertility North and will be used as control group. SU will be the treatment group.
+
+Sibling oocytes collected from each participating patient will be randomly allocated into DGC (control) and SU (treatment) groups. Semen sample provided by the male partner will be split and go through different preparation methods separately. Oocytes in each group will be inseminated with sperm prepared by according method. After insemination, comparisons will be made on ferilisation rate, time post insemination to reach syngamy, 2,3,4,5,6,7,8-cell stages (t2,t3,t4,t5,t6,t7,t8)(hours), and implantation results after transfer of embryos. Only one-off intervention is involved at the sperm/egg level, none at the patient level.</interventions>
+    <comparator>Swim-up (SU) and Density Gradient centrifugation (DGC) are both routinely used sperm preparation methods during IVF procedure. SU involves layering semen sample and culture media, and active swimming-up of sperm into the media phase so that sperm with good motility can be yielded. However there is a risk that seminal components migrate into the media which is believed to impact fertilisation and subsequent embryo growth. DGC involves centrifugations to force the motile sperm to go through density gradient media and then get separated. But centrifugations are proven to be harmful to sperm integrity and in turn affect fertilisation and subsequent embryo development. DGC is currently used as standard method for sperm preparation at Fertility North and will be used as control group. SU will be the treatment group.
+
+Sibling oocytes collected from each participating patient will be randomly allocated into DGC (control) and SU (treatment) groups. Semen sample provided by the male partner will be split and go through different preparation methods separately. Oocytes in each group will be inseminated with sperm prepared by according method. After insemination, comparisons will be made on ferilisation rate, time post insemination to reach syngamy, 2,3,4,5,6,7,8-cell stages (t2,t3,t4,t5,t6,t7,t8)(hours), and implantation results after transfer of embryos. Only one-off intervention is involved at the sperm/egg level, none at the patient level.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Fertilisation rate(%), 
+= (number of oocyte normally fertilised)/(number of oocyte inseminated)x100%</outcome>
+      <timepoint>24 hrs</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Time post insemination to reach syngamy, 2,3,4,5,6,7,8-cell stages (t2,t3,t4,t5,t6,t7,t8)(hours)
+
+Embryoscope is a time-lapse photographing incubator providing accurate timings for biological events during embryo development. Timings for syngamy and t2,t3,t4,t5,t6,t7,t8 of embryos cultured in the Embryoscope will be automatically recorded.</outcome>
+      <timepoint>72 hrs</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Synchronity of cleavage: s2 and s3 (hours)
+
+S2=t4-t3
+S3=t8-t5</outcome>
+      <timepoint>72 hrs</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Embryo implantation rate (%) after transfer
+
+Implantation is confirmed by detection of fetal heart beat under ultrasound 5 weeks after oocyte pick-up.
+
+Implantation rate (%) = (number of fetal heart beat detected)/(number of embryo transferred) x 100%</outcome>
+      <timepoint>5 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients who meet the IVF treatment criteria according to Fertility North protocols, including tubal factor, PCOS, low AMH or multiple failures in previous IUI treatment.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>45</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Semen quality of partner not within normal range </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Data collected will udergo t-tests. so the number of participants was calculated via an on-line sample size calculator.
+http://www.statstodo.com/SSiz2Means_Pgm.php
+Fixed setting: Probability of Type I Error (a) = 0.05 &amp; 
+Power (1 - B) = 0.8.
+Regarding the (Difference to be detected) and (Within group SD), different values were used for different parameters. The final sample size (n=180 for each group) was determined by the biggest sample size required for any parameters to be assessed.
+The average egg number collected per patient at Fertility North is 6, so the estimated number of participants is 60</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/11/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Withdrawn</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Fertility North</primarysponsorname>
+    <primarysponsoraddress>Suite 213, Specialist Medical Centre
+Joondalup Health Campus
+Shenton Ave
+Joondalup WA 6027 </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Fertility North</fundingname>
+      <fundingaddress>Suite 213, Specialist Medical Centre
+Joondalup Health Campus
+Shenton Ave
+Joondalup WA 6027 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Edith Cowan University </sponsorname>
+      <sponsoraddress>270 Joondalup Drive,
+Joondalup WA 6027 </sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Both Swim-up and Density gradient centrifugation are routine sperm preparation methods in IVF laboratory. However the content of seminal fluid might mix with separated sperm in the Swim-up method while centrifugation is involved in the other method which are both considered harmful to fertilisation and embryo development. The proposed study will use time-lapse technology to reveal the differeces in the subsequent embryo development.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Joondalup Health Campus Human Research Ethics Committee</ethicname>
+      <ethicaddress>Joondalup Health Campus,
+Shenton Ave,
+Joondalup, WA 6027 </ethicaddress>
+      <ethicapprovaldate>20/09/2013</ethicapprovaldate>
+      <hrec>1319</hrec>
+      <ethicsubmitdate>2/09/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Yanhe Liu </name>
+      <address>Fertility North
+Suite 213, Specialist Medical Centre, Joondalup Health Campus, Shenton Ave, Joondalup WA 6027</address>
+      <phone>+61 8 9301 1075 </phone>
+      <fax />
+      <email>yanhe@fertilitynorth.com.au </email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Phill Matson </name>
+      <address>Fertility North
+Suite 213, Specialist Medical Centre, Joondalup Health Campus, Shenton Ave, Joondalup WA 6027 </address>
+      <phone>+61 8 9301 1075 </phone>
+      <fax />
+      <email>phill.matson@fertilitynorth.com.au </email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Phill Matson </name>
+      <address>Fertility North
+Suite 213, Specialist Medical Centre, Joondalup Health Campus, Shenton Ave, Joondalup WA 6027 </address>
+      <phone>+61 8 9301 1075 </phone>
+      <fax />
+      <email>phill.matson@fertilitynorth.com.au </email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,507 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="5230">
+  <stage>Registered</stage>
+  <submitdate>14/01/2015</submitdate>
+  <approvaldate>14/01/2015</approvaldate>
+  <nctid>NCT02357147</nctid>
+  <trial_identification>
+    <studytitle>Study of the Safety and Efficacy of Amatuximab in Combination With Pemetrexed and Cisplatin in Subjects With Unresectable Malignant Pleural Mesothelioma (MPM).</studytitle>
+    <scientifictitle>A Randomized, Double-blind, Placebo-controlled Study of the Safety and Efficacy of Amatuximab in Combination With Pemetrexed and Cisplatin in Subjects With Unresectable Malignant Pleural Mesothelioma.</scientifictitle>
+    <utrn />
+    <trialacronym>ARTEMIS</trialacronym>
+    <secondaryid>MORAb-009-201</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Mesothelioma, Malignant</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Mesothelioma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Placebo
+Treatment: drugs - Amatuximab
+Treatment: drugs - Pemetrexed
+Treatment: drugs - Cisplatin
+
+Experimental: Arm 1 - Combination Phase - Amatuximab + Pemetrexed and Cisplatin
+Maintenance Phase - Amatuximab
+
+Experimental: Arm 2 - Combination Phase - Placebo + Pemetrexed and Cisplatin
+Maintenance Phase - Placebo
+
+
+Treatment: drugs: Placebo
+Combination Phase - Placebo will be administered IV (intravenous infusion) once weekly for six 21-day cycles.
+Maintenance Phase - Placebo will be administered IV (intravenous infusion) once weekly until disease progression.
+
+Treatment: drugs: Amatuximab
+Combination Phase - Amatuximab 5mg/kg will be administered IV (intravenous infusion) once weekly for six 21-day cycles.
+Maintenance Phase - Amatuximab 5mg/kg will be administered IV (intravenous infusion) once weekly until disease progression.
+
+Treatment: drugs: Pemetrexed
+Combination Phase - Pemetrexed 500 mg/m2 will be administered IV on Day 1 of each 21-day cycle for 6 cycles.
+
+Treatment: drugs: Cisplatin
+Combination Phase - Cisplatin 75 mg/m2 will be administered IV on Day 1 of each 21-day cycle for 6 cycles.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) - OS is defined as the time from the date of randomization to the date of death, regardless of cause.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival (PFS) - PFS is defined as the time (in weeks) from the date of randomization to the date of the first observation of progression as determined by the independent radiologic assessment using the modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria or the date of death, whichever comes first, regardless of the cause.</outcome>
+      <timepoint>First observation of disease progression or until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective Response Rate [ORR] - ORR (the proportion of subjects with complete response [CR] and partial response [PR]) as defined by the modified RECIST criteria using an independent radiologic review of computed tomography (CT)/Magnetic resonance imaging (MRI) scan. Objective response will be assessed at select visits during the Combination Treatment Phase as well as the Maintenance Treatment Phase.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of response (DR) - DR is defined as the time from the first documentation of objective tumor response to the first documentation of objective tumor progression or to death on study (ie, within 30 days after the last dose of Test Article).</outcome>
+      <timepoint>First documentation of objective tumor progression or until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease control rates (DCR) - DCR is the proportion of subjects with CR, PR, or stable disease (SD) as defined by the modified RECIST criteria using an independent radiologic review of CT/MRI scan.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of disease control (DDC) - DDC is defined as the time from the first documentation of objective tumor response or SD to the first documentation of objective tumor progression or to death.</outcome>
+      <timepoint>First documentation of objective tumor progression or until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health related quality of life (QOL) - QOL as measured by the Lung Cancer Symptom Scale for mesothelioma (LCSS-Meso; Hollen, et al., 2006) as the treatment population average across the duration of the trial for 9 items.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Performance Status Maintenance (DPSM) - DPSM is defined as the time from randomization until the last time the performance status was no worse than at baseline or to death on study.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety and tolerability as a measure of number of participants with Adverse Events (AEs)/Serious Adverse Events (SAEs) - Safety assessments will consist of monitoring and recording all adverse events, including adverse events of interest, hypersensitivity adverse events and serious adverse events; regular monitoring of hematology, blood chemistry, and urine values; regular monitoring of electrocardiograms (ECGs); periodic measurement of vital signs; and performance of physical examinations.</outcome>
+      <timepoint>Until date of death or up to 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK) and pharmacodynamic (PD) profile - PK and PD profile is analyzed to study exposure-response relationships for effects of amatuximab on OS, PFS, ORR, DR, DCR, DDC and DPSM and hypersensitivity adverse events.</outcome>
+      <timepoint>Serum samples of amatuximab at Day 1 of every Cycle during the combination treatment phase and every third cycle during the maintenance treatment phase until first evidence of disease progression or up to 60</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Are at least 18 years of age at the time of informed consent
+
+          2. Have confirmed diagnosis of MPM with the following characteristics:
+
+               -  Unresectable disease (defined as the participant not being a candidate for
+                  curative surgery)
+
+               -  Epithelial type
+
+               -  Have an archived tissue sample to be submitted either as a formalin fixed
+                  paraffin-embedded (FFPE) tumor block, or 5 to 15 unstained slides
+
+          3. Have measurable disease at Screening by computed tomography (CT) (or magnetic
+             resonance imaging [MRI]) as defined by at least 1 lesion of greater than or equal to
+             1.5 cm in the longest diameter for a non-lymph node or greater than or equal to 1.5 cm
+             in the short-axis diameter for a lymph node that is serially measurable according to
+             the modified RECIST criteria
+
+          4. Have other significant medical conditions well-controlled and stable in the opinion of
+             the investigator for at least 30 days prior to Day 1
+
+          5. Have an ECOG Performance Status 0 or 1 at Screening
+
+          6. Have a life expectancy of at least 3 months, as estimated by the investigator
+
+          7. Have adequate organ reserve as determined by laboratory test results obtained within 2
+             weeks prior to Study Day 1 as indicated below:
+
+               -  Absolute neutrophil count greater than or equal to 1.5 x 109/L
+
+               -  Platelet count greater than or equal to 100 x 109/L
+
+               -  Hemoglobin greater than or equal to 9 g/dL
+
+               -  Serum bilirubin less than or equal to 1.5 x upper limit of normal (ULN)
+                  (Participants with serum bilirubin abnormalities greater than this specified
+                  limit are eligible only if they have known Gilberts disease.)
+
+               -  Aspartate aminotransferase less than or equal to 3 x ULN
+
+               -  Alanine aminotransferase less than or equal to 3 x ULN
+
+               -  Alkaline phosphatase less than or equal to 3 x ULN
+
+          8. Have a calculated serum creatinine clearance greater than or equal to 45 mL/min using
+             the Cockcroft-Gault equation
+
+          9. Participants of childbearing potential must be surgically sterile or consent to use a
+             highly effective method of contraception throughout the study period. All females will
+             be considered to be of childbearing potential unless they are postmenopausal
+             (amenorrheic for at least 12 consecutive months, in the appropriate age group, and
+             without other known or suspected cause) or have been sterilized surgically (ie,
+             bilateral tubal ligation, total hysterectomy, or bilateral oophorectomy, all with
+             surgery at least 1 month before dosing). If a participant of childbearing potential is
+             neither surgically sterile nor postmenopausal, highly effective contraceptive measures
+             must start either prior to or at Screening and continue throughout the entire study
+             period and for at least 6 months after the last dose of chemotherapy and at least 30
+             days after the last dose of Test Article (amatuximab or placebo) is administered
+             (whichever is later). A highly effective method of contraception is defined as one
+             that results in a low failure rate (ie, less than 1% per year) when used consistently
+             and correctly. Periodic abstinence, the rhythm method, the withdrawal method, condoms,
+             and diaphragms are not acceptable methods of contraception. Women of childbearing
+             potential must also refrain from egg cell donation for 6 months after the final dose
+             of investigational product.
+
+         10. Male participants must have had a successful vasectomy (confirmed azoospermia) or they
+             and their female partners must meet the criteria above (ie, not of childbearing
+             potential or practicing highly effective contraception throughout the study period and
+             for 6 months after discontinuation of chemotherapy and for 5 weeks after Test Article
+             (amatuximab or placebo) discontinuation (whichever is later). No sperm donation is
+             allowed during the study period and for 90 days after Test Article discontinuation.
+
+         11. Be willing and able to provide written informed consent
+
+         12. Be willing and able to comply with all aspects of the protocol</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>99</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Have any history of the following:
+
+               -  Prior systemic therapy or radiotherapy for MPM; local radiotherapy of noncurative
+                  intent (ie, for prevention of instrument-tract recurrence and/or symptom control)
+                  is permitted
+
+               -  Evidence of other active, invasive malignancy requiring treatment within the past
+                  5 years; noninvasive cancer history (such as carcinoma-in-situ [CIS] that has
+                  been resected) is allowed
+
+          2. Currently have mesothelioma of the sarcomatous type, mixed histologic disease, or have
+             malignant peritoneal mesothelioma
+
+          3. Have confirmed presence of central nervous system metastases
+
+          4. Active viral hepatitis or active human immunodeficiency virus infection
+
+          5. Have evidence of any other serious systemic disease, including active bacterial or
+             fungal infection, or any medical condition that, in the opinion of the investigator(s)
+             could affect the participant's safety or interfere with the study assessments
+
+          6. Clinically significant heart disease (eg, congestive heart failure of New York Heart
+             Association Class 3 or 4, angina not well controlled by medication, or myocardial
+             infarction within 6 months)
+
+          7. Electrocardiogram (ECG) demonstrating clinically significant arrhythmias (Note:
+             participants with chronic atrial arrhythmia, ie, atrial fibrillation or paroxysmal
+             supraventricular tachycardia, are eligible). A clinically significant ECG abnormality,
+             including a marked prolonged QT/QTc interval (eg, a repeated demonstration of a QTc
+             interval of greater than 500 ms).
+
+          8. Have known intolerance to the Test Article (ie, documented hypersensitivity AE to
+             prior monoclonal antibody therapy, or to amatuximab or any of its excipients)
+
+          9. Pregnant and/or lactating females are excluded; a negative beta-human chorionic
+             gonadotropin [B-hCG]) is required during Screening, and a separate local assessment is
+             required if a negative screening pregnancy test was obtained more than 72 hours before
+             the first dose of Test Article
+
+         10. Have any medical or other condition that in the opinion of the investigator(s) would
+             preclude the participant's participation in a clinical study
+
+         11. Are scheduled for debulking surgery during the study
+
+         12. Are currently enrolled in another clinical study or used any investigational drug or
+             device within 30 days (or 5 x the half-life of the investigational drug/device,
+             whichever is longer) preceding informed consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>4/11/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>108</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/09/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,WA</recruitmentstate>
+    <hospital> - Camperdown</hospital>
+    <hospital> - Auchenflower</hospital>
+    <hospital> - Perth</hospital>
+    <hospital> - Victoria</hospital>
+    <postcode> - Camperdown</postcode>
+    <postcode> - Auchenflower</postcode>
+    <postcode> - Perth</postcode>
+    <postcode> - Victoria</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>La Tronche</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rennes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Esslingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt am Main</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Gauting</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hanover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Loewenstein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Woehrendamm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Alessandria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Aviano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bergamo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genoa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Orbassano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Paradisa 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Kent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Dundee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Hereford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leicester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Middlesex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Preston</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Swindon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Taunton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Morphotek</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study was originally designed as a multicenter, double-blind, randomized, parallel-group
+      study, using a placebo control or amatuximab 5 milligrams per kilogram (mg/kg), administered
+      weekly, designed to evaluate the safety and efficacy of amatuximab in combination with
+      pemetrexed and cisplatin in participants with unresectable Malignant Pleural Mesothelioma
+      (MPM) who have not received prior systemic therapy.
+
+      Per a business decision made by the Sponsor, participants who were randomized to amatuximab
+      and are still on active treatment at the time of the protocol amendment may consent to
+      continue to receive weekly treatment with amatuximab until disease progression or intolerable
+      toxicity at the discretion of the principal investigator. Participants randomized to placebo
+      or who were in follow-up at the time of the amendment have been discontinued from the study.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02357147</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,189 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373689">
+  <stage>Registered</stage>
+  <submitdate>28/09/2017</submitdate>
+  <approvaldate>5/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001409369</actrnumber>
+  <trial_identification>
+    <studytitle>Treatment of disordered sleep and anxiety in primary school-aged children</studytitle>
+    <scientifictitle>Can Sleep Restriction Therapy account for changes in anxiety via REM sleep continuity in school aged children with Chronic Insomnia Disorder? </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Insomnia Disorder</healthcondition>
+    <healthcondition>Anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants in the treatment condition will receive Sleep Restriction Therapy based on principles of Cognitive Behaviour Therapy for Insomnia. Treatment will be provided by a Psychologist, Clinical Psychologist, or Provisional Psychologist at the Child and Adolescent Sleep Clinic (Flinders University). Sleep Restriction Therapy involves reducing time-in-bed to 30 minutes less than the usual average total sleep time. This will be achieved by shifting the child's usual bed time later by 30 minutes. Child participants and their parent/guardian will attend two therapy sessions (one week apart, 1 hour on each occasion) and will implement their given schedule for a period of two weeks. Adherence to the intervention will be monitored using a 7-day sleep diary and wrist actigraphy</interventions>
+    <comparator>Control participants will undergo Bedtime Regularisation. Child participants and their parent/guardian will attend two therapy sessions (one week apart, 1 hour on each occasion). Treatment will be provided by a Psychologist, Clinical Psychologist, or Provisional Psychologist. Participants will receive psycho-education (e.g., information about sleep architecture, REM sleep, circadian rhythms) and implement a regular and consistent bedtime schedule. This will be achieved by calculating their average time-in-bed across the baseline week, and then planning a schedule that involves being in bed for that amount of time each night (using a bed time and rise time that works for their household). This schedule will be implemented for a period of two weeks. Adherence to the planned sleep schedule will be monitored using a 7-day sleep diary and wrist actigraphy. </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in child-rated total anxiety scale (Spence Children's Anxiety Scale)</outcome>
+      <timepoint>Baseline: 7 days prior to commencement of intervention (assessed over a 7-day period)
+Post-treatment: 7 days post commencement of intervention  (assessed over a 7-day period)
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in number of arousals from REM sleep (as measured by overnight polysomnography  recording)</outcome>
+      <timepoint>Baseline: 1 night recording prior to commencement of intervention
+Post-treatment:  1 night recording post completion of intervention
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in sleep efficiency score (based on sleep parameters from sleep diary e.g., time in bed, sleep onset latency, total sleep time, time awake after sleep onset)</outcome>
+      <timepoint>Baseline: 7 days prior to commencement of intervention (assessed over a 7-day period)
+Post-treatment: 7 days post commencement of intervention  (assessed over a 7-day period)
+</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Meet diagnostic criteria for Behavioural Insomnia of Childhood according to the International Classification of Sleep Disorders -2 manual</inclusivecriteria>
+    <inclusiveminage>7</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>13</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Atypical development, English as a second language, non-psychological sleep disorders (e.g., sleep disordered breathing, parasomnias), diagnosed co-morbid sleep disorder, </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation involved contacting the holder of the allocation schedule after the initial assessment was undertaken (to assess eligibility). </concealment>
+    <sequence>Permuted block randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Linear mixed model regressions (LMMRs) will be used to assess if the self-reported anxiety scores of children in the treatment group show a greater reduction compared to children in the control group (interaction effect). LMMRs will also be used to assess for greater changes in REM sleep for the treatment group compared to the controls (interaction effect for more continuous REM sleep in the treatment condition).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>22/03/2017</actualstartdate>
+    <anticipatedenddate>11/06/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>9</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>29/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof Michael Gradisar</primarysponsorname>
+    <primarysponsoraddress>School of Psychology
+Flinders University
+GPO Box 2100
+Adelaide SA 5001</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Flinders University</fundingname>
+      <fundingaddress>GPO Box 2100
+Adelaide SA 5001</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to determine whether changes in REM sleep stability (during treatment for insomnia) can account for reductions in anxiety in primary school-aged children. Compared to children in the control group, we expect children in the treatment group to show improvements in sleep, anxiety and REM sleep stability..</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>20/02/2017</ethicapprovaldate>
+      <hrec>38.14</hrec>
+      <ethicsubmitdate>14/02/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Emma Hunt</name>
+      <address>School of Psychology
+Flinders University
+GPO Box 2100
+Adelaide SA 5001</address>
+      <phone>+61882012324</phone>
+      <fax />
+      <email>hunt0341@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Emma Hunt</name>
+      <address>School of Psychology
+Flinders University
+GPO Box 2100
+Adelaide SA 5001</address>
+      <phone>+61882012324</phone>
+      <fax />
+      <email>hunt0341@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Emma Hunt</name>
+      <address>School of Psychology
+Flinders University
+GPO Box 2100
+Adelaide SA 5001</address>
+      <phone>+61882012324</phone>
+      <fax />
+      <email>hunt0341@flinders.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,642 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3112">
+  <stage>Registered</stage>
+  <submitdate>17/03/2011</submitdate>
+  <approvaldate>17/03/2011</approvaldate>
+  <nctid>NCT01318694</nctid>
+  <trial_identification>
+    <studytitle>Efficacy and Safety of Alisporivir Triple Therapy in Chronic Hepatitis C Genotype 1 Treatment-naïve Participants</studytitle>
+    <scientifictitle>A Randomized, Double-blind, Placebo-controlled Trial of the Efficacy and Safety of DEB025/Alisporivir in Combination With Peg-IFNa2a and Ribavirin in Hepatitis C Genotype 1 Treatment-naïve Patients</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2010-022867-37</secondaryid>
+    <secondaryid>CDEB025A2301</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hepatitis C</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Alisporivir
+Treatment: drugs - Peginterferon alfa-2a
+Treatment: drugs - Ribavirin
+Treatment: drugs - ALV Placebo
+
+Experimental: Treatment Arm A - Alisporivir (ALV) 600 mg twice daily (BID) with Peginterferon alfa-2a (PEG) and ribavirin (RBV) for 1 week, followed by an additional 23 or 47 weeks according to response-guided treatment duration (RGT):
+Participants with a viral load below the level of detection (&lt; LOD) at Week 4 stop study treatment after 24 weeks
+Participants with a viral load = LOD at Week 4 complete 48 weeks of study treatment
+
+Experimental: Treatment Arm B - Alisporivir (ALV) 400 mg twice daily (BID) with PEG and RBV for 24 or 48 weeks according to response-guided treatment duration (RGT)
+
+Experimental: Treatment Arm C - Alisporivir (ALV) 600 mg BID with PEG and RBV for 1 week, followed by 600 mg once daily (QD) for 47 weeks
+
+Active Comparator: Treatment Arm D - ALV Placebo with PEG and RBV for 48 weeks
+
+
+Treatment: drugs: Alisporivir
+ALV 200 mg soft gel capsules administered orally
+
+Treatment: drugs: Peginterferon alfa-2a
+PEG 180 µg administered via subcutaneous (s.c.) injection once weekly
+
+Treatment: drugs: Ribavirin
+RBV 200 mg tablets (weight-based dose: &lt; 75 mg = 1000 mg/day; = 75 kg = 1200 mg/day) administered orally in a divided daily dose
+
+Treatment: drugs: ALV Placebo
+ALV placebo soft gel capsules administered orally
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of Participants Who Achieved Sustained Virologic Response (SVR) 12 Weeks After the End of Treatment (SVR12) - SVR12 was defined as hepatitis C virus (HCV) RNA laboratory value below the level of quantification (&lt; LOQ; i.e., 25 IU/ml) 12 weeks after the end of treatment.</outcome>
+      <timepoint>12 weeks after the end of treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Who Achieved SVR 24 Weeks After the End of Treatment (SVR24) - SVR24 was defined as HCV RNA laboratory value &lt; LOQ 24 weeks after the end of treatment.</outcome>
+      <timepoint>24 weeks after the end of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Rapid Virologic Response (RVR) After 4 Weeks of Treatment (RVR4) - RVR4 was defined as serum HCV RNA &lt; LOQ after 4 weeks of treatment.</outcome>
+      <timepoint>after 4 weeks of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Early Virologic Response (EVR) After 12 Weeks of Treatment - EVR was defined as a = 2 log10 decrease in HCV RNA or HCV RNA &lt; LOQ after 12 weeks of treatment.</outcome>
+      <timepoint>after 12 weeks of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Partial Early Virologic Response (pEVR) After 12 Weeks of Treatment - pEVR was defined as a = 2 log10 decrease in HCV RNA and still detectable (= LOQ) after 12 weeks of treatment.</outcome>
+      <timepoint>after 12 weeks of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Complete Early Virologic Response (cEVR) After 12 Weeks of Treatment - cEVR was defined as serum HCV RNA &lt; LOQ after 12 weeks of treatment.</outcome>
+      <timepoint>after 12 weeks of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Extended Rapid Virologic Response (eRVR) From 4 to 12 Weeks of Treatment - eRVR was defined as achieving RVR4 and maintaining HCV RNA &lt; LOQ until Week 12.</outcome>
+      <timepoint>from 4 to 12 weeks of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With End of Treatment Response (ETR) at Treatment End Within 48 Weeks - ETR was defined as serum HCV RNA &lt; LOQ at treatment end (completed or prematurely discontinued).</outcome>
+      <timepoint>at treatment end within 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Alanine Aminotransferase (ALT) Abnormalities Within 48 Weeks - ALT abnormalities were summarized as participants who had either:
+ALT &gt; 2 x upper limit of normal (ULN) during the study and &gt; 2 x ULN at baseline
+ALT &gt; 3 x ULN during the study and &gt; 2 x ULN at baseline</outcome>
+      <timepoint>within 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Grade 3 or 4 Anemia During Treatment Within 48 Weeks - Grading was according to the Modified Division of Microbiology &amp; Infectious Diseases (DMID) Toxicity Tables (version 2.0).
+Participants with multiple abnormalities were counted only once in the worst category.</outcome>
+      <timepoint>within 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Grade 3 or 4 Neutropenia During Treatment Within 48 Weeks - Grading was according to the DMID Toxicity Tables (version 2.0). Participants with multiple abnormalities were counted only once in the worst category.</outcome>
+      <timepoint>within 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Grade 3 or 4 Thrombocytopenia During Treatment Within 48 Weeks - Grading was according to the DMID Toxicity Tables (version 2.0). Participants with multiple abnormalities were counted only once in the worst category.</outcome>
+      <timepoint>within 48 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria:
+
+          -  Chronic HCV infection
+
+          -  HCV genotype 1
+
+          -  No previous treatment for hepatitis C infection
+
+          -  Serum HCV RNA level = 1000 IU/ml assessed by quantitative polymerase chain reaction or
+             equivalent at screening, no upper limit
+
+          -  Liver evaluation prior to baseline: liver biopsy within 3 years or Fibroscan within 6
+             months</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria:
+
+          -  HCV genotype different from genotype 1 or co-infection with other HCV genotype
+
+          -  Co-infection with Hepatitis B or HIV
+
+          -  Any other cause of relevant liver disease other than HCV
+
+          -  Presence or history of hepatic decompensation
+
+          -  Alanine aminotransferase (ALT) = 10 times upper limit of normal (ULN), more than 1
+             episode of elevated bilirubin (&gt; ULN) in past 6 months
+
+        Other protocol-defined inclusion/exclusion criteria may apply.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/03/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>1081</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/08/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Novartis Investigative Site - Darlinghurst</hospital>
+    <hospital>Novartis Investigative Site - Kingswood</hospital>
+    <hospital>Novartis Investigative Site - Kogarah</hospital>
+    <hospital>Novartis Investigative Site - Westmead</hospital>
+    <hospital>Novartis Investigative Site - Greenslopes</hospital>
+    <hospital>Novartis Investigative Site - Fitzroy</hospital>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2747 - Kingswood</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4120 - Greenslopes</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clichy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 04</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kiel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Köln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hongkong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Bekescsaba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kaposvár</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Pecs</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szekesfehervar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>BO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>GE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>MI</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PD</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PV</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>RM</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>TO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeongsangnam-Do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Korea</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Kyeonggi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Busan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Pusan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Distrito Federal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Nuevo León</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzów</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Kielce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lódz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>San Juan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>District 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>District 3</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Jud. Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Craiova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St.- Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Catalunya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Comunidad Valenciana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Chia-Yi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Niaosong Township</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Yun-Lin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Chiang Mai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Khon Kaen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Songkla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Hanoi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Ho Chi Minh</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Debiopharm International SA</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will assess the safety and efficacy of alisporivir (ALV; DEB025) triple therapy
+      [i.e., when added to peginterferon alfa-2a (PEG) and ribavirin (RBV)] to optimize treatment
+      in treatment-naïve participants with hepatitis C virus (HCV) genotype 1 (GT1)</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01318694</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Novartis Pharmaceuticals</name>
+      <address>Novartis Pharmaceuticals</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

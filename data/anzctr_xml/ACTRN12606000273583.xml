@@ -1,0 +1,458 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="1355">
+  <stage>Registered</stage>
+  <submitdate>12/07/2001</submitdate>
+  <approvaldate>12/07/2001</approvaldate>
+  <actrnumber>ACTRN12606000273583</actrnumber>
+  <trial_identification>
+    <studytitle>International neonatal immunotherapy study</studytitle>
+    <scientifictitle>Randomised controlled trial of intravenous immunoglobulin of neonates with sepsis using intravenous immunoglobulin (Intragam P) and being treated with antibiotics. Primary outcomes are mortality and morbidity.</scientifictitle>
+    <utrn />
+    <trialacronym>INIS</trialacronym>
+    <secondaryid>Perinatal Trials Registry: PTR373</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Infants with sepsis. Infants being treated with antibiotics are eligible. Infants can be preterm or term.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Childbirth and postnatal care</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intravenous administration of immunoglobulin (Intragam P) (500mg (10ml) per kg).
+Administered twice in total (treatment given over 4-6 hours and then repeated 48 hours later).</interventions>
+    <comparator>Placebo (saline). 
+Administered twice in total (treatment given over 4-6 hours and then repeated 48 hours later).</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mortality or major disability</outcome>
+      <timepoint>At 2 yrs (corrected for gestational age at birth)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>1. Mortality</outcome>
+      <timepoint>Before 2 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Chronic lung disease or major cerebral abnormality</outcome>
+      <timepoint>Before hospital discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Significant positive culture</outcome>
+      <timepoint>After trial entry.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pneumonia</outcome>
+      <timepoint>hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Necrotising enterocolitis</outcome>
+      <timepoint>hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of respiratory support. </outcome>
+      <timepoint>hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>2. Major disability and Non major disability</outcome>
+      <timepoint>At 2 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>3. Length of hospital stay and number of hospital admissions.</outcome>
+      <timepoint>2 years (corrected for gestational age at birth)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Infants are eligible if: they are receiving antibiotics with clinical evidence of definite or highly probable sepsis, there is substantial uncertainty that IVIG is indicated, birth weight is less than 1500g OR already has positive blood or cerebro spinal fluid culture OR receiving artifical ventilation.</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>28</inclusivemaxage>
+    <inclusivemaxagetype>Days</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>IVIG already given or thought to be needed or contra-indicated.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Treatment allocations are provided to central pharmacy of the hospital. Allocation involves contacting pharmacist at the hospital to allocate a treatment.</concealment>
+    <sequence>Permuted blocks with different block sizes.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>Either one or the other treatment is allocated</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/02/2001</anticipatedstartdate>
+    <actualstartdate>20/02/2002</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>21/05/2007</actualenddate>
+    <samplesize>5000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Sydney</primarysponsorname>
+    <primarysponsoraddress>City Rd, Darlington New South Wales 2008
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health &amp; Medical Research Council</fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra ACT 2601
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council (NZ)</fundingname>
+      <fundingaddress>Level 3 - ProCARE Building, Grafton Mews, at 110 Stanley Street, Auckland 1010</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>UK Medical Research Council</fundingname>
+      <fundingaddress>Medical Research Council
+14th Floor 
+One Kemble Street
+London 
+WC2B 4AN
+</fundingaddress>
+      <fundingcountry>United Kingdom</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Financial Markets Foundation for Children</fundingname>
+      <fundingaddress>GPO Box 3655
+Sydney NSW 2000
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Sesqui Grant University of Sydney</fundingname>
+      <fundingaddress>City Rd, Darlington New South Wales 2008 
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Commonwealth Scientific Laboratories</fundingname>
+      <fundingaddress>1/1 Coronation Ave, Kings Park NSW 2148 
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Telstra Foundation</fundingname>
+      <fundingaddress>Locked Bag 5680
+Melbourne VIC 3001 
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Sydney National Health &amp; Medical Research Council Clinical Trials Centre</fundingname>
+      <fundingaddress>Locked Bag77
+Camperdown NSW 1450</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Ian Potter Travel Grant</fundingname>
+      <fundingaddress>The Ian Potter Foundation
+ Level 3, 111 Collins Street
+ Melbourne VIC 3000
+ Australia
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Prof. William Tarnow-Mordi</sponsorname>
+      <sponsoraddress>NHMRC Clinical Trial Centre
+Locked Bag 77
+Camperdown NSW 1450
+Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This trial will test if intravenous immunoglobulin (IVIG) reduces death and disability in up to 5000 babies with suspected serious infection in the UK, Europe, Argentina, Australia and New Zealand. Newborn babies are deficient in immunoglobulins (physiological deficiency), especially if they are premature. Babies with severe infection after birth carry a high risk of death or life-long disability, even with appropriate antibiotics. IVIG is concentrated from plasma carefully screened blood donors and is one of the safest blood products available. Earlier trials suggest IVIG may reduce death rates in newborn infants, but did not report disability rates in survivors. Participants, Trialists at the coordinating centre, and clinical professionals involved in the care of the child are blinded to the study treatment. Only the pharmacist and lead statistician are aware of the treatment allocation.</summary>
+    <trialwebsite />
+    <publication>Treatment of neonatal sepsis with intravenous immune globulin. N Engl J Med. 2011 Sep 29;365(13):1201-11. </publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Westmead Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/12/2001</ethicapprovaldate>
+      <hrec>2001/7/4.22 (1080)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Hospital for Women</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>19/12/2001</ethicapprovaldate>
+      <hrec>01/275</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Hobart</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>14/08/2002</ethicapprovaldate>
+      <hrec>ISRCTN 94984750</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>John Hunter Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/08/2002</ethicapprovaldate>
+      <hrec>02/07/10/3.06</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Medical Centre</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>9/07/2002</ethicapprovaldate>
+      <hrec>02045B</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Canberra Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>13/05/2002</ethicapprovaldate>
+      <hrec>ETH.2/02.74</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>RPA women and Babies</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>16/07/2002</ethicapprovaldate>
+      <hrec>COR05-02; X02-0012</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Sydney Children's</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>5/01/2004</ethicapprovaldate>
+      <hrec>01/275</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Flinders Medical Centre</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>22/09/2003</ethicapprovaldate>
+      <hrec>11/034</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Women's</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>22/09/2003</ethicapprovaldate>
+      <hrec>03/05</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Mercy Hospital for Women</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>2/05/2003</ethicapprovaldate>
+      <hrec>R03/03</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Nepean</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>27/08/2002</ethicapprovaldate>
+      <hrec>02/054</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Children's</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>6/05/2003</ethicapprovaldate>
+      <hrec>23001A</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal North Shore Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>4/03/2003</ethicapprovaldate>
+      <hrec>0209-145M</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Liverpool</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>23/09/2002</ethicapprovaldate>
+      <hrec>02/106</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Children's Hospital at Westmead</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>15/07/2002</ethicapprovaldate>
+      <hrec>2002/032</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Wellington Women's Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Palmerston North Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Dunedin Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>National Women's Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Waikato Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Middlemore Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Christchurch Women's Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Women's and Children's</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>11/03/2004</ethicapprovaldate>
+      <hrec>1520/12/2006</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Women's</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>17/12/2003</ethicapprovaldate>
+      <hrec>2003000726</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Prof. Tarnow-Mordi</name>
+      <address>c/o Locked Bag 77 
+Camperdown NSW 1450</address>
+      <phone>612 9562 5335</phone>
+      <fax>612 9565 1863</fax>
+      <email>inis@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Prof William Tarnow-Mordi</name>
+      <address>Locked Bag 77
+Camperdown NSW 1450</address>
+      <phone>6129562 5000</phone>
+      <fax>61295651863</fax>
+      <email>inis@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>William Tarnow Mordi</name>
+      <address>NHMRC Clinical Trials Centre
+Locked Bag 77
+Camperdown NSW 1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax />
+      <email>inis@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

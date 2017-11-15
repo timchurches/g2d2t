@@ -1,0 +1,267 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367272">
+  <stage>Registered</stage>
+  <submitdate>16/10/2014</submitdate>
+  <approvaldate>29/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001145695</actrnumber>
+  <trial_identification>
+    <studytitle>The Perioperative Administration of Dexamethasone and Glucose concentrations in diabetic and non-diabetic surgical patients</studytitle>
+    <scientifictitle>In diabetic and non-diabetic surgical patients, does the administration of perioperative dexamethasone compared to placebo, increase blood glucose concentrations</scientifictitle>
+    <utrn>U1111-1162-9647</utrn>
+    <trialacronym>PADDAG</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Diabetes Mellitus</healthcondition>
+    <healthcondition>Surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Random allocation to either Placebo, Dexamethasone 4mg or 8mg IV at induction of anaesthesia, within EACH of two strata ( diabetic or non-diabetic )This will be determined according to their know diabetic status. The allocation will be by the use of a random number generator</interventions>
+    <comparator>Placebo ( intravenous saline bolus )</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Peak postoperative blood glucose concentrations</outcome>
+      <timepoint>Hourly intraoperatively, and up to 6 hourly postoperaively up to 24 hours</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Surgical site infection as determined by microbiological culture or the use of antibiotics </outcome>
+      <timepoint>30 days postoperatively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postoperative nausea and vomiting as determined with a Verbal Response Scale</outcome>
+      <timepoint>24 hours postoperatively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Acute Pain as determined with a Verbal Response Scale (VRS)</outcome>
+      <timepoint>24 hours postoperatively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Recovery (QOR) using the QOR-15 tool</outcome>
+      <timepoint>30 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disability [WHODAS]</outcome>
+      <timepoint>One year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Chronic post-surgical pain using the mBPI and Neuropathic pain questionnaire</outcome>
+      <timepoint>One year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Surgical Complications [Dindo-CLavien grade]</outcome>
+      <timepoint>30 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital stay</outcome>
+      <timepoint>Until discharged postoperatively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sepsis using the Surviving Sepsis Guidelines and CDC criteria</outcome>
+      <timepoint>30 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Elective surgical patients
+Skin incision required
+Surgical duration greater than one hour
+At least one night hospital stay postoperatively
+General anaesthesia
+ASA grade 1-4
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Pure regional anaesthesia
+Hypersensitivity to study drug
+Poorly controlled Type 1 diabetes mellitus
+Sickle cell anaemia
+Thalassemia
+Surgical procedure within the previous 3 months
+Surgical procedure planned within 30 days of the index procedure
+Infection within three months prior to procedure
+Maxillofacial surgery 
+Intraoperative requirement
+Renal Impairment
+Immunosuppressive therapy or state
+Concurrent systemic glucocorticoid usage
+Moderate or severe liver disease
+Metastatic cancer
+Opthalmic surgery
+Endovascular procedures
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Stratification according to presence or absence of diabetes
+Double blinded
+</concealment>
+    <sequence>Simple randomisation using a computer random-number generator
+Sequentially numbered, opaque, sealed envelopes 
+
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Superiority design
+We will need to recruit 112 experimental subjects and 112 control subjects, in each stratum ( diabetic and non-diabetic) , to be able to reject the null hypothesis with a Type I error of 0.05 and power of 0.8.   Total cohort = 112 x 6 = 672. We will recruit 700 patients allowing for a dropout rate of 2.5%.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>10/12/2014</anticipatedstartdate>
+    <actualstartdate>1/03/2015</actualstartdate>
+    <anticipatedenddate>22/07/2016</anticipatedenddate>
+    <actualenddate>6/06/2016</actualenddate>
+    <samplesize>700</samplesize>
+    <actualsamplesize>286</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>23/07/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <postcode>6000 - Perth</postcode>
+    <postcode>6160 - Fremantle</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Perth Hospital</primarysponsorname>
+    <primarysponsoraddress>Wellington Street
+Perth City
+Western Australia
+WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Medical Research Foundation</fundingname>
+      <fundingaddress>Royal Perth Hospital
+Box X2213
+GPO Perth 6847
+Western Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The proposed PADDAG trial is a prospective, stratified-randomised controlled trial to determine whether the use of intraoperative dexamethasone, a widely used antiemetic in adult surgical patients, is associated with an increased blood glucose concentration, and whether this increase is greater in patients with diabetes than in those without. Secondary outcomes will include the risk of infection, and the interaction between dexamethasone administration, diabetic status, glycaemic control and infective complications.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Fremantle Hospital Ethics Committee</ethicname>
+      <ethicaddress>Alma Street
+Fremantle
+6160
+Western Australia</ethicaddress>
+      <ethicapprovaldate>14/08/2014</ethicapprovaldate>
+      <hrec>14/46</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Tomas Corcoran</name>
+      <address>Department of Anaesthesia and Pain Medicine
+Level 4, North Block
+Royal Perth Hospital
+Wellington Street
+Perth
+WA, 6000</address>
+      <phone>+61892241038</phone>
+      <fax />
+      <email>tomas.corcoran@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Pauline Coutts</name>
+      <address>Department of Anaesthesia and Pain Medicine
+Level 4, North Block
+Royal Perth Hospital
+Wellington Street
+Perth
+WA, 6000</address>
+      <phone>+61892241036</phone>
+      <fax />
+      <email>Pauline.coutts@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tomas Corcoran</name>
+      <address>Department of Anaesthesia and Pain Medicine
+Level 4, North Block
+Royal Perth Hospital
+Wellington Street
+Perth
+WA, 6000</address>
+      <phone>+61892241038</phone>
+      <fax />
+      <email>tomas.corcoran@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tomas Corcoran</name>
+      <address>Department of Anaesthesia and Pain Medicine
+Level 4, North Block
+Royal Perth Hospital
+Wellington Street
+Perth
+WA, 6000</address>
+      <phone>+61892241038</phone>
+      <fax />
+      <email>tomas.corcoran@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

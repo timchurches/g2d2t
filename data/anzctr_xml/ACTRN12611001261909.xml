@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="347775">
+  <stage>Registered</stage>
+  <submitdate>30/11/2011</submitdate>
+  <approvaldate>8/12/2011</approvaldate>
+  <actrnumber>ACTRN12611001261909</actrnumber>
+  <trial_identification>
+    <studytitle>Stochastic Targeted Glycemic Control in the Intensive Care Unit Pilot Trials</studytitle>
+    <scientifictitle>Insulin and Nutrition Dosing Using a Stochastic Targeting Model-Based System for Improved Control of Blood Glucose Levels in Intensive Care Patients</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stress-induced Hyperglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other metabolic disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>STAR is a system that uses an algorithm and computer model to provide equivalent or tighter control of glucose levels. Target glycemic levels will be chosen by the clinical staff dependent on patient characteristics, the most common target range is 4.4-8.0 mmol/L. The algorithm will determine all insulin doses and enteral nutrition given to achieve that target with safety from hypoglycemia. STAR clinical trials will run until 30 June 2012 and will occur whenever there is an eligible patient in the ICU from whom consent has been obtained.</interventions>
+    <comparator>Retrospective data (of blood glucose, insulin and nutrition) from SPRINT (the current tight glycaemic control protocol in use in Christchurch hospital). The data was gathered from August 2005-May 2007.</comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time in target glycaemic control bands (e.g. 4 to 7 mmol/L)</outcome>
+      <timepoint>As a percentage of total time on STAR for each patient throughout their time on STAR. Blood glucose (BG) measurements are taken 1-3 hourly.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Numbers of patients who experience hypoglycaemia (BG &lt; 2.2 mmol/L) and numbers or percentage of measurements lower than 4.0 mmol/L.</outcome>
+      <timepoint>Data taken from each patients time on STAR. Blood glucose (BG) measurements are taken 1-3 hourly.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Measures of glycaemic variability (standard deviation, variation over time)</outcome>
+      <timepoint>Blood glucose (BG) measurements are taken 1-3 hourly for each patient.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1	In-patient in Intensive Care.
+2	Blood glucose &gt;8 mmol/L, same as with SPRINT.
+3	In-situ arterial line.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1	Moribund or not expected to survive &gt;72 hours
+2	No arterial line present</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>All patients will be in-patients in intensive care and will be identified by investigators according to the entry criteria. The intensive care clinicians will approach the patient or if the patient cannot consent him/herself a family/whanau/representative will be approached.  All contact will be made within the Department of Intensive Care.</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>N/A</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>11/01/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Geoffrey M Shaw</primarysponsorname>
+    <primarysponsoraddress>Department of Intensive Care Medicine
+Christchurch Hospital
+2 Riccarton Avenue
+Private Bag 4710, Christchurch</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Canterbury Dept of Mechanical Engineering</fundingname>
+      <fundingaddress>Dept of Mechanical Engineering
+University of Canterbury
+Private Bag 4800
+Christchurch</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Prof. J. Geoffrey Chase</sponsorname>
+      <sponsoraddress>Dept of Mechanical Engineering
+University of Canterbury
+Private Bag 4800
+Christchurch</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Aaron Le Compte</sponsorname>
+      <sponsoraddress>Dept of Mechanical Engineering
+University of Canterbury
+Private Bag 4800
+Christchurch</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Critically ill patients often experience stress-induced hyperglycaemia (high blood sugar levels) and insulin resistance, resulting in increased infection, cardiac events and death. The Christchurch ICU currently controls glucose levels using a system called SPRINT, a paper-based protocol that has provided world leading control and reduced mortality 25-40% in patients who stay 3 days or longer in the ICU. It has also reduced costs by over $1000 per patient treated. However, SPRINT does not allow clinicians to make changes or provide more patient-specific care, when necessary.
+
+STAR is a system that uses an algorithm and computer model to provide equivalent or tighter control of glucose levels with greater clinical flexibility and less nursing effort through reduced need for measurements or/and intervention. It also improves safety from low glucose levels (hypoglycaemia) using a statistical model to provide a guaranteed risk of hypoglycemia of 0.1%. STAR pilot trials will be supervised by medical personnel and run for as long as a patient requires glycemic control during their ICU stay. Target glycemic levels will be chosen by the clinical staff. The algorithm will determine all insulin doses and enteral nutrition given to achieve that target with guaranteed safety from hypoglycemia.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Upper South A Regional Ethics Committee</ethicname>
+      <ethicaddress>c/- Ministry of Health
+Montgomery Watson Building
+6 Hazeldean Rd
+Christchurch 8023</ethicaddress>
+      <ethicapprovaldate>7/10/2010</ethicapprovaldate>
+      <hrec>URA/10/09/069</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey M Shaw</name>
+      <address>Department of Intensive Care Medicine
+Christchurch Hospital
+2 Riccarton Avenue
+Private Bag 4710, Christchurch</address>
+      <phone>+64 3 364 1077</phone>
+      <fax>+64 3 364 0099</fax>
+      <email>geoff.shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey M Shaw</name>
+      <address>Department of Intensive Care Medicine
+Christchurch Hospital
+2 Riccarton Avenue
+Private Bag 4710, Christchurch</address>
+      <phone>+64 3 364 1077</phone>
+      <fax>+64 3 364 0099</fax>
+      <email>geoff.shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey M Shaw</name>
+      <address>Department of Intensive Care Medicine
+Christchurch Hospital
+2 Riccarton Avenue
+Private Bag 4710, Christchurch</address>
+      <phone>+64 3 364 1077</phone>
+      <fax>+64 3 364 0099</fax>
+      <email>geoff.shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

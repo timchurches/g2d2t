@@ -1,0 +1,240 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368441">
+  <stage>Registered</stage>
+  <submitdate>28/04/2015</submitdate>
+  <approvaldate>28/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000549527</actrnumber>
+  <trial_identification>
+    <studytitle>Virtual Rehabilitation of balance using Microsoft Kinect Sensor vs. Traditional Rehabilitation of Balance in stroke patients. A PseudoRandom Clinical Trial.</studytitle>
+    <scientifictitle>Balance rehabilitation using Microsoft Kinect Sensor: does it improve balance in patients with reduced mobility after stroke and the effect on patient and therapist satisfaction</scientifictitle>
+    <utrn>U1111-1169-6030</utrn>
+    <trialacronym>EPIK
+
+Entrenamiento Para la Independencia con Kinect</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Balance in stroke patients</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients are divided in two groups: TRAD (traditional rehabilitation of balance) and EPIK (virtual rehabilitation of balance).
+The "TRAD" group trains the balance using a traditional balance protocol of exercices that consists of 15 sessions along 6 weeks.
+Each session consist of 30 min. of balance training.
+In each session there are one patient an two therapists. One therapist trains the patient and the other supports the patient in their unbalance moments when they happen. It's very important for patiens to feel good and safe during the training session.
+
+Several destabilizing materials are used:  exercise resistance band, mat, Fitball, Bosu, medicine balls, while patients perform the specific balance exercices.
+
+The EPIK group follows the same protocol but intercalates balance exercices using a virtual game that uses the Microsoft Kinect Sensor as a movement capture system (MoCaps). About 50% of the 30 min. of the session, the patients are interacting with the virtual game.
+
+It is not applicable the use of strategies to monitor adherence.
+</interventions>
+    <comparator>Traditional Rehabilitation of the balance.
+15 sessions along 6 weeks.
+Each session consist of 30 min. of balance training. 
+Several destabilizing materials are used:  exercise resistance band, mat, Fitball, Bosu, medicine balls, while patients perform the specific balance exercices.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Balance
+
+To measure the balance it is used these test:
+
+Force Platform
+Tinetti Balance Scale
+Berg Balance Scale</outcome>
+      <timepoint>Before Control Period 
+After Control Period (Baseline, 6 weeks)
+After Intervention (6 weeks)
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Satisfaction with Two Rehabilitation Therapies
+
+A satisfaction test is used to assess satisfaction. A test devised specifically for this study using a Likert Scale.</outcome>
+      <timepoint>6 weeks after intervention starts</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>People with stroke</inclusivecriteria>
+    <inclusiveminage>45</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Imposibility to perform some  of the Balance Evaluation Tests</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>All patients that sign the informed consent and perform the balance evaluation test, are included in the sample.
+The patients are allocated to TRAD group or to EPIK group using the pseudo-random method of Minimization using as confounders: age, gender, side afected by stroke, results from the balance evaluation tests, and results from the computer abilities test.
+Each patients has a code, and the name is concealed.
+The code of each patient and their associated values of confounders factors are introduced into the MinimPy software aplication that assigns automaticaly each patient to one of the two groups (TRAD or EPIK). The person who introduce the data into MinimPy software does not know the name of the patients, he only knows the code. This person is not the same that determines if a subject was eligible for inclusion in the trial.
+Therefore the person who determined if a subject was eligible for inclusion in the trial was unaware, when this decision was made, to which group the subject would be allocated.
+</concealment>
+    <sequence>The MinimPy software aplication (sourceforge.net/projects/minimpy) is used to allocate patients using the confounders enumerated.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>- Statistical Methods 1:
+* Dependant variable: balance, measured by force platform, continous variable
+* Independant variables: time and group
+The normality of the dependent variables obtained from the force platform will be analized using the Shapiro Wilk test. If normality is assumed, a two-way analisys of variance with repeated measures on time will be applied. Post hoc analisys will be performed using the Bonferroni test. If normality is not assumed, comparisons will be done using non parametric procedures. Values will be expresed as mean and standard deviation for normal variables and as median and interquartile range for non normal variables.
+
+*Dependant variables: balance, measured by questionaires, ordinal variable
+*Independant variable: time and group
+In order to perform the within subjects comparisons Wilcoxon test will be applied. In respect to between subjects comparisons U Mann Whitney will be applied. Values will be expresed as median and interquartile range
+
+*Dependant variables: satisfaction, measured by questionaires, ordinal variable
+*Independant variable: group
+The U Mann Whitney will be used to compare satisfaction level between both experimental groups. Values will be expresed as median and interquartile range.
+
+In all procedures a level of significance of 0.05 will be considered.
+
+A total of 19 patients have been recruited to this study. There has been no sample size calculation because we depend of the interest of patients in participate in this study. For the same reason there has been no considerations about the number of participants needed to achieve study objectives.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>9/03/2015</anticipatedstartdate>
+    <actualstartdate>9/03/2015</actualstartdate>
+    <anticipatedenddate>20/03/2015</anticipatedenddate>
+    <actualenddate>27/03/2015</actualenddate>
+    <samplesize>19</samplesize>
+    <actualsamplesize>16</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valladolid</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>ASPAYM CASTILLA Y LEON FOUNDATION</primarysponsorname>
+    <primarysponsoraddress>CALLE TREVINO, 74
+47008
+VALLADOLID
+SPAIN</primarysponsoraddress>
+    <primarysponsorcountry>Spain</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>UNIVERSIDAD EUROPEA MIGUEL DE CERVANTES</sponsorname>
+      <sponsoraddress>CALLE PADRE JULIO CHEVALIER, 2
+47012-Valladolid
+</sponsoraddress>
+      <sponsorcountry>Spain</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this study is to compare two rehabilitation therapies: a traditional rehabilitation therapy of balance vs. a virtual rehabilitation therapy of balance in stroke patients and evaluate the outcomes in patients' balance and in their satisfation. </summary>
+    <trialwebsite />
+    <publication>Title: EPIK: A Virtual Rehabilitation Platform Devised to Increase Self-Reliance of People with Limited Mobility
+
+Authors: Sonia Garrote, Azael J. Herrero, Miguel Pedraza-Hueso, Carlos Gonzalez-Gutierrez, Maria V. Fernandez-San Roman, F.J. Diaz-Pernas, Hector Menendez, Cristina M. Ferrero, Mario Martinez-Zarzuela
+
+Published in the proceedings of the Conference: International Conference on Information and Communication Technologies for Ageing Well and e-Health.
+
+Date: May-2015
+
+Page Numbers: 6</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Ethical Committee of the Aspaym Castilla y Leon Foundation</ethicname>
+      <ethicaddress>C/Trevino, 74
+47008-Valladolid</ethicaddress>
+      <ethicapprovaldate>6/03/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Spain</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Sonia Maria Garrote Fernandez. Universidad Europea Miguel de Cervantes.</name>
+      <address>Universidad Europea Miguel de Cervantes.
+C/Padre Julio Chevalier, 2
+47012-Valladolid</address>
+      <phone>+34 630538615</phone>
+      <fax />
+      <email>soniagarrote@gmail.com</email>
+      <country>Spain</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Sonia Maria Garrote Fernandez</name>
+      <address>Universidad Europea Miguel de Cervantes.
+C/Padre Julio Chevalier, 2
+47012-Valladolid</address>
+      <phone>+34 630538615</phone>
+      <fax />
+      <email>soniagarrote@gmail.com</email>
+      <country>Spain</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Sonia Maria Garrote Fernandez</name>
+      <address>Universidad Europea Miguel de Cervantes.
+C/Padre Julio Chevalier, 2
+47012-Valladolid</address>
+      <phone>+34 630538615</phone>
+      <fax />
+      <email>soniagarrote@gmail.com</email>
+      <country>Spain</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Sonia Maria Garrote Fernandez</name>
+      <address>Sonia Maria Garrote Fernandez
+Universidad Europea Miguel de Cervantes.
+C/Padre Julio Chevalier, 2
+47012-Valladolid</address>
+      <phone>+34 630538615</phone>
+      <fax />
+      <email>soniagarrote@gmail.com</email>
+      <country>Spain</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

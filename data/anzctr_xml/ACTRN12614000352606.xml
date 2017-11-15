@@ -1,0 +1,165 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366018">
+  <stage>Registered</stage>
+  <submitdate>24/03/2014</submitdate>
+  <approvaldate>2/04/2014</approvaldate>
+  <actrnumber>ACTRN12614000352606</actrnumber>
+  <trial_identification>
+    <studytitle>Characterisation of chylomicron size distribution in subjects with metabolic syndrome: The effect of dietary fatty acid composition.</studytitle>
+    <scientifictitle>In subjects with metabolic syndrome, does dietary fatty acid composition modulate chylomicron size distribution?</scientifictitle>
+    <utrn />
+    <trialacronym>CSIMS</trialacronym>
+    <secondaryid>Nil known.</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Metabolic syndrome</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Metabolic disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Both metabolic syndrome group and control group will receive 3 types of fatty meal (fat content: 40 gram or 60%) with different fatty acid composition:1) meal rich in short chain saturated fatty acid (polenta porridge added with 40 g coconut oil);2) meal rich in high mono- and poly-unsaturated fatty acid (polenta porridge added with 40 g rice bran oil); and 3) meal rich in long chain saturated fatty acid (polenta porridge added with 40 g palm oil). The test meal will be given as a breakfast, only plain water can be consumed for 8  hours after the test meals. Each subjects will receive the test meal in a random order in 3 postprandial days, each visit will be separated with washout period of 4 weeks.</interventions>
+    <comparator>We will also recruit lean normolipidemic subjects matched for age and gender as controls. </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Apolipoprotein B-48 response in plasma, chylomicron fraction, VLDL fraction and denser fraction. Area and incremental area under curve (AUC and IAUC) will be calculated using the trapezoidal rule (Matthews, 1988). Differences in postprandial responses between different test meals and between groups will be analysed by using repeated measures ANOVA within-between group factors with interaction. The detection of significant pairwise interactions will be done using the Bonferroni post hoc test. A p value less than 0.05 will be considered significant.</outcome>
+      <timepoint>Baseline,  at 2, 4, 6 and 8 hours after the test meal.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Triglyceride response in plasma, chylomicron fraction, VLDL fraction and denser fraction. Area and incremental area under curve (AUC and IAUC) will be calculated using the trapezoidal rule (Matthews, 1988). Differences in postprandial responses between different test meals and between groups will be analysed by using repeated measures ANOVA within-between group factors with interaction. The detection of significant pairwise interactions will be done using the Bonferroni post hoc test. A p value less than 0.05 will be considered significant.</outcome>
+      <timepoint>Baseline, at 2, 4, 6 and 8 hours after the test meal.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cholesterol response in plasma, chylomicron fraction, VLDL fraction and denser fraction. Area and incremental area under curve (AUC and IAUC) will be calculated using the trapezoidal rule (Matthews, 1988). Differences in postprandial responses between different test meals and between groups will be analysed by using repeated measures ANOVA within-between group factors with interaction. The detection of significant pairwise interactions will be done using the Bonferroni post hoc test. A p value less than 0.05 will be considered significant.</outcome>
+      <timepoint>Baseline, at 2, 4, 6 and 8 hours after the test meal.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria: must have abdominal obesity (waist circumference for males equal to or greater than 94 cm and females equal to or greater than 80 cm) and raised triglycerides (fasting TAG equal to or greater than 1.7 mmol/L) and one of the following factors: reduced serum HDL cholesterol less than 1.03 mmol/L in males and less than 1.29/L in females; impaired fasting glycemia (fasting plasma glucose equal to or greater than 5.6 mmol/L; or raised BP systolic equal to or greater than 130 mmHg or diastolic equal to or greater than 85 mmHg. The control group will be lean normolipidemic gender- and age-matched controls.</inclusivecriteria>
+    <inclusiveminage>20</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria: pregnant, in lactation, smoking, excess alcohol intake (greater than 2 Australian standard drink/day), use of lipid lowering medication, prior cardiovascular, hepatic or renal disease, greater than +/- 5 kg changes in the previous 6 months, have intention for losing weight in the next 6 months, on a dietary advice, taking dietary supplements (e.g. fish oil), history or current use of glucocorticosteroids, insulin and/or thiazolidinediones, or gastric disturbances. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Male and female subjects aged between 20 and 65 years will be recruited into two groups based on the presence or absence of MetS. Subjects will be screened for this prior to initiating the main part of the study. The criteria of MetS are defined using a modification of the International Diabetes Federation. The inclusion criteria has been explained before. After assigning subjects to the control and MetS group, they will be randomised to receive 3 test meals in 3 postprandial days which will be given in a randomised order. The allocation of the meal order will be done by central randomisation by computer. Each visits will have 4 weeks washout period. The test meal will appear similar (in the form of porridge).  </concealment>
+    <sequence>For generating the randomised sequence of the meal, 3 intervention randomisation by excel will be used (by using =rand() function).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>An ANOVA of repeated measures within-between group factors with interaction was used to estimate sample size for this study. The within-between group factors for this study are the type of meal fatty acid composition and the presence of metabolic syndrome. Based on 25% effect size (Tushuizen et al., 2010), alpha equal to 5%, and power equal to 80% (Gpower version 3.1.4), a total of 24 subjects will be required. Fifteen subjects with metabolic syndrome and 15 controls matched for age will be recruited in the study to allow for a 25% dropout. In the postprandial study, the area and incremental area under curve (AUC and IAUC) will be calculated using the trapezoidal rule (Matthews, 1988). Differences in postprandial responses between different test meals and between groups will be analysed by using repeated measures ANOVA within-between group factors with interaction. The detection of significant pairwise interactions will be done using the Bonferroni post hoc test. A p value less than 0.05 will be considered significant. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>28/04/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>29/09/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University, School of Public Health</primarysponsorname>
+    <primarysponsoraddress>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA,6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Curtin University, School of Public Health</fundingname>
+      <fundingaddress>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA,6102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Metabolic syndrome (MetS) is a cluster of metabolic abnormalities characterised by dysglycemia, raised blood pressure, elevated triglyceride concentration, low high density lipoprotein (HDL) cholesterol level and obesity (central adiposity) (Alberti et al., 2009). In Australia, up to approximately one third of the population is diagnosed with metabolic syndrome (Cameron, Magliano, Zimmet, Welborn, &amp; Shaw, 2007). These numbers are only expected to increase in the coming years. The most unifying concept of metabolic syndrome is insulin resistance (Bremer, Mietus-Snyder, &amp; Lustig, 2012). There is ample evidence suggesting altered lipoprotein homeostasis in insulin resistant state (Avramoglu, Basciano, &amp; Adeli, 2006). 
+Chylomicrons are lipoprotein particles that transport dietary fat from the intestine to tissues expressing lipoprotein lipase (LPL) such as skeletal muscle and adipose tissue. In insulin resistance, chylomicron homeostasis is impaired: either due to overproduction and/or delayed removal of chylomicron particles from circulation. The balance between chylomicron production and remnant clearance will determine the exposure of arterial tissues to pro-atherogenic remnants. In the fasting state, the circulating concentration of chylomicron particles is elevated in insulin resistance compared to normal controls (Curtin et al., 1996). Following a lipid-rich meal these defects are further manifested with elevated concentrations of chylomicrons persisting in circulation for a longer time compared to insulin sensitive controls (Avramoglu et al., 2006). As humans spend most of their lives in a postprandial state due to ingestion of several meals eaten in sequence, these insulin resistant subjects would be placed at greater risk of developing atherosclerosis, particularly if remnant (small, lipid-poor) chylomicron particles accumulate. Very little is known about the distribution profile of the chylomicron remnant fractions in the postprandial state, though it has been shown that these smaller particles have greater atherogenicity (Nakajima et al., 2010; Nakajima et al., 2011; Nakajima et al., 2012; Pang, Chan, Barrett, &amp; Watts, 2012). The overarching aims of this project is to determine whether subjects with metabolic syndrome exhibit a more atherogenic size distribution of chylomicron particles than control subjects in the fasting and postprandial states. 
+Furthermore, since dietary modification is an important supportive therapy for diabetes, metabolic syndrome and CVD, one aspect that may be important is the fatty acid composition of a meal. There is some evidence that dietary fatty acid composition may affect chylomicron homeostasis and fat oxidation rate (DeLany, Windhauser, Champagne, &amp; Bray, 2000; Perez-Martinez et al., 2011; Silva et al., 2003). Thus this study will also investigate the effect of meals containing a range of vegetable oils each with differing fatty acids on the postprandial size distribution of chylomicron particles. Of particular interest is the effect of an edible oil, rice bran oil, that has been shown to have beneficial effects on cholesterol and hepatic lipoprotein concentration (Lai, Chen, Chen, Chang, &amp; Cheng, 2012; Most, Tulley, Morales, &amp; Lefevre, 2005). 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee Curtin University</ethicname>
+      <ethicaddress>Curtin University Human Research Ethics Committee, c/- Office of Research and Development, Curtin University, GPO Box U1987, Perth, WA, 6845</ethicaddress>
+      <ethicapprovaldate>4/10/2013</ethicapprovaldate>
+      <hrec>HR-151/2013</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Tony James</name>
+      <address>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA, 6102</address>
+      <phone>+61 8 9266 2962</phone>
+      <fax>+61 8 9266 2958</fax>
+      <email>T.P.James@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Deasy Irawati</name>
+      <address>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA, 6102</address>
+      <phone>+61452606488</phone>
+      <fax>+61 8 9266 2958</fax>
+      <email>deasy.irawait@postgrad.curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Deasy Irawati</name>
+      <address>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA, 6102</address>
+      <phone>+61452606488</phone>
+      <fax>+61 8 9266 2958</fax>
+      <email>deasy.irawait@postgrad.curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Deasy Irawati</name>
+      <address>School of Public Health, Curtin University, Building 400, Hayman Road, Bentley, WA, 6102</address>
+      <phone>+61452606488</phone>
+      <fax>+61 8 9266 2958</fax>
+      <email>deasy.irawait@postgrad.curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

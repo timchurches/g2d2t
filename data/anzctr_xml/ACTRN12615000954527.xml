@@ -1,0 +1,205 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369089">
+  <stage>Registered</stage>
+  <submitdate>8/08/2015</submitdate>
+  <approvaldate>11/09/2015</approvaldate>
+  <actrnumber>ACTRN12615000954527</actrnumber>
+  <trial_identification>
+    <studytitle>Effect of patient-specific multi-scale computer modelling to aid decision making versus standard decision making by surgeon on coronary blood flows in patients undergoing coronary artery bypass graft surgery 
+</studytitle>
+    <scientifictitle>Effect of patient-specific multi-scale computer modelling to aid decision making versus standard decision making by surgeon on coronary blood flows in patients undergoing coronary artery bypass graft surgery </scientifictitle>
+    <utrn />
+    <trialacronym>COMCAB study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Coronary artery disease</healthcondition>
+    <healthcondition>Coronary Artery Bypass Graft Surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Surgical techniques</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Computer model will be created on the basis of each patients coronary angiogram and cardiac CT scan. Patients will have intraoperative measurements done by ultrasound of the flows down their grafts and coronary arteries as well as an additional post-operative cardiac CT scan. The intraoperative measurements will be take less than 5 minutes and will not increase cardiopulmonary bypass time. The surgeon performing the operation will show their own discretion as to what grafting procedure they will perform. Other surgeons will be surveyed afterwards and given the information of the computer model and will be free to interpret the model at their discretion to decide what grafting strategy they would have used. This will include which vessels they would have chosen to graft, whether or not they would use sequential grafts and which conduits they would use.</interventions>
+    <comparator>Not applicable</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Coronary blood flows calculated from a validated computer model that uses virtual flows comparing the difference between the optimal strategy determined by the computer and an individual surgeon's conventional strategy without the aid of the computer model. Then the optimal computer strategy wil be compared with the surgeons' strategy having been given  information from the computer model.</outcome>
+      <timepoint>After surgeons have been surveyed regarding their individual strategies, their grafting strategies will be given as inputs to the computer model and the outputs will be compared with the optimal grafting strategy. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Coronary blood flows calculated from a validated computer model that uses virtual flows comparing the difference between the optimal strategy determined by the computer and the pooled surgeons' strategy without the aid of the computer model. Then the optimal computer strategy wil be compared with the pooled surgeons' strategy having been given  information from the computer model.</outcome>
+      <timepoint>This will be measured after the surgeons have been surveyed to rank their colleagues' individual grafting strategies for a particular patient</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients
+*undergoing a planned isolated coronary artery bypass grafting operation
+*competence to provide informed consent
+*normal left ventricular ejection fraction
+
+Surgeons
+*an expert in coronary surgery having been in practice for at least 10 years and/or performed more than 1000 coronary artery cases</inclusivecriteria>
+    <inclusiveminage>30</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Patients
+*emergency or salvage coronary artery bypass operations
+*significant renal impairment
+
+Surgeons
+*not willing to provide informed consent to participate in the study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The number of cardiac surgeons participating in the survey was determined at 5 minimum, given the large number of criteria, alternatives and attributes that their decision-making process will entail. In order to power the number of pre-operative patients' data that are required for analysis by the computer and the surgeons, the flow estimated in a distal coronary artery  can be estimated at 18 ml/min, based on previous studies.  A change in blood flow post grafting by 33% was significant in these studies, and with an estimated standard deviation of 6 ml/min with alpha level 0.05 and power 0.8, requires 8 patients' data. To account for dropout, 2 adiitional patients will be included, giving a total of 10 patients. For the primary outcome measure, difference in coronary blood flows will be compared for an individual patient between the optimal computer strategy and individual surgeon decision.  Using ANOVA with Greenhouse-Geissser correction for multi-sample sphericity and Bonferonni adjustment for post-hoc analysis. The  values will be compared between perfusion territories using ANOVA. The intraobserver and interobserver assessment of coronary blood flows from the computer model will be assessed by means of the coefficient of variation.  The level of statistical significance will be set at a p-value &lt;0.05 and the statistical tests will be two-tailed.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>2/11/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>10</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Auckland City Hospital</primarysponsorname>
+    <primarysponsoraddress>Auckland City Hospital
+Main Building
+Park Road
+Grafton 1023</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal Australasian College of Surgeons Grant</fundingname>
+      <fundingaddress>College of Surgeons' Gardens
+250 Spring Street, East Melbourne
+Victoria 3002</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Auckland</sponsorname>
+      <sponsoraddress>The Univeristy of Auckland
+20 Symonds Street
+Auckland 1010</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The creation of a computer model to aid in a cardiac surgeons' decision-making regarding their coronary artery bypass grafting strategy. Specifically to determine which vessels are graftable, whether they should be sequential grafts, the number of grafts to perform and to further delineate the issue of competitive flows.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>ADHB (A+) Research Office</ethicname>
+      <ethicaddress>Research Office
+Level 14, Support Building
+Auckland City Hospital
+Private Bag 92024
+Auckland 1142</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>21/08/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Krish Chaudhuri</name>
+      <address>Auckland City Hospital
+Main Building
+Level 4, Room 43.096
+Park Road
+Grafton 1023
+Auckland</address>
+      <phone>+64 9 307 4949</phone>
+      <fax />
+      <email>Krishanuc@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Krish Chaudhuri</name>
+      <address>Auckland City Hospital
+Main Building
+Level 4, Room 43.096
+Park Road
+Grafton 1023
+Auckland</address>
+      <phone>+64 9 307 4949</phone>
+      <fax />
+      <email>Krishanuc@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Krish Chaudhuri</name>
+      <address>Auckland City Hospital
+Main Building
+Level 4, Room 43.096
+Park Road
+Grafton 1023
+Auckland</address>
+      <phone>+64 9 307 4949</phone>
+      <fax />
+      <email>Krishanuc@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

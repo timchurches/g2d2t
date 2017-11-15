@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370816">
+  <stage>Registered</stage>
+  <submitdate>31/05/2016</submitdate>
+  <approvaldate>2/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000729426p</actrnumber>
+  <trial_identification>
+    <studytitle>Defining the relationship between carbohydrate amount and the dose of insulin</studytitle>
+    <scientifictitle>Defining the relationship between carbohydrate quantity and the dose of
+subcutaneous insulin.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type one Diabetes Mellitus</healthcondition>
+    <healthcondition>Hypoglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This research project will analyse the response of glucose levels after a predominantly carbohydrate based meal. Forty participants between 12 -30 years of age, with type one diabetes on intensive insulin therapy will be recruited. Participants will be fitted with the Animas G4 continuous glucose monitoring system (CGMS). Insulin dose will be calculated using the standard linear insulin to carb ratio for meals of 20, 50, 100 and 150g of carbohydrate, standardised for % of energy from carbohydrates, fat, protein. The planned meal will be a standard pancake recipe with a sucrose based topping for all four carbohydrate quantities with the carbohydrates coming mostly from flour, sugar and milk. 
+
+Prior to commencement of the study participants will complete a 1 - 2 week run-in period where their control and insulin to carb ratio will be optimised through telephone contact with the diabetes team. They will then attend a short approx half an hour visit to the research department at the hospital to be fitted and explained the CGMS.
+
+The next day following the fitting of the CGMS the participant will then either attend the hospital or researchers will attend the participants home 4 mornings in a row to prepare the study meal, supervise insulin administration and meal consumption. The total required length of including the run in period will be 2 -3 weeks and approximately 1 -2 hours per day. 
+
+Insulin will be administered in their usual way (injection or pump) and sedentary activities and fasting will be undertaken unless food is required for hypoglycaemia in the 5 hours following meal consumption. The CGMS data from this post postprandial period will subsequently be analysed by researchers to determine whether the currently standard practice of using an insulin to carbohydrate ratio is effective across  a range of sized carbohydrate meals. 
+ </interventions>
+    <comparator>The study design is a with-in subject, randomised, repeated measure trial. The study involves the provision of test meals given on four consecutive days at breakfast in the same subjects. Each participant will serve as his/her own control.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean percentage of time in glucose target (4  10 mmol/L) using a continuous glucose monitoring system. </outcome>
+      <timepoint>average data from the five hour post postprandial period on four different days after four different meals will be analysed </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hypoglycaemia (defined as less than or equal to 3.9 confirmed upon finger prick) during the five hour postprandial period.</outcome>
+      <timepoint>Average data from the five hour post postprandial period on four different days after four different sized meals will be analysed </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients will have been diagnosed with T1DM for &gt;/= one year
+Insulin pump or multiple daily injections using an ICR for &gt;/= 6 months
+HbA1c of &lt; /= 8%
+Non-obese weight (&lt; /=97th %ile for children, BMI &lt;30kg/m2 for adults)</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>30</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Any pre-existing complications of diabetes, such as gastroparesis
+Any co existing food intolerances, allergies and medical conditions such as coeliac disease</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The primary outcome of time in range will be analysed using repeated measurements on participants a linear mixed model to take account of the repeated measurements on subjects. The outcome in the model will be the percentage of blood glucose readings for an individual on a given day that are between 4 and 10 mmol/L in the five hour period after the meal. The predictor variable of interest will be the meal type (A  D), which will be included as a factor variable in the model. The model will be fitted using restricted maximum likelihood and a likelihood ratio statistic will be used to determine if there is a statistically significant difference in the outcome of interested between meal types. If the p-value from the likelihood ratio statistic is less than 0.05 we will examine the Wald statistics to identify where the difference lies. A logistic regression model fitted within a generalised estimating equation framework will be used to determine if there is a statistically significant difference in the occurance of hypoglycaemic events between the meal types.
+
+Based on data from our previous studies we expect the standard deviation of the difference between two meal types in the percentage of time a subject is within range to be about 40 percent. Therefore 34 subjects will provide the study with approximately 80% power to find a difference of 20 percent between any two meals at the 5% significance level. To allow for missing data due to monitor failure etc. we will recruit 40 participants.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>20/06/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>21/11/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,WA</recruitmentstate>
+    <hospital>Princess Margaret Hospital - Subiaco</hospital>
+    <hospital>John Hunter Children's Hospital - New Lambton</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Telethon Kids Institiute </primarysponsorname>
+    <primarysponsoraddress>100 Roberts Rd, Subiaco WA 6008</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Juvenille Diabetes Research Foundation</fundingname>
+      <fundingaddress>181 Main Street Osborne Park , WA, 6017</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>John Hunter Children's Hospital</sponsorname>
+      <sponsoraddress>Kookaburra Circuit, New Lambton Heights NSW</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patients with type one diabetes typically carbohydrate count and use an insulin to carbohydrate ratio (ICR) to dose their insulin. This ratio assumes a linear relationship between carbohydrate quantities to be consumed and the insulin required to maintain blood sugar levels after a meal. Recent research and reports from families with type 1 diabetes raise the question of the validity of this linear model. This study aims to define the relationship between carbohydrate quantity and the dose of subcutaneous insulin. More specifically, to demonstrate that the current linear ICR approach is too steep resulting in increased events of low blood sugar levels as the carbohydrate content increases.
+
+This research project will analyse the response of blood glucose levels after a predominantly carbohydrate based meal. Forty participants between 12 -30 years of age, with type one diabetes on intensive insulin therapy will be recruited. Participants will be fitted with a continuous glucose monitoring system (CGMS). Insulin dose will be calculated using the standard linear ICR using study liquid-meals of 20, 50, 100 and 150g of carbohydrate controlled with similar proportions of fats and protein on four consecutive days (one per day). CGMS data will be analysed to determine whether the relationship between carbohydrate intake and insulin requirements is indeed linear.
+
+It is hoped this study will provide important information in the management of type 1 diabetes in both adults and children. Results will assist in building on planned future studies of trialing a non-linear ICR if the hypothesis is supported. This research will be used in our day to day management of patients and guide the development of clinical guidelines to help minimise the occurrence of hypoglycaemia and blood glucose fluctuations after eating.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Hunter New England Human Research Ethics Committee
+Hunter New England Local Health District
+Locked Bag 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>29/05/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Princess Margaret Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Princess Margaret Hospital
+Roberts Road, Subiaco, Perth
+Western Australia 6008
+
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>12/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bruce King</name>
+      <address>John Hunter Childrens Hospital
+Locked Bag 1
+Hunter Regional Mail Centre
+Newcastle NSW 2310</address>
+      <phone>+61 2 49855429</phone>
+      <fax />
+      <email>Bruce.King@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Natalie Del Borrello</name>
+      <address>Princess Margaret Hospital
+Roberts Road, Subiaco, Perth
+Western Australia 6008
+</address>
+      <phone>+61 8 93407905</phone>
+      <fax />
+      <email>natalie.delborrello@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Natalie Del Borrello</name>
+      <address>Princess Margaret Hospital
+Roberts Road, Subiaco, Perth
+Western Australia 6008
+</address>
+      <phone>+ 61 8 93407905</phone>
+      <fax />
+      <email>natalie.delborrello@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

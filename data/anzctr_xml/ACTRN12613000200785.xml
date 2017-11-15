@@ -1,0 +1,270 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363581">
+  <stage>Registered</stage>
+  <submitdate>28/01/2013</submitdate>
+  <approvaldate>19/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000200785</actrnumber>
+  <trial_identification>
+    <studytitle>Safe and effective early discharge of patients with low-risk coronary artery disease</studytitle>
+    <scientifictitle>In patients with low-risk acute coronary syndromes who undergo angioplasty and stenting, or medical therapy after coronary angiography, is early discharge (&lt;72 hours) to ambulatory care as safe as conventional 4-5 day hospital stay with no increase in mortality, adverse events or unexpected readmission to hospital?</scientifictitle>
+    <utrn>U1111-1138-9754</utrn>
+    <trialacronym>SEED</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ischaemic heart disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Early hospital discharge to ambulatory care with nursing follow up. Subjects in the this group will be discharged within 72 hours of admission to ambulatory care with daily home visit by the nursing staff for a minimum of 3 days up to a week. Subjects blood pressure, heart rate and ECG will be recorded at each visit and further cardiac education will be offered. </interventions>
+    <comparator>Conventional 4-5 day hospital stay with no added nursing intervention</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>All cause mortality and major cardiac adverse events (MACE)</outcome>
+      <timepoint>30 day</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Readmission for any of congestive heart failure, unstable angina, arrhythmia, re-infarction, and/or revascularization</outcome>
+      <timepoint>30 day</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Non-cardiac complications such as major bleeding, stroke, acute renal impairment and stroke</outcome>
+      <timepoint>30 day</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health-related quality of life as measured by EQ-5D and Seattle Angina questionnaires</outcome>
+      <timepoint>6 weeks and 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patients experiences of in-patient care will be evaluated using the Picker Patient Experience Questionnaire</outcome>
+      <timepoint>At time of discharge from either ambulatory care or hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compliance with medications will be assessed via phone interview using Morisky 8-Item Medication Adherence Questionnaire 
+</outcome>
+      <timepoint>6 weeks and 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compliance with smoking cessation
+Subjects will be asked about their current smoking status via phone interview.</outcome>
+      <timepoint>6 weeks and 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Attendance at cardiac rehabilitation session</outcome>
+      <timepoint>6 weeks and 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost-effectiveness
+This will be assessed by comparing the total costs in both intervention group (reduced hospital length of stay and cost of ambulatory care) and control group (costs of conventional in-patient stay)</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Feasibility of the module of ambulatory care.
+The study will be considered feasible if &gt;80% of patients in the intervention group are discharged within 72 hours, and &gt;80% of patients are followed up by ambulatory care nurse for a minimum of 3 days</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants who suffer from heart attacks, over 18 years of age and are willing and able to sign informed consent forms</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age &lt; 18 years 
+
+Pregnant 
+
+Non-English speaking background patient without English speaking carer.
+
+Significant medical co-morbidities such as severe COPD, pre-existing heart failure, poorly controlled diabetes, and moderate to severe renal impairment
+
+Lesions that require further revascularization (ie. Staged PCI or CABG)
+
+Other lesions that have &gt;70% intra-luminal stenosis on coronary angiogram and are managed medically
+
+Ejection Fraction &lt;40%
+
+Out of hospital cardiac arrest requiring &gt;3 x DCRs, intubation or inotropic support 
+
+Unsuccessful or complicated PCI such as no reflow, temporary pacing and perforation.
+
+Patients who develop non-cardiac complications within 24 hours after PCI: bleeding, stroke, acute renal impairment, vascular sequelae, groin hematoma &gt;5cm diameter, active infection or sepsis
+
+STEMI patients who receive thrombolysis prior to transfer to BHH
+
+Resides &gt;60km radius from Box Hill Hospital
+
+Poor social support and pre-existing significant mobility or memory issue
+
+History of illicit drug use
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Concealed allocation using sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation block</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Continuous variables will be summarized by means, standard deviations, medians and ranges. Categorical variables will be summarized by frequencies and percentages.
+
+In order to assess comparability of treatment groups, subject demographics and other baseline characteristics will be tabulated separately by treatment group.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/03/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>28/02/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <postcode>3128 - Box Hill</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Cardiology Department Eastern Health</primarysponsorname>
+    <primarysponsoraddress>Box Hill Hospital
+Nelson Road, Box Hill 3128
+Victoria</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Cardiology Department Eastern Health</fundingname>
+      <fundingaddress>Box Hill Hospital
+Nelson Road, Box Hill 3128
+Victoria</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Traditionally patients presenting to hospital with a heart attack are hospitalized for at least 5-7 days to monitor for complications such as increasing shortness of breath, recurrence of chest pain and fast irregular heart rate and also to increase their medications and receive a basic understanding of future management of their chest pain.
+A randomized trial in Canada showed that early discharge from hospital for low risk heart attack patients was feasible and safe when combined with close nursing follow up at home.
+
+We propose to randomize low risk heart attack patients to early discharge (&lt;72 hours) with hospital-in-the-home (HITH) nurses and doctors compared with conventional 4-5 day stay in hospital. 
+
+The aims of this study are
+1.	To prove that an early discharge strategy is safe and acceptable to patients with no increase in deaths, adverse events or unexpected readmission to hospital 
+
+2.	To evaluate the patients experience and quality of life in both groups using questionnaires.
+
+3.	To examine the cost effectiveness of early discharge from hospital to HITH versus conventional 4-5 day hospital stay.
+
+Patients presenting to Box Hill Hospital with a heart attack and have undergone coronary angiogram and are treated with either medical therapy such as medications or angioplasty and stent will be screened using validated tools to assess for low risk. They will then be randomized to either early discharge with HITH (intervention group) or conventional 4-5 day hospital stay (control group).
+
+About 300 hundred patients will be recruited for the trial.
+
+The intervention group will be discharged from hospital before 72 hours and followed up daily by HITH nurse for at least 3 days. In the first week they will be reviewed by the HITH consultant doctor at the Maroondah clinic.
+
+The control group will be discharged home according to standard care at day 4 or 5.
+
+The main outcomes to be measured are: all-cause death, readmission or re-presentation to hospital due to chest pain, recurrent heart attacks or heart failure, as well as procedural and non-cardiac complications related to the index event at 30 days. The information will be gathered via phone interviews and medical records.
+
+Health-related quality of life and patients experiences of in-patient care will be evaluated using validated questionnaires. A telephone call to all patients at 6 weeks and 3 months will remind them about completing the questionnaires, and include a brief interview regarding re-presentation to the hospital, readmission, compliance with medications, attendance at cardiac rehabilitation and smoking cessation. All information collected will remain confidential and be de-identified for research purposes.  
+
+The cost-effectiveness (reduced length of stay) of the early discharge strategy will also be analysed.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Eastern Health Research and Ethics Committee</ethicname>
+      <ethicaddress>5 Arnold Street, Box Hill 3128
+Victoria</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/02/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gishel New</name>
+      <address>Cardiology Department
+Box Hill Hospital
+Nelson Road, Box Hill 3128
+Victoria</address>
+      <phone>+61 3 9895 4833 </phone>
+      <fax>+61 3 9895 4834</fax>
+      <email>Gishel.new@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Louise Roberts</name>
+      <address>Eastern Health
+5 Arnold Street, Box Hill 3128
+Victoria</address>
+      <phone>+61 3 9095 2441</phone>
+      <fax>+61 3 9899 6810</fax>
+      <email>Louise.roberts@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gishel New</name>
+      <address>Cardiology Department
+Box Hill Hospital
+Nelson Road, Box Hill 3128
+Victoria</address>
+      <phone>+61 3 9895 4833 </phone>
+      <fax>+61 3 9895 4834</fax>
+      <email>Gishel.new@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Louise Roberts</name>
+      <address>Eastern Health
+5 Arnold Street, Box Hill 3128
+Victoria</address>
+      <phone>+61 3 9095 2441</phone>
+      <fax>+61 3 9899 6810</fax>
+      <email>Louise.roberts@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

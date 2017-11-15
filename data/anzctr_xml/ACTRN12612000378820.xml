@@ -1,0 +1,187 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362329">
+  <stage>Registered</stage>
+  <submitdate>30/03/2012</submitdate>
+  <approvaldate>3/04/2012</approvaldate>
+  <actrnumber>ACTRN12612000378820</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised controlled trial of thermals to prevent heart failure</studytitle>
+    <scientifictitle>A randomised controlled trial of thermals to prevent further heart failure hospitalisations in heart failure patients</scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym>Nil</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Heart failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a two arm trial using a 1:1 ratio. Patients in the treatment arm will receive: two pairs of thermal hats and tops, a digital thermometer (with a large display and a battery fitted), and a laminated instruction sheet on when they should wear the thermals. The patients are asked to put the digital thermometer by their bed to help them judge when to wear the thermals. The instruction sheet recommends they wear the thermals when:
+1. The indoor temperature is below 18 degrees C when they wake up (for day wear).
+2. The indoor temperature is below 18 degrees C degrees when they go to bed (for night wear).
+3. Before they go outside for 10 minutes or more and the outdoor temperature is below 18 degrees C. 
+The instruction sheet recommends they remove the thermals (hat and/or top) if they feel hot or sweaty.
+
+The patients will be recruited at the start of winter (May 2012) and followed-up in the spring (October 2012).
+
+This is a pilot study.</interventions>
+    <comparator>Patients in the control arm will receive the usual care, as they will get no extra clothes or instructions.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of days in hospital from a retrospective review of the patients records at the end of winter.</outcome>
+      <timepoint>May to October 2012</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-rated health using the single SF-36 questionnaire ("In general, would you say your current health is", 5 responses from "Excellent" to "Poor"). This will be collected via a telephone follow-up in October 2012.</outcome>
+      <timepoint>1/10/2012</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-reported number of GP visits in the last month. This will be collected via a telephone follow-up in October 2012.</outcome>
+      <timepoint>1/10/2012</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patient has signed and understood the informed consent form
+2. Suffered a heart failure event in the systolic dysfunction category in the last month
+3. Living in Queensland</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Pregnant women
+2. People living in a residential care facility
+3. People with incontinence
+4. People unable to give consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The patients will be recruited via the cardiology clinic at The Prince Charles Hospital. After patients have consented the research nurse will open a sealed opaque envelope containing the treatment allocation.</concealment>
+    <sequence>Permuted block randomisation in a 1:1 ratio. The list will be generated using the R software.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/05/2012</anticipatedstartdate>
+    <actualstartdate>21/06/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>31/07/2012</actualenddate>
+    <samplesize>100</samplesize>
+    <actualsamplesize>55</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>The Prince Charles Hospital - Chermside</hospital>
+    <postcode>4032</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>The Prince Charles Hospital</primarysponsorname>
+    <primarysponsoraddress>Rode Road, Chermside, Queensland 4032</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Queensland University of Technology</fundingname>
+      <fundingaddress>60 Musk Avenue, Kelvin Grove, QLD 4053</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>Wilderness Wear Aust. Pty Ltd</sponsorname>
+      <sponsoraddress>PO Box 2253, Kew, Victoria 3101</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Rates of heart failure hospitalisations and deaths in Brisbane increase greatly in winter and in cold weather. Many events could be avoided if people took better measures to protect themselves against the outdoor temperature. A simple and cheap protective measure is thermal clothing. We will randomise patients who have a heart failure event at the start of winter to either a control group, or a treatment group who will receive two pairs of thermal tops and hats. At the end of winter we will retrospectively examine their hospital records to compare the length of time spent in hospital. We will contact all participants by phone at the end of winter to ask them about their self-rated health and their compliance with the thermals. This is a pilot study of 100 patients that will lead to a larger study if the results are promising.</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>The benefits of thermal clothing during winter in patients with heart failure: a pilot randomised controlled trial. BMJ Open 2013;3:e002799 doi:10.1136/bmjopen-2013-002799
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Prince Charles Hospital Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>20/06/2012</ethicapprovaldate>
+      <hrec>HREC/12/QPCH/79</hrec>
+      <ethicsubmitdate>26/04/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology
+60 Musk Avenue 
+Kelvin Grove
+QLD 4053</address>
+      <phone>+61-7-3138 6010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology
+60 Musk Avenue 
+Kelvin Grove
+QLD 4053</address>
+      <phone>+61-7-3138 6010</phone>
+      <fax>+61-7-3138 6030</fax>
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology
+60 Musk Avenue 
+Kelvin Grove
+QLD 4053</address>
+      <phone>+61-7-3138 6010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology, 60 Musk Avenue, Kelvin Grove, QLD 4053</address>
+      <phone>61731386010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

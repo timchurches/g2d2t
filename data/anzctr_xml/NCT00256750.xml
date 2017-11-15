@@ -1,0 +1,651 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="986">
+  <stage>Registered</stage>
+  <submitdate>15/11/2005</submitdate>
+  <approvaldate>15/11/2005</approvaldate>
+  <nctid>NCT00256750</nctid>
+  <trial_identification>
+    <studytitle>Belatacept Evaluation of Nephroprotection and Efficacy as First-line Immunosuppression (BENEFIT)</studytitle>
+    <scientifictitle>Belatacept Evaluation of Nephroprotection and Efficacy as First-line Immunosuppression Trial (BENEFIT)</scientifictitle>
+    <utrn />
+    <trialacronym>BENEFIT</trialacronym>
+    <secondaryid>IM103-008</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Kidney Transplantation</healthcondition>
+    <healthcondition>Chronic Kidney Failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Cyclosporine (CsA)
+Treatment: drugs - Belatacept LI (less intensive)
+Treatment: drugs - Belatacept MI (more intensive)
+
+Active Comparator: Cyclosporine (CsA) - 
+
+Experimental: Belatacept LI (less intensive) - 
+
+Experimental: Belatacept MI (more intensive) - 
+
+
+Treatment: drugs: Cyclosporine (CsA)
+tablet, oral, 1st month target: 150-300 ng/mL, after 1st month target: 100-250 ng/mL, daily, 36 months (ST), 100-250 ng/mL, daily, 24 months (LT)
+
+Treatment: drugs: Belatacept LI (less intensive)
+solution, IV, 10mg/kg: Days 1 and 5, Weeks 2, 4, 8 and 12, then 5 mg/kg every 4 weeks, q 4 weeks, 36 months (ST), 5 mg/kg every 4 weeks, q 4 weeks, 24 months (LT)
+
+Treatment: drugs: Belatacept MI (more intensive)
+solution, IV, 10mg/kg: Days 1 and 5, Weeks 2, 4, 6, 8, 10,12, 16, 20, and 24, then 5 mg/kg every 4 weeks, q 4 weeks, 36 months (ST), 5 mg/kg every 4 weeks, q 4 weeks, 24 months (LT)
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percent of Participants Surviving With a Functioning Graft by Month 12 - Graft loss was defined as either functional loss or physical loss (nephrectomy). Functional loss was defined as a sustained level of serum creatinine (SCr) = 6.0 milligrams per deciliter (mg/dL) or 530 micromolar per liter (µmol/L) as determined by the central laboratory for = 4 weeks or = 56 consecutive days of dialysis or impairment of renal function to such a degree that the participant underwent retransplant.</outcome>
+      <timepoint>Day 1 to Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percent of Participants With a Composite of Measured Glomerular Filtration Rate (mGFR) Less Than 60 mL/Min/1.73 m^2 at Month 12 or With a Decrease in mGFR Greater Than or Equal to 10 mL/Min/1.73m^2 From Month 3 to Month 12 - Measured glomerular filtration rate (mGFR) is the direct measurement of renal function and was assessed by measurement of the clearance of a true glomerular filtration marker (non-radiolabeled iothalamate) using a validated procedure. A GFR of 60 mL/min/1.73 m^2 was used as the approximate equal of the threshold values of serum creatinine (SCr) of 1.5 mg/dL. A change in GFR of at least 10 mL/min/1.73 m^2 was used as the approximate change in SCr of at least 0.3 mg/dL. The change component of the composite renal endpoint was assessed from Month 3 to Month 12, since post-transplant renal function is largely stable by Month 3.</outcome>
+      <timepoint>Month 12; Month 3 to Month 12</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percent of Participants Experiencing Acute Rejection (AR) Post-transplant by Month 12 - Acute rejection was defined as a clinico-pathological event requiring clinical evidence and biopsy confirmation. Clinical evidence was defined if either a or b was satisfied: a: an unexplained rise of serum creatinine = 25% from baseline creatinine; b: an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remains elevated within 14 days post-transplantation and clinical suspicion of acute rejection exists. Allograft biopsies were evaluated by a blinded central independent pathologist using Banff 97 working classification of kidney transplant pathology. Banff 97 diagnostic category for renal allograft biopsies is an international standardized histopathological classification. AR was defined by a renal biopsy demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Only the episode with the highest Banff grade for each participant was counted.</outcome>
+      <timepoint>Day 1 to Month 12</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Value of the Measured Glomerular Filtration Rate (mGFR) - Measured glomerular filtration rate (mGFR) is the direct measurement of renal function and was assessed by measurement of the clearance of a true glomerular filtration marker (non-radiolabeled iothalamate) using a validated procedure. Missing mGRF assessments were imputed to assess renal function. The overall imputation strategy involved a primary imputation method (linear extrapolation and quartile method) followed by 2 secondary imputation methods (regression method and graded quartile method) to assess the robustness of conclusions obtained from the application of the primary imputation method. All imputation methods entailed replacing a missing value with a value drawn from a plausible distribution incorporating theoretical and observed aspects of the data. GFR was measured as mL/min/1.73 m^2.</outcome>
+      <timepoint>Months 3, 12, 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Prevalence of Chronic Allograft Nephropathy (CAN) at Month 12 - Prevalence of CAN = if participant met any of the following conditions: a: CAN observed in a biopsy either prior to 12 months (including baseline biopsy) or first post 12 months biopsy; b: participant had graft loss during the first year post transplant; c: no biopsy was available post 12 months and CAN not observed in biopsies prior to 12 months, but the measured GFR from Month 3 to Month 12 decreased at least 10 mL/min/1.73m^2; d: no biopsy available either prior to or post 12 months, and the measured GFR (incorporated missing data imputation) from Month 3 to Month 12 decreased at least 10 mL/min/1.73m^2. CAN = All allograft biopsies evaluated for presence and severity of CAN by a blinded central independent pathologist using Banff 97 working classification of kidney transplant pathology. Onset of CAN determined by the biopsy date when it was observed.</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Serious Adverse Events, Death, Discontinuation Due to Adverse Events by Month 84 - Adverse event (AE) defined: any new unfavorable symptom, sign, or disease or worsening of a preexisting condition that may not have a causal relationship with treatment. Serious adverse event (SAE) defined: a medical event that at any dose results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization.</outcome>
+      <timepoint>Randomization to Month 84</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Adverse Events of Special Interest by Month 84 - Prospectively identified events of special interest which were a subset of all AEs, and were either SAEs or non-serious AEs, included the following categories: Serious Infections and Infestations, Thrombolic/embolic events, and Malignancy. AE=any new unfavorable symptom, sign, or disease or worsening of a preexisting condition that may not have a causal relationship with treatment. SAE=a medical event that at any dose results in death, persistent or significant disability/incapacity, or drug dependency/ abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. Time frame is from randomization to the event date, or to the last dose date+56, or to Month 84 (Day 2548), whichever is the earliest.</outcome>
+      <timepoint>Randomization to Month 84</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Blood Pressure at Month 84 - Blood pressure was measured in millimeters of mercury (mmHg). Blood pressure was measured soon after the participant arrived and sat quietly at rest for 10 minutes. 3 consecutive seated blood pressure readings were made at least 1 minute apart.</outcome>
+      <timepoint>Month 84</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Meeting Marked Laboratory Abnormality Criteria Post-transplant by Month 36 - Upper limit of normal (ULN). Units per Liter (U/L). Cells per microliter (c/µL). Grams per deciliter (g/dL). Milligrams per deciliter (mg/dL).Cells per Liter (c/L). Milliequivalents/Liter (mEq/L).
+Hemoglobin (low): &lt;8.0 g/dL; Platelet count: &lt;50*10^9 c/L; Leukocytes: &lt;2*10^3 c/µL; Alkaline phosphatase (ALP): &gt;5.0*ULN U/L; Alanine aminotransferase (ALT): &gt;5.0*ULN U/L; Asparate aminotransferase (AST): &gt;5.0*ULN U/L; Bilirubin Total: &gt;3.0*ULN mg/dL; Creatinine: &gt;3.0*ULN mg/dL; Calcium Total: low if &lt;7.0 mg/dL or high if &gt;12.5 mg/dL; Bicarbonate: &lt;11.0 mEq/L; Potassium serum: low if &lt;3.0 mEq/L or high if &gt;6.0 mEq/L; Magnesium serum: low is &lt;0.8 mEq/L or high if &gt;2.46 mEq/L; Sodium serum: low if &lt;130.0 mEq/L or high if &gt;155.0 mEq/L; Phosphorus inorganic: &lt;2.0 mg/dL; Albumin: &lt;2 g/dL; Uric acid: &gt;10 mg/dL; Protein urine: &gt;=3+</outcome>
+      <timepoint>Baseline to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Development of Anti-Donor HLA Positive Antibodies by Month 84 - Only participants who had non-missing test result for Class I or Class II anti-donor HLA antibodies were included in analysis and only participants who had at least one non-NA test result or finding were counted. This was a cumulative summary (excluding baseline) and once a participant was positive, that participant remained positive for the later time point. Acute rejection (AR) defined: a clinico-pathological event requiring clinical evidence and biopsy confirmation. Clinical evidence defined: if either a or b was satisfied: a: an unexplained rise of serum creatinine = 25% from baseline creatinine; b: an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remains elevated within 14 days post-transplantation and clinical suspicion of acute rejection exists. AR defined as allograft biopsies of Banff 97 classification Grade IA or greater (higher scores indicate more severe rejection). Evaluated by blinded central independent pathologist.</outcome>
+      <timepoint>Randomization to Month 84</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change of the Measured Glomerular Filtration Rate (mGFR) From Month 3 to Month 12 and From Month 3 to Month 24 - Measured glomerular filtration rate (mGFR) is the direct measurement of renal function and was assessed by measurement of the clearance of a true glomerular filtration marker (non-radiolabeled iothalamate) using a validated procedure. Missing mGRF assessments were imputed to assess renal function. The overall imputation strategy involved a primary imputation method (linear extrapolation and quartile method) followed by 2 secondary imputation methods (regression method and graded quartile method) to assess the robustness of conclusions obtained from the application of the primary imputation method. All imputation methods entailed replacing a missing value with a value drawn from a plausible distribution incorporating theoretical and observed aspects of the data. GFR was measured as mL/min/1.73 m^2.</outcome>
+      <timepoint>Month 3 to Month 12; Month 3 to Month 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With a Decrease in Measured Glomerular Filtration Rate (mGFR) Greater Than or Equal to 10mL/Min/1.73m^2 From Month 3 to Month 12 - Measured glomerular filtration rate (mGFR) is the direct measurement of renal function and was assessed by measurement of the clearance of a true glomerular filtration marker (non-radiolabeled iothalamate) using a validated procedure. A change in GFR of at least 10 mL/min/1.73 m^2 was used as the approximate change in serum creatinine (SCr) of at least 0.3 mg/dL. The change component of the composite renal endpoint was assessed from Month 3 to Month 12, since post-transplant renal function is largely stable by Month 3. Month 3 = baseline</outcome>
+      <timepoint>Month 3 to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With a Measured Glomerular Filtration Rate (mGFR) Less Than 60 mL/Min/1.73 m^2 at Month 12 - Measured glomerular filtration rate (mGFR) is the direct measurement of renal function and was assessed by measurement of the clearance of a true glomerular filtration marker (non-radiolabeled iothalamate) using a validated procedure. A GFR of 60 mL/min/1.73 m^2 was used as the approximate equal of the threshold values of serum creatinine (SCr) of 1.5 milligrams per deciliter (mg/dL).</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Value of the Calculated Glomerular Filtration Rate (cGFR) With Imputation - Calculated glomerular filtration rate (cGFR) was used to assess renal function (as measured by the estimated creatinine clearance) using the following modification of diet in renal disease (MDRD) formula: MDRD: GFR = 170 x [SCr/0.95]^(-0.999) x [Age]^(-0.176) x [0.762 if participant is female] x [1.180 if participant is black] x [BUN]^(-0.170) x [Alb]^(+0.318); Age in years; Alb = Albumin in g/dL; SCr = Serum creatinine in mg/dL; BUN = Blood urea nitrogen in mg/dL; cGFR = mL/min/1.73m2</outcome>
+      <timepoint>Months 6, 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change in Calculated Glomerular Filtration Rate (cGFR) From Month 6 to Month 12 - Calculated glomerular filtration rate (cGFR) was used to assess renal function (as measured by the estimated creatinine clearance) using the following modification of diet in renal disease (MDRD) formula: MDRD: GFR = 170 x [SCr/0.95]^(-0.999) x [Age]^(-0.176) x [0.762 if participant is female] x [1.180 if participant is black] x [BUN]^(-0.170) x [Alb]^(+0.318); Age in years; Alb = Albumin in g/dL; SCr = Serum creatinine in mg/dL; BUN = Blood urea nitrogen in mg/dL; cGFR = mL/min/1.73m^2</outcome>
+      <timepoint>Month 6 to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Incidence of New Onset Diabetes Mellitus by Month 36 - The incidence of new onset diabetes mellitus defined as participants who developed diabetes mellitus after randomization and transplantation. Participants that did not have diabetes prior to randomization were determined to have new onset diabetes mellitus if (i) the participant received an anti-diabetic medication for a duration of at least 30 days or (ii) at least two fasting plasma glucose (FPG) tests indicate that FPG is &gt;=126 mg/dL (7.0 mmol/L). New onset diabetes mellitus (NODM) = post-transplant diabetes mellitus (PTDM)</outcome>
+      <timepoint>Week 4 post-transplantation to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants Using At Least One Anti-Hypertensive Medication to Control Hypertension at Month 36 - This analysis was based on all participants who had been followed up at least 1092 days after transplantation. Hypertension was defined in according to the Seventh Report of the Joint National Committee on the Prevention, Detection, Evaluation, and Treatment of High Blood Pressure for participants with chronic kidney disease. This definition was based upon SBP = 130 mm Hg or DBP = 80 mm Hg. In addition, all participants who had a SBP &lt; 130 mm Hg and a DBP &lt; 80 mm Hg who received an antihypertensive medication(s) for the indication of hypertension or with a medical history of hypertension were included in this definition. Systolic blood pressure = SBP; Diastolic blood pressure = DBP</outcome>
+      <timepoint>Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Incidence of Hypertension Post-Transplantation at Month 12 - The incidence of hypertension was defined as the proportion of participants who developed hypertension after randomization and transplantation. Specifically, the incidence of hypertension was assessed only after the Week 4 visit. This period allowed for adequate stabilization and resolution of transient changes. If participants received antihypertensive medication for the indication of hypertension at this (or later) time point, they were considered to have developed hypertension. Hypertension was defined according to the Seventh Report of the Joint National Committee on the Prevention, Detection, Evaluation, and Treatment of High Blood Pressure for subjects with chronic kidney disease. This definition was based upon SBP = 130 mm Hg or DBP = 80 mm Hg. Systolic blood pressure = SBP; Diastolic blood pressure = DBP</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Prevalence of Hypertension Post-Transplantation at Month 12 - The prevalence of hypertension was defined as the proportion of participants at any given time who meet the definition of hypertension. Hypertension defined according to the Seventh Report of the Joint National Committee on the Prevention, Detection, Evaluation, and Treatment of High Blood Pressure for participants with chronic kidney disease. This definition is based upon SBP = 130 mm Hg or DBP = 80 mm Hg. Systolic blood pressure = SBP; Diastolic blood pressure = DBP</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Systolic Blood Pressure and Diastolic Blood Pressure - Blood pressure was measured in millimeters of mercury (mmHg). Blood pressure was measured soon after the participant arrived and sat quietly at rest for 10 minutes. 3 consecutive seated blood pressure readings were made at least 1 minute apart.</outcome>
+      <timepoint>Months 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants at Baseline With Controlled Hypertension Post Transplantation by Month 12 - Controlled hypertension was defined as a SBP &lt; 130 mm Hg and a DBP &lt; 80 mm Hg while receiving an antihypertensive medication for the indication of hypertension or receiving an antihypertensive medication for another indication with a medical history of hypertension. Participants with a SBP &lt; 130 mm Hg and a DBP &lt; 80 mm Hg who were prescribed an antihypertensive medication(s) for an indication(s) other than hypertension (eg, beta blockers for migraine prophylaxis) with no medical history of hypertension were not considered to have either hypertension or controlled hypertension. Systolic blood pressure = SBP; Diastolic blood pressure = DBP</outcome>
+      <timepoint>Day 1 to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Prevalence of Controlled Hypertension at Month 12 - The prevalence of controlled hypertension was defined as the proportion of participants at any given time who met the definition of controlled hypertension. Controlled hypertension was defined as a SBP &lt; 130 mm Hg and a DBP &lt; 80 mm Hg while receiving an antihypertensive medication for the indication of hypertension or receiving an antihypertensive medication for another indication with a medical history of hypertension. Participants with a SBP &lt; 130 mm Hg and a DBP &lt; 80 mm Hg who were prescribed an antihypertensive medication(s) for an indication(s) other than hypertension (eg, beta blockers for migraine prophylaxis) with no medical history of hypertension were not considered to have either hypertension or controlled hypertension. Systolic blood pressure = SBP; Diastolic blood pressure = DBP</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Non-dyslipidemic Participants With Incidence of Dyslipidemia Post-Transplantation by Month 12 - Incidence of dyslipidemia was defined as the proportion of participants who developed dyslipidemia after randomization and transplantation. Dyslipidemia was defined in accordance with recent guidelines from the National Kidney Foundation Kidney Disease Outcomes Quality Initiative (NKF-K/DOQI). Dyslipidemia = hypertriglyceridemia (TGs &gt;= 500 milligrams/deciliter (mg/dL) [5.65 mmol/L]), hypercholesterolemia (LDL &gt;= 100 mg/dL [2.59 mmol/L]), or elevated non-HDL (non-HDL &gt;= 130 mg/dL [3.36 mmol/L]) in the presence of high TGs (TGs &gt;= 200 mg/dL [2.26 mmol/L]). The TG = triglyceride; LDL = low density lipoprotein; HDL = high density lipoprotein; millimole/Liter (mmol/L). For 95% CI within each group, normal approximation is used if N &gt;=5. Otherwise exact method is used.</outcome>
+      <timepoint>Randomization to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Prevalence of Dyslipidemia at Month 12 - The prevalence of dyslipidemia was defined as the proportion of participants at any given time who met the definition of dyslipidemia. Dyslipidemia defined in accordance with recent guidelines from the National Kidney Foundation Kidney Disease Outcomes Quality Initiative (NKF-K/DOQI). Dyslipidemia defined as hypertriglyceridemia (TGs &gt;= 500 milligrams/deciliter (mg/dL) [5.65 mmol/L]), hypercholesterolemia (LDL &gt;= 100 mg/dL [2.59 mmol/L]), or elevated non-HDL (non-HDL &gt;= 130 mg/dL [3.36 mmol/L]) in the presence of high TGs (TGs &gt;= 200 mg/dL [2.26 mmol/L]). TG = triglyceride; LDL = low density lipoprotein; HDL = high density lipoprotein; millimole/Liter (mmol/L). For 95% CI within each group, normal approximation is used if N &gt;=5. Otherwise exact method is used.</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Controlled Dyslipidemia at Month 12 - Prevalence of controlled dyslipidemia = the proportion of participants at any given time who met the stated definition of dyslipidemia. Dyslipidemia defined in accordance with recent guidelines from the National Kidney Foundation Kidney Disease Outcomes Quality Initiative (NKF-K/DOQI). Dyslipidemia defined as hypertriglyceridemia (TGs &gt;= 500 milligrams/deciliter (mg/dL) [5.65 mmol/L]), hypercholesterolemia (LDL &gt;= 100 mg/dL [2.59 mmol/L]), or elevated non-HDL (non-HDL &gt;= 130 mg/dL [3.36 mmol/L]) in the presence of high TGs (TGs &gt;= 200 mg/dL [2.26 mmol/L]). Controlled dyslipidemia defined as participants who received successful pharmacologic treatment for 1 of the above stated dyslipidemias, and their lipid values fell below the thresholds described. TG = triglyceride; LDL = low density lipoprotein; HDL = high density lipoprotein; millimole/Liter (mmol/L). For 95% CI within each group, normal approximation is used if N &gt;=5. Otherwise exact method is used.</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Antihyperlipidemic Medication by Intensity Level - An intensity level was associated with the dose level of the statin based anti-hyperlipidemic agent. Any other agent (i.e., non-statin therapy) used as an antihyperlipidemic were considered Level I treatment intensity. Multiple daily dose levels during a period were averaged to compute the daily dose during that period. Level I = 20 mg fluvastatin (flu), 10 mg lovastatin (lova), 10 mg pravastatin (prav), 5-10 mg simvastatin (sim); Level II = 10 mg atorvastatin (atorv), 40 mg flu, 20 mg lova, 20 mg prav, 5 mg rosuvastatin (rosu), 20 mg sim, 10/10 vytorin; Level III = 20 mg atorv, 80 mg flu, 40 mg lova, 40 mg prav, 10 mg rosu, 40 mg sim, 10/20 vytorin; Level IV = 40 mg atorv, 80 mg lova, 80 mg prav, 20 mg rosu, 80 mg sim, 10/40 vytorin; Level V = 80 mg atorv, 40 mg rosu, 10/80 vytorin. Concomitant use of a statin and an agent of another class elevated the intensity level of the statin therapy by 1 level; therefore, an intensity level of greater than V was possible.</outcome>
+      <timepoint>Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants Using At Least One Anti-Hyperlipidemic Medication - This analysis is based on all participants who were followed up at least 1092 days after transplantation.</outcome>
+      <timepoint>Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Value of Lipid Parameters - Lipid parameters included total cholesterol, high density lipoprotein (HDL) cholesterol, low density lipoprotein (LDL) cholesterol, non-HDL cholesterol, and triglycerides (TGs).</outcome>
+      <timepoint>Months 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Prevalence of Acute Rejection (AR) by Month 36 - Prevalence of AR = participants with the stated definition of AR at any given time. AR defined as a clinico-pathological event requiring clinical evidence and renal biopsy confirmation demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Only the episode with the highest Banff grade for each participant was counted. Clinical evidence = if either a or b was satisfied: a: an unexplained rise of serum creatinine = 25% from baseline creatinine; b: an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remains elevated within 14 days post-transplantation and clinical suspicion of acute rejection exists. Allograft biopsies were evaluated by a blinded central independent pathologist using Banff 97 working classification of kidney transplant pathology. Banff 97 diagnostic category for renal allograft biopsies is an international standardized histopathological classification.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Acute Rejection (AR) Post-transplant in Terms of Severity Using Banff Grades by Month 36 - Acute rejection was defined as a clinico-pathological event requiring clinical evidence and renal biopsy confirmation demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Clinical evidence defined: if either a or b was satisfied: a) an unexplained rise of serum creatinine = 25% from baseline creatinine; b) an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remains elevated within 14 days post-transplantation and clinical suspicion of acute rejection exists. Allograft biopsies were evaluated by a blinded central independent pathologist using Banff 97 working classification of kidney transplant pathology. Banff 97 diagnostic category for renal allograft biopsies is an international standardized histopathological classification. Only the episode with the highest Banff grade for each participant was counted.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants Using Polyclonal Antilymphocyte Preparations for Impaired Renal Function and Anticipated Delayed Graft Function by Month 12 - A participant was considered to have delayed graft function (DGF), if treated with dialysis within the first week (Day 1 - 8) after transplantation. The use of polyclonal antilymphocyte preparations (LDT) was permitted only for participants randomized to cyclosporine (CsA) who experienced impaired renal allograft function and anticipated DGF following transplantation and were not permitted in belatacept-treated participants, except for the treatment of acute rejection. Participants treated with LDT began CsA at the discretion of the investigator by Day 7. LDT could also have been used in participants who met &gt;= 1 of the following criteria, observed in the presence of a transplant artery and vein and no evidence of hydronephrosis by sonogram: Urine output &lt; 250 mL/12 hours, no significant improvement (&lt; 1 milligram per deciliter (mg/dL)) in serum creatinine from baseline value over the first 24 - 72 hours post-transplant, or dialysis treatment.</outcome>
+      <timepoint>Randomization to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants Using Lymphocyte Depleting Therapy (LDT) for the Initial Treatment of Acute Rejection (AR) by Month 36 - The use of LDT (thymoglobulin or antithymocyte gamma globulin [ATGAM]) was permitted only for participants randomized to cyclosporine (CsA) who experienced impaired renal allograft function and anticipated delayed graft function following transplantation. Acute rejection (AR) defined as a clinico-pathological event requiring clinical evidence (an unexplained rise of serum creatinine = 25% from baseline creatinine or an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remained elevated within 14 days post-transplantation and clinical suspicion of acute rejection existed) and biopsy confirmation. AR defined by a renal biopsy demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Banff 97 diagnostic category for renal allograft biopsies is an international standardized histopathological classification. Only the episode with the highest Banff grade for each participant was counted.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Corticosteroid Resistant Acute Rejection (AR) by Month 36 - Steroid-resistant acute rejection (AR) defined as the use of lymphocyte-depletion therapy following treatment with corticosteroids. AR defined as a clinico-pathological event requiring clinical evidence and renal biopsy confirmation demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Clinical evidence defined: either a or b was satisfied: a) an unexplained rise of serum creatinine = 25% from baseline creatinine; b) an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remained elevated within 14 days post-transplantation and clinical suspicion of acute rejection existed. Allograft biopsies were evaluated by a blinded central independent pathologist using Banff 97 international standardized histopathological working classification of kidney transplant pathology. Only the episode with the highest Banff grade for each participant was counted.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Who Recovered Completely From an Episode of Acute Rejection (AR) by Month 12 - Acute rejection (AR) = a clinico-pathological event requiring clinical evidence and renal biopsy confirmation demonstrating a Banff 97 classification of Grade IA or greater. Clinical evidence = if either a or b was satisfied: a: an unexplained rise of serum creatinine = 25% from baseline creatinine; b: an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remains elevated within 14 days post-transplantation and clinical suspicion of acute rejection exists. Complete recovery following AR defined as serum creatinine [SCr] levels returned to baseline. Recovery calculated using 2 algorithms: Algorithm 1 = last laboratory measurement prior to onset of AR (baseline and first laboratory measurement after 84 days since onset of AR = resolution); Algorithm 2 = lowest laboratory measurement on or after transplantation and prior to onset day of AR (baseline and lowest laboratory measurement after onset on first AR up to Month 12 = resolution)</outcome>
+      <timepoint>Randomization to Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Subclinical Rejection at Month 12 - Subclinical rejection defined as histological findings by the central pathologist consistent with acute rejection, but lacking its clinical correlate. Acute rejection defined as a clinico-pathological event requiring clinical evidence and renal biopsy confirmation demonstrating a Banff 97 classification of Grade IA or greater, with higher scores indicating more severe rejection. Only the episode with the highest Banff grade for each participant was counted. Clinical evidence defined if either a or b was satisfied: a) an unexplained rise of serum creatinine = 25% from baseline creatinine; b) an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remained elevated within 14 days post-transplantation and clinical suspicion of acute rejection existed. Allograft biopsies were evaluated by a blinded central independent pathologist using Banff 97 working classification of kidney transplant pathology.</outcome>
+      <timepoint>Month 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Treated for Acute Rejection (AR) Regardless of Histological Findings by Month 36 - Allograft rejection includes any episode of rejection including: clinically suspected rejection, treated rejection, any central biopsy-proven acute rejection (BPAR), and acute rejection (AR: a subset of BPAR) defined as central biopsy-proven rejection that was either clinically suspected by protocol-defined reasons or by other reasons and was treated. Acute rejection (AR) defined as a clinico-pathological event requiring clinical evidence ( either an unexplained rise of serum creatinine = 25% from baseline creatinine or an unexplained decreased urine output; or fever and graft tenderness; or a serum creatinine that remained elevated within 14 days post-transplantation and clinical suspicion of AR) and renal biopsy confirmation biopsy demonstrating a Banff 97 working classification of kidney transplant pathology classification of Grade IA or greater, with higher scores indicating more severe rejection. Only the highest Banff grade for each participant was counted.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Value of Physical and Mental Components Using SF-36 Questionnaire - SF-36 was a Participant-Reported Quality of Life (QoL) Short Form (SF) questionnaire measuring health-related quality of life (HRQL) covering 2 scale measures: physical component summary (PCS) and mental component summary (MCS). PCS represented by 4 domains: physical function, role limitations due to physical problems, pain, and general health perception. MCS represented by 4 domains: vitality, social function, role limitations due to emotional problems, and mental health. Their scores were computed based on weighted combinations of the 8 domain scores, which were transformed to a range from 0 to 100; 0= worst HRQL, 100=best HRQL. Higher scores reflect better health-related functional status. Scoring is standardized using the norm-based scoring method where data is scored in relation to the U.S. general population having a mean of 50 and a standard deviation of 10. Scores below 50 are below the U.S. general population norm and above 50 are above the U.S. general population norm.</outcome>
+      <timepoint>Months 6, 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Value of the Eight Domain Scores of Quality of Life Using SF-36 Questionnaire - SF-36 was a Participant-Reported Quality of Life (QoL) Short Form (SF) questionnaire measuring health-related quality of life (HRQL) covering 2 scale measures: physical component summary (PCS) and mental component summary (MCS). PCS represented by 4 domains: physical function, role limitations due to physical problems, pain, and general health perception. MCS represented by 4 domains: vitality, social function, role limitations due to emotional problems, and mental health. Their scores were computed based on weighted combinations of the 8 domain scores, which were transformed to a range from 0 to 100; 0= worst HRQL, 100=best HRQL. Higher scores reflect better health-related functional status. Scoring is standardized using the norm-based scoring method where data is scored in relation to the U.S. general population having a mean of 50 and a standard deviation of 10. Scores below 50 are below the U.S. general population norm and above 50 are above the U.S. general population norm.</outcome>
+      <timepoint>Months 6, 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Relative to an Identified Distribution (Ridit) Value of Symptom Occurrence and Symptom Distress Using Modified Transplant Symptom Occurrence and Symptom Distress Scale (MTSOSDS-59R) - The Modified Transplant Symptom Occurrence and Symptom Distress Scale (MTSOSD-59R) was used to assess the occurrence (never, occasionally, regularly, almost always, always) and distress (0=no distress to 4=terrible distress) of symptoms associated with immunosuppressive therapies. Ridit (relative to an identified distribution) analysis (Fleiss JL. Statistical methods for rates and proportions. New York: John Wiley &amp; Sons, Inc. 1991) was used. Ridit scores were calculated at baseline and at 6, 12, 24, and 36 months for overall symptom occurrence score and overall symptom distress. The Ridit score reflects the probability that a score observed for an individual randomly selected from a group would be higher (worse symptom) than a score observed for a randomly selected individual from the reference group. The reference group was constituted by the frequency distribution of the responses of all participants on all items at baseline. The ridit of the reference group is by definition, 0.5.</outcome>
+      <timepoint>Months 6, 12, 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Changes in the Value of Physical and Mental Components Using SF-36 From Baseline Up To Months 6, 12, 24, and 36 - SF-36 was a Participant-Reported Quality of Life (QoL) Short Form (SF) questionnaire measuring health-related quality of life (HRQL) covering 2 scale measures: physical component summary (PCS) and mental component summary (MCS). PCS represented by 4 domains: physical function, role limitations due to physical problems, pain, and general health perception. MCS represented by 4 domains: vitality, social function, role limitations due to emotional problems, and mental health. Their scores were computed based on weighted combinations of the 8 domain scores, which were transformed to a range from 0 to 100; 0= worst HRQL, 100=best HRQL. Higher scores reflect better health-related functional status. Scoring is standardized using the norm-based scoring method where data is scored in relation to the U.S. general population having a mean of 50 and a standard deviation of 10. Scores below 50 are below the U.S. general population norm and above 50 are above the U.S. general population norm.</outcome>
+      <timepoint>Baseline to Months 6, 12, 24,and 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change in the Value of the Eight Domain Scores Using SF-36 From Baseline Up To Months 6, 12, 24, and 36 - SF-36 was a Participant-Reported Quality of Life (QoL) Short Form (SF) questionnaire measuring health-related quality of life (HRQL) covering 2 scale measures: physical component summary (PCS) and mental component summary (MCS). PCS represented by 4 domains: physical function, role limitations due to physical problems, pain, and general health perception. MCS represented by 4 domains: vitality, social function, role limitations due to emotional problems, and mental health. Their scores were computed based on weighted combinations of the 8 domain scores, which were transformed to a range from 0 to 100; 0= worst HRQL, 100=best HRQL. Higher scores reflect better health-related functional status. Scoring is standardized using the norm-based scoring method where data is scored in relation to the U.S. general population having a mean of 50 and a standard deviation of 10. Scores below 50 are below the U.S. general population norm and above 50 are above the U.S. general population norm.</outcome>
+      <timepoint>Baseline to Months 6, 12, 24, and 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants Surviving With a Functioning Graft - Graft loss was defined as either functional loss or physical loss (nephrectomy). Functional loss was defined as a sustained level of serum creatinine (SCr) = 6.0 milligrams per deciliter (mg/dL) or 530 micromoles per liter (µmol/L) as determined by the central laboratory for = 4 weeks or = 56 consecutive days of dialysis or impairment of renal function to such a degree that the participant underwent retransplant.</outcome>
+      <timepoint>Months 24, 36</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Participants With Composite Endpoint or Death, Graft Loss or Acute Rejection by Month 36 - Graft loss was defined as either functional loss or physical loss (nephrectomy). Functional loss was defined as a sustained level of serum creatinine (SCr) = 6.0 milligrams per deciliter (mg/dL) or 530 micromoles per liter (µmol/L) as determined by the central laboratory for = 4 weeks or = 56 consecutive days of dialysis or impairment of renal function to such a degree that the participant underwent retransplant. Acute rejection was defined as central biopsy proven rejection that was either (1) clinically suspected by protocol defined reasons or (2) clinically suspected by other reasons and treated. Death and graft loss were not imputed.</outcome>
+      <timepoint>Randomization to Month 36</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  The subject is a recipient of a living donor or deceased donor kidney transplant.
+
+          -  Male or Female, 18 or older</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  First time recipient, PRA &gt;- 50% or for retransplantation PRA &gt;- 30%.
+
+          -  If retransplantation, previous graft loss cannot be due to acute rejection.
+
+          -  Positive cross match.
+
+          -  Subject receiving extended criteria donor (ECD) organ
+
+          -  For Long-term extension study-Subjects who have completed three years of study
+             treatment (through Week 156)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/03/2005</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>738</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/04/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,SA,VIC</recruitmentstate>
+    <hospital>Local Institution - Camperdown</hospital>
+    <hospital>Local Institution - Westmead</hospital>
+    <hospital>Local Institution - Adelaide</hospital>
+    <hospital>Local Institution - Parkville</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbuck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio De Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio Grande Do Sul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha 4</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nante Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szeged</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Ahmedabad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Gujarat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Gujrat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Kerala</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Maharashtra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Chandigarh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Chennai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Lucknow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>New Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Distrito Federal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Morelos</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Nuevo Leon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Aguascalientes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>San Luis Potosi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Szczecin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Cape Town</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Gauteng</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Kwa Zulu Natal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Malaga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Goteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zurich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Antalya</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Bristol-Myers Squibb</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to learn if Belatacept can provide protection from organ
+      rejection following kidney transplantation while avoiding some of the toxic effects of
+      standard immunosuppressive medications such as kidney damage. Effects on kidney function and
+      patient survival as well as drug safety will also be studied.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00256750</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Bristol-Myers Squibb</name>
+      <address>Bristol-Myers Squibb</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

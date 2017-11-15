@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="86">
+  <stage>Registered</stage>
+  <submitdate>31/07/2005</submitdate>
+  <approvaldate>5/08/2005</approvaldate>
+  <actrnumber>ACTRN12605000081617</actrnumber>
+  <trial_identification>
+    <studytitle>HATS trial</studytitle>
+    <scientifictitle>Hand-assisted thoracoscopic surgery versus Limited thoracotomy: Randomised controlled trial comparing early post-operative quality of life after diagnostic lung biopsy and radical metastasectomy</scientifictitle>
+    <utrn />
+    <trialacronym>HATS</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>1. Undiagnosed pulmonary nodules not accessible by VATS.
+</healthcondition>
+    <healthcondition>2. Pulmonary metastases suitable for wedge resection.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2 />
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Access to the lung using thoracoscope and trans-diaphragmatic palpation via small subcostal incision. Compared with smallest practical thoracotomy incision to acheive same lung resection.</interventions>
+    <comparator>Limited thoracotomy</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Quality of life scores (SF-12v2)</outcome>
+      <timepoint>14 and 42 days post surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pain scores</outcome>
+      <timepoint>In 24 hours after epidural removal.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ipsilateral lung recurrence of pulmonary metastases. </outcome>
+      <timepoint>2 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Respiratory function.</outcome>
+      <timepoint>6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Diaphragm function.</outcome>
+      <timepoint>6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Wound complications.</outcome>
+      <timepoint>30 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Consenting adult requiring either diagnosis of lung nodule or clearance of pulmonary metastases from sarcoma, colorectal or renal carcinoma, melanoma or germ cell tumour.  Must be amenable to wedge resection.  Must have PET scan to exclude extra-thoracic disease and confirm primary site control.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>No exclusion criteria</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Independently held codes</concealment>
+    <sequence>Computer generated. Stratified for indication.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/11/2001</anticipatedstartdate>
+    <actualstartdate>23/10/2001</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>4/05/2005</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>40</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>3/05/2010</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Gavin M Wright</primarysponsorname>
+    <primarysponsoraddress>Cardiothoracic Research Office
+St Vincent's Hospital
+41 Victoria Parade
+Fitzroy VIC 3065</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University grant</fundingname>
+      <fundingaddress>Faculty of Medicine, Dentistry and Health Sciences
+University of Melbourne</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Joseph M Paiva</sponsorname>
+      <sponsoraddress>Cardiothoracic Research Office
+St Vincent's Hospital
+41 Victoria Parade
+Fitzroy VIC 3065</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>To determine whether a new form of minimally invasive ("keyhole") surgery results in less pain and suffering than traditional surgery of the lung via thoracotomy.</summary>
+    <trialwebsite />
+    <publication>1. Paiva JM, Wright GM. Hand assisted thoracoscopic surgery causes less postoperative pain than limited thoracotomy after cessation of epidural analgesia. Heart Lung Circ 2004; 13: 374-8.
+2. Wright GM, Clarke CP, Paiva J.  How to do it: Hand Assisted Thoracoscopic Surgery. Ann Thorac Surg 2003; 75: 1665-7.
+3. Wright GM, Long H, Hand-assist VATS: minimum invasion, maximum return, ANZ J Surg 2001; 71 (s1): A17
+4. Dear RF, Kelly PJ, Wright GM, Stalley P, McCaughan BC, Tattersall MHN. Pulmonary metastasectomy for bone and soft tissue sarcoma in Australia: 114 patients from 1978 to 2008. Asia Pac J Clin Oncol 2012; 10.1111/j.1743-7563.2012.01521.x</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Vincent's Hospital, Melbourne</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>1/10/2001</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>St Vincent's and Mercy Private Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin M Wright</name>
+      <address>St Vincents's Hospital Melbourne
+5th Floor
+55 Victoria Parade
+Fitzroy VIC 3065</address>
+      <phone>+61 3 94192477</phone>
+      <fax>+61 3 94171694</fax>
+      <email>gavin.wright@svha.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin M Wright</name>
+      <address>St Vincents's Hospital Melbourne
+5th Floor
+55 Victoria Parade
+Fitzroy VIC 3065</address>
+      <phone>+61 3 94192477</phone>
+      <fax>+61 3 94171694</fax>
+      <email>gavin.wright@svha.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin M Wright</name>
+      <address>Cardiothoracic Research Office
+St Vincent's Hospital
+41 Victoria Parade
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9419 2477</phone>
+      <fax />
+      <email>Gavin.Wright@svha.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

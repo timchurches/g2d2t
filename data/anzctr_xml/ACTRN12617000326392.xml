@@ -1,0 +1,209 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372423">
+  <stage>Registered</stage>
+  <submitdate>24/02/2017</submitdate>
+  <approvaldate>1/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000326392</actrnumber>
+  <trial_identification>
+    <studytitle>Exploring the benefits of a desktop humidifier for dry eye relief</studytitle>
+    <scientifictitle>Exploring the benefits of a desktop humidifier for dry eye relief</scientifictitle>
+    <utrn>U1111-1193-4589</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Dry eye</healthcondition>
+    <conditioncode>
+      <conditioncode1>Eye</conditioncode1>
+      <conditioncode2>Diseases / disorders of the eye</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The study location is the Ocular Surface Laboratory at the University of Auckland.  On 2 separate days, with at least 24 hours washout between visits, participants are randomised to one hour of continuous computer use, with and without exposure to a desktop humidifier, set at a humidifying rate of 30ml/h (Homi Ltd).  Environmental conditions are otherwise identical between the two scenarios. The humidifier placement remains identical throughout the experiment, at a distance of 70-75 cm from the eyes, and with the indicator light obscured.
+
+Lipid layer grade, non-invasive tear film break-up time and tear meniscus height are measured by clinical researchers before and after computer use. Subjective comfort relative to baseline is also assessed following the 1-hour period.  </interventions>
+    <comparator>Control treatment is the identical scenario (1 hour of continuous computer use) without exposure to humidified air from the desktop humidifier.  Participant is masked with respect to the activity or non-activity of the humidifier by occluding the indicator light on the humidifier, and with a low level humming noise that masks any sound from the humidifier.  Participants were advised that vapour might or might not be visible in either scenario depending on the room conditions.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Non-invasive tear break up time (NIBUT) measured by observing mires reflected from the tear film after a blink for the first sign of a distortion in the pattern.  The time between the blink and first distortion is recorded as the break up time and an average of three measurements is recorded.</outcome>
+      <timepoint>After 1 hour exposure to continuous computer use</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lipid layer grade is evaluated by interferometry.  Specular reflection of a wide-field white light  on the surface of the tears highlights interference fringe patterns on biomicroscopic examination, that are graded according to thickness and quality.</outcome>
+      <timepoint>After 1 hour of computer use</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Subjective comparison of ocular comfort relative to baseline, following the one-hour period of computer use, using a force-choice, three-point scale: greater, equal or lesser comfort.</outcome>
+      <timepoint>After 1 hour of computer use</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tear meniscus height: determined from a high magnification digital image that is subsequently calibrated via graticule on imaging software </outcome>
+      <timepoint>After 1 hour of computer use</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age of 18 years or older
+Non-contact lens wearers
+No history of major systemic or ocular disease, 
+No history of ocular surgery, and 
+No use of topical or systemic medications known to affect the eye. 
+Able to provide written informed consent
+Able to attend three visits on separate days
+Presence or absence of dry eye symptoms</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Under 18 years of age
+Contact lens wearers
+History of major systemic or ocular disease, 
+History of ocular surgery, and 
+Current use of topical or systemic medications known to affect the eye</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Treatment order with active/inactive humidifier randomised centrally by computer and concealed from researcher enrolling participants and collecting outcome data.  A third party individual sets up the participant in the treatment room with either the active or inactive device according to the treatment order that matches their enrolment number, as stated on the predetermined randomisation schedule.</concealment>
+    <sequence>Selection of first exposure determined via random number generation.  Consecutive participants exposed (odd number) or not exposed (even number) to humidifier at first visit.  Alternative scenario presented at second visit</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Normally distributed continuous variables (relative humidity, temperature, tear meniscus height) between and within groups compared using paired t-tests. Non-normally distributed measures (NIBUT) logarithmically transformed before assessment by paired t-test. Ordinal data (lipid layer grade) analysed using Wilcoxon signed-rank tests. Categorical data (subjective comfort) compared using chi-squared tests or Fishers exact tests.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/08/2010</actualenddate>
+    <samplesize>44</samplesize>
+    <actualsamplesize>44</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>3/08/2010</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Auckland</primarysponsorname>
+    <primarysponsoraddress>The University of Auckland
+Private Bag 92019 
+Auckland 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Auckland</fundingname>
+      <fundingaddress>The University of Auckland
+Private Bag 92019 
+Auckland 1142</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study evaluates the potential for a desktop USB-powered humidifier in improving tear film parameters, ocular surface characteristics, and subjective comfort of computer users.
+
+Participants are enrolled into a prospective, randomised, double-masked, crossover study. On separate days, they will be randomised to one hour of continuous computer use, with and without exposure to a desktop humidifier (Homi Ltd). Lipid layer grade, non-invasive tear film break-up time and tear meniscus height are measured before and after computer use. Subjective comfort relative to baseline is also assessed following the 1-hour period.
+</summary>
+    <trialwebsite>NA</trialwebsite>
+    <publication>Poster presentation: Craig JP, Chan E, Ea L, Kam C, Lu Y, Misra SL.  Dry eye relief for VDU users from a USB-desktop humidifier.  British Contact Lens Association Annual Conference 2012, Birmingham UK</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The University of Auckland Human Participants Ethics Committee</ethicname>
+      <ethicaddress>The University of Auckland
+Private Bag 92019 
+Auckland 1142</ethicaddress>
+      <ethicapprovaldate>10/03/2010</ethicapprovaldate>
+      <hrec>6507</hrec>
+      <ethicsubmitdate>19/02/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jennifer P Craig</name>
+      <address>Department of Ophthalmology
+The University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499238173</phone>
+      <fax />
+      <email>jp.craig@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jennifer P Craig</name>
+      <address>Department of Ophthalmology
+The University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499238173</phone>
+      <fax />
+      <email>jp.craig@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jennifer P Craig</name>
+      <address>Department of Ophthalmology
+The University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499238173</phone>
+      <fax />
+      <email>jp.craig@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jennifer P Craig</name>
+      <address>Department of Ophthalmology
+The University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499238173</phone>
+      <fax />
+      <email>jp.craig@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

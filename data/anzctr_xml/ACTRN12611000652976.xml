@@ -1,0 +1,212 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343106">
+  <stage>Registered</stage>
+  <submitdate>24/06/2011</submitdate>
+  <approvaldate>24/06/2011</approvaldate>
+  <actrnumber>ACTRN12611000652976</actrnumber>
+  <trial_identification>
+    <studytitle>To investigate patient's outcome using different hemofilter materials in those with sepsis associated acute renal failure</studytitle>
+    <scientifictitle>The effect of PMMA versus PS membrane on mortality in patients with septic acute kidney injury receiving continuous venovenous hemofiltration</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Severe sepsis</healthcondition>
+    <healthcondition>Acute kidney injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Citrate continuous venovenous hemofiltration using Polymethylmethacrylate (PMMA) membrane hemofilter during acute kidney injury period until death or discharge from ICU</interventions>
+    <comparator>Citrate continuous venovenous hemofiltration using Polysulfone (PS) membrane hemofilter during acute kidney injury period until death or discharge from ICU</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>28 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sequential Organ Failure Assessment (SOFA) score</outcome>
+      <timepoint>Daily until death or discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Best mean arterial pressure (MAP)</outcome>
+      <timepoint>Daily until death or discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Vasopressor dosage</outcome>
+      <timepoint>Daily until death or discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Best Oxygenation (PaO2/FiO2 ratio) based on arterial blood gas results and oxygen concentration  provided via oxygen cannula or ventilator</outcome>
+      <timepoint>Daily until death or discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urine output based on all urinary catheter output charting</outcome>
+      <timepoint>Daily until death or discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in intensive care unit (ICU)</outcome>
+      <timepoint>ICU discharge time</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in hospital</outcome>
+      <timepoint>Hospital discharge time</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Severe sepsis (defined based on ACCP/ SCCM criteria, ie Systemic Inflammatory Response Syndrome in the presence of suspected or known infection, leading to organ dysfunction), and
+2.	Acute kidney injury (defined based on RIFLE criteria, Injury grade or above, who required continuous venovenous hemofiltration support)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Contraindication for regional citrate anticoagulation (Liver failure or cirrhosis with impaired citrate metabolism, allergy to citrate) 
+2.	Pregnancy
+3.	Terminal illness</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>1.	Eligible patients should fulfill all the inclusion criteria and without any exclusion criteria
+2.	Obtain consent from patient directly.  For those with impaired consciousness due to underlying illness, consent should be obtained from their close relatives
+3.	Randomization by computer generated scheme
+4.             Allocation concealment by sealed opaque envelopes</concealment>
+    <sequence>Randomization by computer generated scheme</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/08/2011</anticipatedstartdate>
+    <actualstartdate>17/05/2012</actualstartdate>
+    <anticipatedenddate>30/04/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>120</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Department of intensive care, Pamela Youde Nethersole Eastern Hospital</primarysponsorname>
+    <primarysponsoraddress>3 Lok Man Road
+Chai Wan</primarysponsoraddress>
+    <primarysponsorcountry>Hong Kong</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Pamela Youde Nethersole Eastern Hospital</fundingname>
+      <fundingaddress>3 Lok Man Road
+Chai Wan</fundingaddress>
+      <fundingcountry>Hong Kong</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Acute kidney injury (AKI) affects 5% to 7% of all hospitalized patients. Sepsis and septic shock remain the most important cause of AKI in critically ill patients and account for more than 50% of cases of AKI in the intensive care unit. The Acute Dialysis Quality Initiative has developed a consensus definition of AKI that uses the acronym RIFLE (Risk, Injury, Failure, Loss and End stage).  Septic AKI is AKI occurring in the simultaneous presence of both the RIFLE criteria for AKI and the consensus criteria for sepsis, in the absence of other clear and established, nonsepsis-related (e.g., radiocontrast, other nephrotoxins) cause of AKI. 
+It is widely accepted that cytokines play an important role in the pathogenesis of sepsis and septic shock. Cytokines removal by varies blood purification techniques like high volume hemofiltration and plasmaphresis may be useful in these situations. Polymethylmethacrylate (PMMA) membrane hemofilter remove cytokines from blood mainly by adsorption to membrane matrix of the hemofilter.  This special membrane characteristic is absence in Polyacrylonitrate (PAN) or Polysulfone (PS) membrane hemofilter commonly used for continuous renal replacement therapy (CRRT).  Studies showed that using PMMA based CRRT in patient with septic AKI may associate with early improvement of hemodynamics, oxygenation and improvement of urine output.  When compared with PAN based CRRT, patients treated with PMMA based CRRT showed significant 28-days mortality benefit (61.5% vs. 15.4%).  
+The aim of this study is to investigate whether citrate post-dilution continuous venovenous hemofiltration (CVVH) using PMMA based hemofilter (PMMA-CVVH) in the treatment of patient with septic AKI provide better clinical outcome compared with CVVH using polysulfone based hemofilter (PS-CVVH)</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hong Kong East Cluster ethics committee</ethicname>
+      <ethicaddress>3 Lok Man Road
+Chai Wan</ethicaddress>
+      <ethicapprovaldate>20/06/2011</ethicapprovaldate>
+      <hrec>HKEC-2011-032</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Hong Kong</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr. Hoi-Ping Shum</name>
+      <address>Department of Intensive Care
+Pamela Youde Nethersole Eastern Hospital
+3 Lok Man Road
+Chai Wan</address>
+      <phone>852-25956111</phone>
+      <fax />
+      <email>shumhp@ha.org.hk</email>
+      <country>Hong Kong</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr. Hoi-Ping Shum</name>
+      <address>Department of Intensive Care
+Pamela Youde Nethersole Eastern Hospital
+3 Lok Man Road
+Chai Wan</address>
+      <phone>852-25956111</phone>
+      <fax />
+      <email>shumhp@ha.org.hk</email>
+      <country>Hong Kong</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hoi-Ping SHUM</name>
+      <address>Department of Intensive Care
+Pamela Youde Nethersole Eastern Hospital
+3 Lok Man Road
+Chai Wan
+Hong Kong SAR</address>
+      <phone>+852-25956111</phone>
+      <fax />
+      <email>shumhp@ha.org.hk</email>
+      <country>Hong Kong</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

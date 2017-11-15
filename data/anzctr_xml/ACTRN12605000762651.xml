@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="910">
+  <stage>Registered</stage>
+  <submitdate>22/11/2005</submitdate>
+  <approvaldate>24/11/2005</approvaldate>
+  <actrnumber>ACTRN12605000762651</actrnumber>
+  <trial_identification>
+    <studytitle>Optimising glycaemic control in paediatric patients on insulin pump therapy: impact of glycaemic load and bolus wave type on postprandial glycaemia</studytitle>
+    <scientifictitle>Optimising glycaemic control in paediatric patients on insulin pump therapy: impact of glycaemic load and bolus wave type on postprandial glycaemia</scientifictitle>
+    <utrn />
+    <trialacronym />
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type 1 Diabetes Mellitus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Study design: 
+Open, cross-over trial comparing the effects on Continuous Glucose Monitoring System (CGMS) measured post prandial glycaemia of different insulin bolus types administered with meals of different (high vs low) GI and GL content.  Each participant will serve as his/her own control.  
+All interventions and observations involved in the study will take place in a controlled environment in the Australian Paediatric Pharmacological Research Unit (APPRU) at RCH.  The study will involve attendance for 6.5hrs/ day on 5 days in total (to be divided into blocks of 2 or 3 sequential days in 2 different weeks).
+A standardized format will be followed for every patient on each day.  Each day will start with a standardized 'glycaemic wash-out' breakfast that aims to ensure that each subject commences the study period with a blood glucose level between 4-8mmol/l.   Thereafter participants will receive one study meal with a predetermined premeal insulin bolus per day and their glycaemic response over the following 3 hours will be monitored using CGMS.
+Meal characteristics:
+The study will involve 2 different meals, meal A &amp; meal B.  
+Both meals will contain identical macronutrient content (i.e. amount (grams) of carbohydrate, protein and fat will be equal in both).  
+The only nutritional difference between the 2 meals will be their GI (and therefore their GL - a function of GI and carbohydrate amount) content.  
+Meal A = Low GI / Low GL.
+Meal B = High GI/ High GL
+
+Overview of insulin bolus / meal type combinations:
+
+Days 1 and 2 will both involve Meal A. 
+ 
+The order in which subjects administer the different bolus types will be randomly assigned: 
+Either Day 1: Meal A + standard 'single wave' bolus, followed by 
+Day 2: Meal A + 'dual wave' bolus 
+OR Day 1: Meal A + 'dual wave' bolus, followed by 
+Day 2: Meal A + standard 'single wave' bolus
+
+Single wave bolus: The dose of the standard 'single wave' bolus will be calculated based on the subject's pre-prandial capillary blood glucose by the dose calculator incorporated into each subject's pump device (contains preprogrammed information on that subject's insulin sensitivity and insulin: carbohydrate ratio). 
+
+Dual wave bolus: As Meal A is of low GI/GL content, the standard pre-assigned dual wave ratio will consist of a 20:80 split (20% of dose given as immediate 'single wave' over ~3mins; 80% then given as 'extended wave' over 2hrs).  The actual dose of each subject's insulin bolus will be calculated by the dose calculator incorporated into their own pump as outlined above.  
+
+Days 3 and 4 will involve Meal B with randomisation to premeal insulin wave type as above.  As Meal B is high GI/GL, a 40:60% split in the dual wave components will be used.
+
+Day 5 will involve Meal A and individualized insulin dosing schedules based on physician analysis of the CGMS data obtained from days 1 &amp; 2.  A dual wave bolus will be administered, the split ratio of which will be determined by the postprandial glycaemia observed on days 1 &amp; 2.</interventions>
+    <comparator />
+    <control>Dose comparison</control>
+    <interventioncode>None</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Postprandial normoglycaemia: Percent time spent with CGMS derived glucose reading between 4.0-10.0 mmol/l in the 3 hours post-prandial period</outcome>
+      <timepoint />
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postprandial hyperglycaemia: Percent time spent with CGMS derived glucose reading  &gt;/=10.1 mmol/l in 3 hour post-prandial period.</outcome>
+      <timepoint />
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postprandial hypoglycaemia: Percent time spent with CGMS &lt;/=3.9 mmol/l in 3 hour post-prandial period.</outcome>
+      <timepoint />
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postprandial glycaemic variation: 30 minutely Continuous Overlapping Net Glycaemic Action (CONGA) in 3 hour post-prandial period.</outcome>
+      <timepoint />
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Prepubertal children specifically targeted to eliminate potential confounding effects of counter-regulatory hormones of puberty.2. Type 1 diabetes &gt; 1 year duration; active patients of RCH diabetes clinic3. Established use of insulin pump therapy (using short acting analog insulin) for &gt; 3 months4. Insulin pump with incorporated meal bolus calculator device (capable of delivering both single and dual wave boluses)5. HbA1C &lt; 8.6% HbA1C empirically chosen as cut-off for 'acceptable' baseline glycaemic control - corresponds to the mean HbA1C for all paediatric centres participating in the international Hvidore diabetes study group</inclusivecriteria>
+    <inclusiveminage>6</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>12</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Non-English speaking2. Diagnosed eating disorder3. Concomitant dietary restriction (eg food allergy)4. Use of any other medication that may lower blood glucose5. Free of diabetes-related complications (microvascular disease, hypothyroidism, coeliac disease).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/02/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>36</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Children's Hospital, Parkville, Vic 3052.</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Novo Nordisk Regional Diabtes Support Scheme Grant in Aid</fundingname>
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>N/A</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary />
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Ethics Committee at Royal Children's Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Fergus Cameron</name>
+      <address>Department of Endocrinology and Diabetes
+Royal Children's Hospital
+9th Floor
+Main Building
+Parkville VIC 3052</address>
+      <phone>+61 3 93455951</phone>
+      <fax>+61 3 93477763</fax>
+      <email>fergus.cameron@rch.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Michele O'Connell</name>
+      <address>Department of Endocrinology and Diabetes
+Royal Children's Hospital
+9th Floor
+Main Building
+Parkville VIC 3052</address>
+      <phone>+61 3 93455951</phone>
+      <fax>+61 3 93477763</fax>
+      <email>michele.oconnell@rch.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

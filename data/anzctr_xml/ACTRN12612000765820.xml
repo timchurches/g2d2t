@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362608">
+  <stage>Registered</stage>
+  <submitdate>7/06/2012</submitdate>
+  <approvaldate>18/07/2012</approvaldate>
+  <actrnumber>ACTRN12612000765820</actrnumber>
+  <trial_identification>
+    <studytitle>Filter Life In Renal Replacement Therapy</studytitle>
+    <scientifictitle>In critically ill patients with acute kidney injury does continuous renal replacement therapy (CRRT) using a machine controlled citrate protocol compared to a regional heparin protcocol improve safety and extend filter life.</scientifictitle>
+    <utrn>U1111-1131-5352</utrn>
+    <trialacronym>The FLIRRT Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Kidney Injury</healthcondition>
+    <healthcondition>Renal Replacement Therapy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The Gambro Prismaflex CRRT SW 6 supports control of citrate delivery in pre-blood-pump fluid and an algorithm to estimate calcium lost during citrate therapy and utilises this to control the rate of calcium replacement via a syringe driver. Our protocol determines the initial citrate and calicum replacement rates after which the performance of the system is monitored by regularly testing patient and circuit calicum levels with adjustments as required. The control arm is the standard regional heparin protocol (including criteria to escalate to protamine) that is in established use in the Alfred Intensive Care Unit.
+CRRT will continue until the patient no longer requires it (recovery or move to permanent intermittent dialysis). This may result in periods off CRRT to assess adequacy of recovery. They will remain in the treatment arm unless a contra-indication develops or the treating physician withdraws.</interventions>
+    <comparator>Citrate based extracorporeal circuit anticoagulation vs the currently implemented Alfred ICU regional heparin (+/- protamine) circuit anticoagulation protocol.
+Citrate is administered via pre-filtration fluid following a dosing protocol and implemented by software with monitoring of patient and circuit calcium. Heparin is given via a standard infusion pump at a protocol defined rate with APTT monitoring to avoid systemic anticoagulation.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Circuit survival and filter life.</outcome>
+      <timepoint>Electronic logs from CRRT machines are downloaded throughout the study duration and incorporation of data with review of medical charts will be assessed at study completion.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Predefined safety end points:Severe metabolic acidosis / alkalosis, hypo/hypercalcemia (citrate only) severe citrate accumulation, Heparin Induced Thrombocytopenia (HIT), any other reaction to citrate, heparin or protamine. Any other adverse event deemed by the treating physician to be due to the treatment arm.</outcome>
+      <timepoint>During the time the patient is receiving CRRT or any event that precludes further treatment (eg bleeding or new liver failure) in the first 30 days when treatment is paused but be required again.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Treatment Efficacy: Control of uraemia: reduction of urea from baseline to level at Day 3. Time to urea &lt; 25mmol/L. Acheivement and adherence to treatment arm protocol will be assessed by reviewing responses to calcium or APTT measurements that should have triggered alterations according to treatment protocol.</outcome>
+      <timepoint>During the time the patient is receiving CRRT</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Dialysis independence.</outcome>
+      <timepoint>At time of ICU and hospital discharge by review of ICU discharge record and phone follow up by research staff.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>90 days. Assessed by ICU computer database held for all Australian ICU patients and phone follow up by research staff</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Greater than 18 years old
+Diagnosis of acute renal failure with an indication for renal replacement therapy as assessed by one or more of the following criteria:Oliguria (urine output &lt; 100ml in a 6hour period) unresponsive to fluid resuscitation;volume overload, not correctable by diuretics in spite of adequate blood pressure and creatinine &gt; 100umol.L; increase of serum creatinine &gt; 300 umol/L or BUN &gt; 25mmol/L;increase of serum potassium &gt; 6.5 mmol/L due to AKI</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patient weight &lt; 30kg (determined by machine specification)
+
+Inability to enter randomization due to a contraindication to one of the treatment arms:
+
+Indication for systemic anticoagulation with heparin (therapeutic range APTT) or an equivalent therapeutic dose of low molecular weight heparin (note this does not include routine thromboprophylaxis with these agents)
+
+Prior development of HIT
+
+History of anaphylaxis to heparin, protamine or citrate.
+
+Pregnancy, or lactation.
+
+Patients on chronic renal replacement therapy prior to ICU presentation.
+
+Indication for therapeutic hypothermia
+
+Previous participation in the same study
+
+Indication for a filter set other than the AN69 ST100 1m2 set or a specific dialysis prescription differing from the study protocol (as deemed by the treating physician)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is concealed, randomisation is by a computer web based system.</concealment>
+    <sequence>Compter generated random number table</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Delayed Consent approved by ethics review committee.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3 / Phase 4</phase>
+    <anticipatedstartdate>28/03/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr. Matthew Brain</primarysponsorname>
+    <primarysponsoraddress>Dept Intensive Care Research
+Alfred Hospital
+55 Commercial Rd
+Prahran
+VIC 3141</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Alfred Hospital</fundingname>
+      <fundingaddress>55 Commercial Rd
+Prahran
+VIC 3181</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Alfred Hospital Small Project Grant - $10,000</fundingname>
+      <fundingaddress>As Above</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr. Owen Roodenburg</sponsorname>
+      <sponsoraddress>Dept Intensive Care Research
+Alfred Hospital
+55 Commercial Rd
+Prahran
+VIC 3141</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Dialysis is the process of removing fluid and waste products from the blood of patients who have kidney failure. Most people may be familiar with conventional hemodialysis in specialized kidney wards, for patients who have kidney disease and are otherwise well. It is usually performed for around 4 hours, 3 days per week, however these short periods of high intensity dialysis are often not tolerated by the very sick who are better managed with less intense but continuous dialysis. 
+This continuous type of dialysis is called Continuous Renal Replacement Therapy (CRRT) and it is continued in patients in ICU who have kidney failure, until the patients kidneys start to work again or they are well enough to move to intermittent dialysis in a kidney ward. 
+During dialysis, blood from the patient is continuously circulated through a filter in the kidney machine, and waste products are removed. There is always the possibility that the blood may clot as it passes through the filter. Patient stability and carefully controlled fluid removal can be compromised if the kidney machine fails too frequently. The most common reason for failure is blood clotting inside the filter  the more this occurs, the less the patient actually receives treatment, and as each filter costs roughly $400 the treatment becomes increasingly expensive. If blood clotting is prevented inside the filter it can last longer - between 24 and 72 hours. Common methods to stop blood clotting (known as anti-coagulation) include adding heparin or citrate to the circuit in the dialysis machine.
+The primary aim of this study is to compare the filter life using two methods of anticoagulation in CRRT in the Alfred Intensive Care Unit. 
+The first method involves the use of a blood thinner called heparin. Sometimes when higher doses of heparin are required, another drug called protamine that reverses the blood thinning effect is added to the blood in kidney machine circuit. Adding heparin with or without protamine is the method that is currently most used at the Alfred for CRRT. 
+The second method involves the use of citrate fluid in the kidney machine. The citrate binds with calcium and has an anticoagulant effect. Previously, this method proved more labor intensive for the nurses as additional pumps were needed. It tended to be used in special situations e.g. in patients who were allergic to heparin and/or could not receive blood thinners due to a high risk of bleeding. However, recent improvements in the technology of kidney machines have allowed this method to be used much more simply and efficiently. This study has been designed by our doctors at the Alfred Intensive Care Unit to find out if using citrate in the kidney machine is a better and safer way of using CRRT than using heparin in the kidney machine.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred HREC</ethicname>
+      <ethicaddress>Alfred Hospital
+55 Commercial Rd
+Prahran
+VIC 3181</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>1/11/0396</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Mathew Brain</name>
+      <address>Dept ICU Research
+55 Commercial Rd
+Prahran
+VIC 3181</address>
+      <phone>+61 3 90763036</phone>
+      <fax>+61 3 90762343</fax>
+      <email>mbrain@tassie.net.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Shirley Vallance</name>
+      <address>Dept ICU Research
+55 Commercial Rd
+Prahran
+VIC 3181</address>
+      <phone>+61 3 90768034</phone>
+      <fax>+61 3 907682343</fax>
+      <email>s.vallance@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Shirley Vallance</name>
+      <address>Dept ICU Research
+55 Commercial Rd
+Prahran
+VIC 3181</address>
+      <phone>+61 3 90768034</phone>
+      <fax>+61 3 90762343</fax>
+      <email>s.vallance@alfred.org.au</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

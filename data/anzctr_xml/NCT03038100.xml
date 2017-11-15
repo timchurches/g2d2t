@@ -1,0 +1,662 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6293">
+  <stage>Registered</stage>
+  <submitdate>30/01/2017</submitdate>
+  <approvaldate>30/01/2017</approvaldate>
+  <nctid>NCT03038100</nctid>
+  <trial_identification>
+    <studytitle>A Study of Atezolizumab Versus Placebo in Combination With Paclitaxel, Carboplatin, and Bevacizumab in Participants With Newly-Diagnosed Stage III or Stage IV Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</studytitle>
+    <scientifictitle>A Phase III, Multicenter, Randomized, Study of Atezolizumab Versus Placebo Administered in Combination With Paclitaxel, Carboplatin, and Bevacizumab to Patients With Newly-Diagnosed Stage III or Stage IV Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</scientifictitle>
+    <utrn />
+    <trialacronym>IMagyn050</trialacronym>
+    <secondaryid>2016-003472-52</secondaryid>
+    <secondaryid>YO39523</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ovarian Cancer</healthcondition>
+    <healthcondition>Fallopian Tube Cancer</healthcondition>
+    <healthcondition>Peritoneal Neoplasms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Womb (Uterine or endometrial cancer)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Stomach</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Paclitaxel
+Treatment: drugs - Carboplatin
+Treatment: drugs - Atezolizumab
+Treatment: drugs - Bevacizumab
+Treatment: drugs - Atezolizumab Placebo
+
+Experimental: Atezolizumab With Paclitaxel, Carboplatin and Bevacizumab - Participants in the primary tumor-reductive surgery group will receive paclitaxel, carboplatin, atezolizumab intravenous (IV) infusion on Day 1 of each 21-day cycle for a total of 6 cycles, and bevacizumab IV infusion starting with Cycle 2 for a total of 5 cycles, followed by maintenance therapy bevacizumab with atezolizumab for a total of 22 cycles of atezolizumab and 21 cycles of bevacizumab. Participants in the neoadjuvant therapy group will receive paclitaxel, carboplatin and atezolizumab for 6 cycles and bevacizumab for 4 cycles. Interval surgery will occur between cycles 3 and 4. Each cycle is 21 days long. After 6 cycles, participants will start maintenance therapy of bevacizumab and atezolizumab for additional 16 cycles.
+
+Placebo Comparator: Placebo With Paclitaxel, Carboplatin and Bevacizumab - Participants in the primary tumor-reductive surgery group will receive paclitaxel, carboplatin, atezolizumab placebo IV infusion on Day 1 of each 21-day cycle for a total of 6 cycles, and bevacizumab IV infusion starting with Cycle 2 for a total of 5 cycles, followed by maintenance therapy bevacizumab with atezolizumab placebo for a total of 22 cycles of atezolizumab placebo and 21 cycles of bevacizumab. Participants in the neoadjuvant therapy group will receive paclitaxel, carboplatin and placebo for 6 cycles and bevacizumab for 4 cycles. Interval surgery will occur between cycles 3 and 4. Each cycle is 21 days long. After 6 cycles, participants will start maintenance therapy of bevacizumab and placebo for additional 16 cycles.
+
+
+Treatment: drugs: Paclitaxel
+Paclitaxel 175 milligrams per square meter (mg/m^2) IV infusion on Day 1 of each 21-day cycle
+
+Treatment: drugs: Carboplatin
+Carboplatin at a dose to achieve a target area under the curve (AUC) of 6 milligrams per milliliter*minute (mg/mL*min) on Day 1 of each 21-day cycle for a total of 6 cycles
+
+Treatment: drugs: Atezolizumab
+Atezolizumab 1200 mg IV infusion on Day 1 of each 21-day cycle
+
+Treatment: drugs: Bevacizumab
+Bevacizumab 15 milligrams per kilogram (mg/kg) IV infusion as per the schedule specified in respective arms
+
+Treatment: drugs: Atezolizumab Placebo
+Placebo matching to atezolizumab on Day 1 of each 21-day cycle
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-Free Survival (PFS) Assessed by Investigator as Per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) - Intent-to-Treat (ITT) Population</outcome>
+      <timepoint>From randomization until disease progression or death from any cause (up to approximately 55 months)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>PFS Assessed by Investigator as Per RECIST v1.1 - Programmed Death-Ligand 1 (PD-L1)-Positive Subpopulation</outcome>
+      <timepoint>From randomization until disease progression or death from any cause (up to approximately 55 months)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Overall Survival - ITT Population</outcome>
+      <timepoint>From randomization up to death from any cause (up to approximately 60 months)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Overall Survival - PD-L1-Positive Subpopulation</outcome>
+      <timepoint>From randomization up to death from any cause (up to approximately 60 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Objective Response (OR) Assessed by Investigator as Per RECIST v1.1 - Primary Tumor-Reductive Surgery (Having Residual Measurable Disease) Group</outcome>
+      <timepoint>From randomization until disease progression or death from any cause (up to approximately 55 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response Assessed by Investigator as Per RECIST v1.1 - Primary Tumor-Reductive Surgery (Having Residual Measurable Disease) Group</outcome>
+      <timepoint>From the date of first occurrence of a confirmed complete or partial response until disease progression or death from any cause (up to approximately 55 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants who Achieve a Clinically-Meaningful Improvement in Patient-Reported Abdominal Pain or Bloating - Neoadjuvant Group - Clinically-meaningful improvement in patient-reported abdominal pain or bloating will be assessed using European Organisation for Research and Treatment of Cancer Quality-of-Life Questionnaires Ovarian Cancer Module 28 (EORTC QLQ-OV28) Abdominal/Gastrointestinal Symptom Scale (Items 31 and 31).</outcome>
+      <timepoint>From randomization to the end of treatment/discontinuation (up to approximately 70 weeks), and during follow-up period (up to approximately 60 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants who Achieve a Clinically-Meaningful Improvement in Patient-Reported Function and Health Related Quality of Life (HRQoL) - Neoadjuvant Group - Clinically-meaningful improvement in patient-reported function and HRQoL will be assessed using European Organisation for Research and Treatment of Cancer Quality-of-Life Questionnaires Core 30 (EORTC QLQ-C30).</outcome>
+      <timepoint>From randomization to the end of treatment/discontinuation (up to approximately 70 weeks), and during follow-up period (up to approximately 60 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants who Achieve a Clinically-Meaningful Improvement, Remain Stable or Deterioration in Patient-Reported Function and HRQoL - Primary Tumor-Reductive Surgery Group - Clinically-meaningful improvement in patient-reported function and HRQoL will be assessed using EORTC QLQ-C30.</outcome>
+      <timepoint>From randomization to the end of treatment/discontinuation (up to approximately 66 weeks), and during follow-up period (up to approximately 60 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Adverse Events</outcome>
+      <timepoint>From randomization up to 90 days after last dose of study treatment or until initiation of new anti-cancer therapy (up to approximately 82 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Serum Concentration (Cmax) of Atezolizumab - Primary surgery group: Pre-infusion (0 hr), 30 min after EOI (infusion duration=60 min) on Day 1 of Cycles 1 and 3; pre-infusion (0 hr) on Day 1 of Cycles 2, 4, 8, 16 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 66 weeks); &gt;/=90 days after last dose (up to approximately 78 weeks) Neoadjuvant therapy group: Pre-infusion (0 hr), 30 min after EOI (infusion duration=60 min) on Day 1 of Cycles 1 and 3; pre-infusion (0 hr) on Day 1 of Cycles 2, 4 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 70 weeks); &gt;/= 90 days after last dose (up to approximately 82 weeks)</outcome>
+      <timepoint>Pre-infusion (0 hour [hr]), 30 minutes (min) after end of infusion (EOI) on Cycle 1 Day 1(Cycle length=21 days) up to approximately 82 weeks (detailed timeframe is provided in outcome measure description)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimum Serum Concentration (Cmin) of Atezolizumab - Primary surgery group: Pre-infusion (0 hr), 30 min after EOI (infusion duration=60 min) on Day 1 of Cycles 1 and 3; pre-infusion (0 hr) on Day 1 of Cycles 2, 4, 8, 16 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 66 weeks); &gt;/= 90 days after last dose (up to approximately 78 weeks) Neoadjuvant therapy group: Pre-infusion (0 hr), 30 min after EOI (infusion duration=60 min) on Day 1 of Cycles 1 and 3; pre-infusion (0 hr) on Day 1 of Cycles 2, 4 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 70 weeks); &gt;/= 90 days after last dose (up to approximately 82 weeks)</outcome>
+      <timepoint>Pre-infusion (0 hr), 30 min after EOI on Cycle 1 Day 1(Cycle length=21 days) up to approximately 82 weeks (detailed timeframe is provided in outcome measure description)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Anti-Drug Antibodies (ADAs) to Atezolizumab - Primary surgery group: Pre-infusion (0 hr) on Day 1 of Cycles 1, 2, 3, 4, 8, 16 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 66 weeks); &gt;/= 90 days after last dose (up to approximately 78 weeks) Neoadjuvant therapy group: Pre-infusion (0 hr) on Day 1 of Cycles 1, 2, 3, 4 (each cycle=21 days); end of treatment/discontinuation visit (up to approximately 70 weeks); &gt;/= 90 days after last dose (up to approximately 82 weeks)</outcome>
+      <timepoint>Pre-infusion (0 hr) on Cycle 1 Day 1(Cycle length=21 days) up to approximately 82 weeks (detailed timeframe is provided in outcome measure description)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Participants receiving a histologic diagnosis of epithelial ovarian cancer (EOC),
+             peritoneal primary carcinoma, or fallopian tube cancer
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2
+
+          -  Life expectancy greater than (&gt;) 12 weeks
+
+          -  For participants who receive therapeutic anticoagulation: stable anticoagulant regimen
+
+          -  Availability of a representative formalin-fixed, paraffin-embedded (FFPE) tumor
+             specimen in paraffin blocks (preferred) or at least 20 unstained slides (for detailed
+             tissue requirements at screening)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Female</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Received a current diagnosis of borderline epithelial ovarian tumor (formerly tumors
+             of low malignant potential)
+
+          -  Have recurrent invasive epithelial ovarian, fallopian tube, or primary peritoneal
+             cancer that was treated only with surgery (example [e.g.], participants with Stage IA
+             or Stage IB epithelial ovarian or fallopian tube cancers)
+
+          -  Have non-epithelial ovarian tumors (e.g., germ cell tumors, sex cord stromal tumors)
+
+          -  Received prior radiotherapy to any portion of the abdominal cavity or pelvis
+
+          -  Received prior chemotherapy for any abdominal or pelvic tumor that include neoadjuvant
+             chemotherapy (NACT) for ovarian, primary peritoneal or fallopian tube cancer
+
+          -  Received any biological and/or targeted therapy (including but not limited to
+             vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management
+             and/or treatment of epithelial ovarian or peritoneal primary cancer
+
+          -  Have synchronous primary endometrial cancer
+
+          -  Have a prior history of primary endometrial cancer, except: Stage IA cancer;
+             superficial myometrial invasion, without lymphovascular invasion; grade less than (&lt;)
+             3 or poorly differentiated subtypes, and this includes papillary serous, clear cell or
+             other International Federation of Gynecological Oncologists (FIGO) Grade 3 lesions
+
+          -  With the exception of non-melanoma skin cancer and other specific malignancies as
+             noted above, other invasive malignancies with any evidence of other cancers present
+             within the last 5 years or previous cancer treatment that contraindicates this
+             protocol therapy
+
+          -  Have a known hypersensitivity or allergy to biopharmaceutical agents produced in
+             Chinese hamster ovary cells or any component of the atezolizumab and/or bevacizumab
+             formulations
+
+          -  Undergo major surgical procedure within 28 days prior to first bevacizumab dose, or
+             anticipation of the need for a major surgical procedure during the course of the study
+             except participants who receive NACT and will need interval surgery
+
+          -  Have prior allogeneic bone marrow transplantation or solid organ transplant
+
+          -  Have any other diseases, metabolic dysfunction, physical examination finding, or
+             clinical laboratory finding giving reasonable suspicion of a disease or condition that
+             contraindicates the use of an investigational drug or that may affect the
+             interpretation of the results
+
+          -  Have any approved or investigational anti-cancer therapy, including chemotherapy or
+             hormonal therapy, with exceptions: Hormone-replacement therapy or oral contraceptives
+
+          -  Are administered treatment with any other investigational agent or participation in
+             another clinical study with anti-cancer therapeutic intent
+
+          -  Have core biopsy or other minor surgical procedures, that exclude the placement of a
+             vascular access device, within 7 days prior to the first dose of bevacizumab
+
+          -  Have known sensitivity to any component of bevacizumab
+
+          -  Have known sensitivity to any component of paclitaxel</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>8/03/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/07/2025</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>The Royal North Shore Hospital; Northern Sydney Cancer Centre - St Leonards</hospital>
+    <hospital>Cabrini Hospital; Cabrini Foundation - Malvern</hospital>
+    <hospital>Peter MacCallum Cancer Center - Melbourne</hospital>
+    <postcode>2065 - St Leonards</postcode>
+    <postcode>3144 - Malvern</postcode>
+    <postcode>3000 - Melbourne</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbruck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>RS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Chengdu City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Chongqing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Hangzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shanghai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Kuopio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Tampere</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Turku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dijon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Mans</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>St Cloud</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hokkaido</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Iwate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kagoshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kyoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Mie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Miyagi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Niigata</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shizuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Bergen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Malaga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>GOG</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>ENGOT</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a Phase III, global, double-blind, 2-arm randomized study designed to compare the
+      efficacy and safety of atezolizumab + paclitaxel + carboplatin + bevacizumab versus placebo +
+      paclitaxel + carboplatin + bevacizumab. Study participants will have Stage 3 or 4 ovarian
+      cancer (OC), fallopian tube cancer (FTC), or primary peritoneal cancer (PPC) with macroscopic
+      residual disease postoperatively (i.e., after primary tumor reductive surgery) or who will
+      undergo neoadjuvant therapy followed by interval surgery.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT03038100</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Reference Study ID Number: YO39523 www.roche.com/about_roche/roche_worldwide.htm</name>
+      <address />
+      <phone>888-662-6728 (U.S. and Canada)</phone>
+      <fax />
+      <email>global-roche-genentech-trials@gene.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

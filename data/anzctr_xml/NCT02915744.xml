@@ -1,0 +1,521 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6609">
+  <stage>Registered</stage>
+  <submitdate>22/09/2016</submitdate>
+  <approvaldate>22/09/2016</approvaldate>
+  <nctid>NCT02915744</nctid>
+  <trial_identification>
+    <studytitle>A Study of Etirinotecan Pegol (NKTR-102) Versus Treatment of Physician's Choice (TPC) in Patients With Metastatic Breast Cancer Who Have Stable Brain Metastases and Have Been Previously Treated With an Anthracycline, a Taxane, and Capecitabine</studytitle>
+    <scientifictitle>A Phase 3 Open-Label, Randomized, Multicenter Study of NKTR-102 Versus Treatment of Physician's Choice (TPC) in Patients With Metastatic Breast Cancer Who Have Stable Brain Metastases and Have Been Previously Treated With an Anthracycline, a Taxane, and Capecitabine</scientifictitle>
+    <utrn />
+    <trialacronym>ATTAIN</trialacronym>
+    <secondaryid>15-102-14</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Metastasis</healthcondition>
+    <healthcondition>Breast Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - NKTR-102
+Treatment: drugs - Eribulin
+Treatment: drugs - Ixabepilone
+Treatment: drugs - Vinorelbine
+Treatment: drugs - Gemcitabine
+Treatment: drugs - Paclitaxel
+Treatment: drugs - Docetaxel
+Treatment: drugs - Nab-paclitaxel
+
+Experimental: NKTR-102 - In Group A, NKTR-102 will be administered at a dose level of 145 mg/m2 on a q21d schedule as a 90-minute intravenous (IV) infusion on Day 1 of each treatment cycle.
+
+Active Comparator: Treatment of Physician's Choice (TPC) - In Group B, TPC will be administered per standard of care. Patients randomized to TPC will receive single-agent IV chemotherapy, limited to choice of one of the following 7 agents: eribulin, ixabepilone, vinorelbine, gemcitabine, paclitaxel, docetaxel, or nab-paclitaxel.
+
+
+Treatment: drugs: NKTR-102
+
+
+Treatment: drugs: Eribulin
+
+
+Treatment: drugs: Ixabepilone
+
+
+Treatment: drugs: Vinorelbine
+
+
+Treatment: drugs: Gemcitabine
+
+
+Treatment: drugs: Paclitaxel
+
+
+Treatment: drugs: Docetaxel
+
+
+Treatment: drugs: Nab-paclitaxel
+
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) of Patients - To compare Overall Survival (OS) of patients who receive 145 mg/m2 NKTR-102 given once every 21 days (q21d) with OS of patients who receive Treatment of Physician's Choice (TPC). Overall survival is defined as the time from the date of randomization to the date of death from any cause. Patients will be followed until their date of death or until final database closure. Patients who are lost-to-follow-up or are alive at the time of analysis will be censored at the time they were last known to be alive or at the date of event cut-off for OS analysis.</outcome>
+      <timepoint>Within 3 years from study start</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (Outside the Central Nervous System) - Progression-Free Survival (PFS) is defined as the time from the date of randomization to the earliest evidence of documented Progressive Disease (PD) or of death from any cause. The date of global deterioration or symptomatic deterioration will not be used as the date of PD.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival in Brain Metastasis (PFS-BM) - Progression-Free Survival in Brain Metastasis (PFS-BM) is defined as the time from the date of randomization to the earliest evidence of documented Progressive Disease (PD) per Response Assessment in Neuro-OncologyBrain Metastases (RANO-BM) in brain metastases or death from any cause. The PD will also be determined by the investigator's assessments.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (Overall) - Progression-free survival (CNS and peripheral) is defined as the time from the date of randomization to the earliest evidence of documented PD in either the CNS or peripheral (using RANO-BM) or death from any cause. The PD will be determined by both the investigator's and the central imaging facility assessments. The same statistical methods that were used for PFS and PFS-BM will be used for PFS (Overall).</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective Response Rates (ORR) of the NKTR-102 Treatment and the Treatment of Physician's Choice (TPC) - Objective Response Rate (ORR) will be defined as the proportion of patients with a confirmed Complete Response (CR) or Partial Response (PR) (RECIST for lesions outside the Central Nervous System (CNS); RANO-BM for CNS lesions) based upon the best response as assessed by the central imaging facility. As a secondary analysis, ORR will be calculated based on the Investigator assessment of response.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical Benefit Rate (CBR) - Clinical Benefit Rate will be defined as the proportion of patients having a Complete Response (CR), Partial Response (PR), or Stable Disease (SD) for at least 4 months (= 120 days). The SD duration of 4 months is selected to reflect the shorter life expectancy of study population. CBR will be calculated based on both the central imaging facility assessment of response, progression and stability of disease, as well as the investigator's assessment of these parameters.</outcome>
+      <timepoint>For at least 4 months, with an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DoR) - Duration of response (DoR) outside the CNS will be defined as the time from first documented CR or PR until the earliest evidence of disease progression per RECIST v1.1 or death from any cause. DoR will be calculated based on the central imaging facility assessment of response and progression as well as the investigator's assessment of response and progression.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>WBRT - To compare the incidence and cumulative frequency of WBRT after date of randomization by treatment group. The protocol will also compare time-to-WBRT (defined as the date of first whole-brain radiation fraction) in those patients who received WBRT after the date of randomization by treatment group.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compare Health-Related Quality of Life (HRQoL) using the European Organisation for Treatment of Cancer (EORTC) Quality of Life Core 30 (QLQ-C30) module with the brain neoplasms 20-question (BN-20) subscale.</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compare Health-Related Quality of Life (HRQoL) using the the EuroQoL 5D (EQ-5D-5L)</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compare Health-Related Quality of Life (HRQoL) using the Brief Fatigue Inventory (BFI)</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Magnitude of Clinical Benefit - The magnitude of clinical benefit of NKTR-102 will be assessed by the European Society for Medical Oncology magnitude of clinical benefit scale (ESMO-MCBS) (v1.0).</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum observed serum concentration (Cmax) of NKTR-102</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time of maximum observed serum concentration (Tmax) of NKTR-102</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Area Under the serum Concentration time curve in the dosing interval (AUCtau) of NKTR-102</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Half-life of (t1/2) of NKTR-102</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of participants with adverse events as assessed by Common Terminology Criteria for Adverse Events (CTCAE) v4.3</outcome>
+      <timepoint>Through study completion, an expected average of 1 year</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Female or male, age = 18 years.
+
+          -  Histologically-confirmed carcinoma of the breast (either the primary or metastatic
+             lesions) for whom single-agent cytotoxic chemotherapy is indicated. Patients may have
+             either measurable or non-measurable disease according to RECIST version 1.1.
+
+          -  Patients must have a history of brain metastases that are non-progressing.
+
+          -  For triple-negative breast cancer, a minimum of 1 prior cytotoxic chemotherapy regimen
+             must have been administered for the indication of metastatic disease.Depending on
+             receptor status, 1 or 2 prior cytotoxic regimens are required prior to enrollment in
+             this trial; hormonal and/or human epidermal growth factor receptor 2 (HER2) -targeted
+             agents may be required.
+
+          -  Have had prior therapy (administered in the neoadjuvant, adjuvant, and/or metastatic
+             setting) with an anthracycline, a taxane, and capecitabine (prior anthracycline can be
+             omitted if not medically appropriate or contraindicated for the patient).
+
+          -  Last dose of anticancer therapy must have been administered within 6 months of the
+             date of randomization into this study.
+
+          -  All anticancer- and radiation therapy-related toxicities must be completely resolved
+             or downgraded to Grade 1 or less (neuropathy may be Grade 2 or less).
+
+          -  Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.
+
+          -  Demonstrate adequate organ function obtained within 14 days prior to randomization and
+             analyzed by the central laboratory.
+
+          -  Women of childbearing potential (WCBP) must agree to use highly effective methods of
+             birth control throughout the duration of the study until 6 months following the last
+             dose of study drug.
+
+          -  Males with female partners of child-bearing potential must agree to use a barrier
+             contraception (e.g., condom with spermicidal foam/gel/film/cream/suppository)
+             throughout the duration of the study until 6 months following the last dose of study
+             drug; in addition to their female partner using either an intrauterine device or
+             hormonal contraception and continuing until 6 months following the last dose of study
+             drug. Male patients should not donate sperm until 6 months following the last dose of
+             study drug.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Last dose of anticancer therapy (including HER2-targeted therapy) within 14 days prior
+             to randomization.
+
+          -  High-dose chemotherapy followed by stem cell transplantation (autologous or
+             allogeneic).
+
+          -  Major surgery within 28 days prior to randomization.
+
+          -  Concomitant use of any anticancer therapy or use of any investigational agent(s).
+
+          -  Received prior treatment for cancer with a camptothecin-derived agent.
+
+          -  Lesions on imaging, by cerebrospinal fluid or with neurological findings that are
+             consistent with leptomeningeal disease or meningeal carcinomatosis.
+
+          -  Chronic or acute GI disorders resulting in diarrhea of any severity grade.
+
+          -  Patients who are pregnant or lactating, plan to get pregnant, or have a positive serum
+             pregnancy test prior to randomization.
+
+          -  Enzyme-inducing anti-epileptic drugs (EIAEDs) within 14 days of randomization.
+
+          -  Hepatitis B or C, tuberculosis, or HIV.
+
+          -  Cirrhosis.
+
+          -  Prior malignancy (other than breast cancer) unless diagnosed and definitively treated
+             more than 5 years prior to randomization.
+
+          -  Daily use of oxygen supplementation.
+
+          -  Significant known cardiovascular impairment.
+
+          -  Prior treatment with NKTR-102.
+
+          -  Psychiatric illness, social situation, or geographical situation that preclude
+             informed consent or limit compliance.
+
+          -  Known intolerance or hypersensitivity to any of the products used in this study or
+             their excipients.
+
+          -  For patients selecting vinorelbine or gemcitabine as the TPC agent, patients may not
+             receive yellow fever vaccine in the 28 days prior to randomization.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>350</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/02/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,WA</recruitmentstate>
+    <hospital>Investigatory Site - Albury - Albury</hospital>
+    <hospital>Investigator Site - Darlinghurst - Darlinghurst</hospital>
+    <hospital>Investigator Site - Wollongong - Wollongong</hospital>
+    <hospital>Investigator Site - Subiaco - Subiaco</hospital>
+    <hospital>Investigator Site - Nedlands - Nedlands</hospital>
+    <postcode>2640 - Albury</postcode>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2500 - Wollongong</postcode>
+    <postcode>6008 - Subiaco</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Charleroi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Edegem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Sint-Niklaas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Mans</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nîmes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rennes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint-Cloud</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Be'er Ya'aqov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beersheba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Gipuzkoa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Granollers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Jaén</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santa Cruz de Tenerife</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bradford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Nektar Therapeutics</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is an open-label, randomized, active comparator, multicenter, international Phase 3
+      study of NKTR-102 versus TPC in patients with metastatic breast cancer who have stable brain
+      metastases and have been previously treated with an anthracycline, a taxane, and capecitabine
+      in either the adjuvant or metastatic setting (prior anthracycline may be omitted if medically
+      appropriate or contraindicated for the patient).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02915744</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nektar Recruitment</name>
+      <address />
+      <phone>855-482-8676</phone>
+      <fax />
+      <email>StudyInquiry@nektar.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

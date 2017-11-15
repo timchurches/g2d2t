@@ -1,0 +1,301 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373571">
+  <stage>Registered</stage>
+  <submitdate>31/08/2017</submitdate>
+  <approvaldate>6/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001278325p</actrnumber>
+  <trial_identification>
+    <studytitle>A study designed to test a new oxygen delivery device (NHFO2) in patients with long term respiratory disease who require home oxygen.</studytitle>
+    <scientifictitle>A study designed to test the ability of a novel oxygen delivery system (NHFO2) to autotitrate the delivered inspired oxygen concentration (FiO2) to a target arterial oxygen saturation (SpO2) in participants with chronic respiratory disease on long term oxygen therapy (LTOT).</scientifictitle>
+    <utrn>U1111-1201-0146</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic obstructive pulmonary disease (COPD)</healthcondition>
+    <healthcondition>Interstitial lung disease</healthcondition>
+    <healthcondition>Bronchiectasis</healthcondition>
+    <healthcondition>Any other doctor diagnosed chronic respiratory condition with requirement for long term oxygen therapy (LTOT)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Chronic obstructive pulmonary disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This study assesses the performance of a novel oxygen delivery device called a nasal high flow oxygen titration device (NHFO2). This is a newly developed device which delivers heated, humidified high flow oxygen via nasal cannulae at an FiO2 which is automatically titrated to a set patient target SpO2. 
+
+The device will be applied by a medically qualified trial doctor or allocated trained technician to patients with chronic respiratory disease on LTOT who have been shown to desaturate to 85-90% without oxygen at rest.
+
+At each visit the device will be applied to a participant for a maximum of 3 hours. 
+
+There will be a 10 minute period of monitoring with the participant on their normal LTOT at rest. LTOT will then be removed and NHFO2 will be applied when their SpO2 falls below 90%. The device will initially be set to 35L/min flow and 21% FiO2 at a temperature of 37C. 
+
+The FiO2 and flow rate will initially be ramped manually up and down, with a period of monitoring at each increment. FiO2 will be ramped up and down in increments of 5% up to a maximum of 41% and a minimum of 21%. There will be 6 minutes of monitoring at each increment. 
+
+After FiO2 ramping, the FiO2 will be set to maintain the participant's SpO2 between 92 and 96%. Flow will then be ramped up and down in increments of 10L/min up to a maximum of 55L/min and a minimum of 15L/min. There will be 6 minutes of monitoring at each flow increment.
+
+The device will then be removed to allow a period of desaturation. The device will then be re-applied when the participant's SpO2 falls to below 90%, set at 21% FiO2 and 35L/min. The device will then be allowed to autotitrate the FiO2 to a target SpO2 of 92-96% both at rest and while asking participants to nose breathe, mouth breathe, talk and undertake a 6 minute walk test (6MWT). 
+
+There will initially be a 10 minute period of monitoring at rest once SpO2 is within target range of 92-96%. The tasks of nose breathing, mouth breathing and talking will then last for 2 minutes each, with a rest period of 5 minutes after each task. There will be a 10 minute period of monitoring at rest before the 6MWT and a 6 minute period of monitoring at rest after the 6MWT.
+
+SpO2 will be monitored using a pulse oximeter associated with the NHFO2 device. This will capture data for the primary outcome variable. A SenTec device will also be used, which will capture SpO2, PtCO2 and heart rate. This data will be used for the secondary outcome variables.
+
+If the participant's SpO2 falls to &lt;85% or PtCO2 rises by &gt;10mmHg above baseline at any time, that phase of the study will be aborted and the device will be set to the last FiO2 and flow at which SpO2 and PtCO2 were within acceptable range.
+
+Participant adherence will not specifically be monitored as an investigator will be with the participant at all times. Any phase of the visit can be terminated due to participant discomfort related to the device settings.
+
+After the first visit, each participant will be invited back for up to 5 further visits. It will be at the participant's discretion how many further visits they wish to attend. They may choose to not attend any further visits or they may choose to attend further visits, up to a maximum of 5 further visits. There will be a period of 1 to 2 weeks between visit. At each subsequent visit, some or all of the phases will be repeated depending on the device's performance. This will be determined by the investigator and the sponsor prior to each visit.
+
+The first visit will last approximately 4 hours with each subsequent visit lasting approximately 3 hours.
+
+The sponsor will have the opportunity to optimize the feedback algorithm between visits.</interventions>
+    <comparator>This is an initial study to test the performance of the device hence there is no control group.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The percentage of total time spent within the participant's SpO2 within target range of 92 to 96% while using NHFO2 in autotitration mode. The SpO2 will be measured by the pulse oximeter associated with the NHFO2 device. Time in autotitration mode will be measured by a study investigator using a stopwatch.</outcome>
+      <timepoint>End of each visit - approximately 3 hours</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>SpO2: minimum, maximum, mean, % time spent &lt;92% and &gt;96% during each FiO2 increment of the FiO2 manual ramp phase. Measured by pulse oximeter associated with NHFO2.</outcome>
+      <timepoint>End of each 6 minute interval for each FiO2 increment
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PtCO2: minimum, maximum, mean during each FiO2 increment of the FiO2 manual ramp phase. Measured by SenTec device.
+Measured at all visits where this phase is carried out.</outcome>
+      <timepoint>End of each 6 minute interval for each FiO2 increment.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heart rate: minimum, maximum, mean during each FiO2 increment of the FiO2 manual ramp phase. Measured by SenTec device.</outcome>
+      <timepoint>End of each 6 minute interval for each FiO2 increment
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>SpO2: minimum, maximum, mean, % time spent &lt;92% and &gt;96% during each flow increment of the flow manual ramp phase. Measured by pulse oximeter associated with NHFO2.</outcome>
+      <timepoint>End of each 6 minute interval for each flow increment.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PtCO2: minimum, maximum, mean during each flow increment of the flow manual ramp phase. Measured by SenTec device.</outcome>
+      <timepoint>End of each 6 minute interval for each flow increment
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heart rate: minimum, maximum, mean during each flow increment of the flow manual ramp phase. Measured by SenTec device.</outcome>
+      <timepoint>End of each 6 minute interval for each flow increment.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The percentage of time spent within the SpO2 target range of 92 to 96% while using NHFO2 with autotitration at rest, during 6 minute walk test (6MWT), nose breathing, mouth breathing and talking. Measured by pulse oximeter associated with NHFO2.</outcome>
+      <timepoint>End of autotitration at rest phase, end of 6MWT, end of nose breathing with autotitration, mouth breathing with autotitration and talking with autotitration phases respectively.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>SpO2: minimum, maximum, mean, % time spent &lt;92% and &gt;96% at rest, during 6MWT, nose breathing, mouth breathing and talking while using NHFO2 with autotitration. Measured by pulse oximeter associated with NHFO2.</outcome>
+      <timepoint>End of autotitration at rest phase, end of 6MWT, end of nose breathing with autotitration, mouth breathing with autotitration and talking with autotitration phases respectively.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Estimated FiO2:  minimum, maximum, mean estimated FiO2, and percentage of time &gt;21% at rest, during 6MWT, nose breathing, mouth breathing and talking while using NHFO2 with autotitration. Measured by NHFO2.</outcome>
+      <timepoint>End of autotitration at rest phase, end of 6MWT, end of nose breathing with autotitration, mouth breathing with autotitration and talking with autotitration phases respectively.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heart rate: minimum, maximum and mean at rest, during 6MWT, nose breathing, mouth breathing and talking while using NHFO2 with autotitration and during manual ramp phase. Measured by SenTec device.</outcome>
+      <timepoint>End of autotitration at rest phase, end of 6MWT, end of nose breathing with autotitration, mouth breathing with autotitration and talking with autotitration phases respectively.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PtCO2: minimum, maximum and mean at rest, during 6MWT, nose breathing, mouth breathing and talking while using NHFO2 with autotitration. Measured by SenTec device.</outcome>
+      <timepoint>End of autotitration at rest phase, end of 6MWT, end of nose breathing with autotitration, mouth breathing with autotitration and talking with autotitration phases respectively.
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>6MWT distance achieved. Measured by investigator as meters achieved after 6 minutes or when participant is unable to walk further.</outcome>
+      <timepoint>End of 6MWT
+Measured at all visits where this phase is carried out.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1) Adults over the age of 18 with a doctors diagnosis of a chronic respiratory disease, such as COPD, bronchiectasis or interstitial lung disease, who are prescribed long term oxygen therapy (LTOT). 
+2) Participant's SpO2 85-90% without oxygen. 
+3) Participant's respiratory condition must have been stable with no exacerbations within the last 4 weeks</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1) Age &lt;18
+2) Any other condition which, at the investigators discretion, is believed may present a safety risk or impact the feasibility of the study or the study results.
+3) Diagnosis of a notifiable disease
+4) The presence of an implantable Medical Device
+5) Inability to tolerate an interruption in oxygen therapy
+6) Requirement for more than 4L/min LTOT at rest
+7) Unstable angina or myocardial infarction within the previous month
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Not applicable</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>As this is a study designed to optimise the feedback algorithm for a medical device, no power calculation has been undertaken for statistical significance.
+
+For the primary outcome variable, the proportion of total time spent with a SpO2 92-96% while using NHFO2 in autotitration mode, will be calculated and expressed along with 95% confidence intervals. 
+
+For secondary outcome variables, minimum, maximum and mean values will be calculated using data output from the NHFO2 device and the SenTec device.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/03/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>19/05/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Fisher and Paykel Healthcare Limited</primarysponsorname>
+    <primarysponsoraddress>15 Maurice Paykel Place, East Tamaki, Auckland, New Zealand. Auckland 2013.</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Fisher and Paykel Healthcare Limited</fundingname>
+      <fundingaddress>15 Maurice Paykel Place, East Tamaki, Auckland, New Zealand. Auckland 2013.</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patients with chronic respiratory disorders who are hypoxic at rest may have limited exercise capacity due to critical oxygen desaturation on exertion. Patients who desaturate during exercise have an increased risk of mortality. Delivering fixed concentrations of oxygen via nasal high flow (NHF) therapy during exercise has already been shown to improve exercise time in COPD. However, a preferable method of oxygen delivery would involve titration of varying concentrations of oxygen to achieve an optimal SpO2 range which would have the advantages not only of increased safety, but also improved exercise capacity.
+
+The nasal high flow oxygen titration device (NHFO2) is a novel device which is able to automatically titrate the amount of oxygen delivered to achieve a target oxygen saturation via a closed feedback loop mechanism.
+
+This is a study designed to test and optimize the algorithm used by NHFO2 for automatic oxygen titration.
+
+Patients who are normally on LTOT and who desaturate to 85-90% off oxygen will be using NHFO2 both at rest and during a 6MWT. This will provide an appropriate level of desaturation to test the autotitration algorithm of NHFO2.
+
+NHFO2 will be used both in manual and autotitration mode to gain as much feedback about device performance as possible.
+
+Data regarding participant SpO2, PtCO2, heart rate and FiO2 delivered will be collected and analysed. Participants will be invited back for up to a total of six sessions. The sponsor will have the opportunity to optimize the device algorithm between visits based upon the data collected.
+
+Further trials assessing the efficacy of the device are planned once the autotitration feedback algorithm has been shown to be effective.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname />
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>14/09/2017</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Irene Braithwaite</name>
+      <address>Medical Research Institute of New Zealand
+Level 7, Clinical Services Building, 
+Wellington Regional Hospital, 
+Newtown, Wellington 6021
+New Zealand
+</address>
+      <phone>+64 4 8050245</phone>
+      <fax />
+      <email>irene.braithwaite@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Harper</name>
+      <address>Medical Research Institute of New Zealand
+Level 7, Clinical Services Building, 
+Wellington Regional Hospital, 
+Newtown, Wellington 6021
+New Zealand</address>
+      <phone>+64 4 8050232</phone>
+      <fax />
+      <email>james.harper@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Harper</name>
+      <address>Medical Research Institute of New Zealand
+Level 7, Clinical Services Building, 
+Wellington Regional Hospital, 
+Newtown, Wellington 6021
+New Zealand</address>
+      <phone>+64 4 8050232</phone>
+      <fax />
+      <email>james.harper@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Harper</name>
+      <address>Medical Research Institute of New Zealand
+Level 7, Clinical Services Building, 
+Wellington Regional Hospital, 
+Newtown, Wellington
+New Zealand</address>
+      <phone>+64 4 8050232</phone>
+      <fax />
+      <email>james.harper@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

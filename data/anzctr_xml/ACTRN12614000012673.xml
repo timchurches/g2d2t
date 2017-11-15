@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364899">
+  <stage>Registered</stage>
+  <submitdate>6/09/2013</submitdate>
+  <approvaldate>6/01/2014</approvaldate>
+  <actrnumber>ACTRN12614000012673</actrnumber>
+  <trial_identification>
+    <studytitle>Are Healthcare interventions Exacerbating Alzheimer's Disease? (AHEAD study)</studytitle>
+    <scientifictitle>The AHEAD study - Do patients with mild cognitive impairment (MCI) or dementia who undergo healthcare interventions including surgery and anaesthesia, suffer cognitive decline of an increased frequency or severity when compared to a comparable diagnostic group who do not undergo such interventions.</scientifictitle>
+    <utrn />
+    <trialacronym>AHEAD</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Alzheimer's Disease</healthcondition>
+    <healthcondition>Dementia</healthcondition>
+    <healthcondition>Mild Cogntive Impairment (MCI)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Dementias</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Observational study of persons with MCI or mild dementia who are undergoing healthcare interventions requiring surgery and anaesthesia. Study will follow up participants for two years following surgery.</interventions>
+    <comparator>Persons with MCI or mild dementia who are not undergoing any healthcare interventions. Follow up will be completed with patients for two years.</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Cognitive decline, as measured by neuropsychological tests including:
+
+- Mini Mental State Examination (MMSE)
+- Alzheimer's Disease Assessment Scale (ADAS-Cog)
+- Controlled Oral Word Assocation Test (COWAT)
+- Trail Making Test A and B
+- Semantic word fluency
+- Digit Symbol Substitution Test (DSST)
+- Grooved Pegboard (dominant &amp; non dominant hands)</outcome>
+      <timepoint>Baseline, 7 days, 3, 12 and 24 months following surgery or enrolment in study (for controls).</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>functional decline as measured by questionnaires including:
+
+- Clinical Dementia Rating (CDR)
+- Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)
+- AD Cooperative Study (ADCS) Activities of Daily Living Inventory
+- Quality of Life Short Form 12
+- ADCS - Clinician's Global Impression of Change</outcome>
+      <timepoint>Baseline, 7 days, 3, 12 and 24 months following surgery or enrolment in study (for controls).</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Identify whether patient risk factors, including cardiovascular, Apo-E genotype, postoperative delirium and Post Operative Cognitive Dysfunction (POCD) are associated with longer term deterioration.
+Postoperative delirium will be measured using the Confusion Assessment Method (CAM) and POCD will be classified using the Reliable Change Index (RCI).</outcome>
+      <timepoint>Baseline, day 3 and 7, 3, 12 and 24 months postoperatively</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patients aged &gt;=60 years
+2. Mild Cognitive Impairement (MCI) or very-mild to mild dementia (CDR global 0.5 - 1.0) 
+3. Able to provide written informed consent
+4. Live within a reasonable distance of St Vincent's Hospital (for home neuropsychological assessments)
+5. No contraindication to neuropsychological testing (eg. language, significant depression, deaf or blind)</inclusivecriteria>
+    <inclusiveminage>60</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Pre-existing neurological or clinically evident neurovascular disease (eg. stroke)
+2. Severe dementia (CDR&gt;=2)
+3. Dementia known to be due to causes other than AD.
+4. Non-english speaker; deafness, blindness
+5. Medical co-morbidity that may lead to complications and loss to follow-up</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The hypothesis will be tested using Generalised Linear Modelling (GLM) with Clinical Dementia Rating - Sum of Boxes (CDR-SB) at 2 years as the primary outcome. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>23/12/2013</anticipatedstartdate>
+    <actualstartdate>20/12/2013</actualstartdate>
+    <anticipatedenddate>20/12/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>252</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <postcode>3065 - Fitzroy</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>St Vincent's Hospital</primarysponsorname>
+    <primarysponsoraddress>PO Box 2900 
+Fitzroy VIC 3065</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to investigate if, following anaesthesia-related healthcare interventions, individuals with Mild Cognitive Impairment (MCI) or dementia will suffer cognitive decline at an increased frequency or severity, when compared with a comparable group who do not undergo such interventions.
+Participants will complete cognitive and memory testing at five time points - once prior to surgery, then 7 days, 3, 12 and 24 months following surgery. Participants in the control group who are not having surgery will complete tests at comparable time points. </summary>
+    <trialwebsite>http://www.cognition.org.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Vincent's Hospital HREC-A</ethicname>
+      <ethicaddress>PO Box 2900
+Fitzroy VIC 3065</ethicaddress>
+      <ethicapprovaldate>16/09/2013</ethicapprovaldate>
+      <hrec>087/13</hrec>
+      <ethicsubmitdate>7/08/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>David Scott</name>
+      <address>St Vincent's Hospital
+PO Box 2900 
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9288 4253</phone>
+      <fax />
+      <email>David.SCOTT@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sarah Maher</name>
+      <address>St Vincent's Hospital
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9288 2072</phone>
+      <fax />
+      <email>Sarah.MAHER@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lisbeth Evered</name>
+      <address>St Vincent's Hospital
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9288 2251</phone>
+      <fax />
+      <email>Lis.EVERED@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

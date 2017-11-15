@@ -1,0 +1,182 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83276">
+  <stage>Registered</stage>
+  <submitdate>16/10/2008</submitdate>
+  <approvaldate>17/12/2008</approvaldate>
+  <actrnumber>ACTRN12608000639325</actrnumber>
+  <trial_identification>
+    <studytitle>Multicentre clinical study with early treatment intensification in patients with high-risk Hodgkin Lymphoma, identified as 18-F Fluorodeoxyglucose Positron Emission Tomography (FDG-PET) scan positive after two conventional Doxorubicin, Bleomycin, Vinblastine, Dacarbazine (ABVD) courses</studytitle>
+    <scientifictitle>This study  evaluates the 3-year progression free survival (PFS) by using Positron Emission Tomography (PET)-adapted chemotherapy in advanced Hodgkin Lymphoma</scientifictitle>
+    <utrn />
+    <trialacronym>HD0607</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hodgkin Lymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood</conditioncode1>
+      <conditioncode2>Haematological diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>All participants receive the initial therapy that consists in 2 courses of Doxorubicin (25 mg/m2 intravenous (iv) days 1,15), Bleomycin (10,000 units/m2 iv days 1,15), Vinblastine (6 mg/m2 iv days 1,15), Dacarbazine (375 mg/m2 iv days 1,15) (ABVD). After this two cycles (cycle repeats every 28 days) a early PET will be performed. If PET is positive the participants will be randomized to 4 (cycles repeat every 21 days) escalated Bleomycin (10 mg/m2/endovenous (ev)/day,  day 8), Etoposide (200 mg/m2/ev/day, days 1-3), Doxorubicin  (35 mg/m2/ev/day, day 1), Cyclophosphamide (1250 mg/m2/ev/day, day 1), Vincristine (1,4 mg/m2/ev/day, day 8), Procarbazine (100 mg/m2/b.m./day, days 1-7), Prednisone (40 mg/m2/b.m./day, days 1-14),(BEACOPPesc) or escalated Bleomycin (10 mg/m2/ev/day, day 8), Etoposide (200 mg/m2/ev/day, days 1-3), Doxorubicin  (35 mg/m2/ev/day, day 1), Cyclophosphamide (1250 mg/m2/ev/day, day 1), Vincristine (1,4 mg/m2/ev/day, day 8), Procarbazine (100 mg/m2/b.m./day, days 1-7), Prednisone (40 mg/m2/b.m./die 1°-14°), Rituximab (375 mg/m2/ev/day, day 1) (R-BEACOPPesc). After participants will be received another PET.</interventions>
+    <comparator>After two conventional courses of Doxorubicin, Bleomycin, Vinblastine, Dacarbazine (ABVD) patients who have a negative Positron Emission Tomography (PET) scan will be treated with  other 4 courses of Doxorubicin (25 mg/m2 iv days 1,15), Bleomycin (10,000 units/m2 iv days 1,15), Vinblastine (6 mg/m2 iv days 1,15), Dacarbazine (375 mg/m2 iv days 1,15) (ABVD) Cycles repeat every 28 days. After participants will be received another PET.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>3-year progression free survival (PFS) evaluated with a follow-up Case Report Form (CRF) each 6 months for 3 years</outcome>
+      <timepoint>every 6 months for 3 years.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>3-year event free survival (EFS) of all the registered patients whatever the treatment assigned. Events are deaths from any cause, disease progression, secondary cancer, late serious treatment-related events.
+- Feasibility of the program for the entire population of advanced-stage Hodgkin Lymphoma patients admitted to Gruppo Italiano Terapia Innovativa nei Linfomi (GITIL) institutions evaluated with a follow-up Case Report Form (CRF) each 6 months for 3 years</outcome>
+      <timepoint>every 6 months for 3 years.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Patients with advanced classical Hodgkin Lymphoma according to the World Health Organization classification
+-Aged 18-60
+-Not previously treated
+-Stages IIB to IV B 
+-All International Prognostic Score (IPS) prognostic groups
+-Patients who have signed an informed consent form</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-Patients aged more than 60.
+-Concomitant or previously treated neoplastic disorder less than 5 year before the diagnosis of Hodgkins lymphoma.
+-Psychiatric disorders
+-Uncontrolled infectious disease
+-Impaired cardiac (Ejection Fraction (EF) &lt; 50%) , renal (creatinine clearance &lt; 60 ml/m)
+-Human Immunodeficiency Virus (HIV) Hepatitis B Virus  Deoxyribonucleic Acid(HBV DNA), Hepatitis C Virus Ribonucleic Acid (HCV RNA) positive markers
+-Pregnancy and lactation     
+-Patients with uncompensated diabetes mellitus and fasting glucose levels over 200 mg/dl</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>central randomisation by computer</concealment>
+    <sequence>Stratified allocation. Factors such as centre, age gender or previous treatment are used for the stratification.
+Simple randomisation by using a randomisation table created by a computer software (i.e., computerised sequence generation)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>24/06/2008</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>450</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Gruppo Italiano Terapie Innovative nei Linfomi (GITIL)</primarysponsorname>
+    <primarysponsoraddress>Via Schiaparelli, 23
+12100 Cuneo</primarysponsoraddress>
+    <primarysponsorcountry>Italy</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Gruppo Italiano Terapia Innovativa nei Linfomi</fundingname>
+      <fundingaddress>Via Schiaparelli, 23
+12100 Cuneo</fundingaddress>
+      <fundingcountry>Italy</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In the present study, after two courses of standard Doxorubicin Bleomycin Vinblastine Dacarbazine (ABVD) treatment patients will be evaluated for chemosensitivity by Positron Emission Tomography (PET): patients with a positive scan will be addressed to a more aggressive therapy with either escalated Bleomycin Etoposide Doxorubicin Cyclophosphamide Vincristine Procarbazine Prednisone (BEACOPP) or escalated Rituximab-Bleomycin Etoposide Doxorubicin Cyclophosphamide Vincristine Procarbazine Prednisone (R-BEACOPP); patients with a negative scan will continue the standard therapy.</summary>
+    <trialwebsite>https://heart.negrisud.it/HD/</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comitato Etico Interaziendale dell'ASO Sante Croce e Carle di Cuneo</ethicname>
+      <ethicaddress>Via M. Zovetto, 18
+12100 Cuneo</ethicaddress>
+      <ethicapprovaldate>16/05/2008</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Italy</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Mariangela Saggese</name>
+      <address>Via Nazionale 8/A
+66030 Santa Maria Imbaro (Chieti)</address>
+      <phone>0039-0872/570322</phone>
+      <fax>0039-0872/570206</fax>
+      <email>saggese@negrisud.it , hd0607@negrisud.it</email>
+      <country>Italy</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Mariangela Saggese</name>
+      <address>Via Nazionale 8/A
+66030 Santa Maria Imbaro (Chieti)</address>
+      <phone>0039-0872/570322</phone>
+      <fax>0039-0872/570206</fax>
+      <email>saggese@negrisud.it</email>
+      <country>Italy</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Mariangela Saggese</name>
+      <address>Via Nazionale 8/A
+66030 Santa Maria Imbaro (Chieti)</address>
+      <phone>0039-0872/570322</phone>
+      <fax>0039-0872/570206</fax>
+      <email>saggese@negrisud.it , hd0607@negrisud.it</email>
+      <country>Italy</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

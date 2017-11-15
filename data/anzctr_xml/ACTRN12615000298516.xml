@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368179">
+  <stage>Registered</stage>
+  <submitdate>13/03/2015</submitdate>
+  <approvaldate>31/03/2015</approvaldate>
+  <actrnumber>ACTRN12615000298516</actrnumber>
+  <trial_identification>
+    <studytitle>The implementation of "Goals of Patient Care" medical treatment orders in residential aged care facilities</studytitle>
+    <scientifictitle>The effect of Goals of Patient Care medical treatment orders on residents', in residential aged care facilities, emergency department reviews and admissions six months post intervention</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Advance Care Planning for frail older aged care residents</healthcondition>
+    <healthcondition>Palliation for frail older aged care residents</healthcondition>
+    <conditioncode>
+      <conditioncode1>Other</conditioncode1>
+      <conditioncode2>Research that is not of generic health relevance and not applicable to specific health categories listed above</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The residential aged care facility Goals of Patient Care form is a medical treatment order based on the patients
+advance care plan or wishes. This serves as a communication tool for staff in the aged care facility, visiting doctors
+(regular or locum GPs), ambulance staff and emergency department staff. The form helps guide medical decisions
+made on behalf of the resident in both planned and emergency situations.</interventions>
+    <comparator>Usual care which may or may not include an advance care plan</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The effect of the Goals of Patient Care medical treatment orders on Emergency Department reviews and admissions.
+The event rate will be the number of emergency department reviews or admissions per number of facility beds over a six month period. This will be compared 6 months pre and post the intervention. It will be calculated by both recording these reviews and admissions at the facility and checking the local hospital records.</outcome>
+      <timepoint>The primary timepoint will be the difference between six months pre and six months post the intervention.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The effect of the Goals of Patient Care medical treatment orders on Emergency Department reviews and admissions.
+The event rate will be the number of emergency department reviews or admissions per number of facility beds over both a 3 and 12 month period. This will be compared with 3 and 12 months pre and post the intervention respectively. It will be calculated by both recording at the facility and check the local hospital records.</outcome>
+      <timepoint>At three and twelve months post the intervention compared with three and twelve months pre the intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall acute healthcare utilisation including outpatient reviews and lenghts of stay and associated costs per hospital review and stay. This will be calculated from health records at the facility and local hospitals.</outcome>
+      <timepoint>6 and 12 months post intervention compared with 6 and 12 months pre intervention respectively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in communication of residents' healthcare wishes which will be recorded from qualatative analysis of focus groups and individual interviews</outcome>
+      <timepoint>6 and 12 months post intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in how easy or difficult it is to make healthcare decisions on behalf of residents which will be recorded from qualatative analysis of focus groups and individual interviews</outcome>
+      <timepoint>6 and 12 months post intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in levels of conflict between RACF staff, visiting healthcare professionals, residents and families which will be recorded from qualatative analysis of focus groups and individual interviews</outcome>
+      <timepoint>6 and 12 months post intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria is all residents in the involved residential aged care facilities</inclusivecriteria>
+    <inclusiveminage>55</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Residents for whom consent cannot be obtained from either themselves or their Person Responsible</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Invitation to local residential aged care facilities be email.
+Follow up meeting with management to explain project.
+Aim for at least 8 residential aged care facilities to sign consent to take part.
+Cluster pairs based on baseline characteristics of facility and their previous 6 month even rate ( with the event rate being ED review or admission/6 months/number of residents
+Facilities will be blinded to the random allocation prior to agreeing to participate. Residents will then be invited individually to fill written informed consent to partake.
+Allocation is not concealed.</concealment>
+    <sequence>Randomisation will be undertaken using the add-in random allocation program ‘ralloc’ available in Stata version 12.1 (StataCorp LP, Texas, USA).  </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Qualitative data analysis
+1   A focus group/interview schedule will be used and moderated by the principal researcher and an associate researcher trained in qualitative method
+2   Focus groups and interviews will be audio recorded and transcribed verbatim.
+3   Focus groups will be repeated until saturation of themes has been reached, it is anticipated that saturation will be achieved by three focus groups
+4   The transcribed focus group and individual interviews will be analysed thematically, using open and axial coding
+Quantitative data analysis
+1   Descriptive statistics will be used to compare healthcare utilisation rates and other secondary outcomes between the intervention and the control arms at three, six and twelve months
+2   Multi-level Poisson regression models will be established to account for the intra-class correlation within each RACF when assessing the primary outcome of health care utilisation rates.
+3   Chi-square and appropriate parametric and non-parametric continuous data statistical tests will be used to evaluate the effectiveness of the intervention for the secondary outcomes
+4   Descriptive statistics will also be presented at baseline to illustrate the consistency of health care utilisation between the intervention and control arms
+
+On calculation for INDIVIDUAL randomisation for this study, n = 157 persons per period for each arm given a significance of 0.05 and 80% power. 
+For CLUSTER randomisation the calculation is then made with a given an anticipated event rate of 0.5 (emergency reviews or admissions/6months/facility bed) from prior studies, in control and 0.3 in intervention facilities and assumed intra-cluster correlation (p), from prior community studies, which is a combination of within cluster variance, of 0.01 the estimated number of clusters required per intervention and control strata is 3.5. On testing feasibility of 3 clusters, it was found to be feasible if the number of clusters (k) was greater than n (157) x p (0.011). We intend to start with 3 cluster pairs and test interim statistical analysis at 6 months and add a 4th cluster pair if required to gain statistical significance.
+In 3 pairs of facilities we expect to have 400 residents.
+
+
+
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>4/05/2015</anticipatedstartdate>
+    <actualstartdate>2/07/2015</actualstartdate>
+    <anticipatedenddate>29/10/2015</anticipatedenddate>
+    <actualenddate>29/10/2015</actualenddate>
+    <samplesize>400</samplesize>
+    <actualsamplesize>333</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/12/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Northern Hospital - Epping</hospital>
+    <postcode>3076 - Epping</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Northern Health</primarysponsorname>
+    <primarysponsoraddress>The Northen Hospital, 185 Cooper Street, Epping, VIC 3076</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Northern Health Foundation</fundingname>
+      <fundingaddress>The Northern Health Foundation, 185 Cooper Street, Epping, VIC 3076</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Residents in aged care facilities are often the frailest in our society. They regularly have issues with cognition which can hinder their decision making capacity and which deteriorates over time. Residents or substitute medical decision-makers (Persons Responsible) often complete advance care plans to help inform future medical decisions in case of clinical deterioration.
+The residential aged care facility Goals of Patient Care form is a medical treatment order based on the patients advance care plan or wishes. This serves as a communication tool for staff in the aged care facility, visiting doctors (regular or locum GPs), ambulance staff and emergency department staff. The form helps guide healthcare decisions made on behalf of the resident in both planned and emergency situations. The form is filled in with the resident, or substitute medical decision maker, if the patient is unable due to presence of dementia. Residents GPs will be invited to be involved in the process also.
+We intend to implement the form in 3-4 pairs of residential aged care facilities. In each pair will be one facility using the intervention and one not using it. We will compare outcomes in both the intervention facilities (using the medical treatment order) and the control facilities (not using the medical treatment order). This comparison will look at residents usage of hospital services, including emergency reviews, emergency admissions, length of stay and outpatient reviews, to see the effect Goals of Patient Care has on these.
+We will also gather baseline characteristics on all residents involved including their previous 12 month hospital usage. We will investigate the uptake of the Goals of Patient Care form, ability of the residents to make healthcare decisions, presence of dementia without diagnosis in the residents, and death and place of death of residents. Our qualitative outcomes will include improvements in communication, ease of medical decision making and effect on conflict.
+We will gather data up to 12 months after the implementation of the form. We will survey the healthcare workers prior to implementation, and organise focus groups and brief interviews to investigate our qualitative outcomes with the healthcare providers involved at 6 and 12 months.
+</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Northern Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>The Northern Hospital, 185 Cooper Street, Epping, VIC 3076</ethicaddress>
+      <ethicapprovaldate>29/05/2015</ethicapprovaldate>
+      <hrec>HREC/15/NH/6</hrec>
+      <ethicsubmitdate>23/03/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ruth Martin</name>
+      <address>Clinical Services Medicine, The Northern Hospital, 185 Cooper Street, Epping, VIC 3076, Australia</address>
+      <phone>+61 3  84052463</phone>
+      <fax />
+      <email>ruth.martin@nh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ruth Martin</name>
+      <address>Clinical Services Medicine, The Northern Hospital, 185 Cooper Street, Epping, VIC 3076, Australia</address>
+      <phone>+61 3  84052463</phone>
+      <fax />
+      <email>ruth.martin@nh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Ruth Martin</name>
+      <address>Clinical Services Medicine, The Northern Hospital, 185 Cooper Street, Epping, VIC 3076, Australia</address>
+      <phone>+61 3 84052463</phone>
+      <fax />
+      <email>ruth.martin@nh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ruth Martin</name>
+      <address>Clinical Services Medicine, The Northern Hospital, 185 Cooper Street, Epping, VIC 3076, Australia</address>
+      <phone>+61 3 84052463</phone>
+      <fax />
+      <email>ruth.martin@nh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

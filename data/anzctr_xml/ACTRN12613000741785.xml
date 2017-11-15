@@ -1,0 +1,222 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364343">
+  <stage>Registered</stage>
+  <submitdate>7/06/2013</submitdate>
+  <approvaldate>3/07/2013</approvaldate>
+  <actrnumber>ACTRN12613000741785</actrnumber>
+  <trial_identification>
+    <studytitle>An unblinded, randomised, controlled trial to assess patient care and outcomes of standard outpatient care and telephone consultation.   
+</studytitle>
+    <scientifictitle>An unblinded, randomised, controlled trial to assess the care given to patients, who have been referred to a nephrologist, and, assess the outcomes of standard outpatient care and telephone consultation care group.   
+</scientifictitle>
+    <utrn>U1111-1143-6974</utrn>
+    <trialacronym>TOOT</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>People who have been referred to a Nephrologist and ongoing care</healthcondition>
+    <healthcondition>kidney disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Upon referral to a nephrologist at the Sunshine Coast Hospital and Health Service (SCHHS), an appointment will be made with the GP and the consultation with nephrologist will occur over the telephone. The appointment will be arranged between the nephrologist and the GP at a mutually convenient time.
+The telephone consultation will take approximatley 15 mins.
+The intervention and follow up period will be two years.</interventions>
+    <comparator>Upon referral to a nephrologist at SCHHS, an appointment will be made at the Renal Outpatient Department at Nambour General Hospital and the patient will come to have consultation with a nephrologist or the junior doctor assisting the nephrologist.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Feasibility of Recruitment. This will be assessed on the number of patients recruited (up to 60) before 36 months time frame. Study Coordinator will keep a diary of recruitment barriers and or issues for discussion at 3 monthly trial progress meetings. </outcome>
+      <timepoint>36 Months after recruitment first commences</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient and GP satisfaction for standard and telemedicine clinics. Questionnaires will be issued to patients and GP's after each visit
+</outcome>
+      <timepoint>Baseline, 6 month, 12 month 18 month and 24 month timepoints</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient travel time for standard and telemedicine clinics. Recording where and how (ie: car, bus, taxi) patient travelled from and to at each visit timepoint.
+</outcome>
+      <timepoint>Baseline, 6 month, 12 month 18 month and 24 month timepoints</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient's clinical progress. Assessed by blood and urine test results and examination of blood pressure. </outcome>
+      <timepoint>Base line, 6 month, 12 month, 18month and 24 month time points</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Consultation time for standard and telemedicine clinics, time will be recorded at commencement and completion of each visit
+</outcome>
+      <timepoint>Base line, 6 month, 12 month, 18month and 24 month time points</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Patient referred to the SCHHS renal service and triaged (as per triage guidelines) as category 2 or 3
+2.	Age &gt;18
+3.	Patient able to give informed consent
+4.	GP gives informed consent
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Patient or GP declines consent for the study
+2.	Specialist or GP decision on clinical grounds that standard care would be more appropriate 
+3.	Interpreter required
+4.	Severe cognitive impairment
+5.	Pregnant 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Following receipt of initial referral and triage, patients deemed suitable for the study will be identified by a consultant nephrologist.  Investigations required prior to initial consultation will be requested as per current standard practice.  Both the patient and referring GP will receive information and consent forms to participate in the study.  Provided both consent to the study, the patient will be randomised 1:1 to standard care or telemedicine care. Allocation is concealed by use of central randomisation by computer generation. An appointment date and time will be made.  The telemedicine appointment will involve the patient attending the GP surgery with the GP in attendance during the consultation.  This will facilitate 3 way transfer of information between the GP, patient, and specialist on the telephone.  A letter will be sent by the specialist to the GP following the initial consultation (standard care and telemedicine care).
+
+A survey will be sent for the GP and patient to complete following the initial appointment.  Follow-up appointments will be made as necessary (either ongoing standard care or telemedicine clinic).  
+</concealment>
+    <sequence>computer block adaptive design</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>To ascertain differences between the two groups at baseline, demographic, comorbidity, and physiological data will be analysed using mean (standard deviation) or median (interquartile range) where appropriate.  Differences in satisfaction will be examined in the same way.
+Serial data including pathological and physiological, will be analysed using a linear and correlated regression model.
+Time to event data (eg time from triage to appointment) will be analysed using a Cox type regression model.
+For all analyses, the level of significance will be set at P &lt; 0.05.
+Data will be analysed using STATATM version 12.0.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>8/07/2013</anticipatedstartdate>
+    <actualstartdate>11/09/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>27/01/2015</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>13</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Nambour General Hospital - Nambour</hospital>
+    <postcode>4560 - Nambour</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Nambour General Hospital</primarysponsorname>
+    <primarysponsoraddress>Hospital Road
+Nambour 
+Queensland
+4560</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Wish List Foundation</fundingname>
+      <fundingaddress>Po Box 2610
+Nambour West
+QLD
+4560</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>nil </sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This project is to assess the feasibility of comparing the current standard care of a patient referred to the Sunshine Coast Hospital and Health Service-renal services, with a novel approach where the referred patient has a telephone consultation with the specialist while with his/her GP. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Prince Charles Hospital, Metro North Hospital and Health Service Human Research Ethics Committee (HREC)</ethicname>
+      <ethicaddress>Research and Governance Unit
+Lower ground, Administration building
+The Prince Charles Hospital
+Rode Road
+Chermside
+Queensland
+4032</ethicaddress>
+      <ethicapprovaldate>20/05/2013</ethicapprovaldate>
+      <hrec>HREC/13/QPCH/90</hrec>
+      <ethicsubmitdate>21/03/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Nicholas Gray</name>
+      <address>Renal Out-Patient Department
+Nambour General Hospital
+PO BOx 547
+Nambour 4560</address>
+      <phone>+61 7 5470 6504</phone>
+      <fax>+61 7 5470 6129</fax>
+      <email>Nicholas_Gray@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Andrea Pollock</name>
+      <address>Renal Out-Patient Department
+Nambour General Hospital
+PO BOx 547
+Nambour 4560</address>
+      <phone>+61 7 5370 3514</phone>
+      <fax>+61 7 5470 6129</fax>
+      <email>Andrea_Pollock@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Nicholas Gray</name>
+      <address>Renal Out-Patient Department
+Nambour General Hospital
+PO BOx 547
+Nambour 4560</address>
+      <phone>+61 7 5470 6504</phone>
+      <fax>+61 7 5470 6129</fax>
+      <email>Nicholas_Gray@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365796">
+  <stage>Registered</stage>
+  <submitdate>28/02/2014</submitdate>
+  <approvaldate>26/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000324617</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised controlled trial for the effect of symptom feedback on help-seeking for mental health issues.</studytitle>
+    <scientifictitle>A randomised controlled trial for the effect of symptom feedback on help-seeking for mental health issues in the general public.</scientifictitle>
+    <utrn>U1111-1153-3028 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Help-seeking</healthcondition>
+    <healthcondition>Mental health issues</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants from a larger validation study of mental health screening questionnaires will also be able to opt in to a low-intensity randomised controlled trial providing feedback about their symptoms. In the trial, participants will get feedback about their symptoms (intervention condition) or general feedback about symptoms in the population (control condition). This feedback will be for either depression symptoms, adult ADHD, or social phobia, depending on which screener is presented in the larger validation study. The feedback will be provided to the participants in the intervention online on a single screen. Prior to the feedback, participants will complete a brief set of questions on quality of life and service use. Following the feedback, participants will  then complete another brief survey 3 months later. Respondents who choose to participate in the trial will only be identifiable through their provision of an email address.  </interventions>
+    <comparator>Active control: participants in the control condition will receive general feedback about symptoms in the population.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Help-seeking behaviour (AHSQ: Actual Help-Seeking Questionnaire).</outcome>
+      <timepoint>3 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Help-seeking intentions (GHSQ: General Help-Seeking Questionnaire).</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All participants who opt-in for participation by providing their email address. These participants will be from a larger national validation study of mental health screening questionnaires. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>No exclusion criteria </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be able to opt-in for participation in the study after completing a large survey of mental health screening questionnaires. Allocation will be concealed by central randomisation by computer.</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (within limesurvey).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>In the Australian general population 11.9% of people seek help for a mental disorder in a 12-month period. However, 20% meet criteria for a disorder and substantially more have mental health problems. The feedback intervention aims to reduce the service gap by 30%, i.e., increase overall helpseeking from 11.9% to 15.5%. To find such a difference with 85% power, we will require 3372 participants (1686 in each condition across the three disorders of interest). The study will also have 90% power to find small differences (d &gt; 0.10) in help seeking intentions between intervention and control groups overall, and to find small differences (d &gt; 0.17) between intervention and control groups within the three disorders of interest.
+
+Binary mixed effects repeated measures models will be used to analyse the help seeking outcomes, following an intention to treat approach under the missing at random assumption.
+
+Burgess, P. M., Pirkis, J. E., Slade, T. N., Johnston, A. K., Meadows, G. N., &amp; Gunn, J. M. (2009). Service use for mental health problems: findings from the 2007 National Survey of Mental Health and Wellbeing. Australian and New Zealand Journal of Psychiatry, 43(7), 615-623.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>16/06/2014</anticipatedstartdate>
+    <actualstartdate>1/08/2014</actualstartdate>
+    <anticipatedenddate>24/04/2015</anticipatedenddate>
+    <actualenddate>19/12/2014</actualenddate>
+    <samplesize>3372</samplesize>
+    <actualsamplesize>2773</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The Centre for Mental Health Research, The Australian National University</primarysponsorname>
+    <primarysponsoraddress>Building 63
+Mills Road
+Acton ACT 0200</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>National Drug and Alcohol Research Centre at the University of New South Wales</sponsorname>
+      <sponsoraddress>NDARC
+University of New South Wales
+Sydney NSW 2052, Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to examine whether feedback regarding mental health symptoms encourages increased help-seeking or service use.
+
+The research group will be initially running a national survey of an estimated 105,000 people. The survey will contain screening questionnaires for common mental health issues. At the end of this survey, participants will be asked whether they would like to be included in a randomised controlled trial (RCT). If yes, participants will be asked to provide their email addresses only. The national survey (already completed by participants) will serve as baseline data. They will then be randomised into one of two conditions: 'Feedback' or 'No Feedback' (control condition). Those who are randomised into the 'Feedback' condition will immediately be provided with feedback regarding their mental health symptomology, based on screening results . All RCT participants will then be assessed in a post-intervention survey, 3 months after the initial survey regarding their help-seeking or service use for mental health problems, quality of life, disability (days out of role) and mental health symptoms.</summary>
+    <trialwebsite>http://cmhr.anu.edu.au/research/projects</trialwebsite>
+    <publication>Batterham PJ, Calear AL, Sunderland M, Carragher N, Brewer J. (In press). Online screening and feedback to increase help seeking for mental health problems: Population-based randomised controlled trial. British Journal of Psychiatry Open. Accepted 15/12/2015.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>ANU Science &amp; Medical Delegated Ethics Review Committee</ethicname>
+      <ethicaddress>The Australian National University
+Acton ACT 2601</ethicaddress>
+      <ethicapprovaldate>27/09/2013</ethicapprovaldate>
+      <hrec>2013/509</hrec>
+      <ethicsubmitdate>23/08/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Philip Batterham</name>
+      <address>The Centre for Mental Health Research
+The Australian National University
+Building 63
+Mills Road
+ACTON ACT 0200</address>
+      <phone>+61 2 6125 1031</phone>
+      <fax />
+      <email>Philip.Batterham@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Brewer</name>
+      <address>The Centre for Mental Health Research
+The Australian National University
+Building 63
+Mills Road
+ACTON ACT 0200</address>
+      <phone>+61 2 6125 7122</phone>
+      <fax />
+      <email>Jacqui.Brewer@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Philip Batterham</name>
+      <address>The Centre for Mental Health Research
+The Australian National University
+Building 63
+Mills Road
+ACTON ACT 0200</address>
+      <phone>+61 2 6125 1031</phone>
+      <fax />
+      <email>Philip.Batterham@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Brewer</name>
+      <address>The Centre for Mental Health Research
+The Australian National University
+Building 63
+Mills Road
+ACTON ACT 0200</address>
+      <phone>+61 2 6125 7122</phone>
+      <fax />
+      <email>Jacqui.Brewer@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

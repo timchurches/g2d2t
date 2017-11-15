@@ -1,0 +1,229 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371226">
+  <stage>Registered</stage>
+  <submitdate>2/08/2016</submitdate>
+  <approvaldate>4/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001031459</actrnumber>
+  <trial_identification>
+    <studytitle>PROxIMO: Efficacy of proactive therapeutic drug monitoring and dose adjustment of infliximab based on point of care testing for inflammatory bowel disease</studytitle>
+    <scientifictitle>PROxIMO: Efficacy of proactive therapeutic drug monitoring and dose adjustment of infliximab based on point of care testing for inflammatory bowel disease</scientifictitle>
+    <utrn />
+    <trialacronym>PROxIMO</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ulcerative Colitis</healthcondition>
+    <healthcondition>Crohn's Disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Crohn's disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Inflammatory bowel disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention will be prospective adjustments of infliximab dosing based on infliximab blood levels tested using a new point of care (POC) test, Quantum Blue Infliximab Assay, manufactured by Buhlmann Laboratories and approved for use in the European Union.
+Patients currently receive infliximab therapy on a 6- or 8-weekly schedule; POC testing and dose adjustments will occur 6-8 weekly according to this schedule. The intervention period will be 12 months from the commencement of the intervention.
+All eligible patients will have undergone infliximab induction, and will now be on maintenance infliximab therapy; starting dose of infliximab for this study will be the patients current prescribed dose.
+All patients receiving infliximab infusions at this institution have established peripheral access lines, and it is routine practice for blood samples to be taken before each infusion to test biochemistry, FBE and infliximab levels via ELISA assay. Patients will have an additional 10ml of blood taken from this line, at the same time as other blood tests, by the clinic nurse, which will be applied to the POC test, which produces a result within 60 minutes.
+No adherence monitoring strategies are in place.
+
+The dosing algorithm used to prospectively adjust infliximab doses is as follows:
+
+Infliximab trough concentration and dose adjustments:
+If 0-0.9ug/ml then increase by 3mg/kg
+If 1-1.9ug/ml then increase by 2mg/kg
+If 2-2.9ug/ml then increase by 1mg/kg
+If 3-7ug/ml - therapeutic range, no action
+If 7.1-9ug/ml then decrease by 1mg/kg
+If &gt;9ug/ml then decrease by 2mg/kg</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The percentage of patients that obtain a therapeutic (3-7ug/mL) infliximab trough concentration using an individualised mg/kg weight based dose adjustment according to an algorithm directed by a novel POC infliximab trough assay</outcome>
+      <timepoint>Infliximab trough levels will be assessed every 6-8 weeks based on the patient's infliximab dosing schedule, for 12 months post commencement of the intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in quality of life (QOL) measurement using the validated Inflammatory Bowel Disease Questionnaire (IBDQ)</outcome>
+      <timepoint>Baseline, six, and 12-months post commencement of the intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients remaining in remission (ie no active disease), measured by fecal calprotectin testing</outcome>
+      <timepoint>6 and 12 months post-commencement of the intervention
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Routine care involves testing blood for infliximab levels using the ELISA assay method before every infusion (ie 6-8 weekly depending on patient's infliximab scheduling). Blood for POC testing will be taken at the same time as for the ELISA assay, before every infusion 6-8 weekly. 
+All POC test results will be compared against ELISA assay results, and concordance between the two assessed. </outcome>
+      <timepoint>Every 6-8 weeks depending on patient's infliximab schedule, for 12-months post commencement of the intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The length of time patient's infliximab blood concentration levels remain within the therapeutic range of 3-7ug/ml, assessed by POC testing every 6-8 weeks for 6-months post commencement of the intervention</outcome>
+      <timepoint>Every 6-8 weeks (depending on patient's infliximab schedule) for 12 months post commencement of the intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adults over 18 years.
+Diagnosis of moderate to severe Crohn's disease or Ulcerative Colitis
+Currently receiving maintenance infliximab therapy (ie have commenced infliximab therapy at least 14 weeks prior to recruitment)
+Receiving their infliximab therapy and disease monitoring through Alfred Health</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable or unwilling to provide informed consent
+Patients with detectable anti-drug antibodies (ADAs) and undetectable trough levels
+Pregnant or breastfeeding women</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>No control group</concealment>
+    <sequence>No control group</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Descriptive analysis will be conducted and continuous variables will be evaluated using students t-test or Mann-Whitney U test, as appropriate. Categorical data will be analysed using chi-square test or fishers exact test for proportions, as appropriate. A multivariate analysis will be required to adjust for potential confounders and stratification analysed according to disease type (UC or CD).
+There are currently 120 patients on maintenance infliximab therapy at this institution. We will aim to recruit 80 of these patients over a 18-month period and follow-up for up to 12 months following recruitment. As a pilot study, a power calculation is not required.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate />
+    <actualstartdate>12/07/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>3004 - Prahran </postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Alfred Health Pharmacy Department</primarysponsorname>
+    <primarysponsoraddress>55 Commercial Road
+Melbourne Victoria 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Alfred Hospital Pharmacy Department</fundingname>
+      <fundingaddress>55 Commercial Road
+Melbourne Victoria 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Buhlmann Laboratories AG</fundingname>
+      <fundingaddress>Baselstr. 55
+CH-4124 Schonenbuch</fundingaddress>
+      <fundingcountry>Switzerland</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patients with inflammatory bowel disease (IBD) are prescribed medications used to treat inflammation. Infliximab is an effective intravenous therapy that is used in the treatment of Crohns disease and ulcerative colitis. 
+Conventionally, infliximab is given as an infusion every 8 weeks. The dose of infliximab is calculated according to weight and may differ between patients. Despite initially responding to infliximab, some patients will lose response over time, such that the drug no longer continues to work as well as it once did. Studies have demonstrated that patients on a maintenance treatment are more likely to continue to show positive responses to infliximab therapy when the blood level of infliximab, measured just prior to the next scheduled infusion (referred to as a trough level), is within an optimal range (referred to as therapeutic range).
+Infliximab levels are measured from a blood sample. In the past we measured infliximab levels only occasionally. This is partly because the results took time to be processed and were not available on the same day. 
+In this project a blood test will be taken to measure the infliximab level every time patients are due for your infliximab infusion. The test to be used is able to measure the drug level within an hour at the point of care. We will then be able to modify the infliximab dose immediately, in small increments, according to the infliximab level with the aim of ensuring that infliximab levels remain within the ideal therapeutic range. 
+The infliximab blood test and dose modification, if needed, will occur at each visit for the duration of the study (for 12 months, or 6-7 infusions). At each visit, 10mL (about 2 teaspoons) of blood will be taken from your peripheral access line to measure the level of infliximab in your blood along with other blood tests normally conducted when you have your infusion. The information from the blood tests will be used by the researchers to adjust the infliximab dose and to validate the dosing guide.
+Participants will be asked to provide faecal samples to measure faecal calprotectin, a protein that is secreted in the intestine of patients with inflammation of the gastrointestinal tract (this is a test we currently perform periodically; during this study we will do this test at the second visit and at the end of the study). Participants will be asked to complete a brief survey that assesses quality of life at the beginning and the end of the study, and to answer some short questions about their Crohns disease or ulcerative colitis</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Human Research Ethics Committee</ethicname>
+      <ethicaddress>55 Commercial Road
+Melbourne Victoria 3004</ethicaddress>
+      <ethicapprovaldate>16/03/2016</ethicapprovaldate>
+      <hrec>53/16</hrec>
+      <ethicsubmitdate>3/02/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Dooley</name>
+      <address>Pharmacy Department
+Alfred Hospital
+55 Commercial Road
+Melbourne 3004 Victoria</address>
+      <phone>+61390762061</phone>
+      <fax />
+      <email>m.dooley@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Clarissa Rentsch</name>
+      <address>Pharmacy Department
+Alfred Hospital
+55 Commercial Road
+Melbourne 3004 Victoria</address>
+      <phone>+61390762061</phone>
+      <fax />
+      <email>c.rentsch@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Clarissa Rentsch</name>
+      <address>Pharmacy Department
+Alfred Hospital
+55 Commercial Road
+Melbourne 3004 Victoria</address>
+      <phone>+61390732061</phone>
+      <fax />
+      <email>c.rentsch@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

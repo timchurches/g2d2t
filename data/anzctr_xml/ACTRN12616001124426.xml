@@ -1,0 +1,189 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371302">
+  <stage>Registered</stage>
+  <submitdate>15/08/2016</submitdate>
+  <approvaldate>18/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001124426p</actrnumber>
+  <trial_identification>
+    <studytitle>Effectiveness of treating of early childhood dental decay using minimally invasive Atraumatic Restorative Treatment-based approach</studytitle>
+    <scientifictitle>Minimum Intervention DentistryAtraumatic Restorative Treatment-based (ART-based) Approach to Manage Early Childhood Caries</scientifictitle>
+    <utrn>U1111-1186-4674</utrn>
+    <trialacronym>GA_ART</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>dental decay</healthcondition>
+    <healthcondition>early childhood dental decay</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Children with early childhood dental decay (&lt;72 months age) on a wait list for treatment under general anaesthesia at the Oral Health Centre of Western Australia (OHCWA) will be randomised into standard care (oral rehabilitation under general anaesthesia) or test care (minimally invasive dental treatment using the Atraumatic Restorative Treatment approach). Children in the test group will be treated by dental therapists with at least 5 years post-graduate experience, using the ART-based approach, using hand instruments to remove dental decay and restoring of the prepared cavity with glass-ionomer cement or stainless steel crowns using the Hall technique. The procedure will take approximately 30 minutes for each appointment for treatment and will be undertaken in school dental service dental clinics. Test group children will also be provided with preventive care including fluoride varnish on the remaining at risk tooth surfaces and fissure sealing of at risk chewing tooth surfaces at baseline during the 30 minute appointments, and at each recall checkups. Six monthly dental checkups will be instituted as part of the oral care program to monitor changes in oral health status and further appointments made to affect preventive care and repair of restorations as needed for 12 months post enrolment. The type of treatments provided and attendance at appointments will be reviewed based on clinical notes. </interventions>
+    <comparator>Children in the control group will be managed for the dental conditions by oral rehabilitation under general anaesthesia (including restorations of decayed teeth and any other care as determined by the treating clinicians and reviewed as per the prevailing protocols within OHCWA. The treatments will be undertaken at a public hospital by staff specialist paediatric dentists or trainee paediatric dentists at OHCWA. The time for treatment under general anaesthesia will vary depending on the extent of treatment required and may range between 0.5-1.0 hrs.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Surgery</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of children with ECC successfully managed in each arm of the trial by reviewing case notes to determine the number of children re-referred for specialist paediatric dental care under general anaesthesia.</outcome>
+      <timepoint>12 months post-treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>changes in oral health related quality of life using the Early Childhood Oral Health Impact Scale</outcome>
+      <timepoint>immediately post-treatment and at 12 months post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>dental decay increment using the International Caries Detection and Assessment System (ICDAS) by examiners blind to group allocation status.</outcome>
+      <timepoint>12 months post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>incidence of dental infections will be determined through parent report of attendance for dental infections out of scheduled review appointments and review of clinical case notes.</outcome>
+      <timepoint>12 months post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>changes in child dental anxiety will be determined through parental report of child dental anxiety using the FacesModified Child Dental Anxiety Scale.</outcome>
+      <timepoint>immediate post treatment and 12 months post treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>children younger than 72 months of age with early childhood dental decay and recommended for oral rehabilitation under general anaesthesia.</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>72</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>children with medical or developmental conditions requiring specialist treatment under general anaesthesia. Children with acute dental infections requiring urgent dental care. Children unable to attend metropolitan Perth school dental service clinics for appointments.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>participants will return consent and questionnaire to a centrally located project coordinator who will allocate using random permuted block into test or control</concealment>
+    <sequence>computer-generated block randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>blinding of participants and clinicians into treatment groups will not be possible. Post treatment clinical assessment will be undertaken by examiners blind to group allocation status of participants.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size estimation is based on detecting a 33% change in the childhood oral health quality of life. A recently completed study in WA found COHRQoL using the ECOHIS of children with ECC in a primary care setting to be 11.1 (SD 8.2). The baseline COHRQoL of children on GA list was estimated at 15; 33% poorer COHRQoL than children with ECC in primary care settings. To detect a 33% difference in COHRQoL at 90 percent power and alpha at 0.05 would require a sample size of 65. Allowing for a 33% loss to follow-up at 12 months increased the estimated required sample size to 100 in each arm of the trial. This sample size would also have sufficient power (0.9) to demonstrate the non-inferiority of treatment outcomes between two arms of the study if the test arm was at most 20% less successful than the control (assuming 95% successfully treated in control).
+Data will be anlaysed on intention to treat and per protocol basis using parametric and non-parametric tests as appropriate. Descriptive statistics will be presented and baseline variables will be compared between groups to test for fairness with respect to the randomisation. Grouped outcome measures will be compared between groups using chi-square statistics, and mean scores will be tested using paired (within group) and unpaired (between groups) parametric and non-parametric tests. Multivariate analysis will use linear regression for continuous variables and Poisson regression (negative binomial regression for over-dispersed data) for count variables to control for possible inter-group imbalances. Multiple imputations will be undertaken to manage missing data. Responsiveness of the COHRQoL scale will be determined by calculation of effect sizes for the scale overall and specific domains. Statistical significance will be set at alpha 0.05.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/10/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/11/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Dental Health Services</primarysponsorname>
+    <primarysponsoraddress>Locked Bag 15, Bentley Delivery Centre, 6093
+Western Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Telethon–Perth Children's Hospital Research Fund</fundingname>
+      <fundingaddress> Department of Health, Clinical Services and Research, PO Box 8172 Perth Business Centre, Western Australia, 6849</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Dental Health Services</fundingname>
+      <fundingaddress>Locked Bag 15, Bentley Delivery Centre, 6093
+Western Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Western Australia, Oral Health Centre of Western Australia</sponsorname>
+      <sponsoraddress>17 Monash Avenue
+Nedlands, Perth
+Western Australia 6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of the study is to examine whether young children with early childhood dental decay who are scheduled for treatment under general anaesthesia can be successfully managed in primary care settings by the use of a minimally invasive Atraumatic Restorative Treatment-based approach.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Princess Margaret Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Roberts Road, Subiaco, Western Australia, 6008.
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>peter arrow</name>
+      <address>Dental Health Services, Locked Bag 15, Bentley Delivery Centre, 6983, Western Australia</address>
+      <phone>+61 8 93130600</phone>
+      <fax>+61 8 93131302</fax>
+      <email>parrow@ozemail.com.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>peter arrow</name>
+      <address>Dental Health Services, Locked Bag 15, Bentley Delivery Centre, 6983, Western Australia</address>
+      <phone>+61 8 93130600</phone>
+      <fax>+61 8 93131302</fax>
+      <email>parrow@ozemail.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>peter arrow</name>
+      <address>Dental Health Services, Locked Bag 15, Bentley Delivery Centre, 6983, Western Australia</address>
+      <phone>+61 8 93130600</phone>
+      <fax>+61 8 93131302</fax>
+      <email>parrow@ozemail.com.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

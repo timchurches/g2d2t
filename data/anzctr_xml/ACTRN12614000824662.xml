@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366783">
+  <stage>Registered</stage>
+  <submitdate>24/07/2014</submitdate>
+  <approvaldate>4/08/2014</approvaldate>
+  <actrnumber>ACTRN12614000824662</actrnumber>
+  <trial_identification>
+    <studytitle>Fluid treatment for severe infections in children</studytitle>
+    <scientifictitle>Fluid resuscitation for severe paediatric sepsis: what are the effects on stroke volume, IVC collapsability, and lung ultrasound score?</scientifictitle>
+    <utrn>U1111-1159-6761 </utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>septic shock</healthcondition>
+    <healthcondition>fluid resuscitation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Transthoracic echocardiogram to measure stroke volume pre and post fluid bolus administration. Additional measurements: IVC collapsability, extra-vascular lung water estimation on lung ultrasound, and clinical signs (heart rate, blood pressure, respiratory rate, saturations, respiratory effort, conscious state) pre and post fluid bolus administration.</interventions>
+    <comparator>Observational study with no control group.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in stroke volume assessed using transthoracic echocardiogram following fluid bolus administration (both effect size and duration).</outcome>
+      <timepoint>5 minutes after fluid bolus administration and 60 minutes after fluid bolus administration</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The ability of IVC collapsability using abdominal ultrasound to predict fluid responsiveness in spontanously ventilating children.</outcome>
+      <timepoint>Prior to fluid bolus administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in lung ultrasound score following fluid bolus administration</outcome>
+      <timepoint>5 minutes and 60 minutes following fluid bolus administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in vital signs following fluid bolus administration (heart rate measured by 3-lead ECG monitor, blood pressure by non-invasive automated oscillometric cuff, respiratory rate by direct observation, capillary refill by video-recording and blinded assessment, respiratory effort by video-recording and blinded assessment, conscious state by Glasgow Coma Score).</outcome>
+      <timepoint>5 minutes and 60 minutes following fluid bolus administration</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Suspected infection (hyperthermia or hypothermia), cardiovascular compromise (tachycardia and abnormal capillary refill time or hypotension), and a clinical decision to administer a standardised fluid bolus (20ml/kg 0.9% saline).</inclusivecriteria>
+    <inclusiveminage>1</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Underlying structural cardiac disease, English as a second language in whom true informed consent cannot be obtained, those whose goals of therapy are non-curative.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Descriptive statistics for primary outcome measure.  Results will be stratified according to volume of fluid administered (nil, 20ml/kg, 40ml/kg, &gt;40ml/kg) to determine if there is attenuation in response with larger cumulative volumes of fluid administered. Percentage change in stroke volume will be plotted over time and median duration of effect calculated. Secondary outcomes- IVC collapsibility index prior to fluid bolus administration will be calculated and compared with the percentage change in stroke volume following fluid bolus therapy. Lung ultrasound score will be compared pre and post fluid bolus administration, and compared to respiratory outcome at 24 hours. Change in vital signs following fluid bolus administration will be calculated. Pearson correlation co-efficient will be used to determine the correlation between total volume of bolus fluid administered and change in vital signs (heart rate, blood pressure, and capillary refill) and change in respiratory status (respiratory rate, respiratory effort, and lung ultrasound score) before and after fluid bolus administration. Pearson correlation co-efficient will also be used to determine the correlation between median change in stroke volume and change in vital signs (heart rate, blood pressure, and capillary refill) and change in respiratory status (respiratory rate, respiratory effort, and lung ultrasound score) before and after fluid bolus administration. To detect a 10% change in stroke volume (estimated standard deviation of 20%) with a power of 80% and a type 1 error rate of 0.05, by using a 2-sided t-test, we calculated that 48 patients would be required. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/02/2014</anticipatedstartdate>
+    <actualstartdate>6/02/2014</actualstartdate>
+    <anticipatedenddate>2/02/2017</anticipatedenddate>
+    <actualenddate>10/02/2017</actualenddate>
+    <samplesize>50</samplesize>
+    <actualsamplesize>50</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>24/02/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Royal Childrens Hospital - Parkville</hospital>
+    <postcode>3052 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>The Royal Children's Hospital</primarysponsorname>
+    <primarysponsoraddress>50 Flemington Road
+Parkville, VIC
+3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Melbourne Department of Paediatrics</sponsorname>
+      <sponsoraddress>1100 Grattan Street, Parkville, Victoria, 3010
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Murdoch Children's Reseach Institute</sponsorname>
+      <sponsoraddress>9th floor, The Royal Childrens Hospital, 50 Flemington Road, Parkville, VIC 3052
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>: This PhD study is an observational cohort study of fluid resuscitation in children with severe sepsis. The primary aim is to determine the effect (both in size and duration) of fluid bolus therapy on stroke volume in children with severe sepsis. Secondary aims include: the ability if IVC ultrasound to predict fluid responsiveness; the ability of lung ultrasound to detect early harms from fluid bolus administration; and the correlation between fluid bolus administration and changes in vital signs. </summary>
+    <trialwebsite>n/a</trialwebsite>
+    <publication>nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>nil</publicnotes>
+    <ethicscommitee>
+      <ethicname>RCH Human Research Ethics Commitee</ethicname>
+      <ethicaddress>The Royal children's Hospital Melbourne
+50 Flemington Road, Parkville, Victoria, 3052</ethicaddress>
+      <ethicapprovaldate>29/11/2013</ethicapprovaldate>
+      <hrec>33169 A</hrec>
+      <ethicsubmitdate>1/11/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-33169A Approval Certificate 29.11.13[1].pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-PhD Protocol v23 27-11-13.doc</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-CRF v8 22 May 2014.docx</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-Phd flyer v3 27 Nov 2013.docx</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-PhD Parent Guardian Information Consent v9 28-10-13.doc</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/366783-PhD Participant Information Consent v6 28-10-13.doc</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Elliot Long</name>
+      <address>Emergency Department
+The Royal Children's Hospital
+50 Flemington Road, Parkville, Victoria
+3052</address>
+      <phone>+61 3 9345-7901</phone>
+      <fax>+61 3 9345-6006</fax>
+      <email>elliot.long@rch.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Elliot Long</name>
+      <address>Emergency Department
+The Royal Children's Hospital
+50 Flemington Road, Parkville, Victoria
+3052</address>
+      <phone>+61 3 9345-7901</phone>
+      <fax>+61 3 9345-6006</fax>
+      <email>elliot.long@rch.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Elliot Long</name>
+      <address>Emergency Department
+The Royal Children's Hospital
+50 Flemington Road, Parkville, Victoria
+3052</address>
+      <phone>+61 3 9345-7901</phone>
+      <fax>+61 3 9345-6006</fax>
+      <email>elliot.long@rch.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Elliot Long</name>
+      <address>Emergency Department
+The Royal Children's Hospital
+50 Flemington Road, Parkville, Victoria
+3052</address>
+      <phone>+61 3 9345-7901</phone>
+      <fax>+61 3 9345-6006</fax>
+      <email>elliot.long@rch.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

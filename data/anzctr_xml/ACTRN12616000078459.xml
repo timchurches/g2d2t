@@ -1,0 +1,205 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369953">
+  <stage>Registered</stage>
+  <submitdate>19/01/2016</submitdate>
+  <approvaldate>25/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000078459</actrnumber>
+  <trial_identification>
+    <studytitle>Impact of haemodiafiltration on the pharmacokinetics of potent antibiotics.</studytitle>
+    <scientifictitle>Impact of haemodiafiltration on the pharmacokinetics of potent antibiotics, Meropenem and Tazociin.</scientifictitle>
+    <utrn />
+    <trialacronym>None</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>End stage kidney disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The pharmacokinetic study relates to a single HDF session, where the antibiotic (meropenem or tazocin) will be administered intravenously at 30 minutes prior to the start of the dialysis session. Basline bloods are taken. The anitbiotic is administered followed by a 15 and 30 minute sample. The dialysis session is then started and samples are then taken  (15 min, 30 min, 60 min, 2 hours and 4 hours) to measure antibiotic concentrations over time during the 4 hour dialysis session followed by a post dialysis sample 1 hour after completion.. 
+Dose of Meropenem is 1gm IV (session 1)
+Dose of tazocin 4.5gms IV (session 2).
+Each participant will undergo 2 pharmacokinetic clearance studies on HDF. One for meropenem pharmacokinetics and one for Tazocin pharmacokinetics These studies will be separated by at least a week.
+</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Determination of pharmacokinetics of meropenem or tazocin for stable haemodialysis patients during a single session of haemodiafiltration.
+The pharmacokinetics of these drugs during a HDF session will be estimated using a population pharmacokinetic approach with the standard software NONMEM (ver 7.2.0).
+Cmax, Tmax, AUC and clearances will all be measured.</outcome>
+      <timepoint>Timed sampling across a dialysis session.
+Baseline pre-antibiotic dose, then at 15min,prior to commencement of HDF.
+Following commencement of HDF, blood samples will be collected at 15 min, 30 min, 45 min, 60 min, 2hours, and 4hours (completion of HDF session and a final sample 1 hour post HDF.
+Blood samples wil be taken before and after dialysis membrane.
+Dialysate samples: baseline, 30 mins, 60 mins, 2 hours, 4 hours.
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>None</outcome>
+      <timepoint>None</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Stable haemodialysis patients aged from 18 - 75 years.
+able to give informed consent.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to give consent.
+Known penicillin allergy or previous allergy to meropenem or tazocin.
+An intercurrent infection requiring antibiotic therapy.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>There is no data on the pharmacokinetics of meropenem or tazocin for patients on haemodiafiltration, so a power calculation is not appropriate. with the multiple blood sampling. 
+6 participants will provide sufficient pharmacokinetic data to undertake modeling.using a population pharmacokinetic approach with the standard software NONMEM (ver 7.2.0).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>25/05/2016</anticipatedstartdate>
+    <actualstartdate>31/05/2016</actualstartdate>
+    <anticipatedenddate>30/12/2016</anticipatedenddate>
+    <actualenddate>10/10/2016</actualenddate>
+    <samplesize>6</samplesize>
+    <actualsamplesize>6</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>11/10/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>University of Otago
+PO Box 56 Dunedin 9054
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Otago Medical Reserch Foundation</fundingname>
+      <fundingaddress>OMRF
+C/o Deloitte
+PO Box 1245
+Dunedin 9054
+New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to investigate how quickly two potent anitbiotics used to treat septic patients in the ICU are removed by haemodiafiltration (HDF). Septic patients often have acute kidney injury and require HDF support to maintain kidney function. We do not know how well antibiotics are removed by HDF and therefore do not have appropriate dosing guidelines to ensure adequate therapeutic concentrations of the antibiotic is maintained. This study will measure the changes in antibiotic concentrations over a HDF session. The results will enable us to more accurately recommend the correct dose and timing for the dose for septic patients with acute kidney injury.</summary>
+    <trialwebsite>None</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Reception - Ground Floor
+20 Aitken Street
+Thorndon
+WELLINGTON 6011</ethicaddress>
+      <ethicapprovaldate>9/02/2016</ethicapprovaldate>
+      <hrec>Study number: 16 / STH/ 9</hrec>
+      <ethicsubmitdate>25/01/2016</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56
+Dunedin 9054</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56
+Dunedin 9054</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56
+Dunedin 9054</address>
+      <phone>+64 3 474 0999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56
+Dunedin 9054</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

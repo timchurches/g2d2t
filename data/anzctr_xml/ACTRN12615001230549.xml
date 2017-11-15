@@ -1,0 +1,260 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369567">
+  <stage>Registered</stage>
+  <submitdate>4/11/2015</submitdate>
+  <approvaldate>10/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001230549</actrnumber>
+  <trial_identification>
+    <studytitle>The effectiveness of pre-travel health advice on illness rates in Western Australians returning from Bali, Indonesia. </studytitle>
+    <scientifictitle>In Western Australians travelling to Bali, Indonesia, does pre-travel health advice (compared to no pre-travel health advice) lower the rate of illness?</scientifictitle>
+    <utrn>none</utrn>
+    <trialacronym>none</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>travel-related communicable disease symptoms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention will be  a short (~two minute) animated video containing health information specific to Bali/Southeast Asia. Potential areas of interest will include; foodborne illness (e.g. bali belly), mosquito borne illness (e.g. dengue, chikungunya), rabies (avoiding monkey and canine contacts), and measles (checking vaccination status). This video will be complemented by written information below the video. 
+
+A link to this video will be emailed out in the intervention participants, and will be viewed no less than one month before the participant departs for Bali. This is to allow the participant sufficient time to check vaccinations ect. 
+The adherance will be monitored by a video heatmap: a graphical representation of a single viewing session. For each viewer it will show the specific interaction the viewer
+had, including when/where was it watched, which portion was skipped and which portion was watched again. Next to each heatmap the percentage of the video that viewers have watched will be displayed.</interventions>
+    <comparator>The control group will be recruited the same way as the intervention group, but will not receive any PTHA from this project, and this group will determine the baseline of illness in returning travellers.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary objective is to determine the rate of communicable disease symptoms in Western Australian travellers to Bali, Indonesia, and to ascertain if an online pre travel health advice (PTHA) intervention has any effect on this rate.
+
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess the effectiveness of an online PTHA intervention on communicable disease symptom rates in Bali travellers.
+This differs from the primary outcome, as the primary outcome will determine if standard PTHA from the currently available sources (GP, smarttraveller.org, travel clinic ect.) is effective in reducing communicable disease rates. The first secondary outcome will focus solely on the PTHA intervention developed by researchers for this project. 
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To estimate the economic cost of illness in Bali travellers.
+
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess if an online pre-travel health advice intervention effects the health risk knowledge in Western travellers returning from Bali.
+
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the incidence of communicable disease symptoms in Western Australians returning from Bali.
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. 
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine if a travellers health behaviours and health risk perception affect their rate of communicable disease symptoms.
+
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine what other factors may influence the incidence of communicable disease symptoms in Western Australians returning from Bali.
+
+The survey builds upon an airport pre-departure survey that was administered to WA travellers in 2014. It will be focus group tested in late 2015.</outcome>
+      <timepoint>This will be assessed with a post travel survey within 2-weeks of the participants return from Bali. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Potential participants must be Australian residents, travelling to Bali, staying in Bali for at least one night, over the age of 18, departing and returning within the 12-month research period, able and willing to give consent and complete the survey. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Persons under the age of 18 and non-Australian residents will be excluded from the study.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed
+</concealment>
+    <sequence>The participants will be allocated a random number by computer algorythm from an array when signing up on the consent page. This will be done via mailchimp's API system when importing the data from the online form into a mailchimp list. Using this number as a selection crieria, the participants will be segmented into two groups.
+
+All participants will receive almost identical communications from the study, the only difference will be a link to the pre-travel health advice video included in the intervention groups communications. this video will not be accessible to those outside of the intervention group. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The project objectives are:
+1.	Is an online pre-travel health advice intervention effective in reducing the incidence of communicable disease symptoms and improving health risk knowledge in Western travellers returning from Bali?
+2.	Does the incidence of communicable disease symptoms in Western Australians returning from Bali differ by whether or not they have sought PTHA?
+3.	What is the incidence of communicable disease symptoms in Western Australians returning from Bali?
+4.	Does a travellers health behaviours and health risk perception affect their rate of communicable disease symptoms?
+5.	What other factors may influence the incidence of communicable disease symptoms in Western Australians returning from Bali?
+6.	What is the economic cost of communicable disease symptoms in Western Australians returning from Bali?
+
+
+Data analysis will be carried out using EpInfo, a data analysis tool downloaded from the CDC (Centers for Disease Control and Prevention, Atlanta), and Stata Statistical Software.
+In order to meet the six stated aims, this project will apply two study designs to the data analysis; combining a randomised control, and prospective cohort study. 
+
+Prospective cohort study: objective 2-6. 
+The control group (those participants recruited into the study who have not received the intervention on-line PTHA) from the randomised control trial, will make up the cohort for the second study design; a prospective cohort study. The proportions who received PTHA from a source other than this study, the source of this travel advice and differences in demographic groups will be compared between travellers who fell ill (objective 2). Data from the control group will also be used to determine the cumulative incidence of communicable disease symptoms in travellers returning from Bali (objective 3). Using a logistic regression analysis, the survey data on demographics, risk prevention behaviours and knowledge will be analysed to determine any factors resulting in an increased risk of communicable disease symptoms in this study population (objectives 4 and 5). Data from this group will also be used for the economic cost-of-illness analysis (objective 6).  
+
+Randomised control study: objective 1.
+A randomised control design will be used to determine the effectiveness of the online PTHA intervention (objective 1). The proportion of travellers who fell ill will be compared between the control and intervention groups. This analysis will be carried out using Pearsons chi-square test for comparison of disease symptom rates and a T-test for comparison of mean risk prevention knowledge. A logistic regression analysis will be performed with presence of communicable disease symptoms (yes/ no) as the dependent outcome and the intervention (yes/no) as the main exposure. Other variables such as external PTHA will be adjusted for in this model.
+
+Sample size calculation
+Objective 1 and 2 seek to determine whether an online PTHA intervention or external PTHA respectively, lower the rate of communicable disease symptoms in Western Australians returning from Bali. Existing literature suggests that 22-64% of travellers fall ill whilst travelling, and that a reduction in illness when visiting a travel doctor before travelling is ~20%. Therefore the sample size calculation assumed an illness rate of 40% in the non-exposed participants, with a reduction of 10% in the exposed participants (those who sought PTHA of their own volition) detected at 80% power with a p value of 0.05. A sample size of 712 participants completing the study; 356 exposed and 356 unexposed, was calculated using PS Power and Sample Size statistical software. Assuming ~50% are lost the follow up (the average for internet based trials), at least 1,424 participants; 712 exposed and 712 unexposed would need to enrol in the study.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2016</anticipatedstartdate>
+    <actualstartdate>28/09/2016</actualstartdate>
+    <anticipatedenddate>31/08/2017</anticipatedenddate>
+    <actualenddate>1/10/2017</actualenddate>
+    <samplesize>1424</samplesize>
+    <actualsamplesize>2395</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/10/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Western Australian Department of Health</primarysponsorname>
+    <primarysponsoraddress>227 Stubbs Terrace, Shenton Park WA 6008</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Western Australian Department of Health</fundingname>
+      <fundingaddress>227 Stubbs Terrace, Shenton Park WA 6008</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>The University of Western Australia</othercollaboratorname>
+      <othercollaboratoraddress>The University of Western Australia
+35 Stirling Highway
+Perth WA 6009</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The project will use both a randomised control trial and prospective cohort design. Participants will be Western Australian travellers planning to depart for Bali. Half of participants will be randomly allocated into an intervention group and receive prepared online travel health information.  After returning from Bali, both the intervention and non-intervention group will be invited to complete an online survey with questions concerning any communicable disease symptoms and health impacts.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Western Australian Department of Health Human Research Ethics Commitee</ethicname>
+      <ethicaddress>Department of Health
+1st Floor, C Block
+189 Royal Street
+East Perth WA 6004
+</ethicaddress>
+      <ethicapprovaldate>16/02/2016</ethicapprovaldate>
+      <hrec>2015/58</hrec>
+      <ethicsubmitdate>22/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The University of Western Australia Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>The University of Western Australia
+35 Stirling Highway
+Perth WA 6009
+</ethicaddress>
+      <ethicapprovaldate>22/02/2016</ethicapprovaldate>
+      <hrec>RA/4/1/8110</hrec>
+      <ethicsubmitdate>18/02/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Chloe Thomson</name>
+      <address>Department of Health
+Communicable Disease Control Directorate
+Grace Vaughan House
+227 Stubbs Terrace, Shenton Park 
+WA 6008</address>
+      <phone>+61 8 9388 4865</phone>
+      <fax />
+      <email>chloe.thomson@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Chloe Thomson</name>
+      <address>Department of Health
+Communicable Disease Control Directorate
+Grace Vaughan House
+227 Stubbs Terrace, Shenton Park 
+WA 6008</address>
+      <phone>+61 8 9388 4865</phone>
+      <fax />
+      <email>chloe.thomson@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>chloe thomson</name>
+      <address>Department of Health
+Communicable Disease Control Directorate
+Grace Vaughan House
+227 Stubbs Terrace, Shenton Park 
+WA 6008</address>
+      <phone>+61 8 9388 4865</phone>
+      <fax />
+      <email>chloe.thomson@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>chloe thomson</name>
+      <address>227 Stubbs Terrace, Shenton Park WA 6008</address>
+      <phone>+61 8 9388 4865</phone>
+      <fax />
+      <email>chloe.thomson@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

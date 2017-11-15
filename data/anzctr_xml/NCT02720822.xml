@@ -1,0 +1,459 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6100">
+  <stage>Registered</stage>
+  <submitdate>10/03/2016</submitdate>
+  <approvaldate>10/03/2016</approvaldate>
+  <nctid>NCT02720822</nctid>
+  <trial_identification>
+    <studytitle>Breathlessness Exertion and Morphine Sulphate</studytitle>
+    <scientifictitle>A Pragmatic, Phase III, Multi-site, Double-blind, Placebo Controlled, Parallel Arm, Dose Increment Randomised Trial of Regular, Low Dose Extended Release Morphine for Chronic Refractory Breathlessness</scientifictitle>
+    <utrn />
+    <trialacronym>BEAMS</trialacronym>
+    <secondaryid>030/15</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Obstructive Pulmonary Disease</healthcondition>
+    <healthcondition>Dyspnea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Chronic obstructive pulmonary disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Placebo
+Treatment: drugs - Morphine Sulfate
+Treatment: drugs - Plus laxative (Docusate with senna)
+Treatment: drugs - Plus placebo laxative
+Treatment: devices - FitBit charge HR (Accelerometer)
+
+Placebo Comparator: Placebo - Double-blind placebo capsule, looking identical to capsules with active treatment, during all three treatment weeks.
+
+Experimental: Morphine Sulfate (0, 0, 8 mg) - Placebo on weeks one and two. Morphine 8 mg/day on week three.
+
+Experimental: Morphine sulfate (0, 8, 8 mg) - Placebo on week one. Morphine 8 mg/day on weeks two and three.
+
+Experimental: Morphine sulfate (0, 8, 16 mg) - Placebo on week one. Morphine 8 mg/day on week two. Morphine 16 mg/day on week three.
+
+Experimental: Morphine sulfate (8, 8, 8 mg) - Morphine 8 mg/day on weeks one, two and three.
+
+Experimental: Morphine sulfate (8, 8, 16 mg) - Morphine 8 mg/day on weeks one and two. Morphine 16 mg/day on week three.
+
+Experimental: Morphine sulfate (8, 16, 16 mg) - Morphine 8 mg/day on week one. Morphine 16 mg/day on weeks two and three.
+
+Experimental: Morphine sulfate (8, 16, 24 mg) - Morphine 8 mg/day on week one. Morphine 16 mg/day on week two. Morphine 24 mg/day on week three.
+
+Experimental: Morphine sulfate (16, 16, 16 mg) - Morphine 16 mg/day on weeks one, two and three.
+
+Experimental: Morphine sulfate (16, 16, 24 mg) - Morphine 16 mg/day on weeks one and two. Morphine 24 mg/day on week three.
+
+Experimental: Morphine sulfate (16, 24, 24 mg) - Morphine 16 mg/day on week one. Morphine 24 mg/day on weeks two and three.
+
+Experimental: Morphine sulfate (16, 24, 32 mg) - Morphine 16 mg/day on week one. Morphine 24 mg/day on week two. Morphine 32 mg/day on week three.
+
+
+Treatment: drugs: Placebo
+Treatment with placebo is given as one double-blind capsule in the morning.
+
+Treatment: drugs: Morphine Sulfate
+Treatment with sustained-release morphine sulfate is given as one double-blind capsule in the morning.
+
+Treatment: drugs: Plus laxative (Docusate with senna)
+If patients are taking morphine, a laxative will be offered. This applies whatever the dose of morphine being taken (8mg, 16mg, 24mg or 32 mg).
+
+Treatment: drugs: Plus placebo laxative
+If the patients are taking placebo, a placebo laxative will be offered.
+
+Treatment: devices: FitBit charge HR (Accelerometer)
+A Fitbit will be worn by patients during week 1 and week 3.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Treatment: devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change from baseline worst breathlessness intensity over the previous 24 hours - Rated on a 0-10 numerical rating scale (NRS). Measured at baseline, Stage1-3 (daily diary) and Stage 4 (weekly diary). The primary endpoint is:
+The difference between morphine sulphate 8mg and placebo (end of week1)
+The difference of morphine sulphate 16 mg and placebo (end of week 1)</outcome>
+      <timepoint>Week 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change from the baseline in the number of steps per day - Difference from the baseline in the number of steps per day measured using the Fitbit(Charge HR). Measured at baseline, end of week 1, and end of week 3. The primary endpoint is:
+The difference between morphine sulphate 8mg and placebo (end of week 1)
+The difference between morphine sulphate 16mg and placebo (end of week 1)
+Comparison between baseline and end of week 3</outcome>
+      <timepoint>Week 3</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline end-tidal carbon dioxide - Measured at baseline and at the weekly visit for the randomisation phase, and then at the study exit in order to assess the theoretical risk of opioids worsening respiratory failure. Stages 1-4.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline pulse oximetry - Measured at baseline and at the weekly visit for the randomisation phase, and then at the study exit in order to assess the theoretical risk of opioids worsening respiratory failure. Concomitant use of oxygen will be recorded. Stages 1-4.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline intensity of breathlessness "average" - Rated on a 0-10 numerical rating scale (NRS). Measured at baseline, weeks 1-3 (daily diary) and stage 4 (weekly diary).</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline distress from breathlessness over the previous 24 hours - Rated on a 0-10 numerical rating scale (NRS). Measured at baseline, weeks 1-3 (daily diary) and stage 4 (weekly diary).</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline perceived-impact of breathlessness - Chronic Respiratory Questionnaire - Dyspnoea and Mastery Subscales. Baseline and end of Weeks 1-3.</outcome>
+      <timepoint>Up to week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline functional impact of breathlessness - Rated on the Modified Medical Research Council Breathlessness Scale (mMRC). Measured at baseline and at the conclusion of the study.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline sleep minutes - Measured using the Fitbit(Charge HR). Assessed at baseline (2 days), weeks 1 and 3.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline sleep activity - Measured using the Fitbit(Charge HR). Given in number of movements per night (e.g. rolling over). Assessed at baseline (2 days), weeks 1 and 3.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in activity levels - Measured using the Fitbit(Charge HR). Difference from baseline in the number of active minutes per day. Assessed at baseline (2 days), weeks 1 and 3.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline total energy expenditure - Measured using the Fitbit(Charge HR). Difference from baseline number of calories spent per day. Assessed at baseline (2 days), weeks 1 and 3.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline performance status - Measured using Australian-modified Karnofsky Performance Status (AKPS). Baseline, Stage1, Stage2, Stage3 and Stage 4.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline activities of daily living - Measured using Barthel Index. Baseline and Stage 4.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in sleep quality - Rated on a 4 point Likert scale. Measured at baseline, weeks 1-3 (daily diary) and stage 4 (weekly diary).</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in objective sleep testing - Thirty (30) participants at the Sydney and Adelaide sites will be invited to undertake a simple, non-invasive home sleep study using the ResMed ApneaLink Plus device. Baseline and Stage3.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline Polysomnography - Up to ten (10) participants will also undergo two (baseline and Stage 1) in-laboratory overnight sleep studies in Sydney and Adelaide.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline Driving ability - Twenty (20) participants in Adelaide and Sydney. Baseline and on day 2 and 7 of the first week in an office-based simulator - AusEd.</outcome>
+      <timepoint>Week 3 + 2 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacogenetic opioid profile - Number of participants with UGT2B7*2 and *28 polymorphisms - The baseline blood samples will be analysed to detect the presence of UGT2B7*2 and *28 polymorphisms.</outcome>
+      <timepoint>Baseline (1 day)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacogenetic opioid profile - Number of participants with P-glycoprotein polymorphism (ABCB1 5SNPs in a haplotype block) - The baseline blood samples will be analysed to detect the presence of P-glycoprotein polymorphism (ABCB1 5SNPs in a haplotype block)</outcome>
+      <timepoint>Baseline (1 day)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacogenetic opioid profile - Number of participants with 5-hydroxytryptamine type 3B (HTR3B) gene rs7103572 polymorphism - The baseline blood samples will be analysed to detect the presence of 5-hydroxytryptamine type 3B (HTR3B) gene rs7103572 polymorphism</outcome>
+      <timepoint>Baseline (1 day)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacogenetic opioid profile - Mu receptor (A118G) polymorphism - The baseline blood samples will be analysed to detect the presence of Mu receptor (A118G) polymorphism</outcome>
+      <timepoint>Baseline (1 day)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine Peak Plasma Concentration [Cmax] - In a subset of 55 participants, morphine peak plasma concentrations will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine Area Under the Curve (AUC) - In a subset of 55 participants, morphine AUC will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine-6-glucuronide (M6G) Peak Plasma Concentration [Cmax] - In a subset of 55 participants, M6G Peak Plasma Concentration will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine-6-glucuronide (M6G) Area Under the Curve (AUC) - In a subset of 55 participants, M6G AUC will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine-3-glucuronide (M3G) Peak Plasma Concentration [Cmax] - In a subset of 55 participants, M3G Peak Plasma Concentration will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK)/ Pharmacodynamic (PD) opioid profile: Morphine-3-glucuronide (M3G) Area Under the Curve (AUC) - In a subset of 55 participants, M3G AUC will be analysed (4 blood samples over 8 hours) at steady state (end of week 1).</outcome>
+      <timepoint>Week 1</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline serum testosterone level - Baseline and study completion. To explore whether longer term morphine treatment is associated with decreased levels of testosterone.</outcome>
+      <timepoint>Week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse Effects - Rated on a Lickert Scale. Baseline, weeks 1-3 (daily diary), Stage 4 (weekly diary): Includes constipation, anxiety, appetite, nausea, vomiting, drowsiness, difficulty thinking clearly, problems passing urine, itch, other symptoms.</outcome>
+      <timepoint>Up to 15 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in concurrent symptoms - Measured using the Edmonton Symptoms Assessment Scale (ESAS)</outcome>
+      <timepoint>Up to 15 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from the baseline anxiety and depression - Rated using the Hospital Anxiety and Depression Scale (HADS). At baseline, completion of randomization stage and study exit.</outcome>
+      <timepoint>Up to Week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in baseline global impression of change - Participant-rated 7 point scale of the perception of their change, specifically their improvement since the commencement of the study. Measured at the end of Stages 1-3 and conclusion.</outcome>
+      <timepoint>Up to 15 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline health-related quality of life - Measured with EQ-5D-5L questionnaire. Baseline, Stages 1-3, Stage 4, conclusion.</outcome>
+      <timepoint>Up to 15 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline health-status in COPD - Measured with the COPD Assessment Test (CAT) Baseline, Stages 1-3, Stage 4 and conclusion.</outcome>
+      <timepoint>Week 3</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blinded-patient preference to continue the treatment [3-point Likert Scale] - Asked at the end of week 1 and at the conclusion/drop-out of the study. A 3-point Likert scale will be used.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline caregiver Impact - Scored using the Zarit Burden Interview (ZBI) 12 item short-form questionnaire. Baseline, end of weeks 1-3, stage 4.</outcome>
+      <timepoint>Up to week 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic Evaluation - Cost per responder - From randomisation to 28 days post treatment or death (whichever is the shorter period). Estimated based on all health-care contacts including length of hospitalizations, emergency department visits, DRG codes, community health visits, GP and community nurse visits, outpatient visits and date of death. These participant level data allow within trial modeling using bootstrapping methods of replicates for costs and consequences of alternative strategies, allowing for covariance between costs and effects. Incremental net monetary benefit and cost-effectiveness acceptability curves will be estimated at potential threshold values for an additional responder.</outcome>
+      <timepoint>Up to week 4</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Opioid Withdrawal - Evaluation using the Subjective Opioid Withdrawal Scale (SOWS) for 3 consecutive days. After the completion of the study (Weeks 1-15).</outcome>
+      <timepoint>Up to week 15 + 3 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  18 years of age or older.
+
+          -  Physician diagnosed COPD confirmed by spirometry with the most recent result available
+             defined as a prior post-bronchodilator FEV1/FVC &lt; 0.7 in accordance with the GOLD 2014
+             criteria.
+
+          -  Respiratory physician confirmed optimisation of treatment of COPD.
+
+          -  On stable medications relating to the optimal treatment of COPD or its symptomatic
+             management over the prior week except routine "as needed" medications.
+
+          -  Breathlessness of a level three (3) or four (4) on the modified Medical Research
+             Council (mMRC) breathlessness scale.
+
+          -  worst breathlessness intensity in the previous 24 hours was at least 3/10 on a 0-10
+             numerical rating scale (NRS).
+
+          -  English speaking with sufficient reading and writing ability to complete the study
+             questionnaires
+
+          -  Assessed as competent (using St Louise University Mental Status Examination (SLUMS)
+             score of 27/30 for people whose highest level of education was high school, and 25/30
+             for people who did not complete high school).
+
+          -  Able and willing to give written informed consent.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  On regularly prescribed opioid medications, including codeine preparations at or above
+             8mg oral morphine equivalent daily dose (MEDD) in the previous seven (7) days.
+
+          -  History of adverse reactions to any of the study medications or constituents in the
+             placebo;
+
+          -  Australian-modified Karnofsky performance score (AKPS) less than 50 at the beginning
+             of the study.
+
+          -  Respiratory or cardiac event in the previous one week (excluding upper respiratory
+             tract infections). Illness must have resolved completely prior to baseline evaluation,
+             as judged by the person's treating physician.
+
+          -  Evidence of respiratory depression with resting respiratory rate &lt;8/min.
+
+          -  Documented central hypoventilation syndrome.
+
+          -  Current history of abuse of alcohol, or recent history of substance misuse.
+
+          -  Uncontrolled nausea, vomiting or evidence of a gastrointestinal tract obstruction.
+
+          -  Renal dysfunction with creatinine clearance calculated (MDRD) less than 20 mls/minute.
+
+          -  Evidence of severe hepatic impairment defined as transaminases or bilirubin &gt;4x normal
+             (Excluding Gilbert's syndrome)
+
+          -  Pregnant or breastfeeding.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/08/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>171</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC,WA</recruitmentstate>
+    <hospital>Concord Hospital - Concord</hospital>
+    <hospital>St Vincent's Hospital Sydney - Sacred Heart Hospice - Darlinghurst</hospital>
+    <hospital>Greenwich Hospital - Greenwich</hospital>
+    <hospital>Calvary Health Care Kogarah - Kogarah</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>John Hunter Hospital - New Lambton Heights</hospital>
+    <hospital>Calvary Mater Newcastle - Newcastle</hospital>
+    <hospital>Prince Charles Hospital - Brisbane</hospital>
+    <hospital>Mater Health Services - Brisbane</hospital>
+    <hospital>St Vincent's Brisbane - Brisbane</hospital>
+    <hospital>Nambour Hospital - Sunshine Coast</hospital>
+    <hospital>Flinders Medical Centre - Adelaide</hospital>
+    <hospital>Southern Adelaide Palliative Services - Adelaide</hospital>
+    <hospital>Lyell McEwin Hospital - Elizabeth</hospital>
+    <hospital>St Vincent's Hospital Melbourne - Fitzroy</hospital>
+    <hospital>Barwon Health - Geelong</hospital>
+    <hospital>The Austin Hospital - Heidelberg</hospital>
+    <hospital>Royal Melbourne Hospital - Melbourne</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Perth</hospital>
+    <postcode>2139 - Concord</postcode>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2065 - Greenwich</postcode>
+    <postcode>3590 - Kogarah</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>2310 - Newcastle</postcode>
+    <postcode>4032 - Brisbane</postcode>
+    <postcode>4101 - Brisbane</postcode>
+    <postcode>4169 - Brisbane</postcode>
+    <postcode>4560 - Sunshine Coast</postcode>
+    <postcode>5041 - Adelaide</postcode>
+    <postcode>5112 - Elizabeth</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3215 - Geelong</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>3050 - Melbourne</postcode>
+    <postcode>6009 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Flinders University</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Breathlessness is an overwhelming symptom affecting tens of thousands of Australians every
+      day. For many people, it persists even when all the underlying causes have been optimally
+      managed (chronic breathlessness). In these circumstances, it often occurs at rest or with
+      minimal exertion.
+
+      Evidence from a number of clinical studies suggests that a small, regular dose of morphine
+      helps to reduce safely the sensation of breathlessness. However, it is not well established
+      which patients derive more benefit and what is the net clinical effect of this treatment
+      (weighing benefits and harms).
+
+      This is a phase III, multi-site, randomised, double-blind, placebo-controlled trial with
+      patients with chronic obstructive pulmonary disease (COPD) and severe chronic breathlessness
+      which will explore several important questions:
+
+        -  Are regular, low doses of morphine at four possible doses over 3 weeks more effective
+           than placebo at improving breathlessness?
+
+        -  Does increasing the dose in people who already are experiencing some benefit provide
+           even greater reduction in worst breathlessness?
+
+        -  Does the medication have any effect on daily activity and quality of life?
+
+        -  What are the common or serious side effects of this intervention?
+
+        -  Does the benefit from the medication outweigh the side effects it produces?
+
+        -  Are there specific characteristics of people who are more likely to receive benefit from
+           extended release morphine?
+
+      Participants will receive once daily extended release morphine (plus laxative, docusate with
+      senna), or placebo (placebo laxative) in addition to their usual medication for up to 3 weeks
+      at increasing doses.
+
+      Participants will have a medical interview and physical examination to collect some general
+      health information, and baseline measurements including; daily activity, symptoms, and
+      quality of life. A small amount of blood may be required to check eligibility. Further blood
+      samples may be taken at week 1 and 3 to enable testing on how individuals respond to opioids,
+      further consent will be obtained for these samples.
+
+      Data on benefits, side effects, and medical care will be collected during comprehensive
+      weekly visits. Participants will also fill out a simple diary twice daily for weeks one to
+      three of the study, and for one day each week during an optional 3 month extension stage.
+
+      The outcome of this study may enable better management of symptoms and activity in people
+      COPD with medicines that are shown to be effective and safe.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02720822</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>David C Currow, MD, PhD</name>
+      <address>Study Principal Investigator; Flinders University</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>David C Currow, MD, PhD</name>
+      <address />
+      <phone>+61 8 7221 8235</phone>
+      <fax />
+      <email>david.currow@flinders.edu.au</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,262 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6217">
+  <stage>Registered</stage>
+  <submitdate>5/04/2016</submitdate>
+  <approvaldate>5/04/2016</approvaldate>
+  <nctid>NCT02745041</nctid>
+  <trial_identification>
+    <studytitle>Fibrinogen Early In Severe Trauma studY</studytitle>
+    <scientifictitle>Fibrinogen Concentrate vs Cryoprecipitate in Traumatic Haemorrhage: A Pilot Randomised Controlled Trial</scientifictitle>
+    <utrn />
+    <trialacronym>FEISTY</trialacronym>
+    <secondaryid>FEISTY-1</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Trauma</healthcondition>
+    <healthcondition>Haemorrhage</healthcondition>
+    <healthcondition>Coagulopathy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood </conditioncode1>
+      <conditioncode2>Clotting disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Fibrinogen Concentrate
+Other interventions - Cryoprecipitate
+
+Experimental: Fibrinogen Concentrate - Fibrinogen Replacement using Fibrinogen Concentrate as per ROTEM guided treatment algorithm [FIBTEM = A5 10mm]
+
+Active Comparator: Cryoprecipitate - Fibrinogen replacement using Cryoprecipitate as per ROTEM guided treatment algorithm [FIBTEM A5 = 10mm]
+
+
+Treatment: drugs: Fibrinogen Concentrate
+Fibrinogen Replacement using Fibrinogen Concentrate as per ROTEM guided treatment algorithm [FIBTEM = A5 10mm]
+FIBTEM A5 0mm (Flat Line) = 6g FC FIBTEM A5 1 - 4mm = 5g FC FIBTEM A5 5 - 6mm = 4g FC FIBTEM A5 7 - 8mm = 3g FC FIBTEM A5 9 - 10mm = 2g FC
+
+Other interventions: Cryoprecipitate
+Fibrinogen replacement using Cryoprecipitate as per ROTEM guided treatment algorithm [FIBTEM A5 = 10mm]
+FIBTEM A5 0mm (Flat Line) = 20 Units Cryo FIBTEM A5 1- 4mm = 16 Units Cryo FIBTEM A5 5 - 6mm = 14 Units Cryo FIBTEM A5 7 - 8mm = 10 Units Cryo FIBTEM A5 9 - 10mm = 8 Units Cryo
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to administration of Fibrinogen Replacement from time of ROTEM analysis indicating fibrinogen supplementation is required First dose of Fibrinogen Concentrate or Cryoprecipitate required - It is anticipated that fibrinogen replacement will occur with 3 hours Fibrinogen replacement will be with either FC or Cryroprecipitate depending on randomisation</outcome>
+      <timepoint>3 Hours</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Feasibility of administering FC within 30 mins of clinical scenario and ROTEM analysis suggesting Fibrinogen replacement is required - Proportion of patients receiving FC within 30 minutes</outcome>
+      <timepoint>3 Hours</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Effects on Fibrinogen levels during traumatic haemorrhage as measured by Clauss Fibrinogen - Blood sampling will occur for 7 days after admission/randomisation</outcome>
+      <timepoint>7 Days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Effects on Fibrinogen levels during traumatic haemorrhage as measured by FIBTEM - Blood sampling will occur for 7 days after admission/randomisation</outcome>
+      <timepoint>7 Days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Transfusion Requirements - In number of units of Packed Red Blood Cells, Plasma, FC, Cryoprecipitate, Platelets, Prothrombin Complex Concentrate at 4, 6, 24, 48hrs</outcome>
+      <timepoint>48 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of bleeding episode or time until surgical control - It is anticipated that haemorrhage control will be achieved within 12 hours</outcome>
+      <timepoint>12 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intensive Care Unit Length of stay</outcome>
+      <timepoint>1 Year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital Length of Stay</outcome>
+      <timepoint>1 Year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse Events - Transfusion related adverse events Sepsis Multiple Organ Failure Acute Renal Failure Thromboembolic Complications</outcome>
+      <timepoint>1Year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause Mortality - Mortality at 4, 6, 24 hours and up to 90 days</outcome>
+      <timepoint>90 Days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Adult affected by Trauma (&gt;18yrs) and
+
+          2. Judged to have significant haemorrhage or
+
+          3. Predicted to require significant transfusion with ABC Score = 2 or by treating
+             clinician judgement</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Injury judged incompatible with survival
+
+          2. Pregnancy
+
+          3. Known objection to blood products
+
+          4. Previous Fibrinogen replacement this admission
+
+          5. Pre-Trauma Centre fibrinogen replacement
+
+          6. Participation in competing study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Royal Brisbane and Women's Hospital - Brisbane</hospital>
+    <hospital>Princess Alexandra Hospital - Brisbane</hospital>
+    <hospital>Gold Coast University Hospital - Gold Coast</hospital>
+    <hospital>Townsville Hospital - Townsville</hospital>
+    <postcode>4029 - Brisbane</postcode>
+    <postcode>4102 - Brisbane</postcode>
+    <postcode>4215 - Gold Coast</postcode>
+    <postcode>4814 - Townsville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Gold Coast Hospital and Health Service</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Emergency Medicine Foundation</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>National Blood Authority</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Australian Red Cross</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>-  Haemorrhage in severe trauma is a significant cause of mortality and is potentially the
+           most preventable cause of death in trauma patients
+
+        -  Trauma Induced Coagulopathy (TIC) is a complex coagulopathy associated with severe
+           trauma
+
+        -  Hypo/dysfibrinogenaemia plays an important role in TIC
+
+        -  Early replacement of fibrinogen may improve outcomes
+
+        -  Fibrinogen replacement is potentially inadequate in standard fixed ratio Major
+           Haemorrhage Protocols (MHP) utilising Plasma and/or Cryoprecipitate
+
+        -  The majority of centres utilise cryoprecipitate for additional fibrinogen
+           supplementation as part of a MHP
+
+        -  Cryoprecipitate administration is often delayed (between 60 - 120 minutes) in a fixed
+           ratio MHP
+
+        -  It is clear early intervention in severe traumatic haemorrhage is associated with
+           improved outcomes - CRASH 2 and PROPPR studies
+
+        -  Increasing interest in the use of Fibrinogen Concentrate (FC) in severe bleeding but not
+           supported by high level evidence
+
+        -  Benefits of FC - viral inactivation, known dose, easily reconstituted, can be
+           administered quickly in high dose and stored at room temperature in the trauma
+           resuscitation bay
+
+        -  No previous studies comparing FC and Cryoprecipitate in bleeding trauma patients
+
+        -  Fibrinogen supplementation will be guided by an accepted ROTEM targeted treatment
+           algorithm
+
+        -  It will be a pilot, multi-centre randomised controlled trial comparing FC to
+           Cryoprecipitate (current standard practise in fibrinogen supplementation)
+
+        -  Hypothesis: Fibrinogen replacement in severe traumatic haemorrhage can be achieved
+           quicker with a more predictable dose response using Fibrinogen Concentrate compared to
+           Cryoprecipitate
+
+        -  It is imperative that robust and clinically relevant trials are performed to investigate
+           fibrinogen supplementation in trauma before widespread adoption makes performing such
+           studies unfeasible</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02745041</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>James Winearls, MBBS</name>
+      <address>Gold Coast University Hospital</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>James Winearls, MBBS</name>
+      <address />
+      <phone>+61756875684</phone>
+      <fax />
+      <email>james.winearls@health.qld.gov.au</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

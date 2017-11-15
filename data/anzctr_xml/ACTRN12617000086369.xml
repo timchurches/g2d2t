@@ -1,0 +1,235 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371335">
+  <stage>Registered</stage>
+  <submitdate>10/01/2017</submitdate>
+  <approvaldate>16/01/2017</approvaldate>
+  <actrnumber>ACTRN12617000086369</actrnumber>
+  <trial_identification>
+    <studytitle>A combined PET-fMRI study of frontostriatal dysfunction in first episode psychosis</studytitle>
+    <scientifictitle>A combined PET-fMRI study of frontostriatal dysfunction in first episode psychosis</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Psychosis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Psychosis and personality disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1. Baseline
+All participants will complete a baseline assessment 
+
+a. Patients will complete the following over 2 visits ideally within one week:
+i.	Clinical assessment (3 hours)
+ii.	PET-MRI imaging (3 hours)
+
+The same protocol will be used for healthy controls, though the clinical assessment will be briefer, involving  some questionnaires and a structured diagnostic interview 
+
+a. Healthy control participants will complete the following over 2 visits ideally within one week:
+i.	Clinical assessment (3 hours)
+ii.	PET-MRI imaging (3 hours)
+
+2.	12-month follow-up 
+Patients only will complete a 12-month follow-up assessment, involving:
+a.	Detailed clinical assessment (3 hours)
+No brain imaging is required at 12-month follow-up
+</interventions>
+    <comparator>Healthy controls with no personal/family history of neurological/psychiatric illness will be age and gender matched to the patient group. </comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Identify specific, neural-circuit-level drivers of variations in striatal FDOPA levels by identifying which specific measure of fMRI functional connectivity makes the strongest unique contribute to the striatal FDOPA signal.
+
+Instrument: PET-MRI scan</outcome>
+      <timepoint>Baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compare striatal FDOPA levels between patients and controls.
+
+Instrument: PET-MRI scan</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Identify which specific circuit-level driver of striatal FDOPA variations different between people with psychosis and healthy controls.
+
+Instrument: PET-MRI scan, clinical assessment</outcome>
+      <timepoint>Baseline, 12 month follow-up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patient Inclusion criteria:
+
+*Experiencing a first episode of psychosis (one or more psychotic symptoms on a daily basis for at least one week) and meeting diagnostic criteria for one of the following DSM-IV disorders: schizophreniform psychosis, schizophrenia, schizoaffective disorder, delusional disorder, brief psychosis, major depressive disorder or bipolar disorder with psychotic features, or psychosis NOS.
+*Age range 18-25 years
+*Within 3 months of commencing regular antipsychotic treatment; or lifetime cumulative exposure of &lt; 3 months; or no antipsychotic treatment for at least one year
+*Ability to provide informed consent as determined either via the clinical opinion of the treating medical physician, or the administration, by one of the research team, of the MacArthur Competence Assessment Tool for Clinical Research.
+
+Healthy Control Participant Inclusion criteria:
+* Psychiatrically healthy individual aged 18-25 years </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>25</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Patient Exclusion criteria:
+* Primary diagnosis of Borderline Personality Disorder or Post-Traumatic Stress Disorder
+* Intellectual disability
+* Colour blindedness
+* Diagnosis of substance dependence
+* History of neurological disorder, brain injury, or significant loss of consciousness
+* MRI/PET contraindications (pregnancy, breastfeeding, metal implants)
+* Contraindications for Carbidopa and Entacapone (treatment with MAO inhibitors, blood/needle phobia, glaucoma, malignant melanoma, phaechromocytoma, rhabdomylosis, history of major medical condition such as diabetes, cardiovascular disease, hepatic/renal failure, etc).
+
+Healthy Control Participant Exclusion criteria:
+*Personal history of psychiatric or neurologic illness
+*First-degree relatives with psychotic illness
+*Intellectual disability
+*History of neurological disorder, brain injury, or significant loss of consciousness
+* MRI/PET contraindications (pregnancy, breastfeeding, metal implants)
+* Contraindications for Carbidopa and Entacapone (treatment with MAO inhibitors, blood/needle phobia, glaucoma, malignant melanoma, phaechromocytoma, rhabdomylosis, history of major medical condition such as diabetes, cardiovascular disease, hepatic/renal failure, etc).
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Patlak graphical analysis will be used to compute 18F-DOPA influx rate constants (Ki values)
+fMRI data will be processed and analysed. Specifically, six spherical seed regions will be placed in the dorsal and ventral striatum to extract representing time courses of activity fluctuations in each sub-region. These time courses will be entered as covariates along with other signals modeling various noise sources in the data into a general linear model. This model will be fitted to each individuals functional data on a voxel-wise basis to identify regions showing significant functional connectivity with each striatal area. Group differences in striatal functional connectivity will be compared using two-sample t-tests. Effective connectivity within these networks will be modeled using dynamic causal modeling (DCM) an established fMRI procedure for inferring causal influences between neural systems. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Case control</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate />
+    <actualstartdate>17/12/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Monash University</primarysponsorname>
+    <primarysponsoraddress>Wellington Rd, Clayton VIC 3168</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Psychosis is a debilitating neuropsychiatric syndrome characterized by delusions, hallucinations, disorganized thinking and cognitive and emotional disturbances. It is a defining characteristic of schizophrenia, and occurs frequently in other major mental illnesses such as depression and bipolar disorder. All current treatments for psychosis modulate levels of the neurotransmitter dopamine (DA), and it is thought that DA  dysregulation within circuits linking frontal brain regions with a set of subcortical nuclei called the striatum (the so called frontostriatal circuits) is a final common pathway for the emergence of psychotic symptoms. Precisely how this dysregulation arises however, remains a mystery.
+This study will be the first to combine Positron Emission Technology (PET) measures of striatal DA function with functional Magnetic Resonance Imaging (fMRI) measures of frontostriatal connectivity to investigate the way in which altered subcortical dopamine may give rise to, or arise from, aberrant frontostriatal connectivity.
+The project has three specific aims:
+1. characterise the direct relationship between PET markers of striatal DA function and fMRI measures of frontostriatal functional dysconnectivity;
+2. determine whether striatal DA abnormalities are a cause or consequence of frontostriatal dysconnectivity; and
+3. investigate the potential of these two phenotypes as clinical biomarkers by determining whether they can predict patients 12month clinical outcome.
+We will recruit 50 First Episode Psychosis (FEP) patients and 50 healthy controls to take part in the study. All participants will complete a clinical and brain imaging assessment at baseline. The brain imaging assessment will involve MRI and PET.
+FEP patients will additionally complete a clinical assessment after a 12 month
+followup period. No brain imaging will be conducted at this time. No followup of controls will be performed.
+During the followup period, the research staff will maintain regular contact with the patients' clinical team. Information on treatments will be acquired, enabling us to account for variations in treatment protocols in our analyses.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health HREC</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>15/08/2014</ethicapprovaldate>
+      <hrec>2014.047</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Alex Fornito</name>
+      <address>Monash Biomedical Imaging
+770 Blackburn Rd, Clayton VIC 3168</address>
+      <phone>+61 3 99029796</phone>
+      <fax />
+      <email>alex.fornito@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Amy Finlay</name>
+      <address>Monash Biomedical Imaging
+770 Blackburn Rd, Clayton VIC 3168</address>
+      <phone>+61 3 9902 9803</phone>
+      <fax />
+      <email>med-mcin-fdopa@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Alex Fornito </name>
+      <address>Monash Biomedical Imaging
+770 Blackburn Rd, Clayton VIC 3168</address>
+      <phone>+61 3 99029796</phone>
+      <fax />
+      <email>alex.fornito@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Amy Finlay</name>
+      <address>Monash Biomedical Imaging
+770 Blackburn Rd, Clayton VIC 3168</address>
+      <phone>+61 3 9902 9803</phone>
+      <fax />
+      <email>med-mcin-fdopa@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,194 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="347758">
+  <stage>Registered</stage>
+  <submitdate>29/11/2011</submitdate>
+  <approvaldate>30/11/2011</approvaldate>
+  <actrnumber>ACTRN12611001228976</actrnumber>
+  <trial_identification>
+    <studytitle>Impact of an Integrated Point of Care Testing service in the Emergency Department: a randomised trial</studytitle>
+    <scientifictitle>Impact of an Integrated Point of Care Testing service for patients presenting to the Emergency Department on time to disposition decision: a randomised trial</scientifictitle>
+    <utrn>U1111-1126-0569</utrn>
+    <trialacronym>IPoCT in the ED</trialacronym>
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Time taken for a disposition decision to be reached by doctors treating emergency depatment patients.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is to process blood tests of emergency department patients who meet inclusion/exclusion criteria using a point of care blood analyser stationed within the emergency department. The blood tests available are haemoglobin, electrolytes, creatinine, calcium, glucose, INR, troponin, D-Dimer, beta-HCG. Patient may recieve one or more of theses tests, but only once as part of their emergency department evaluation. Patients are involved in the study only as long as it takes for their doctor to make an admission or discharge decision (typically several hours at most).
+Patients will be recruited over a period of 8 months.</interventions>
+    <comparator>The control arm will have their required blood tests processed in the usual way using the central laboratory service. This involves taking a blood sample by venepuncture or via an intravenous cannula, generating a request form, and sending both the bllod sample and paperwork to the central laboratory via a pneumatic tube delivery system.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to admission/discharge decision</outcome>
+      <timepoint>Measured at time of admission/discharge decision</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in ED</outcome>
+      <timepoint>Measured at time patient leaves the ED</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to admission/discharge decision for patients with acute coronary syndrome</outcome>
+      <timepoint>Measured at time of admission/discharge decision</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay for those sent home from ED</outcome>
+      <timepoint>Measured at time patient leaves the ED</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay for those sent to emergency short stay ward</outcome>
+      <timepoint>Measured at time patient leaves the ED</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic evaluation</outcome>
+      <timepoint>All costs from time of arrival to ED to the time of departure from the ED</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.Age greater or equal to 18 years
+2.Presenting to the Emergency department
+3.Suspected acute coronary syndrome, or patient only requires blood tests that are available on point of care analyser</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Acute ST elevation mycardial infarct</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Study allocation will be recorded on a sheet of paper, each sheet sealed inside opaque sequentially numbered envelopes. These will be stored with the team co-ordinator in the ED.  When a patient meets inclusion criteria, the staff member enrolling the patient will ask the team co-ordinator for an allocation envelope. The team co-ordinator will take the next envelope in the sequence and give this to the treating doctor to open.</concealment>
+    <sequence>We will use a stratified block randomisation method to ensure balanced numbers of participants in each arm of the study. There will be two strata (those patients suspected of an acute coronary syndrome, and all other patient appropriate for point of care testing). Given that this study is unblinded, random block sizes will be used to prevent the possibility of predicting the allocation sequence.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>12/12/2011</anticipatedstartdate>
+    <actualstartdate>12/12/2011</actualstartdate>
+    <anticipatedenddate>28/02/2012</anticipatedenddate>
+    <actualenddate>26/04/2012</actualenddate>
+    <samplesize>620</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Sty George Hospital</primarysponsorname>
+    <primarysponsoraddress>Gray St,
+Kogarah, NSW, 2217</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Ministerial taskforce for Emercency Care (MTEC)</fundingname>
+      <fundingaddress>NSW Ministry of Health,
+73 Miller St, 
+North Sydney, 2060
+NSW</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The project aims to assess the impact of an Integrated Point of Care Testing service (IPcOT) within the emergency department. Point of care testing (PoCT) involves the installation of a blood analyser within the emergency department that can process a selection of specific tests. The emergency department staff operates the machine, and a result is available in a few minutes. IPoCT involves integrating this machine with the hospital pathology service so that the results of testing performed on this machine are recorded within the SEALS database, and these results can be accessed through the patients electronic medical record. It would seem intuitive that having a IPoCT machine in the ED would have obvious benefits with rapid availability of blood tests allowing rapid decision making that would translate into shorter ED LOS. However, this does not take into account that a IPoCT machine must be operated by ED staff, rather than the lab staff, increasing the work load of ED staff and diverting them away from their usual duties. The IPoCT machine may be able to process a single sample in several minutes, however, in a busy ED where many patients require blood tests simultaneously it is likely that multiple staff will be competing to process blood samples on the one machine, leading to a back-log of tests so that turn-around times for IPoCT could be much longer than expected. The aim of this study is to determine the impact that the availability of point of care testing has on time to admission/discharge decision, and a secondary objective is to perform an economic evaluation (ie what is the cost per unit time saved in decision making time?).</summary>
+    <trialwebsite />
+    <publication>Asha SE, Chan ACF, Walter E, Kelly PJ, Morton RL, Ajami A, Wilson RD, Honneyman D. Impact from point of care devices on emergency department patient processing times compared with central laboratory testing of blood samples: a randomised controlled trial and cost-effectiveness analysis. Emergency medicine journal. Published online first: 7 June 2013 doi:10.1136/emermed-2013-202632.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney and Illawarra Area Health Service Human Research Ethics Committee Central</ethicname>
+      <ethicaddress>St George Hospital
+Gray St
+Kogarah, 2217
+NSW</ethicaddress>
+      <ethicapprovaldate>18/11/2011</ethicapprovaldate>
+      <hrec>HREC/11/STG/170</hrec>
+      <ethicsubmitdate>11/10/2011</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Stephen Asha</name>
+      <address>Emergency Department
+St George Hospital
+Gray St, Kogarah, 2217
+NSW</address>
+      <phone>+61 2 9113 1650</phone>
+      <fax>+61 2 9113 1505</fax>
+      <email>stephen.asha@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Stephen Asha</name>
+      <address>Emergency Department
+St George Hospital
+Gray St, Kogarah, 2217
+NSW</address>
+      <phone>+61 2 9113 1650</phone>
+      <fax>+61 2 9113 1505</fax>
+      <email>stephen.asha@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Stephen Asha</name>
+      <address>Emergency Department
+St George Hospital
+Gray St, Kogarah, 2217
+NSW</address>
+      <phone>+61 2 9113 1650</phone>
+      <fax>+61 2 9113 1505</fax>
+      <email>stephen.asha@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Stephen Asha</name>
+      <address>Emergency Department St George Hospital Gray St, Kogarah, 2217 NSW</address>
+      <phone>+61 2 9113 1650</phone>
+      <fax>+61 2 9113 1505</fax>
+      <email>stephen.asha@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

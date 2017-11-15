@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372107">
+  <stage>Registered</stage>
+  <submitdate>25/01/2017</submitdate>
+  <approvaldate>2/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000173392</actrnumber>
+  <trial_identification>
+    <studytitle>Airway oxygen concentration during administration of oxygen from the inside of the cheek under general anaesthesia</studytitle>
+    <scientifictitle>Glottic oxygen concentration during prolonged laryngoscopy: a randomised controlled trial of buccal Ring-Adair-Elwyn (RAE) tube oxygen administration</scientifictitle>
+    <utrn>  U1111-1191-3646 </utrn>
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Apnoeic oxygenation under anaesthesia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>100% oxygen will be given via a standard anaesthetic facemask until end tidal oxygen (EtO2) is &gt;0.8. 10L/min 100% oxygen will then be delivered to patients in the intervention group from the moment that EtO2 is &gt;0.8 until the patient is intubated. This will be delivered via a 3.5mm internal diameter, oral south facing Ring-Adair-Elwyn (RAE) tube taped to sit on the inside of the cheek. Anaesthesia will be induced with standard monitoring including a transcutaneous monitor for O2 and CO2. The induction method will use intravenous Propofol target controlled infusion (Schnider model) started at 7mcg/mL (effect site concentration) (titrated to Entropy 40-60), intravenous Remifentanil target controlled infusion using Minto model at 4ng/mL (effect site concentration) (titrated to Entropy 40-60) and then intravenous Rocuronium infusion at 0.9mg/kg started 60s after the start of the infusions. The infusions will continue until the patient is intubated, at which point the lead anaesthetist clinically responsible for the case can take over the administration of the anaesthetic. 
+</interventions>
+    <comparator>100% oxygen will be given via a standard anaesthetic facemask until end tidal oxygen is &gt;0.8. A 3.5mm internal diameter, oral south facing RAE tube will still be taped to sit on the inside of the cheek.  No buccal oxygen will be delivered to patients in the control group. Anaesthesia will be induced with standard monitoring including a transcutaneous monitor for O2 and CO2. The induction method will use Propofol target controlled infusion (Schnider model) started at 7mcg/mL (effect site concentration) (titrated to Entropy 40-60), Remifentanil using Minto model at 4ng/mL (effect site concentration) (titrated to Entropy 40-60) and then Rocuronium at 0.9mg/kg started 60s after the start of the infusions.
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Glottic oxygen concentration as measured by a Bedfont G210 gas analyser connected so that gas is sampled from and returned to the airway via the proximal and medial ports (12G) of a 12Ch central venous catheter whose tip is sat at the glottic inlet.</outcome>
+      <timepoint>Over 10min of apnoea induced by anaesthesia.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Airway pressure as measured by the VT plus HF gas flow (pressure) analyser (FLUKE Biomedical) to distal port (16G) of the central venous catheter whose tip is sat at the glottic inlet. .</outcome>
+      <timepoint>Over 10min of apnoea induced by anaesthesia.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in transcutaneous carbon dioxide.</outcome>
+      <timepoint>Over 10min of apnoea induced by anaesthesia as measured by the TCM5 (Radiometer) attached to the sub-clavicular skin.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1)	Adult patients requiring general anaesthesia with endotracheal intubation for scheduled or expedited surgery.
+2)	Body Mass Index 20-30 
+3)	American Society of Anaesthesiologists -  1-2
+4)	Agree to and capable of understanding and signing the consent form.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1)	Age &lt;18
+2)	Chronic Respiratory Disease
+3)	SpO2 &lt;98% following pre-oxygenation
+4)	History of difficult intubation or anticipated difficult intubation.
+5)	Uncontrolled hypertension
+6)	Ischaemic Heart Disease / Congestive Cardiac Failure
+7)	Increased Intra-Cranial Pressure
+8)	Gastro-oesophageal Reflux Disease
+9)	Non fasted patients
+10)	Emergencies
+11)	Known allergy or contraindications to propofol, remifentanil or rocuronium
+12)	Contraindication to buccal
+13)	Inability to secure buccal or monitoring line for O2(e.g. beard)
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be randomised to buccal or facemask oxygen via a computer generated random sequence in an opaque envelope method.</concealment>
+    <sequence>A random number sequence will be generated by computer.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Sample size is calculated to detect a difference between the proportion of patients in each group reaching the primary end-point. Buccal oxygenation is anticipated to be highly effective with at least 80% patients maintaining glottic oxygen concentration &gt;0.7 and less than 10% of control patients achieving the same. To achieve 90% power at a significance level of 0.05, 9 patients in each group are required. A 10% inflation to cover any patient withdrawals brings the total sample size required to 20 patients. The primary end-point will be assessed with the chi-squared test. The secondary outcome of mean glottic pressure and rate of rise of transcutaneous CO2 will be assessed with t-tests or Mann Whitney U tests as appropriate.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>6/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/02/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/02/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Perth Hospital</primarysponsorname>
+    <primarysponsoraddress>Department of Anaesthesia, Royal Perth Hospital, Wellington Street, Perth. WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Department of Anaesthesia, Royal Perth Hospital</fundingname>
+      <fundingaddress>Royal Perth Hospital, Wellington Street, Perth. WA 6000.</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Aims and Justification
+The induction of anaesthesia can be associated with a drop in oxygen saturation particularly when there is difficulty in intubation (the placement of a flexible plastic tube into the trachea (windpipe) to maintain an open airway). We have recently published a study which showed that buccal (attached to the inside of the cheek) oxygen administration was highly effective at prolonging the time to oxygen desaturation in obese patients, at induction of anaesthesia. Nevertheless, a third of patients desaturated earlier than expected. This may have been due to the development of pulmonary shunt (collapse of the small airways) or a failure of the device to maintain a high oxygen concentration at the open glottis (start of the windpipe). The device may also be limited by accumulation of carbon dioxide during breaks in breathing (apnoea), and the degree of positive pressure generation at the glottis. 
+
+This follow up study will repeat the methodology of the original project, whilst assessing glottic oxygen concentration and pressure, as well as carbon dioxide accumulation. The objective is to ascertain the reliability of this technique at maintaining glottic oxygen concentration &gt;0.7 over 10 min apnoea. This will help us to further evaluate and refine this technique for oxygenation during apnoea.
+
+Project Design and Participant Groups
+This will be an open label, randomised, controlled trial in healthy, non-obese patients due for elective surgery. 
+
+Methods
+The protocol is based on our previous study with two study groups:
+
+(a)	10 l/min oxygen via a buccal RAE tube attached to the inside of the cheek as the intervention group, compared to:
+(b)	Standard care. 
+
+Measurements of glottic oxygen concentration (FO2), glottic airway pressure and transcutaneous carbon dioxide (CO2) concentration will be taken during 10 min of apnoea from induction of anaesthesia. The primary outcome will be the maintenance of glottic oxygen concentration &gt;0.7 after 10 min apnoea. We hypothesise that &gt;80% patients will maintain a glottic FO2&gt; 0.7 at 10 min apnoea using buccal oxygen in comparison to the &lt;10% of control patients. Our secondary aim is to find out the pressure at the glottis and rate of rise of CO2 during this technique. This secondary information will delineate the possible length of its clinical use and further evaluate this technique.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Perth Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>East Metropolitan Health Service 
+Level 3, Colonial House, Royal Perth Hospital, Perth WA 6000
+</ethicaddress>
+      <ethicapprovaldate>13/01/2017</ethicapprovaldate>
+      <hrec>2016-229</hrec>
+      <ethicsubmitdate>26/10/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Toner</name>
+      <address>Department of Anaesthesia, Royal Perth Hospital, Wellington Street, Perth. WA 6000</address>
+      <phone>+61 892242244</phone>
+      <fax />
+      <email>andrew.toner@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Toner</name>
+      <address>Department of Anaesthesia, Royal Perth Hospital, Wellington Street, Perth. WA 6000</address>
+      <phone>+61 892242244</phone>
+      <fax />
+      <email>andrew.toner@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Toner</name>
+      <address>Department of Anaesthesia, Royal Perth Hospital, Wellington Street, Perth. WA 6000</address>
+      <phone>+61 892242244</phone>
+      <fax />
+      <email>andrew.toner@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

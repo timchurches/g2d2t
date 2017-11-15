@@ -1,0 +1,199 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371605">
+  <stage>Registered</stage>
+  <submitdate>31/08/2017</submitdate>
+  <approvaldate>7/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001295336</actrnumber>
+  <trial_identification>
+    <studytitle>The relationship between hospital outcomes and increased sugar levels due to illness (stress hyperglycaemia) using a new marker called the Stress Hyperglycaemia Ratio</studytitle>
+    <scientifictitle>Stress hyperglycaemia and hospital outcomes in acutely hospitalised patients as determined by the Stress Hyperglycaemia Ratio </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stress hyperglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The association of stress hyperglycaemia with adverse outcomes associated with hospitalisations will be determined using admission glucose level, and the relative change in glucose at admission as determined by the Stress Hyperglycaemia Ratio. SHR is defined by glucose value closest to the time of admission divided by the estimated average glycaemia ( as calculated from the HbA1c using the formula developed by Nathan et al. Diab Care 2008;31:147314788. An adverse outcome is in-hospital death or the acute need for critical care, with patients being observed for the duration of the inpatient admission for the main endpoint, and up to 30 days post-discharge for the secondary endpoints. The strength of association of adverse outcomes will be compared in a multivariable model using admission glucose and admission Stress Hyperglycaemia Ratio, along with other variables known to impact outcomes.
+</interventions>
+    <comparator>The association of outcomes with glucose levels will act as the conventional control group. The patient cohort will be selected from patients admitted to hospital over the period 21/1/2013 to 25/7/2017 identified using hospital casemix (ICD10) databases.</comparator>
+    <control>Historical</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The composite outcome of in-hospital death or the acute need for critical care from the point of hospital admission until hospital discharge, using administrative hospital data (International Code of Diseases classification).</outcome>
+      <timepoint>The time of admission until the time of hospital discharge.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The development of new infection from the point of admission until 30 days after hospital discharge, excluding the initial primary admission diagnosis, as determined by casemix ICD10 coding and hospital records. </outcome>
+      <timepoint>The time of admission until 30 days post-discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The development of any new thrombus-related event (embolic stroke, MI, DVT, PE) from the point of admission until 30 days post-discharge, excluding the initial primary admission diagnosis as determined by casemix ICD10 coding and hospital records.  
+</outcome>
+      <timepoint>The time of admission until 30 days post-discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>In-hospital mortality as determined by hospital databases (ICD10 casemix coding). </outcome>
+      <timepoint>The time of admission until the time of hospital discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The need for critical care during hospitalisation, as identified by hospital databases (ICD10 casemix coding). </outcome>
+      <timepoint>Time of admission to time of discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inpatient admission </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>&lt;18 years age, admissions for psychiatric illness, obstetrics, gynaecology, specific management of blood glucose eg diabetic ketoacidosis, overdose, poisoning, dialysis, non-acute admissions for respite, chemotherapy, patients requiring routine post-op care in ICU.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Statistical power: Our previous work demonstrated a superior association between the Stress Hyperglycaemia Ratio and absolute glucose levels with a sample size of 2290 patients. The current database is expected to yield 7000 patients and will be should be well-powered to reproduce this association if it is present. 
+Variables of interest (glucose, SHR, age, haemoglobin, gender, renal function, ethnicity), will be subject to multivariable regression analysis to determine the association with adverse outcomes. 
+Locally Weighted Scatterplot Smoothing will be used to explore the relationship between patients with (HbA1c&gt;=6.5%) or without  (HbA1c&lt;6.5%) pre-existing chronic background hyperglycaemia. 
+Subgroup analysis of patients with mean glucose &lt;10mmol/L will be made to determine existence of clinically significant stress hyperglycaemia at glucose levels conventionally considered clinically insignificant. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Convenience sample</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>7/09/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>7/11/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>5000</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>7/11/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+    <postcode>5042 - Bedford Park</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Flinders Medical Centre</primarysponsorname>
+    <primarysponsoraddress>Flinders Drive, Bedford Park SA 5042</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Flinders Medical Centre</fundingname>
+      <fundingaddress>Flinders Drive, Bedford Park SA 5042</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Hyperglycaemia in hospitalised patients is independently associated with increased morbidity and mortality in a wide range of patient groups, including post-operative outcomes. The association between hyperglycaemia and poor  outcomes is strong in patients without diabetes, but a weaker predictor in patients with diabetes.
+This discrepancy is in part driven by the difficulty in distinguishing genuine stress hyperglycaemia from chronic high levels seen in diabetic patients. A high plasma glucose concentration in a hospitalised patient can occur because of chronic poor diabetes control and be normal for that patient, represent a transient physiologic response to an inter¬current illness (stress hyperglycaemia), or be a combination of the above. 
+A metric for stress hyperglycaemia has been developed at Flinders Medical Centre - the Stress Hyperglycaemia Ratio is defined as glucose concentration divided by the Estimated Average Glucose concentration, which is calculated from HbA1c. This enables quantification of the relative change in hyperglycaemia eg a patient with a SHR of 1.4 has an glucose concentration 40% higher than their average glucose over the prior 3 months. 
+Our previous work indicated that the relative change in glucose was a better indicator of stress hyperglycaemia and more strongly associated with adverse patient outcomes than glucose. This initial work needs to be confirmed in a further population of hospitalised patients. We also aim to study some specific subgroups of interest, namely infections (both at admission and those that develop during the admission), and events related to blood clots (heart attacks, stroke, deep vein thromboses, and pulmonary emboli). This will enable us to determine those patients who might benefit most from early management of elevated glucose levels due to stress hyperglycaemia.
+
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress>Flinders Medical Centre
+Flinders Drive
+Bedford Park, SA 5042</ethicaddress>
+      <ethicapprovaldate>27/02/2017</ethicapprovaldate>
+      <hrec>OFR # 475.16 - HREC/16/SAC/490</hrec>
+      <ethicsubmitdate>17/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive, Bedford Park, SA 5042</address>
+      <phone>+61 8 82046936</phone>
+      <fax>+61 8 82046245</fax>
+      <email>greg.roberts2@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive, Bedford Park, SA 5042</address>
+      <phone>+61 8 82046936</phone>
+      <fax>+61 8 82046245</fax>
+      <email>greg.roberts2@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive, Bedford Park, SA 5042</address>
+      <phone>+61 8 82046936</phone>
+      <fax>+61 8 82046245</fax>
+      <email>greg.roberts2@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive, Bedford Park, SA 5042</address>
+      <phone>61 8 82046936</phone>
+      <fax>61 8 82046245</fax>
+      <email>greg.roberts2@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

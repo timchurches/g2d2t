@@ -1,0 +1,229 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366713">
+  <stage>Registered</stage>
+  <submitdate>12/07/2014</submitdate>
+  <approvaldate>21/07/2014</approvaldate>
+  <actrnumber>ACTRN12614000773639</actrnumber>
+  <trial_identification>
+    <studytitle>A Clinical Validation Study to Determine Whether Whole Genome Sequencing (WGS) can Assist with Autopsy Findings for Families who have Experienced a Perinatal Death Without any Definitive Cause</studytitle>
+    <scientifictitle>Trio Analysis using Whole Genome Sequencing to Assist Interpretation of Autopsy Findings for Families who have Experienced a Perinatal Death Without any Definitive Cause</scientifictitle>
+    <utrn>U1111-1159-2295</utrn>
+    <trialacronym>WGS Clinical Validation Study to Assist with Perinatal Autopsy</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Genetic Causes of Perinatal Death</healthcondition>
+    <conditioncode>
+      <conditioncode1>Human Genetics and Inherited Disorders</conditioncode1>
+      <conditioncode2>Other human genetics and inherited disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>It is planned to perform Whole Genome Sequence (WGS) testing on the DNA samples of approximately 100 infants where autopsy findings where indeterminate, as well as their parents (a trio analysis) to further elucidate the cause of death.  In its raw form, the WGS data output will provide information on all 6 billion nucleotides from both nuclear and mitochrondrial DNA. This data will then to be interrogated using a validated bioinformatics approach to determine the relevance of such information to firstly known causes of perinatal death and later, to causes that have not been directly linked with perinatal death</interventions>
+    <comparator>The Wellderly database will be accessed to provide  comparator/control genetic information to compare with the study cohort. This is a private database located within the Scripps Insitute and includes full genomic information on approximately 1000 healthy individuals over the age of 80. The project began in 2008 with the aim of recruiting 2000 healthy individuals that are over 80 years of age.
+ </comparator>
+    <control>Historical</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To perform a complete genomic sequence on up to 100 perinatal cases which have previously undergone a comprehensive autopsy, as well as their parents (trio analysis). Following bioinformatics interrogation of the trio data, comparison with a wide range of databases and correlation with the autopsy findings, significant test results (of gene variants) will be validated using standard clinical diagnostic procedures such as the Sanger sequencing technique. </outcome>
+      <timepoint>3 months following recruitment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Computation genomce analysis (Cga) tools will be used to identify variants of interest that will be filtered by attributes pertaining to inheritance, coding DNA sequence, donor, acceptor and impact to investigate variants observed in parents and their offspring. Comparisons will then be made against the Wellderly database to ascertain the level of clinical significance to assign to any unusual genetic characteristics.</outcome>
+      <timepoint>3 months following recruitment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess the effect of the Whole Genome Sequencing (WGS) results on the original perinatal autopsy findings and whether this result contributes towards our understanding of the cause of death, and thus impacts on the management of future pregnancies.</outcome>
+      <timepoint>3 months following recruitment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Criteria for Inclusion  Perinatal Cases:
+1.	Perinatal death occurring at Mater Mothers Hospital between 2010 and 2014;
+2.	After attempting to contact both parents, minimally one parent has been contacted after 3 attempts and is willing to participant in this clinical trial
+
+Criteria for Inclusion  Biological Parent Participants:
+1.	A baby (from 20 weeks gestation to 28 days postpartum) who passed away at Mater Mothers Hospital between 2010 to 2014 
+2.	Able to attend at least the initial study visit for informed consent and blood collection
+3.	Important medical information pertaining to the deceased infant is part of the mothers medical notes
+</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Hours</inclusiveminagetype>
+    <inclusivemaxage>28</inclusivemaxage>
+    <inclusivemaxagetype>Days</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Criteria for Exclusion  Perinatal Cases:
+1.	Coronial Case
+2.	Insufficient or inadequate DNA sample 
+3.	Only the father is contactable and critical medical information about the deceased infant resides in the mothers medical notes.
+4.	One parent refuses permission for their childs DNA to be used for the study.
+
+Criteria for Exclusion  Biological Parent Participants:
+1.	A baby (from 20 weeks gestation to 28 days postpartum) who passed away at Mother Mothers Hospital between 2010 and 2014 that was/is the subject of a coronial investigation
+2.	A concurrent condition that may limit the decision-making capabilities of the participant during the informed consent process
+3.	Blood Donation of &gt;450ml within 30 days of the initial study visit
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>This project application describes an extension of the genetic component of the routine perinatal autopsy and thus the deleterious (disease-associated) genetic variants in each individual child will be assessed in accordance with their personal autopsy findings and clinical status. The project does not address a disease population vs. a normal population in the conventional research design sense. Therefore we will not be using conventional statistical approaches (i.e. disease population vs. normals) to evaluate the data. 
+
+Thus, the usual arguments about a minimal sample size do not apply to this study. However, based on industry standards for early phase proof of concept (POC) IVD clinical trials, a study population of 100 (pertaining to the primary outcome variable) is considered to be sufficient to detect any clinically significant linkages in both lethal and non-lethal variants and documented pathophysiology.
+
+The Intent-to-Treat (Diagnose) Population will include all WGS test results irrespective of whether the trio datasets are complete. The Intent-to-Diagnose population will be used for analysis of the primary efficacy endpoint.
+
+The Per-Protocol Population comprises complete trio datasets where there is WGS test results for the deceased infant or infants as well as both parents as well as all relevant clinical information.  The Per-Protocol population will be used for analysis of the secondary efficacy endpoint.  
+
+The bioinformatics plan has been structured to assess the functional impact and clinical relevance of all SNP variants. From this analysis, major functional variants can be identified and their relationship to clinical pathology and radiology results will then be assessed. Furthermore, linkage analysis will be performed within the trio datasets to determine whether the mutations are spontaneous or whether they have been inherited from a parent or parents. 
+
+In brief, Computation genome analysis (Cga) tools will be used to identify variants of interest that will then be filtered on the following attributes inheritance, coding DNA sequence (CDA), donor, acceptor and impact, to investigate variants observed in parents and their offspring. 
+
+It is planned to access the Wellderly database at Compete Genomics, a genomic database with full genomic data on 1000 people who have lived long and healthy lives. Comparisons will be made with a normal population to ascertain the level of clinical significance to assign to any unusual genetic characteristics. Furthermore, Ingenuity software will be applied to prioritize variants of autosomal dominant inheritance. 
+
+Other data mining software used to interrogate complex system biology datasets such as Integrative Genomics Viewer (IGV) and OmniViz will be used to visualize information and determine the significance of variants that are not as well described. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Both</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>4/08/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>2/02/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Mater Mother's Hospital - South Brisbane</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Mater Health Services</primarysponsorname>
+    <primarysponsoraddress>Raymond Tce
+South Brisbane QLD 4101</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Mater Health Services</fundingname>
+      <fundingaddress>Raymond Tce
+South Brisbane QLD 4101</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Complete Genonmics</othercollaboratorname>
+      <othercollaboratoraddress>2071 Stierlin Court
+Mountain View
+California 94043
+</othercollaboratoraddress>
+      <othercollaboratorcountry>United States of America</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Approximately one percent of pregnancies result in a death during the perinatal period, which extends from 20 completed weeks of gestation until 28 days after birth. The causes of unexpected death during this period range from obvious gross structural abnormalities, placental dysfunction and transplacentally-acquired infections, to cases where there is no apparent reason for the early demise of the fetus or neonate.
+A percentage of these perinatal deaths that have no detectable gross structural abnormalities may, for example, occur due to underlying cardiac channelopathies, cardiomyopathies and potentially, some forms of epilepsy. Such conditions at a development stage may not leave any clinically significant characteristics at autopsy such as histological abnormalities detectable with light microscopy or anatomical changes normally observed with MRI.
+In essence, this study is an extension to the usual genetic analysis component of our perinatal autopsy protocol, enabled by a new technology that is currently maturing. Thus, the rationale of this trial is to provide more information on the cause of perinatal death and improve the clinical management of families whose babies have died during the perinatal period. </summary>
+    <trialwebsite>None</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Health Services Human Research Ethics Committee (EC00332)</ethicname>
+      <ethicaddress>Raymond Tce
+South Brisbane QLD 4010</ethicaddress>
+      <ethicapprovaldate>3/06/2014</ethicapprovaldate>
+      <hrec>HREC/14/MHS/74</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Deon Venter</name>
+      <address>Mater Pathology
+Level 7
+Corporate Services Bldg
+Raymond Tce
+South Brisbane QLD 4101</address>
+      <phone>+617 3163 2073</phone>
+      <fax />
+      <email>Deon.Venter@mater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Deon Venter</name>
+      <address>Mater Pathology
+Level 7
+Corporate Services Bldg
+Raymond Tce
+South Brisbane QLD 4101</address>
+      <phone>+617 3163 2073</phone>
+      <fax />
+      <email>Deon.Venter@mater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Deon Venter</name>
+      <address>Mater Pathology
+Level 7
+Corporate Services Bldg
+Raymond Tce
+South Brisbane QLD 4101</address>
+      <phone>+617 3163 2073</phone>
+      <fax />
+      <email>Deon.Venter@mater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Allison Sutherland</name>
+      <address>c/o
+Mater Pathology
+Level 7
+Corporate Services Bldg
+Raymond Tce
+South Brisbane QLD 4101</address>
+      <phone>+614 23 684 659</phone>
+      <fax />
+      <email>dr.asutherland@gmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,188 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83216">
+  <stage>Registered</stage>
+  <submitdate>29/09/2008</submitdate>
+  <approvaldate>19/01/2009</approvaldate>
+  <actrnumber>ACTRN12609000042246</actrnumber>
+  <trial_identification>
+    <studytitle>Trial of a computer decision support system and structured medical assessment for children with a febrile illness presenting to the Emergency Department of The Children's Hospital at Westmead</studytitle>
+    <scientifictitle>Febrile children less than 5 years with a febrile illness are assesed by doctors using either a computer decision support system, a structured febrile assessment tool or standard care for the diagnosis of pneumonia, urinary tract infection or bacteraemia</scientifictitle>
+    <utrn />
+    <trialacronym>FEVER</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Febrile illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The computer decision support system (Intervention 1.) graphically displays the risk of pneumonia, urinary tract infection and bacteraemia in individual children after a structured assessment. The intervention also includes recommendations for further testing and antibiotic use.  
+The computer decision support system is a graphical display of a diagnostic algorithm that is based on clinical findings collected in a mandatory structured medical assessment tool, completed by the Emergency department doctor assessing the febrile child. The structured medical assessment consists of 40 stem questions and 25 conditional questions about past medical history, current illness history, clinical observations, physical examination and vaccination status.  The structured assessent is completed at the time the child is seen by the Emergency Department (ED) doctor.  The structured assessment takes between 5 and 15 minutes to complete depending on responses and doctor familiarity with the tool.  The computer decision support system is on a computer screen that appears after completion of the structured assessment tool.  doctors can close the screen immediately or review it as long as desired.  Intervention 2 is the structured medical assessment tool identical to that used in Intervention 1.</interventions>
+    <comparator>Intervention 1 will be compared with Intervention 2 and also compared with standard care. Standard care involves doctors completing their assessment and recording what details they consider important.</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Appropriate antibiotic use.  Results of urine culture, blood culture and chest x rays done at The Childrens Hospital at Westmead (CHW) and other health carers will determine disease positive or negative.  Antibiotic use is collected from ED medical notes and asking parents at follow-up. Diagnoses of non-serious bacterial illness is collected from ED medical notes.</outcome>
+      <timepoint>At the time of the febrile illness. Measured once for each febrile illness, children may present more than once during the study period with a febrile illness.  The study period is 2 years, 20th February 2007 to 19th February 2009</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Frequency of relevant investigations (chest x-rays, urine cultures, blood culture). Measured once for each febrile illness.</outcome>
+      <timepoint>Measured once for each febrile illness during the study period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Representation to The Childrens Hospital at Westmead Emergency Department with the same febrile illness. A visit for the same illness is defined as one within 24 hours of a previous visit, or, a visit in which the child had not been febrile for &lt; 24 hours between the two visits.  The afebrile period is determined from review of clinical notes and direct questioning of parents at 10-14 day followup.</outcome>
+      <timepoint>At the time of the febrile illness.  Measured once for each febrile illness.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Admission.  The number of admissions to a hospital ward for managament of the Admission details are electronically extracted from the Childrens' Hospital admissions database.  Parents are questioned about other health care facilities attended when they are contacted at the 10-14 day follow-up. The average duration of the stay in a hospital ward for management of the febrile illness will be calculted from all admissions during the period.</outcome>
+      <timepoint>Measured once, at the time of the febrile illness.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Antibiotics. The total number of episodes that were given antibiotics while the child was in the Emergency Department.  The total number of episodes where the antibiotics given in ED were via intravenous (IV) route. The total number of episodes where the antibiotics given in ED were via oral route. The total number of episodes where each different type of antibiotic was used.  Antibiotic use is collected from details recorded in the electronic medical record of the child and from direct questioning of parents at time of 10-14 day follow-up.  Contradiction between the two responses is resolved by weighting clinical documents over parental recall.</outcome>
+      <timepoint>Measured once, at the time of the febrile illness.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Illness Duration. Average duration of illness 
+Average duration of fever. Parents are contacted at 10-14 days after presentation to The Childrens Hospital Emergency Department and questioned about current health status of their child, when the child became fever free and when the child was well again.  Time periods are grouped into morning, day and eveing time slots for simpler recall.  Duration calculations use designated times for each period to calculate duration since Emergency department presentation ( a field electronical downloaded from the Emergency department database).</outcome>
+      <timepoint>Measured one, at the time of the febrile illness.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health-care facility utilization. Total number of episodes where the child was taken to see a general practitioner (GP) or other health care provider. Total number of episodes where the child was taken to another hospitals Emergency department.  Total number of episodes where the childs GP or other health care provider performed a reference test of interest to the study (Chest x ray, blood culture, urine culture).  Total number of episodes where the childs GP or other health care provider prescribed antibiotics</outcome>
+      <timepoint>At the time of the febrile illness during the study period; 20th February 2007 to 19th February 2009.  At 10-14 day follow-up parents are contacted by telephone and asked about attendance at other health care facilties and what tests and medical treatments were performed.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Children less than 5.0 years at presentation to The Childrens Hospital at Westmead Emergency Department, presenting for assessment of a febrile illness.  A febrile illness is defined as; A preseting problem recorded by a triage nurse as relating to fever (ICD10AM codes R50.0, R50.1, R50.9, R56.0), or A positive response to the triage questions; Has your child felt hot in the past 24 hours? or Has your childs temperature been taken in the past 24 hours?, (yes) and the response options     38.0  38.9oC or 39.0  39.9oC or &gt; 40.0oC are chosen   	OR Nurse measured temperature of =38.0 o C recorded in Observation screen/notes</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>5</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Children greater than 5.0 years of age at presentation
+Children transferred in from another hospital (assessed elsewhere and transferred here from another facility)
+Children with a reference test result performed less than 24 hours prior to ED presentation for the current illness (ie urine, blood, CSF, joint/fluid cultures, chest x ray, bone scan as detailed in the ED Summary)
+Children presenting as a child protection unit case (ie suspected child abuse as detailed in ED Summary)
+Children currently or previously treated for cancer (as detailed in ED Summary)
+Children on immunosuppression therapy or with a primary immunodeficiency (as detailed in ED summary)
+Children who present with a new burn injury (ie the reason for the visit) and who trigger the study only because they 'Felt Hot' and have no other indications that the visit is related to a febrile illness</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Cluster randomised trial.  Each Emergency Department doctor is a cluster.  Junior doctors are randomly allocated to one of the three intervention arms the first time they login to the Emergency Department electronic medical record database and remove an eligible febrile child from the waiting list.  Each doctor remains in the allocated group for the duration of their time at The Children's Hospital at Westmead.  Emergency Department consultants and Emergency Department Fellows are randomised from a separate computer generated list from junior doctors.  These doctors were known at the start of the study and their computer login names were entered manually into the Emergency Department database but without knowledge of the randomised allocation list.  This separate randomisation list was necessary to ensure a balance of allocations for the much smaller group of highly experience senior Emergency departent staff.</concealment>
+    <sequence>Computer generated randomised list.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>20/02/2007</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>17000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>2145</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>The Childrens Hospital at Westmead</primarysponsorname>
+    <primarysponsoraddress>Locked bag 4001, Westmead, NSW 2145</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Reserch Council</fundingname>
+      <fundingaddress>GPO Box , Acton Canberra, ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Sydney</sponsorname>
+      <sponsoraddress>School of Public Health, Edward Ford Building A27, The University of Sydney, Camperdown, NSW 2006</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In Australia every year about 400,000 children become acutely unwell with fever. Some have life-threatening illnesses such as meningitis and blood infection. Accurate and prompt diagnosis is essential so that effective treatment can be given as soon as possible and the likelihood of rapid and complete recovery can be maximised. Routinely, this diagnostic process involves the attending physician taking a history, examining the patient and then ordering relevant tests. For most bacterial diseases in children the definitive test results are only available after a lag phase of at least 24 hours.  Thus, it is possible for children who do not have disease to receive unnecessary treatment, and children who do have disease not to be treated. 
+
+The traditional diagnostic decision making process does not give clinicians the best available information.  Ideally, the clinician should know how likely different diseases are in febrile children and how accurate the history taking, examination, and diagnostic test processes are.  These questions have been addressed through careful evaluation and follow-up of approximately 17,000 febrile children, less than 5 years old, who attended the Emergency Department of The Childrens Hospital, Westmead, between July 2004 and June 2006 (Phase 1 of the study).  These data are currently being completed and analysed and will inform a diagnostic algorithm that calculates the likelihood of serious bacterial infection in individual patients and displays it to the treating physician using interactive software. This new method will be compared with the usual diagnostic process using a cluster randomised controlled trial, in which clinicians will be the unit of randomisation.</summary>
+    <trialwebsite />
+    <publication>None thus far</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Childrens Hospital at Westmead Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 4001, Westmead, NSW 2145</ethicaddress>
+      <ethicapprovaldate>12/09/2006</ethicapprovaldate>
+      <hrec>2006/076</hrec>
+      <ethicsubmitdate>14/08/2006</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Professor Jonathan Craig</name>
+      <address>Centre for Kidney Research, The Childrens Hospital at Westmead, Locked bag 4001, westmead, NSW 2145</address>
+      <phone>+61 2 98453431</phone>
+      <fax>+61 2 98451491</fax>
+      <email>jonc@health.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Professor Jonathan Craig</name>
+      <address>Centre for Kidney Research, The Childrens Hospital at Westmead, Locked bag 4001, westmead, NSW 2145</address>
+      <phone>+91 2 98453431</phone>
+      <fax>+61 2 98451491</fax>
+      <email>jonc@health.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Gabrielle Williams</name>
+      <address>Centre for Kidney Research, The Childrens Hospital at Westmead, Locked bag 4001, westmead, NSW 2145</address>
+      <phone>+61 2 98451492</phone>
+      <fax>+61 2 98451491</fax>
+      <email>gabriew4@chw.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

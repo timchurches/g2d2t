@@ -1,0 +1,228 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366897">
+  <stage>Registered</stage>
+  <submitdate>12/08/2014</submitdate>
+  <approvaldate>17/02/2015</approvaldate>
+  <actrnumber>ACTRN12615000150549</actrnumber>
+  <trial_identification>
+    <studytitle>Effectiveness of Budesonide in patients with functional dyspepsia.</studytitle>
+    <scientifictitle>A randomised placebo controlled, double blind study to evaluate the effectiveness of Budesonide in reducing symptoms in patients with functional dyspepsia
+</scientifictitle>
+    <utrn>None</utrn>
+    <trialacronym>None</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Functional Dyspepsia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Budesonide
+a) 9mg (1 effervescent tablet contains 3 mg budesonide/ taken 3 times daily)
+b). Duration - 8 weeks
+c) Dissolve EACH tablet in 50  mL of water and wait for tablet to finish effervescing. Then mix in with apple sauce and take 1 hour before meals.
+d). Tablet return is the strategy used to monitor adherence.</interventions>
+    <comparator>Placebo -effervescent tablet</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Symptom reduction during the objective nutrient challenge test (participants will be asked to drink 200 ml of a liquid meal consisting of 3.8 g protein, 13.8 g carbohydrate, 3.4 g fat/100 ml every five minutes and report symptoms after a total of 600 ml). The questionnaire will ask about fullness, nausea, bloating and pain using a 100mm VAS scale from unnoticeable to unbearable.
+
+</outcome>
+      <timepoint>End of treatment (8 weeks)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Histological eosinophil quantitation and immunopathological evaluation </outcome>
+      <timepoint>End of treatment (8 weeks)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome> Quality of life: Nepean Dyspepsia Index
+</outcome>
+      <timepoint>End of treatment (8 weeks),1 month Follow-up (12 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Psychological distress (anxiety and depression): validated Hospital Anxiety and Depression Scale </outcome>
+      <timepoint>End of treatment (8 weeks), 1 month Follow-up (12 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Diary - abdominal symptom intensity: Mechanical Visual Analogue Scale (M-VAS) </outcome>
+      <timepoint>End of treatment (8 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome> Th2 T cell responses in the duodenum (qPCR and explant culture).</outcome>
+      <timepoint>End of treatment (8 weeks)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Functional Dyspepsia patients with duodenal eosinophilia </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients with type I diabetes, immunosuppression, active infection, TB, peptic ulcer, liver or renal disease, or osteoporosis. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Subjects qualifying for the study (n= 70) will be randomized to one of two treatment arms using random blocks by computer. Concealed allocation will be assured by central allocation through the JHH, PAH, Nepean Hospital and Gosford Hospital pharmacies. Recruited patients will undergo a washout period of 2 weeks and eligible patients will attend an appointment at the outpatient clinic to formally consent to the study, complete baseline assessments and collect medication. </concealment>
+    <sequence>Random blocks by computer</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>A randomized, double-blind, placebo-controlled trial, with a 2 arm design, consisting of 3 phases: a 2-week drug free screening phase, an 8-week, identical placebo treatment phase, and a post treatment follow up phase over 4 weeks.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Statistical analysis plan: Randomized groups will be compared in terms of potentially confounding variables. If any baseline differences between groups are found that may affect the outcome variables these will be included as covariates in a covariance model including group and covariate terms. If the assumption of normality is not met formal inference will employ the nonparametric bootstrap. A sample of n=32 per study group will provide statistical power &gt;0.9 at the 0.01 (two-tailed) level of statistical significance if the improvement in mean eosinophil count is 50% from a base of mean 33, SD=19 among treated individuals but only 15% among controls. N=32 per group will also provide statistical power of 0.9 at the 0.01 level of statistical significance for a Cohen d effect size of 1.0 for comparisons of symptom reduction.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>21/02/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/01/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>70</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <hospital>Gosford Hospital - Gosford</hospital>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>2747 - Kingswood</postcode>
+    <postcode>2250 - Gosford</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Newcastle</primarysponsorname>
+    <primarysponsoraddress>University of Newcastle
+University Drive
+Callaghan NSW 2308</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Newcastle
+</fundingname>
+      <fundingaddress>University of Newcastle
+University Drive
+Callaghan NSW 2308</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Falk Pharmaceuticals</fundingname>
+      <fundingaddress>Falk Foundation e.V.
+Leinenweberstr. 5
+D-79108 Freiburg
+Postbox 6529
+D-79041 Freiburg
+Germany
+</fundingaddress>
+      <fundingcountry>Germany</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Functional dyspepsia affects a considerable proportion of Australians and results in significant personal and economic cost. There is as yet no cure for this condition and current treatments are generally not effective for the majority of people with functional dyspepsia. 
+
+New research into the causes of functional dyspepsia have found that the numbers of a type of immune cell, the eosinophil, are increased in the top of the small bowel in patients with dyspepsia.
+
+A treatment called Budesonide has been shown to lower the amount of the eosinophils in the top of the small bowel. Budesonide  is already an effective treatment in the management of other diseases including coeliac disease, collagenous sprue, oesophagitis and bronchitis. It is suspected that Budesonide will also be a promising treatment for functional dyspepsia but this needs to be properly tested.
+
+In this study we aim to test the effectiveness of Budesonide in people with functional dyspepsia in a randomised placebo controlled, double blind study. </summary>
+    <trialwebsite>None available</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Hunter New England Research Ethics &amp; Governance Unit
+Locked Bag 1
+New Lambton NSW 2305
+</ethicaddress>
+      <ethicapprovaldate>23/06/2014</ethicapprovaldate>
+      <hrec>13/12/11/3.01</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Nicholas Talley</name>
+      <address>HMRI Building
+University of Newcastle
+Lookout Rd
+New Lambton NSW 2305</address>
+      <phone>+61 2 4921 5885</phone>
+      <fax />
+      <email>Nicholas.Talley@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Natasha Koloski</name>
+      <address>HMRI Building
+University of Newcastle
+Lookout Rd
+New Lambton NSW 2305</address>
+      <phone>61407126897</phone>
+      <fax />
+      <email>Natasha.Koloski@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Natasha Koloski</name>
+      <address>HMRI Building
+University of Newcastle
+Lookout Rd
+New Lambton NSW 2305</address>
+      <phone>+61 407126897</phone>
+      <fax />
+      <email>Natasha.Koloski@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Natasha Koloski</name>
+      <address>HMRI Building
+University of Newcastle
+Lookout Rd
+New Lambton NSW 2305</address>
+      <phone>0407126897</phone>
+      <fax />
+      <email>Natasha.Koloski@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,205 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365799">
+  <stage>Registered</stage>
+  <submitdate>13/02/2014</submitdate>
+  <approvaldate>27/02/2014</approvaldate>
+  <actrnumber>ACTRN12614000213640</actrnumber>
+  <trial_identification>
+    <studytitle>Is nut-enriched bread an acceptable and effective vehicle for improving satiety and blood glucose response?</studytitle>
+    <scientifictitle>A randomised controlled crossover intervention to compare the effects of different types of nut-enriched bread on glycaemic response, satiety and acceptance in healthy volunteers</scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Glycaemic response</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This will be a randomised controlled crossover study with 4 arms:
+
+Arm 1: Control bread
+Arm 2: Finely sliced hazelnut bread
+Arm 3: Hazelnut flour bread
+Arm 4: Combined finely sliced hazelnut and hazelnut flour bread
+
+This study will be carried out to assess the effects of the 4 different breads on glycaemic response, satiety and acceptance. Participants will be assigned in random order to recieve the 4 treatments. There will be a 1-week washout between treatments
+Each bread treatment phase will last 8 days. On days 1 and 8 participants will consume the amount of bread equivalent to that containing 50g of available carbohydrate in order to measure glycaemic response. On day 2 participants will consume the amount they would usually consume for breakfast in order to perform the satiety testing. On days 3-7 participants will consume 120 g of bread and will measure their 'overall liking' and 'desire to consume' the bread. 
+On days 1 and 8 participants will consume the bread at the research centre. On days 2-7 participants will consume the bread at home. Each day participants will complete a tick list on how they consumed the bread to measure compliance. Participants will be sent reminder text to enhance compliance.</interventions>
+    <comparator>The control bread will be made with the same recipe as the nut-enriched bread, but will not contain nuts.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Glycaemic response will be measured by taking finger prick blood samples at baseline and at 15, 30, 45, 60 90, 120 minutes after consuming the bread for analysis of blood glucose.  Area under the curve and glycaemic index will be calculated.Each bread will be measured in duplicate.</outcome>
+      <timepoint>Glycaemic Index will be measured over a 2 hour period following bread consumption on day 1 and day 8</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Satiety will be measured using a 150mm visual analogue scale</outcome>
+      <timepoint>Satiety will be tested at hourly intervals up to three hours following bread consumption on day 2 of the protocol</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Acceptance will be measured on days 3-7 of the protocol using a 150mm visual analogue scale. Participants will rate their "overall liking" and "desire to consume" the bread.</outcome>
+      <timepoint>Acceptance will be measured:
+1. In a laboratory setting immediately before and at the completion of the intervention period.
+
+2. In a free living situation over a 5 day period of consuming each of the breads as recored on a daily basis by participants completing visual analogue scales rate their "overall liking" and "desire to consume" the bread .</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Healthy males and females aged 18-65 inclusive who are currently consuming at least 3 slices of bread.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>People with diabetes mellitus
+People with disorders of carbohydrate metabolism
+People with intolerances or allergies to nuts or bread
+Pregnant or lactacting females</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment will be used. This will be achieved through allocation being performed by a research assistant who will have no involvement in the enrolment process.</concealment>
+    <sequence>Simple randomisation will be performed using a randomisation table created by computer software. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The primary outcomes will be modelled using mixed models with random participant and random participant-intervention effects to accommodate the two levels of repeated measures.  All analyses will be performed using Stata 12.1 or a later version and all tests will be performed at the two-sided 0.05 level.
+In order to detect moderate to large differences in GI values between any two arms of the trial (0.6 SD, equivalent to differences in GI values of 12.6 based on a SD of 21 for white bread from Venn et al. and assuming an ICC of 0.3 for the two repeated measures at each time point (based on a conservative rounding upwards of an ICC of 0.27 for white bread from Williams et al., 29 participants would be needed to provide 80% power when using a two-sided test at the 0.05 level.  In order to allow for 10% loss of data to attrition, 33 participants would be needed at the start of the study. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>27/02/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>5/03/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>33</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>University of Otago
+PO Box 56
+Dunedin
+9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago Research Grant</fundingname>
+      <fundingaddress>PO Box 56
+Dunedin
+9054</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>To obtain health benefits, nuts must be consumed regularly and in sufficient amounts. The National Heart Foundation of New Zealand recommends the daily consumption of 30 g of nuts as a means to reduce cardiovascular disease. However, the 2008/09 New Zealand Adult Nutrition Survey (NZANS) showed that only 6.9% of New Zealanders consumed nuts with a mean population intake of 2.8 g/d. Therefore innovative strategies are required to increase nut consumption. One such strategy is to incorporate nuts into a common staple in New Zealand such as bread. 
+Therefore this study will compare the effects of consuming three different forms of hazelnut-enriched bread (sliced, hazelnut flour and a combination of the two), with control bread without nuts, on blood glucose response, satiety (fullness), and acceptance.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The University of Otago Human Ethics Committee (Health)</ethicname>
+      <ethicaddress>PO Box 56
+Dunedin
+9054</ethicaddress>
+      <ethicapprovaldate>27/01/2014</ethicapprovaldate>
+      <hrec>H14/004</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Brown</name>
+      <address>Department of Human Nutrition
+University of Otago
+PO Box 56 
+Dunedin
+9054</address>
+      <phone>+64 3 479 5839</phone>
+      <fax />
+      <email>rachel.brown@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Brown</name>
+      <address>Department of Human Nutrition
+University of Otago
+PO Box 56 
+Dunedin
+9054</address>
+      <phone>+64 3 479 5839</phone>
+      <fax />
+      <email>rachel.brown@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Brown</name>
+      <address>Department of Human Nutrition
+University of Otago
+PO Box 56 
+Dunedin
+9054</address>
+      <phone>+64 3 479 5839</phone>
+      <fax />
+      <email>rachel.brown@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Brown</name>
+      <address>Department of Human Nutrition
+University of Otago
+PO Box 56 
+Dunedin</address>
+      <phone>+64 3 479 5839</phone>
+      <fax />
+      <email>rachel.brown@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

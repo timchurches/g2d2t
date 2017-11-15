@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364396">
+  <stage>Registered</stage>
+  <submitdate>10/06/2013</submitdate>
+  <approvaldate>15/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000911796</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised controlled trial comparing the effectiveness of standard teaching methods and new teaching methods for anaesthetic registrars on how to manage a 'Can't intubate Can't Ventilate' (CICV) scenario</studytitle>
+    <scientifictitle>A randomised controlled trial comparing the effectiveness of standard teaching methods and new teaching methods for anaesthetic registrars on how to manage a 'Can't intubate Can't Ventilate' (CICV) scenario</scientifictitle>
+    <utrn>U1111-1144-1905</utrn>
+    <trialacronym />
+    <secondaryid>CMDHB trial number 1177</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Can not intubate can not ventilate scenarios</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Registrars randomised to the intervention group will receive both the standard teaching and the new teaching methods for management of a 'Can't Intubate Can't Ventilate' (CICV) scenario. The standard teaching method involves teaching 2 different techniques using airway models. The two different techniques taught are: 1. Needle Cricothyrotomy: A cricothyrotomy is a needle placed through the skin and cricothyroid membrane to establish a means to oxygenate the patient during certain life-threatening situations, such as airway obstruction by a foreign body, angioedema, or massive facial trauma. Cricothyrotomy is nearly always performed as a last resort in cases where or tracheal and nasotracheal intubation are impossible or contraindicated, and ventilation is impossible. Cricothyrotomy is easier and quicker to perform than tracheotomy, does not require manipulation of the cervical spine, and is associated with fewer complications. However, while cricothyrotomy may be life-saving in extreme circumstances; this technique is only intended to be a temporizing measure until a definitive airway can be established. 2. Surgical Cric: Surgical cricothyroidotomy is an emergent airway approach in which the clinician makes an incision in the cricothyroid membrane and passes a tracheotomy or endotracheal tube into the trachea. The four step technique is a recognized method of surgical cricothyroidotomy. The new teaching method will involve random spontaneous testing with feedback on these 2 different techniques over a 6 month period. Both groups will be reassessed by blinded assessors at baseline, 6 months and 12 months.
+</interventions>
+    <comparator>The control group will receive the standard teaching method for management of a 'Can't Intubate Can't Ventilate' scenario. The control group will be reassessed by blinded assessors at baseline, 6 months and 12 months. The standard teaching method takes approximately 3 hours.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to perform a needle cricothyroidotomy assessed with a stopwatch</outcome>
+      <timepoint>At time 12 months.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Time to perform a surgical airway assessed with a stop watch.</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Global rating scores(GRS). We will be using the GRS developed by S.Boet (BJA 107(4): 533-9 (2011)). The GRS is a method of assessing how efficiently the procedure was completed.</outcome>
+      <timepoint>At time 0 and  6 months and 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Task specific check list(TCL). We will be using the TCL developed by S.Boet (BJA 107(4): 533-9 (2011)). The TCL is a method of assessing how methodically the procedure was completed.</outcome>
+      <timepoint>At time 0 and 6 and 12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Anaesthetic registrars with greater than 6 months anaesthetic experience.</inclusivecriteria>
+    <inclusiveminage>23</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>50</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>less than 6 months anaesthesia.
+if leaving NZ in less than one year</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The recruitment, assessment and intervention will occur in two waves 6 months apart. The recruitment wave will be included as a fixed effect in all analyses, and removed if non-significant. </concealment>
+    <sequence>Randomisation
+Stratified block randomisation will be used to allocate participants into one of the two intervention arms. The strata will consist of the waves, and the permuted blocks within the strata will have random block sizes of undisclosed size. The randomisation schedule will be generated using computer code written by the study statistician and based on the standard pseudo-random number generator used in the R software (v 3.0.0) with seed set using the decimal part of the seconds reading in the system time.
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>none</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Primary analyses will consist in fitting separate ANCOVA models to each primary outcome using baseline outcome values as continuous covariates and intervention group as factor, using the ITT analysis set. P-values will be adjusted for false discovery rate control at 5% and confidence intervals about the effect sizes computed based on a false coverage rate of 95% to adjust for the multiplicity. The primary alternative hypothesis will be selected if both adjusted p-values reach the significance threshold with both primary outcomes being improved on average.
+
+Secondary analyses will consist in a repetition of the primary analysis in the PP set and also for the secondary outcomes in the ITT set.
+
+Sample size computation:
+The minimal clinically important difference (MCID) is set at 30 for both procedures. A standard deviation of 36 seconds is assumed for both procedures, based on data from the literature (Ref BJA 2011: 107:533-9 and Anaesthesia 2007 oct) on needle cricothyrotomy whose time to completion is more variable than surgical cricothyrotomy. Assuming a conservative correlation figure of 0.3 between baseline and outcome and a reasonable design effect of 1.1 due to the clustering (wave) variable, we will require 23 participants in each group to detect the MCID with 80% power at the stated significance level. Assuming a 10% attrition fraction, we will seek to recruit 26 participants per arm, for a total of 52.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>9/12/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>56</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Middlemore Hospital</primarysponsorname>
+    <primarysponsoraddress>Dept Anaestheisa, middlmore hospital, 100 Hospital Road, Otahuhu, auckland 1640. </primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Middlemore Hospital, Dept Anaesthesia.</fundingname>
+      <fundingaddress>Dept Anaesthesia, Middlemore Hospital, 100 Hospital Road, Otahuhu,  Auckland, 1640 New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A.	Study Objectives:
+To compare two groups of anaesthetic registrars in their ability to manage a  CICV(cant intubate, cant ventilate) scenario. 
+Both groups will have the standard teaching method for CICV- then proceed to :-
+Group A: No further teaching for CICV (control)
+Group B : New Teaching method for CICV.
+We will then reassess the registrars at time 0,3,6, and 12 months with blinded assessors for the primary endpoint (time to perform the techniques) and secondary endpoint( task specific check lists and global rating scores)
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern X Regional Ethics Commitee</ethicname>
+      <ethicaddress>Health and Disability Ethics Committees
+Ministry of Health
+1 the Terrace
+PO Box 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>29/11/2012</ethicapprovaldate>
+      <hrec>12/NTA/88</hrec>
+      <ethicsubmitdate>16/11/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>louise sherman</name>
+      <address>Dept anaesthesia, Middlemore hospital, 100 Hospital road, Otahuhu, auckland. 1640</address>
+      <phone>+ 642760000</phone>
+      <fax />
+      <email>louise.sherman@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>louise sherman</name>
+      <address>Dept anaesthesia,
+Middlemore hospital,
+100 Hospital Road,
+otahuhu,
+auckland 1640.</address>
+      <phone>+ 642760000</phone>
+      <fax />
+      <email>louise.sherman@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>louise sherman</name>
+      <address>Dept anaesthesia,
+middlemore hospital,
+100 Hospital Road,
+otahuhu,
+auckland 1640</address>
+      <phone>+642760000</phone>
+      <fax />
+      <email>louise.sherman@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>louise sherman</name>
+      <address>Dept anaesthesia,
+middlemore hospital,
+100 Hospital Road,
+otahuhu,
+auckland 1640</address>
+      <phone>+ 64 2760000</phone>
+      <fax />
+      <email>louise.sherman@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

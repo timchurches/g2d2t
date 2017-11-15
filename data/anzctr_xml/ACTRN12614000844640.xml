@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365973">
+  <stage>Registered</stage>
+  <submitdate>30/06/2014</submitdate>
+  <approvaldate>7/08/2014</approvaldate>
+  <actrnumber>ACTRN12614000844640</actrnumber>
+  <trial_identification>
+    <studytitle>Transform a Tooth with a Transformer Tooth: a  randomised control trial of the Hall Technique compared with conventional restorative care in 3-7-year-old children in the New Zealand Community Oral Health Service with primary outcome of clinical and radiographic success </studytitle>
+    <scientifictitle>A randomised control trial of the Hall Technique compared with conventional restorative care for dental decay in 3-7-year-old children in the New Zealand Community Oral Health Service with primary outcome of clinical and radiographic success </scientifictitle>
+    <utrn>U1111-1154-5280</utrn>
+    <trialacronym>TAT Wanganui</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Dental caries</healthcondition>
+    <healthcondition>Oral health related quality of life</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The Hall Technique is a method of managing dental caries in primary molar teeth by cementing a preformed stainless steel crown onto the tooth on a single occasion without caries removal or local anaesthesia and takes approximately 10 minutes per tooth. </interventions>
+    <comparator>Conventional restorative care involves tooth preparation with caries removal and local anaesthesia when needed and in most cases placing a plastic restoration , and also sometimes a preformed stainless steel crown on a single occasion and takes approximately 30 minutes.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Survival of restoration without pain and infection detected clinically and radiographically</outcome>
+      <timepoint>3 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Family impact scale</outcome>
+      <timepoint>3 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Child health utility measure</outcome>
+      <timepoint>Three years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Consenting child aged 3-7 years, free from complicating medical history, with 2 surface caries in molar tooth or teeth requiring treatment </inclusivecriteria>
+    <inclusiveminage>3</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>7</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Child unable to be examined due to inability to comply, no caries or only single surface caries, complicating medical history, outside age range.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Children who have consented to be part of the study will have dental examination and those fitting inclusion criteria will proceed in study. They will then be randomised to one or other treatment group by a sealed opaque envelope that is blinded to the clinician when assessing teeth for inclusion.</concealment>
+    <sequence>Electronic randomisation table</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Data analysis
+Data analyses will be performed using Stata Version IC12 (Stata Corp., College Station, TX, USA). Estimates of failure rates for conventional restorations (25%) and Hall technique SSCs (10%) are supported by our feasibility study and previous research. Data analysis will be conducted in four stages. In the first stage, descriptive statistics will be utilised to describe socio-demographic characteristics of participants in both intervention arms. In the second stage, Poisson regression will be applied to the primary outcomes of clinical and radiographic success, adjusting for socio-demographic characteristics and fluoridation status, and clustering for types of dental caries lesions. In the third stage, each scalar measure will be analysed using ordinal logistic regression, adjusting for socio-demographic characteristics and fluoridation status, and clustering for types of dental caries lesions. In the final stage, linear regression will be applied to laboratory data on caries progression for exfoliated teeth, adjusting for lesion depth, and clustering by lesion type, with treatment type as the exposure of interest.
+Power Analysis &amp; Sample Size Calculation
+A feasibility study conducted in 2011-2012 indicated procedural success rates of 59.4% for conventional treatment and 93.1% for the Hall Technique at 24 month follow-up. Utilising this new data for sample size calculations, a conservative power analysis suggests a minimum of 32 in each arm, or 64 total (assuming alpha=0.05 and beta=0.90) Assuming 33% loss to follow-up over 3 years, we only need to to recruit 42 children in each arm (84 total). This data came in after the trial started and hence we stopped any further recruitment as we had enough children in each arm.
+ </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>27/06/2014</anticipatedstartdate>
+    <actualstartdate>7/07/2014</actualstartdate>
+    <anticipatedenddate>19/12/2014</anticipatedenddate>
+    <actualenddate>20/12/2014</actualenddate>
+    <samplesize>84</samplesize>
+    <actualsamplesize>150</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>19/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wanganui</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>364 Leith Walk, North Dunedin, Dunedin 9016
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cure Kids</fundingname>
+      <fundingaddress>Laundry Building
+Suite 4, Level 4
+58 Surrey Cresent
+Grey Lynn 1021
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Whanganui District Health Board</fundingname>
+      <fundingaddress>Postal Address: Whanganui District Health Board, Private Bag 3003, Whanganui 4540.
+Physical Address: 100 Heads Road, Whanganui 4501.</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>3M</fundingname>
+      <fundingaddress>94 Apollo Dr, Rosedale, Auckland 0632</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Tooth decay is a really common problem. For years decayed teeth have been fixed by drilling out the decay and then placing fillings. We know that in childrens teeth, fillings dont last for as long as they do in adults, and that this often means fillings are done again and again in the same tooth.
+The Hall Technique is a new way of treating decayed childrens primary molar (back) teeth. In the Hall Technique, a stainless steel crown (SSC) is glued on over the decayed tooth without injections or drilling. This seals in the decay and stops it from getting worse, and the stainless steel crown lasts for longer than any other type of filling, so retreatment is less likely to be needed.
+This study will measure the success of Hall Technique compared to the treatment usually given (mostly fillings) for children who attend the Whanganui District Health Board Community Oral Health Service dental clinics. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern B Health and Disibility Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>29/04/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>19/03/2014</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Lyndie Foster Page</name>
+      <address>Dept Oral Rehabilitation
+Faculty of Dentistry
+University of Otago
+PO Box 647
+Dunedin 9054</address>
+      <phone>+64 3 4795853</phone>
+      <fax />
+      <email>lyndie.fosterpage@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lyndie Foster Page</name>
+      <address>Dept Oral Rehabilitation
+Faculty of Dentistry
+University of Otago
+PO Box 647
+Dunedin 9054</address>
+      <phone>+64 3 4795853</phone>
+      <fax />
+      <email>lyndie.fosterpage@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Dorothy Boyd</name>
+      <address>Dept Oral Sciences
+Faculty of Dentistry
+University of Otago
+PO Box 647
+Dunedin 9054
+ </address>
+      <phone>+64 3 4795853</phone>
+      <fax />
+      <email>dorothy.boyd@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

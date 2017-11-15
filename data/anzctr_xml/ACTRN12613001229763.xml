@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365217">
+  <stage>Registered</stage>
+  <submitdate>29/10/2013</submitdate>
+  <approvaldate>8/11/2013</approvaldate>
+  <actrnumber>ACTRN12613001229763</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised control trial of the effect of Niacinamide on Fibroblast Growth factor 23 (FGF23) levels in Chronic Kidney Disease.
+</studytitle>
+    <scientifictitle>A randomised, double-blind, placebo-controlled trial to assess the effect of niacinamide on levels of Fibroblast Growth factor 23 (FGF23) in patients with chronic kidney disease stages 3b-4.</scientifictitle>
+    <utrn>U1111-1146-6508</utrn>
+    <trialacronym />
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Elevated levels of FGF23 in chronic kidney disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Niacinamide (500mg 4 x daily)
+Administration: oral capsules
+Duration of treatment: 16 weeks
+Adherence will be monitored by count of remaining capsules at each trial visit every 4 weeks</interventions>
+    <comparator>Matched placebo (500mg 4 x daily)
+Administration: oral capsules
+Duration of treatment: 16 weeks
+
+Placebo (maltodextrin) that is indistinguishable from the active treatment but containing no active ingredients.  </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in serum intact FGF23 (measured by Kainos hFGF-23 Elisa assay)</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum phosphate</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>24 hour urinary phosphate</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum parathyroid hormone (PTH)</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>estimated Glomerular Filtration rate (eGFR)</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum high-density lipoprotein (HDL)</outcome>
+      <timepoint>At baseline, 4 weeks, 8 weeks, 12 weeks and 16 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patients with Chronic Kidney Disease (CKD) Stages 3b-4 (eGFR between 15-45ml/ min/1.73m2)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Patients with a history of psychological illness or condition which interferes with their ability to understand or comply with the requirements of the study
+2. Medical conditions that impact on phosphate metabolism (apart from CKD), eg. primary hyperparathyroidism or hypoparathyroidism; previous subtotal parathyroidectomy; gastrointestinal malabsorption disorders such as Crohns disease, ulcerative colitis, coeliac disease or severe liver dysfunction 
+3. Treatment with any drug that could impact on mineral metabolism  
+4. Treatment with anti-epileptic drugs
+5. Treatment with anticoagulants
+6. Renal transplantation
+7. Rapid changes of residual renal function
+8. Serum PTH greater than 50 pmol/L
+9. Serum albumin less than 30g/L
+10. Active malignancy
+11. Pregnancy or breast feeding
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation by sealed opaque envelopes.</concealment>
+    <sequence>Permuted block randomisation by the use of sequentially numbered opaque sealed envelopes for each trial cohort.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>A randomised double blind, double dummy, placebo-controlled trial</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>For sample size considerations, we used published literature reporting repeated measures of FGF23.  Based on published data, we assume the mean (SD) FG23 to be 72 (39) RU/mL in the control group.  Based on a reduction in FGF23 of 33% we assume the mean (SD) FGF23 to be 48 (39) RU/mL in the experimental group, which is a clinically important and detectable difference.  We have assumed an overall correlation between baseline and follow-up measurements of 0.7 based on a number of studies, but have also tested the sensitivity of power calculations using modelled correlation values of 0.1 and 0.9. Modelling these assumptions using repeated-measures analysis of covariance (ANCOVA), allowing for a 25% drop-out rate, and using a correlation value of 0.7, treatment groups of 18 would provide adequate power (power 0.9, 2-sided alpha 0.05). When correlation values of 0.1 or 0.9 are assumed sufficient treatment groups are 22 and 7 respectively.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>7/01/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>90</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Christopher Hood</primarysponsorname>
+    <primarysponsoraddress>Renal Department
+Middlemore Hospital
+Private Bag 93311
+Otahuhu
+Auckland 1640</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Auckland Medical Research Foundation</fundingname>
+      <fundingaddress>Ground Floor
+89 Grafton Rd
+Grafton
+Auckland 1010
+PO Box 110139
+
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary goal of this study is to determine if treatment with niacinamide will reduce levels of FGF23 in patients with CKD.  FGF23 is elevated in CKD and has been associated with left ventricular hypertrophy and cardiac death.  Low phosphate diet and phosphate binders have been shown to reduce levels of FGF23.  If niacinamide is shown to successfully reduce FGF23 levels it will provide an easier "real world" approach to the early treatment of the mineral and bone disorder associated with CKD.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>New Zealand Health and Disability Ethics Committees</ethicname>
+      <ethicaddress>C/- MEDSAFE, Level 6, Deloitte House
+10 Brandon Street
+PO Box 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>22/10/2013</ethicapprovaldate>
+      <hrec>13/STH/124</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher Hood</name>
+      <address>Middlemore Hospital
+Private Bag 93311
+Otahuhu
+Auckland 1640</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>chrisjhood@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher Hood</name>
+      <address>Middlemore Hospital
+Private Bag 93311
+Otahuhu
+Auckland 1640</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>chrisjhood@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher Hood</name>
+      <address>Middlemore Hospital
+Private Bag 93311
+Otahuhu
+Auckland 1640</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>chrisjhood@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,194 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336253">
+  <stage>Registered</stage>
+  <submitdate>18/11/2010</submitdate>
+  <approvaldate>25/11/2010</approvaldate>
+  <actrnumber>ACTRN12610001038088</actrnumber>
+  <trial_identification>
+    <studytitle>Antibiotic Dosing Calculator for Neonates and Children Trial</studytitle>
+    <scientifictitle>A study in premature and full term neonates and children using non-blinded randomized intervention to compare a standard protocol dose versus dose calculator predicted dose of either vancomycin, amikacin or gentamicin with outcome measured by closeness to target concentration</scientifictitle>
+    <utrn>U1111-1118-2034</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A comparison will be made of standard of care protocol dose method with a web based pharmacokinetic model based dose calculator. The dose calculator uses primarily weight, post-menstrual age and serum creatinine. Additional factors include use of mechanical ventilation, inotropes and non-steroidal anti-inflammatory drugs. It is used to predict the initial dosing of vancomycin, amikacin or gentamicin. The intervention is applied once when initial dosing is decided by the clinician.</interventions>
+    <comparator>The study will be performed at 3 sites. Each site has its own protocol for standard of care dosing of vancomycin, amikacin and gentamicin.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary endpoint is how close the measured concentration is to the target concentration. Concentrations are measured in serum using standard clinical chemistry laboratory procedures.</outcome>
+      <timepoint>The first measured drug concentration is decided by the clinician in charge. There are guidelines for timing of the concentration which is most commonly at the time of the 3rd dose.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinician preference for standard of care dosing or web based dose calculator dosing will be assessed using a standard questionnaire.</outcome>
+      <timepoint>The secondary endpoint will be assessed at the end of the trial (12 months) or if a clinician who has participated leaves the clinical site before the trial finishes.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>requires treatment with either vancomycin, gentamicin or amikacin</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>2</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>None</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Randomized allocation
+Allocation determined by computer</concealment>
+    <sequence>computer random number generator</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacokinetics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/02/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland</primarysponsorname>
+    <primarysponsoraddress>The University of Auckland
+Private Bag 92019
+Auckland 1142
+New Zealand</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Auckland</fundingname>
+      <fundingaddress>The University of Auckland
+Private Bag 92019
+Auckland 1142
+New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Auckland hospital</othercollaboratorname>
+      <othercollaboratoraddress>Auckland City Hospital/
+Te Papakainga Atawhai Campus
+Private Bag 92024
+Auckland Mail Centre
+Auckland 1142</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Middlemore Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 93311
+Otahuhu
+Auckland 1640
+New Zealand</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Test of a pharmacokinetically guided dose calculator for dosing of vancomycin, gentamicin or amikacin in premature neonates, neonates and infants</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern Y Regional Ethics Committee</ethicname>
+      <ethicaddress>3rd floor, BNZ building 
+354 Victoria St
+PO Box 1031
+Hamilton</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>19/11/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Nick Holford</name>
+      <address>Dept Pharmacology &amp; Clinical Pharmacology 
+85 Park Road, Auckland, Private Bag 90219</address>
+      <phone>6499236730</phone>
+      <fax />
+      <email>n.holford@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nick Holford</name>
+      <address>Dept Pharmacology &amp; Clinical Pharmacology 
+85 Park Road, Auckland, Private Bag 90219</address>
+      <phone>6499236730</phone>
+      <fax />
+      <email>n.holford@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nick Holford</name>
+      <address>Dept Pharmacology &amp; Clinical Pharmacology 
+85 Park Road, Auckland, Private Bag 90219</address>
+      <phone>6499236730</phone>
+      <fax />
+      <email>n.holford@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

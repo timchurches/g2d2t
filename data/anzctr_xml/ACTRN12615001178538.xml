@@ -1,0 +1,186 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369510">
+  <stage>Registered</stage>
+  <submitdate>21/10/2015</submitdate>
+  <approvaldate>3/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001178538</actrnumber>
+  <trial_identification>
+    <studytitle>Efficacy of the installation of safety features to access steps to homes in Wellington and New Plymouth</studytitle>
+    <scientifictitle>Effect of the installation of handrails and high-visibility slip-resistant edgings to access steps. on rates of medically treated home injury due to falls among the general population who occupy houses with a flight of &gt;4 and less than or equal to 15 access steps to the front door in the Wellington Region and New Plymouth.</scientifictitle>
+    <utrn />
+    <trialacronym>SOS</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>medically treated injury</healthcondition>
+    <healthcondition>falls</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Installation of safety features on access steps to home.  These consist of handrails and step edgings (where possible) that are slip-resistant and high-visibility. The outcomes will be assessed based on an anonymised address match, so as long as addresses of injured people are recorded correctly, the exposures will be appropriately assigned during analysis.</interventions>
+    <comparator>Status quo: absence of safety features on access steps to home</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Count of medically treated home fall injuries. These will be identified from ACC records  by anonymously matching addresses of injured people receiving ACC subsidy for medical treatment to the addresses of houses in the study.. This match will be undertaken by ACC staff, not by the study team. </outcome>
+      <timepoint>3.5 years after treatment (or for controls: 3.5 years after median point of treatment for treatment group)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Count of medically treated home injuries due to falls where the word step appears in the injury description in ACC records. Relevant injuries will be identified by anonymously matching addresses of injured people receiving ACC subsidy for medical treatment to the houses in the study.. This match will be undertaken by ACC staff, not by the study team. </outcome>
+      <timepoint>3.5 years after treatment (or for controls: 3.5 years after median point of treatment for treatment group)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Assessment of safety benefits only for those who received the modifications (excluding those in treatment group who did not consent to the modifications). Relevant injuries will be identified by anonymously matching addresses of injured people receiving ACC subsidy for medical treatment to the houses in the study. </outcome>
+      <timepoint>3.5 years after treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Houses in Wellington Region (New Zealand) or New Plymouth, with access steps to front door in flights of between 5 and 15 steps but where there are not more than 20 steps in total to the front door. These steps lack handrails and high-visibility slip-resistant nosings.</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Houses not fulfilling inclusion criteria</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment> The people who determined if a house was eligible for inclusion in the trial were unaware, when identifying houses, to which group the house would be allocated. After lists of eligible houses had been compiled, randomisation was done at a central administration site by computer.. </concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation). Within geographical areas, a random number is generated and attached to each eligible address. The lowest one third of such numbers identify which addresses receive the modifications (the treatment).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>Negative Binomial Generalised Linear Models will be fitted to estimate fall rates per household with outcome being counts of fall injuries and covariates address-specific falls in the year prior to the study, number of steps and a group identifier (treatment or control). A sub-analysis will be conducted to identify any interactions between the group identifier and (i) prior falls (ii) number of steps in two strata: 5-8 and 9-15.
+
+On the basis of a previous study (the HIPI study) and analysis of new ACC claims for 2012 classified by the setting of the injury, injuries on steps can be estimated to occur in at least 6% of the population of houses studied per year, or 18% over three years, over which timespan injuries will be monitored for this study. For the power calculation, we have used 18% as the baseline rate. This may be conservative given that we will focus on houses with at least five steps with identified hazards, which we assume will pose a greater injury risk. 
+
+The expected relative risk of these injuries for the treated houses relative to the control houses can be expected to be about 0.61 (a reduction in risk of 39%), based on HIPI results for specific injuries (those injuries most likely to be influenced by the modifications made in that study). We have conservatively used 0.65 (a reduction in risk of 35%) in our power calculations. For a study with 400 houses and 800 control houses with a three-year rate of falls per control house of 0.18 and a true relative risk of injury of 0.65, we will be able to reject the null hypothesis that this relative risk equals one with 82% power, using a Type I error probability of 0.05.  
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>15/10/2015</actualstartdate>
+    <anticipatedenddate>11/02/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington and Taranaki</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>PO Box 56
+Dunedin, 9054
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>PO Box 5541, Wellesley Street, Auckland 1141</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Around 1,200 addresses will be identified in the Wellington Region and New Plymouth where there are more than 5 access steps and neither handrails nor step edgings (nosings). From these, 400 addresses will be randomly sampled to receive modifications at no cost to the occupants or owners. The modifications will consist of the provision of handrails and step edgings and minor step repairs where necessary. 
+An address match for the treatment group homes and the control homes in the same area will then be conducted by the national injury insurer, ACC, to identify falls in the home that received ACC-funded medical treatment over the period before modification and after modification of the addresses in the study. Analysis will then be conducted on anonymised counts identified only by the general location, age group and sex of the injured people, and a random digit per address to identify falls happening at the same address (so that clustering by household can be accommodated in the analysis). The main analysis will be according to Intention to Treat principles, where injury rates for all homes allocated to the treatment group are compared to the controls. A secondary analysis will consider the safety benefits only for homes that consented to have the modifications done.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Otago Human Ethics Committee</ethicname>
+      <ethicaddress>Academic Services
+Clocktower Building
+University of Otago, 
+PO Box 56
+Dunedin, 9054
+New Zealand
+</ethicaddress>
+      <ethicapprovaldate>13/07/2015</ethicapprovaldate>
+      <hrec>D15/205</hrec>
+      <ethicsubmitdate>1/07/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Keall</name>
+      <address>University of Otago, Wellington
+PO Box 7343, Wellington South 6242</address>
+      <phone>+644 918 6794 </phone>
+      <fax>+644 389 5319 </fax>
+      <email>michael.keall@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Keall</name>
+      <address>University of Otago, Wellington
+PO Box 7343, Wellington South 6242</address>
+      <phone>+644 918 6794 </phone>
+      <fax>+644 389 5319 </fax>
+      <email>michael.keall@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Keall</name>
+      <address>University of Otago, Wellington
+PO Box 7343, Wellington South 6242</address>
+      <phone>+644 918 6794 </phone>
+      <fax>+644 389 5319 </fax>
+      <email>michael.keall@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Keall</name>
+      <address>University of Otago, Wellington
+PO Box 7343, Wellington South 6242</address>
+      <phone>+644 918 6794 </phone>
+      <fax>+644 389 5319 </fax>
+      <email>michael.keall@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

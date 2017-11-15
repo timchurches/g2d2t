@@ -1,0 +1,195 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="347773">
+  <stage>Registered</stage>
+  <submitdate>28/11/2011</submitdate>
+  <approvaldate>6/12/2011</approvaldate>
+  <actrnumber>ACTRN12611001242910</actrnumber>
+  <trial_identification>
+    <studytitle>Establishing a comprehensive tissue archive for multi-center prospective longitudinal and cohort studies - Step 1: Prostate cancer - Validation of the HistoBest Biopsy Chip(TM) (patent pending) as a diagnostic tool and enabling technology in the screening for retroviruses, genetic susceptibility and somatic mutations</studytitle>
+    <scientifictitle>Evaluation by histopathology examination and immunohistochemistry on TRUS-guided prostate biopsy samples of the presence, location, extension and grade of tumor (Gleason score) in patients with suspicion of prostate cancer</scientifictitle>
+    <utrn>U1111-1126-0992</utrn>
+    <trialacronym>STOPCANCER</trialacronym>
+    <secondaryid>NONE</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>prostate cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Other renal and urogenital disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>prostate cancer diagnosis via systematic TRUS-guided prostate biopsy (once per patient, lasting ~ 20 min):
+
+- prostate samples are harvested via systematic TRUS-guided biopsy using a Bard MAGNUM (Registered trademark) biopsy gun (Bard Biopsy Systems Inc., Tempe, AZ, USA) and 18G x 20 mm core tissue biopsy needles; 
+- local anesthesia is achieved by intrarectal application of 2% lidocaine gel, without periprostatic nerve block;
+- in selected cases antibiotic prophylaxis is used, consisting in single dose fluoroquinolone derivatives or amoxicillin administered before the procedure;
+- up to 14 biopsy cores per patient are extracted and placed in a HistoBest Biopsy Chip (Trademark) matrix in grooves at specified positions and in the same orientation with respect to the entry point of the biopsy needle;
+- the location of each core is marked with a number on a prostate diagram map for each biopsy protocol sheet, allowing unambiguous and easy location of the tumor and estimation of its size and extension.</interventions>
+    <comparator>histopathology examination + immunohistochemistry for p63 and Alpha-Methylacyl-CoA Racemase (AMACR) primary antibodies (once only per patient, lasting 3 days):
+
+- processing of biopsy-loaded matrices is performed in a standardized fashion, and consists in: fixation for 24 +/- 2 hours with 0.2 M phosphate-buffered 4% formaldehyde (pH 7.5), dehydration in graded ethanols, optional storage in buthanol, clarifying in transition solvents, infiltration and embedding in paraffin, semi-serial sectioning at 4-5 mm, mounting on positively charged glass slides, and classical hematoxylin-eosin or immunohistochemistry staining</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>presence of cancer (Y/N)</outcome>
+      <timepoint>at diagnosis</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>location of cancer (location of positive prostate biopsy cores)</outcome>
+      <timepoint>at diagnosis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>extension of cancer (in mm and % of length of each biopsy core)</outcome>
+      <timepoint>at diagnosis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>grade of cancer (Gleason score)</outcome>
+      <timepoint>at diagnosis</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>clinical/biochemical suspicion of prostate cancer
+(positive digital rectal examination - DRE and/or
+prostate specific antigen - PSA &gt;= 2.5 ng/ml)</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>There are no exclusion criteria</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>19/07/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>MedNewLife Medical Center</primarysponsorname>
+    <primarysponsoraddress>Str. Romulus 57, Bucharest</primarysponsoraddress>
+    <primarysponsorcountry>Romania</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>HistoBest Diagnostics S.R.L.</fundingname>
+      <fundingaddress>Blvd. Carol I 24, Bucharest</fundingaddress>
+      <fundingcountry>Romania</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>Genetic Lab</sponsorname>
+      <sponsoraddress>Blvd. Ghencea 43B, Bucharest
+Ghencea Business Center, 3rd floor</sponsoraddress>
+      <sponsorcountry>Romania</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of the trial is to assess the effectiveness and safety of a new method for parallel harvesting, processing and analysis of prostate biopsy cores using a new grooved organic matrix, HistoBest Biopsy Chip(TM) (patent pending).
+The current hypothesis is that use of this matrix will improve prostate cancer histopathology diagnosis, in several ways:
+- by facilitating and encouraging a systematic biopsy approach
+- by reducing time and material expenses in processing and analysis of histopathology samples
+- by allowing a precise location of the tumor and its extension, because information pertaining to the location and orientation of each biopsy core within the prostate is preserved.
+
+Another goal of the study is to establish a comprehensive tissue archive in view of further studies, such as screening for retroviruses, genetic susceptibility and somatic mutations in prostate cancer.</summary>
+    <trialwebsite />
+    <publication>Musat S., Farcas C.P., Dumitrescu M., Amuzescu B., Mischianu D.: A multiplex system for processing and analysis of prostate biopsies. Romuro 2011- the 27th National Urology Congress, Timisoara,  26-27 oct 2011, abstract p. 9
+
+Farcas, C.P., Dinu M., Ilie C.P.,  Madan V.,  Popescu R., Spinu D., Amuzescu B., Mischianu D.: The statistical and clinical importance of ERSPC risk indicator in the management of patients with prostate cancer.  Romuro 2011- the 27th National Urology Congress, Timisoara,  26-27 oct 2011, abstract p. 8
+
+Amuzescu B., Farcas C., Mischianu D., Musat S.: A new method for simultaneous processing and analysis of prostate core biopsies, Eur. Urol. - manuscript in preparation</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Local Ethics Committee, "Carol Davila" Central Military Emergency University Hospital, Bucharest</ethicname>
+      <ethicaddress>"Carol Davila" Central Military Emergency University Hospital
+Str. Mircea Vulcanescu 88, Bucharest</ethicaddress>
+      <ethicapprovaldate>14/07/2011</ethicapprovaldate>
+      <hrec>104/14/07/2011</hrec>
+      <ethicsubmitdate>11/07/2011</ethicsubmitdate>
+      <ethiccountry>Romania</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Sorin Musat</name>
+      <address>HistoBest Diagnostics S.R.L.
+Blvd. Carol I 24, Bucharest</address>
+      <phone>+40 (0) 768 73 51 94</phone>
+      <fax>+40 (0) 21 326 39 96</fax>
+      <email>s_musat@yahoo.com</email>
+      <country>Romania</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Catalin Farcas</name>
+      <address>"Carol Davila" Central Military Emergency Hospital, Str. Mircea Vulcanescu 88, Bucharest</address>
+      <phone>+40 (0) 722 228 392</phone>
+      <fax>+40 (0) 21 315 51 11</fax>
+      <email>catalinfarcasmd@gmail.com</email>
+      <country>Romania</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Bogdan Amuzescu</name>
+      <address>HistoBest Diagnostics S.R.L.
+Blvd. Carol I 24, Bucharest</address>
+      <phone>+40 (0) 21 318 15 73</phone>
+      <fax>+40 (0) 21 318 15 73</fax>
+      <email>bogdan@biologie.kappa.ro</email>
+      <country>Romania</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

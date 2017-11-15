@@ -1,0 +1,270 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363542">
+  <stage>Registered</stage>
+  <submitdate>27/02/2013</submitdate>
+  <approvaldate>6/03/2013</approvaldate>
+  <actrnumber>ACTRN12613000265774</actrnumber>
+  <trial_identification>
+    <studytitle>The SMART Study: Can a Smartphone Application Improve Adherence to Antiretroviral Therapy? </studytitle>
+    <scientifictitle>In patients with HIV infection can a smartphone application designed to enhance patients' understanding of their illness (compared to a reminder device), increase rates of adherence to antiretroviral therapy?</scientifictitle>
+    <utrn>U1111-1137-4579</utrn>
+    <trialacronym>The SMART Study</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>HIV infection</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Acquired immune deficiency syndrome (AIDS / HIV)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants (patients with HIV infection attending the Auckland City Hospital Infectious Diseases Unit) in the intervention group will receive an augmented smartphone application to use for three months (in addition to standard care). 
+
+The application contains three components designed to facilitate adherence to antiretroviral therapy (ART); 
+(a) 24 hour timer reminding the participant when to take their medications 
+(b) predicted blood concentrations of medications based on medication-taking as entered into the application by the patient
+c) graphical representation of HIV &amp; CD4 cell activity based on predicted medication concentrations and blood tests.
+
+1. Standard care for patients with HIV infection at Auckland City Hospital is an appointment at the Infectious Diseases outpatient clinic once every six months (with either an Infectious Diseases consultant or specialist nurse) and a blood test once every three months (to determine CD4 count and HIV viral load). There is no additional care for participants taking part in the study.
+
+2. Participants will be only asked to enter their medication use into the application. Thus, the frequency of use will depend on the complexity of their treatment regimen. Any use of the application in addition to entering medication use is completely at the participants discretion.</interventions>
+    <comparator>Participants in the control group will also receive a smartphone application to use for three months (in addition to standard care). However this application will only contain component (a) - the 24 hour timer reminding the participant when to take their medications. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>HIV viral load (copies/ml)
+
+The HIV viral load will be measured in the Virology Laboratory (Lab Plus, Auckland City Hospital) by the COBAS AmpliPrep/Taqman HIV-1 Test. This is a RT/PCR based assay that effectively detects all HIV-1 group M subtypes. It can quantitate HIV-1 RNA over the range of 20 - 10,000,000 copies/ml.</outcome>
+      <timepoint>at three months after randomisation</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Medication Adherence Report Scale score</outcome>
+      <timepoint>at three months after randomisation</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Pharmacy dispensings (the number and dates of dispensings of ART for each participant from 01 January 2012 to 01
+September 2013, and the dates of any missed collections, were obtained from local pharmacy
+records).</outcome>
+      <timepoint>three months after randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Brief Illness Perception Questionnaire (BIPQ) score</outcome>
+      <timepoint>at three months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>CD4 count (cells/mm3)
+
+The total and percentage of CD3, CD4 and CD8 positive cells will be measured by flow cytometry in the Cell Markers section of the Haematology Laboratory, (Lab Plus, Auckland City Hospital). </outcome>
+      <timepoint>at three months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Smartphone application usage 
+(i.e. the number of times that each participant viewed each particular component of their application, and
+the amount of time spent on each component). Data were recorded on the smartphone application and analysed using Google analytics software.</outcome>
+      <timepoint>one and two weeks after randomisation
+one and three months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Evaluation of smartphone application
+
+Participants were asked how satisfied they were with the application and how useful they found each particular component for reminding them to take their medications. The questionnaire enquired about specific properties of the application, namely; ease of use, visual appeal, discretion, information provision, and an overall rating. Each item was rated on an 11-point scale (0 to 10) with relevant anchors. 
+
+Each participant was also asked whether they would recommend the application to other patients on ART, and (in an open-ended question format) which features of the application worked well, which features did not work well, and any improvements they would make to the application.  
+</outcome>
+      <timepoint>one and three months after randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Every participant must be:
+-on antiretroviral therapy for at least 6 months
+-a patient at the Auckland City Hospital Infectious Diseases clinic
+-over 18 years of age
+-have a smartphone</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Participants will be excluded from the study if they:
+-are under 18 years of age
+-do not have a smartphone
+-are unable to give informed consent
+-are unable to speak, write and read English</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Sample Size Calculation: Previous randomised controlled trials of adherence-promoting mobile technologies for people living with HIV have found large effect sizes for differences between control and intervention groups (Lewis et al., 2013; Moore, Hardy, Skolnik, &amp; Moss, 2011). A total sample size of 52 participants was estimated to be required, in order to detect a large effect size (f = 0.40) for a difference in self-reported adherence to ART between the active control group and intervention group. This calculation was on the basis of a power of .80 and an alpha level of .05, using a one-way between groups analysis of covariance (ANCOVA). To account for participant attrition, a total sample of 60 was deemed an appropriate target for recruitment. 
+
+Statistical Analysis: The data were analysed using the SPSS version 20.0 software (Chicago, Illinois). Data were assessed for normality, and non-parametric testing was employed for analysis of variables which did not have a normal distribution. One-way analyses of covariance (ANCOVAs), controlling for baseline measures of the outcome variable, were used to examine the effects of the intervention on adherence to treatment, perceptions of HIV infection, and beliefs about ART.
+
+McNemars tests were conducted to ascertain if there were any differences in the proportion of non-adherent participants (as classified using the composite adherence measure) at baseline and three month follow-up, in the intervention and active control group. Correlational analyses were used to explore the relationships between application use, changes in illness perceptions and medication beliefs, and changes in adherence to ART. Independent samples t-tests were carried out to assess the effect of group allocation on application usage and evaluations of the smartphone application.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/04/2013</anticipatedstartdate>
+    <actualstartdate>1/04/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/07/2013</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland</primarysponsorname>
+    <primarysponsoraddress>The University of Auckland
+Private Bag 92019
+Auckland
+New Zealand
+
+Postcode: 1010</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Auckland</fundingname>
+      <fundingaddress>Private Bag 92019
+Auckland
+New Zealand
+
+Postcode: 1010</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of the study is to determine whether a smartphone application is a useful tool to help patients with HIV remember and manage their medications. Specifically, we intend to compare the effectiveness of two smartphone apps with different capabilities. 
+
+To do this, people who are currently living with HIV, attending the Auckland City Hospital Infectious Diseases clinic and use a smartphone are being asked to participate in this study. 
+
+Participants will then be randomly allocated to one of two smartphone application groups. All participants will be asked to use their respective app for three months.
+
+It is hypothesised that participants in both groups will become more adherent to their ART medication. Specifically, it is aniticipated that the smartphone application designed to enhance patients' understanding of their HIV infection will be more effective in improving/maintaining adherence to ART.
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Auckland Human Participants Ethics Committee</ethicname>
+      <ethicaddress>Private Bag 92019
+Auckland 1010
+New Zealand
+
+Level 10
+49 Symonds Street
+Auckland 1010</ethicaddress>
+      <ethicapprovaldate>5/02/2013</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>19/11/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Keith Petrie</name>
+      <address>Private Bag 92019
+Auckland 1010
+New Zealand
+
+OR
+
+Room 12.003
+Level 12
+Hospital Support Building
+Auckland City Hospital
+Auckland 1148</address>
+      <phone>+64 9 373 7599 extn 86564</phone>
+      <fax />
+      <email>kj.petrie@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Keith Petrie</name>
+      <address>Private Bag 92019
+Auckland 1010
+New Zealand
+
+OR
+
+Room 12.003
+Level 12
+Hospital Support Building
+Auckland City Hospital
+Auckland 1148</address>
+      <phone>+64 9 373 7599 extn 86564</phone>
+      <fax />
+      <email>kj.petrie@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Keith Petrie</name>
+      <address>Private Bag 92019
+Auckland 1010
+New Zealand
+
+OR
+
+Room 12.003
+Level 12
+Hospital Support Building
+Auckland City Hospital
+Auckland 1148</address>
+      <phone>+64 9 373 7599 extn 86564</phone>
+      <fax />
+      <email>kj.petrie@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,322 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368482">
+  <stage>Registered</stage>
+  <submitdate>5/05/2015</submitdate>
+  <approvaldate>2/06/2015</approvaldate>
+  <actrnumber>ACTRN12615000568516</actrnumber>
+  <trial_identification>
+    <studytitle>Combatting Frailty in Older Men with multifaceted individually tailored intervention including exercise, diet and behavior.</studytitle>
+    <scientifictitle>A single blind randomised trial on combatting frailty in older men through a multifaceted individually tailored interventions including exercise, dietary supplementation, and behavioural activation. </scientifictitle>
+    <utrn>U1111-1169-5746</utrn>
+    <trialacronym />
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Physical medicine/Rehabilitation</healthcondition>
+    <healthcondition>Diet and nutrition</healthcondition>
+    <healthcondition>Mental Health</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention period is now only six months not 3 years.</interventions>
+    <comparator>No treatment.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The composite primary outcome analysis will be based on intention to treat, comparing the survival in the intervention group to the survivial in the control group using cox proportional hazards regression adjusted for age and level of frailty at baseline. Mortality will be determined through two sources- direct contact with next of kin of men unable to be contacted and through mortality register linked data. Residential care admission will be ascertained through next of kin and hospital records as required.</outcome>
+      <timepoint>End of six months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Frailty status as measured by FRAIL scale score. 
+
+</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health service usage as assessed by HIMS questionnaire responses and linked data, ( including emergency admissions HACC and ACAP data)</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disability as measured by activities of daily living (ADL's). </outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physical performance  as assessed by 
+Timed up and Go (TUG), 
+Step Test: a dynamic test of single leg stance balance(Hill et al, 1996), 
+Functional Reach test: a dynamic bilateral stance tests of standing balance (Duncan et al,1990), 
+Timed sit to stand (five times, Tinetti et al, 1995) and 
+Knee Extension (quadriceps) strength (Lord et al, 2003).
+</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in cognition as assessed using cognition (MMSE) test.</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite outcome of total number of medications and inapporpriate medications, assessed by validating medications  and/or prescriptions.</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Falls as self reported in HIMS questionnaire and specifically designed exercise program journal plus linked data.</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in depression as assessed by PHQ9 score.</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life as assessed by HIMS questionnaire.</outcome>
+      <timepoint>Baseline and six months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Men who were previously part of the HIMS cohort study 
+(Norman et al 2009) who are currently all over the age of 83 years who are frail or prefrail on the FRAIL scale.(McCaul et al, 2015)</inclusivecriteria>
+    <inclusiveminage>83</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria: men with moderate cognitive impairment (MMSE) (Folstein et al, 1975), or who have evidence of major illness likely to cause death within six months.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment using sealed opaque envelopes.</concealment>
+    <sequence>Random generation order using a randomisation table created by computer sequenced generation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>In both the primary and secondary analyses, we expect that the intervention effect will differ in the men who were pre-frail and the men who were frail at baseline and we will formally test this by fitting an interaction between the intervention variable and baseline frailty. Sample size calculation - we conservatively expect to recruit and randomise 200 men in each arm of the trial. We obtained ABS life tables that estimated the annual age-specific mortality risk by individual age. From AIHW we obtained the number of incident admissions to residential aged care facilites(RACF) by individual age in 2014 and together with ABS estimated resident population counts by individual age, we estimated the age specific risk of RACF admission. From these, we estimated that 55% of participants would be event free (alive and not in RACF) after three years of follow up. Given this, we expect the event risk in Contol arm to be 45% with our expected sample size (200 in each arm) we used Freemans' sample size calculation (Freedman, 1982) for the logrank test to estimate we would have 80% power to detect and event risk of 31% ( i.e. a 30% relative reduction) in the Intervention Arm at the 5% levle of significance.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/07/2015</anticipatedstartdate>
+    <actualstartdate>5/11/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>28/01/2016</actualenddate>
+    <samplesize>200</samplesize>
+    <actualsamplesize>76</actualsamplesize>
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>31/08/2016</actuallastvisitdate>
+    <dataanalysis>Data collected is being analysed</dataanalysis>
+    <withdrawnreason>Lack of funding/staff/facilities</withdrawnreason>
+    <withdrawnreasonother>Recruitment was not feasible for this trial design.
+Funds were not sufficient to maintain on going recruitment.</withdrawnreasonother>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Professor Leon Flicker</primarysponsorname>
+    <primarysponsoraddress>Western Australian Centre for Health and Ageing (WACHA)
+M577 University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+CANBERRA ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Osvaldo Almeida
+
+
+</sponsorname>
+      <sponsoraddress>c/- WACHA M577
+University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Keith Hill</sponsorname>
+      <sponsoraddress>Curtin University Faculty of Health Science
+School of Physiotherapy &amp; Exercise Science, 
+408 Level 3
+Kent St
+BENTLEY WA 6845</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Prof Caryl Nowson</sponsorname>
+      <sponsoraddress>Deakin University
+Faculty of Health
+Geelong Waurn Ponds Campus
+75 Pigdons Road
+Waurn Ponds
+GEELONG VIC 3220</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Assoc Prof Christopher Etherton-Beer</sponsorname>
+      <sponsoraddress>C/- WACHA
+University of Western Australia
+M577, 35 Stirling H'way
+CRAWLEY WA 6009 </sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Assoc Prof Bu Yeap</sponsorname>
+      <sponsoraddress>c/- WACHA M577
+University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Assoc Prof Kieran McCaul</sponsorname>
+      <sponsoraddress>c/- WACHA M577
+University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Graeme Hankey</othercollaboratorname>
+      <othercollaboratoraddress>c/- WACHA M577
+University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Paul Norman</othercollaboratorname>
+      <othercollaboratoraddress>c/- WACHA M577
+University of Western Australia
+35 Stirling H'way
+CRAWLEY WA 6009</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Jonathon Golledge</othercollaboratorname>
+      <othercollaboratoraddress>School of Medicine and Dentistry 
+Vascular Biology Unit
+Douglas Campus
+James Cook University
+1 James Cook Drive
+TOWNSVILLE QLD 4811</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Frailty is a common syndrome in older adults caused by a decline in reserve capacity of the body's systems used to maintain health. We are interested as to whether interventions for frailty work BEFORE the involvement of clinical services. We propose to undertake a trial of community dwelling older men to determine whether a simple package of interventions can combat this syndrome.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Western Australia Human Research Ethics Office</ethicname>
+      <ethicaddress>M459 
+35 Stirling Highway
+CRAWLEY WA 6009</ethicaddress>
+      <ethicapprovaldate>27/02/2015</ethicapprovaldate>
+      <hrec>RA/4/1/ 576</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Leon Flicker</name>
+      <address>Director, Western Australian Centre for Health &amp; Ageing (WACHA),
+Centre for Medical Research
+University of Western Australia
+M577 35 Stirling H'way
+CRAWLEY WA 6009</address>
+      <phone>618 92243992</phone>
+      <fax>618 9224 8009</fax>
+      <email>leon.flicker@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jill George</name>
+      <address>HIMS Study Coordinator
+University of Western Australia
+M577 35 Stirling H'way
+CRAWLEY WA 6009</address>
+      <phone>618 9224 1699</phone>
+      <fax />
+      <email>jill.george@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Leon Flicker</name>
+      <address>Director, Western Australian Centre for Health &amp; Ageing (WACHA),
+Centre for Medical Research
+University of Western Australia
+M577 35 Stirling H'way
+CRAWLEY WA 6009</address>
+      <phone>618 92243992</phone>
+      <fax />
+      <email>leon.flicker@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jill George</name>
+      <address>HIMS Study Coordinator
+University of Western Australia
+M577 35 Stirling H'way
+CRAWLEY WA 6009</address>
+      <phone>618 9224 1699</phone>
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

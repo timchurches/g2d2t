@@ -1,0 +1,622 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3647">
+  <stage>Registered</stage>
+  <submitdate>20/09/2012</submitdate>
+  <approvaldate>20/09/2012</approvaldate>
+  <nctid>NCT01691521</nctid>
+  <trial_identification>
+    <studytitle>Efficacy and Safety Study of Mepolizumab Adjunctive Therapy in Subjects With Severe Uncontrolled Refractory Asthma</studytitle>
+    <scientifictitle>MEA115588 A Randomised, Double-blind, Double-dummy, Placebo-controlled, Parallel-group, Multi-centre Study of the Efficacy and Safety of Mepolizumab Adjunctive Therapy in Subjects With Severe Uncontrolled Refractory Asthma</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>115588</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Asthma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Mepolizumab IV
+Treatment: drugs - Mepolizumab SC
+Treatment: drugs - IV Placebo
+Treatment: drugs - SC Placebo
+
+Experimental: Mepolizumab IV - Mepolizumab 75 mg will be administered intravenously approximately every 4 weeks with the last dose at week 32. Subjects in the Mepolizumab IV arm will receive mepolizumab 75 mg intravenously and placebo SC once every 4 weeks with the last dose at Week 28 (total of 8 doses)
+
+Experimental: Mepolizumab SC - Subjects in the Mepolizumab SC arm will receive mepolizumab 100 mg SC and placebo IV once every 4 weeks with the last dose at Week 28 (total of 8 doses)
+
+Placebo Comparator: Placebo - Subjects in the Placebo arm will receive matching placebo SC and placebo IV once every 4 weeks with the last dose at Week 28 (total of 8 doses)
+
+
+Treatment: drugs: Mepolizumab IV
+Mepolizumab 75 mg IV will be administered every 4 weeks with the last dose at Week 28
+
+Treatment: drugs: Mepolizumab SC
+Mepolizumab 100 mg SC will be administered every 4 weeks with the last dose at Week 28
+
+Treatment: drugs: IV Placebo
+Normal saline (placebo) will be administered IV every 4 weeks with the last dose at Week 28
+
+Treatment: drugs: SC Placebo
+Normal saline (placebo) will be administered SC every 4 weeks with the last dose at Week 28
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of Clinically Significant Exacerbations of Asthma Per Year - Clinically significant exacerbations of asthma are defined as worsening of asthma which required use of systemic corticosteroids (IV or oral steroid like prednisone, for at least 3 days or a single intramuscular (IM) corticosteroid (CS) dose is required. For maintenance of systemic corticosteroids, at least double the existing maintenance dose for at least 3 days was required) and/or hospitalization and/or emergency department (ED) visits. The frequency of clinically significant exacerbations of asthma over the 32-week treatment period is expressed as the number of exacerbations per year. Analysis of the number of exacerbations performed using a negative binomial model with covariates of treatment group, baseline maintenance OCS therapy (OCS vs. no OCS), region, exacerbations in the year prior to the study (as an ordinal variable) and baseline % predicted FEV1, and with logarithm of time on treatment as an offset variable.</outcome>
+      <timepoint>From randomization (Week 0) to Week 32 or if Early Withdrawal (EW) 4 weeks post last dose</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Clinically Significant Exacerbations Requiring Hospitalization (Including Intubation and Admittance to an Intensive Care Unit [ICU]) or ED Visits Per Year - Clinically significant exacerbations of asthma are defined as worsening of asthma which required use of systemic corticosteroids (IV or oral steroid like prednisone, for at least 3 days or a single intramuscular (IM) corticosteroid (CS) dose is required. For maintenance of systemic corticosteroids, at least double the existing maintenance dose for at least 3 days was required) and/or hospitalization and/or emergency department (ED) visits. The frequency of clinically significant exacerbations of asthma over the 32-week treatment period is expressed as the number of exacerbations per year. Analysis of the number of exacerbations performed using a negative binomial model with covariates of treatment group, baseline maintenance OCS therapy (OCS vs. no OCS), region, exacerbations in the year prior to the study (as an ordinal variable) and baseline % predicted FEV1, and with logarithm of time on treatment as an offset variable.</outcome>
+      <timepoint>From randomization (Week 0) to Week 32 or if Early Withdrawal (EW) 4 weeks post last dose</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Clinically Significant Exacerbations Requiring Hospitalization (Including Intubation and Admittance to an ICU) Per Year - Clinically significant exacerbations of asthma is defined as worsening of asthma which required use of systemic corticosteroids (IV or oral steroid like prednisone, for at least 3 days or a single intramuscular (IM) corticosteroid (CS) dose is required. For maintenance of systemic corticosteroids, at least double the existing maintenance dose for at least 3 days was required) and/or hospitalization. The frequency of clinically significant exacerbations of asthma over the 32-week treatment period is expressed as the number of exacerbations per year. Analysis of the number of exacerbations performed using a negative binomial model with covariates of treatment group, baseline maintenance OCS therapy (OCS vs. no OCS), region, exacerbations in the year prior to the study (as an ordinal variable) and baseline % predicted FEV1, and with logarithm of time on treatment as an offset variable.</outcome>
+      <timepoint>From randomization (Week 0) to Week 32 or if Early Withdrawal (EW) 4 weeks post last dose</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change From Baseline in Clinic Pre-bronchodilator Forced Expiratory Volume in 1 Second (FEV1) at Week 32 - FEV1 is defined as the volume of air expelled from the lungs in 1 second. Pre-bronchodilator FEV1 measurements were taken by spirometry. The change from Baseline is defined as the difference between the value of the endpoint at the time point of interest and the baseline value. Analysis performed using mixed model repeated measures with covariates of baseline, region, baseline maintenance OCS therapy (OCS vs. no OCS), exacerbations in the year prior to the study (as an ordinal variable), treatment and visit, plus interaction terms for visit by baseline and visit by treatment group.</outcome>
+      <timepoint>Baseline, Week 32</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change From Baseline in the St. George's Respiratory Questionnaire Total Score at Week 32 - The St. George's Respiratory Questionnaire is an established instrument, comprising 50 questions, evaluating symptoms, activity, and impacts; to measure Quality of Life in participants with diseases of airway obstruction and to elicit the participant's opinion of his/her health. The lowest possible value is zero and the highest possible value is 100. The higher values correspond to greater impairment in quality of life. The questionnaire was administered at Baseline (Visit 2) and at the Exit Visit (approximately 4 weeks after the last dose of study treatment). The change from baseline is defined as the difference between the value of the endpoint at the time point of interest and the baseline value. Analysis performed using analysis of covariance with covariates of baseline, region, baseline maintenance OCS therapy (OCS vs. no OCS), exacerbations in the year prior to the study (as an ordinal variable), baseline % predicted FEV1, and treatment.</outcome>
+      <timepoint>Baseline, Week 32</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Able to give written informed consent prior to participation in the study
+
+          -  At least 12 years of age at visit 1 and a minimum weight of 45 kilogram (kg)
+
+          -  A well-documented requirement for regular treatment with high dose inhaled
+             corticosteroid (ICS) in the 12 months prior to Visit 1 with or without maintenance
+             oral corticosteroids (OCS)
+
+          -  Current treatment with an additional controller medication, besides ICS, for at least
+             3 months or a documented failure in the past 12 months of an additional controller
+             medication for at least 3 successive months
+
+          -  Prior documentation of eosinophilic asthma or high likelihood of eosinophilic asthma
+
+          -  At Visit 1, a pre-bronchodilator FEV1 &lt;80% (for subjects &gt;= 18 years of age), a
+             pre-bronchodilator FEV1 &lt;90% or FEV1:FVC ratio &lt;0.8 (for subjects 12-17 years of age).
+
+          -  Previously confirmed history of two or more exacerbations requiring treatment with
+             systemic CS
+
+          -  Male or Eligible Female (females of childbearing potential must commit to consistent
+             and correct use of an acceptable method of birth control)
+
+          -  French subjects will be included only if either affiliated to or a beneficiary of a
+             social security category.</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Current smokers or former smokers with a smoking history of &gt;=10 pack years
+
+          -  Presence of a known pre-existing, clinically important lung condition other than
+             asthma
+
+          -  A current malignancy or previous history of malignancy in less than 12 months
+
+          -  Known, pre-existing, unstable liver disease cirrhosis and known biliary abnormalities
+
+          -  Known, pre-existing severe or clinically significant cardiovascular disease
+
+          -  known, pre-existing other concurrent clinically significant medical conditions that
+             are uncontrolled with standard treatment
+
+          -  Subjects with any eosinophilic diseases
+
+          -  QTc(F) =450msec or QTc(F) =480 msec
+
+          -  A history of alcohol/substance abuse
+
+          -  Subject with known immunodeficiency
+
+          -  Subjects who have received omalizumab within 130 days of Visit 1 or any monoclonal
+             antibody (other than Xolair) to treat inflammatory disease within 5 half-lives of
+             Visit 1
+
+          -  Subjects who have received treatment with an investigational drug within the past 30
+             days or five terminal phase half-lives of the drug whichever is longer
+
+          -  Subjects with allergy/intolerance to a monoclonal antibody or biologic.
+
+          -  Subjects who are pregnant or breastfeeding
+
+          -  Subjects who have known evidence of lack of adherence to controller medications and/or
+             ability to follow physician's recommendations
+
+          -  Previously participated in any study with mepolizumab and received investigational
+             product (including placebo)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>8/10/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>580</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>18/01/2014</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,SA,VIC,WA</recruitmentstate>
+    <hospital>GSK Investigational Site - New Lambton</hospital>
+    <hospital>GSK Investigational Site - Bedford Park</hospital>
+    <hospital>GSK Investigational Site - Clayton</hospital>
+    <hospital>GSK Investigational Site - Nedlands</hospital>
+    <hospital>GSK Investigational Site - Parkville</hospital>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Mendoza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Ciudad Autónoma de Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Reg Del Libert Bern Ohiggins</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Talcahuano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Kremlin-Bicêtre Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon cedex 04</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille cedex 20</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier cedex 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Perpignan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Pierre cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Brandenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hessen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Rheinland-Pfalz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Sachsen-Anhalt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Campania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Emilia-Romagna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Liguria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Puglia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Umbria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Veneto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Gunma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hiroshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hokkaido</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ibaraki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kumamoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Mie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Okinawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Anyang-Si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Bucheon-si,</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Cheongju, Chungcheongbuk-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Daegu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Donggu Gwangju</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>jeonju-si, Jeollabuk-Do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Kangwon-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Suwon, Kyonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Jalisco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Nuevo León</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>México DF</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Chelyabinsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pozuelo de Alarcón/Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kiev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Mykolayiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Vinnytsia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bradford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Plymouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>GlaxoSmithKline</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will evaluate two dose regimens of mepolizumab [75mg intravenous (i.v.) or 100mg
+      subcutaneous (SC) every 4 weeks] compared with placebo over a 32 week treatment period in
+      subjects with severe refractory asthma with elevated blood eosinophils. Efficacy will be
+      measured by a reduction in the frequency of asthma exacerbations. Additional efficacy
+      assessments will include measurements of lung function, symptom scores, and quality of life.
+      Safety will be assessed by clinical laboratory samples, ECGs, immunogenicity and adverse
+      events.
+
+      This study is intended to replicate the Phase IIb/III study MEA112997. Subjects in MEA115588,
+      who meet all eligibility criteria at screening visit, will enter the run-in period. Those
+      subjects that are not able/eligible to be randomised at the end of the 6 week run-in period
+      will be deemed run-in failures. Subjects will remain on their current maintenance therapy
+      throughout the run-in, double-blind treatment administration and follow-up periods. Subjects
+      who meet the randomisation eligibility criteria will be randomised in a 1:1:1 ratio to
+      receive one of the following treatments every 4 weeks for a total of 8 doses: Mepolizumab 75
+      miligram (mg) i.v. and placebo SC, or Mepolizumab 100 mg SC and placebo i.v. or Placebo i.v.
+      and placebo SC.
+
+      Subjects that receive all 8 doses of double-blind treatment, and meet the eligibility
+      criteria for the Open-Label Extension (OLE) Study, will be offered the opportunity to
+      participate in the OLE trial.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01691521</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>GSK Clinical Trials</name>
+      <address>GlaxoSmithKline</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

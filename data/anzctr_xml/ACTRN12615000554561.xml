@@ -1,0 +1,216 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368504">
+  <stage>Registered</stage>
+  <submitdate>7/05/2015</submitdate>
+  <approvaldate>29/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000554561</actrnumber>
+  <trial_identification>
+    <studytitle>Painbuster rectus sheath infusion device for analgesia following laparotomy </studytitle>
+    <scientifictitle>Do patients undergoing major abdominal surgery benefit from use of the Painbuster rectus sheath infusion device for improving analgesia or reducing opioid requirement in the post-operative period, a double blinded placebo controlled trial.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Postoperative pain </healthcondition>
+    <healthcondition>Laparotomy</healthcondition>
+    <healthcondition>Analgesia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Pain management</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Surgical techniques</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>IAll patients eliglble for the study will have a painbuster rectus sheath infusion catheter inserted by the surgeon at the end of surgery. This will be initially bolused with 30ml of 0.2% ropivacaine in all patients.  Patients will then be randomized to have the painbuster elastometric pump either filled with normal saline, 0.2% ropivacaine, or 0.5% ropivacaine, and pain scores, opioid consumption, length of hospital stay, time to first eating and mobilisation and presence of side effects will be recorded. The elastometric pump will contain 400ml of fluid (either normal saline or ropivacaine) and this is infused at 4ml an hour for 100 hours following surgery. There are 2 rectus sheath catheters inserted by the surgeon and each catheter runs at a non-titrable rate of 2ml/hr via the elastometric pump. Compliance to use of the painbuster pump and time at discontinuation will be monitored by the pain team who will be responsible for follow up and data collection for the study patients.</interventions>
+    <comparator>Control group - Placebo (normal saline)
+The elastometric pump provides a non-titrable rate of 2ml/hr down each of the 2 rectus sheath catheters.  The pump is left in situ until it is empty (it is filled with 400ml of fluid so this takes 100 hours).</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Pain scores following surgery</outcome>
+      <timepoint>Worst pain score daily for the first 4 days post surgery using an 11-point likert scale from 0 = no pain to 10 = worst pain imaginable</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Opioid consumption following surgery</outcome>
+      <timepoint>For 100 hours following surgery converted to mg of morphine equivalents</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital stay as determined by the electronic hospital record that records admission and discharge times.</outcome>
+      <timepoint>Hospital discharge. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first mobilisation as assessed by the physio who makes daily assessments of each patient.</outcome>
+      <timepoint>Within the first 4 days post-surgery.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first solid food intakeas assessed by the nursing staff and the patient.</outcome>
+      <timepoint>During the hospital stay.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Presence of opioid related side effects as assessed by the pain team on their daily assessment of the patient.</outcome>
+      <timepoint>Daily for the first 4 days post-surgery</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age 18-80
+Midline laparotomy
+Planned painbuster device as part of analgesic regimen</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusions would be patient refusal, 
+plan for epidural analgesia and inability to follow up the patient i.e. not able to communicate for any reason (dementia, not able to speak English) and expected ICU admission following surgery.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be approached by research staff pre-operatively and the trial explained and written consent sort. The surgical team and the people doing the follow up (done by the pain service) will be blinded to the group allocation. There will be 3 separate data collection forms, entitled study group one, study group two or study group three, 40 of each of these will be placed into 120 envelopes and when a patient consents to the study, an envelope will be randomly drawn from a box. The anaesthetic technicians are currently responsible for setting up the painbuster pumps by filling them with ropivacaine, they will be only people aware of the group allocation, and fill the pumps accordingly.</concealment>
+    <sequence>Random allocation of an envelope which will contain the group allocation. Group allocation will be placed in the envelope (control, 0.2% ropivacaine, or 0.5% ropivacaine ), the envelopes will then be thoroughly shuffled and divided into 3 and placed in the recovery rooms of both levels of our theatre block.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Power calculation derived from previously published data indicates a sample size of 35 in each group to show a 30% difference in opioid use and pain scores. The target is for 40 patients to be recruited in each group. Continuous data will be compared with a two-tailed students T test, and categorical data will be compared with chi-squared test.  Any differences between the 3 groups will be analysed by a 3 way ANOVA test.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>29/06/2015</anticipatedstartdate>
+    <actualstartdate>10/11/2015</actualstartdate>
+    <anticipatedenddate>2/03/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>120</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Waikato</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Waikato hospital</primarysponsorname>
+    <primarysponsoraddress>Pembroke Street
+Hamilton 3204
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Waikato hospital</fundingname>
+      <fundingaddress>Pembroke street
+Hamilton 3204</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The study hypothesis is that there is no difference in opioid consumption or pain scores following major abdominal surgery with the use of the painbuster rectus sheath infusion device. To do this, we will compare 3 groups, receiving either normal saline, 0.2% ropivacaine, or 0.5% ropivacaine through the painbuster device. Pain scores and opioid consumption will be recorded for the duration the painbuster infusion (100 hours). The outcome of the study will have important implications for use of these devices in our insitution. If they prove to be beneficial, then the patient experience will be improved. If there is no benefit to them, then the hospital will save money by not purchasing these devices.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HDEC</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Freyberg Building
+Reception  Ground Floor
+20 Aitken Street
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>2/09/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>12/05/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/368504-Painbuster_study[1].docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Byrne</name>
+      <address>C/- Anaesthetic department 
+Waikato hospital
+Pembroke Street
+Hamilton 3204</address>
+      <phone>+642102224390</phone>
+      <fax />
+      <email>kpa.byrne@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Byrne</name>
+      <address>C/- Anaesthetic department
+Waikato hospital
+Pembroke Street
+Hamilton 3204</address>
+      <phone>+642102224390</phone>
+      <fax />
+      <email>kpa.byrne@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Byrne</name>
+      <address>C/- Anaesthetic department
+Waikato hospital
+Pembroke Street
+Hamilton 3204</address>
+      <phone>+642102224390</phone>
+      <fax />
+      <email>kpa.byrne@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Byrne</name>
+      <address>C/- Anaesthetic department
+Waikato hospital
+Pembroke Street
+Hamilton 3204</address>
+      <phone>+642102224390</phone>
+      <fax />
+      <email>kpa.byrne@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

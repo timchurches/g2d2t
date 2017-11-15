@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372028">
+  <stage>Registered</stage>
+  <submitdate>13/12/2016</submitdate>
+  <approvaldate>16/12/2016</approvaldate>
+  <actrnumber>ACTRN12616001724460</actrnumber>
+  <trial_identification>
+    <studytitle>Tele-rehabilitation for the arm after stroke.</studytitle>
+    <scientifictitle>A tele-rehabilitation program for the upper limb after stroke.</scientifictitle>
+    <utrn>U1111-1190-9286 </utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Occupational therapy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Chronic stroke survivors will be given in-home based tele-rehabilitation to actively exercise the affected upper limb for one hour, 5 days per week for 8 weeks using inexpensive, commercially available devices (AbleX or AbleM, ImAble Ltd NZ), These will enable participants to play computer games that encourage arm use.. The program will be supervised over the internet by an experienced occupational therapist who will control the level of difficulty of the games and progress them as required.. </interventions>
+    <comparator>A commercially available on-line cognitive training program, Fit Brains, will be the active control intervention. Participants will undertake training for one hour, 5 days per week for 8 weeks. They will be supervised by an experienced occupational therapist who will monitor their progress on-line.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Arm Function, assessed using the Action Research Arm Test</outcome>
+      <timepoint>8 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hand grip  force using a Jamar dynamometer</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pinch force using a Jamar pinch dynamometer </outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cognitive Function using the Trail Making Test</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Montreal Cognitive Assessment</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Community Integration Measure</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Caregiver Strain Index</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life using the EQ-5D-5L</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health Utilities Index Mark III</outcome>
+      <timepoint>8 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>­1. Impaired function of the affected upper limb
+2. Unilateral hemiparesis resulting from stroke affecting only one side (haemorrhage or infarct) at least 6 months prior to enrolment (lesion confirmed by CT or MRI where possible)  
+­3. Level of cognitive function within normal limits (score  above 8) on the Abbreviated Mental Test Score
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Severe cognitive deficits
+2. Severe receptive aphasia
+3. Uncontrolled epilepsy
+4. Serious progressive illness
+5. Currently receiving any type of formal upper limb therapy.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by off-site adminstrator</concealment>
+    <sequence>Permuted block randomisation, with stratification by level of impairment (severe vs moderate or mild) and chronicity (6-12 months post-stroke vs &gt;12 months post-stroke).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The primary outcome will be analysed using a mixed-effect multilevel linear regression model with the change in Action Research Arm Test (ARAT) score following an intervention as the dependent variable, the nature of the intervention (tele-rehabilitation vs active control) as the independent variable, baseline ARAT score, impairment level and chronicity as covariates, and patient as a random effect (level) variable. </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>19/12/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>180</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - Royal Park campus - Parkville</hospital>
+    <postcode>3052 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Melbourne Hospital</primarysponsorname>
+    <primarysponsoraddress>Grattan Street
+Parkville, VIC 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Melbourne Hospital</fundingname>
+      <fundingaddress>Grattan Street
+Parkville VIC 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Stroke is a major cause of disability worldwide, with 5 million people left permanently disabled. In Australia, total lifetime cost burden of first-ever stroke was estimated to be more than A$2 billion. A large contribution of these costs result from out-of-pocket expenses, informal care, and productivity losses associated with stroke.  Loss of upper limb function contributes significantly to stroke-related disability and reduced independence. Functional recovery of the paretic upper limb after stroke continues to be one of the greatest challenges faced by rehabilitation staff. Yet despite a wealth of research showing that recovery of function is driven by repetitive task-specific training, rehabilitation of the arm and hand is given lower priority than retraining of walking. The major barriers include limited rehabilitation resources, difficulties with travel to rehabilitation facilities, and, for more severely impaired patients, the need for external assistance or guidance. 
+We now propose to conduct a randomised controlled trial of in-home based tele-rehabilitation to actively exercise the affected upper limb in chronic stroke survivors using inexpensive, commercially available devices that enable participants to play computer games that encourage arm use and that can be progressed in level of difficulty. An on-line cognitive training program will be the active control intervention. We have previously shown that use of such devices in a centre-based program leads to improved arm function and quality of life. A parallel cost-effectiveness study will be conducted. If this intervention is found to be effective and cost-effective, it could be readily implemented as a practical, inexpensive, and motivating program of upper limb rehabilitation for stroke survivors in their own homes.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>c/- Royal Melbourne Hospital
+Grattan Street
+Parkville VIC 3050</ethicaddress>
+      <ethicapprovaldate>30/08/2016</ethicapprovaldate>
+      <hrec>HREC/16/MH/236</hrec>
+      <ethicsubmitdate>25/07/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Mary Galea</name>
+      <address>Department of Medicine (Royal Melbourne Hospital)
+The University of Melbourne
+Parkville VIC 3010</address>
+      <phone>+61 3 8387 2017</phone>
+      <fax />
+      <email>m.galea@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Mary Galea</name>
+      <address>Department of Medicine (Royal Melbourne Hospital)
+The University of Melbourne
+Parkville VIC 3010</address>
+      <phone>+61 3 8387 2017</phone>
+      <fax />
+      <email>m.galea@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Mary Galea</name>
+      <address>Department of Medicine (Royal Melbourne Hospital)
+The University of Melbourne
+Parkville VIC 3010</address>
+      <phone>+61 3 8387 2017</phone>
+      <fax />
+      <email>m.galea@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Mary Galea</name>
+      <address>Department of Medicine (Royal Melbourne Hospital)
+The University of Melbourne
+Parkville VIC 3010</address>
+      <phone>+61 3 8387 2017</phone>
+      <fax />
+      <email>m.galea@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

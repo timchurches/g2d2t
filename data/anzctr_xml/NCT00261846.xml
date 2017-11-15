@@ -1,0 +1,639 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1003">
+  <stage>Registered</stage>
+  <submitdate>2/12/2005</submitdate>
+  <approvaldate>2/12/2005</approvaldate>
+  <nctid>NCT00261846</nctid>
+  <trial_identification>
+    <studytitle>Study Evaluating SKI-606 (Bosutinib) In Philadelphia Chromosome Positive Leukemias</studytitle>
+    <scientifictitle>A Phase 1/2 Study Of Bosutinib (Ski-606) In Philadelphia Chromosome Positive Leukemias</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>B1871006, 3160A4-200-WW</secondaryid>
+    <secondaryid>3160A4-200</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Myeloid Leukemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Human Genetics and Inherited Disorders</conditioncode1>
+      <conditioncode2>Other human genetics and inherited disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Bosutinib
+
+Experimental: SKI-606 - 
+
+
+Treatment: drugs: Bosutinib
+Part 1, starting dose 400 mg oral, daily dosing in the dose-escalation component.
+Part 2, 500 mg oral, continuous, daily dosing.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of Participants With Dose Limiting Toxicity (DLT) - DLT was defined as any of the following events occurring during the first 28 days of study medication and considered at least possibly-related to study medication: any grade 3 or 4 clinically-relevant non-hematologic toxicity, any clinically-significant grade 2 non-hematologic toxicity that requires 14 days to resolve (to grade 1).</outcome>
+      <timepoint>Part 1 Baseline up to Day 28</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Maximum Tolerated Dose (MTD) - MTD was defined as highest dose level for which no more than 1 participant in a dose cohort experienced DLT. DLT was defined as any of the following events occurring during the first 28 days of study medication and considered at least possibly-related to study medication: any grade 3 or 4 clinically-relevant non-hematologic toxicity, any clinically-significant grade 2 non-hematologic toxicity that requires 14 days to resolve (to grade 1).
+NA = not estimable.</outcome>
+      <timepoint>Part 1 Baseline up to Day 28</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Maximum Observed Plasma Concentration (Cmax) - Part 1</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Time to Reach Maximum Observed Plasma Concentration (Tmax) - Part 1</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Plasma Decay Half-Life (t1/2) - Part 1 - Plasma decay half-life is the time measured for the plasma concentration to decrease by one half.
+NA = not estimable.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Area Under the Curve From Time Zero to Last Quantifiable Concentration [AUC(0-48)] - Part 1 - AUC(0-48)= Area under the plasma concentration versus time curve from time zero (pre-dose) to time of last quantifiable concentration (0-48).</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Area Under the Concentration-Time Curve (AUC) - Part 1 - AUC is a measure of the serum concentration of the drug over time. It is used to characterize drug absorption.
+NA = not estimable.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Apparent Oral Clearance (CL/F) - Part 1 - Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.
+NA = not estimable.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Apparent Volume of Distribution (Vz/F) - Part 1 - Volume of distribution is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Apparent volume of distribution after oral dose (Vz/F) is influenced by the fraction absorbed.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24, 48 hours post-dose on Day 1</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Maximum Observed Plasma Concentration at Steady State (Cmax,ss) - Part 1 - Maximum plasma concentration over 24 hours at steady state (ss), on Day 15.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Time to Reach Maximum Observed Plasma Concentration at Steady State (Tmax,ss) - Part 1 - Time to reach maximum observed plasma concentration over 24 hours at steady state (ss), on Day 15.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Plasma Decay Half-Life at Steady State (t1/2,ss) - Part 1 - Plasma decay half-life is the time measured for the plasma concentration to decrease by one half. Plasma decay half-life over 24 hours at steady state (ss), on Day 15 was calculated.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Area Under the Concentration-Time Curve at Steady State (AUCss) - Part 1 - AUC is a measure of the serum concentration of the drug over time. It is used to characterize drug absorption. AUC over 24 hours at steady state (ss), on Day 15 was calculated.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Apparent Oral Clearance at Steady State (CL/F,ss) - Part 1 - Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood. Apparent oral clearence over 24 hours at steady state (ss), on Day 15 was calculated.</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Accumulation Ratio (R) - R=accumulation ratio (AUCss on Day 15/AUC0-24 on Day 1)</outcome>
+      <timepoint>0 (pre-dose), 1, 2, 3, 4, 6, 8, 24 hours post-dose on Day 1 and Day 15</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Percentage of Participants With MCyR at Week 24 in Chronic Phase Second-line Imatinib Resistant CML Population - Part 2 - CyR is based on the prevalence of Ph+ cells. Major cytogenetic response was categorized as either CCyR or partial CyR (PCyR). CCyR was achieved when there was 0 percent (%) Ph+ cells from at least 20 metaphases from conventional bone marrow cytogenetics or less than (&lt;) 1% positive cells from at least 200 cells analyzed from fluorescent in situ hybridization (FISH). PCyR was achieved when 1 to 35% Ph+ cells were present.</outcome>
+      <timepoint>Week 24</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Major Cytogenetic Response (MCyR) - Part 1 - Cytogenetic response (CyR) is based on the prevalence of Philadelphia positive (Ph+) cells. Major cytogenetic response was categorized as either complete cytogenetic response (CCyR) or partial cytogenetic response (PCyR). CCyR was achieved when there was 0% Ph+ cells from at least 20 metaphases from conventional bone marrow cytogenetics or &lt;1% positive cells from at least 200 cells analyzed from FISH. PCyR was achieved when 1 to 35% Ph+ cells were present.</outcome>
+      <timepoint>Weeks 12, 24, 36, 48 and the end of active treatment phase of Part 1 (Week 52)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Phosphorylation Inhibition of Breakpoint Cluster Region-Abelson Kinase (Bcr-Abl) - Part 1 - bcr-Abl is a protein resulting from the transcription of the Philadelphia chromosome following 9:22 chromosomal translocation, and phosphorylation inhibition of which correlates with inhibition of tumor cell growth.</outcome>
+      <timepoint>Baseline, Weeks 4, 8, 12, 24, 36, 48 and the end of the active treatment phase of Part 1 (Week 52)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Phosphorylation Inhibition of Crk Like (CrkL) Protein at Baseline - Part 1 - CrkL is a protein, phosphorylation of which has been shown to correlate with CML cell growth; and conversely inhibition of their phosphorylation correlates with inhibition of tumor cell growth. Phosphorylation of CrkL was monitored in whole blood cells, as well as in the cluster of differentiation 3 (CD3+) (T cell), CD19+ (B cell) and CD34+ (blast cell) compartments by using fluorescent activated cell sorter (FACS) flow cytometry.</outcome>
+      <timepoint>0 (pre-dose) on Day 1 (Baseline)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent Change From Baseline in Phosphorylation Inhibition of Crk Like Protein (CrkL) at Day 1, 8 and 15 - Part 1 - CrkL is a protein, phosphorylation of which has been shown to correlate with CML cell growth; and conversely inhibition of their phosphorylation correlates with inhibition of tumor cell growth. Phosphorylation of CrkL was monitored in whole blood cells, as well as in the CD3+ (T cell), CD19+ (B cell) and CD34+ (blast cell) compartments by using FACS flow cytometry.
+NA = not estimable.</outcome>
+      <timepoint>6 hours post-dose on Day 1, 0 (pre-dose), 6 hours post-dose on Day 8, 15</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Major Cytogenetic Response (MCyR) in Chronic Phase Second-line and Chronic Phase Third-line CML Population - Part 2 - CyR is based on the prevalence of Ph+ cells. MCyR was categorized as either CCyR or PCyR. CCyR was achieved when there was 0% Ph+ cells from at least 20 metaphases from conventional bone marrow cytogenetics or &lt;1% positive cells from at least 200 cells analyzed from FISH. PCyR was achieved when 1 to 35% Ph+ cells were present.</outcome>
+      <timepoint>Week 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 4 (CP3L) or Year 5 (CP2L)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kaplan-Meier Estimate of Retaining an Attained/Maintained Major Cytogenetic Response (MCyR) at Year 5 in Chronic Phase Second-line CML - Part 2 - MCyR was categorized as either CCyR or PCyR. CCyR was achieved when there was 0% Ph+ cells from at least 20 metaphases from conventional bone marrow cytogenetics or &lt;1% positive cells from at least 200 cells analyzed from FISH. PCyR was achieved when 1 to 35% Ph+ cells were present. The Kaplan-Meier probability of retaining an attained/maintained MCyR at Year 5 is reported. Median durations were not reached as of the minimum follow-up. Duration of response in weeks =(date of confirmed loss of first attained response or last valid cytogenetic assessment for those censored - date of first attained response)/7.</outcome>
+      <timepoint>From first MCyR to loss of MCyR or censoring, assessed every 12 weeks up to 2 years and then every 24 weeks thereafter up to Year 5</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Achieve Major Cytogenetic Response (MCyR) in Chronic Phase Second-line CML for Responders Only - Part 2 - MCyR was categorized as either CCyR or PCyR. CCyR was achieved when there was 0% Ph+ cells from at least 20 metaphases from conventional bone marrow cytogenetics or &lt;1% positive cells from at least 200 cells analyzed from FISH. PCyR was achieved when 1 to 35% Ph+ cells were present. Time to MCyR was the interval from the date of first dose of study medication until the first date of achieving a given response.
+Time to response in weeks equals (=) (event date minus (-) first dose date plus (+) 1)divided (/)7, where the event date is the non-missing date of the first attained response for responders only.</outcome>
+      <timepoint>Week 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 5</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kaplan-Meier Estimate of Maintaining Complete Hematologic Response (CHR) at Year 4 (CP3L and ADV) or Year 5 (CP2L) - Part 2 - Hematologic response: if participants met all of the following criteria of CHR: White Blood Cells equal to or less than (=) institutional upper limit of normal, no peripheral blood blasts or promyelocytes, myelocytes+metamyelocytes &lt;5% in blood, absolute neutrophil count greater than or equal to (=) 1.0×10^9 per liter (/L) , platelets =100×10^9/L &amp; &lt;450×10^9/L, &lt;20% basophils in blood &amp; no extramedually involvement (including hepato- or splenomegaly), =5% BM blasts (ADV only &amp; applicable to CP if BM aspirate was performed). The duration of CHR was defined as the interval from the first date of response until the first date of confirmed loss of response. Duration of response in weeks =(date of confirmed loss of attained response or last valid hematologic assessment for those censored - date of first confirmed response)/7. The Kaplan-Meier estimate of maintaining CHR at the end of minimum follow-up is presented (CP2L: Year 5; CP3L &amp; ADV: Year 4). NA = not estimable.
+NA = not estimable.</outcome>
+      <timepoint>From date of first confirmed CHR to loss of CHR or censoring, assessed at Day 1 and 7 of Week 1, Day 7 of Week 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 4 (CP3L and ADV) or Year 5 (CP2L)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Complete Hematologic Response (CHR) - Part 2 - Hematologic response: if participants met all of the following criteria of CHR: White Blood Cells equal to or less than (=) institutional upper limit of normal, no peripheral blood blasts or promyelocytes, myelocytes+metamyelocytes less than (&lt;)5% in blood, absolute neutrophil count greater than or equal to (=) 1.0×10^9 per liter (/L) , platelets &lt;450×10^9/L, platelets =100×10^9/L, &lt;20% basophils in blood and no extramedually involvement (including hepato- or splenomegaly), =5% BM blasts (required for ADV only and applicable to CP if BM aspirate was performed). The duration of CHR was defined as the interval from the first date of response until the first date of confirmed loss of response. Duration of response in weeks =(date of confirmed loss of attained response or last valid hematologic assessment for those censored - date of first confirmed response)/7.
+NA = not estimable.</outcome>
+      <timepoint>From date of first confirmed CHR to loss of CHR or censoring, assessed at Day 1 and 7 of Week 1, Day 7 of Week 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 4 (CP3L and ADV) or Year 5 (CP2L)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Achieve Complete Hematologic Response (CHR) for Responders Only - Part 2 - The time to CHR was measured from the date of first dosing to the first date of response. Time to response in weeks = (event date - first dose date plus 1)/7, where the event date is the non-missing date of the first attained response for responders only.</outcome>
+      <timepoint>Day 1 and 7 of Week 1, Day 7 of Week 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 4 (CP3L and ADV) or Year 5 (CP2L)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cumulative Incidence of Progression/Death - Part 2 - The cumulative incidence of on-treatment progression or death adjusting for the competing risk of treatment discontinuation without the event. Disease progression was determined by the investigator as the reason for treatment discontinuation and death was due to any cause within 30 days of last dose. Duration in months = (date of PD/death or last valid cytogenetic/hematologic assessment if censored - first dose date)/30.4. 95% confidence intervals were calculated using Gray's method.
+NA = not estimable. One year = 12 months.</outcome>
+      <timepoint>Years 1, 2, 3, 4, and 5 (CP2L only)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival (PFS) - Part 2 - PFS was based on Kaplan-Meier method. Disease progression was determined by the investigator as the reason for treatment discontinuation and death was due to any cause within 30 days of last dose. Duration in months = (date of PD/death or last valid cytogenetic/hematologic assessment if censored - first dose date)/30.4.
+NA = not estimable. One year = 12 months</outcome>
+      <timepoint>Years 1, 2, 3, 4, and 5 (CP2L only)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kaplan-Meier Estimate of Overall Survival (OS) - Part 2 - OS was based on Kaplan-Meier method. Survival was defined as the time period from the date of first dose of bosutinib to the date of death or date of last contact for those censored.
+NA = not estimable. One year = 12 months.</outcome>
+      <timepoint>Years 1, 2, 3, 4, and 5 (CP2L only)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - Part 2 - OS was based on Kaplan-Meier method. Survival was defined as the time period from the date of first dose of bosutinib to the date of death or date of last contact for those censored.
+NA = not estimable. One year = 12 months.</outcome>
+      <timepoint>Years 1, 2, 3, 4, and 5 (CP2L only)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Confirmed Complete Hematologic Response (CHR) - Part 2 - Hematologic response: if participants met all of the following criteria of CHR: White Blood Cells = institutional upper limit of normal, no peripheral blood blasts or promyelocytes, myelocytes+metamyelocytes &lt;5% in blood, absolute neutrophil count = 1.0×10^9/L , platelets &lt;450×10^9/L, platelets =100×10^9/L, &lt;20% basophils in blood and no extramedually involvement (including hepato- or splenomegaly), =5% BM blasts (required for ADV only and applicable to CP if BM aspirate was performed).</outcome>
+      <timepoint>Day 1 and 7 of Week 1, Day 7 of Week 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter up to Year 4 (CP3L and ADV) or Year 5 (CP2L)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Overall Hematologic Response (OHR) by Week 48 in Advanced Leukemia Population - Part 2 - OHR included CHR, no evidence of leukemia (=5% bone marrow blasts, no peripheral blood blasts or promyelocytes, &lt;5% myelocytes + metamyelocytes in blood, white blood cells = institutional upper limit of normal, 450x10^9/L &gt; platelets &gt; 20x10^9/L, absolute neutrophil count =0.5x10^9/L, &lt;20% basophils in blood, no extramedullary involvement [including liver or spleen]), minor hematologic response (acute lymphoblastic leukemia [ALL] patients only, defined as &lt;15% blasts in marrow &amp; blood, &lt;30% blasts + promyelocytes in marrow &amp; blood, &lt;20% basophils in peripheral blood &amp; no extramedullary disease other than spleen &amp; liver) or return to chronic phase (AP/BP participants, defined as &lt;15% blasts in both peripheral blood &amp;bone marrow, &lt;30% blasts + promyelocytes in both peripheral blood &amp; bone marrow, &lt;20% basophils in both peripheral blood &amp; bone marrow, no extramedullary Involvement other than liver or spleen). Participants had to meet at least 1 criterion.</outcome>
+      <timepoint>Day 1 and 7 of Week 1, Day 7 of Week 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Treatment-Emergent Adverse Events (AEs) or Serious Adverse Events (SAEs) - An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 30 days after last dose that were absent before treatment or that worsened relative to pretreatment state.</outcome>
+      <timepoint>Baseline up to follow up visit (30 days after last dose of study treatment)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Potentially Clinically Important (PCI) Adverse Events (AEs) - An AE was any untoward medical occurrence attributed to study drug in a participant who received study drug. The event did not necessarily have a causal relationship with the treatment. PCI AEs included anemia, alanine aminotranferase (ALT), aspartate aminotransferase (AST), cardiac, diarrhea, edema, effusion, gastrointestinal, hemorrhage, hypersensitivity, hypertension, infection, liver, myelosuppression, nausea, neutropenia, rash, renal, thrombocytopenia, vomiting, and vascular events. Duration of AE was calculated as (stop date minus start date) plus 1 for non-missing and non-partial dates.
+NA = not estimable.</outcome>
+      <timepoint>Baseline up to follow-up visit (30 days after last dose of study treatment)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Change From Baseline in Laboratory Tests Results - Laboratory assessments included urinalysis, complete blood count (CBC), prothrombin time/partial prothromboplastin time (PT/PPT), international normalized ratio (INR), blood chemistry and serum pregnancy test (ß-HCG). Parameters of special interest included liver function tests and those related to myelosuppression. Potentially clinically important (PCI) laboratory values were defined as National Cancer Institute Common Terminology Criteria for Adverse Events Version 3.0 (NCI CTCAE v3.0) grade 3 or higher. Maximum CTCAE grade, and only participants who shifted to Grade 3/4 on-treatment, are reported.</outcome>
+      <timepoint>Week 1, 2, 3, 4, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With On-treatment PCI Change From Baseline in Electrocardiogram (ECG) Findings - Criteria for PCI changes in ECG (12-lead) were defined as: no sinus rhythm; PR interval &gt;=220 msec and increase of &gt;=20 msec; QRS interval &gt;=120 msec; QT interval corrected using the Fridericia formula (QTcF) and QT interval corrected using the Bazett formula (QTcB) &gt;500 msec or increase of &gt;60 msec; heart rate &lt;=45 beats per minute (bpm) or &gt;=120 bpm or decrease/increase of &gt;=15 bpm.</outcome>
+      <timepoint>Baseline, 0 (pre-dose), 2, 4, 6 hours on Day 1, 0 (pre-dose), 2, 4, 6, 20-23 hours on Day 21, and end of treatment visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Change From Baseline in Findings of Chest X-ray - Number of participants whose chest X-ray results changed (worsened or improved) from the Baseline.</outcome>
+      <timepoint>Baseline, Week 8, and end of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants Who Received Concomitant Medications for Management of Adverse Events (AEs) - Number of participants taking any non-study medications which were administered from Study Day 1 to 30 days after last dose of study treatment as a management of an AE are reported.</outcome>
+      <timepoint>Baseline and Weeks 1, 2, 3, 4, 8, 12, then every 12 weeks thereafter until end of treatment, for a mean duration of 28 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Change From Baseline in Eastern Cooperative Oncology Group Performance Status (ECOG-PS) - ECOG-PS measured on-therapy (time between first dose and last dose date with a 30-day lag) assessed participant's performance status on 5 point scale: 0=Fully active/able to carry on all pre-disease activities without restriction;1=restricted in physically strenuous activity, ambulatory/able to carry out light or sedentary work;2=ambulatory (&gt;50% of waking hrs), capable of all self care, unable to carry out any work activities;3=capable of only limited self care, confined to bed/chair &gt;50% of waking hrs;4=completely disabled, cannot carry on any self care, totally confined to bed/chair;5=dead.</outcome>
+      <timepoint>Baseline, Week 1, 2, 8, 12, thereafter assessed every 12 weeks up to 2 years then every 24 weeks thereafter</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Change From Baseline in Physical Examinations and Vital Signs - Percentage of participants with PCI physical examinations and vital signs is reported during therapy and at post therapy. Criteria for PCI change in vital signs: heart rate value of &lt;40 beats per min and value &gt;150 beats per min, systolic blood pressure (SBP) of &lt;80 or &gt;210 millimeter of mercury (mmHg), diastolic blood pressure (DBP) of &lt;40 or &gt;130 mmHg, temperature &lt;32 or &gt;40 degree centigrade, respiratory rate (Resp) of &lt;10 or &gt;50 breaths/min and criteria for PCI change in physical examination: &gt;=10% increase or decrease of body weight in kilogram (kg).</outcome>
+      <timepoint>Screening, Baseline, and end of treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Change From Baseline in Physical Examinations and Vital Signs and Number of Participants With PCI Values - Percentage of participants with PCI physical examinations and vital signs is reported during therapy and at post therapy. Criteria for PCI change in vital signs: heart rate value of &lt;40 beats per min and value &gt;150 beats per min, SBP of &lt;80 or &gt;210 mmHg, DBP of &lt;40 or &gt;130 mmHg, temperature &lt;32 or &gt;40 degree centigrade, Resp of &lt;10 or &gt;50 breaths/min and criteria for PCI change in physical examination: &gt;=10% increase or decrease of body weight in kg. No Ph+ ALL participants were analyzed post-therapy (N=0). Part 1 safety data were originally presented in 2011 and are included as cumulative data in the Part 2 final safety results.</outcome>
+      <timepoint>Post-therapy</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Ph+ CML or Ph+ ALL who are primarily refractory to full-dose imatinib (600 mg), have
+             disease progression/relapse while on full-dose imatinib, or are intolerant of any dose
+             of imatinib.
+
+          -  At least 3 months post stem cell transplantation
+
+          -  Able to take daily oral capsules/tablets reliably</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Subjects with Philadelphia chromosome, and bcr-abl negative CML
+
+          -  Overt leptomeningeal leukemia
+
+          -  Subjects without evidence of leukemia in bone marrow (extramedullary disease only)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>18/01/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>571</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>6/08/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Institute of Medical and Veterinary Science - Adelaide</hospital>
+    <hospital>Department of Clinical Haematology and Bone Marrow Transplantation - Melbourne</hospital>
+    <hospital>Royal Brisbane and Women's Hospital - Queensland</hospital>
+    <hospital>Haematology and Oncology Clinics of Australia - Queensland</hospital>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>SA 5000 - Adelaide</postcode>
+    <postcode>3181 - Melbourne</postcode>
+    <postcode>4029 - Queensland</postcode>
+    <postcode>4101 - Queensland</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Provincia de Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Ciudad Autonoma de Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Corrientes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Pcia de Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo/sp - Brazil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sp - Brazil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sp Brazil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Curitiba, PR</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Temuco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>P.r China</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>P.r. China</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shanghai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Colombia</country>
+      <state>Antioquia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Colombia</country>
+      <state>Cundinamarca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Helsinki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>RP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Magdeburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Chai Wan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Tamil Nadu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Province of Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Nuevo Leon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Toluca Estado de Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Groningen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>The Netherlands</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Norge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Lima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ekaterinburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kirov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-on Don</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Bloemfontein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Cape Town</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Parktown</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Soweto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Catalonia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Uppsala</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei 100</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>North East England</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne, North East England</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Pfizer</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is an open-label, continuous daily dosing, two-part safety and efficacy study of SKI-606
+      (bosutinib) in Philadelphia chromosome positive leukemias (Ph+). Part 1 is a dose-escalation
+      study in chronic phase Chronic Myelogenous Leukemia (CML) subjects to establish the maximum
+      tolerated dose (MTD) in this subject population. Part 2 has begun after the completion of
+      Part 1 and after a dose has been established for the compound in chronic phase subjects. Part
+      2 is a study of the the efficacy of 500mg daily oral SKI-606 (bosutinib) in patients with all
+      phases of Ph+ CML and Ph+ Acute Lymphocytic Leukemia (ALL). The protocol will test the
+      hypotheses that oral daily dosing of bosutinib at 500 mg will attain (1) Major Cytogenetic
+      Response (MCyR) in chronic phase CML patients and (2) Overall Hematological Response (OHR) in
+      advanced leukemia patients. Each phase of the disease will be evaluated as a separate cohort.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00261846</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address>Pfizer</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

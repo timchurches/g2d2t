@@ -1,0 +1,183 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370090">
+  <stage>Registered</stage>
+  <submitdate>18/02/2016</submitdate>
+  <approvaldate>23/02/2016</approvaldate>
+  <actrnumber>ACTRN12616000248460</actrnumber>
+  <trial_identification>
+    <studytitle>An Evaluation of Mobile-Based Worry Postponement Application in the Management of Worry and Anxiety Symptoms </studytitle>
+    <scientifictitle>An Evaluation of Mobile-Based Worry Postponement Application in the Management of Worry and Anxiety Symptoms </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Generalised Anxiety Disorder </healthcondition>
+    <healthcondition>Anxiety </healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention will involve the use of a newly designed smartphone application ("app") available for download on the Apple and Google Play stores. The experimental app assists users in the process of worry postponement, which allows them to record their worries and postpone them to a time of their choosing, giving them greater control over their worries and anxiety. Participants will be encouraged to use the app at least once daily across a 4-week intervention period, but they are free to use the apps as frequently or infrequently as they wish. Participants will continue to have access to the app during the follow-up period (1- and 3-months after the active intervention period). Page views will be monitored by the app software.</interventions>
+    <comparator>The control treatment will involve a control app that allows users to record and review their worries throughout the day, allowing them to keep track of their worries. The app also allows users to add action plans to worries, detailing how they will deal with particular worries by adding notes alongside them. Participants will be encouraged to use the app at least once daily across a 4-week intervention period, but they are free to use the apps as frequently or infrequently as they wish. Participants will continue to have access to the app during the follow-up period (1- and 3-months after the active intervention period). Page views will be monitored by the app software.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Self-reported worry as measured by the Penn-State Worry Questionnaire (PSWQ). 
+</outcome>
+      <timepoint>Baseline (Prior to assignment of app condition), Post-Intervention (immediately following completion of 4-week intervention period) and 1-Month Follow-Up (1-month after the post-intervention testing period) </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Negative metacognitive beliefs about the danger and uncontrollability of worry as measured by the Metacognitions Questionnaire (MCQ) - Uncontrollability and Danger Subscale (MCQ-UD) </outcome>
+      <timepoint>Baseline (Immediately following the first week of intervention), Weeks 2 and 3 (immediately following the second and third weeks of the intervention), Post-Intervention (immediately following the fourth/final week of intervention), 1-Month Follow-Up (After a 1-month interval following the post-intervention testing)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Self-reported anxiety/worry symptom severity as measured by the Generalised Anxiety Disorder-7 (GAD-7) Questionnaire. </outcome>
+      <timepoint>Baseline (immediately following the first week of intervention), Weeks 2 and 3 (immediately following the second and third weeks of intervention), Post-Intervention (immediately following the fourth/final week of intervention), 1-Month Follow-Up (After a 1-month interval following the post-intervention testing). </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Repetitive negative thinking as measured by the Repetitive Thinking Questionnaire-10 (RTQ-10)</outcome>
+      <timepoint>Baseline (Prior to assignment of app condition), Post-Intervention (immediately following the fourth/final week of intervention), 1-Month Follow-Up (After a 1-month interval following the post-intervention testing) </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria includes: 1) Participants who score 45 or above on the Penn-State Worry Questionnaire (PSWQ), 2) Access to smartphone with access to the iOS or Google Play stores. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria includes 1) Participants who endorse moderate to high suicide risk on the Mini International Neuropsychiatric Interview (MINI), 2) Participants currently engaged in concurrent psychological treatment for depression or anxiety, 3) Participants who expect any changes to their medication dosage and routine in the following month, 4) Participants without access to a smartphone with access to the iOS or Google Play stores.  </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>To ensure allocation concealment during the initial screening and assessment, participants will first be screened by an assessor blind to the participant's condition. Once eligibility has been confirmed, the assessor will contact the project administrator who will inform the assessor of the participant's treatment allocation (experimental or control app). The assessor will then provide the participant with the details required to download their allocated app and commence the study. Blind assessors will then conduct the post-treatment and follow-up diagnostic interviews and will then be asked to guess each participant's allocation. If the guess at around chance, we can be confident that blinding was successful.</concealment>
+    <sequence>A computerised sequence generation will be used to allocate participants to treatment condition. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>To determine whether the use of the experimental app is associated with a significant reduction in negative metacognitive beliefs (uncontrollability and danger), worry, repetitive negative thinking (RNT) and symptoms of GAD, a generalised linear mixed model will be used. There will be one nominal fixed effect (group: experimental, control), four ordinal fixed effects (Time: pre-test, week 1, week 2, week 3, post-test, 1-month follow-up, 3-month follow-up for MCQ-UD and GAD-7; Time: pre-test, post-test, 1-month follow-up, 3-month follow-up for all other measures), and the Group x Time interaction. Significant Group x Time interactions will be analysed by conducting Least Significant Difference (LSD) contrasts across the simple main effects of Time. An a priori power analysis was conducted using G*Power (version 3.1.9.2, Buchner, Erdfelder, Faul, &amp; Lang, 1992-2014) to determine the required sample size to achieve 80% power to detect a medium interaction effect size (f = .25) at an alpha level of .05. This analysis revealed that 14 participants per group are required (total N = 28).
+	To determine whether there is an indirect effect of App Condition (Experimental, Control) on GAD symptoms, worry, and RNT via changes in negative metacognitive beliefs, PROCESS macro for SPSS will be used (Hayes, 2013). App Condition (Experimental, Control) will be input as the independent variable with GAD-7 total scores, PSWQ total scores, and RTQ-10 total scores being input as the dependent variables and the MCQ-UD subscale scores being input as the mediator. A power analysis for the mediation analyses suggested that a total sample of 68 is required for an 80% chance of detecting a medium effect (f = .25) at an alpha level of .05, so a minimum of 68 participants (34 per group) will be recruited for the study.  We will seek to recruit 10% more than the required number of participants to account for any attrition between recruitment and dropout prior to commencing with the study (Total N = 76, 38/group). Once randomised all participants will be included in the analyses.
+            All analyses will be intention to treat. GLMM is less sensitive to participant attrition than ANOVA because it does not rely on participants providing data at every assessment point; the GLMM maximum likelihood procedure is a full information estimation procedure that uses all data present at each assessment point. This reduces sampling bias and the need to replace missing data. GLMM is able to use the data present at each assessment point because (pre-test, week 1, week 2, week 3, post-test, 1- and 3-month follow-up) is interpreted as a Level 1 variable that is nested within participant at Level 2. 
+         Descriptive data regarding the frequency and type of self-reported use will be reported. Pearson correlations between frequency, type of self-reported use and outcome measures (worry, anxiety symptoms, repetitive negative thinking and negative metacognitive beliefs about uncontrollability and danger) will be conducted, to determine whether usage is related to treatment outcome.  
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>25/02/2016</anticipatedstartdate>
+    <actualstartdate>21/03/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>11/11/2016</actualenddate>
+    <samplesize>76</samplesize>
+    <actualsamplesize>78</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>15/01/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University </primarysponsorname>
+    <primarysponsoraddress>Kent Street, Bentley WA 6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Curtin University </fundingname>
+      <fundingaddress>Kent Street, Bentley WA 6102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Approximately 68% of adults worldwide own mobile phones, with an estimated 1.08 billion of these being smartphones. Studies have shown that more people own a smartphone than a computer. Mobile health allows for the provision of evidence-based therapeutic techniques to a greater proportion of the population. Anxiety disorders are the most common mental disorders and the current study aims to evaluate the efficacy of a smartphone application ("app") designed to reduce worry by giving users greater control over it. Participants will be randomly assigned to use one of two apps. Measures of worry, depression, anxiety, negative metacognitive beliefs and repetitive negative thinking will be taken pre-, post- and follow-up intervals, with weekly measures of anxiety and negative metacognitive beliefs during the intervention. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee - Curtin University</ethicname>
+      <ethicaddress>Kent Street, Bentley WA 6102</ethicaddress>
+      <ethicapprovaldate>14/01/2016</ethicapprovaldate>
+      <hrec>HR225/2015/AR1</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,211 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363185">
+  <stage>Registered</stage>
+  <submitdate>23/10/2012</submitdate>
+  <approvaldate>24/10/2012</approvaldate>
+  <actrnumber>ACTRN12612001132831</actrnumber>
+  <trial_identification>
+    <studytitle>Increasing prevention, detection and treatment of osteoporosis through automated opportunistic reminders to patients, general practitioners and practice nurses.</studytitle>
+    <scientifictitle>In patients over 50 years old attending general practices, do automated opportunistic reminders issued to patients on arrival for consultations increase performance of indicated osteoporosis related care, compared to usual care?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Osteoporosis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Osteoporosis</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Sheets with bone health related education, information based on the patients' electronic clinical record, and advice about possible desirable activities, that are generated and printed automatically when the patient is marked in the practice's electronic appointments system as 'arrived'. The education will be a few brief sentences about what osteoporosis is, and the risks that it poses to health and well-being. The information will tell the patient, depending on data in his or her electronic clinical record, that he or she either may be at high risk of osteoporosis, and why, or that they have been diagnosed with osteoporosis, what appropriate treatment(s) he or she is currently receiving, and what other treatments may be indicated. The advice will be to ask the doctor in the consultation to review the patient's bone health and treatments for it. Each eligible patient will be able to receive a sheet only once during the three month trial.</interventions>
+    <comparator>Care that the general practice usually provides to its patients</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportions of patients who receive selected indicated osteoporosis-related services (bone mineral density, vitamin D level, advice or prescription of vitamin D and calcium supplement, prescription of treatment for osteoporosis (e.g . bisphosponates).  
+
+These outcomes will be measured by automated extraction of data from each patient's electronic clinical record.</outcome>
+      <timepoint>3 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportions of opportunities taken in each group during consultations to perform the services listed above.
+
+These outcomes will be measured by automated extraction of data from each patient's electronic clinical record.</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Numbers of consultations, Medicare item numbers and Medicare benefits claimed in each group.
+
+These outcomes will be meausured by automated extraction of data from each patient's electronic clinical and administrative record.</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Attend a participating general practice during the trial</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>None</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>General practices will be invited to participate.
+The nature of the study prevents concealment of allocation.</concealment>
+    <sequence>Practices that are enrolled will be ranked by baseline performance of osteoporosis-related care.  Starting with the two practices with the best performance, each pair of practices will be allocated to a usual care control group or to the intervention group by using randomised permuted blocks, which will ensure that equal numbers of practices in each stratum are allocated to each group.
+
+An independent statistician will provide the table of random numbers to be used for the allocation.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/12/2012</anticipatedstartdate>
+    <actualstartdate>4/10/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>3/03/2014</actualenddate>
+    <samplesize>13000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr. Oliver Frank</primarysponsorname>
+    <primarysponsoraddress>Discipline of General Practice
+University of Adelaide
+North Terrace
+Adelaide
+South Australia 5005</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>RACGP Foundation</fundingname>
+      <fundingaddress>RACGP College House
+100 Wellington Parade
+EAST MELBOURNE VIC 3002</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Aims
+This study aims to test the effect of informing and reminding patients, GPs and practice nurses opportunistically about care aimed at preventing, detecting and treating osteoporosis.
+
+Research design
+Cluster randomised controlled trial 
+
+Methods
+Existing opportunistic reminder software used in general practices will be enhanced to provide reminders about osteoporosis-related care.  Ten general practices will be randomised to a usual care control group or to the intervention group, in which patients attending for consultations for whom osteoporosis-related care is due will receive an automatically-printed sheet of information and advice when they arrive for their consultation.  The sheet will advise them to ask their GP or nurse about the care that is due.  GPs and practice nurses will receive on-screen reminders during those consultations about the osteoporosis-related care that is due to be performed for the patient.  
+
+Likely outcomes and benefits
+Performance of osteoporosis-related care will be significantly improved by the intervention.  Widespread implementation of this strategy is expected to reduce the prevalence of osteoporosis and the loss of healthy life years resulting from preventable fractures.  This will improve population health and reduce costs of health care.</summary>
+    <trialwebsite />
+    <publication>Pre-consultation bone health information sheets increase care to prevent, detect and treat osteoporosis
+Oliver Frank and Nigel Stocks
+RACGP GP14 Conference, 10/10/2014, Adelaide</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Adelaide Human Research Ethics Committee</ethicname>
+      <ethicaddress>University of Adelaide
+North Terrace
+Adelaide
+South Australia 5005</ethicaddress>
+      <ethicapprovaldate>17/07/2012</ethicapprovaldate>
+      <hrec>H-2012-093</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Oliver Frank</name>
+      <address>Discipline of General Practice
+University of Adelaide
+North Terrace
+Adelaide
+South Australia 5005</address>
+      <phone>+61 407 181 683</phone>
+      <fax>+61 8 8313 3511</fax>
+      <email>oliver.frank@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr. Oliver Frank</name>
+      <address>Discipline of General Practice
+University of Adelaide
+North Terrace
+Adelaide
+South Australia 5005</address>
+      <phone>+61 407 181 683</phone>
+      <fax>+61 8 8313 3511</fax>
+      <email>oliver.frank@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Oliver Frank</name>
+      <address>Discipline of General Practice
+University of Adelaide 5005</address>
+      <phone>+61 407 181 683</phone>
+      <fax>+61 8 8313 3511</fax>
+      <email>oliver.frank@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr. Oliver Frank</name>
+      <address>Discipline of General Practice
+School of Population Health 
+University of Adelaide
+Level 11, 178 North Terrace
+Adelaide
+South Australia 5005</address>
+      <phone>+61 407 181 683</phone>
+      <fax />
+      <email>oliver.frank@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

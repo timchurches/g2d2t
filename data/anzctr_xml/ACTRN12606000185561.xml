@@ -1,0 +1,259 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="1266">
+  <stage>Registered</stage>
+  <submitdate>7/05/2006</submitdate>
+  <approvaldate>17/05/2006</approvaldate>
+  <actrnumber>ACTRN12606000185561</actrnumber>
+  <trial_identification>
+    <studytitle>A Very Early Rehabilitation Trial</studytitle>
+    <scientifictitle>A Prospective Phase 3, multicentre, randomised controlled trial of efficacy (death and disability at 3 months) and cost effectiveness of very early rehabilitation (early and more frequent rehabilitation sessions) versus standard care (the rehabilitation care a patient would normally receive) in patients with acute stroke.</scientifictitle>
+    <utrn>U1111-1145-4204</utrn>
+    <trialacronym>AVERT</trialacronym>
+    <secondaryid>No Secondary ID</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients are randomised to receive  very early rehabilitation within 24 hours of the onset of stroke and for up to 14 days.  The rehabilitation consists of protocol specified rehabilitation sessions of short duration, related to the patients normal activities of daily living.  The rehabilitation is implemented by physiotherapists and nurses.  Blinded assesssment of outcome is performed at 3 and 12 months.</interventions>
+    <comparator>Standard acute care (the standard rehabilitation care provided at the hospital)</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Modified Rankin Score</outcome>
+      <timepoint>At 3 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death rate and the rate and severity of important medical events </outcome>
+      <timepoint>At 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All adverse events during the intervention period. </outcome>
+      <timepoint>Day 0 - Day 14</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health related quality of life measure - AQoL</outcome>
+      <timepoint>3 and 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost effectiveness and cost utility</outcome>
+      <timepoint>At 3 and 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>mRS </outcome>
+      <timepoint>At 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Dose response - Mobilisation dose and outcome. Therapy dose provided by therapists and nurses, and outcome as measured by Modified Rankin Score.</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Staff injury during the intervention period</outcome>
+      <timepoint>Day 0 - Day 14</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cognitive function using Montreal Cognitive Assessment (MoCA)</outcome>
+      <timepoint>At 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time (days) to achieve unassisted walking over 50 metres  </outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospitalisation (acute+ rehabilitation)</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mood measured using Irritability, Depression and Anxiety scale</outcome>
+      <timepoint>3 and 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Barthel Index </outcome>
+      <timepoint>3 and 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients walking unassisted </outcome>
+      <timepoint>3 and 12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>First or recurrent stroke diagnosis, haemorrhage or infarct, admitted to a stroke unit within 24 hours of onset of stroke symptoms.  Patients must at least react to verbal commands.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Pre stroke mRS of 3,4 or 5 (previous significant disability)Deterioration in patients condition in the first hour resulting in admission to ICU, surgery or documented palliative treatment.Concurrent diagnosis of rapidly deteriorating disease.Unstable coronary or other medical condition which is judged by the investigator to pose a hazard to the patient by involvement in the trial.A confirmed or suspected lower limb fracture preventing implemetation of the protocoltPA patients can be included if the treating physician permits and mobilisation within 24 hours is permitted.Patients cannot be concurrently recruited to drug or other intervention trials.  Vital signs not within protocol specified normal limits.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is concealed via a central web based randomisation system.  Randomisation occurs once the patient provides consent. The AVERT physiotherapist and Nurse are aware of the allocation. The patient, other staff and specifically the assessor remain blinded to the allocation. All online information is secured by use of password site entry, and data encryption procedures.</concealment>
+    <sequence>Permutated blocks of various lengths will be used to ensure allocation concealment.  A secure remote web based computer generated randomisation will be used, statified according to stroke severity.  (NIHSS 1-7 Mild), (NIHSS 8 - 16 Moderate), (NIHSS greater than 16 Severe).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The study is powered to detect an absolute risk reduction (ARR) of death or a poor outcome of 7.1% or greater, based on the following rationale: (i) consensus among investigators and international advisors that an ARR of this magnitude would represent a clinically meaningful effect size (although there are no formal cost-effectiveness data to support this view); and (ii)  3 month figures from an Australian hospital (40.9%) and a hospital that has practiced early mobilisation over many years (31.8%) showing less death and institutionalisation, therefore greater independent survival. Clinicians at this centre have estimated that mobilisation accounts for 78% of this 9.1% benefit. This gives a final absolute difference of 7.1%.  A sample of 2104 patients (1052 per arm) will provide 80% power to detect a significant intervention effect (2 sided, p = 0.05) with adjustments for 5% dropping- in and a 10% dropping-out.
+The primary efficacy hypothesis is tested using the binary logistic regression model with a treatment group as an independent variable and the 3 months mRS outcome (dichotomized into mRS 0-2 as favourable outcome and mRS 3-6 as poor outcome) as the dependent variable, including baseline NIHSS and age as treatment covariates for adjustment purposes. The treatment effect will be presented as odds ratio (OR) with the corresponding 95% CI. This analysis will allow comparison with published outcomes of other acute stroke trials. 
+Statisitical analysis plan for this trial will be published prior to the analysis of data.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/06/2006</anticipatedstartdate>
+    <actualstartdate>18/07/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>16/10/2014</actualenddate>
+    <samplesize>2104</samplesize>
+    <actualsamplesize>2104</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/11/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,WA,VIC</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Scotland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Northern Ireland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Wales</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Kuala Lumur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>England</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>National Stroke Research Institute</primarysponsorname>
+    <primarysponsoraddress>245 Burgundy Street, Heidelberg VICTORIA 3084</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC grant</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Greater Glasgow Health Board</sponsorname>
+      <sponsoraddress>Dalian HOuse 
+350 St Vincent Street
+Glasgow
+G3 8YT</sponsoraddress>
+      <sponsorcountry>United Kingdom</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A Very Early Rehabilitation Trial (AVERT)
+Randomised controlled trial of very early mobilisation (intervention) versus standard care (control) with blinded assessment of outcome and intention to treat anlaysis.  A comprehensive cost eccectiveness sub study is included.  It is hypothesised that early mobilisation of patients in addition to standard care alone, will reduce death and disability at 3 months, reduce the number and severity of stroke complications experienced by patients, resullt in a better quality of life and is cost effective.</summary>
+    <trialwebsite>http://www.florey.edu.au/research/avert</trialwebsite>
+    <publication>Bernhardt, J., Churilov, L., Dewey, H., Lindley, R., Moodie, M., Collier, J., Langhorne, P., Thrift, A., Donnan, G., for the AVERT Collaborators. (2015). Statistical Analysis Plan (SAP) for A Very Early Rehabilitation Trial (AVERT): An international trial to determine the efficacy and safety of commencing out of bed standing and walking training (very early mobilisation) within 24 h of stroke onset vs usual stroke unit care. [Journal]. International Journal of Stroke 10, 23-24.
+Bernhardt, J., Langhorne, P., Lindley, R., Churilov, L., Thrift, A., Moodie, M., Collier, J., Ellery, F., Lennon, S., Hameed, S., Dewey, H., Donnan, G. (2015). A Very Early Rehabilitation Trial (AVERT): Primary outcome at 3 months post stroke. International Journal of Stroke, 10 (Suppl. 2), 2.
+Bernhardt, J., Thrift, A., Dewey, H., Moodie, M., Lindley, R., Mc Rae, A., Tan, D., Lennon, S., Md Ali, K., Churilov, L., Collier, J., Langhorne, P., Donnan, G., on behalf of the AVERT Trialists' collaboration. (2015). A Very Early Rehabilitation Trial (AVERT): Primary Outcome. World Confederation for Physical Therapy, Singapore.
+Donnan, G., Lindley, R., Thrift, A., Dewey, H., Langhorne, P., Bernhardt, J., on behalf of the AVERT Trialists' Collaboration. (2015). Progress update from A Very Early Rehabilitation Trial. Stroke, 46 (Suppl 1), ATP117.
+The AVERT Trial Collaboration group. (2015). Efficacy and safety of very early mobilisation within 24 h of stroke onset (AVERT): a randomised controlled trial. The Lancet, http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60690-0/abstract.
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health</ethicname>
+      <ethicaddress>145 Studley Road
+Heidelberg, Victoria, AUSTRALIA 3084</ethicaddress>
+      <ethicapprovaldate>26/05/2006</ethicapprovaldate>
+      <hrec>H2006/02515</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Julie Bernhardt</name>
+      <address>245 Burgundy Street Heidelberg, VICTORIA 3084</address>
+      <phone>+613 9035 7072</phone>
+      <fax>+61 3 94962251</fax>
+      <email>j.bernhardt@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Ms Fiona Ellery</name>
+      <address>245 Burgundy Street, Heidleberg, Victoria 3084</address>
+      <phone>+613 9035 7042</phone>
+      <fax>+61 3 94962251</fax>
+      <email>fellery@nsri.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Fiona Ellery</name>
+      <address>245 Burgundy Street, Heidelberg, VICTORIA 3084</address>
+      <phone>+61 3 9035 7042</phone>
+      <fax>+ 61 3 9496 2251</fax>
+      <email>fellery@nsri.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Julie Bernhardt</name>
+      <address>Florey Institute of Neuroscience and Mental Health
+245 Burgundy Street 
+Heidelberg, Victoria, 3084 Australia</address>
+      <phone>+61 3 9035 7072</phone>
+      <fax>61 3 9035 2251</fax>
+      <email>j.bernhardt@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

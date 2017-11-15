@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362762">
+  <stage>Registered</stage>
+  <submitdate>16/07/2012</submitdate>
+  <approvaldate>16/07/2012</approvaldate>
+  <actrnumber>ACTRN12612000754842</actrnumber>
+  <trial_identification>
+    <studytitle>Fluid therapy after cardiac surgery  A feasibility study</studytitle>
+    <scientifictitle>A study of cardiac surgical patients to determine if a stroke volume variation guided fluid protocol is superior to standard fluid administration in reducing the total amount of fluid patients receive.</scientifictitle>
+    <utrn>U1111-1132-5464</utrn>
+    <trialacronym>FRACAS</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiac surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Stroke volume variation guided fluid administration. Bedside staff will utilise a protocol to guide fluid administration. If the clinician suspects the patient to have a known or suspected inadequate cardiac output (i.e. the cardiac index is &lt; 2.5L/min/m2; poor perfusion;poor urine output) and the stroke voume is &gt;13 then they will be instructed to administer a fluid bolus of 250mls.  This will continue until the patient is extubated or they reach 24 hours post-operative.</interventions>
+    <comparator>Standard fluid administration - fluid boluses administered by the treating clinician based on blood pressure, central venous pressure etc. These boluses are usually 250 - 500mls per bolus and depend on the treating clinician.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Difference in the volume of fluid administered as a bolus during the first 24hrs post-op.</outcome>
+      <timepoint>24 hours postoperative</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Increase in serum NGAL</outcome>
+      <timepoint>6 and 24hours postoperative</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of acute kidney injury using RIFLE and AKIN catgories</outcome>
+      <timepoint>Hospital stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Requirment for renal replacement therapy</outcome>
+      <timepoint>hospital stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intensive care unit length of stay</outcome>
+      <timepoint>Discharge from ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay</outcome>
+      <timepoint>Discharge from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>90days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult patients (&gt;16yrs), expected to have cardiac surgery using cardiopulmonary bypass, written infomred consent</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Emergency procedure, intra-aortic balloon pump in situ, chronic atrial fibrillation pre-op, atrial fibrillation post-op, open chest post-op, patient likely to die within 24hours</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be consented and enrolled pre-operatively. As long as no exclusion criteria exist post-opertaively, patient will be randomised on return to ICU and allocation revealed. Randomisation will be acheived through use of sequentially numbered opaque envelopes which will contain patient allocation and study number.</concealment>
+    <sequence>These will be randomly generated using microsoft excel.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Patients will be stratified for presence/absence of a pulmonary artery catheter on admission to ICU.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2012</anticipatedstartdate>
+    <actualstartdate>31/01/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>10/10/2013</actualenddate>
+    <samplesize>144</samplesize>
+    <actualsamplesize>144</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Shay McGuinness</primarysponsorname>
+    <primarysponsoraddress>Cardiothoracic and Vascular ICU
+Auckland City Hospital
+Private Bag 92024
+Auckland 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Following cardiac surgery, patients receive large amounts of fluid in the intensive care unit. This may cause problems with wound healing and delay hospital discharge. A planned randomised controlled trial of a restrictive fluid regime as compared to a more liberal approach utilising advance hemodynamic monitoring, aims to reduce the amount of fluid patients receive and reduce hospital length of stay. This feasibility study aims to determine whether this nurse-led protocol is practicable and feasible and will help answer the research question. It will also aim to evaluate how fluid is administered in other cardiac intensive care centres in New Zealand. This study is simple and inexpensive and if it demonstrates a decreased length of hospital stay then this will represent a significant benefit for both individual patients and the health system</summary>
+    <trialwebsite />
+    <publication>This trial has been published as follows: Parke RL, McGuinness SP, Gilder E, McCarthy LW, Cowdrey K-AL. A Randomised feasibility study to assess a novel strategy to rationalise fluid in patients after cardiac surgery. British Journal of Anaesthesia 2015;115:45-52.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern A ethics committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>21/09/2012</ethicapprovaldate>
+      <hrec>12/NTA/2</hrec>
+      <ethicsubmitdate>13/07/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Shay McGuinness</name>
+      <address>Cardiothoracic and Vascular ICU
+Auckland City Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+6421324771</phone>
+      <fax>+6493074906</fax>
+      <email>shaymc@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Rachael Parke</name>
+      <address>Cardiothoracic and Vascular ICU
+Auckland City Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+6421893176</phone>
+      <fax>+6493074906</fax>
+      <email>rparke@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Rachael Parke</name>
+      <address>Cardiothoracic and Vascular ICU
+Auckland City Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+6421893176</phone>
+      <fax>+6493074906</fax>
+      <email>rparke@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Shay McGuinness</name>
+      <address>Cardiothoracic and Vascular Intensive Care Unit Auckland CIty Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+6421324771</phone>
+      <fax>+6493074906</fax>
+      <email>shaymc@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

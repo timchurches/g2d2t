@@ -1,0 +1,234 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373439">
+  <stage>Registered</stage>
+  <submitdate>12/08/2017</submitdate>
+  <approvaldate>16/08/2017</approvaldate>
+  <actrnumber>ACTRN12617001194358p</actrnumber>
+  <trial_identification>
+    <studytitle>Online planning tool for reducing unhealthy snacking</studytitle>
+    <scientifictitle>Online planning tool for reducing unhealthy snacking in middle-aged and older Australians</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Low health literacy</healthcondition>
+    <healthcondition>Unhealthy snacking</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention aims to: (1) investigate the impact of an online planning tool on unhealthy snacking behaviour at one-month follow-up; (2) compare this effect amongst higher and lower health literacy groups, and; (3) investigate possible mediating factors or predictors of the effectiveness of the intervention, and how this relates to health literacy. 
+
+Participants will be randomly allocated to one of 3 conditions*:
+	Volitional help sheet
+	Detailed plan
+	Snacking tips sheet
+
+All will complete a 20min online survey (Survey 1). This will include demographic questions and measures relating to health literacy and health behaviour. Depending on which condition participants have been assigned to, some will design their own healthy snacking plan, while others receive either a volitional help sheet, or  a sheet with snacking tips. 
+
+One-week after Survey 1 is completed, participants are emailed a reminder of either their plan, help sheet, or tip sheet. One-month after Survey 1 is completed, participants complete Survey 2 (10mins). 
+
+The study will be conducted online via two Qualtrics surveys. Both surveys will be designed by Ms Julie Ayre, a PhD candidate from the Sydney School of Public Health, The University of Sydney.  
+
+*The three conditions:
+
+Volitional help sheet: 
+
+This consists of 4 steps that guide the user through the process of developing an appropriate plan.
+
+ Step1: Sometimes we snack because we are hungry, but there are lots of other reasons too. Think about your snacks in the last week. Below is a list of snack moments. These are times when people tend to choose unhealthy snacks or eat too much. Choose 3 snack moments from the list that happened to you the most often in the last week. [List of snack moments].
+ Step 2: Below are your top 3 snack moments. Some snack moments will be more important than others. Choose the 1 that you would be happiest to change. [User chooses from 3 previously selected snack moments]
+ Step 3: Great! Your most important snack moment was snacking because you are bored. 
+ The last step is to come up with a plan! Choose the solution that you think will work best for you. Drag it into the space on the right. [List of solutions]
+ Step 4: Imagine how your plan might feel.[examples of scenarios when this might happen]. The final step is to make sure the plan is realistic. How hard do you think it will be to do this plan for the next month [Slider from very easy to very hard. If the user selects a number 7 they will be prompted to revise the plan]
+
+Detailed plan: 
+
+Text: We want you to plan how you will change your unhealthy snacking behaviour each day because forming plans has been shown to improve snacking habits. 
+You are free to choose how you do this but we want you to formulate your plans in as much detail as possible. Please pay attention to the situations in which you will implement (carry out) these plans. Focus on situations when you are not hungry but find yourself snacking.
+
+Snacking tips sheet: 
+
+This is a modified version of the NDSS Healthy snacking tips sheet with references to diabetes, blood glucose and carbohydrate removed (see https://static.diabetesaustralia.com.au/s/fileassets/diabetes-australia/201fcd3d-3b7c-4f5f-a81a-46a200b1fa84.pdf ).</interventions>
+    <comparator>The snacking tips sheet condition will act as a passive control in this study. 
+
+The effect of the planning tools (volitional help sheet; detailed planning; information sheet) will be assessed using ANCOVA (analysis of covariance), controlling for: baseline values, age, sex, and language spoken at home. 
+
+Orthogonal planned contrasts will be used to test if the volitional help sheet is superior to the detailed planning intervention, and if both of these interventions are superior to the passive control intervention (information sheet) on the primary outcomes. </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Maintenance self-efficacy (3 items, 4-point Likert scale anchored to not at all true/exactly true).</outcome>
+      <timepoint>Survey 2 (administered one-month following Survey 1). </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Unhealthy snacking scores (based on self-reported diet during previous week).</outcome>
+      <timepoint>Survey 2 (administered one-month following Survey 1). </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Action Control, using 3-item self report 7-point Likert scale based on those used in Armitage 2015 (both references below are use the same approach):
+- Armitage, C. J. (2015). Randomized test of a brief psychological intervention to reduce and prevent emotional eating in a community sample. Journal of Public Health, 37(3), 438-444.
+- Armitage, C. J. (2015). Field experiment of a very brief worksite intervention to improve nutrition among health care workers. Journal of behavioral medicine, 38(4), 599-608.</outcome>
+      <timepoint>Survey 1 and Survey 2 (i.e. one month after Survey 1)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-regulatory effort, a 5 item 7-point Likert scale (strongly disagree to strongly agree).</outcome>
+      <timepoint>Survey 1 and Survey 2 (i.e. one month after Survey 1)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Currently living in Australia.
+50% of sample must not have a tertiary education (in order to connect with lower health literacy cohort).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Excluded from study if under the age of 18. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A series of participant IDs will be generated and randomised before being sent to the company supplying the respondents (Survey Sampling International). They may then assign the numbers to the respondents as they wish - they will not be able to assign respondents to conditions in a biased or ordered manner, as the IDs will be randomly generated on our end. </concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The intended sample size is approximately 435 participants. Eighty-seven participants randomized to each group (totalling 261 participants) will yield ~90% power to detect moderate effect sizes (Cohens f = 0.25, corresponding to ANOVA effects and interaction as small as np 2 = 0.06) in the primary outcomes (maintenance self-efficacy scores; unhealthy snacking scores) and any secondary analyses, assuming a Bonferroni-adjusted two-sided alpha of 0.017 (allowing for four planned comparisons, and a correlation between the two primary outcome measures of ~ 0.25). Importantly, we expect a 40% attrition rate from Survey 1 to Survey 2, thus increasing our required sample size to 435 (i.e., 145 per group). 
+
+Randomisation will be tested using MANOVA (multivariate analysis of variance), to ensure similarity across the three groups of participants in terms of demographic and other descriptive characteristics at baseline. The effect of the planning tools (volitional help sheet; detailed planning; information sheet) will be assessed using ANCOVA (analysis of covariance), controlling for: baseline values, age, sex, and language spoken at home. Orthogonal planned contrasts will be used to test if the volitional help sheet is superior to the detailed planning intervention, and if both of these interventions are superior to the passive control intervention (information sheet) on the primary outcomes. Secondary analyses will include exploring possible mediation of behavioural change by maintenance self-efficacy by using bootstrapping procedures as outlined in Preacher and Hayes (2008; BehavResMethods 40: 879-891). The potential moderating effect of health literacy on the efficacy of planning tools will be explored by examining the interaction of intervention and health literacy in ANCOVA.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>28/08/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>4/09/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>435</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>13/10/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Sydney</primarysponsorname>
+    <primarysponsoraddress>The University of Sydney, NSW, 2006</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Sydney</fundingname>
+      <fundingaddress>The University of Sydney, NSW, 2006</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Snacks are important because they keep us going until the next meal. Sometimes though, we eat too many, or choose snacks that are unhealthy. Even though each snack is usually small, over time these snacks can add up. This can make us gain weight. Smart snacking means choosing nutritious, healthy snacks that give you energy until the next meal. 
+
+While many of us want to change the way we snack, this can be very hard to do. Often we make plans but have trouble sticking to them over long periods of time. This study is testing a smart snacking tool that will make sure that plans to snack healthily are high quality and easy to follow in the long term. 
+
+To test the effect of this tool on snacking behaviour, we randomised participants to receive one of three planning tools: 
+
+1.	Volitional help sheet (the online smart snacking planning tool)
+2.	Directions to create a detailed plan
+3.	Hints and tips to snack healthily</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Sydney, HREC</ethicname>
+      <ethicaddress>The University of Sydney, Sydney, NSW, 2006</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>22/06/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Kirsten McCaffery</name>
+      <address>307F Edward Ford Building (A27)
+University of Sydney
+NSW 2006</address>
+      <phone>+61 2 9351 7220</phone>
+      <fax />
+      <email>kirsten.mccaffery@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Julie Ayre</name>
+      <address>Rm 129a Edward Ford Building A27
+University of Sydney
+NSW 2006</address>
+      <phone>+61 2 9351 7789</phone>
+      <fax />
+      <email>julie.ayre@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Kirsten McCaffery</name>
+      <address>307F Edward Ford Building (A27)
+University of Sydney
+NSW 2006</address>
+      <phone>+61 2 9351 7220</phone>
+      <fax />
+      <email>kirsten.mccaffery@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Julie Ayre</name>
+      <address>Rm 129a Edward Ford Building A27
+University of Sydney
+NSW 2006</address>
+      <phone>+61 2 9351 7789</phone>
+      <fax />
+      <email>julie.ayre@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

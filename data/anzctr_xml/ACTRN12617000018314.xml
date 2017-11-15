@@ -1,0 +1,209 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372068">
+  <stage>Registered</stage>
+  <submitdate>22/12/2016</submitdate>
+  <approvaldate>5/01/2017</approvaldate>
+  <actrnumber>ACTRN12617000018314</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluation of the usefulness of a new method for predicting the outcome of critical illness in patients admitted to intensive care.</studytitle>
+    <scientifictitle>Evaluation of the utility of a new algorithm for the detection of the unmeasured ion excess in the human extracellular fluid for outcome prediction in critically ill intensive care patients.</scientifictitle>
+    <utrn>U1111-1191-1591</utrn>
+    <trialacronym>UNA UIX</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Other</conditioncode1>
+      <conditioncode2>Research that is not of generic health relevance and not applicable to specific health categories listed above</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients admitted to the intensive care unit will have the results from their routine daily blood tests entered into a new algorithm that is used to predict the presence of chemical species not normally seen in the blood of healthy people. The patients will be followed for seven days and their results will be examined for links to outcome which will be assessed by chart review at hospital discharge or death.
+The algorithm (Unmeasured Ion eXcess - UIX) takes biochemical and acid-base data as its input and generates an output reporting the contribution of the input parameters as well as any unmeasured species to the overall acid-base status. </interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>In hospital mortality assessed by chart review</outcome>
+      <timepoint>Up to the time of death or discharge from hospital</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in ICU assessed by chart review</outcome>
+      <timepoint>Up to the time of discharge from the ICU</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients admitted to the ICU during the study period</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients under the age of 18 years</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The overall ICU mortality rate is approximately 12% per annum with subgroups within that population rising to approximately 30% - an absolute difference of 18%. Detecting a conservative 10% difference in mortality with an alpha of 0.05 and a power of 0.80 requires a total sample size of 440. Based on recent data, a six month survey will capture 500 admissions.
+
+General data descriptive methods will be employed - that is, mean (SD) for normally distributed data, median (IQR) for non-normal data and proportion (%) for categorical and binary data.
+
+Comparisons will be performed using tests appropriate for the type of data. That is, the Students t-test will be used for normal data, the Wilcoxon rank sum test for non-normal data and chi-square and Fishers exact test for categorical/binary data.
+
+Time to event data (eg: length of stay, mortality etc.) will be analysed using Cox proportional hazards modelling. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>6/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>28/07/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>4/08/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Nambour General Hospital - Nambour</hospital>
+    <postcode>4560 - Nambour</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Nambour General Hospital</primarysponsorname>
+    <primarysponsoraddress>Hospital Road
+Nambour
+Queensland
+4560</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Nambour General Hospital</fundingname>
+      <fundingaddress>Hospital Road
+Nambour
+Queensland
+4560</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>It has been postulated that as a result of critical illness, patients leak particular chemicals from their cells with subsequent movement of these chemicals into the blood stream where they may be detected. Disappearance of these chemicals from the blood has been linked to resolution of the process that triggered the episode of critical illness and ultimately, to recovery of the patient.
+
+Currently and with few exceptions, direct measurement of these chemicals is not possible and their effect has to be inferred indirectly as part of another commonly performed measurement - the standard base excess (SBE). The SBE also responds to alterations in the concentrations of the major blood chemicals which are normally present in health. The changes in the normal chemistry of the blood occurs as a result of either the underlying critical illness or the fluids used during resuscitation and unfortunately, they also have a major effect on the SBE, The result is that the SBE becomes more of a general indicator of the presence of critical illness rather than a specific and sensitive predictor. It also can remain abnormal even when the patient has returned to health. 
+
+A recent method for splitting the SBE into its components that permits the estimation of the specific effect of the unmeasured chemicals has been developed, published and experimentally validated - the Unmeasured Ion eXcess (UIX) algorithm. The utility of this algorithm needs to be formally tested in the clinical environment and it is this requirement that drives the need to conduct an audit that involves mapping the results of the routinely collected daily bloods in a population of critically ill patients to their eventual outcome and length of ICU and hospital stay.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Prince Charles Hospital Human Research and Ethics Committee</ethicname>
+      <ethicaddress>The Prince Charles Hospital
+Building 14
+Rode Road
+Chermside
+Queensland
+4032</ethicaddress>
+      <ethicapprovaldate>14/12/2016</ethicapprovaldate>
+      <hrec>HREC/16/QPCH/375</hrec>
+      <ethicsubmitdate>30/11/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372068-Study Protocol v1.0 November 2016.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372068-HREC 16-375 LNR Final approval 19 01 17.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Chris Anstey</name>
+      <address>c/- Intensive Care Unit
+Nambour Hospital
+Hospital Road
+Nambour
+QLD		4560
+</address>
+      <phone>+617 5470 6780</phone>
+      <fax>+617 5470 6841</fax>
+      <email>chris.anstey@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chris Anstey</name>
+      <address>c/- Intensive Care Unit
+Nambour Hospital
+Hospital Road
+Nambour
+QLD		4560
+</address>
+      <phone>+617 5470 6780</phone>
+      <fax>+617 5470 6841</fax>
+      <email>chris.anstey@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chris Anstey</name>
+      <address>c/- Intensive Care Unit
+Nambour Hospital
+Hospital Road
+Nambour
+QLD		4560</address>
+      <phone>+617 5470 6780</phone>
+      <fax>+617 5470 6841</fax>
+      <email>chris.anstey@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chris Anstey</name>
+      <address>c/- Intensive Care Unit
+Nambour Hospital
+Hospital Road
+Nambour
+QLD		4560</address>
+      <phone>+617 5470 6780</phone>
+      <fax>+617 5470 6841</fax>
+      <email>chris.anstey@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

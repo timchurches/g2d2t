@@ -1,0 +1,162 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363736">
+  <stage>Registered</stage>
+  <submitdate>8/03/2013</submitdate>
+  <approvaldate>14/03/2013</approvaldate>
+  <actrnumber>ACTRN12613000289718</actrnumber>
+  <trial_identification>
+    <studytitle>Treatment of Patent Ductus Arteriosus with Paracetamol</studytitle>
+    <scientifictitle>Paracetamol for patent ductus arteriosus treatment: comparison between oral and intravenous administration</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patent ductus arteriosus in very low birth weight neonates   </healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intravenous paracetamol at a loading dose of 20 mg/kg, followed by 7.5 mg/kg every 6 hours for 7 days. Paracetamol formulation that will be used is a commercially available product intended for parenteral administration (Perfalgan; Bristol- Myers Squibb, Munich, Germany), delivered in vials containing 50 ml of solution corresponding to 500 mg of paracetamol (10 mg of paracetamol in 1 ml of solution). If ductal closure evaluated by color-doppler ultrasound occurs before the seventh day of treatment, therapy will be discontinued.</interventions>
+    <comparator>Paracetamol at 15 mg/kg by oral route, every 6 hours for 7 days. Paracetamol formulation that will be used is a commercially available product intended for enteral administration (Tachipirina 100 mg/ml; Angelini, Rome, Italy), delivered in drops (3 mg of paracetamol in 1 drops), diluted in 2 ml of sterile water, administered via an orogastric tube, which will be flushed with further 1-2 mL of sterile water to ensure delivery of the drug into the stomach. If ductal closure evaluated by color-doppler ultrasound occurs before the seventh day of treatment, therapy will be discontinued.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Ductal closure, assessed by color-doppler ultrasound</outcome>
+      <timepoint>At 7 days after allocation to the intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality </outcome>
+      <timepoint>42 weeks of postconception age</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Neonates with gestational age &lt; 32 weeks and birth weight &lt; 1500 g and with echocardiographic evidence of patent ductus arteriosus and contraindication to or failure of conventional medical therapy with COX inhibitors (ibuprofen or indomethacin) consecutively observed in Neonatal Intensive Care Unit are eligible for the trial. In all infants, color-doppler ultrasound will be performed at 24-48 hrs after birth to evaluate patency of ductus arteriosus and shunting. Elegibility of a neonate is defined by the presence at color-doppler ultrasound of at last one of the following criteria: 1. transductal diameter =/&gt;1.5 mm, 2. reverse diastolic flow or absent diastolic flow in the descending aorta or in the superior mesenteric artery, anterior or middle cerebral arteries or renal artery, 3. unrestrictive pulsatile transductal flow (DA V max &lt;2 m/s), 4. left-atrium-to-aortic-root ratio =/&gt;1.5. Controindications to NSAIDs therapy are: reduced urine output (&lt; 1 ml/kg/h) during the preceding 8 hours or other signs of renal failure, liver failure, intraventricular hemorrhage, a platelet count &lt; 60,000/mm3, hyperbilirubinemia (defined as total bilirubin &gt; 15 mg/dl), gastrointestinal bleeding and signs of feeding intolerance. Failure of NSAIDs treatment is defined by the presence of a patent ductus at the end of a single course of treatment with ibuprofen (loading dose at 10 mg/kg, followed by 5 mg/kg at 24 and 48 hours) or indomethacin (three doses at 0,2 mg/kg every 12 hours).     </inclusivecriteria>
+    <inclusiveminage>1</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>5</inclusivemaxage>
+    <inclusivemaxagetype>Days</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Liver disease, hemolytic anemia, family history of G6PD deficiency</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Enrolled neonates will be assigned to Group 1 (intravenous paracetamol) or to Group 2 (enteral paracetamol) according to a computerized and centralized randomization list. Each patient will be coded with a number reported in the randomization list. Researchers assessing ductal closure by echocardiographic examination will be unaware for study aims and group assignment. The data for the evaluation of treatment efficacy and safety will be recorded on data sheets especially designed for this study and labeled with the name of the enrolled neonate and with the randomization list code. Group assignment will be concealed until statistical analysis will be completed. </concealment>
+    <sequence>Computer generated randomization list </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The Kolmogorov-Smirnov test will be used to determine if variables are normally distributed. For continuous variables, groups will be compared using the test of equality of means, the Mann-Whitney test and Kruskal-Wallis test. The chi-square test and Fishers exact test will be used for categorical variables. For two related dichotomous variables, the McNemar test will be used to detect differences between study groups. We will perform a multivariate analysis (binary logistic regression) to evaluate whether PDA closure would be influenced by GA, modality of delivery, multiple birth, BW, sex, Apgar score at 5 minutes, or by study group assignment. The level of significance for all statistical tests is 2-sided, p&lt;0.05. Statistical analysis will be performed, per intention-to-treat, by a statistician blinded to patient group assignment with SPSS Version 16.0 for Windows (SPSS Inc., Chicago, IL).</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/04/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>90</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Sapienza University of Rome</primarysponsorname>
+    <primarysponsoraddress>Piazzale Aldo Moro, 5 00161 Rome</primarysponsoraddress>
+    <primarysponsorcountry>Italy</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Sapienza, University of Rome</fundingname>
+      <fundingaddress>Piazzale Aldo Moro, 5 00161 Rome</fundingaddress>
+      <fundingcountry>Italy</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Department of  Gynecology-Obstetrics and Perinatal Medicine - Policlinico Umberto I</sponsorname>
+      <sponsoraddress>Viale del Policlinico, 155, 00161 Rome</sponsoraddress>
+      <sponsorcountry>Italy</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A persistently patent ductus arteriosus in preterm infants can have negative clinical effects, as left-to-right shunting through the ductus may result in pulmonary overcirculation with increased respiratory distress and hypoperfusion of vital organs. Non Steroidal Anti-Inflammatory Drugs (NSAIDs) represent the conventional pharmacologic treatment for promoting closure of a patent ductus in preterm newborns, but their use has been associated with several adverse effects (reduction in renal, gastrointestinal and cerebral perfusion, renal failure, intestinal perforation, weakened platelet aggregation, hyperbilirubinemia). As an alternative to COX-inhibitors, paracetamol has been recently proposed and used for ductal closure with encouraging results. This drug is commonly used in infants and neonates to treat mild to moderate pain or fever and it seems to be quite free of the adverse effects generally associated with NSAIDs therapy in preterm neonates. In a randomized controlled trial, we would compare efficacy and safety of paracetamol given intravenously with oral route for the treatment of PDA in very preterm infants with contraindication to or failure of conventional medical treatment with COX-inhibitors. Paracetamol efficacy in inducing ductal closure is the primary outcome of the study. Mortality and morbidity of very preterm neonates trated with this drug for PDA and paracetamol safety in this population of neonates are secondary outcomes. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Gianluca Terrin</name>
+      <address>Department of  Gynecology-Obstetrics and Perinatal Medicine, Sapienza University of Rome, Italy
+Viale del Policlinico, 155 00161 Rome</address>
+      <phone>+39 06 499 72521</phone>
+      <fax>+39 06 3377 6660 </fax>
+      <email>gianluca.terrin@uniroma1.it  </email>
+      <country>Italy</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Gianluca Terrin</name>
+      <address>Department of  Gynecology-Obstetrics and Perinatal Medicine, La Sapienza University of Rome, Italy
+Viale del Policlinico, 155 00161 Rome</address>
+      <phone>+39 06 499 72521</phone>
+      <fax>+39 06 3377 6660 </fax>
+      <email>gianluca.terrin@uniroma1.it  </email>
+      <country>Italy</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Gianluca Terrin</name>
+      <address>Department of  Gynecology-Obstetrics and Perinatal Medicine, La Sapienza University of Rome, Italy
+Viale del Policlinico, 155 00161 Rome</address>
+      <phone>+39 06 499 72521</phone>
+      <fax>+39 06 3377 6660 </fax>
+      <email>gianluca.terrin@uniroma1.it  </email>
+      <country>Italy</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Gianluca Terrin</name>
+      <address>Department of  Gynecology-Obstetrics and Perinatal Medicine, La Sapienza University of Rome, Italy
+Viale del Policlinico, 155 00161 Rome</address>
+      <phone>+39 06 499 72521</phone>
+      <fax>+39 06 3377 6660 </fax>
+      <email>gianluca.terrin@uniroma1.it  </email>
+      <country>Italy</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

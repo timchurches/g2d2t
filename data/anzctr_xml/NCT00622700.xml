@@ -1,0 +1,657 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1836">
+  <stage>Registered</stage>
+  <submitdate>14/02/2008</submitdate>
+  <approvaldate>14/02/2008</approvaldate>
+  <nctid>NCT00622700</nctid>
+  <trial_identification>
+    <studytitle>Phase III Study With Teriflunomide Versus Placebo in Patients With First Clinical Symptom of Multiple Sclerosis</studytitle>
+    <scientifictitle>An International, Multi-center, Randomized, Double-blind, Placebo-controlled, Parallel Group Study to Evaluate the Efficacy and Safety of Two Year Treatment With Teriflunomide 7 mg Once Daily and 14 mg Once Daily Versus Placebo in Patients With a First Clinical Episode Suggestive of Multiple Sclerosis Plus a Long Term Extension Period</scientifictitle>
+    <utrn />
+    <trialacronym>TOPIC</trialacronym>
+    <secondaryid>HMR1726D-3005</secondaryid>
+    <secondaryid>EFC6260</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Multiple Sclerosis</healthcondition>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Teriflunomide
+Treatment: drugs - Placebo
+
+Placebo Comparator: Placebo/Teriflunomide 7 mg or Teriflunomide 14 mg - Core treatment period: Placebo matched to teriflunomide tablet once daily orally.
+Extension treatment period: Re-randomized in 1:1 ratio to either teriflunomide 7 mg or 14 mg once daily orally.
+
+Experimental: Teriflunomide 7 mg/7 mg - Core treatment period: Teriflunomide 7 mg tablet once daily orally.
+Extension treatment period: Teriflunomide 7 mg tablet once daily orally.
+
+Experimental: Teriflunomide 14 mg/14 mg - Core treatment period: Teriflunomide 14 mg tablet once daily orally.
+Extension treatment period: Teriflunomide 14 mg tablet once daily orally.
+
+
+Treatment: drugs: Teriflunomide
+Film-coated tablet Oral administration
+
+Treatment: drugs: Placebo
+Film-coated tablet Oral administration
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Core Treatment Period: Time to Conversion to Clinically De?nite Multiple Sclerosis (CDMS) - Conversion to CDMS was defined by the occurrence of a relapse, which was defined as a new neurological abnormality separated by at least 30 days from onset of a preceding clinical event, presented for at least 24 hours and occurred in the absence of fever or known infection. Percent probability of conversion at 24, 48, and 108 weeks was estimated using Kaplan-Meier method.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Time to Conversion to Definite Multiple Sclerosis (DMS) - Conversion to DMS was demonstrated by dissemination of MRI lesions in time (as per McDonald criteria) or a relapse, whichever occurs first. MRI Imaging criteria were detection of Gadolinium (Gd) enhancement at least 3 months after onset of initial clinical event, if not at site corresponding to initial event; detection of new T2 lesion if it appears at any time compared with reference scan (done at time of screening) done at least 30 days after onset of the initial clinical event. Occurrence of relapse was defined as new neurological abnormality separated by at least 30 days from onset of preceding clinical event, present for at least 24 hours and occurring in absence of fever or known infection. New clinical abnormality (neurological sign) that is consistent with participant's symptoms with increase in at least one Functional System (FS) or EDSS score compared to last EDSS assessment. Percent probability of conversion at 24, 48, and 108 weeks was estimated using Kaplan-Meier method.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Annualized Relapse Rate (ARR) - ARR is the total number of confirmed relapses that occurred during the treatment period divided by the total number of patient-years treated. Each episode of relapse (appearance, or worsening of a clinical symptom that was stable for at least 30 days, that persisted for a minimum of 24 hours in the absence of fever) was to be confirmed by an increase in EDSS score or Functional System scores. ARR was assessed using Poisson regression model with robust error variance. To account for the different treatment durations among participants, a Poisson regression model with robust error variance was used (total number of confirmed relapses onset between randomization date and last dose date as the response variable, treatment, region and baseline monofocal/multifocal status as covariates, and log-transformed treatment duration as an offset variable).</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain Magnetic Resonance Imaging (MRI) Assessment: Change From Baseline in Total Lesion Volume at Week 108 - The total lesion volume (burden of disease) is the total volumes of hyperintense on T2 plus hypointense on T1 as measured by MRI scan. Least-square means were estimated using a Mixed-effect model with repeated measures (MMRM) on cubic root transformed volume data with factors for treatment, baseline monofocal/multifocal status, region, visit, treatment-by-visit interaction, cubic root transformed baseline burden of disease, and baseline-by-visit interaction.</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain MRI Assessment: Number of Gadolinium Enhancing (Gd-enhancing) T1-lesions Per MRI Scan (Poisson Regression Estimates) - Number of Gd-enhancing T1-lesions per scan is the total number of Gd-enhancing T1-lesions that occurred during the treatment period divided by the total number of scans performed during the treatment period. To account for the different numbers of scans performed among the participants, a Poisson regression model with robust error variance was used (total number of Gd-enhancing T1-lesions as response variable, treatment, baseline monofocal/multifocal status, region and baseline number of Gd-enhancing T1-lesions as covariates, and log-transformed number of scans as an offset variable).</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain MRI Assessment: Volume of Gadolinium Enhancing (Gd-enhancing) T1-lesions Per MRI Scan - Total volume of Gd-enhancing T1-lesions per scan is the sum of the volumes of Gd-enhancing T1-lesions observed during the treatment period divided by the total number of scans performed during the treatment period. To account for the different numbers of scans performed among the participants, a Poisson regression model with robust error variance was used (total number of Gd-enhancing T1-lesions as response variable, treatment, baseline monofocal/multifocal status, region and baseline number of Gd-enhancing T1-lesions as covariates, and log-transformed number of scans as an offset variable).</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain MRI Assessment: Change From Baseline in Volume of Hypointense Post-Gadolinium T1 Lesion Component - Volume of hypointense post-gadolinium T1 lesion component was measured by MRI scan. Least-square means were estimated using a Mixed-effect model with repeated measures (MMRM) on cubic root transformed volume data adjusted for baseline monofocal/multifocal status, region, visit, treatment-by-visit interaction, cubic root transformed baseline value, and baseline-by-visit interaction</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain MRI Assessment: Change From Baseline in Volume of T2 Lesion Component - Volume of T2 lesion component was measured by MRI scan. Least-square means were estimated using a Mixed-effect model with repeated measures (MMRM) on cubic root transformed volume data adjusted for baseline monofocal/multifocal status, region, visit, treatment-by-visit interaction, cubic root transformed baseline value, and baseline-by-visit interaction.</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Brain MRI Assessment: Percent Change From Baseline in Atrophy - Atrophy was measured by MRI scan.</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Time to 12-Week Sustained Disability Progression - The 12-week sustained disability progression was defined as increase from baseline of at least 1-point in EDSS score (at least 0.5-point for participants with baseline EDSS score of greater than [&gt;] 5.5) that persisted for at least 12 weeks. Percent probability of participants free of 12-week sustained disability progression at 24, 48, and 108 weeks was estimated using Kaplan-Meier method.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Change From Baseline in EDSS at Week 108 - EDSS is an ordinal scale in half-point increments that qualifies disability in participants with MS. It consists of 8 ordinal rating scales assessing seven functional systems (visual, brainstem, pyramidal, cerebellar, sensory, bowel/bladder and cerebral) as well as ambulation. EDSS total score ranges from 0 (normal neurological examination) to 10 (death due to MS). Least-square means were estimated using a Mixed-effect model with repeated measures (MMRM) on cubic root transformed volume data adjusted for baseline monofocal/multifocal status, region, visit, treatment-by-visit interaction, baseline value and baseline-by-visit interaction</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Change From Baseline in Fatigue Impact Scale (FIS) Total Score at Week 108 - FIS is a participant-reported scale that qualifies the impact of fatigue on daily life in participants with MS. It consists of 40 statements that measure fatigue in three areas; physical, cognitive, and social. FIS total score ranges from 0 (no problem) to 160 (extreme problem). Least-square means were estimated using a Mixed-effect model with repeated measures [MMRM] on FIS total score data adjusted for or baseline monofocal/multifocal status, region, visit, treatment-by-visit interaction, baseline value and baseline-by-visit interaction.</outcome>
+      <timepoint>Baseline, Week 108</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Core Treatment Period: Overview of Adverse Events (AEs) - AEs are any unfavorable and unintended sign, symptom, syndrome, or illness observed by the investigator or reported by the participant during the study.</outcome>
+      <timepoint>From first study drug intake up to 112 days after last intake in the placebo-controlled period or up to first intake in the extension treatment period, whichever occurred first</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Extension Treatment Period: Time to Conversion to Clinically De?nite Multiple Sclerosis (CDMS) - Conversion to CDMS was defined by the occurrence of a relapse, which was defined as a new neurological abnormality separated by at least 30 days from onset of a preceding clinical event, presented for at least 24 hours and occurred in the absence of fever or known infection. Percent probability of conversion was estimated using Kaplan-Meier method.</outcome>
+      <timepoint>From randomization in the core period up to 390 Weeks (Extension treatment period [maximum exposure: 283 Weeks])</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Extension Treatment Period: Overview of Adverse Events (AEs) - AEs are any unfavorable and unintended sign, symptom, syndrome, or illness observed by the investigator or reported by the participant during the study. Safety population included all randomized population who actually received at least 1 dose of the IMP in extension and analyzed according to the treatment actually received in core study followed by treatment actually received in the extension treatment period.</outcome>
+      <timepoint>From re-randomization up to 283 Weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  First acute or subacute, well-defined neurological event consistent with demyelination
+             (that is, optic neuritis confirmed by an ophthalmologist, spinal cord syndrome,
+             brainstem/cerebellar syndromes)
+
+          -  Onset of MS symptoms occurring within 90 days of randomization
+
+          -  A screening MRI scan with 2 or more T2 lesions at least 3 millimeter (mm) in diameter
+             that are characteristic of MS</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>55</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Clinically relevant cardiovascular, hepatic, neurological, endocrine or other major
+             systemic disease
+
+          -  Significantly impaired bone marrow function
+
+          -  Pregnancy or nursing
+
+          -  Alcohol or drug abuse
+
+          -  Use of cladribine, mitoxantrone, or other immunosuppressant agents such as
+             azathioprine, cyclophosphamide, cyclosporin, methotrexate or mycophenolate before
+             enrollment
+
+          -  Any known condition or circumstance that would prevent in the investigator's opinion
+             compliance or completion of the study
+
+        The above information is not intended to contain all considerations relevant to a
+        participant's potential participation in a clinical trial.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/02/2008</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>618</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/02/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Investigational Site Number 1405 - Geelong</hospital>
+    <hospital>Investigational Site Number 1404 - Heidelberg</hospital>
+    <hospital>Investigational Site Number 1407 - Hobart</hospital>
+    <hospital>Investigational Site Number 1401 - Parkville</hospital>
+    <postcode>3220 - Geelong</postcode>
+    <postcode>3081 - Heidelberg</postcode>
+    <postcode>7001 - Hobart</postcode>
+    <postcode>3050 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbruck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Pleven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sofia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Greenfield Park</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Montreal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ottawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Sherbrooke</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Toronto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Viña Del Mar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Hradec Kralove</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Ostrava - Poruba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus C</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Esbjerg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Estonia</country>
+      <state>Tallinn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Estonia</country>
+      <state>Tartu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Helsinki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Kuopio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Turku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besancon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clermont Ferrand Cedex 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nancy Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nimes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayreuth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erbach</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ludwigshafen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Minden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Münster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Wiesbaden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Esztergom</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Veszprém</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Klaipeda</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Siauliai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Vilnius</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Chihuahua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Guadalajara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa 44</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucuresti</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Timisoara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Nizhny Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Novosibirsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-On-Don</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Smolensk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Edirne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmit</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Trabzon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Chernihiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Donets'K</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kiev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lutsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Poltava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Vinnytsya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Zaporizhzhya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Plymouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Salford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sheffield</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Sanofi</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary objective was to demonstrate the effect of teriflunomide (HMR1726) (14 milligram
+      per day [mg/day] and 7 mg/day), in comparison to placebo, for reducing conversion of
+      participants presenting with their first clinical episode consistent with multiple sclerosis
+      (MS) to clinically definite multiple sclerosis (CDMS).
+
+      The secondary objectives were:
+
+        -  To demonstrate the effect of teriflunomide, in comparison to placebo, on:
+
+             -  Reducing conversion to definite multiple sclerosis (DMS)
+
+             -  Reducing annualized relapse rate (ARR)
+
+             -  Reducing disease activity/progression as measured by Magnetic Resonance Imaging
+                (MRI)
+
+             -  Reducing accumulation of disability for at least 12 weeks as measured by the
+                Expanded Disability Status Scale (EDSS)
+
+             -  Proportion of disability-free participants as assessed by the EDSS
+
+             -  Reducing participant-reported fatigue
+
+        -  To evaluate the safety and tolerability of teriflunomide
+
+        -  To evaluate the pharmacokinetics (PK) of teriflunomide
+
+        -  Optional pharmacogenomic testing aimed at assessing the association between the main
+           enzyme systems of teriflunomide metabolism and hepatic safety, and other potential
+           associations between gene variations and clinical outcomes</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00622700</trialwebsite>
+    <publication>Miller AE, Wolinsky JS, Kappos L, Comi G, Freedman MS, Olsson TP, Bauer D, Benamor M, Truffinet P, O'Connor PW; TOPIC Study Group. Oral teriflunomide for patients with a first clinical episode suggestive of multiple sclerosis (TOPIC): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Neurol. 2014 Oct;13(10):977-86. doi: 10.1016/S1474-4422(14)70191-7. Epub 2014 Sep 2.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Sciences &amp; Operations</name>
+      <address>Sanofi</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,517 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2597">
+  <stage>Registered</stage>
+  <submitdate>3/12/2009</submitdate>
+  <approvaldate>3/12/2009</approvaldate>
+  <nctid>NCT01026220</nctid>
+  <trial_identification>
+    <studytitle>Combination Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed Hodgkin Lymphoma</studytitle>
+    <scientifictitle>A Non-Randomized Phase III Study of Response Adapted Therapy for the Treatment of Children With Newly Diagnosed High Risk Hodgkin Lymphoma</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NCI-2011-01994</secondaryid>
+    <secondaryid>AHOD0831</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Childhood Nodular Lymphocyte Predominant Hodgkin Lymphoma</healthcondition>
+    <healthcondition>Stage III Childhood Hodgkin Lymphoma</healthcondition>
+    <healthcondition>Stage IV Childhood Hodgkin Lymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Hodgkin's</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Other interventions - bleomycin sulfate
+Treatment: drugs - doxorubicin hydrochloride
+Treatment: drugs - liposomal vincristine sulfate
+Treatment: drugs - vinorelbine tartrate
+Treatment: drugs - cyclophosphamide
+Treatment: drugs - etoposide phosphate
+Treatment: drugs - prednisone
+Other interventions - filgrastim
+Treatment: drugs - ifosfamide
+
+Experimental: Regimen I (consolidation therapy) - Patients receive 2 more courses of ABVE-PC comprising doxorubicin hydrochloride IV over 1-120 minutes and cyclophosphamide IV over 30-60 minutes on days 1 and 2; bleomycin sulfate IV over at least 10 minutes or subcutaneously (SC) and vincristine sulfate IV on days 1 and 8; etoposide IV over 1-2 hours on days 1-3; oral prednisone twice daily on days 1-7; and filgrastim SC or IV daily beginning on day 4 and continuing until blood counts recover. Treatment repeats every 21 days for 2 courses in the absence of unacceptable toxicity or disease progression.
+
+Experimental: Regimen II (consolidation therapy) - Patients receive ifosfamide IV continuously on days 1-4, vinorelbine ditartrate IV over 6-10 minutes on days 1 and 5, and filgrastim SC or IV beginning on day 6 and continuing until blood counts recover. Treatment repeats every 21 days for 2 courses in the absence of unacceptable toxicity or disease progression. Patients then receive 2 more courses of ABVE-PC in the absence of unacceptable toxicity or disease progression.
+
+Experimental: Induction: all patient - All patients receive ABVE-PC induction therapy then they are assigned to Group 2 (RER), Group 3 (SER) or taken off study if they develop progressive disease.
+
+
+Other interventions: bleomycin sulfate
+Given IV or SC
+
+Treatment: drugs: doxorubicin hydrochloride
+Given IV
+
+Treatment: drugs: liposomal vincristine sulfate
+Given IV
+
+Treatment: drugs: vinorelbine tartrate
+Given IV
+
+Treatment: drugs: cyclophosphamide
+Given IV
+
+Treatment: drugs: etoposide phosphate
+Given IV
+
+Treatment: drugs: prednisone
+Given IV
+
+Other interventions: filgrastim
+Given IV or SC
+
+Treatment: drugs: ifosfamide
+Given IV
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Second-event-free Survival - Second event here is defined as any relapse/progression of Hodgkin Lymphoma (HL) or a previously reported second malignant neoplasm (SMN), a new SMN, or death after a first event which can be relapse/progression of HL, SMN, biopsy-proven HL following completion of Consolidation for Slow Early Response (SER) patient, positive bilateral bone marrow biopsy following completion of Consolidation for Stage IV patient, or death. If death occurs as the 1st event, it also counts as the 2nd event.</outcome>
+      <timepoint>At 4 years from enrollment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Safety Analysis and Monitoring of Toxic Death - The primary endpoint for safety analysis and monitoring is toxic death, which is death primarily attributable to treatment.</outcome>
+      <timepoint>Within 30 days of protocol treatment at median follow-up of 48 months (range: 1 to 70 months).</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Event Free Survival - Survival from enrollment to first event: relapse/progression, second malignancy, or death.</outcome>
+      <timepoint>At 3 years from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Second-event-free Survival - Second event here is defined as any relapse/progression of Hodgkin Lymphoma (HL) or a previously reported second malignant neoplasm (SMN), a new SMN, or death after a first event which can be relapse/progression of HL, SMN, biopsy-proven HL following completion of Consolidation for Slow Early Response (SER) patient, positive bilateral bone marrow biopsy following completion of Consolidation for Stage IV patient, or death. If death occurs as the 1st event, it also counts as the 2nd event.</outcome>
+      <timepoint>At 4 years from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Event-free Survival for Rapid Early Response (RER) Positron Emission Tomography(PET)-1 Positive, RER PET-1 Negative - To investigate whether very early response assessment measured by Fluorodeoxyglucose-PET after 1 cycle of chemotherapy identifies a subject cohort that can be studied in future trials and that is distinguishable from currently defined RER after 2 cycles.</outcome>
+      <timepoint>3 years from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Relapse-free Survival - A description, survival to relapse, of patterns of relapse after Doxorubicin, Bleomycin, Vincristine, Etoposide - Prednisone, Cyclophosphamide (ABVE-PC) and risk-adapted radiotherapy.</outcome>
+      <timepoint>3 years from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Grade 3 and 4 Non-hematologic Toxicities During Protocol Therapy - The number of patients that experience Common Terminology Criteria (CTC) Version 4 grade 3 or higher non-hematologic toxicity at any time during protocol therapy.</outcome>
+      <timepoint>During and after completion of study treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival - Survival from enrollment to death.</outcome>
+      <timepoint>At 3 years from enrollment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Pathologically confirmed newly diagnosed Hodgkin lymphoma (HL) meeting one of the
+             following criteria:
+
+               -  Classical disease
+
+               -  Nodular lymphocyte-predominant disease
+
+          -  Stage III or IV disease with B symptoms, as defined by = 1 of the following:
+
+               -  Unexplained weight loss &gt; 10% within the past 6 months
+
+               -  Unexplained recurrent fever &gt; 38°C within the past month
+
+               -  Recurrent drenching night sweats within the past month
+
+          -  Creatinine clearance or radioisotope GFR = 70 mL/min OR maximum serum creatinine based
+             on age/gender as follows:
+
+               -  0.4 mg/dL (1 to 5 months)
+
+               -  0.5 mg/dL (6 to 11 months)
+
+               -  0.6 mg/dL (12 to 23 months)
+
+               -  0.8 mg/dL (2 to 5 years)
+
+               -  1 mg/dL (6 to 9 years)
+
+               -  1.2 mg/dL (10 to 12 years)
+
+               -  1.5 mg/dL (males) or 1.4 mg/dL (females) (13 to 15 years)
+
+               -  1.7 mg/dL (males) or 1.4 mg/dL (females) (= 16 years)
+
+          -  Total bilirubin = 1.5 times upper limit of normal (ULN) for age
+
+          -  AST or ALT &lt; 2.5 times ULN for age
+
+          -  Shortening fraction = 27% by ECHO OR ejection fraction = 50% by MUGA (unless due to
+             large mediastinal mass from HL)
+
+          -  FEV_1/FVC &gt; 60% by pulmonary function tests (PFT) (unless due to large mediastinal
+             mass fromHL)
+
+               -  For children who are unable to cooperate for PFTs, the criteria are:
+
+                    -  No evidence of dyspnea at rest
+
+                    -  No exercise intolerance
+
+                    -  Pulse oximetry &gt; 92% on room air
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No pathologic prolongation of QTc interval (&gt; 450 milliseconds) on 12-lead ECG
+
+          -  No prior chemotherapy, biological response modifiers (e.g., monoclonal antibody
+             therapy), or radiotherapy
+
+          -  At least 28 days since prior corticosteroids except for emergent treatment for
+             respiratory distress or spinal cord compression, or for treatment of allergy to
+             contrast agent required for CT scan
+
+          -  No other concurrent cancer chemotherapy or immunomodulating agents (including
+             steroids)
+
+               -  Concurrent corticosteroid therapy as treatment or prophylaxis for anaphylactic
+                  reactions allowed
+
+          -  No concurrent pegfilgrastim</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>21</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>166</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/09/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,VIC,WA</recruitmentstate>
+    <hospital>Sydney Children's Hospital - Randwick</hospital>
+    <hospital>Royal Brisbane and Women's Hospital - Herston</hospital>
+    <hospital>Women's and Children's Hospital-Adelaide - North Adelaide</hospital>
+    <hospital>Royal Children's Hospital - Parkville</hospital>
+    <hospital>Princess Margaret Hospital for Children - Perth</hospital>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>5006 - North Adelaide</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <postcode>6008 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Hashomer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>San Juan</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Children's Oncology Group</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>National Cancer Institute (NCI)</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This phase III trial is studying how well giving combination chemotherapy together with
+      radiation therapy works in treating young patients with newly diagnosed Hodgkin lymphoma.
+      Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either
+      by killing the cells or by stopping them from dividing. Radiation therapy uses high energy
+      x-rays to kill cancer cells. Giving combination chemotherapy together with radiation therapy
+      may kill more cancer cells.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01026220</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Kara Kelly, MD</name>
+      <address>Children's Oncology Group</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

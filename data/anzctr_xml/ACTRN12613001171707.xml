@@ -1,0 +1,236 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363830">
+  <stage>Registered</stage>
+  <submitdate>8/10/2013</submitdate>
+  <approvaldate>24/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001171707</actrnumber>
+  <trial_identification>
+    <studytitle>Novel brain biomarkers of performance impairment in sleep apnea</studytitle>
+    <scientifictitle>Novel brain biomarkers of driving and vigilance performance in obstructive sleep apnea during extended wakefulness</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Obstructive Sleep Apnea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>85 patients with moderate-severe obstructive sleep apnea will be recruited to undergo an experimental laboratory protocol following a screening visit and after obtaining informed consent. 
+One week of actigraphy and sleep-wake diary and indoor-outdoor activity logs, will be performed prior to the test visit to measure sleep hours and activities at home, and participants will be advised to observe regular sleep hours with 8-hours in bed.
+
+The experimental protocol visit consists:
+- baseline sleep study followed by 28 hours of extended wakefulness challenge (EWC) with detailed assessment including: 
+
+Primary performance outcomes measure
+-Three 90 minute computerised AusEd driving simulator tasks measured at Time 1  (9.30am, 3.5 hours awake), Time 2 (2.30am, 20.5 hours awake) and Time 3 (8.30am, 26.5 hours awake) 
+
+Secondary performance outcome measure
+-10 minute psychomotor vigilance test (PVT) measures every 2 hours throughout the EWC starting from midday.
+
+Primary Predictor Variables
+-Baseline sleep study is performed from 10pm-6am (EEG data will be subjected to spectral power analysis as part of data processing/analysis)
+-Auditory Event Related potentials (ERP) data will be collected at between 8.30-9.30am (baseline assessment only)  
+-Resting awake EEG during a 7 minute Karolinska Drowsiness Test measure every 2 hours throughout the EWC startinf at midday
+-Magnetic Resonance Spectroscopy/Diffusion Tensor Imaging occurs within 1 week prior to laboratory EWC visit (assessed at baseline only)
+
+Secondary Predictor Variables 
+-mRNA expression profiles from baseline to end of EWC (blood/mRNA samples collected at 6.15am upon awakening and 6.15am the following morning after 24hours of wakefulness
+-Posture/Balance control assessments measured every 2 hours throughout the EWC starting at midday
+-Peripheral Blood Pressure measures every 2 hours throughout the EWC starting at midday
+Computerised performance tests measure every 2 hours through out the EWC starting at midday :
+     -   Working memory (N-back 1,2,3)
+     -   Visuomotor skills (Digit Symbol Substitution Task)
+     -   4 Choice Reaction Time Task
+-Central Blood Pressure and Pulse Wave Analysis (PWA) measures every 2 hours throughout the EWC starting at midday
+-Statistical Learning Task measured at baseline (8.30pm prior to baseline sleep study) and at 8.30pm 24 hours later.  
+-Actigraphy variables (actigraphy data collected 1 week prior to EWC)
+-PSG sleep study variables (collected during the baseline sleep study just prior to EWC)
+-Genetic polymorphisms (genetic analysis from blood samples collected at start and end of EWC will occur at the completion of the study) 
+-Inflammatory marker profiles (from blood sample analysis collected at start and end of EWC will occur at the completion of the study)
+-Brief Smell Identification Test (B-SIT) is collected at baseline only at 7.30pm prior to baseline sleep study 
+-State anxiety questionnaire administered every 2 hours throughout the EWC starting at midday
+-Karolinska Sleepiness Scale administered every 2 hours throughout the EWC starting at midday</interventions>
+    <comparator>Uncontrolled</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>AusEd driving simulator lateral steering deviation</outcome>
+      <timepoint>Driving simulator assessments occur 3 times during the Extended Wakefulness Protocol:
+
+-Time 1 (baseline - 3.5 hours awake)
+-Time 2 (20.5 hours awake)
+-Time 3 (26.5 hours awake)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Psychomotor Vigilance Test (PVT) - a measure of simple reaction time and vigilance </outcome>
+      <timepoint>assessed every 2 hours during the EWC</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age 25-65 years
+Weight &lt;150kg
+PSG confirmed moderate to severe obstructive sleep apnea with an Apnea Hypopnea Index (AHI) of =15 events/hr and an Oxygen Desaturation Index (ODI) of =3% with =10 events/hr
+Ability to read and speak English
+Ability to perform neurobehavioural tests</inclusivecriteria>
+    <inclusiveminage>25</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Other PSG confirmed sleep disorders
+OSA patients with clinically significant uncontrolled co-morbidity such as: cardiac failure, hypertension, hypercapnia, COPD, Type 1 diabetes
+History of head injury or psychiatric/neurological disorders: clinical depression, epilepsy, mania or psychosis, stroke
+Currently using CNS active medications/drugs such as: anti-depressives, anti-psychotics, opiates, antihistamines</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>Cross-Sectional study</designfeatures>
+    <endpoint />
+    <statisticalmethods>The key goal for this project will be obtaining predictors for vulnerability to sleep loss. Analysis is by multiple regression with change in AusEd steering deviation (vulnerability to sleep deprivation) as the primary outcome variable, and a range of candidate biomarkers as predictors, including measurements from MR, sleep/wake EEG and genetic polymorphisms. In a multiple regression model with up to 2 tested predictors adjusting for the another 1-2 additional predictors (covariates) with a significance level of 0.05, a sample size of 78 is required with power of 0.8 to detect a moderate multiple partial correlation coefficient of 0.35, between the tested predictors and the primary outcome variable. Variables not meeting assumptions for parametric statistics will be appropriately transformed. Factor analysis will be employed to assist with grouping similar variables, in order to reduce the number of potential predictors submitted for regression analysis. Secondary analyses will examine the change from rested to 8am the following morning (28 hours awake), and also examine the other outcomes of interest (PVT, n-back etc). We plan to recruit a total of 85 participants, to allow for 7 withdrawals. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/09/2012</anticipatedstartdate>
+    <actualstartdate>6/09/2012</actualstartdate>
+    <anticipatedenddate>15/12/2014</anticipatedenddate>
+    <actualenddate>19/11/2014</actualenddate>
+    <samplesize>85</samplesize>
+    <actualsamplesize>58</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Woolcock Institute of Medical Research</primarysponsorname>
+    <primarysponsoraddress>431 Glebe Point Road
+Glebe
+NSW
+2037</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra 
+ACT 
+2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Obstructive sleep apnea (OSA) is a common cause of daytime sleepiness, impaired cognition, and has a 3 -13 times increased risk of motor vehicle crashes and double the rate of work accidents. This neurobehavioural dysfunction has a critical impact on health and society. 
+One of the major challenges in dealing with this problem is the difficulty in clinically assessing neurobehavioural dysfunction such as impairment in driving ability. Many patients underestimate their impairment and there is wide inter-individual variability in how patients are affected by sleepiness and its consequences. For example, patients with sleep studies showing severe OSA may report few symptoms while others with apparent mild disease exhibit severe sleepiness. Unravelling this problem of inter-individual variability demands better assessment tools as conventional metrics such as sleep studies are uninformative. What is urgently needed are biomarkers, measured at a single or very limited time points that better reflect the individual risk of vigilance failure such as impaired driving.  
+In this study, simulated driving and other performance tasks will be administered during a load of prolonged wakefulness extending throughout the night to unmask variation in neurobehavoural function  in OSA. Performance under these conditions will be related to practically deployable biomarkers (or combination of biomarkers) measured at baseline. We have compelling preliminary data on brain bioenergetics (magnetic resonance imaging), quantitative electroencephalogram (qEEG) and cortical activation (event related potentials) as candidate biomarkers for neurobehavioural impairment in OSA.  Such biomarkers would also be potentially valuable as tests to monitor treatment effectiveness or a phenotyping tools in molecular and genetic discovery in OSA.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sydney Local Health District (RPAH Zone)</ethicname>
+      <ethicaddress>c/- Research Development Office
+Royal Prince Alfred Hospital
+Missenden Road
+CAMPERDOWN NSW 2050</ethicaddress>
+      <ethicapprovaldate>19/03/2012</ethicapprovaldate>
+      <hrec>HREC/12/RPAH/40</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Ronald Grunstein</name>
+      <address>Ron Grunstein
+Professor of Sleep Medicine and NHMRC Practitioner Fellow,
+NHMRC Centre for Integrated Research and Understanding of Sleep (CIRUS), Woolcock Institute of Medical Research, 
+University of Sydney and Royal Prince Alfred Hospital
+
+PO Box M77
+Missenden Road
+NSW
+2050</address>
+      <phone>+61 2 91140007</phone>
+      <fax />
+      <email>rrg@med.usyd.edu.au  </email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Vakulin</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road
+Glebe
+NSW
+2037</address>
+      <phone>+61 2 9114 0443</phone>
+      <fax />
+      <email>andrew.vakulin@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Vakulin</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road
+Glebe
+NSW
+2037</address>
+      <phone>+61 2 9114 0443</phone>
+      <fax />
+      <email>andrew.vakulin@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Hannah Openshaw</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road
+Glebe
+NSW
+2037</address>
+      <phone />
+      <fax />
+      <email>hannah.openshaw@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

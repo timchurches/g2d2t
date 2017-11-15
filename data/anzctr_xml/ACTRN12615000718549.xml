@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368854">
+  <stage>Registered</stage>
+  <submitdate>29/06/2015</submitdate>
+  <approvaldate>10/07/2015</approvaldate>
+  <actrnumber>ACTRN12615000718549</actrnumber>
+  <trial_identification>
+    <studytitle>The COLDICE Trial: Cryobiopsy versus Open Lung biopsy in the Diagnosis of Interstitial lung disease allianCE</studytitle>
+    <scientifictitle>In patients with interstitial lung disease requiring histopathologic evaluation for diagnosis, are the transbronchial lung cryobiopsy (TBLC) and the gold-standard video-assisted thoracoscopic surgical (VATS) lung biopsy, similar in their diagnostic yield?</scientifictitle>
+    <utrn>U1111-1171-6880</utrn>
+    <trialacronym>COLDICE</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Interstitial Lung Disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Transbronchial lung cryobiopsy - a recently developed technique involving the bronchoscopic insertion of a frozen-tipped probe into peripheral airways for extraction of lung tissue specimens for diagnostic purposes.
+This will take between 30-45 minutes in most cases.</interventions>
+    <comparator>Video assisted thoracoscopic surgical lung biopsy - the current gold-standard for obtaining lung tissue for diagnosis of parenchymal lung disease.  This involves general anaesthesia, and 2-3 small incisions of the chest wall, for insertion of a thoracoscope and trocars for instruments.  Samples of lung (usually 2), are excised and the lung is stapled to prevent bleeding and air leak. The chest wall is sutured, and patients recover in the hospital ward.
+This will take approximately 45-60minutes in most cases.</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Diagnostic yield as measured by the proportion of cryobiopsy specimens where confident histopathological diagnosis can be made compared with VATS biopsy findings, as assessed by expert pathologists. </outcome>
+      <timepoint>At trial completion, 3 years from 1st recruitment</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Diagnostic yield as assessed by proportion of patients with confident multi-disciplinary team consensus clinical diagnosis (including consideration of clinical, radiological and pathological information).</outcome>
+      <timepoint>At trial completion (3 years from 1st recruitment)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Procedure-specific adverse events (e.g. TBLC: immediate pneumothorax on fluoroscopy, airway bleed; VATS: prolonged air leak, prolonged chest wall pain, wound infection, delayed bleed into chest cavity).</outcome>
+      <timepoint>For individuals: at time of procedure, at day of discharge from hospital (estimated 3-7 days post-operatively), and at 6-month follow-up (phone call from study coordinators).
+For study population: at trial completion (3 years).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Histopathologic features (eg site and size of specimens, presence of pleura, alveoli, airways and vessels, and pathologic features).
+This is a composite secondary outcome of histopathologic quality (with specimens designated either 'adequate' or 'inadequate', based on the inclusion of the above features).</outcome>
+      <timepoint>For individuals: at time of histopathologic analysis (1-6 weeks from biopsy procedure).
+For study population: at trial completion (3 years).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients assessed as requiring histopathology for the diagnosis of their ILD (at specialist multidisciplinary team meetings), and considered suitable for VATS lung biopsy. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* Age &gt; 80
+* Resting oxyhaemoglobin saturation under 90%
+* Platelets less than 100
+* INR &gt; 1.5
+* Advanced comorbidities (including poorly controlled systemic hypertension, congestive cardiac failure, unstable angina, significant stroke).
+* History of of adverse reaction to general anaesthesia
+* Inability to provide informed consent
+* Systolic pulmonary artery pressure over 40mmHg on echocardiogram or evidence of right ventricular dysfunction
+* Inability to withhold anti-platelet therapy (eg aspirin or clopidogrel)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Subjects considered eligible for inclusion (as recommended by the referring site MDT discussion) will receive a trial  participant information sheet. They will meet with both the cryobiopsy proceduralist and cardithoracic surgeon, and be given the opportunity to ask questions in regard to th e research project, before signing informed consent in the presence of an independent witness.
+
+All enrolled subjects will undergo both types of biopsy (TBLC and VATS biopsy) within the one procedure, under general anaesthesia.  Following the procedure and local analysis, specimens will be sent to the reference centre for further evaluation. 
+
+Two centralised expert pathologists at the reference site will independently interpret biopsy specimens in blocks of 30 patients at a time. TBLC and VATS specimens will be assigned unique de-identifying code numbers, unrelated to the other specimen of the same patient, so as to preserve blinding.  </concealment>
+    <sequence>Subjects will not be randomised, so not applicable</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>Within the MDT discussion of every patient, panelists will review clinical details in 2 ways:
+* Background information, then radiology, then cryobiopsy, then VATS; OR
+* Background information, then radiology, then VATS, then cryobiopsy.
+Panelists (with the exception of the pathologist) will be blinded to the origin of the specimen.  Allocation of order of discussion will be randomised, through a computerised random sequence generator.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods> For primary endpoint assessment, histopathological findings will be categorised into 1 of 4 diagnostic groups: UIP, high/intermediate certainty, UIP, low certainty, non-UIP, high/ intermediate certainty or non-UIP, low certainty. Kappa statistic will be used to analyse agreement between the diagnoses yielded by the two procedures.
+
+Secondary endpoint analysis:
+1) Consensus diagnosis at MDD will also be recorded, with coding into nine categories: [IPF, idiopathic NSIP, desquamative interstitial pneumonia/ respiratory bronchiolitis interstitial lung disease (DIP/RB-ILD), connective-tissue disease associated ILD, hypersensitivity pneumonitis (HP), vasculitis, sarcoidosis, other, unclassifiable, consensus certainty levels of either Low or Intermediate/High will again be recorded. A binomial test will be used to compare the proportions of agreement between diagnosis/ certainty of the two procedures during the MDD process, following the step-wise presentation of a) Clinical/ radiological information, b) TBLC, then c) VATS biopsy findings.  
+2) Kappa statistics will be calculated to measure interobserver agreement between pathologists for each of the TBLC specimens and VATS specimens.
+  
+Sample size: Assuming the agreement between VATS and cryobiopsy diagnoses is above 80%, a sample size of 60 subjects will achieve a 95% confidence interval (95% CI) of less than 10% around the percentage of samples in agreement. With this sample size a kappa value, which will be used to measure the level of agreement, of &gt;0.4 will be statistically significant. Allowing for 10% drop out, we plan to recruit 66 patients to this study. </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/03/2016</anticipatedstartdate>
+    <actualstartdate>15/03/2016</actualstartdate>
+    <anticipatedenddate>1/10/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>66</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>32</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,WA,VIC</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Macquarie University Hospital - Macquarie Park</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <hospital>Royal North Shore Hospital - St Leonards</hospital>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Lauren Troy</primarysponsorname>
+    <primarysponsoraddress>Respiratory Medicine
+Royal Prince Alfred Hospital
+Missenden Rd
+Camperdown
+NSW 2050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Erbe </fundingname>
+      <fundingaddress>Waldhornlestrasse 17, 72072 Tuebingen, Germany</fundingaddress>
+      <fundingcountry>Germany</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Sydney</fundingname>
+      <fundingaddress>The University of Sydney
+NSW 2006</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Covidien</fundingname>
+      <fundingaddress>97 Waterloo Road
+North Ryde
+NSW 2113</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>Australia New Zealand Interventional Pulmonology Group</sponsorname>
+      <sponsoraddress>c/o Prof Martin Phillips (Chair)
+Respiratory Medicine
+Sir  Charles Gairdner Hospital
+Hospital Avenue, Nedlands  WA  6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The transbronchial lung cryobiopsy is a new, minimally invasive technique for obtaining lung tissue to diagnose ILD.  In order to determine the place of cryobiopsy in ILD diagnostic algorithms and international guidelines, it is crucial that this procedure is validated against the current gold-standard practice, the VATS biopsy. This study brings together a team of leading proceduralists, ILD specialists and histopathologists from across Australia, with consultative input from international leaders in the field. The main objective of this project is to determine the role of cryobiopsy in the diagnosis of ILD.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Prince Alfred Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Development Office
+Royal Prince Alfred Hospital
+Missenden Road
+CAMPERDOWN NSW 2050 </ethicaddress>
+      <ethicapprovaldate>20/07/2015</ethicapprovaldate>
+      <hrec>X15-0180  and HREC/15/RPAH/240 </hrec>
+      <ethicsubmitdate>11/05/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Lauren Troy</name>
+      <address>Respiratory Medicine
+Royal Prince Alfred Hospital
+Missenden Rd
+Camperdown
+NSW 2050</address>
+      <phone>(+612) 95158296</phone>
+      <fax />
+      <email>ltroy@med.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jessica Rhodes</name>
+      <address>Respiratory Medicine
+Royal Prince Alfred Hospital
+Missenden Rd
+Camperdown
+NSW 2050</address>
+      <phone>(+612) 95154188</phone>
+      <fax />
+      <email>jessica.rhodes@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Edmund Lau</name>
+      <address>Respiratory Medicine
+Royal Prince Alfred Hospital
+Missenden Rd
+Camperdown
+NSW 2050</address>
+      <phone>(+612) 95156111</phone>
+      <fax />
+      <email>edmundmtlau@gmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lauren Troy</name>
+      <address>Respiratory Medicine
+Royal Prince Alfred Hospital
+Missenden Rd
+Camperdown
+NSW 2050</address>
+      <phone />
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

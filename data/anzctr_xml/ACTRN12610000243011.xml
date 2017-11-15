@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335279">
+  <stage>Registered</stage>
+  <submitdate>22/03/2010</submitdate>
+  <approvaldate>24/03/2010</approvaldate>
+  <actrnumber>ACTRN12610000243011</actrnumber>
+  <trial_identification>
+    <studytitle>How often should gastric tubes be aspirated in patients in the intensive care unit (ICU) who receive enteral feeding?</studytitle>
+    <scientifictitle>Patients in the intensive care unit (ICU) who receive enteral feeding will receive variable regimen of gastric tube aspiration versus usual care to minimise tube handling and improve nutritional targets</scientifictitle>
+    <utrn>U1111-1114-4846</utrn>
+    <trialacronym>Nil</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Variable regimen of gastric tube aspiration. The frequency of gastric tube aspiration in the intervention group will be changed from 4-hourly to 8-hourly once enteral feeding has been established, up to 14 days in ICU or until discharge from ICU, whichever occurs first . If gastric residual volumes are greater than the feed volume administered for the previous 2 hours, 4-hourly gastric tube aspirations will be resumed. If feeding is stopped and resumed at a lower rate than prior to being stopped, the frequency of gastric tube aspirations will revert back to 4-hourly until the feeding target is achieved. All other treatments in the ICU will follow the usual ICU practices for both groups.</interventions>
+    <comparator>4-hourly gastric tube aspiration while enteral feeding is undertaken in the ICU (up to 14 days) or until discharge from ICU, whichever occurs first.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of gastric tube aspiration per number of feeding days from the time of feed initiation</outcome>
+      <timepoint>From time of start of enteral feeding until enteral feeding is ceased or up to two weeks (total time) after enteral feeds are commenced.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Attainment of target feeding volume per day (day 1 excluded). Data obtained from ICU patient charts.</outcome>
+      <timepoint>From time of start of enteral feeding until enteral feeding is ceased or up to 16 days (total time) after enteral feeds are commenced.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Attainment of energy delivery per day (day 1 excluded). Data obtained from ICU patient charts.</outcome>
+      <timepoint>From time of start of enteral feeding until enteral feeding is ceased or up to 16 days (total time) after enteral feeds are commenced.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of vomiting or regurgitatio.  Data obtained from ICU patient charts.</outcome>
+      <timepoint>From time of start of enteral feeding until enteral feeding is ceased or up to 16 days (total time) after enteral feeds are commenced.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of ventilator associated pneumonia (up to 16 days after enteral feeding commenced). Data obtained from ICU patient charts.</outcome>
+      <timepoint>From time of start of enteral feeding until enteral feeding is ceased or up to 16 days (total time) after enteral feeds are commenced.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients admitted to the ICU, who stay in the ICU longer than 48 hours, have a gastric tube inserted, and are likely to receive enteral feeding for three or more days</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients who are unlikely to receive enteral feeding for at least 3 days</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The Clinical Nurse Specialists, ICU Research Coordinators and Nurse Shift Coordinators, who are experienced ICU nurses, will liaise with intensivists and screen patients for their eligibility to be recruited into the study. Screened patients who are eligible for inclusion in the study will be randomised by a study Investigator not involved in the clinical management of patients in the ICU. Allocation will be concealed by using sealed opaque envelopes.</concealment>
+    <sequence>Computer generated randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Patient and cohort characteristics were described as mean and standard deviation (SD) or median and interquartile range (IQR) as appropriate. Age, sex, severity of illness and diagnosis were compared between the control and intervention group. Severity of illness was estimated with the worst in first 24 hour Acute Physiology and Chronic Health Evaluation (APACHE) II score.12 The physiological component of the APACHE II score, the Acute Physiology Score (APS), was also examined. Diagnosis (APACHE III diagnostic groups13) was re-grouped into sepsis on admission to ICU (including pneumonia), trauma and other diagnoses. Differences in continuous variables were compared using the Students t-test and categorical variables using Chi square. Linear regression was used to examine the number of aspirations per day after adjusting for potential confounders: age, sex, APS, diagnostic group and group (control or intervention) entered simultaneously into the model. The volume of feed received was compared to the prescribed volume for the control and intervention groups. The ICU dietician reviewed all patients in ICU during the working week and prescribed the feed type and volume in liaison with medical staff. The type and volume of feed prescribed was based on the required amount of protein, other nutrients and caloric requirements of the patient, calculated using the Ireton-Jones14 equation. ICU flow charts and incident report forms were examined for the number of splash injuries.  All analyses were performed on an intention-to-treat basis. For missing data, the number of available observations was reported. No assumptions were made about the missing data. Data Analysis was undertaken using IBM SPSS version 19.0 (IBM; Chicago, IL) was used to analyse the data. Results were considered statistically significant if the p value was &lt;0.05.
+
+Assuming a type I error probability for a two-sided test of 0.05, 80% power, a SD of 1.0, and a reduction in the mean frequency of gastric tube aspirations per 24 hours of 30%, we estimated a sample size of 176 patients per group, i.e. 352 in total. We planned to recruit 360 patients to allow for attrition.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2010</anticipatedstartdate>
+    <actualstartdate>13/10/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>16/12/2011</actualenddate>
+    <samplesize>352</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Perth Hospital</primarysponsorname>
+    <primarysponsoraddress>Wellington Street
+Perth
+Western Australia 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Australian College of Critical Care Nurses</fundingname>
+      <fundingaddress>Level 1, 10 Ievers Terrace, Carton SouthVIC 3053</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Perth Hospital Medical Research Foundation</fundingname>
+      <fundingaddress>Wellington Street
+Perth
+Western Australia 6000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Western Australian Nurses Memorial Charitable Trust</fundingname>
+      <fundingaddress>PO Box 205 Subiaco, Western Australia 6904</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal Perth Hospital Foundation for Nursing Research</fundingname>
+      <fundingaddress>Wellington Street Perth Western Australia 6000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>No studies have been conducted to assess the most appropriate time interval for aspirating gastric tubes. We compared gastric tube aspirations every four hours (usual care) to a variable regimen (up to every eight hours aspirations).
+This randomized controlled trial (RCT) enrolled patients who stayed in ICU &gt; 48 hours, had a gastric tube, and were likely to receive EN for 3+ days. Patients were randomized (computer-generated randomization) to either control (every four hours) or intervention group (variable regimen). The primary outcome was number of gastric tube aspirations per day from randomization until EN was ceased or up to two weeks post-randomization.
+Following Institutional Ethics Committee approval, 357 patients were recruited (control group n=179 and intervention group n=178). No differences were found in age, sex, worst APACHE II score or time to start of EN. In the intention to treat analysis, the intervention group had fewer tube aspirations per day (3.4 versus 5.4 in the control group, p&lt;0.001). Vomiting/regurgitation was increased in the intervention group (2.1% versus 3.6%, p=0.02). There were no other differences in complications.
+This is the first RCT to examine the frequency of gastric tube aspirations. The frequency of gastric tube aspirations was reduced in the variable regimen group with no increase in risk to the patient. Reducing frequency of aspirations saves nursing time, decreases risk of contamination of feeding circuit and minimises risk of body fluid exposure.
+
+</summary>
+    <trialwebsite />
+    <publication>Manuscript accepted for publication JPEN: Journal of Parenteral &amp; Enteral Nutrition June 2013</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Perth Hospital Ethics Committee</ethicname>
+      <ethicaddress>Wellington Street
+Perth
+Western Australia 6000</ethicaddress>
+      <ethicapprovaldate>10/03/2009</ethicapprovaldate>
+      <hrec>2010/008</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Teresa Williams</name>
+      <address>Critical Care Division
+Royal Perth Hospital
+Wellington Street
+Perth
+Western Australia 6000</address>
+      <phone>+61 400 212 250</phone>
+      <fax>No fax</fax>
+      <email>teresa.williams@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Teresa Williams</name>
+      <address>Critical Care Division
+Royal Perth Hospital
+Wellington Street
+Perth
+Western Australia 6000</address>
+      <phone>+61 400 212 250</phone>
+      <fax>No fax</fax>
+      <email>teresa.williams@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Teresa Williams</name>
+      <address>Critical Care Division
+Royal Perth Hospital
+Wellington Street
+Perth
+Western Australia 6000</address>
+      <phone>+61 400 212 250</phone>
+      <fax>No fax</fax>
+      <email>teresa.williams@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Teresa Williams</name>
+      <address>Critical Care Division Royal Perth Hospital Wellington Street Perth Western Australia 6000</address>
+      <phone>+61 400 212 250</phone>
+      <fax />
+      <email>Teresa.Williams@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

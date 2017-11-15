@@ -1,0 +1,241 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365867">
+  <stage>Registered</stage>
+  <submitdate>25/02/2014</submitdate>
+  <approvaldate>19/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000291684</actrnumber>
+  <trial_identification>
+    <studytitle>My Babys Movements: a stepped wedge cluster randomised controlled trial to raise maternal awareness of fetal movements during pregnancy</studytitle>
+    <scientifictitle>My Babys Movements: A mobile phone software program about maternal fetal movement awareness, designed for women with a singleton pregnancy to prevent stillbirth at 28 weeks' gestation or more</scientifictitle>
+    <utrn>U1111-1153-8160</utrn>
+    <trialacronym>MBM</trialacronym>
+    <secondaryid>Nil.</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stillbirth / fetal death</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Fetal medicine and complications of pregnancy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>My Baby's Movements (MBM): a package of interventions to raise awareness and promote early reporting and best-practice management of Decreased Fetal Movements (DFM) in the third-trimester of pregnancy, including a mobile phone application for pregnant women and e-learning program for clinicians.
+
+MBM will be a personalised, user-controlled mobile phone software program that will provide information about fetal movement and when and how to report DFM. At a time and frequency determined by the woman, MBM will also send reminders to prompt awareness of fetal movements. Eligible women will be given a unique code to access MBM and become a registered user via their existing mobile phone. Women will be invited to use MBM from 28 weeks gestation to birth. Data generated from use of MBM (frequency and type of use, or discontinuation) will be sent to a secure database accessible to the research team.
+
+The e-learning program for clinicians will serve as education and training around the Australian and New Zealand clinical practice guidelines for the management of women who report DFM. The program will be computer-based and will seek to improve care around DFM. The program will take each clinician approximately 20 minutes to complete (one-sitting only), and can be used in ongoing hospital in-service education.</interventions>
+    <comparator>Standard care. Some hospitals routinely provide verbal and/or written information about fetal movements during standard antenatal care, but this is not in the form of an interactive, mobile phone program (MBM). Care during the intervention period will differ to standard care in that in MBM will offer a ready source of more detailed information about fetal movements and what to expect, as well as prompts about fetal movement awareness, and a timer to facilitate close movement monitoring for women who are concerned about their baby's movements. NB: Pilot-testing of MBM will determine the utility of these features and therefore changes and refinements may be made prior to final product being rolled-out in the clinical trial.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Stillbirth at 28 weeks' gestation or more (among all women in the trial)</outcome>
+      <timepoint>At time of birth</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse neonatal outcome - subset of 4377 babies only: Composite measure of birth outcomes including Apgar Score &lt;7 at 5 minutes; umbilical artery pH &lt;7.0; intubation and ventilation at birth; hypoxic ischemic encephalopathy; neonatal seizures; Meconium Aspiration Syndrome; neonatal intensive care greater than 5 days; use of mechanical ventilation; neonatal death.</outcome>
+      <timepoint>From birth up to 28 days postpartum</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health service utilisation - subset of 4377 women only: Assessed via audits of presentations for decreased fetal movements including the duration of decreased movement at presentation and details and outcome of any clinical assessments.</outcome>
+      <timepoint>At the commencement of the control period and at the end of the intervention period, for each study cluster.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Womans psychosocial outcomes and health-seeking behaviour - subset of 4377 women only: The Prenatal Attachment Inventory (PAI); Cambridge Worry Scale; the State-Trait Anxiety Index; Edinburgh Postnatal Depression Scale (EPDS); Perinatal Grief Scale; quality of life (QoL)(AQol8D); Health status (SF36); and maternal reporting of decreased fetal movements delayed by &gt;24 hours.</outcome>
+      <timepoint>At the end of pregnancy (or birth) and at 6 months postpartum</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Women's knowledge of fetal movements and acceptability of MBM - subset of 4377 women only: Surveys specifically designed for this study, using a combination of Likert and rating scales, multiple choice, and open-ended questions.</outcome>
+      <timepoint>At the end of pregnancy (or birth) and at 6 months postpartum</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinicians' knowledge of fetal movements and acceptability of MBM: Surveys specifically designed for this study, using a combination of Likert and rating scales, multiple choice, and open-ended questions.</outcome>
+      <timepoint>Before and after the intervention periods</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic impact - subset of 4377 women plus all women who had a stillbirth: Medicare data on health care costs incurred through reimbursement for pharmaceutical benefits schedule (PBS) and medical benefits schedule (MBS).</outcome>
+      <timepoint>From entry into the trial through to 6 months postpartum</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Women with a singleton pregnancy attending for antenatal care at participating sites, and clinicians providing antenatal care at participating sites. Women at any stage of pregnancy are eligible for entry into the trial.</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Pregnant women with a lethal fetal congenital abnormality at 24-28 weeks' gestation.  </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>This trial will use a stepped-wedge cluster randomisation schedule whereby hospital groups (clusters) rather than individuals will be randomised. Allocation will be concealed up until 8 weeks prior to the implementation of the intervention in each cluster. The allocation schedule will be held at the central coordinating centre, and the holder of the allocation schedule will contact hospitals to notify of allocation at the 8-week-prior-to-implementation timepoint.</concealment>
+    <sequence>This trial will use a stepped-wedge cluster randomisation schedule whereby hospital groups (clusters) rather than individuals will be randomised. Clusters will be randomised to timing of intervention implementation, using a computer generated random number table developed off-site by a Biostatistician who is not involved in clinical care.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>Cluster randomisation in stepped-wedge design so that, by the end of the trial, all clusters have received the intervention.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Reduction in stillbirth: The study will include at least 27 hospitals in ANZ with an average of 3,170 singleton births per year (range: 1400, 7000) giving 256,700 total births over 3 years. The current stillbirth rate &gt;28weeks is 3 per 1000. We therefore would expect (without the MBM package to raise maternal awareness and early reporting of DFM) 770 stillbirths (&gt;28weeks), with 10% due to major congenital abnormalities where the intervention is unlikely to have an effect, leaving 693 stillbirths. MBM is hypothesised to reduce the rate to 2 per 1000, which considered an achievable benchmark for a high income country and was the effect size observed in the Norwegian study. We calculated statistical power using the methodology for stepped wedge designs proposed in Hussey and Hughes (2007). The calculation, based on equations (#7) and (#8) assumes: significance level of 5%; analysis by generalised linear mixed model; births equally distributed across hospital groupings; baseline stillbirth rate 0.3%; intervention stillbirth rate: 0.2%; intra-class correlation (ICC)=0.005. The ICC was obtained from the Queensland Perinatal Data Collection and reflects the fact that for large clusters (n=3170), the ICC is small. The statistical power depends on the total number of women birthing and also the number of groups in which the intervention is implemented at each stage of the stepped wedge design and the duration of recruitment at each step. We propose sequential introduction of the intervention into 8 groups of 3-4 hospitals at four month intervals; over a total of three years. This will give 89% power to detect a 30% relative risk reduction in stillbirth rates (from 3/1000 to 2/1000), 85% power to detect a 25% reduction, and 80% power to for a 15% reduction. The trial methods have been harmonised with that of a trial in Scotland (led by Jane Norman) (330,000 births over 3 years). Combining data from the two trials (786,700 births), would give 89% power to detect a 10% decrease in stillbirth rates. 
+
+
+The initial analysis will examine baseline characteristics of all women in the two time periods, as an indication of comparable groups. Data analysis to determine the overall effectiveness of the intervention will involve comparison of the data points in the control section of the wedge with those in the intervention section, adjusting for potential confounders. For the binary outcomes, data will be analysed by generalised linear mixed model with a random effect for hospital group and fixed effects for the intervention implementation and study time period. Outcomes measured on a continuous scale will be analysed in a normal linear mixed model. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>28/11/2016</anticipatedstartdate>
+    <actualstartdate>28/11/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>300000</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>1967</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA</recruitmentstate>
+    <hospital>Gold Coast University Hospital - Southport</hospital>
+    <hospital>Logan Hospital - Meadowbrook</hospital>
+    <hospital>Ipswich Hospital - Ipswich</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Dandenong Hospital - Dandenong</hospital>
+    <hospital>Casey Hospital - Berwick</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <postcode>4215 - Southport</postcode>
+    <postcode>4131 - Meadowbrook</postcode>
+    <postcode>4305 - Ipswich</postcode>
+    <postcode>2747 - Kingswood</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>2605 - Garran</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3175 - Dandenong</postcode>
+    <postcode>3806 - Berwick</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Associate Professor Vicki Flenady</primarysponsorname>
+    <primarysponsoraddress>Mater Research Institute - The University of Queensland
+Level 2 Aubigny Place
+Mater Health Services
+South Brisbane QLD 4101
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Stillbirth Foundation of Australia</fundingname>
+      <fundingaddress>Suite 101
+114a Pyrmont Bridge Road
+Annandale NSW 2038</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Stillbirth directly affects over 2,700 families in Australia and New Zealand each year and is associated with devastating and long-lasting psychosocial impact. Some late-pregnancy stillbirths may be preventable with early detection of a baby's ill-health, which may be indicated by Decreased Fetal Movements (DFM). Maternal reporting of (DFM) has therefore been proposed as a simple, inexpensive stillbirth screening tool. This trial will evaluate My Babys Movements (MBM): a package of interventions to raise awareness and promote early reporting and optimal clinical management of DFM. MBM will be evaluated as part of a large multi-centre clinical trial across participating hospitals in Australia and New Zealand. Over three years, women attending for antenatal care with a singleton pregnancy will be included in measurement of stillbirth rates and other birth outcomes using routinely collected data. Maternal psychosocial outcomes, health service use, acceptability of MBM, and cost will also be assessed.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Health Services HREC</ethicname>
+      <ethicaddress>Level 2 Aubigny Place
+Mater Health Services
+South Brisbane QLD 4101</ethicaddress>
+      <ethicapprovaldate>3/11/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>26/05/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Vicki Flenady</name>
+      <address>Mater Research Institute - The University of Queensland
+Level 2 Aubigny Place
+Mater Health Services
+South Brisbane QLD 4101</address>
+      <phone>+617 316 31592</phone>
+      <fax />
+      <email>vicki.flenady@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Aleena Wojcieszek</name>
+      <address>Mater Research Institute - The University of Queensland
+Level 2 Aubigny Place
+Mater Health Services
+South Brisbane QLD 4101</address>
+      <phone>+617 316 33829</phone>
+      <fax />
+      <email>aleena.wojcieszek@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Vicki Flenady</name>
+      <address>Mater Research Institute - The University of Queensland
+Level 2 Aubigny Place
+Mater Health Services
+South Brisbane QLD 4101</address>
+      <phone>+617 316 31592</phone>
+      <fax />
+      <email>vicki.flenady@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sarah Henry</name>
+      <address>Mater Research Institute - The University of Queensland Level 2 Aubigny Place Mater Health Services South Brisbane QLD 4101</address>
+      <phone>+61 7 3163 5344</phone>
+      <fax />
+      <email>sarah.henry@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

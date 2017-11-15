@@ -1,0 +1,209 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="347724">
+  <stage>Registered</stage>
+  <submitdate>18/11/2011</submitdate>
+  <approvaldate>21/11/2011</approvaldate>
+  <actrnumber>ACTRN12611001197921</actrnumber>
+  <trial_identification>
+    <studytitle>Computerised Assistance of Cardiovascular Monitoring in Intensive Care</studytitle>
+    <scientifictitle>Retrospective, proof of concept study on model-based cardiovascular monitoring in critical care for improved diagnosis of circulatory dysfunction</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular dysfunction</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A series of short therapeutic interventions will be performed on study patients following a pre-defined protocol:
+
+1.	A thermo-dilution will be performed at the start of each study to assess cardiac output and correctly reflect the patients volume status.
+
+2.	Optimizing ventilator settings by adjusting the PEEP level will help quantify fluid responsiveness. PEEP will be varied +/-5 cmH2O from the clinically-determined setting. The changes in CVS responses will be recorded.
+
+3.	Patients are often given infusions of adrenaline and/or noradrenaline (heart stimulants) which are titrated to a clinical response. No formal protocols exist to guide clinicians. This treatment is largely carried our using intuition and experience. The clinically-determined inotrope dose will be changed +/- 20% with increments of 1 mcg/min every 5 minutes. At each change in dose, the CVS responses will be recorded. The reason for this exercise is to assess the patients sensitivity to the drugs they are receiving. The maximal change in noradrenaline or adrenaline will be limited to 5 mcg/min. For example a patient receiving an infusion of noradrenaline at 10 mcg/min will have their infusion changed to 8,9,10,11,12 mcg/min for up to 5 minutes at each setting. After this the patients infusion will be returned to starting rate (10 mcg/min) or as clinically indicated.</interventions>
+    <comparator>Nil</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Other interventions</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To assess the ability of the model-based method to retrospectively track hemodynamic changes resulting from the inotropic and PEEP interventions. The model-based results will be compared to clinical diagnoses, clinically derived CVS performance metrics, and standard ICU hemodynamic measurements. Where applicable, the ability of the model to capture the data will be analysed by 90% confidence intervals of the absolute percentage error between the identified model predictions and the measured response. Errors within measurement error of 10% will be assumed to be a fully accurate prediction.</outcome>
+      <timepoint>The outcomes of the trials will be assessed at the end of the clinical study.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To store all the hemodynamic measurements recorded in the ICU including: arterial pressure, central venous pressure, pulmonary artery pressure, stroke volume, global end diastolic volume, extra-vascular lung water, heart rate, respiratory pressure and flow, ECG, and other available cardiac and circulatory measurements to create a virtual patient database for future research.</outcome>
+      <timepoint>The database will be set up at the end of the study.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Post-cardiac surgery or diagnosed CVS dysfunction as leading contributor to ICU admission; Arterial and central venous catheterization; and full or intermittent mechanical ventilation (intubated).</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Moribund or not expected to survive 48 hours; patient not intubated or does not have required catheters for measurements.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/03/2010</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Canterbury</primarysponsorname>
+    <primarysponsoraddress>22 Kirkwood Avenue  
+Riccarton 
+8041
+Private Bag 4800</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Canterbury</fundingname>
+      <fundingaddress>22 Kirkwood Avenue  
+Riccarton 
+8041
+Private Bag 4800</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Christchurch Hospital</fundingname>
+      <fundingaddress>Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Christchurch Hospital</sponsorname>
+      <sponsoraddress>Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Currently, cardiac assessment of critical care patients involves the analysis of changes in aortic pressure, cardiac output, central venous pressure, heart rate, ECG and gas exchange measurements relative to a normal or average patient. However, complex interactions in these measurements can hide the underlying disease state so that clinicians receive no clear picture of overall circulatory status or function. This research proposes to use a computer model of the CVS to aggregate the clinical data into a more readily understood physiological context for clinicians, by exposing hidden dynamics, and thus allowing a stronger foundation for treatment selection.
+This study tests the ability of the CVS model to monitor and characterize cardiac disturbances in a critical care setting. During the observation period, the participants will receive interventions which are determined by clinical judgement and which follow standardized protocols. These interventions will involve administering fluids, medicines that increase blood pressure and stimulate the heart, and changing ventilator settings, which are known to impact on the circulation. Each participants CVS response will be recorded and all interventions will be consistent with normal clinical practice.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Multi-region Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+133 Molesworth Street,
+PO Box 5013
+Wellington 6145</ethicaddress>
+      <ethicapprovaldate>24/02/2010</ethicapprovaldate>
+      <hrec>MEC/09/12/144</hrec>
+      <ethicsubmitdate>10/02/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey Shaw</name>
+      <address>Department of Intensive Care 
+Christchurch Hospital
+Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</address>
+      <phone>+64 3 364 1077</phone>
+      <fax>+64 3 364 0099</fax>
+      <email>Geoff.Shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey Shaw</name>
+      <address>Department of Intensive Care 
+Christchurch Hospital
+Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</address>
+      <phone>+64 3 364 1077</phone>
+      <fax>+64 3 364 0099</fax>
+      <email>Geoff.Shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>James Revie</name>
+      <address>University of Canterbury
+Mechanical Engineering Department
+22 Kirkwood Avenue  
+Riccarton 8041
+Private Bag 4800</address>
+      <phone>+64 21 377 962</phone>
+      <fax />
+      <email>james.revie@pg.canterbury.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

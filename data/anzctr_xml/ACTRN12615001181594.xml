@@ -1,0 +1,240 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369480">
+  <stage>Registered</stage>
+  <submitdate>19/10/2015</submitdate>
+  <approvaldate>3/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001181594</actrnumber>
+  <trial_identification>
+    <studytitle>Focal Ablative STereotactic Radiosurgery for Cancers of the Kidney, a Phase II Clinical Trial (FASTRACK II)
+</studytitle>
+    <scientifictitle>A Mulicentre Phase II clinical Trial of STereotactic Ablative Body Radiotherapy for Primary Kidney Cancer</scientifictitle>
+    <utrn>U1111-1170-4329 </utrn>
+    <trialacronym>FASTRACK II</trialacronym>
+    <secondaryid>TROG 15.03</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Renal cell carcinoma with a single lesion within a kidney
+
+</healthcondition>
+    <healthcondition>Primary kidney tumour intact and no more than 5 documented metastases</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Stereotactic Radiotherapy in two schedules depending on tumor size:
+Fraction schedule 1: 26Gy in 1 fraction, for tumours of less than or equal to 4cm in size 
+Fraction schedule 2: 42Gy in 3 fractions, for tumours of greater than 4cm in size (i.e. 14Gy per fraction, given in 3 fractions over a max of 3 weeks, each fraction given on non consecutive days)
+
+</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To estimate the activity and efficacy of the technique (composite outcome)</outcome>
+      <timepoint>Freedom from local progression assessed by RECIST criteria at 12 mths.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tolerability of SABR
+
+</outcome>
+      <timepoint>Assessed as cummulative incidents of severy toxicity by CTCAE v4 from date of treatment commencement until end of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Estimate survival after SABR
+
+</outcome>
+      <timepoint>Assessed by clinical assessment at 24 mths post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Estimate the distant failure rate after SABR
+</outcome>
+      <timepoint>Distant failure assessed by CT scan and clinical assessment
+24 mths post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Describe renal function change after SABR</outcome>
+      <timepoint>Assessed by serum creatine and eGFR using a Cockroft Gault method
+ 1 year post treatment and 2 years post treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Age &gt; 18 years old 
+2. All patients must have a biopsy confirmed diagnosis of renal cell carcinoma with a single lesion within a kidney 
+3. ECOG performance of 0-2 inclusive. 
+4. Life expectancy &gt; 9 months
+5. Either medically inoperable, technically high risk for surgery or decline surgery.
+6. Multidisciplinary decision for active treatment 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Cytotoxic chemotherapy within 3 weeks of commencement of treatment, or concurrently with treatment. Delivery of targeted agents (such as sunitinib) are allowable only when at least 7 days separate the delivery of the proposed agent and the delivery of the stereotactic radiotherapy. 
+2. Previous high-dose radiotherapy to an overlapping region 
+3. Tumours of larger than 8cm is size
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Baseline characteristics will be summarised using descriptive statistics including counts and percentages for categorical variables and mean, standard deviation (SD), median and range for continuous variables.
+The Kaplan-Meier method will be used to estimate the overall survival, freedom from local progression and freedom from distant progression. Annual estimates will be provided alongside with 95% confidence intervals. 
+Cumulative incidence curves for cancer related death and for severe toxicity will be provided assuming competing risks with death as a competing event. Annual estimates will be provided alongside with 95% confidence intervals estimated using bootstrap. 
+No imputation of missing values and no adjustments for multiplicity are intended. All confidence intervals provided will be 2-sided with alpha=0.05.
+
+With a sample size of 70, alpha of 0.05, the 95% confidence interval width of freedom from local progression of 90% is 80-90%.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/09/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>70</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Peter MacCallum Cancer Institute - East Melbourne</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Trans Tasman Radiation Oncology Group (TROG)</primarysponsorname>
+    <primarysponsoraddress>TROG Cancer Research
+PO Box 88
+Waratah, NSW 2289
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Varian Medical Systems </fundingname>
+      <fundingaddress>13A Narabang Way
+Belrose NSW 2085</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is evaluating the activity and efficacy of Stereotactic Ablative Body Radiotherapy (SABR) for the treatment of kidney cancers. 
+
+Who is it for? 
+
+Age &gt; 18 years old 
+All patients must have a biopsy confirmed diagnosis of renal cell carcinoma with a single lesion within a kidney 
+
+1. ECOGperformance of 0-2 inclusive. 
+2. Life expectancy &gt; 9 months
+3. Either medically inoperable, technically high risk for surgery or decline surgery.
+4. Multidisciplinary decision for active treatment 
+
+Study Details:
+Definitive external beam radiotherapy (EBRT) is often used to treat medically inoperable patients with cancers in many different organs, including the kidneys.  However, renal cell carcinoma (RCC) is conventionally considered radioresistant to fully fractionated EBRT. In an effort to overcome the perceived radioresistance of RCC, severely hypofractionated EBRT in the form of stereotactic radiotherapy has renewed interest in the management of renal cell carcinoma with radiotherapy. 
+Participants in this study will be allocated to receive either multi-fraction SABR (3 fractions over 2 weeks) or single fraction SABR (1 fraction only). 
+
+All participants will be assessed at regular intervals post treatment in order to  estimate the activity and efficacy of the technique,  evaluate tolerability, estimate survival, estimate distant failure rate, and renal function change after SABR. 
+
+The follow-up visits occur at 4 weeks and every 3 months in the  1st year post treatment, then every 6 months in the second year and then yearly until study closure (2 years after the last participant finishes study treatment). 
+
+</summary>
+    <trialwebsite>www.trog.com.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre HREC</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>9/05/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/12/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Shankar Siva</name>
+      <address>Peter MacCallum Cancer Centre
+Locked Bag 1 
+A' Beckett Street, 
+East Melbourne, Victoria, 8006</address>
+      <phone>+61 3 9656 1851</phone>
+      <fax />
+      <email>shankar.siva@petermac.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rebecca Montgomery</name>
+      <address>TROG Cancer Research
+PO Box 88 
+Waratah, NSW 2289</address>
+      <phone>+61 2 40143911</phone>
+      <fax />
+      <email>trog@trog.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Shankar Siva</name>
+      <address>Peter MacCallum Cancer Centre
+Locked Bag 1 
+A' Beckett Street, 
+East Melbourne, Victoria, 8006</address>
+      <phone>+61 3 9656 1851</phone>
+      <fax />
+      <email>shankar.siva@petermac.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>TROG Administrator</name>
+      <address>TROG Cancer Research
+PO Box 88
+Waratah NSW 2298</address>
+      <phone>+61 2 4014 3911</phone>
+      <fax>+61 2 4014 3902</fax>
+      <email>administrator@trog.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

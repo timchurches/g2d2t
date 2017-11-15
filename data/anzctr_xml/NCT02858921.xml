@@ -1,0 +1,413 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6014">
+  <stage>Registered</stage>
+  <submitdate>16/07/2016</submitdate>
+  <approvaldate>16/07/2016</approvaldate>
+  <nctid>NCT02858921</nctid>
+  <trial_identification>
+    <studytitle>Neoadjuvant Dabrafenib, Trametinib and/or Pembrolizumab in BRAF Mutant Resectable Stage III Melanoma</studytitle>
+    <scientifictitle>A Phase II, Randomised, Open Label Study of Neoadjuvant Dabrafenib, Trametinib and / or Pembrolizumab in BRAF V600 Mutant Resectable Stage IIIB/C Melanoma</scientifictitle>
+    <utrn />
+    <trialacronym>NeoTrio</trialacronym>
+    <secondaryid>MIA2015/179</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Melanoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Malignant melanoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Dabrafenib
+Treatment: drugs - Trametinib
+Treatment: drugs - Pembrolizumab
+
+Experimental: Sequential D + T, THEN Pembrolizumab - Dabrafenib 150mg orally twice a day + Trametinib 2mg orally once a day for 2 weeks, then followed by treatment with Pembrolizumab 2mg/kg delivered intravenously at weeks 2, 4, 6, and 9, then once every 3 weeks from week 12 for 50 weeks.
+
+Experimental: Concurrent D + T AND Pembrolizumab - Dabrafenib 150mg orally twice a day + Trametinib 2mg orally once a day + Pembrolizumab 200mg intravenously once every 3 weeks for 52 weeks
+
+Experimental: Pembrolizumab ONLY - Pembrolizumab 200mg intravenously once every 3 weeks alone for 52 weeks.
+
+
+Treatment: drugs: Dabrafenib
+Dabrafenib, a 4-(3-aminosulfonylphenyl)-5-(pyrimidine-3-yl) thiazole, is a potent and selective inhibitor of B-RAF kinase activity with a mode of action consistent with adenosine triphosphate (ATP)-competitive inhibition, and is approved as monotherapy in BRAF V600E-mutant advanced/metastatic melanoma.
+
+Treatment: drugs: Trametinib
+Trametinib, a pyrido - pyrimidine derivative, is a potent and highly selective allosteric non-competitive inhibitor of MEK1/MEK2 activation and kinase activity has been approved as monotherapy in BRAF (V600E)-mutant and BRAF (V600K)-mutant melanoma.
+
+Treatment: drugs: Pembrolizumab
+Pembrolizumab is a potent and highly selective humanized monoclonal antibody (mAb) of the IgG4/kappa isotype designed to directly block the interaction between PD-1 and its ligands, PD-L1 and PD-L2.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Pathological response rate - Proportion of patients with complete absence of residual melanoma cells in the planned resected tumour site(s) at week 12 surgery.</outcome>
+      <timepoint>From baseline to 12 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective clinical (RECIST) response rate - Proportion of patients with complete and partial responses at 12 weeks compared to baseline per RECIST guidelines for each treatment arm.</outcome>
+      <timepoint>From baseline to 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Relapse free survival - The amount of time that patients are disease free from the time of surgery at 12 weeks from study entry</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival - The proportion of patients who are alive from the time of study entry</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of post operative infection - The number of patients (and the number of episodes) who develop a post operative infection of the surgical wound requiring intravenous antibiotics and/or wound drainage</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of post operative seroma formation - The number of patients (and the number of episodes) who develop a seroma at the surgical site that requires any intervention and the volume of seroma drainage</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of post operative wound drainage time - The number of days that a wound drain remains in situ from the time of surgery</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of post operative bleeding requiring return to theatre or transfusion - The number of patients (and the number of episodes) who have a bleed from the post operative surgical wound that requires a blood transfusion or return to theatre to stop the bleeding</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of surgeon's opinion of operability evaluated at baseline to time of surgery - The change, if any, in the surgeon's assessment of 'operability' from baseline opinion (based on clinical and imaging examination) to time of operation</outcome>
+      <timepoint>Baseline and 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of any treatment-emergent adverse events - The number of study treatment related adverse events of all Common Terminology Criteria for Adverse Events (CTCAE) grades from the time of starting study treatment to the time of permanent discontinuation of study treatment</outcome>
+      <timepoint>52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Characterisation of the immunophenotype of tumour infiltrating cells in melanoma tissue - The effects of study treatment on the body's immune cells within the tumour tissue prior to surgery</outcome>
+      <timepoint>Baseline, Week 1, Week 4, week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Description of the morphological assessment of melanoma tissue - The effects of study treatment on the degree of necrosis and genetic markers in tumour tissue prior to surgery</outcome>
+      <timepoint>Baseline, Week 1, Week 4, week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Description of the RNA expression profile of melanoma tumour - The effects of study treatment on the baseline function of RNA expression in tumour tissue prior to surgery</outcome>
+      <timepoint>Baseline, Week 1, Week 4, week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Measurement of leucocyte subpopulations in peripheral blood - The effects of study treatment on the number and type of white cells in the blood</outcome>
+      <timepoint>Baseline, Week 1, Week 4, week 12</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Measurement of circulating tumour DNA - The levels of melanoma DNA that is circulating in the blood stream and the changes during study treatment</outcome>
+      <timepoint>Baseline, Week 1, Week 4, week 12</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  =18 years of age
+
+          -  Written informed consent.
+
+          -  Histologically confirmed, resectable American Joint Committee on Cancer (AJCC) stage
+             IIIB, IIIC or IV (Tx, T0, T1-4, N1b, N2b, N2c, N3, M0) cutaneous melanoma or unknown
+             primary melanoma with sufficient cutaneous, nodal or in-transit disease to enable
+             multiple excisional or core biopsies (at baseline, week 1 and week 4). 'Resectable'
+             tumours are defined as having no significant vascular, central nervous system or bony
+             involvement. Only cases where a complete surgical resection with tumour-free margins
+             can safely be achieved are defined as resectable. Patients who may not have sufficient
+             disease to enable multiple biopsies at weeks 1 and 4 will not be excluded, however the
+             intention of the study is that at least one biopsy at these time points is required.
+
+          -  Measurable disease according to RECIST version 1.1 criteria (= 10mm longest diameter
+             for non-nodal lesions and / or = 15mm in shortest diameter for lymph nodes) within 4
+             weeks of randomisation. 'Measurable' disease may be ascertained by CT or for cutaneous
+             and superficial lesions, by caliper measurement with digital photography. CT preferred
+             for all lesions where possible. PET imaging will be performed, but not used for the
+             primary purpose of measuring response.
+
+          -  BRAF V600 mutation positive on immunohistochemistry or a local molecular test (e.g.
+             Oncofocus): a. A positive V600E immunohistochemistry stain at study entry should be
+             formally quantified with a local molecular test following study entry (e.g.
+             Oncofocus); b. Molecular BRAF mutation status should preferentially be confirmed using
+             tissue taken from the presenting stage III / IV disease. Alternatively, archival
+             primary tissue is also acceptable to confirm BRAF mutation status.
+
+          -  Able to swallow and retain oral medication
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1
+
+          -  Demonstrated adequate organ function as defined:
+
+               1. Absolute neutrophil count (ANC) =1.5 109/L
+
+               2. Platelets =100 109/L
+
+               3. Haemoglobin =90g/L
+
+               4. Serum creatinine OR measured or calculated creatinine clearance (CrCl)
+                  (Glomerular filtration rate [GFR] can also be used in place of creatinine or
+                  CrCl) =1.5 X upper limit of normal (ULN) OR =60 mL/min for patient with
+                  creatinine levels &gt; 1.5 X institutional ULN.
+
+               5. Serum total bilirubin = 1.5 X ULN OR Direct bilirubin = ULN for patients with
+                  total bilirubin levels &gt; 1.5 ULN.
+
+               6. Aspartate transaminase (AST) and Alanine transaminase (ALT) = 2.5 X ULN OR = 5 X
+                  ULN for patients with liver metastases.
+
+               7. Albumin &gt;25 g/L
+
+               8. International Normalized Ratio (INR) or Prothrombin Time (PT)
+
+               9. Activated Partial Thromboplastin Time (aPTT) =1.5 X ULN unless patient is
+                  receiving anticoagulant therapy as long as PT or PTT is within therapeutic range
+                  of intended use of anticoagulants. =1.5 X ULN unless patient is receiving
+                  anticoagulant therapy as long as PT or PTT is within therapeutic range of
+                  intended use of anticoagulants
+
+          -  Anticipated life expectancy of &gt; 12 months.
+
+          -  Women of childbearing potential: a negative serum pregnancy test within 72 hours of
+             first dose of study treatment and effective contraception from 14 days prior to study
+             treatment until 4 months after the last dose.
+
+          -  Men with a female partner of childbearing potential to use effective contraception
+             from 14 days prior to study treatment until 4 months after the last dose.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Uveal or mucosal melanoma.
+
+          -  Prior anti-cancer treatment for melanoma, except for the following:
+
+               1. surgery for a primary melanoma or previous stage III melanoma,
+
+               2. adjuvant radiotherapy to the primary melanoma resected site or to lymph nodes for
+                  previous Stage III disease,
+
+               3. previous adjuvant interferon or ipilimumab for resected stage II or III melanoma,
+                  Previous adjuvant treatment with PD-1 inhibitors or BRAF/MEK inhibitors is not
+                  permitted.
+
+          -  Received any investigational drug within 28 days or 5 half-lives of the planned first
+             dose of this study treatment.
+
+          -  Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs
+             chemically related to the study treatments, their excipients and / or dimethyl
+             sulfoxide (DMSO).
+
+          -  Active infection requiring systemic therapy.
+
+          -  Current use of any prohibited medication as described in protocol.
+
+          -  Active autoimmune disease or a documented history of autoimmune disease or a syndrome
+             requiring systemic steroids or immunosuppressive agents. Patients with the following
+             are permitted to enrol:
+
+               1. vitiligo,
+
+               2. type I diabetes mellitus,
+
+               3. residual hypothyroidism due to an autoimmune condition only requiring, and stable
+                  on hormone replacement,
+
+               4. psoriasis not requiring systemic treatment,
+
+               5. resolved childhood asthma or atopy,
+
+               6. or conditions not expected to recur in the absence of an external trigger.
+
+          -  A requirement for chronic systemic steroid therapy (&gt; 10mg/kg per day of prednisone or
+             equivalent) within two weeks before the planned first dose of study treatment or any
+             on any other form of immunosuppressive treatment. Patients who require inhaled or
+             intranasal corticosteroids (with minimal systemic absorption) may be continued if the
+             patient is on a stable dose. Non-absorbed intra-articular steroid injections will also
+             be permitted.
+
+          -  A known history of another malignancy or concurrent malignancy unless the patient is
+             disease-free for a minimum of 1 year, is completely treated and at low-risk of
+             recurrence. The time requirement does not apply for patients with successful
+             definitive resection or curative treatment of:
+
+               1. Non-melanoma skin cancer (e.g. basal cell or squamous cell carcinoma of the
+                  skin),
+
+               2. superficial bladder cancer,
+
+               3. in situ carcinoma of the cervix,
+
+               4. in situ breast cancer,
+
+               5. atypical melanocytic hyperplasia or melanoma in situ
+
+               6. other in situ carcinomas,
+
+               7. multiple primary melanomas, or other treated low risk tumours.
+
+          -  Known HIV, hepatitis B or C virus positive status or history of active tuberculosis
+             (testing prior to randomisation is not required).
+
+          -  Administration of a live vaccine with 30 days of planned first dose of study
+             treatment. Seasonal influenza vaccines for injection are generally inactivated flu
+             vaccines and are allowed, however intranasal influenza vaccines (e.g., Fluad®) are
+             live attenuated vaccines, and are not allowed. Any vaccine is cautionary within 30
+             days.
+
+          -  Patients with a history or evidence of cardiovascular risk including any of the
+             following:
+
+               1. QT interval corrected for heart rate using the Bazett formula =480 msec, a
+                  diagnosis of long QT syndrome (Roman-Ward or Jervell Lange-Nielsen syndromes)
+
+               2. Taking medications known to prolong the QT interval.
+
+               3. Uncorrectable electrolyte abnormal abnormality (e.g. hypo- or hyperkalaemia,
+                  hypomagnesaemia, hypocalcaemia)
+
+               4. Uncontrolled arrhythmias, with the exception of atrial fibrillation which is
+                  controlled for &gt; 30 days prior to randomisation.
+
+               5. Patients with implanted cardioverter/defibrillators.
+
+               6. Acute coronary syndromes (including myocardial infarction or unstable angina),
+                  coronary angioplasty or stenting within 6 months prior to randomisation.
+
+               7. A history or current evidence of New York Heart Association (NYHA) =Grade 2
+                  congestive heart failure
+
+               8. A current left ventricular ejection fraction (LVEF) below than the lower limit of
+                  normal (LLN).
+
+               9. Any abnormal cardiac valve morphology documented by echocardiogram which in the
+                  opinion of the investigator could interfere with the patient's safety.
+
+              10. Treatment-refractory hypertension defined as a systolic blood pressure of &gt;140 mm
+                  Hg and/or a diastolic pressure of &gt;90 mm Hg, which cannot be controlled by
+                  anti-hypertensive treatment.
+
+          -  Evidence or a risk of retinal vein occlusion (RVO) or central serous retinopathy
+             (CSR), including:
+
+               1. Presence of predisposing factors to RVO or CSR (e.g., uncontrolled glaucoma or
+                  ocular hypertension, uncontrolled hypertension, uncontrolled diabetes mellitus,
+                  or a history of hyperviscosity or hypercoagulability syndromes).
+
+               2. Visible retinal pathology as assessed by ophthalmic examination that is
+                  considered a risk factor for RVO or CSR, such as evidence of new optic disc
+                  cupping.
+
+               3. Intraocular pressure &gt; 21 mm Hg as measured by tonography.
+
+               4. Evidence of new visual field defects on automated perimetry.
+
+          -  History or evidence of interstitial lung disease or active non-infectious pneumonitis.
+
+          -  Serious or unstable pre-existing medical conditions or other conditions that could
+             interfere with the patient's safety, consent, or compliance.
+
+          -  Has known psychiatric or substance abuse disorders that would interfere with
+             cooperation with the requirements of the trial.
+
+          -  Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or an
+             agent directed to another co-inhibitory T-cell receptor (i.e. OX-40, CTLA-4).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/06/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Westmead Hospital - Sydney</hospital>
+    <hospital>Melanoma Institute Australia - Wollstonecraft</hospital>
+    <postcode>2145 - Sydney</postcode>
+    <postcode>2065 - Wollstonecraft</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Melanoma Institute Australia</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Merck Sharp &amp; Dohme Corp.</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Novartis</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to determine which of 3 drug combinations best reduces the size of tumour
+      prior to surgery for advanced melanoma and prevents the recurrence of melanoma after surgery.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02858921</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Georgina V Long</name>
+      <address>Melanoma Institute Australia</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Maria Gonzalez</name>
+      <address />
+      <phone>+612 9911 7200</phone>
+      <fax />
+      <email>maria.gonzalez@melamona.org.au</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,228 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373728">
+  <stage>Registered</stage>
+  <submitdate>27/09/2017</submitdate>
+  <approvaldate>29/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001392358p</actrnumber>
+  <trial_identification>
+    <studytitle>Vasopressor dependent shock: Intravenous vitamin C versus placebo on vasopressor use. The VALENCIA study</studytitle>
+    <scientifictitle>A double-blinded pilot randomized control trial comparing the effect of intravenous vitamin C versus placebo on vasopressor requirements in a cohort of vasopressor dependent patients suffering from a systemic inflammatory response syndrome.
+</scientifictitle>
+    <utrn>U1111-1202-8405</utrn>
+    <trialacronym>VALENCIA</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Distributive shock</healthcondition>
+    <healthcondition>Systemic inflammatory response syndrome</healthcondition>
+    <healthcondition>Septic Shock</healthcondition>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1.5 g intravenous Sodium Ascorbate every 6 hours for 5 days.  A review of medication charts by study investigators and sampling of Vitamin C levels levels in 5 randomly selected patients in each arm on day 3 of the study will occur to verify group separation and adherence to protocol.</interventions>
+    <comparator>100 ml 0.9% Sodium Chloride intravenous infusion every 6 hours for 5 days.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Duration of vasopressor usage (hrs) post commencement of study intervention
+</outcome>
+      <timepoint>Hourly post commencement of study intervention for 5 days.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Total dose of vasopressor usage (mg)</outcome>
+      <timepoint>5 days post commencement of study intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intensive Care or High Dependency Unit length of stay
+</outcome>
+      <timepoint>Hours and days post commencement of study intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of mechanical ventilation</outcome>
+      <timepoint>Hourly post commencement of study intervention for 5 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>At 28 days post commencement of study intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1) Patients requiring significant vasopressor support due to any cause of systemic inflammatory response (Sepsis, OHCA, Acute Pancreatitis, Trauma, etc)
+
+2) Significant vasopressor requirement is defined as 10 ml/hr (600 mcg/hr) noradrenaline and/or adrenaline (total catecholamine dose to be equal or greater than 600 mcg/hr) after hypovolaemia is clinically excluded as a contributor by lead physician.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1) Vasopressor support required for haemodynamic augmentation to supranormal targets
+2) Neuro-axial anaesthesia (spinal or epidural)  
+3) Documented history of Glucose-6-Phosphodiesterase Deficiency (G-6PD) deficiency
+4) Prior enrolment in Vitamin C study
+5) Receiving vitamin C supplementation for another reason (i.e. burns patients)
+6) Expected survival &lt;12 hours
+7) Confirmed or suspected pregnancy
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>computerised sequence generation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Assuming mean duration of vasopressor for control group is 72 hours and the treatment group is 48 hours (absolute reduction of 24 hours, s.d 36 hours for control group and 24 hours for treatment group) and using the Mann-Whitney non-parametric method to estimate the sample size: 28 per group. 
+
+To allow for lost to follow-up, sample size increased by 20% - total sample size of 70 patients.  
+
+Statistical analysis plan to be finalised prior to unblinding of any data</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>15/11/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>15/03/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>70</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/04/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Sir Charles Gairdner Hospital</primarysponsorname>
+    <primarysponsoraddress>Sir Charles Gairdner Hospital
+Intensive Care Department
+Hospital Avenue, Nedlands,
+Perth 6009, Western Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Sir Charles Gairdner Hospital</fundingname>
+      <fundingaddress>Sir Charles Gairdner Hospital
+Intensive Care Department
+Hospital Avenue, Nedlands,
+Perth 6009, Western Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Vitamin C is an essential cofactor for multiple metabolic processes.  Vitamin C levels are
+known to fall dramatically following the onset of acute inflammation from any cause.  The resulting low levels of vitamin C are associated with worsening sickness and organ failure. Small studies suggest that replacing these levels may of benefit to critically ill patients.. This study is designed to study whether or not replacing Vitamin C will be of any benefit to very sick patients on life support in the intensive care unit.  The study hypothesis is that replacement of vitamin C intravenously will result in an improvement in patient outcomes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner and Osborne Park Health Care Group Human Research Ethics Committee </ethicname>
+      <ethicaddress>Sir Charles Gairdner Hospital
+Level 2, A Block 
+Hospital Avenue 
+NEDLANDS WA 6009</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>6/10/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Sir Charles Gairdner Hospital
+Intensive Care Unit
+Level 4, G Block 
+Hospital Avenue 
+NEDLANDS WA 6009
+</address>
+      <phone>+61 8 6457 3333</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Sir Charles Gairdner Hospital
+Intensive Care Unit
+Level 4, G Block 
+Hospital Avenue 
+NEDLANDS WA 6009
+</address>
+      <phone>+61 8 6457 3333</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Anstey</name>
+      <address>Sir Charles Gairdner Hospital
+Intensive Care Unit
+Level 4, G Block 
+Hospital Avenue 
+NEDLANDS WA 6009</address>
+      <phone>+61 8 6457 3333</phone>
+      <fax />
+      <email>matthew.anstey@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Robert McNamara</name>
+      <address>Royal Perth Hospital
+Intensive Care Unit
+Level 4, North Block
+197 Wellington Street
+Perth WA 6000
+</address>
+      <phone>+61 8 9224 2244</phone>
+      <fax />
+      <email>ramcnmr@gmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

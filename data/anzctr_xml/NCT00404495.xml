@@ -1,0 +1,274 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1384">
+  <stage>Registered</stage>
+  <submitdate>27/11/2006</submitdate>
+  <approvaldate>27/11/2006</approvaldate>
+  <nctid>NCT00404495</nctid>
+  <trial_identification>
+    <studytitle>Combination of Irinotecan and Temozolomide in Children With Brain Tumors.</studytitle>
+    <scientifictitle>Phase 2 Single-Arm, Open Label Study Of Irinotecan In Combination With Temozolomide In Children With Recurrent Or Refractory Medulloblastoma And In Children With Newly Diagnosed High-Grade Glioma.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>A5961166</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Glioma</healthcondition>
+    <healthcondition>Medulloblastoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Brain</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Brain</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Irinotecan
+Treatment: drugs - Temozolomide
+
+Experimental: Temozolomide + Irinotecan - 
+
+
+Treatment: drugs: Irinotecan
+Irinotecan 10 mg/m^2 per day on days 1-5 and days 8-12 in repeated 3 week cycles
+
+Treatment: drugs: Temozolomide
+Temozolomide 100-125 mg/m^2 daily on days 1-5 in repeated 3 week cycles
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of Participants With Objective Response of Complete Response or Partial Response - Percentage of participants with objective response based assessment of confirmed complete response (CR) or confirmed partial response (PR). CR persisted on repeat imaging study at least (=) 4 weeks after initial documentation of response. PR, for bidimensionally measurable disease, was a decrease by =50% of the sum of the products of the largest perpendicular diameters of all measurable lesions as determined by 2 observations not less than 4 weeks apart. Best overall response recorded any time while the participant was receiving treatment. External Response Review Committee (ERRC) assessment.</outcome>
+      <timepoint>Baseline to 1 Year (medulloblastoma), Baseline to 6 Weeks (high-grade glioma)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Objective Response of Complete Response or Partial Response, Investigator's Assessment - Percentage of participants with objective response based assessment of confirmed CR or confirmed PR. CR persisted on repeat imaging study =4 weeks after initial documentation of response. PR, in case of bidimensionally measurable disease, was a decrease by =50% of the sum of the products of the largest perpendicular diameters of all measurable lesions as determined by 2 observations not less than 4 weeks apart. Best overall response could be recorded any time while the participant was receiving treatment. Investigator's assessment.</outcome>
+      <timepoint>Baseline to 1 Year (medulloblastoma), Baseline to 6 Weeks (high-grade glioma)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response - Median duration (50%) of tumor response for participants with objective disease response: who have not progressed or died due to any cause; with a response and subsequent progression or death due to any cause for duration of response (DR). DR was defined as time from start of first documented objective tumor response (CR or PR) to first documented objective tumor progression or death due to any cause, whichever occurred first. DR (calculated in Weeks) = (the end date for DR minus first subsequent confirmed CR or PR plus 1) divided by 7. Investigator's assessment.</outcome>
+      <timepoint>Baseline to Date of Tumor Response (Up to 1 Year)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Treatment Failure (TTF) - TTF was defined as the time from the date of first dose of study treatment to the date of the first documentation of progressive disease (PD), the date of treatment discontinuation except completion of treatment, or date of death due to cancer. Investigator's assessment.</outcome>
+      <timepoint>Baseline to Date of Treatment Failure (Up to 1 Year)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Tumor Progression (TTP) - TTP was defined as the time in months from start of study treatment to first documentation of objective tumor progression or death due to cancer, whichever came first. TTP was calculated as (first event date minus the date of first dose of study medication plus 1) divided by 7 multiplied by 4.33. Tumor progression was determined from oncologic assessment data (where data met the criteria for PD). Investigator's assessment.</outcome>
+      <timepoint>Baseline to Date of Progression (Up to 1 Year)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - Time in months from the start of study treatment to date of death due to any cause. OS was calculated as (the death date minus the date of first dose of study medication plus 1) divided by 7 multiplied by 4.33. Death was determined from adverse event data (where outcome was death) or from follow-up contact data (where the participant current status was death). Investigator's assessment.</outcome>
+      <timepoint>Baseline to Date of Death (Up to 1 Year After Treatment)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Cohort 1: Recurrent or refractory medulloblastoma in which current standard treatment
+             approaches have failed; biopsy is not required for recurrent disease.
+
+          -  Cohort 2: Newly-diagnosed high-grade glioma (World Health Organization [WHO] grade 3
+             or 4)
+
+          -  Life expectancy = 3 months</inclusivecriteria>
+    <inclusiveminage>6</inclusiveminage>
+    <inclusiveminagetype>Months</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Diagnosis of brainstem glioma
+
+          -  Concurrent administration of any other anti-tumor therapy
+
+          -  Pre-existing uncontrolled diarrhea</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2007</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>83</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/12/2011</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Pfizer Investigational Site - Westmead</hospital>
+    <hospital>Pfizer Investigational Site - Herston</hospital>
+    <hospital>Pfizer Investigational Site - Parkville</hospital>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus N</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Koebenhavn OE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 08</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Pfizer</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will assess the rate of objective confirmed tumor response of irinotecan in
+      combination with temozolomide in children with recurrent or refractory medulloblastoma and in
+      children with newly diagnosed high-grade glioma.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00404495</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Pfizer CT.gov Call Center</name>
+      <address>Pfizer</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

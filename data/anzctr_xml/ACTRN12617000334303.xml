@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372469">
+  <stage>Registered</stage>
+  <submitdate>1/03/2017</submitdate>
+  <approvaldate>3/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000334303p</actrnumber>
+  <trial_identification>
+    <studytitle>Does application of the sepsis scoring system qSOFA and early notification to senior medical staff in a Remote Australian Emergency Department improve the outcomes of patients presenting with sepsis</studytitle>
+    <scientifictitle>Does application of the sepsis scoring system qSOFA and early notification to senior medical staff in a Remote Australian Emergency Department improve the outcomes of patients presenting with sepsis</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Introduction of a 'code sepsis' at first presentation to ED triage at Alice Springs Emergency Department.
+A triage nurse trained and experienced in the use of the Australian Triage Score and qSOFA (quick sequential organ function assessment) will assess the likelihood of an infection being present and measure the parameters in qSOFA. If the patient has a clinical suspicion of infection and scores 1 or more on qSOFA a sepsis page will alert a medical officer.
+qSOFA is a bedside clinical score calculated using physiological parameters (blood pressure, respiratory rate) and clinical assessment of conscious level to provide a risk assessment of the likelihood of having or developing severe sepsis and septic shock.
+Block quasi-randomisation will be used on a week on week off basis with group one having clinical assessment (90% centile within 10minutes) and group two a clinical assessment (90% centile within 10minutes) and point of care lactate (serum blood test performed on analyser within the Emergency Department 90% centile within 10minutes from the time of triage).
+End points measured will be antibiotic rates, time to antibiotics and validation of the sensitivity of qSOFA with and without the addition of point of care lactate in a remote and mainly Indigenous ED population
+length of stay, rates and timing of ICU admission and mortality will be reported but this study is not expected to be powered sufficiently to detect a significant difference in these parameters
+Adherence to the protocol will be monitored and updates and education as well as recruitment figures supplied to triage and medical staff at weekly education meetings</interventions>
+    <comparator>Retrospective case note review will be used to validate qSOFA in the population presenting to Alice Springs emergency department as well as compare historical times to antibiotics. Comparison will also be made with other commonly used sepsis scoring systems (SIRS, LODS) and the locally developed early warning score to be used in Remote health nurse led clinics in Central Australia; Remote Early Warning Score (REWS)
+The historical control group will be identified by case note review of patients presented with suspected sepsis between January 2016 and December 2016 inclusive.
+SIRS/LODS and REWS for the intervention group participants will be calculated from retrospective case notes review by the investigators, not calculated at the time of triage to reduce the workload burden on the triage staff</comparator>
+    <control>Historical</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time for the presentation to triage at the ED to the administration of antibiotics for patients presenting to the Alice Springs emergency department with suspected sepsis assessed by retrospective case note review</outcome>
+      <timepoint>At the time of antibiotic administration</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Proportion of participants receiving antibiotics within 1 hour post presentation to ED, compared between group one (no point of care lactate) and group two (point of care lactate), assessed by retrospective case note review</outcome>
+      <timepoint>At the time of antibiotic administration</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Validation of the qSOFA score  by calculation of sensitivity and specificity and assessed by comparison with SIRS/LODS/REWS scores for sepsis in a remote and mainly Indigenous Australian population presenting to Alice Springs Emergency Department with a clinical suspicion of sepsis</outcome>
+      <timepoint>retrospective case notes review and review of prospective cases at the time of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>length of stay in hospital assessed by retrospective case note review</outcome>
+      <timepoint>Measured at the time of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>admission rates to ICU within 48hrs of the time of triage assessed by retrospective case note review</outcome>
+      <timepoint>48hrs from the time of triage</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rates of antibiotic use in the Emergency Department at Alice Springs Hospital prior to admission to the ward or discharge assessed by retrospective case note review</outcome>
+      <timepoint>measured at the time of admission by an in-patient specialist team or discharge from the emergency department</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All non-pregnant patients over the age of 18years presenting to the Emergency Department at Alice Springs Hospital with a clinical suspicion of infection and scoring at lease 1 on the qSOFA score</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients with long term cognitive inability to give consent and those under guardianship</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>none</concealment>
+    <sequence>block randomisation on a week on, week off basis for pragmatic considerations</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>To show reduction in the time to antibiotics to below 1hr from the current median of &gt;2hrs (case note review) in the block randomised prospective component of the study at alpha of 0.05 and beta of 0.2 we require 63 patients in each group
+To show an increase of antibiotic use within 1 hour (evidence of clinician suspicion of sepsis) of 10% following a raised point of care lactate result with alpha of 0.05, beta of 0.2, q1 and 2 of 0.5 each and effect size of 0.2 we require 393 patients in each group assuming a positive lactate rate of 40% in patients with +ve qSOFA (case note review)
+ Statistical analysis of the block randomised groups to assess the change in time to antibiotics and lactate effect will be using Student's two-tailed t test
+Validation and comparison of qSOFA/SIRS?LODS REWS will use area under the receiver operating curve</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/11/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>786</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>15/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NT</recruitmentstate>
+    <hospital>Alice Springs Hospital - Alice Springs</hospital>
+    <postcode>0870 - Alice Springs</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Samuel Goodwin</primarysponsorname>
+    <primarysponsoraddress>Director of Medical and Clinical Services 
+Alice Springs Hospital
+Gap Road
+Alice Springs, NT
+0870</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Alice Springs Hospital</fundingname>
+      <fundingaddress>Alice Springs Hospital
+Gap Road
+Alice Springs, NT
+0870</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In order to validate the sepsis-3 quick Sequential Organ Dysfunction Assessment (qSOFA) score in a remote ED population and setting, it will be compared retrospectively by case note review against the Systemic Inflammatory Response Syndrome (SIRS), Remote Early Warning Score (REWS) and Medical Emergency Warning Score (MEWS) for rates of Intensive Care Unit/High Dependency Unit (ICU/HDU) admission and in-hospital mortality.
+A prospective introduction of the qSOFA score with and without point of care lactate as an early warning tool at the first point of contact with ASH ED triage and its use as an alert for early senior medical staff involvement, will attempt identify the most efficient way to shorten the time to treatment of patients with severe infections. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Australian Human Research Ethics Committee</ethicname>
+      <ethicaddress>CAHREC
+Centre for Remote Health
+cnr Simpson and Skinner Sts 
+ALICE SPRINGS
+NT 0870
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>22/03/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372469-DRAFT ethics application.docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Richard Johnson</name>
+      <address>Alice Springs Emergency Department 
+Alice Springs Hospital
+Gap Road
+NT 0870</address>
+      <phone>+61  0889517657</phone>
+      <fax />
+      <email>richard.johnson@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Richard Johnson</name>
+      <address>Alice Springs Emergency Department 
+Alice Springs Hospital
+Gap Road
+NT 0870</address>
+      <phone>+61  0889517657</phone>
+      <fax />
+      <email>richard.johnson@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Richard Johnson</name>
+      <address>Alice Springs Emergency Department 
+Alice Springs Hospital
+Gap Road
+NT 0870</address>
+      <phone>+61  0889517657</phone>
+      <fax />
+      <email>richard.johnson@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Richard Johnson</name>
+      <address>Alice Springs Emergency Department 
+Alice Springs Hospital
+Gap Road
+NT 0870</address>
+      <phone>+61  0889517657</phone>
+      <fax />
+      <email>richard.johnson@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

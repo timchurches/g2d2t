@@ -1,0 +1,210 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364992">
+  <stage>Registered</stage>
+  <submitdate>7/01/2016</submitdate>
+  <approvaldate>20/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000058471</actrnumber>
+  <trial_identification>
+    <studytitle>Serum lidocaine levels following administration of topical lidocaine during in office laryngopharyngeal procedures</studytitle>
+    <scientifictitle>Serum lidocaine levels following administration of topical lidocaine during in office laryngopharyngeal procedures</scientifictitle>
+    <utrn>U1111-1178-2040</utrn>
+    <trialacronym>nil</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>anaesthesia</healthcondition>
+    <healthcondition>lidocaine toxicity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Sampling blood for estimation of lidocaine levels after topical administration of lidocaine during awake laryngopharyngeal procedures (sampled prior to, 20 minutes, 40 minutes, 60 minutes and 90 minutes following administration).  Currently the reported range of administered lidocaine is from 220mg to 1200mg.  At our institution the average administered dose topically is 340mg.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Serum lidocaine levels</outcome>
+      <timepoint>prior to procedure, 20, 40, 60 and 90 minutes following procedures</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Lidocaine toxicity events are identified by monitoring heart rate, blood pressure and oximetry for the 90 minutes following the administration of lidocaine.  Also self report of the subjects for feelings of nausea, lightheadedness, visual disturbance or other notable adverse effects.  </outcome>
+      <timepoint>within 24 hours following procedures</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiac instability. This is monitored with pulse oximetry, heart rate and blood pressure for the 90 minutes following the administration of lidocaine</outcome>
+      <timepoint>within 90 minutes following procedures and lidocaine administration</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing awake laryngopharyngeal procedures in the office requiring topical anaesthesia
+Age &gt;18 years
+Ability to give informed consent</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age &lt;18 yrs
+Preexisting increased risk of bleeding or thrombosis
+Coagulation disorders
+Renal disease
+Hepatic disease
+Pre-exisiting cardiac conduction abnormality
+Inability to provide informed consent 
+Allergy to lidocaine</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Parametric analysis of serum lidocaine concentrations in relation to administered topical dose
+Linear regression analysis of factors influencing serum lidocaine levels
+Power calculation was performed that assumed a difference of 4mcg/ml between the true mean and the reference mean with a standard deviation of 5mcg/ml and requiring 80% power and 0.05 p value.  This suggested that sample group of 18-24 subjects would detect the true differences in means.  We felt that to account for drop out and contaminated samples (all blood samples need to be flown to Christchurch for analysis) additional subjects would be required and give robustness to the project, hence the 50 subject recruitment.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>20/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>27/02/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Auckland District Health Board</primarysponsorname>
+    <primarysponsoraddress>2 Park Rd 
+Grafton
+Auckland 1023
+New Zealand</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Auckland District Health Board</fundingname>
+      <fundingaddress>2 Park Rd
+Grafton
+Auckland 1023
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Waitemata District Health Board</othercollaboratorname>
+      <othercollaboratoraddress>Shakespeare Rd
+Takapuna
+Auckland 0740</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In office laryngeal procedures are well tolerated by most patients provided adequate local anaesthesia is achieved. For most laryngologists topical lidocaine is the agent of choice and is considered safe when used in low doses.  However the effects of lidocaine toxicity are well known.  This study will evaluate and measure the exact serum levels of lidocaine achieved by topical application of lidocaine for in-office procedures in 50 consecutive patients.  Analysis will compare real measured levels to reported safe serum levels and correlate this with side effects if present.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern X Ethics Committee</ethicname>
+      <ethicaddress>Auckland 
+New Zealand</ethicaddress>
+      <ethicapprovaldate>10/03/2016</ethicapprovaldate>
+      <hrec>16/NTB/44</hrec>
+      <ethicsubmitdate>1/02/2016</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Allen</name>
+      <address>Auckland Voice and Swallow
+PO Box 99743
+Newmarket
+Auckland 1149</address>
+      <phone>+6421897444</phone>
+      <fax>+6495222224</fax>
+      <email>jeallen@voiceandswallow.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Allen</name>
+      <address>Auckland Voice and Swallow
+PO Box 99743
+Newmarket
+Auckland 1149</address>
+      <phone>+6421897444</phone>
+      <fax>+6495222224</fax>
+      <email>jeallen@voiceandswallow.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Allen</name>
+      <address>Auckland Voice and Swallow
+PO Box 99743
+Newmarket
+Auckland 1149</address>
+      <phone>+6421897444</phone>
+      <fax />
+      <email>jeallen@voiceandswallow.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqueline Allen</name>
+      <address>Auckland Voice and Swallow
+PO Box 99743
+Newmarket
+Auckland 1149</address>
+      <phone>+6421897444</phone>
+      <fax />
+      <email>jeallen@voiceandswallow.co.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

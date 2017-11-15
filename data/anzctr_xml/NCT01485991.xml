@@ -1,0 +1,673 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3387">
+  <stage>Registered</stage>
+  <submitdate>25/11/2011</submitdate>
+  <approvaldate>25/11/2011</approvaldate>
+  <nctid>NCT01485991</nctid>
+  <trial_identification>
+    <studytitle>TMC435HPC3001 - An Efficacy, Safety and Tolerability Study for TMC435 vs Telaprevir in Combination With PegINFa-2a and Ribavirin in Chronic Hepatitis C Patients Who Were Null or Partial Responders to Prior PegINFa-2a and Ribavirin Therapy</studytitle>
+    <scientifictitle>Phase III in Partial and Null Responders</scientifictitle>
+    <utrn />
+    <trialacronym>ATTAIN</trialacronym>
+    <secondaryid>TMC435HPC3001</secondaryid>
+    <secondaryid>CR100677</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hepatitis C</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - TMC435
+Treatment: drugs - TVR
+
+Experimental: TMC435/PR - 
+
+Active Comparator: TVR/PR - 
+
+
+Treatment: drugs: TMC435
+TMC435 Type=exact number, unit=mg, number=150, form=capsule, route=oral use. TVR placebo Form=tablet, route=oral use. TMC435 capsule is taken once daily in addition to 2 TVR placebo tablets 3 times a day for 12 weeks, and peginterferon alfa-2a and ribavirin for 48 weeks.
+
+Treatment: drugs: TVR
+TVR Type=exact number, unit=mg, number=375, form=tablet, route=oral use. TMC435 placebo Form=capsule, route=oral use. 2 TVR tablets are taken 3 times a day together with 150 mg TMC435 placebo capsule once daily for 12 weeks, in addition to peginterferon alfa-2a and ribavirin for 48 weeks
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of Participants With Sustained Virologic Response 12 Weeks After the Planned End of Treatment (SVR12) - Participants are considered to have reached SVR12 if both conditions below are met: 1) HCV RNA levels less than (&lt;) 25 International unit per milliliter (IU/mL) undetectable; 2) HCV RNA levels &lt;25 IU/mL undetectable or HCV RNA levels &lt;25 IU/mL detectable.</outcome>
+      <timepoint>12 Weeks After the Planned End of Treatment (EOT: Week 48)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Sustained Virologic Response 24 Weeks After the Planned End of Treatment (SVR24) - Participants are considered to have reached SVR24 if both conditions below are met: 1) HCV RNA levels less than &lt;25 International unit per milliliter (IU/mL) undetectable (at the actual end of treatment);2) HCV RNA levels &lt;25 IU/mL undetectable or HCV RNA levels &lt;25 IU/mL detectable (24 weeks after the planned EOT).</outcome>
+      <timepoint>24 Weeks After the Planned EOT (Week 48)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Viral Relapse - Participants are considered to have a viral relapse if both conditions as specified are met: 1) &lt;25 IU/mL undetectable HCV RNA at the actual end of study drug treatment; 2) confirmed HCV RNA greater than or equal to (&gt;=) 25 IU/mL during follow-up.</outcome>
+      <timepoint>End of Treatment (Week 48) up to Follow-up Period (until Week 72)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Patient must have had a liver biopsy before screening (or between the screening and
+             baseline visit), unless patient cannot undergo such a procedure or has evidence of
+             portal hypertension not associated with cirrhosis. For patients who had a liver biopsy
+             performed more than 2 years prior to screening or without a biopsy (because of a
+             contraindication or portal hypertension), a non-invasive staging assessment needs to
+             be available. Non-invasive staging assessments include FibroScan, MR-Elastography, or
+             FibroTest/FibroSure and must not be older than 6 months prior to screening
+
+          -  Chronicity of hepatitis C virus (HCV) infection, as confirmed by one or both of the
+             following: presence of anti-HCV antibody and/or HCV ribonucleic acid (RNA) at least 6
+             months prior to the screening visit and/or presence of fibrosis on biopsy
+
+          -  Genotype 1 HCV infection with plasma HCV RNA of &gt;10,000 IU/mL (both confirmed at
+             screening)
+
+          -  Patient must have had at least 1 documented previous course of treatment with
+             PegINFa-2a or PegINFa-2b in combination with ribavirin (RBV) (at least 12 weeks for
+             null responder and 20 weeks for partial responder)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Hepatic decompensation (impaired functioning of the liver), as indicated by
+             significant laboratory abnormalities or other active diseases
+
+          -  Infection with Human Immunodeficiency Virus (HIV) or non genotype 1 hepatitis C
+
+          -  Liver disease not related to hepatitis C infection
+
+          -  Previous chronic hepatitis C treatment, other than PegIFN and RBV</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/02/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>771</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/04/2014</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Darlinghurst</hospital>
+    <hospital> - Greenslopes</hospital>
+    <hospital> - Kingswood</hospital>
+    <hospital> - Melbourne</hospital>
+    <hospital> - Parkville - Vic</hospital>
+    <hospital> - Perth</hospital>
+    <hospital> - Sydney</hospital>
+    <hospital> - Woolloongabba N/A</hospital>
+    <postcode> - Darlinghurst</postcode>
+    <postcode> - Greenslopes</postcode>
+    <postcode> - Kingswood</postcode>
+    <postcode> - Melbourne</postcode>
+    <postcode> - Parkville - Vic</postcode>
+    <postcode> - Perth</postcode>
+    <postcode> - Sydney</postcode>
+    <postcode> - Woolloongabba N/A</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Rosario, Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Haine-Saint-Paul, La Louviere</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Campinas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Ribeirão Preto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Salvador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sofia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Varna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Karlovy Vary</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Plzen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha 4</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Hvidovre N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 12</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pessac</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre Les Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kiel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Stuttgart</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Würzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Alexandroupolis</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Larissa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kaposvár</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Pecs</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szeged N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tiqva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat-Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel-Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Zefat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Fredrikstad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Nordbyhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Stavanger</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tromsø</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Kielce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Myslowice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Raciborz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisbon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>Santurce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucuresti</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Constanta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Timisoara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santander N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Malmö</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Örebro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lugano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zurich N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle Upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Plymouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Janssen R&amp;D Ireland</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to demonstrate the efficacy of TMC435 in combination with
+      peginterferon (PegIFN) + ribavirin (RBV) by means of establishing its non- inferiority
+      compared to an approved regimen of telaprevir + PegIFN + RBV in patients who have previously
+      failed PegIFN.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01485991</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Tibotec Pharmaceuticals Limited Clinical Trial</name>
+      <address>Tibotec Pharmaceutical Limited</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

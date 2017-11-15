@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363429">
+  <stage>Registered</stage>
+  <submitdate>9/01/2013</submitdate>
+  <approvaldate>1/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000124730</actrnumber>
+  <trial_identification>
+    <studytitle>Control of breathing and measurement of disease severity in premature infants with chronic lung disease</studytitle>
+    <scientifictitle>In preterm infants with bronchopulmonary dysplasia (BPD) would alterations in inspired oxygen concentrations induce changes that would allow chemoreceptor reflex activity and VQ mismatch to be measured</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Bronchopulmonary dysplasia</healthcondition>
+    <healthcondition>Prematurity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Change in concentration of inspired oxygen (FiO2). The steps are detail as follows. Stepwise reduction/increase steps in the FiO2 (of 1-2%) separated by 5 minutes will be made while maintaining the oxygen saturation within the unit's oximeter alarm limits of 88-96% for infants &gt;36 weeks PMA.  Once the lower/upper alarm limit is reached, we propose to reverse the stepwise change until the upper/lower limit is reached; so that we can determine the FiO2 limits (range setting phase) whereby the infant can maintain SpO2 within the reference range in his/her current state. 
+Then we proposed to make a discrete change in the FiO2 to the other end of the range and maintain for between 15-30 seconds and then revert to the opposite extreme.  After this, the FiO2 will be returned to its original level. The order in which the FiO2 is either increased or decreased will be randomised.
+</interventions>
+    <comparator>Infants without BPD or infants without need for oxygen or respiratory support</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patterns of breathing in response to change in oxygen concentration. This will be measured in terms of two parameters, i.e. capnography and chest/abdominal wall excursion. 
+
+In brief, capnography will be measured via Respironics NM3 sensor (Philips Healthcare, North Ryde NSW). This will be a side-stream continuous flow measurement whereby exhaled end-tidal CO2 will be measured by a capnometer.
+
+Chest and abdominal wall excursion will be measured via chest impedance (CI) or respiratory inductance plethysmography (RIP). We intend to measure chest and abdominal wall excursion utilising either chest impedance (CI) via ECG gel electrodes placed on the chest using the Agilent monitors AgilentTM (Agilent Technologies, Forest Hill VIC).  If chest wall impedance is not available, we will utilise the Respi-Band respiratory inductance plethysmography (Sensormedics, Yorba Linda CA). Specifically, we also intend to measure for thoraco-abdominal wall asynchrony, i.e phase-angle and phase relation.
+</outcome>
+      <timepoint>End of intervention (i.e. change in the concentration of inspired oxygen)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Levels of intrapulmonary shunting or ventilation-perfusion (VQ) mismatch. This will be a derived variable obtained from plotting concentration of inspired oxygen obtained from the mechanical ventilators (Babylog 8000plus or SLE5000) against oxygen saturation obtained from pulse oximeters Masimo Radical 7 (Masimo Australia Pty Ltd, French Forest NSW) on an FiO2/SpO2 graph.</outcome>
+      <timepoint>End of the intervention (i.e. change in the concentration of inspired oxygen)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in oxygen saturation (SpO2). This will be obtained from pulse oximeters, namely the Masimo Radical 7 (Masimo Australia Pty Ltd, French Forest NSW) pulse oximeter will be recorded concurrently into the Powerlab system. SpO2 averaging time will be set as per current Monash Newborn NICU usage at 8 seconds. During the study, oximetry will be recorded from the right upper limb (i.e. pre-ductal oxygen saturation). A second Masimo pulse oximeter will also record at 2 seconds averaging time (with the display concealed) from research and nursing staff.
+</outcome>
+      <timepoint>End of intervention (i.e. change in the concentration of inspired oxygen)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Periodic breathing cycle duration. This will be derived from calculations obtained from the Powelab physiological monitoring system.</outcome>
+      <timepoint>End of the study period (i.e. change in the concentration of inspired oxygen)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Measurements of the stability of the infants' respiratory control mechanism quantified by measurements called loop gain (LG) which will be derived via analysis of the data. The methods are set out in a paper by Edwards et al 2009, although in this case SpO2 will be used rather than pO2.
+
+Edwards BA, Sands SA, Feeney C, et al. Continuous positive airway pressure reduces loop gain and resolves periodic central apneas in the lambRespiratory Physiology &amp; Neurobiology 168 (2009) 239249</outcome>
+      <timepoint>End of the intervention (i.e. change in the concentration of inspired oxygen)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Preterm infants &lt; 29 weeks gestation.
+1. Healthy preterm infant (&lt;29 weeks) without BPD
+
+Infants with BPD defined as need for oxygen or respiratory support at 36 weeks completed postmenstrual age (PMA).
+
+Infants will be further subdivided into
+2. Mild BPD (no need for oxygen or respiratory support at 36 weeks PMA but need for either at 28 days of age).
+
+3. Moderate BPD - need for supplemental oxygen (&lt;30%) at 36 weeks PMA butself-ventilating
+
+4. Severe BPD - need for supplemental oxygen (&gt;30%) at 36 weeks PMA or needing respiratory support.
+
+Infants in Group 1, the healthy preterm infant will be the control group while infants in Groups 2 to 4 with mild/moderate/severe BPD will be in the intervention group</inclusivecriteria>
+    <inclusiveminage>36</inclusiveminage>
+    <inclusiveminagetype>Weeks</inclusiveminagetype>
+    <inclusivemaxage>44</inclusivemaxage>
+    <inclusivemaxagetype>Weeks</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Infants with congenital heart disease
+Infants with major congenital anomalies</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patient will be identified from the admissions list.
+Randomisation will be performed and concealed by opaque sealed envelopes.</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods />
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/02/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>24</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <postcode>3168 - Clayton</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The Ritchie Centre, Monash University</primarysponsorname>
+    <primarysponsoraddress>The Ritchie Centre
+Monash Institute of Medical Research
+246 Clayton Road
+Clayton
+VIC 3168</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The Ritchie Centre
+Monash Institute of Medical Research
+Monash University</fundingname>
+      <fundingaddress>The Ritchie Centre
+Monash Institute of Medical Research
+246 Clayton Road
+Clayton
+VIC 3168</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Financial Markets Foundation for Children</fundingname>
+      <fundingaddress>Foundation for Children
+GPO Box 3655
+Sydney 
+NSW 2000
+
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Monash Newborn
+Monash Children's</sponsorname>
+      <sponsoraddress>Monash Medical Centre
+246 Clayton Road
+Clayton
+Victoria 3168</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Apnoea of prematurity (AOP), where an infant stops breathing for more than 20seconds, is found in over half of babies born very prematurely. AOP may be accompanied by slowing of the heart rate as well as drop in the blood oxygen levels. Another form of breathing disorder called periodic breathing, is found primarily in premature infants where there is a repetitive pattern of breathing efforts alternating with pauses. Most preterm infants exhibit periodic breathing and it can continue until the infant reaches 4-6 months of age. 
+
+Apart from breathing control disorderm preterm babies are also at risk of developing bronchopulmonary dysplasia (BPD) or chronic lung disease of prematurity, where there the injured premature lung develops in an abnormal way. There is still some debate about the best way of classifying this disease with the NICHD in the United States dividing this into three levels (mild, moderate and severe) based on the need for oxygen or respiratory
+support.  
+
+Infants with BPD experience periods of low blood oxygen that may be severe, especially during sleep and these infants are thought to be at risk of sudden infant death syndrome (SIDS) or cot death. The major cause of oxygenation problems in BPD is due to the severity of the lung disease. The level of the lung disease will determine how much oxygen gets absorbed into the blood of the baby with every breath. A reliable way of determing the severity is by measuring how much the blood gets "oxygenated", i.e. the less severe the lung disease the better the oxygenation and vice versa. This measure is also called the right-to-left shunting and the ventilation: perfusion (V:Q )ratio. A nonivasive way of measuring the shunt will involve making stepwise reductions in oxygen that the baby breathes while ensuring that the oxygen level (that is constantly monitored) remains within intended range. 
+
+The aim of this study is to investigate 1) firstly breathing patterns (or disorders) and develop tools for classifying breathing patterns and 2) secondly lung disease severity (right-left shunts) and develop quantitative measures of these in preterm infants with bronchopulmonary dysplasia or chronic lung disease.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health Human Research Ethics Committee B</ethicname>
+      <ethicaddress>Monash Medical Centre
+246 Clayton Road
+Clayton
+Victoria 3168</ethicaddress>
+      <ethicapprovaldate>5/12/2012</ethicapprovaldate>
+      <hrec>12284B</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Kenneth Tan</name>
+      <address>Monash Newborn
+Monash Medical Centre
+246 Clayton Road
+Clayton
+Victoria 3168</address>
+      <phone>+61395945191</phone>
+      <fax />
+      <email>kenneth.tan@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kenneth Tan</name>
+      <address>Monash Newborn
+Monash Medical Centre
+246 Clayton Road
+Clayton
+Victoria 3168</address>
+      <phone>+61395945191</phone>
+      <fax />
+      <email>kenneth.tan@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kenneth Tan</name>
+      <address>Monash Newborn
+Monash Medical Centre
+246 Clayton Road
+Clayton
+Victoria 3168</address>
+      <phone>+61395945191</phone>
+      <fax />
+      <email>kenneth.tan@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

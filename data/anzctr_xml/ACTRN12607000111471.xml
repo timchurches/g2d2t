@@ -1,0 +1,363 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="81751">
+  <stage>Registered</stage>
+  <submitdate>22/12/2003</submitdate>
+  <approvaldate>22/12/2003</approvaldate>
+  <actrnumber>ACTRN12607000111471</actrnumber>
+  <trial_identification>
+    <studytitle>A prospective, non-randomised study of chemotherapy and radiotherapy for osteolymphoma (OL)</studytitle>
+    <scientifictitle>Trans Tasman Radiation Oncology Group (TROG) 99.04 - A prospective, non-randomised study of chemotherapy (cyclophosphamide, doxorubicin, vincristine, prednisolone) and radiotherapy for osteolymphoma (OL) to determine the outcome of optimal treatment on low grade follicular lymphoma progression.</scientifictitle>
+    <utrn />
+    <trialacronym>TROG 99.04</trialacronym>
+    <secondaryid>National Clinical Trials Registry: NCTR473</secondaryid>
+    <secondaryid>ClinicalTrials.gov: NCT00141648</secondaryid>
+    <secondaryid>The Australasian Leukaemia and Lymphoma Group: ALLG LY-02</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Osteolymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bone</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Chemotherapy
+Given Intravenously on days 1, 22, 43:
+- Cyclophosphamide 750 mg per metre squared
+- Doxorubicin 50 mg per metre squared
+- Vincristine 1.4mg per metre squared 
+Prednisolone 50 mg per metre squared. Given orally for five days on each of these occassions. ie days 1-5, 22-27 etc. 
+A total of three 21 day cycles of chemotherapy should be administered. 
+
+Radiotherapy 
+should be given 3 weeks after the last cycle of chemotherapy (day 64). 
+Fractions should be given daily - 9-10 times per fortnight. Phase I (large volume): 36Gy in 20 fractions and Phase II (small volume): 9 GY in 5 fractions to the boost volume (area of tumour that requires a boost of radiotherapy). Total dose 45 Gy in 25 fractions. Phase I and II are given over the course of one fortnight.</interventions>
+    <comparator>No comparator.</comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival.</outcome>
+      <timepoint>Main analysis when accrual is complete at approx. 10 years.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>1.Tumor progression. Defined as an increase in diameter for solitary lesions, multifocal disease or any new lesion. </outcome>
+      <timepoint>Formal assessment will be done four weeks after completion of the radiotherapy. Follow-up thereafter should consist of three-monthly appointments with repetition of individually-selected imaging at six months. After 18 months, follow-up will reduce to six-monthly without imaging, and from five years, annual follow-up without imaging until death. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>2. Pathological fracture rate. Presence of a pathological fracture. </outcome>
+      <timepoint>Formal assessment will be done four weeks after completion of the radiotherapy. Follow-up thereafter should consist of three-monthly appointments with repetition of individually-selected imaging at six months. After 18 months, follow-up will reduce to six-monthly without imaging, and from five years, annual follow-up without imaging until death.  </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>3. Toxicity.</outcome>
+      <timepoint>Formal assessment will be done four weeks after completion of the radiotherapy. Follow-up thereafter should consist of three-monthly appointments with repetition of individually-selected imaging at six months. After 18 months, follow-up will reduce to six-monthly without imaging, and from five years, annual follow-up without imaging until death.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Histologically confirmed non-Hodgkins lymphoma in a bony site - Limited extraosseous disease - Ann Arbor stage IE Age &gt;17- ECOG performance status &gt;3 - Expected survival &gt; 6 months - Written informed consent</inclusivecriteria>
+    <inclusiveminage>17</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Previous radiotherapy or chemotherapy- Previous malignancy - Medically unfit to undergo treatment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/09/2000</anticipatedstartdate>
+    <actualstartdate>15/09/2000</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>28/02/2007</actualenddate>
+    <samplesize>70</samplesize>
+    <actualsamplesize>32</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Westmead Private Hospital - Westmead</hospital>
+    <hospital>Wollongong Hospital - Wollongong</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Peter MacCallum Cancer Institute - East Melbourne</hospital>
+    <hospital>Mater Adult Hospital - South Brisbane</hospital>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>David Christie</primarysponsorname>
+    <primarysponsoraddress>East Coast Cancer Centre Inland Drive, Tugun QLD 4224</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Wesley Research Institute</fundingname>
+      <fundingaddress>Level B2, Moorlands Wing
+The Wesley Hospital
+451 Coronation Drive
+Auchenflower 
+Qld 4066</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>Trans Tasman Radiation Oncology Group (TROG)</sponsorname>
+      <sponsoraddress>Edith St Waratah NSW 2298</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>The Australasian Leukaemia and Lymphoma Group (ALLG)</sponsorname>
+      <sponsoraddress>Peter MacCallum Cancer Centre
+St Andrew's Place
+East Melbourne
+Victoria 3002</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Osteolymphoma is a cancer of the bone marrow that responds well to radiation therapy and chemotherapy but may come back in other parts of the body.  This trial will determine the results of combining radiation therapy and chemotherapy in a standardised way.</summary>
+    <trialwebsite />
+    <publication> Christie DR, Gabriel GS and Dear K. Adverse effects of a multicentre system for ethics approval on the progress of a prospective multicentre trial of cancer treatment: how many patients die waiting? J Intern Med. 2007; 37: 680-686. 
+
+ Christie D, Le T, Watling K, Cornes D, OBrien P, Hitchins R. Quality assurance audit: A prospective non-randomised trial of chemotherapy and radiotherapy for osteolymphoma (TROG 99.04/ALLG LY02). J Med Imag Radiat Oncol. 2009; 53 (2): 203206. 
+
+ Christie D, Dear K, Le T, Barton M, Wirth A, Porter D, Roos D, Pratt G. Limited Chemotherapy and Shrinking Field radiotherapy for Osteolymphoma (primary bone lymphoma): Results from the Trans Tasman radiation Oncology Group 99.04 and Australasian Leukemia and Lymphoma Group LY02 Prospective Trial. Int J Radiat Oncol Biol Phys. 2011; 80 (4):1164-1170. </publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Auckland Hospital</ethicname>
+      <ethicaddress>Auckland, NZ</ethicaddress>
+      <ethicapprovaldate>1/01/2001</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Geelong Hospital</ethicname>
+      <ethicaddress>Geelong, VIC</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>John Flynn Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Launceston Hospital</ethicname>
+      <ethicaddress>Lanuceston, TAS</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Liverpool Hospital</ethicname>
+      <ethicaddress>Liverpool, NSW</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Calvary Mater Newcastle</ethicname>
+      <ethicaddress>Waratah, NSW</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Princess Alexandra Hospital</ethicname>
+      <ethicaddress>Wooloongabba, QLD</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Palmerston North</ethicname>
+      <ethicaddress>Papaioea, Manawatu-Wanganui, NZ</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Peter MacCallum Cancer Centre</ethicname>
+      <ethicaddress>Melbourne, VIC</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Mater Centre, QRI</ethicname>
+      <ethicaddress>South Brisbane, QLD</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Adelaide Hospital</ethicname>
+      <ethicaddress>Aelaide, SA</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Brisbane Hospital</ethicname>
+      <ethicaddress>Brisbane, QLD</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Hobart Hospital</ethicname>
+      <ethicaddress>Hobart, TAS</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Prince Alfred Hospital</ethicname>
+      <ethicaddress>Camperdown, NSW</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Hospital</ethicname>
+      <ethicaddress>Nedlands, WA</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Townsville Hospital</ethicname>
+      <ethicaddress>Townsville, QLD</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Waikato Hospital</ethicname>
+      <ethicaddress>Hamilton, NZ</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Westmead Hospital</ethicname>
+      <ethicaddress>Wentworthville, NSW</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Premion - Wesley</ethicname>
+      <ethicaddress>Auchenflower, QLD</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Wollongong Hospital</ethicname>
+      <ethicaddress>Wollongong, NSW</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>David Christie</name>
+      <address>East Coast Cancer Centre
+Inland Drive, Tugun QLD 4224</address>
+      <phone>+61 7 5598 0366</phone>
+      <fax>+61 7 5598 0377</fax>
+      <email>dchristie@wesley.com.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Thai Le</name>
+      <address>The Wesley Radiation Oncology Pty Ltd
+Suite 1
+40 Chasely Street
+Auchenflower QLD 4066</address>
+      <phone>+61 7 3326 9505</phone>
+      <fax>+61 7 3326 9506</fax>
+      <email>Thaile@wesley.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>TROG Administrator</name>
+      <address>Department of Radiation Oncology Locked Bag 7 Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 4014 3910  </phone>
+      <fax>+61 2 4014 3902</fax>
+      <email>administrator@trog.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Christie</name>
+      <address>East Coast Cancer Centre Inland Drive, Tugun QLD 4224  </address>
+      <phone>+61 2 4014 3912  </phone>
+      <fax />
+      <email>dchristie@wesley.com.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

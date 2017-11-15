@@ -1,0 +1,236 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367941">
+  <stage>Registered</stage>
+  <submitdate>10/02/2015</submitdate>
+  <approvaldate>9/02/2016</approvaldate>
+  <actrnumber>ACTRN12616000155493</actrnumber>
+  <trial_identification>
+    <studytitle>effect of lung recruitment after cardiac surgery of morbidly obese patients.</studytitle>
+    <scientifictitle>Respiratory failure after cardiac surgery of morbidly obese patients: effect of lung recruitment maneuvers after weaning from mechanical ventilation in intensive care unit.</scientifictitle>
+    <utrn>U1111-1167-1063 </utrn>
+    <trialacronym>MRRea</trialacronym>
+    <secondaryid>P14-37815005</secondaryid>
+    <secondaryid>ANSM (health authority) ID-RCB-2014-A01558-39</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>acute respiratory failure</healthcondition>
+    <healthcondition>obesity</healthcondition>
+    <healthcondition>cardiac surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Lung atelectasis is frequently observed after open heart surgery. It may lead to hypoxemia, increased shunt fraction, and pulmonary complications in the postoperative period. Also during general anesthesia, as well as during the immediate postoperative period, obese patient are more likely than non obese patients to develop atelectasis.
+After cardiac surgery, patients are transfered in intensive care unit. Patients are ventilated with volume controlled ventilation by MAQUET Servo i respirator which consisted of a tidal volume of 6-8 ml/kg and a positive end-expiratory pressure (PEEP) is applied at 5 cmH2O. PEEP is a pressure who is maintained within the airways during expiration at each expiratory cycle. It can be titrated from 0 to 20 cmH2O.  This mechanical ventilation setting prevents the alveolar collapse formation at the end of expiration. The positive expiratory pressure also increases the time during which the gas exchange between alveolus and capillary occur. Sustainable maintenance of alveolar opening prevents the atelectasis formation. 
+Also, in cardiac surgery and morbidly obese patients, recruitment maneuvers improves oxygenation. 
+The main objective of the study is to evaluate the effect of maneuver recruitment and increasing PEEP on the incidence of respiratory distress after weaning from mechanical ventilation in obese patients after cardiac surgery. 
+We chose to carry out the recruitment maneuver using pressure controlled ventilation (i MAQUET Servo ventilator) with inspiratory pressure at 30 cmH2O and PEEP at 15 cmH2O during 4 minutes
+In the hour following admission to intensive care, patients are randomized into 3 groups: 
+1/lack of recruitment maneuver and maintaining the initial ventilation (control group)
+2/recruitment maneuver (RM) is applied  with controlled pressure ventilation for 4 minutes then recovery to the initial ventilation. 5 cmH2O PEEP is continued during the mechanical ventilation with volume controlled ventilation after RM.
+3/ recruitment maneuver is applied with controlled pressure ventilation for 4 minutes then recovery to the initial ventilation. 10 cmH2O is continued during the mechanical ventilation with volume controlled ventilation after RM.
+
+recruitment maneuver is carried out immediatly after randomisation.</interventions>
+    <comparator> no recruitment maneuver usual ventilation PEEP 5 (control group).
+PEEP is a pressure administered as a continuous manner each exhalation cycle by MAQUET Servo i respirator. It is set at 5 cm H2O .</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome> use of non- invasive ventilation at 48  hours post-extubation
+</outcome>
+      <timepoint>at 48 hours post extubation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome> the duration of mechanical ventilation is assessed by review of hospital records</outcome>
+      <timepoint>discharge from intensive care
+ </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PaO2 / FiO2 ratio before and after the recruitment maneuver achievement during mechanical ventilation, and 6 and 12 hours postextubation. Every patient has a blood gas during mechanical ventilation and post extubation.</outcome>
+      <timepoint>PaO2 / FiO2 ratio:
+-before and after the recruitment maneuver achievement during mechanical ventilation
+ -6 hours postextubation
+ -12 hours postextubation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the occurrence of infectious pneumonia,  diagnosed by bronchoalveolar lavage if  presence of a new and persistant radiographic infiltrate accompanied with purulent secretions, fever&gt; 38.3 degrees celsius, or leukocytosis count &gt; 10^9/L</outcome>
+      <timepoint>discharge from intensive care</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the occurrence of atelectasis by radiography</outcome>
+      <timepoint>the occurrence of atelectasis by radiography at 24 and 48 hours post surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the length of stay in ICU by review hospital records</outcome>
+      <timepoint>duration of ICU stay</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>the occurrence of kidney failure as defined by the RIFLE's score:
+creatinine levels multiplied by 2 and diuresis less than 0.5ml/kg/hours at 12 hours</outcome>
+      <timepoint>discharge from intensive care</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Morbidly obese patients with BMI&gt;30 after cardiac surgery requiring mechanical ventilation in intensive care unit.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Hemodynamic instability, 
+PAM &lt; 40 mmHg or PAS 20% decrease during recruitment maneuver
+oxygen saturation &lt; 85% during recruitment maneuver
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>22/02/2016</anticipatedstartdate>
+    <actualstartdate>31/12/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>192</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Plessis Robinson/Ile de France</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Centre Chirurgical Marie Lannelongue</primarysponsorname>
+    <primarysponsoraddress>133, avenue de la Resistance
+92350 Le Plessis Robinson</primarysponsoraddress>
+    <primarysponsorcountry>France</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Centre Chirurgical Marie Lannelongue</fundingname>
+      <fundingaddress>133, avenue de la Resistance
+92350 Le Plessis Robinson</fundingaddress>
+      <fundingcountry>France</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Obesity constantly increases in industrialized countries and is an independent risk factor for morbidity and mortality. After general anesthesia, particularly in patients with a BMI&gt; 30, the occurrence of atelectasis, secondary to decreased lung compliance, vital capacity, increases the risk of acute respiratory failure (ARF).
+After a cardiac surgery, using extracorporeal circulation, the use of mammary arteries, phrenic nerve injury, pain, tracheal aspirations are additional risk factors to the occurrence of atelectasis and hypoxemia.
+The use of positive end-expiratory pressure (PEEP) and recruitment maneuvers (RM) during mechanical ventilation are different methods used routinely in anesthesia and intensive care unit to reverse the hypoxemia caused by atelectasis.
+No randomized study has evaluated after cardiac surgery in patients with BMI &gt; 30, the benefit of RM associated with PEEP on lowering occurrence of respiratory failure and the use of non- ventilation invasive, after weaning from mechanical ventilation.
+The main objective of the study is to evaluate the effect of maneuver recruitment and increasing PEEP on the incidence of respiratory distress syndrome after weaning from mechanical ventilation in obese patients after cardiac surgery. 
+
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comite de protection des personnes</ethicname>
+      <ethicaddress>CHU Bicctre
+78, rue du General Leclerc
+94275 Le Kremlin Bicetre</ethicaddress>
+      <ethicapprovaldate>10/12/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>16/10/2014</ethicsubmitdate>
+      <ethiccountry>France</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Priscilla AMARU</name>
+      <address>Service de reanimation adulte (ICU)
+Centre chirurgical Marie Lannelongue
+133, avenue de la resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 (0) 1 40 94 86 37 </phone>
+      <fax>+33(0) 1 40 94 25 61</fax>
+      <email>p.amaru@ccml.fr</email>
+      <country>France</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>TRAORE AMINATA</name>
+      <address>Project Mnanager, PhD Clinical Research Unit Centre chirurgical Marie Lannelongue 133, avenue de la resistance 92350 Le Plessis Robinson</address>
+      <phone>+33 (0) 1 40 94 86 64</phone>
+      <fax>+33(0) 1 40 94 25 61</fax>
+      <email>a.traore@ccml.fr</email>
+      <country>France</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Priscilla AMARU</name>
+      <address>intensive care physician MD
+intensive care unit
+Centre chirurgical Marie Lannelongue
+133, avenue de la resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 (0) 1 40 94 86 37 </phone>
+      <fax>+33(0) 1 40 94 25 61</fax>
+      <email>p.amaru@ccml.fr</email>
+      <country>France</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>TRAORE AMINATA</name>
+      <address>Project Manager, PhD Clinical Research Unit Centre chirurgical Marie Lannelongue 133, avenue de la resistance 92350 Le Plessis Robinson</address>
+      <phone>+33 (0) 1 40 94 25 96</phone>
+      <fax>+33(0) 1 40 94 25 61</fax>
+      <email>a.traore@ccml.fr</email>
+      <country>France</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

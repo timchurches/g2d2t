@@ -1,0 +1,288 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372976">
+  <stage>Registered</stage>
+  <submitdate>28/05/2017</submitdate>
+  <approvaldate>6/06/2017</approvaldate>
+  <actrnumber>ACTRN12617000827336</actrnumber>
+  <trial_identification>
+    <studytitle>The RMH Pro-Diab Perioperative Study: a new structured diabetes medication management plan to improve diabetes care in patients undergoing planned surgical procedures.</studytitle>
+    <scientifictitle>The RMH Pro-Diab Perioperative Study: investigating the effect of a structured perioperative diabetes management plan on appropriate medication usage
+</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A new structured perioperative diabetes management plan (PDMP)
+
+A single double-sided A4 sheet. 
+
+The front page outlines the details of the surgery, a brief summary of the patient's diabetes history, and the regular diabetes medications taken by the patient at the time of the preadmission clinic appointment. It also includes the plan for any changes to these regular medications prior to the surgical procedure, including instructions regarding changes prior to the day of the surgery, on the day of surgery, and in the post-procedure recovery period. Instructions regarding glucose monitoring and dextrose use are also outlined on the front page of this plan. 
+
+The back page has the details of the recommendations for changes to the various diabetes medications in the perioperative setting. It divides these medications into insulin and non-insulin groups and provides recommendations according to the likely time of procedure (AM vs PM). It also provides details of blood glucose values to be aimed at achieving and maintaining, and methods of correcting any abnormalities in blood glucose levels. 
+
+This PDMP is to be filled out by a doctor, either a Hospital Medical Officer or Anaesthetist, during an appointment at the Preadmission Clinic, which occurs prior to the day of surgery. The relevant details of the PDMP are communicated to the patient during their appointment at the Preadmission Clinic, but the method of communicating this information is left at the discretion of the doctor (photocopy of the plan given to patient, verbal communication, details written on separate document and given to patient). The PDMP itself is kept with the other appointment documents, to be used during the admission. </interventions>
+    <comparator>The patient population that attended the Level 3East Preadmission Clinic at the Royal Melbourne Hospital between the dates of 1st February 2016 and 31st May 2016 were used as the pre-intervention group. These patients did not have the PDMP in their preadmission clinic pack. Therefore, there was no specific guidance in terms of appropriate diabetes medication use in the perioperative setting. Whether there was appropriate recommendation, prescription, and administration of diabetes medications was all dependent on the clinicians at the preadmission clinic.  Communication of this information to the patient was also dependent on the clinicians. </comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Appropriate medication usage - the correct recommendation, prescription, and administration of medications used to treat Diabetes in the perioperative setting according to the PDMP
+
+Definition of optimal medication usage:
+-Non-insulin diabetes medications withheld on the day of surgery according to the PDMP
+-Insulin medications:
+ -Basal insulin recommended, prescribed, and administered according to the PDMP
+ -Prandial insulin dose withheld or altered according to the PDMP
+ -Premixed insulin used or substituted according to the PDMP</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcome: Hypoglycaemic event (BGL&lt;4mmol/L) - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcome: Hyperglycaemic event (BGL&gt;15mmol/L) - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcome: Acute Kidney Failure - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcome: Urinary tract infection - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcome: Hospital acquired pneumonia - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Appropriate blood glucose monitoring prior to surgery (2-hourly) - review of medical records</outcome>
+      <timepoint>Every 2 hours from admission on day of surgery to the start of the procedure </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Appropriate blood glucose monitoring after surgery at the post-anaesthesia care unit (hourly) - review of medical records</outcome>
+      <timepoint>Every hour for the duration of admission to the post-anaesthesia care unit until discharge from the post-anaesthesia care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Population blood glucose level (all measures during admission) - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient-day weighted mean glucose - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse glycaemic days - proportion of patient-days with unstable glucose levels (defined as BGL &lt; 4.0mmol/L or &gt; 15mmol/L) - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient-weighted mean glucose level in the preoperative period (admission area) - review of medical records</outcome>
+      <timepoint>From admission on day of surgery to surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient-weighted mean glucose level in the post-anaesthesia care unit (recovery area) - review of medical records</outcome>
+      <timepoint>For duration of stay in the post-anaesthesia care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>First admission glucose - review of medical records</outcome>
+      <timepoint>From admission on day of surgery to surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient-weighted perioperative glucose (including pre-operative, intra-operative, and post-operative measures) - review of medical records</outcome>
+      <timepoint>From admission on day of surgery until discharge from the post anaesthesia care unit (recovery area)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall patient mortality - review of medical records</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Readmission back to hospital - review of medical records</outcome>
+      <timepoint>From time of discharge until 2 weeks post-discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Appropriate IV fluid use in the preoperative period according to the PDMP - review of medical records</outcome>
+      <timepoint>From admission on the day of surgery until the surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Appropriate IV fluid use in the postoperative period according to the PDMP - review of medical records</outcome>
+      <timepoint>From admission to the post anaesthesia care unit (recovery area) until discharge from the post anaesthesia care unit</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with known diabetes that attended an appointment at the Preadmission Clinic 3East at the Royal Melbourne Hospital. 
+Elective surgery
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients who were diet controlled.
+Patients who did not have a medication chart completed - unable to determine if medications were appropriately prescribed and administered.
+Patients with incomplete documentation on the electronic medical record. 
+Patients who underwent emergency surgery.
+Patients who underwent cardiac surgery - seen in a separate clinic and subject to different guidelines</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>This is a pilot proof of principle study, therefore no power calculations are required.
+Data will be presented as median and interquartile ranges or mean and standard deviation as appropriate. 
+The Mann-Whitney U-test or Kruskal-Wallis test will be applied for unpaired data analyses and the Wilcoxon-test for paired data.
+All normally distributed data will be presented as mean +/- SE and parametric tests applied. 
+Chi square test will be used to test for differences in the proportions of the responses to the applied tests between the subject groups. 
+Statistical significance will be assigned at the P&lt;0.05. 
+If preliminary data derived from this study confirm a positive effect of the intervention on diabetes medication handling, then these data will be used to design a larger cluster randomised controlled clinical trial across multiple hospitals.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>3/04/2017</actualstartdate>
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>240</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/07/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <postcode>3050 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Melbourne Hospital - City Campus</primarysponsorname>
+    <primarysponsoraddress>Department of Diabetes and Endocrinology
+Level 4 West
+300 Grattan Street
+Parkville Victoria 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Melbourne Hospital - City Campus</fundingname>
+      <fundingaddress>300 Grattan Street, Parkville, Victoria 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background: The perioperative management of inpatients with diabetes is complex given carbohydrate intake and diabetes medication administration is altered. Suboptimal glycaemia in the perioperative period is well documented in the literature and is associated with increased morbidity and mortality. 
+
+Aim: This study has been undertaken to determine the effect of a structured perioperative diabetes management plan (PDMP) on the appropriate recommendation, prescription, and administration of diabetes medications in the perioperative setting. 
+
+A multidisciplinary team developed a novel structured PDMP endorsed by the Departments of Diabetes &amp; Endocrinology and Pain &amp; Anaesthesia. This observational study consisted of pre- and post-intervention periods, where pre-intervention care for perioperative diabetes management (non-structured) was audited for 4 months in 2016 and then re-audited for 4 months  post-intervention in 2017 (structured plan). The primary outcome measure was documentation of appropriate recommendation, prescription and administration of diabetes medications in the perioperative setting according to the PDMP. Secondary outcome measures included glucose monitoring practice and glycaemic measures. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health , Human Research Ethics Committee</ethicname>
+      <ethicaddress>PO Box 
+Royal Melbourne Hospital
+Parkville
+Victoria 3050</ethicaddress>
+      <ethicapprovaldate>3/04/2017</ethicapprovaldate>
+      <hrec>2017.039</hrec>
+      <ethicsubmitdate>31/01/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Spiros Fourlanos</name>
+      <address>Department of Diabetes and Endocrinology
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+613 93427365</phone>
+      <fax />
+      <email>Spiros.Fourlanos@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Qi Yang Damien Qi</name>
+      <address>Royal Melbourne Hospital Clinical School
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+61 415 570 979</phone>
+      <fax />
+      <email>Damien.Qi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Qi Yang Damien Qi</name>
+      <address>Royal Melbourne Hospital Clinical School
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+61 415 570 979</phone>
+      <fax />
+      <email>Damien.Qi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Qi Yang Damien Qi</name>
+      <address>Royal Melbourne Hospital Clinical School
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+61 415 570 979</phone>
+      <fax />
+      <email>Damien.Qi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

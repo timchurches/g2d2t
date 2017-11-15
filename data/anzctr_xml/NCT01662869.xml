@@ -1,0 +1,665 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3614">
+  <stage>Registered</stage>
+  <submitdate>8/08/2012</submitdate>
+  <approvaldate>8/08/2012</approvaldate>
+  <nctid>NCT01662869</nctid>
+  <trial_identification>
+    <studytitle>A Study of Onartuzumab in Combination With mFOLFOX6 in Participants With Metastatic HER2-Negative and MET-Positive Gastroesophageal Cancer</studytitle>
+    <scientifictitle>A Randomized, Phase III, Multicenter, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Onartuzumab (MetMAb) in Combination With 5-Fluorouracil, Folinic Acid, and Oxaliplatin (mFOLFOX6) in Patients With Metastatic HER2-Negative, MET-Positive Gastroesophageal Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2012-001402-23</secondaryid>
+    <secondaryid>YO28322</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Gastric Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Stomach</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - 5-Fluoruracil
+Treatment: drugs - Folinic acid
+Treatment: drugs - Onartuzumab
+Treatment: drugs - Oxaliplatin
+Treatment: drugs - Placebo
+
+Experimental: Onartuzumab+mFOLFOX6 - Participants will receive onartuzumab 10 milligrams per kilogram (mg/kg) intravenous (IV) infusion + mFOLFOX6 (oxaliplatin, folinic acid, and 5-fluoruracil) regimen. Participants will receive a maximum of 12 cycles (each cycle is 14 days) of mFOLFOX6 with onartuzumab. Participants whose disease has not progressed after 12 cycles of mFOLFOX6 with onartuzumab will continue treatment with onartuzumab until disease progression, unacceptable toxicity, or death.
+
+Placebo Comparator: Placebo+mFOLFOX6 - Participants will receive onartuzumab matching placebo + mFOLFOX6. Participants will receive a maximum of 12 cycles (each cycle is 14 days) of mFOLFOX6 with placebo. Participants whose disease has not progressed after 12 cycles of mFOLFOX6 with placebo will continue treatment with placebo until disease progression, unacceptable toxicity, or death.
+
+
+Treatment: drugs: 5-Fluoruracil
+Participants will receive 5-fluorouracil 400 milligrams per square meter (mg/m^2) IV bolus and then 2400 mg/m^2 as a continuous IV infusion over 46-48 hours on Day 1 of every cycle until disease progression or at the maximum of 12 cycles, whichever occurs first.
+
+Treatment: drugs: Folinic acid
+Participants will receive folinic acid 400 mg/m^2 IV infusion over 2 hours on Day 1 of every cycle until disease progression or at the maximum of 12 cycles, whichever occurs first.
+
+Treatment: drugs: Onartuzumab
+Participants will receive onartuzumab 10 mg/kg IV infusion on Day 1 of every cycle (each cycle = 14 days) until disease progression, unacceptable toxicity, or participant or physician decision to discontinue treatment.
+
+Treatment: drugs: Oxaliplatin
+Participants will receive oxaliplatin 85 mg/m^2 IV infusion over 2 hours on Day 1 of every cycle until disease progression or at the maximum of 12 cycles, whichever occurs first.
+
+Treatment: drugs: Placebo
+Participants will receive onartuzumab matching placebo on Day 1 of every cycle (each cycle = 14 days) until disease progression, unacceptable toxicity, or participant or physician decision to discontinue treatment.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall survival (OS) in the MET Immunohistochemistry (IHC) 2+/3+ Participant Subgroup</outcome>
+      <timepoint>Baseline until death (up to approximately 38 months overall)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>OS in the Intent-To-Treat (ITT) Population</outcome>
+      <timepoint>Baseline until death (up to approximately 38 months overall)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response, as Assessed by Investigator Using RECIST v1.1</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (assessed every 6 weeks for 12 months and thereafter every 12 weeks up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with a Tumor Response of CR or PR or Stable Disease (SD, Maintained for At Least 6 Months) as Determined by the Investigator Using RECIST v1.1</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (assessed every 6 weeks for 12 months and thereafter every 12 weeks up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with Adverse Events</outcome>
+      <timepoint>Baseline up to approximately 38 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with Anti-Therapeutic Antibodies (ATAs) of Onartuzumab</outcome>
+      <timepoint>Pre-dose (within 1 hour before infusion start) on Day 1 of Cycles 1 and 4, (cycle length = 14 days), at study drug discontinuation visit (up to 38 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from Baseline in ATAs Level of Onartuzumab</outcome>
+      <timepoint>Baseline (pre-dose [within 1 hour before infusion start] on Cycle 1 Day 1), pre-dose on Cycle 4 Day 1 (cycle length = 14 days), at study drug discontinuation visit (up to 38 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimum Serum Concentration of Onartuzumab (Cmin)</outcome>
+      <timepoint>Pre-dose (within 1 hour before infusion start) on Day 1 of Cycles 1, 2 and 4, 30 minutes after end of infusion (duration of infusion = 60 minutes) on Cycle 1 Day 1 (cycle length = 14 days), at study drug discontinuation visit (up to 38 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Serum Concentration (Cmax) of Onartuzumab</outcome>
+      <timepoint>Pre-dose (within 1 hour before infusion start) on Day 1 of Cycles 1, 2 and 4, 30 minutes after end of infusion (duration of infusion = 60 minutes) on Cycle 1 Day 1 (cycle length = 14 days), at study drug discontinuation visit (up to 38 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS), as Assessed by Investigator Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) in MET IHC 2+/3+ Participant Subgroup</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PFS, as Assessed by Investigator Using RECIST v1.1 in ITT Population</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (assessed every 6 weeks for 12 months and thereafter every 12 weeks up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with a Tumor Response of Complete Response (CR) or Partial Response (PR) as Determined by the Investigator Using RECIST v1.1 in MET IHC 2+/3+ Participant Subgroup</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (assessed every 6 weeks for 12 months and thereafter every 12 weeks up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with a Tumor Response of CR or PR as Determined by the Investigator Using RECIST v1.1 in ITT Population</outcome>
+      <timepoint>Baseline up to disease progression or death due to any cause, whichever occurs first (assessed every 6 weeks for 12 months and thereafter every 12 weeks up to approximately 38 months overall)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Organization for Research and Treatment Cancer Quality of Life Questionnaire (EORTC QLQ) Core 30 (EORTC QLQ-C30) Score</outcome>
+      <timepoint>Day 1 of each treatment cycle (cycle length = 14 days) up to approximately 38 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>EORTC QLQ-Gastric cancer Specific Quality of Life Questionnaire (EORTC QLQ-STOC22) Score</outcome>
+      <timepoint>Day 1 of each treatment cycle (cycle length = 14 days) up to approximately 38 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Quality of Life-5 Dimensions (EQ-5D) Questionnaire Score</outcome>
+      <timepoint>Day 1 of each treatment cycle (cycle length = 14 days) up to approximately 38 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Adenocarcinoma of the stomach or gastroesophageal junction with inoperable, metastatic
+             disease, not amenable to curative therapy
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+
+          -  Life expectancy greater than (&gt;) 3 months
+
+          -  Presence of tissue sample for IHC assay of MET receptor and HER2 status
+
+          -  Tumor (primary or metastatic lesion) defined as MET-positive by IHC
+
+          -  Measurable disease or non-measurable but evaluable disease, according to the RECIST
+             v1.1; Participants with peritoneal disease would generally be regarded as having
+             evaluable disease and allowed to enter the trial
+
+          -  For women who are not postmenopausal or surgically sterile; agreement to use an
+             adequate method of contraception (hormonal implant) during the treatment period and
+             for at least 90 days after the last dose of onartuzumab/placebo and 6 months after the
+             last dose of oxaliplatin
+
+          -  For men: agreement to use a barrier method of contraception during the treatment
+             period and for 90 days after the last dose of onartuzumab/placebo and 6 months after
+             the last dose of oxaliplatin</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  HER2-positive tumor (primary tumor or metastasis)
+
+          -  Previous chemotherapy for locally advanced or metastatic gastric carcinoma (adjuvant
+             or neoadjuvant chemotherapy must be completed at least 6 months prior to
+             randomization)
+
+          -  Prior treatment with investigational drugs that target the human growth factor (HGF)
+             or MET pathway
+
+          -  History of another malignancy within the previous 5 years, except for appropriately
+             treated and presumed cured carcinoma in situ of the cervix, non-melanoma skin
+             carcinoma, Stage 1 uterine cancer, and localized prostate cancer
+
+          -  Pregnancy or lactation
+
+          -  Receipt of an investigational drug within 28 days prior to study start
+
+          -  Clinically significant gastrointestinal abnormalities, apart from gastric cancer,
+             including uncontrolled inflammatory gastrointestinal diseases
+
+          -  Significant history of cardiac disease
+
+          -  Significant vascular disease
+
+          -  Serious active infection at the time of randomization, or other serious underlying
+             medical conditions that would impair the ability of the participant to receive
+             protocol treatment
+
+          -  Infection with human immunodeficiency virus, hepatitis B, or hepatitis C
+
+          -  Radiotherapy within 4 weeks before start of study treatment
+
+          -  Major surgery within 4 weeks before start of study treatment, without complete
+             recovery
+
+          -  Any condition (psychological, geographical) that does not permit compliance with study
+             and follow-up procedures
+
+          -  Peripheral neuropathy
+
+          -  Prior unanticipated severe reaction to fluoropyrimidine therapy
+
+          -  Known sensitivity or contraindication to any component of study treatment
+
+          -  Active gastrointestinal bleeding</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>564</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/12/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC,WA</recruitmentstate>
+    <hospital> - Port Macquarie</hospital>
+    <hospital> - Sydney</hospital>
+    <hospital> - Herston</hospital>
+    <hospital> - Box Hill</hospital>
+    <hospital> - East Bentleigh</hospital>
+    <hospital> - Nedlands</hospital>
+    <postcode>2444 - Port Macquarie</postcode>
+    <postcode>2139 - Sydney</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>VIC 3165 - East Bentleigh</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Rhode Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brugge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Sint-Niklaas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besancon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clichy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>St Herblain</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bochum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ludwigsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Marburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Guatemala</country>
+      <state>Guatemala</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Calabria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Friuli-Venezia Giulia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lombardia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Piemonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Kuala Lumpur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Sabah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Aguascalientes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Oaxaca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Panama</country>
+      <state>Panama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Rybnik</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ivanovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Tula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cantabria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Zaragoza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Luzern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zürich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Changhua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohisung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Chiang Rai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Hat Yai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Lopburi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Antalya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Edirne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Erzurum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Malatya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Samsun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Sihhiye, ANKARA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bristol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cardiff</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Genentech, Inc.</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This randomized, multicenter, double-blind, placebo-controlled study will evaluate the
+      efficacy and safety of onartuzumab (MetMAb) in combination with 5-fluorouracil, folinic Acid,
+      and oxaliplatin (mFOLFOX6) in participants with metastatic human epidermal growth receptor
+      (HER) 2-negative and MET-positive adenocarcinoma of the stomach or gastroesophageal junction.
+      Participants will be randomized in a 1:1 ratio to receive either onartuzumab or placebo in
+      combination with mFOLFOX6. Participants may continue to receive onartuzumab or placebo until
+      disease progression, unacceptable toxicity, participant or physician decision to discontinue
+      treatment.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01662869</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

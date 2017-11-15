@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370993">
+  <stage>Registered</stage>
+  <submitdate>29/06/2016</submitdate>
+  <approvaldate>6/07/2016</approvaldate>
+  <actrnumber>ACTRN12616000890437p</actrnumber>
+  <trial_identification>
+    <studytitle>A trial on same day discharge after drainage of abscesses</studytitle>
+    <scientifictitle>A Randomised Clinical Trial on Same Day Discharge post Drainage of Abscess</scientifictitle>
+    <utrn />
+    <trialacronym>SDDDA</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>abscess</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention arm: Same day discharge following Drainage of Abscess
+
+*Pre-operative: Same as the standardised discharge patients. In addition, the Acute Care at Home service will be notified for discharge planning. The Duty Anaesthetist and theatre coordinator will be notified that the patient will be for same day discharge. The procedure will be scheduled with priority for same day discharge.
+*Intra-operative: Same as the standardised discharge patients.
+*Post-operative: The patient will be discharged home from recovery, with an admission to the Acute Care at Home service. The admission will be completed on the next day and community wound care will be arranged during the admission.
+</interventions>
+    <comparator>Intervention: Same day discharge 
+Control: admit overnight as in-patient (current standard of care)</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Outcome: re-admission
+
+Re-admission is defined by
+*Patient return to hospital emergency to receive further care related to the abscess or the drainage procedure.
+
+This outcome is assessed by the patient returned to hospital, in which the team responsible to the trial will be contacted since it is the treating team.  Patients will also be phoned at 30 days post-discharge to assess whether they have presented to other hospitals.
+</outcome>
+      <timepoint>30 days post abscess drainage procedure</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>complication encountered according to the scale of Clavien-Dindo classification of surgical complications</outcome>
+      <timepoint>30 days post abscess drainage procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>length of stay - total length of stay in hospital. Data collected via hospital system (eRecord, ERIC)</outcome>
+      <timepoint>will collect the LOS data at 30 days post abscess drainage procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>theatre start time, Data collected via hospital system (ORMIS)</outcome>
+      <timepoint>will collect the LOS data at 30 days post abscess drainage procedure</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult population with an abscess (perianal, pilonidal and/or cutaneous) and presented to Logan Hospital emergency</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be excluded if they:
+
+Were determined by the treating surgeon that they have systemic inflammatory response and not suitable for early discharge.
+
+Have other reasons that patients need to remain as in-patients, determined during the admission process.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>treatment team will be notify during request for admission. the patient will be allocated to an arm (early discharge or standard discharge) and therefore the allocation process is blinded to the treatment team.
+
+The allocation process:
+allocation involved contacting the holder of the allocation schedule who is the in-charge surgeon not in the emergency department. Central computerised randomisation will be performed by the surgeon and notify the admission staff (registrar). 
+    
+</concealment>
+    <sequence>centralised computer generated randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>non-inferior study.
+intervention (n=50) and control group (n=50) with 5% drop out
+
+If there is truly no difference between the standard and experimental treatment, then 96 patients are required to be 90% sure that the upper limit of a one-sided 95% confidence interval (or equivalently a 90% two-sided confidence interval) will exclude a difference in favour of the standard group of more than 6%
+
+alpha 5%
+1-beta 90%
+percentage of complication in intervention group 1%
+percentage of complication in control group 1%
+sample size 45 in each group
+sample size 50 in each group if 5% drop out </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>11/07/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/10/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>5/12/2016</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Logan Hospital - Meadowbrook</hospital>
+    <postcode>4131 - Meadowbrook</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Logan Hospital</primarysponsorname>
+    <primarysponsoraddress>Armstrong Rd, Meadowbrook QLD 4131</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Logan Hospital</fundingname>
+      <fundingaddress>Armstrong Rd, Meadowbrook QLD 4131</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Post-operative care usually includes an overnight hospital stay, to ensure adequate analgesia, satisfactory haemostasis. Patients with an abscess drained will stay until the next morning with examination of the wound and the removal of the haemostatic pack.
+It is the fact that there is a logistic reason to keep the patients postoperatively. Baker et al illustrated their similar experience in NZ about theatre access (Baker 2009). Drainage of an abscess received a relatively low priority since it can be done by more junior staff after hours. Patients tend to have prolonged stays if access to theatre is an issue. There is currently no evidence to keep post abscess drainage patient in the hospital otherwise (Akkapulu 2014). It is time to encourage a better use of hospital resources in managing this common condition. The proposed change is to perform the drainage procedure early at the start of the ASU theatre list with minimal anaesthesia. There is evidence that for lower torso procedures, a smaller dose of spinal anaesthesia enables early ambulatory and shorter recovery period from anaesthesia. The patient is then referred to Acute Care at Home service for observation and to be discharged on the next day. Adequate analgesia and antibiotics will be dispensed prior the patient is being discharge from recovery. The ASU team can be contacted if concerns are raised by the Acute Care at Home service. The patient is then referred to Community Wound services for post-operative wound care.
+The complication and re-admission rate post drainage are very low (&lt;1%) in the current management of abscesses, according to the ASU internal audit. It is important to ensure this low complication and re-admission rate continue in the new management model. The purpose of this trial is to demonstrate the safety of this new management.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Logan Ethics advisory group</ethicname>
+      <ethicaddress>Logan Hospital, Armstrong Rd, Meadowbrook QLD 4131</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>14/06/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Yiu Ming Ho</name>
+      <address>Logan Hospital, Armstrong Rd, Meadowbrook QLD 4131</address>
+      <phone>+61732996300</phone>
+      <fax />
+      <email>YiuMing.Ho@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Yiu Ming Ho</name>
+      <address>Logan Hospital, Armstrong Rd, Meadowbrook QLD 4131</address>
+      <phone>+61732996300</phone>
+      <fax />
+      <email>YiuMing.Ho@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Yiu Ming Ho</name>
+      <address>Logan Hospital, Armstrong Rd, Meadowbrook QLD 4131</address>
+      <phone>+61732996300</phone>
+      <fax />
+      <email>YiuMing.Ho@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Yiu Ming Ho</name>
+      <address>Logan Hospital, Armstrong Rd, Meadowbrook QLD 4131</address>
+      <phone>+61732996300</phone>
+      <fax />
+      <email>YiuMing.Ho@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

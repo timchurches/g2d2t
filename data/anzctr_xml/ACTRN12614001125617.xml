@@ -1,0 +1,231 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367193">
+  <stage>Registered</stage>
+  <submitdate>10/10/2014</submitdate>
+  <approvaldate>23/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001125617</actrnumber>
+  <trial_identification>
+    <studytitle>Treatment efficacy of azithromycin 1g versus seven days doxycycline for the treatment of rectal chlamydia among men who have sex with men  a double-blind randomized controlled trial</studytitle>
+    <scientifictitle>Treatment efficacy of azithromycin 1g versus seven days doxycycline (100mg twice a day) for the treatment of rectal chlamydia among men who have sex with men  a double-blind randomized controlled trial</scientifictitle>
+    <utrn>NIL</utrn>
+    <trialacronym>NIL</trialacronym>
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chlamydia trachomatis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Sexually transmitted infections</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Oral azithromycin 1g single dose plus oral placebo doxycycline twice a day for 7 days (with the first dose of placebo doxycycline taken at the same time as the azithromycin dose)
+
+OR
+
+Oral doxycycline 100mg twice a day for 7 day plus oral placebo azithromycin single dose (with the placebo dose of azithromycin taken at the same time as the first doxycycline dose)
+
+Compliance will be measured by completing a validated questionnaire about drug adherence at the end of week 1. They will be also asked to return the blister pack for pill count as a proxy measure of drug compliance.  A previous study comparing self-report with measured compliance using Medication Event Monitoring System, found 83% concordance between self-report and measured compliance for taking 11-14 doses among 206 men and women.
+</interventions>
+    <comparator>Azithromycin 1g single dose plus placebo doxycycline twice a day for 7 days OR
+
+Doxycycline 100mg twice a day for 7 day plus placebo azithromycin single dose
+
+The comparator drug will be the active doxycycline, relative to active azithromycin. 
+
+Placebo oral tablets will be composed of all/some of inert ingredients found in their corresponding active tablets such as microcrystalline cellulose, silica, maize starch, magnesium stearate or titanium dioxide for the azithromycin or doxycycline placebo tablets. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Treatment efficacy/microbial cure at 4 weeks after recruitment.  Microbial cure is defined as a negative chlamydia PCR test result performed on a rectal swab. (NB: For the purpose of this trial, microbial cure will be used as a measure of treatment efficacy.)</outcome>
+      <timepoint>4 weeks post treatment completion</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adjusted microbial cure at 4 weeks: We will use whole genome sequencing and mRNA tests to help us differentiate between re-infection, treatment failure and a false positive diagnosis for any cases diagnosed chlamydia PCR positive at week 4</outcome>
+      <timepoint>4 weeks post treatment completion</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Consecutive English-speaking men aged 16 years or older, with rectal chlamydia meeting the eligibility criteria will be recruited and followed up for 4 weeks.
+
+Inclusion criteria
+* Men who report male to male sexual contact and are aged 16 years or older who test positive for rectal chlamydia using a Nucleic Acid Amplification Test (NAAT).
+* Adequate English and comprehension skills to give informed consent
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* Men diagnosed and treated for LGV on the basis of clinical symptoms. (Note: Men who are recruited and randomised but who are subsequently found to have a LGV genotype identified by testing at the conclusion of the trial, will be included in the analysis. Our clinics do not conduct genotyping for MSM with asymptomatic chlamydia.)
+* Self-reported use of antibiotics in the last 2 weeks
+* Men concurrently diagnosed with another bacterial STI at enrolment. 
+* Known contraindications to the use of azithromycin or doxycycline including allergy
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible men will be approached by a research nurse and invited to participate in the trial. The nurse will explain the trial, assess eligibility and collect informed consent. Eligible men will be enrolled and randomly assigned to either 1g single dose azithromycin or seven day (100mg twice daily) doxycycline. Participants will complete a brief questionnaire and undergo a routine sexual health examination during which a nurse will teach participants to take self-collected rectal swab samples for further analysis. Once participants are randomly allocated to a treatment group, the nurse will directly observe him taking his first dose of treatment</concealment>
+    <sequence>A computer-generated randomisation sequence stratified by recruitment site and HIV status will be created by an independent statistician. Blinded therapy will be labelled with individual kit numbers. Study drugs will be packaged into individually numbered kits stored by independent site pharmacists. Eligible participants will be randomly assigned through an electronic case report form to a kit number. Participants, physicians, nurses, trial statistician and all other trial staff will be masked to treatment group. The effectiveness of blinding will be tested at completion of the trial when participants will be asked to indicate which treatment they thought they had received. Both medications will be packaged identically to maintain blinding.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Primary analysis will be by intention to treat analysis.  For each of the treatment groups, the binomial proportion and its 95% confidence interval will be used to estimate microbial cure at 4 weeks after recruitment. Microbial cure will be compared between the two treatment arms using Chi Square. Stratified analyses will be undertaken to investigate whether there is any difference in efficacy associated with HIV status. While randomisation should ensure balance of baseline characteristics, if there are differences in baseline characteristics, including HIV status, LGV genotype, follow up time and sexual behaviour throughout the trial, a logistic regression will be undertaken to adjust for these factors. 
+
+Secondary analyses: A modified intention to treat analysis will be undertaken where men classified as being either re-infected with chlamydia or having a false positive diagnosis will be excluded from the analysis. Microbial cure will be then compared between the two treatment arms using Chi Square.
+
+Our hypothesis is that azithromycin efficacy will be less than that of doxycycline. We will recruit 700 men in total (350 in each group) which allowing for a 20% loss to follow up (based on our experience of other similar cohort studies of MSM). Sample size calculations were based on detecting a 5% difference between doxycycline and azithromycin microbial cure at 4 weeks with 80% power and a 6% difference with 90% power.  If microbial cure is 96% among those treated with doxycycline at 4 weeks, then we will have 80% to detect a 6% difference and 90% power to detect a 7% difference. 
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2015</anticipatedstartdate>
+    <actualstartdate>12/08/2016</actualstartdate>
+    <anticipatedenddate>30/12/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>700</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>100</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <postcode>3053 - Carlton</postcode>
+    <postcode>2000 - Sydney</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>Level 3, 207 Bouverie st
+Carlton South, Victoria, 3053
+
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC) Program Grant</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>There are increasing concerns regarding the treatment efficacy of azithromycin 1g single dose for the treatment of rectal chlamydia infections with treatment failure rates up to 21% being reported. 
+
+There is no evidence available from randomised controlled trials directly comparing doxycycline with azithromycin for the treatment of rectal chlamydia with a recent meta-analysis reporting an efficacy of approximately 85% for azithromycin compared with 99% for doxycycline - however, these efficacy estimates are based on poor quality evidence.
+
+The purpose of this study is to provide the world first evidence on the treatment efficacy of the two recommended treatments for rectal chlamydia - azithromycin 1g single dose versus 7 days of doxycycline (100mg twice a day)</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Health Human Ethics Committee</ethicname>
+      <ethicaddress>Alfred Hospital
+55 Commercial Rd, Melbourne VIC 3004</ethicaddress>
+      <ethicapprovaldate>4/09/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/07/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Southern Eastern Sydney Local Health District Human Research Ethics Committee (Southern Sector)</ethicname>
+      <ethicaddress>Level 13, Kolling Building (6)
+Royal North Shore Hospital
+Pacific Highway
+ST LEONARDS NSW 2065</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>19/11/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Jane Hocking</name>
+      <address>University of Melbourne
+Level 3, 207 Bouverie st
+Carlton South 3053
+Victoria, Australia
+</address>
+      <phone>+61 3 8344 0762</phone>
+      <fax>+61 3 9349 5815</fax>
+      <email>jhocking@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Jane Hocking</name>
+      <address>University of Melbourne
+Level 3, 207 Bouverie st
+Carlton South 3053
+Victoria, Australia
+</address>
+      <phone>+61 3 8344 0762</phone>
+      <fax>+61 3 9349 5815</fax>
+      <email>jhocking@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Jane Hocking</name>
+      <address>University of Melbourne
+Level 3, 207 Bouverie st
+Carlton South 3053
+Victoria, Australia
+</address>
+      <phone>+61 3 8344 0762</phone>
+      <fax>+61 3 9349 5815</fax>
+      <email>jhocking@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Andrew Lau</name>
+      <address>University of Melbourne
+Level 3, 207 Bouverie st
+Carlton South 3053
+Victoria, Australia
+</address>
+      <phone>+61390359780</phone>
+      <fax>+61 3 9349 5815</fax>
+      <email>andrew.lau@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

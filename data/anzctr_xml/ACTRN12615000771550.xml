@@ -1,0 +1,209 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368870">
+  <stage>Registered</stage>
+  <submitdate>14/07/2015</submitdate>
+  <approvaldate>24/07/2015</approvaldate>
+  <actrnumber>ACTRN12615000771550</actrnumber>
+  <trial_identification>
+    <studytitle>Adaptive Radiotherapy for Head and Neck Cancer: Feasibility and Clinical Implications </studytitle>
+    <scientifictitle>Effect of Adaptive Radiotherapy on the dose to Organs at Risk and Target Volumes in patients with Locally Advanced Head and Neck Cancer</scientifictitle>
+    <utrn />
+    <trialacronym>ART Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Head and Neck Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Head and neck</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Adaptive radiotherapy involves re-planning the radiation treatment during the course of treatment to account for changes in shape due to tumour shrinkage and patient weight loss. This can potentially reduce the radiation dose received by normal structures (particularly the parotid salivary glands), and increase the dose received by the target volume. 
+
+Patients will undergo standard curative-intent definitive radiotherapy (70Gy in 35 fractions, 2Gy per fraction, 1 fraction per day delivered 5 days per week for overall duration of 7 weeks). The participants will continue with this dose schedule for the whole course of treatment. At 3 and 5 weeks of treatment they will undergo both a repeat radiotherapy planning CT and repeat PET-CT. The repeat planning CT will be loaded on to the radiotherapy treatment planning system. The patient's initial RT plan will be overlaid on to this and re-calculated by the treatment planning system to give the new expected dose distribution on the patient's altered anatomy. The PI will then manually re-contour all the target volumes and normal structures on the repeat scans to create a new RT plan. We will then compare the dose distribution between the original plan and the re-contoured plan. to determine whether adaptive re-planning can reduce the dose to organs at risk or improve the dose to the target volume.
+
+The participants will continue with treatment using their original radiotherapy plan unless the treating radiation oncologist deems it necessary to alter the treatment volumes (current standard treatment).
+
+We will also assess whether the added workload associated with adaptive replanning is feasible in our department.</interventions>
+    <comparator>There is no control arm in this study but patients will act as their own control. The standard radiotherapy plan (control) will be compared to the adaptive plan (intervention) in each patient.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Dose to organs at risk (salivary glands, mandible, spinal cord) as predicted using the radiotherapy treatment planning system and dose accumulation method for the adaptive plans.
+
+</outcome>
+      <timepoint>On completion of radiotherapy treatment, approximately 7 weeks.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Dose to Planning Target Volume as predicted using the radiotherapy treatment planning system and dose accumulation method for the adaptive plans.
+
+The maximum dose, minimum dose, mean dose, D98% (dose to 98% of the volume), D2% (dose to 2% of the volume) and a dose-volume histogram are automatically calculated and recorded by the radiotherapy treatment planning system from the radiotherapy planning CT.</outcome>
+      <timepoint>On completion of radiotherapy treatment, approximately 7 weeks.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time (hours) taken for all re-planning. 
+The time taken for re-contouring will be recorded for each participant by the PI performing the contouring, and an estimate of the time taken for the radiation therapists to re-plan the treatment will be added to this for each re-plan.</outcome>
+      <timepoint>On completion of radiotherapy treatment (approximately 7 weeks)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Age 18 years or above
+- Histologically proven squamous cell carcinoma of the head and neck region (oropharynx, nasopharynx, hypopharynx, larynx)
+- Locally advanced disease (AJCC Stage III/IV)
+- Multidisciplinary decision to treat with curative intent definitive radiation or chemoradiation using Image-guided IMRT/VMAT
+- ECOG 0-2
+- Able to give informed consent
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Definitive surgery to primary tumour or nodal disease
+- Neoadjuvant chemotherapy
+- Prior radiotherapy or chemotherapy
+- Previous malignancy (except treated cutaneous skin cancers)
+- Pregnant or breastfeeding women
+- Both parotid glands entirely within the target volume (unable to achieve parotid sparing)
+- Contraindications to radiotherapy (e.g. radiosensitivity syndromes)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>3/08/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Susan Mincham</primarysponsorname>
+    <primarysponsoraddress>Radiation Oncology
+Fiona Stanley Hospital
+102-118 Murdoch Drive
+Murdoch WA 6150</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>WA Cancer and Palliative Care Network Cancer Fellowship</fundingname>
+      <fundingaddress>Ground Floor, C Block 189 Royal Street
+East Perth WA 6004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This project aims to evaluate whether a protocol of adaptive radiotherapy (ART) for Head and Neck cancer patients can provide significant reduction in radiotherapy dose to critical structures, particularly the parotid salivary glands, aiming to potentially reduce the long term side effects of radiotherapy (particularly dry mouth). 
+
+Who is it for? You may be eligible to join this study if you are aged 18 years or above and have been diagnosed with locally advanced head and neck cancer for which you plan to undergo curative-intent definitive radiotherapy. 
+
+Study details
+All participants in this study will receive standard radiotherapy treatment (5 days a week for 7 weeks) as prescribed by the treating Radiation Oncologist. At 3 weeks and 5 weeks participants will have a repeat non-contrast planning CT scan plus repeat PET scan. We then overlay the initial radiotherapy plan on to the new CT dataset to determine if there are significant shape changes, whether the critical structures are receiving too much dose, or if the target volume (the tumour) is receiving too little dose. The participants radiotherapy plan will only be altered if there are unacceptable areas of radiotherapy over or under-dosage according to the discretion of the treating radiation oncologist. 
+All participants will have a new radiotherapy plan created using their repeat scans. These plans will be run through our treatment planning computers to model the dose distribution on the new CT datasets. We will then compare the dose received by the normal structures and the tumour using this "adaptive approach" with the expected doses if no changes are made to the initial plan. This will give us a measure of the benefit of ART. We will also record how much time each re-planning takes to evaluate whether an adaptive approach is feasible in a real world clinical setting.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Human Research Ethics Committee </ethicname>
+      <ethicaddress>Office 212, Level 2, Southern Research Facility
+Fiona Stanley Hospital
+102-118 Murdoch Drive
+Murdoch WA 6150</ethicaddress>
+      <ethicapprovaldate>25/06/2015</ethicapprovaldate>
+      <hrec>15/33</hrec>
+      <ethicsubmitdate>5/05/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Mincham</name>
+      <address>Radiation Oncology (Genesis Cancer Care)
+Fiona Stanley Hospital
+102-118 Murdoch Drive
+Murdoch WA 6150</address>
+      <phone>+61 8 61524954</phone>
+      <fax />
+      <email>Susan.Mincham@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Mincham</name>
+      <address>Radiation Oncology (Genesis Cancer Care)
+Fiona Stanley Hospital
+102-118 Murdoch Drive
+Murdoch WA 6150</address>
+      <phone>+61 8 61524954</phone>
+      <fax />
+      <email>Susan.Mincham@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Mincham</name>
+      <address>Radiation Oncology (Genesis Cancer Care)
+Fiona Stanley Hospital
+102-118 Murdoch Drive
+Murdoch WA 6150</address>
+      <phone>+61 8 61524954</phone>
+      <fax />
+      <email>Susan.Mincham@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

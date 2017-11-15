@@ -1,0 +1,288 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365831">
+  <stage>Registered</stage>
+  <submitdate>3/12/2014</submitdate>
+  <approvaldate>9/12/2014</approvaldate>
+  <actrnumber>ACTRN12614001285640</actrnumber>
+  <trial_identification>
+    <studytitle>Energy Requirements of Critically Ill Obese Patients: Does Goal Directed Nutrition Using Indirect Calorimetry Improve Energy Delivery?</studytitle>
+    <scientifictitle>Energy Requirements of Critically Ill Obese Patients: Does Goal Directed Nutrition Using Indirect Calorimetry Improve Energy Delivery?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <healthcondition>Obesity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is 'Goal Directed Nutrition Therapy' involving the use of indirect calorimetry (IC) to assess energy expenditure, and then targeting the provision of energy from enteral or parenteral nutrition to match this.
+To use IC to measure a ventilated patients energy expenditure, the indirect calorimeter is connected to their ventilator circuit to measure the gas exchange and calculate expended energy.
+Participants in the intervention group will have IC within 24 hours of enrollment and then twice weekly until 14 days or extubation. The test will be carried out by a dietitian. The duration of each test will vary depending on the patient, however the usual duration is 5-20 minutes.</interventions>
+    <comparator>Active control (standard care) where energy requirements are estimated using the Schofield equation.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome of this study is daily delivered energy as a proportion of measured energy expenditure (using indirect calorimetry) to determine adequacy of energy provision, and compare groups with respect to under and over feeding.</outcome>
+      <timepoint>Daily energy intake over 14 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Energy expenditure (using indirect calorimetry) at four timepoints:within 24 hours enrolment &amp; twice weekly until day 14 (or until extubation)</outcome>
+      <timepoint>14 days (or until extubation)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Daily protein intake assessed as grams of protein received divided by weight in kilograms.
+</outcome>
+      <timepoint>14 days (or until extubation)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of mechanical ventilation (number of days from intubation to extubation).</outcome>
+      <timepoint>Until extubation (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of ICU admission</outcome>
+      <timepoint>Until ICU discharge (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital admission</outcome>
+      <timepoint>Until hospital discharge (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Survival</outcome>
+      <timepoint>60 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hand grip strength (measured using a hand grip strength dynamometer)</outcome>
+      <timepoint>ICU and hospital discharge (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Highest level of function scale (using ICU mobility scale)</outcome>
+      <timepoint>ICU and hospital discharge (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life questionnaire (EQ-5D)</outcome>
+      <timepoint>At hospital discharge (censored at 60 days)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- BMI greater than or equal to 30m2/Kg
+- Within 72 hours of ICU admission at the time of enrolment
+- Mechanically ventilated at the time of enrolment and expected to remain ventilated until the day after tomorrow 
+- At least 18 years of age 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- There is a long term technical contraindication to a IC measurement
+- Are not expected to commence nutrition therapy in next 24hrs for any reason
+- Death is imminent or deemed highly likely in the next 96 hours. 
+- There is a current treatment limitation in place or the patient is unlikely to survive to 6 months due to underlying illness 
+- Are known to be pregnant 
+- The treating clinician does not believe the study to be in the best interest of the patient
+- Patient is not expected to continue with nutrition therapy for &gt; 72 hours
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be screened for eligibility in The Alfred ICU. Those meeting the inclusion criteria and exempt of the exclusion criteria should be considered for enrolment. Patients will be screened daily on weekdays using patient lists and ward round by the project manager.
+Patients will be unable to provide prospective informed consent, as they will be sedated and receiving mechanical ventilation. Informed consent will be obtained from the most appropriate Person Responsible, in accordance with section 4.4.10 of the NHMRC National Statement. Delayed consent for continued participation and long-term follow up will be sought from the participant when they have suitably recovered capacity.
+Eligible patients will be enrolled by study personnel and then randomised using a manual randomisation technique.</concealment>
+    <sequence>Simple randomisation. 40 opaque envelopes contained "goal directed nutrition" and 40 contained "standard care", these were shuffled and then when a patient in enrolled the front envelope was taken to allocate the patient. 10 envelopes from each arm were labelled before recruitment commenced to identify those who will also be enrolled in the sub-study.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The proposed sample size is based on data from previous nutrition studies conducted in Australia and New Zealand. Assuming a mean daily energy delivery of 1300+/-400 kcal/day in the control (usual treatment) group and expecting at least a 20% increase in targeted energy group, using a 2-groups t-test at 5% significance and 80% power, the estimated minimum required sample size is: n=38 per group (i.e. 76 in total).
+
+Data analysis will be carried out using the Statistical package for the social sciences, version 20 (SPSS Inc, Chicago, IL). Data will be assessed for normality using the Kolmogorov-Smirnov test. Data will be expressed as means or medians and standard deviations (SDs) or standard error of the mean (SEM).
+Appropriate statistical tests (parametric and non parametric tests) will be carried out to determine differences between and within groups. Where significance is observed, appropriate post-hoc tests will be employed.  Statistical significance will be determined as p&lt;0.05.
+A biostatistician will be consulted to ensure correct statistical procedures are employed.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>10/12/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/11/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>3004 - Melbourne</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>A/Prof Ibolya Nyulasi</primarysponsorname>
+    <primarysponsoraddress>Alfred Health
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>ANZ Trustees</fundingname>
+      <fundingaddress>Level 4, 100 Queen Street
+Melbourne Vic 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Emma Ridley</sponsorname>
+      <sponsoraddress>Department of Epidemiology &amp; Preventive Medicine
+Monash University
+The Alfred Centre
+99 Commercial Road
+Melbourne Vic  3004
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Audrey Tierney</sponsorname>
+      <sponsoraddress>The Alfred Hospital
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Emily Dynon</sponsorname>
+      <sponsoraddress>The Alfred Hospital
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Andrew Udy</sponsorname>
+      <sponsoraddress>The Alfred Hospital
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Carlos Scheinkestel</sponsorname>
+      <sponsoraddress>The Alfred Hospital
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In this study of 80 obese (BMI greater than or equal to 30Kg/m2) ICU patients we will estimate requirements and deliver nutrition as per current standard practice in 40 patients; the remaining 40 patients will have their energy requirements measured using indirect calorimetry and the provision of nutrition therapy will be targeted to meet this value. We will measure important outcomes to enable us to determine whether this goal directed approach allows nutrition therapy to better meet the patients requirements, and also whether this difference impacts on the patients recovery.
+We hypothesize that patients who receive Goal Directed Nutrition Therapy will receive a higher proportion of their energy needs (energy delivered divided by measured energy expenditure) and that this may lead to improved clinical and functional outcomes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Alfred Hospital Ethics Committee</ethicname>
+      <ethicaddress>The Alfred
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181 Australia
+</ethicaddress>
+      <ethicapprovaldate>12/06/2014</ethicapprovaldate>
+      <hrec>191/14</hrec>
+      <ethicsubmitdate>28/04/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ibolya Nyulasi</name>
+      <address>Alfred Health
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181</address>
+      <phone>+613 9076 3063</phone>
+      <fax />
+      <email>i.nyulasi@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ibolya Nyulasi</name>
+      <address>Alfred Health
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181</address>
+      <phone>+613 9076 3063</phone>
+      <fax />
+      <email>i.nyulasi@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ibolya Nyulasi</name>
+      <address>Alfred Health
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181</address>
+      <phone>+613 9076 3063</phone>
+      <fax />
+      <email>i.nyulasi@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Emily Dynon</name>
+      <address>Alfred Health
+55 Commercial Road
+Melbourne VIC 3004
+PO Box 315 Prahran
+VIC 3181</address>
+      <phone>+613 9076 3063</phone>
+      <fax />
+      <email>e.dynon@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366451">
+  <stage>Registered</stage>
+  <submitdate>1/06/2014</submitdate>
+  <approvaldate>6/06/2014</approvaldate>
+  <actrnumber>ACTRN12614000611628</actrnumber>
+  <trial_identification>
+    <studytitle>The feasibility of combining transcranial direct current stimulation with rehabilitation of the hand and arm after stroke, and its effects on rate of recovery</studytitle>
+    <scientifictitle>The effects of transcranial direct current stimulation on the rate of recovery of upper limb function measured with the Action Research Arm Test in patients with first-ever monohemispheric ischaemic stroke: a randomised, blinded, sham-controlled, feasibility study.</scientifictitle>
+    <utrn />
+    <trialacronym>FASTER: Feasibility of Accelerating STrokE Recovery</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Transcranial direct current stimulation will be applied for 20 minutes, no more than once per day, during upper limb therapy sessions. These sessions may be daily, or less frequently, depending on the rehabilitation programme devised for each participant by the therapy team. The anode will be positioned over the stroke-affected primary motor cortex. The cathode will be positioned over the opposite primary motor cortex. The stimulus intensity will be up to 2 mA. Stimulation will be delivered using a HDCStim unit and cap. TDCS will be added to therapy sessions until the participant is discharged from rehabilitation, or reaches 6 weeks post-stroke, whichever occurs first.</interventions>
+    <comparator>Sham transcranial direct current stimulation, delivered using the same equipment and with the same protocol. The stimulation intensity will be ramped up over the first 30 seconds and then switched off.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Rehabilitation</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Rate of change in upper limb function, measured with weekly administration of the Action Research Arm Test.</outcome>
+      <timepoint>Six weeks post-stroke.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of change in upper limb impairment, measured with weekly administration of the Fugl-Meyer Scale.</outcome>
+      <timepoint>Six weeks post-stroke.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compliance by therapists and patients, measured as the proportion of upper limb therapy sessions that included TDCS.</outcome>
+      <timepoint>Six weeks post-stroke.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disability measured with the modified Rankin Scale.</outcome>
+      <timepoint>Nine and twelve weeks post-stroke</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stroke-related quality of life measured with the Stroke Impact Scale.</outcome>
+      <timepoint>Nine and twelve weeks post-stroke.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>First-ever mono-hemispheric ischaemic stroke within the previous 2 weeks.
+Requiring upper limb rehabilitation.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cerebellar stroke.
+Contraindications to TDCS, which are: metal implants in the head (other than dental fillings); cardiac pacemaker; history of epilepsy; pregnancy.
+Cognitive or communication impairment precluding informed consent.
+Unable to produce at least 10 degrees voluntary extension of the paretic wrist or fingers without gravity.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients admitted to rehabilitation will be screened by a research coordinator. Those meeting the inclusion criteria will be approached. Those who consent to participation will be enrolled and complete baseline assessments (Action Research Arm Test, Fugl-Meyer Scale, National Institutes of Health Stroke Scale).
+Personal, clinical and demographic details for each enrolled participant will be securely sent to an off-site researcher responsible for randomisation. Participants will be randomised using custom software that will also minimise between-group differences in age and baseline upper limb impairment (Fugl-Meyer score) and baseline stroke severity (National Institutes of Health Stroke Scale score).</concealment>
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>We estimate that each of the two study sites will be able to recruit up to 15 patients within the 12 month study period, for a total of 30 participants. With this sample size, alpha = 0.05, beta = 0.80, and an estimated standard deviation of the recovery rate of 2 ARAT points per week based on our previous work, the study will be powered to detect a difference in recovery rate of 2 ARAT points per week between the real and sham tDCS groups
+The primary outcome will be analysed with a two-tailed independent samples t-test of the mean rates of upper limb recovery for the real and sham TDCS groups. Regression analyses will also be carried out for ARAT score to explore the effects of group and time, while controlling for therapy dose and initial ARAT score. These analyses will be repeated for FM score. The effects of tDCS on disability and quality of life will be examined with RM-ANOVA of modified Rankin and Stroke Impact Scale scores, with factors group and time (9 and 12 weeks). </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/09/2014</anticipatedstartdate>
+    <actualstartdate>10/11/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>26/04/2015</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize>4</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/11/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Auckland</primarysponsorname>
+    <primarysponsoraddress>Private Bag 92019
+Auckland Mail Centre
+Auckland 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>PO Box 5541
+Wellesley Street
+Auckland 1141</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Auckland District Health Board</sponsorname>
+      <sponsoraddress>Private Bag 92024
+Auckland Mail Centre
+Auckland 1142</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Counties Manukau District Health Board</sponsorname>
+      <sponsoraddress>Private Bag 94052
+South Auckland Mail Centre
+Manukau 2240</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Stroke is a leading cause of long-term adult disability. Advances in neuroscience have led to the development of techniques for promoting neuroplasticity and recovery after stroke. These techniques include transcranial direct current stimulation (tDCS), which is generally accepted to be a safe, painless and promising adjuvant to neurorehabilitation. However, there have been only two studies of its effects on patients engaged in standard rehabilitation at the sub-acute stage, with mixed results.  The aims of this feasibility study are to determine whether tDCS can be integrated in clinical practice in New Zealand, and whether it can accelerate the recovery of hand and arm function after stroke. 
+People who have experienced a stroke in the last 2 weeks, and are now engaged in rehabilitation, may be eligible to take part in this trial. Taking part will involve having real or sham tDCS added to upper limb therapy sessions for the first six weeks of recovery. Hand and arm movements will be assessed weekly for the first six weeks, with follow-up  measures made 9 and 12 weeks after stroke.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committees</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6145</ethicaddress>
+      <ethicapprovaldate>11/08/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/07/2014</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Cathy Stinear</name>
+      <address>Department of Medicine
+University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+64 9 92 33 779</phone>
+      <fax />
+      <email>c.stinear@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Cathy Stinear</name>
+      <address>Department of Medicine
+University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+64 9 92 33 779</phone>
+      <fax />
+      <email>c.stinear@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Cathy Stinear</name>
+      <address>Department of Medicine
+University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+64 9 92 33 779</phone>
+      <fax />
+      <email>c.stinear@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Cathy Stinear</name>
+      <address>Department of Medicine
+University of Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+64 9 92 33 779</phone>
+      <fax />
+      <email>c.stinear@auckland.ac.nz</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

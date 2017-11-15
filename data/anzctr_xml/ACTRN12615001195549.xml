@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369532">
+  <stage>Registered</stage>
+  <submitdate>2/11/2015</submitdate>
+  <approvaldate>4/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001195549</actrnumber>
+  <trial_identification>
+    <studytitle>Treatment with Exenatide In Acute Ischaemic Stroke (TEXAIS)</studytitle>
+    <scientifictitle>Treatment with Exenatide In Acute Ischaemic Stroke (TEXAIS) to improve stroke clinical outcomes.</scientifictitle>
+    <utrn>U1111-1175-8721</utrn>
+    <trialacronym>TEXAIS</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>ischaemic stroke</healthcondition>
+    <healthcondition>post stroke hyperglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other metabolic disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>-short acting 5microgram exenatide twice daily
+-duration of 5 days
+-commenced within 9 hours of stroke onset
+-subcutaneous injection
+ </interventions>
+    <comparator>PROBE trial design:  the control treatment is standard care for post stroke hyperglycaemia. Standard care will be dependant on individual hospital protocols but may adhere to the FeSS criteria with use of insulin for hyperglycaemia.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of participants achieving greater than or equal to 8 point improvement in NIHSS stroke impairment score (or NIHSS 0-1).</outcome>
+      <timepoint>7 days post stroke onset.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>temporal difference in glycaemic control between the treatment groups as measured by 8 hourly mean continuous glucose monitor (CGM) glucose readings.</outcome>
+      <timepoint>4 days post stroke onset or sooner if patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Difference in glycaemic control between the treatment groups as measured by daily mean sensor (CGM) glucose readings.</outcome>
+      <timepoint>7 days post stroke onset or sooner if patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of hypoglycaemia (&lt;4.0 on capillary finger prick glucose (cFPG) and symptomatic hypoglycaemia.</outcome>
+      <timepoint>7 days post stroke onset or sooner if patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The duration of time (represented as a percentage) that CGM glucose levels are spent in the ranges of: greater than or equal to 7.0mmol/L, &lt;4.0mmol/L and between 4.0-7.0mmol/L.</outcome>
+      <timepoint>4 days post stroke onset or sooner if patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The glycaemic variability of each group as measured by MODD and MAGE measured on CGM</outcome>
+      <timepoint>4 days post stroke onset or sooner if patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stroke-related disability assessed using NIHSS (measured on clinical assessment)</outcome>
+      <timepoint>90 days post stroke onset.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death</outcome>
+      <timepoint>90 days post stroke onset.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Rankin Scale (mRS) 4-6 at 90 days post stroke (severe disability or death)</outcome>
+      <timepoint>90 days post stroke onset.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>a. Age &gt;18 years
+b. Ischaemic stroke - CT brain exclusion of haemorrhagic stroke
+c. Stroke symptom onset-to exenatide treatment less than 9 hours
+d. Blood sugar level on admission greater than or equal to 4mmol/L
+e. Pre-morbid mRS score of 0-2</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>a). Unlikely to survive beyond 14 days. 
+b). known allergy or hypersensitivity to exenatide
+c). Pregnant (known or suspected) or breastfeeding 
+d). Past history of pancreatitis or evidence of active pancreatitis 
+e). Past history of severe gastrointestinal disease eg. gastroparesis and dumping syndrome 
+f). Chronic kidney disease stage 4 or 5 (creatinine clearance &lt;30ml/min) g). Current participation in another investigational drug trial.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>yes - central randomisation by computer</concealment>
+    <sequence>Permuted block randomisation by computer
+</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>PROBE study design
+Whilst the pre-planned total sample size is 528 patients, the proposed design includes an adaptive sample size re-estimation procedure as per the promising zone methodology of Mehta and Pocock using data from the first 320 patients. This procedure involves evaluation of the conditional power in the interim analysis, and if it were to fall in the pre- specified promising zone, the sample size should be increased, subject to an absolute pre- determined upper limit (650 patients) to increase the conditional power to 0.8 level. </designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Statistical Analysis: There have been no previous acute stroke studies using incretin (eg exenatide) therapies. Power analysis for TEXAIS is based on stroke outcomes reported in tPA trials (in treated and untreated patients), and pooled outcome data (n=2,649) on acute stroke patients with PSH from VISTA (Virtual International Stroke Trials Archive). It is expected that approx. 20% of all TEXAIS eligible patients will receive tPA, of whom 50% will improve by NIHSS greater than or equal to 8 points by 7 days. For the remainder not receiving tPA the NIHSS greater than or equal to 8 points response rate will be lower at 30%. ie overall we expect 35% of patients in the control group achieve an improvement of NIHSS greater than or equal to 8 points (or reach NIHSS 0-1) at 7 days. From the VISTA database maintaining normoglycaemia in the first 48 hours was independently associated with a better outcome with an absolute improvement of 13%. We therefore anticipate that achieving normoglycaemia will increase the response rate from 35% in the control group to 48% in the treatment group. Under two-tailed significance level alpha=0.05, a total sample of 528 patients (equally distributed between treatment and control groups as 264:264) will yield 80% power to observe a between-group difference in proportions of patients with favourable outcome of 13% or higher. This estimate is conservative, since if the proportion of patients with favourable outcome in control group were to be smaller, fewer patients will be required to achieve 80% power to observe the same difference. It also accounts for 10% patient drop out. 
+Logistic regression model with the dichotomous favourable outcome following an intervention as the dependent variable, the treatment group (exenatide vs control) as the independent variable, and baseline NIHSS score, age, and intravenous/intra-arterial stroke treatment as covariates. The heterogeneity of treatment effect between participating centres will be assessed using a random- effects logistic regression model with the centre as a random effect. Secondary outcome measures will be analysed in the similar manner using appropriate regression models that would adequately account for within-patient clustering of various repeated measures, including mixed-effect linear or logistic regression, generalized estimating equations, or clustered quantile regression models for rank-ordered outcomes.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>9/11/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>528</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <postcode>3128 - Box Hill</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Eastern Health Clinical School - Monash University</primarysponsorname>
+    <primarysponsoraddress>5 Arnold St. Box Hill 3128 Victoria</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Eastern Health Clinical School - Monash University </fundingname>
+      <fundingaddress>5 Arnold St. Box Hill, Melbourne, 3128 Victoria</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>50,000 new strokes occur each year in Australia. Hyperglycaemia in acute ischaemic stroke (post stroke hyperglycaemia [PSH]) occurs in up to 50% patients, reduces the efficacy of stroke thrombolysis, increases infarct size, and is associated with worse clinical outcomes and death. Insulin-based therapies are not beneficial in treating PSH as they are difficult to implement, cause frequent hypoglycaemia and do not reduce mortality or improve clinical outcomes. An alternative, simple to use, treatment for PSH may therefore have a significant impact on acute stroke care with improved stroke outcomes.
+Intervention, and pilot data: Exenatide is a commonly used diabetes drug (a synthetic glucagon- like peptide-1 receptor agonist) that increases insulin secretion. Importantly, this action is glucose dependent - as blood glucose levels decrease, insulin secretion subsides, with a very low risk of hypoglycaemia. We undertook a small randomised pilot study of 17 consecutive, unselected patients (ie. regardless of their admission glucose level) with acute ischaemic stroke comparing subcutaneous exenatide 5microgram for 5 days with routine standard of care. Overall, blood glucose levels remained consistently lower (and less variable) in the exenatide group, and most noticeably in those stroke patients with known impaired long-term glucose control (eg diabetes). Exenatide was safe and well tolerated by all patients, with no symptomatic hypoglycaemia.
+Trial design: TEXAIS is an adaptive Phase 2, multi centre, prospective, randomised, open label, blinded end-point (PROBE) trial comparing Exenatide to Standard of Care. The sample size is 528 patients (264 in each arm) with a primary end point of neurological improvement at 7 days, and secondary end points of recovery at 90 days. Continuous glucose monitors will track the intra-day dynamic variability of glucose in acute stroke. These results will be important in informing the planning of a larger phase 3 study.
+Translation: TEXAIS is a simple, practical, study that can enrol all patients with ischaemic stroke, regardless of admission blood glucose level, regardless of stroke severity, with no target glucose level, and with low risk of hypoglycaemia.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Box Hill Hospital</ethicname>
+      <ethicaddress>5 Arnold St.  Box Hill 3128 Victoria</ethicaddress>
+      <ethicapprovaldate>15/10/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>14/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Christopher Bladin</name>
+      <address>Dept of Neurosciences (Monash University)
+5 Arnold St. Box Hill,  Melbourne, 3128 Victoria</address>
+      <phone>+61-3-98954974</phone>
+      <fax />
+      <email>chris.bladin@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Christopher Bladin</name>
+      <address>Dept of Neurosciences (Monash University)
+Box Hill Hospital
+5 Arnold St. Box Hill,  Melbourne, 3128</address>
+      <phone>+61-3-98954974</phone>
+      <fax />
+      <email>chris.bladin@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Christopher Bladin</name>
+      <address>Dept of Neurosciences (Monash University)
+Box Hill Hospital
+5 Arnold St. Box Hill,  Melbourne, 3128</address>
+      <phone>+61-3-98954974</phone>
+      <fax />
+      <email>chris.bladin@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Christopher Bladin</name>
+      <address>Dept of Neurosciences (Monash University)
+Box Hill Hospital
+5 Arnold St. Box Hill,  Melbourne, 3128</address>
+      <phone>+61-3-98954974</phone>
+      <fax />
+      <email>chris.bladin@easternhealth.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

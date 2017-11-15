@@ -1,0 +1,352 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4999">
+  <stage>Registered</stage>
+  <submitdate>2/04/2015</submitdate>
+  <approvaldate>2/04/2015</approvaldate>
+  <nctid>NCT02410512</nctid>
+  <trial_identification>
+    <studytitle>A Study to Assess the Safety and Pharmacokinetics of MOXR0916 and Atezolizumab (Also Known as MPDL3280A or Anti-PD-L1) in Participants With Locally Advanced or Metastatic Solid Tumors</studytitle>
+    <scientifictitle>A Phase Ib, Open-Label, Dose-Escalation Study of the Safety and Pharmacokinetics of MOXR0916 and Atezolizumab in Patients With Locally Advanced or Metastatic Solid Tumors</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2015-000516-18</secondaryid>
+    <secondaryid>GO29674</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Neoplasms</healthcondition>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Atezolizumab (MPDL3280A), an engineered anti-programmed death-ligand 1 [PD-L1] antibody
+Treatment: drugs - MOXR0916, a humanized agonist anti-OX40 monoclonal antibody
+
+Experimental: Dose Escalation: MOXR0916 + Atezolizumab - Cohorts of at least 3 participants each will be treated at escalating doses of MOXR0916 in combination with a fixed dose of atezolizumab to determine the MTD or maximum administered dose (MAD).
+
+Experimental: Expansion: MOXR0916 + Atezolizumab - Approximately 250-580 participants will be enrolled in the expansion stage to better characterize the safety, tolerability, pharmacokinetic variability, biomarkers of anti-tumor activity, and preliminary efficacy of MOXR0916 + atezolizumab in different cancer types.
+
+
+Treatment: drugs: Atezolizumab (MPDL3280A), an engineered anti-programmed death-ligand 1 [PD-L1] antibody
+Atezolizumab will be administered intravenously.
+
+Treatment: drugs: MOXR0916, a humanized agonist anti-OX40 monoclonal antibody
+MOXR0916 will be administered intravenously.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of Participants with Dose-Limiting Toxicities (DLTs)</outcome>
+      <timepoint>Days (D) 1-21 of Cycle (C) 1 (cycle = 21 days); up to D42 if extended monitoring warranted</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Number of Participants with Adverse Events Graded per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version (v) 4.0</outcome>
+      <timepoint>Baseline until 90 days after last dose or initiation of another systemic anti-cancer therapy, whichever occurs first (up to 3 years)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Tolerated Dose (MTD) of MOXR0916</outcome>
+      <timepoint>Up to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Recommended Phase II Dose (RP2D) of MOXR0916</outcome>
+      <timepoint>Up to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with Anti-MOXR0916 and Anti-Atezolizumab Antibodies</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Cycles Received with MOXR0916</outcome>
+      <timepoint>Baseline until treatment discontinuation (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Dose Intensity of MOXR0916</outcome>
+      <timepoint>Baseline until treatment discontinuation (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Area under the Concentration-Time Curve (AUC) of MOXR0916</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum Maximum Observed Concentration (Cmax) of MOXR0916</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum Minimum Observed Concentration (Cmin) of MOXR0916</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clearance (CL) of MOXR0916</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Volume of Distribution at Steady State (Vss) of MOXR0916</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum Cmax of Atezolizumab</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum Cmin of Atezolizumab</outcome>
+      <timepoint>Up to 120 days after the treatment discontinuation visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with Objective Response Determined Using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1</outcome>
+      <timepoint>Baseline until disease progression (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Objective Response (DOR) Determined Using RECIST v1.1</outcome>
+      <timepoint>From first objective response until death or relapse per RECIST v1.1, whichever occurs first (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS) Determined Using RECIST v1.1</outcome>
+      <timepoint>Baseline until death or disease progression per RECIST v1.1, whichever occurs first (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants with Objective Response Determined Using Modified RECIST</outcome>
+      <timepoint>Baseline until disease progression (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>DOR Determined Using Modified RECIST</outcome>
+      <timepoint>From first objective response until death or relapse per RECIST v1.1, whichever occurs first (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PFS Determined Using Modified RECIST</outcome>
+      <timepoint>Baseline until death or disease progression per RECIST v1.1, whichever occurs first (up to 3 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS)</outcome>
+      <timepoint>Baseline until death (up to 3 years)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+
+          -  Life expectancy of at least 12 weeks
+
+          -  Adequate hematologic and end organ function
+
+          -  Histologic documentation of locally advanced, recurrent, or metastatic incurable solid
+             malignancy that has progressed after available standard therapy; or for which standard
+             therapy is ineffective, intolerable, or considered inappropriate; or for which a
+             clinical trial of an investigational agent is recognized standard of care
+
+          -  Tumor specimen availability
+
+          -  Measurable disease according to RECIST v1.1</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Any anti-cancer therapy, whether investigational or approved, including chemotherapy,
+             hormonal therapy, or radiotherapy, within 3 weeks prior to initiation of study
+             treatment
+
+          -  Malignancies other than disease under study within 5 years prior to D1 of C1
+
+          -  Primary central nervous system (CNS) malignancy, or untreated/active CNS metastases
+
+          -  History of leptomeningeal disease
+
+          -  History of idiopathic pulmonary fibrosis, pneumonitis (including drug-induced),
+             organizing pneumonia, or evidence of active pneumonitis on screening chest computed
+             tomography (CT) scan; history of radiation pneumonitis in the radiation field
+             (fibrosis) is permitted
+
+          -  History of autoimmune disease
+
+          -  Positive human immunodeficiency virus (HIV) test result
+
+          -  Active hepatitis B, hepatitis C, or tuberculosis
+
+          -  Severe infection within 4 weeks prior to D1 of C1
+
+          -  Prior allogeneic bone marrow or solid organ transplantation
+
+          -  Significant cardiovascular disease
+
+          -  Known clinically significant liver disease</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate />
+    <actualstartdate>24/04/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>610</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>12/08/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC,WA</recruitmentstate>
+    <hospital>Chris O'Brien Lifehouse - Camperdown</hospital>
+    <hospital>Austin Hospital - Heidelberg</hospital>
+    <hospital>Peter Maccallum Cancer Centre - Melbourne</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>3000 - Melbourne</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Wilrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif CEDEX</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Navarra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Genentech, Inc.</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This Phase Ib, open-label, dose-escalation study will evaluate the safety, tolerability, and
+      pharmacokinetics of the combination of MOXR0916 and atezolizumab in participants with locally
+      advanced, recurrent, or metastatic incurable solid malignancy that has progressed after
+      available standard therapy; or for which standard therapy has proven to be ineffective or
+      intolerable or is considered inappropriate; or for which a clinical trial of an
+      investigational agent is a recognized standard of care. Participants will be enrolled in two
+      stages: a dose-escalation stage and an expansion stage.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02410512</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Reference Study ID Number: GO29674 www.roche.com/about_roche/roche_worldwide.htm</name>
+      <address />
+      <phone>888-662-6728 (U.S. and Canada)</phone>
+      <fax />
+      <email>global-roche-genentech-trials@gene.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

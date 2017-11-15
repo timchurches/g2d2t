@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371679">
+  <stage>Registered</stage>
+  <submitdate>19/10/2016</submitdate>
+  <approvaldate>24/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001472460</actrnumber>
+  <trial_identification>
+    <studytitle>A Retrospective Review of Intra-operative Anaesthesia Management during Fractured Neck of Femur (IAM-NOF) Surgery and Mortality </studytitle>
+    <scientifictitle>A Retrospective Review of Intra-operative Anaesthesia Management during Fractured Neck of Femur (IAM-NOF) Surgery and Mortality </scientifictitle>
+    <utrn />
+    <trialacronym>IAM-NOF</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Fractured Neck of Femur</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Fractures</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a retrospective study of the influence of intra-operative blood pressure management and depth of anaesthesia on mortality after fractured neck of femur (NOF) surgery.  
+  This study will review the medical, surgical, and anaesthesia records of patients admitted for NOF surgery in a 4 year period (2012  2016) in Liverpool Hospital. Relevant anaesthesia data, such as blood pressure pre- and intra-operatively, as well as depth of anaesthesia levels, will be collected. NOF patients will be identified through the Department of Orthopaedics database of surgical operations records for the same period. The database records 30- and 120-day mortality. The data from both medical records and the NOF database will be cross-referenced and combined, to allow researchers to analyse the impact of anaesthesia management on post-operative mortality.
+</interventions>
+    <comparator>no control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome of this study is to determine if intra-operative MAP is associated with 30- and 120-day mortality in patients undergoing fractured NOF surgery. MAP is measured non-invasively or invasively as routine during anaesthesia and data extracted from the anaesthesia record. Mortality data is extracted from the NOF surgery audit maintained by the Department of Orthopaedics, Liverpool Hospital.</outcome>
+      <timepoint>30-days and 120-days after surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The secondary outcome of this study is to determine if intra-operative depth of anaesthesia is associated with 30- and 120-day mortality in patients undergoing fracture NOF surgery. Depth of anaesthesia is measured as a dimensionless scale from 0 to 100. This data is  retrieved from the anaesthesia record. Mortality data is extracted from the NOF surgery audit maintained by the Department of Orthopaedics, Liverpool Hospital.</outcome>
+      <timepoint>30- and 120-days after surgery</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult patients, &gt;50 years old, admitted for emergency fractured NOF surgery in the 4 year time period, June 01 2012 - June 30, 2016</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients admitted for NOF but not offered surgery </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Sample size calculation
+From White et al's study, there was a 4.5% mortality rate at 30-days for patients with MAP 71-75mmHg, versus 1.1% for those with higher MAP (White et al, Secondary analysis of outcomes after 11,085 hip fracture operations from the prospective UK Anaesthesia Sprint Audit of Practice. Anaesthesia 2016. 71:506). With an a priori calculated effect size of 0.16, we estimate that a sample size of 954 patients is required to detect a difference in mortality with a significance of 0.05, and power of 0.80. As there are approximately 250 NOF surgeries per year at Liverpool Hospital, a four year retrospective period of data collection will be sufficient for analysis of the primary outcome. A recent period was chosen as anaesthesia management would be relatively unchanged. 
+
+Statistical analysis
+T-tests, Mann-Whitney U tests, and Fisher's exact tests, as appropriate, will be used to compare patient characteristics to mortality at 30- and 120-days. Patients will be stratified into 3 cohorts based on excursion of intra-operative MAP below their pre-surgery MAP, defined as: tight (&lt;= 12% below pre-surgery), intermediate (13  24% below pre-surgery), and loose (&gt;= 25% below pre-surgery). Assuming a pre-surgery MAP of 90mmHg, these cohorts correspond to intra-operative MAP bands of 79  90mmHg (tight control), 68  78mmHg (intermediate control), and &lt;= 67mmHg (loose control), which are clinically relevant values. For the primary outcome, cohorts will be analysed against 30- and 120-day mortality using Cochran-Mantel-Haenszel tests for repeated tests of independence. 
+  Depth of anaesthesia is measured as a dimensionless scale from 0 to 100. For the secondary outcome, depth of anaesthesia will be analysed against 30- and 120-day mortality using the t-test or Wilcoxon signed-rank test. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/01/2017</anticipatedstartdate>
+    <actualstartdate>1/02/2017</actualstartdate>
+    <anticipatedenddate>1/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>954</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>900</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <postcode>2170 - Liverpool</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Alwin Chuan</primarysponsorname>
+    <primarysponsoraddress>Department of Anaesthesia
+Level 1, New Clinical Building
+Liverpool Hospital
+Elizabeth St
+Liverpool NSW 2170</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Department of Anaesthesia, Liverpool Hospital</fundingname>
+      <fundingaddress>Level 1, New Clinical Building
+Liverpool Hospital
+Elizabeth St
+Liverpool NSW 2170</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a retrospective study of the influence of intra-operative blood pressure management and depth of anaesthesia on mortality after fractured neck of femur (NOF) surgery. Hospital admission and surgery for hip fractures is very common, and is associated with a high mortality rate. To date, finding anaesthesia interventions which could influence mortality has been unsuccessful. 
+  This study will review the medical, surgical, and anaesthesia records of patients admitted for NOF surgery in a 4 year period (2012  2016) in Liverpool Hospital. Relevant anaesthesia data, such as blood pressure pre- and intra-operatively, as well as depth of anaesthesia levels, will be collected. NOF patients will be identified through the Department of Orthopaedics database of surgical operations records for the same period. This also records 30- and 120-day mortality. This will allow researchers to analyse the impact of anaesthesia management on post-operative mortality.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South West Sydney HREC</ethicname>
+      <ethicaddress>Research and Ethics Office
+Locked Bag 7103
+LIVERPOOL BC NSW 1871</ethicaddress>
+      <ethicapprovaldate>7/12/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/11/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Alwin Chuan</name>
+      <address>Department of Anaesthesia
+Level 1, New Clinical Building
+Liverpool Hospital
+Elizabeth St
+Liverpool NSW 2170</address>
+      <phone>+61 2 9828 3173</phone>
+      <fax />
+      <email>a.chuan@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Alwin Chuan</name>
+      <address>Department of Anaesthesia
+Level 1, New Clinical Building
+Liverpool Hospital
+Elizabeth St
+Liverpool NSW 2170</address>
+      <phone>+61 2 9828 3173</phone>
+      <fax />
+      <email>a.chuan@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Alwin Chuan</name>
+      <address>Department of Anaesthesia
+Level 1, New Clinical Building
+Liverpool Hospital
+Elizabeth St
+Liverpool NSW 2170</address>
+      <phone>+61 2 9828 3173</phone>
+      <fax />
+      <email>a.chuan@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

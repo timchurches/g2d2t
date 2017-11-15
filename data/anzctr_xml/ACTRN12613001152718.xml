@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364386">
+  <stage>Registered</stage>
+  <submitdate>7/06/2013</submitdate>
+  <approvaldate>15/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001152718</actrnumber>
+  <trial_identification>
+    <studytitle>The impact of a multi-component intervention (including strategies for engagement, education and skill development, personal development and empowerment, and case management support) on high-risk Indigenous and non-Indigenous young people.</studytitle>
+    <scientifictitle>The impact of a multi-component intervention (including strategies for engagement, education and skill development, personal development and empowerment, and case management support) on high-risk Indigenous and non-Indigenous young people.</scientifictitle>
+    <utrn>U1111-1144-1069</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Alcohol and other drug use</healthcondition>
+    <healthcondition>Mental health and resilience</healthcondition>
+    <healthcondition>Involvement in crime related activities</healthcondition>
+    <healthcondition>Educational attainment and/or skills training</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Addiction</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention comprises multiple components including strategies for engagement, education and skill development, personal development and empowerment, and case management support. These components incorporate elements from established interventions, such as the Adolescent Community Reinforcement Approach (ACRA) and empowerment approaches such as Family Well Being (FWB), as well as elements devised by and tailored to individual communities. Consistent with a complex public health trial and the stepped wedge evaluation design, the intervention elements will be tailored and implemented in one community, then tailored and implemented in the next community on a sustained, on-going basis (ie: there is not pre-defined intervention period). Nevertheless, the intervention will be implemented in each community for a minimum of 3 months. Regular formal meetings between the implementation and the evaluation teams will be implemented to improve adherence to the agreed intervention protocols, and adherence will be assessed by identifying the perceptions and acceptability of the intervention to young people and the staff delivering the intervention.</interventions>
+    <comparator>The evaluation uses a stepped wedge design, which means that each community acts as its own control.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Involvement of young people in criminal related incidents, measured using routinely collected data and self-report.</outcome>
+      <timepoint>The routinely collected data will be assessed in the 12 month period following the commencement of the intervention.  The primary timepoint for the self-report data is 12 months after the commencement of the intervention in each community.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Alcohol and other drug use survey items based on those used in major Australian community surveys, including the National Drug Strategy Household Survey and the Australian Secondary Students' Alcohol and Drug Survey. Alcohol, for example, will be assessed using items derived from the Alcohol Use Disorders Identification Test (AUDIT).</outcome>
+      <timepoint>12 months after the commencement of the intervention in each community.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mental health and resilience survey items based on existing and validated tools, including the Growth and Empowerment Measure</outcome>
+      <timepoint>12 months after the commencement of the intervention in each community.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Educational attainment and/or skills training. This will be measured using survey items and program participation records relevant to current or completed educational level (e.g. enrolled in Year 10 high school) and skills training courses (e.g, current or completed certificate training in formal Technical And Further Education courses).  </outcome>
+      <timepoint>12 months after the commencement of the intervention in each community.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>* Aged 12-22 years;
+
+* At high risk of dropping out of school or involvement in crime, as evidenced by the submission of an EOI referral from a school deputy principal or principal, a parent/legal guardian or a police officer/legal-related source.</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>22</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>* Not living in a participating community</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>The evaluation design is a stepped wedge design with the whole community the unit of treatment/intervention.  High risk young people will be referred to the intervention program via schools, police/legal or their parents/guardians.  The program manager will consult with community members as required to decide if the referral meets the eligibility criteria.  All high risk young people offered a place in the intervention program (or their legal guardian) will provide consent for their participation and for their de-identified information to be used in the research.  The participants' decision about whether to provide de-identified data will have no impact on their participation in the program.  The communities were selected on a convenience basis and the order in which they begin the intervention is determined on the basis of logistics (such as formal local agency support for the program to be implemented).</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>The intervention will be implemented sequentially in the participating communities, such that each community acts as its own control and the attribution of any observed effects to the intervention occurs as a consequence of repeated intervention/impact in multiple communities.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>For the routinely collected data, outcome analyses will be conducted separately for each community. Data will be aggregated quarterly across the pre- and post-intervention (12 months) periods.  All data will be checked for non-stationarity and seasonality effects. The presence of autocorrelation will be checked (because data are longitudinal).  The effect of the multi-component intervention will be assessed using regression analysis, although the specific technique used will depend on the distribution of the data (e.g. if the data are over-dispersed we would use a negative binomial model, such as Generalised Estimating Equations, rather than a Poisson model).
+
+Analysis of self-reported pre-post intervention survey data will use the appropriate repeated measures ANOVA (eg. 2 communities x 2 time points) to test for differences in measures of alcohol and other drug use, mental health and resilience, and educational attainment or skills training.  As an incomplete factorial design, data will be combined from communities in the same phases (data from communities in the pre intervention phase will be compared to those in the post intervention phase). Individuals will be the unit of analysis, but analyses will be adjusted for clustering of individuals within communities. Assuming 60 young people are recruited, the study will have 80% power to detect differences in outcome of approximately 0.7 to 1 standard deviation (assuming a design effect of 2) at the 5% significance level.
+
+Process measures will report on adherence to intervention protocols and intervention acceptability using descriptive statistics as appropriate.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>18/11/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of NSW</primarysponsorname>
+    <primarysponsoraddress>National Drug and Alcohol Research Centre
+University of NSW
+Sydney NSW 2052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Crime and substance use harms are not distributed equitably among young people but are concentrated in a relatively small proportion of high-risk young people.  That these harms are disproportionately high among Indigenous Australians has been well documented: they are 3-5 times more likely than non-Indigenous Australians to be hospitalised for mental/ behavioural disorders from cannabis and multiple drug use; tobacco-related diseases are up to 24 times more prevalent ; and all-cause alcohol-related disease and injury is twice as prevalent for Indigenous males and seven times greater for Indigenous females.  Young Indigenous Australians are particularly vulnerable: rates of alcohol-related suicide among 15-29 year old Indigenous Australians are four (males) and five (females) times higher than for non-Indigenous Australians; and more than 50% of 10-17 year old juvenile detainees are Indigenous, despite Aboriginal Australians comprising only an estimated 2% of the population.  Recent data suggest that attempting to engage with Indigenous Australians in the first half of their teenage years may be most effective: harmful levels of alcohol consumption in the previous month was reported by 69% of 18-25 year olds and 20% of 12-15 year olds, indicating a rapid up-scaling of harmful drinking over a relatively short-time period.  Survey participants identified multiple risk factors (primarily family issues, a lack of social activity and a preference for spirits), suggesting a multi-component intervention that simultaneously addresses multiple issues would be promising.  Systematic reviews of the Indigenous literature have identified three critical limitations: there have been few evaluations of interventions to reduce substance use among young Indigenous Australians; those that do exist are one dimensional; and there have been no economic evaluations.  The aim of this study is to quantify the benefits of a multi-component intervention for high risk young people, with a focus on Indigenous young people.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of NSW Human Research Ethics Committee</ethicname>
+      <ethicaddress>University of NSW
+Sydney NSW 2052</ethicaddress>
+      <ethicapprovaldate>24/04/2013</ethicapprovaldate>
+      <hrec>HC13055</hrec>
+      <ethicsubmitdate>5/03/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Anthony Shakeshaft</name>
+      <address>National Drug and Alcohol Research Centre (NDARC)
+University of NSW
+Sydney NSW 2052</address>
+      <phone>+61 2 9385 0333</phone>
+      <fax />
+      <email>a.shakeshaft@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Alice Knight</name>
+      <address>NDARC
+University of NSW
+Sydney NSW 2052</address>
+      <phone>+61 2 9385 0333</phone>
+      <fax />
+      <email>alice.knight@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Anthony Shakeshaft</name>
+      <address>NDARC
+University of NSW
+Sydney NSW 2052</address>
+      <phone>+61 2 9385 0333</phone>
+      <fax />
+      <email>a.shakeshaft@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Alice Knight</name>
+      <address>NDARC
+University of NSW
+Sydney NSW 2052</address>
+      <phone>+61 2 9385 0333</phone>
+      <fax />
+      <email>alice.knight@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,259 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371474">
+  <stage>Registered</stage>
+  <submitdate>26/09/2016</submitdate>
+  <approvaldate>29/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001353482</actrnumber>
+  <trial_identification>
+    <studytitle>Clinical Effectiveness of Atrial Anti-tachycardia Pacing Therapy in Sick Sinus Syndrome with Previous Atrial Fibrillation Ablation (CEASE-AF)</studytitle>
+    <scientifictitle>Clinical Effectiveness of Atrial Anti-tachycardia Pacing Therapy in Sick Sinus Syndrome with Previous Atrial Fibrillation Ablation</scientifictitle>
+    <utrn />
+    <trialacronym>CEASE-AF</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Sick sinus syndrome</healthcondition>
+    <healthcondition>Atrial Fibrillation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Dual chamber pacemaker device - MVP+APP+aATP algorithm group
+Intervention period: 12 months
+
+1.	Managed ventricular pacing 
+MVP is an atrial-based pacing mode that is designed to switch to a dual-chamber pacing mode in the presence of AV block. Specifically, MVP provides the following functions:
+*AAI(R) mode pacing when AV conduction is intact
+*The ability to switch to DDD(R) pacing during AV block
+*Periodic conduction checks while operating in DDD(R) mode, with the ability to switch back to AAI(R) mode when AV conduction resumes
+*Back-up ventricular support for transient loss of AV conduction
+
+2.	Atrial Preference Pacing (APP)
+The device includes three atrial preventive pacing algorithms designed to eliminate some of the onset mechanisms of atrial tachyarrhythmias and to reduce the incidence of atrial tachyarrhythmias. These atrial pacing features comprise the atrial pacing preference algorithm, for maintenance of a pacing rate just above the intrinsic rate, the atrial rate stabilization algorithm, designed to avoid short-long intervals following a premature atrial contraction, and the post-mode switching overdrive pacing algorithm designed to inhibit early re-initiation of atrial tachyarrhythmia following a mode switching episode.
+
+3.	Reactive atrial Anti-tachycardia pacing 
+If the device detects an atrial tachyarrhythmia episode, aATP therapy will be delivered. Treatments for such episodes are intended to interrupt the atrial tachycardia and restore patients normal sinus rhythm. 
+The device can deliver up to 3 aATP therapies to treat an AT/AF or a Fast AT/AF episode. aATP therapies become available when the duration of sustained atrial tachyarrhythmias exceeds the programmed value of episode duration before aATP delivery -  which in this study will be set at 0 minute.
+When an AT/AF or Fast AT/AF episode is detected, the device delivers the first sequence of the ATP therapy. After the first ATP sequence, it continues to monitor for the presence of the atrial tachycardia episode. If it redetects the atrial tachycardia episode, the device and repeats this cycle until the episode is terminated or all sequences in the therapy are exhausted.
+</interventions>
+    <comparator>MVP algorithm only group</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>AT/AF burden
+will be assessed by interrogating pacemaker device with device programmer. 
+AT/AF burden will be measured as percentage and minutes per day</outcome>
+      <timepoint>3 months, 6 months, 9 months, and 12 months post commencement of intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>ATP efficacy
+will be assessed by interrogating pacemaker device with device programmer. 
+ATP efficacy will be measured as percentage.</outcome>
+      <timepoint>6 months and 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of subject who develop AF (Paroxysmal, persistent, and permanent)
+AF will be evaluated from pacemaker storage that is manually adjudicated by an electrophysiology consultant. </outcome>
+      <timepoint>12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life
+Will be evaluated by AFSS questionnaire</outcome>
+      <timepoint>6 months and 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Fibrotic changes that will be assessed from blood sample.
+Serum biomarkers that will be used are TGF-alpha, TIMP, and MMP9</outcome>
+      <timepoint>6 months and 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Electrical changes (SNRT, cSNRT, Wenkebach block point)
+Will be assessed by interrogating pacemaker with device programmer</outcome>
+      <timepoint>6 months, 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Structural changes measured by echocardiogram
+Parameter that will be assessed: LV ejection fraction, cardiac chamber dimension, and diastolic function</outcome>
+      <timepoint>6 months and 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inflamatory changesthat will be assessed from blood sample.
+Serum biomarkers that will be used is hs-CRP</outcome>
+      <timepoint>6 and 12 months post commencement of intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>a.	The patient has a dual chamber pacemaker capable of atrial anti-tachycardia based therapy,
+b.	Had AF ablation at least 3 months prior to recruitment,
+c.	AF/atrial arrhythmia burden &gt;0.1% and &lt;30%,
+d.	greater than or equal to 18 years of age 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>a.	Atrioventricular block with ventricular pacing &gt;40 percent,
+b.	Atrial fibrillation episode &gt;90 days. However, presence of prolonged episodes of atrial flutter will not be an exclusion corner,
+c.	Absence of indication for cardiac resynchronization or defibrillator,
+d.	Had &lt; 12 months of life expectancy,
+e.	Cardiac surgery in the last six months, or expected during 12 months of study period,
+f.	A recent history of (&lt; 1 year) or current malignancy, advanced heart failure (NYHA class IV), end-stage chronic obstructive pulmonary disease or other severe life-threatening comorbidities within 3 months of diagnosis, or
+g.	Unable to provide consent.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>computerised sequence generation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The sample size was calculated based on the study that showed a recurrence rate of 48.6% after AF ablation in patients with paroxysmal AF and prolonged sinus pauses and a 49% relative reduction in the DDDR with all algorithm ON (MVP+APP+aATP) versus DDDR+MVP group, with a power of 80%, a confidence interval of 95%, and an assumed rate of loss to follow-up of 10%. Based on the calculation, it is planned to recruit 68 patients in each arm. 
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/10/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/12/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>136</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <postcode>5000 - Adelaide</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Centre for Heart Rhythm Disorders, University of Adelaide, Royal Adelaide Hospital</primarysponsorname>
+    <primarysponsoraddress>Level 5
+McEwin Building
+Royal Adelaide Hospital 
+THE UNIVERSITY OF ADELAIDE
+SA 5000
+AUSTRALIA
+
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Centre for Heart Rhythm Disorders, University of Adelaide, Royal Adelaide Hospital</fundingname>
+      <fundingaddress>Level 5
+McEwin Building
+Royal Adelaide Hospital 
+THE UNIVERSITY OF ADELAIDE
+SA 5000
+AUSTRALIA
+
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The scientific literature shows that there is an increased risk of developing AF in patients implanted with a pacemaker due to sinus node dysfunction. To overcome this, advance algorithms were developed to reduce the  AF burden. 
+
+The purpose of this study is to evaluate whether the specific pacemaker algorithms in question contribute to the suppression of AF. It is expected that the finding of this research will aid in the development of best practice guidelines for patients with pacemaker devices.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>CALHN HUMAN RESEARCH ETHICS RAH</ethicname>
+      <ethicaddress>Royal Adelaide Hospital, Level 4, Womens Health Centre
+North Terrace, Adelaide, SA 5000</ethicaddress>
+      <ethicapprovaldate>23/09/2016</ethicapprovaldate>
+      <hrec>HREC/16/RAH/286</hrec>
+      <ethicsubmitdate>18/07/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/371474-CEASE-AF Protocol - update26Augl2016.docx</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/371474-participant information and inform consent-update_26Aug2016.docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Prashanthan Sanders</name>
+      <address>CVIU, Level 6, Theatre Block
+Royal Adelaide Hospital
+North terrace, Adelaide, South Australia, 5000</address>
+      <phone>+61882222723</phone>
+      <fax />
+      <email>prash.sanders@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dian Munawar</name>
+      <address>CVIU, Level 6, Theatre Block
+Royal Adelaide Hospital
+North terrace, Adelaide, South Australia, 5000</address>
+      <phone>+61406400335</phone>
+      <fax />
+      <email>dian.munawar@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dian Munawar</name>
+      <address>CVIU, Level 6, Theatre Block
+Royal Adelaide Hospital
+North terrace, Adelaide, South Australia, 5000</address>
+      <phone>+61406400335</phone>
+      <fax />
+      <email>dian.munawar@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dian Munawar</name>
+      <address>CVIU, Level 6, Theatre Block
+Royal Adelaide Hospital
+North terrace, Adelaide, South Australia, 5000</address>
+      <phone>+61406400335</phone>
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

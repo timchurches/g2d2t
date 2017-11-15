@@ -1,0 +1,254 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371815">
+  <stage>Registered</stage>
+  <submitdate>9/11/2016</submitdate>
+  <approvaldate>14/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001570471p</actrnumber>
+  <trial_identification>
+    <studytitle>Fentanyl versus placebo to ameliorate the haemodynamic response to rapid sequence intubation using ketamine and rocuronium in emergency department patients.</studytitle>
+    <scientifictitle>Does fentanyl or placebo more effectively ameliorate the haemodynamic response to rapid sequence intubation using ketamine and rocuronium in patients requiring intubation in the emergency department.</scientifictitle>
+    <utrn>U1111-1189-6521</utrn>
+    <trialacronym>FAKE-IT</trialacronym>
+    <secondaryid>NIL KNOWN</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Rapid sequence intubation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients requiring rapid sequence intubation in the emergency department using ketamine and rocuronium in the opinion of their treating doctor will be randomised to one of two arms in a 1:1 ratio.   In addition to the trial medication (described below), each patient will receive either ketamine 1mg/kg + rocuronium 1.5mg/kg (reduced dosing group), or ketamine 2mg/kg + rocuronium 1.5mg/kg (standard dose). The medications will be administered as an intravenous bolus. As the requirement for reduced dosing is multifactorial, and is not readily distilled into an algorithm, the decision as to whether to use standard or reduced dosing will be at the discretion of the treating doctor (who will be at least a senior registrar) using clinical gestalt.
+
+The treatment arm will receive the medication detailed above, preceded by fentanyl 2mg/kg (standard dose) or 1mg/kg (reduced dose) as an intravenous bolus.
+
+The drugs will be adminstered in the order of fentanyl (or placebo), followed by ketamine, followed by rocuronium, in a rapid sequence.  Following the administration of the medications, intubation will proceed in a standardised fashion.</interventions>
+    <comparator>The control group will be administered an equal volume of 0.9% saline rather than fentanyl.  The 0.9% saline will be provided in a pre-drawn syringe, identical to those that the fentanyl is provided in.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The percentage of patients with a systolic blood pressure falling outside of the range of 100-150mmHg.</outcome>
+      <timepoint>Within the first ten minutes following the administration of the trial medication.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary end-points of hypoxia (Sp02 less than or equal to 93%), as measured by continuous pulse oximetry.</outcome>
+      <timepoint>Within 10 minutes of administration of the study medication</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tachycardia (HR greater than or equal to 120), as measured using continuous three lead cardiac monitoring.
+
+</outcome>
+      <timepoint>Within 10 minutes of the administration of study medication</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiac arrest (loss of palpable pulse and ETC02&lt;10, associated with the use of cardiac compressions or commencement of procedures to reverse traumatic cardiac arrest).</outcome>
+      <timepoint>Within 10 minutes of the administration of study medication</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cormack-Lehane laryngoscopic view.</outcome>
+      <timepoint>Between the administration of study medication, and the placement of a cuffed tube in the trachea.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients intubated on the first pass (i.e. following a single laryngoscope insertion by a single operator).</outcome>
+      <timepoint>Between the administration of study medication and the placement of a cuffed tube in the trachea.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients in whom the use of a supraglottic airway devices is necessary.</outcome>
+      <timepoint>Within thirty minutes following the administration of study medication.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients undergoing cricothyroidotomy.</outcome>
+      <timepoint>Within thirty minutes of the administration of study medication.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause mortality</outcome>
+      <timepoint>30 days after enrollment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Any patient over the age of 18 who:
+
+1) Requires rapid sequence intubation, and;
+2) In whom the proposed induction regime is at least as suitable as any of the alternatives in the opinion of the treating doctor. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age &lt;18 years, known or suspected allergy to ketamine, fentanyl or rocuronium, requirement for paralysis only induction, or an alternative induction regime required in the opinion of the treating physician.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment by the use of sealed opaque envelopes, containing the study number of the syringe to be used.</concealment>
+    <sequence>Block randomisation, from a randomisation schedule generated from sealedenvelope.com.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>A prior study by Lyon et al*, comparing etomidate and suxamethonium with fentanyl, ketamine and rocuronium (in a 'before and after' fashion), showed that approximately 80% of the first group and 40% of the second became hypotensive or hypertensive following RSI. Jabre et als** RCT, comparing ketamine and etomidate use for RSI showed that both were associated with similar changes in systolic blood pressure. Consequently, it seems plausible that the addition of fentanyl to an induction regime of ketamine and rocuronium could reduce the proportion of patients meeting the primary end-point from approximately 80% to approximately 40%.  
+
+As it is typical for observational studies to overstate treatment effects, a margin for error has been allowed, and the figures of 70% and 50% have been used. Using these estimates, with a power of 90%, and a significance level set at 0.05, we calculate that a sample size of 134 in each group will be necessary to detect a true difference.
+
+To allow for dropouts, approximately 10% will be added to the planned sample size, meaning that a target of 300 patients (150 in each arm) will be recruited.
+
+Data will be entered into an electronic spread sheet for analysis using Stata version 11 (Statacorp, TX). Normally distributed data will be described as means, with 95% confidence intervals, and non-normally distributed data will be described as medians, with interquartile range.
+
+*Lyon RM et al. Significant modification of traditional rapid sequence induction improves safety and effectiveness of pre-hospital trauma anaesthesia. Crit Care. 2015; 19(1): 134.
+**Jabre P et al. Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial. Lancet 2009; 374:293-300.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>15/08/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>15/08/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>17/09/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <postcode>2170 - Liverpool</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Ian Ferguson</primarysponsorname>
+    <primarysponsoraddress>Liverpool Hospital 
+Locked Bag 7103
+Liverpool BC
+NSW 1871</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Liverpool Hospital</fundingname>
+      <fundingaddress>Locked Bag 7103
+Liverpool BC
+NSW 1871</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Ketamine is an induction agent to induce general anaesthesia in the emergency department, associated with less frequent episodes of hypotension than other agents such as thiopentone1 or propofol2. However, it is typically associated with increases in blood pressure in stable patients, and can cause hypotension in shocked patients3.
+
+In critically ill patients, avoiding hypotension is important, as its occurrence is known to be associated with poor outcomes4, particularly in the head injured patient5.  However, hypertension is also associated with poorer outcomes, particularly in patients with intracranial bleeds (although cause and effect is not established) 6, and is usually avoided in haemorrhagic shock, due to consensus concern about increasing bleeding7,8.
+
+Co-administration of fentanyl during rapid sequence induction has been advocated as leading to less deviation from baseline haemodynamics9.  
+
+It remains unclear whether in the emergency department and pre-hospital setting, this has any significant impact on mortality, and this exploratory study aims to evaluate whether patients undergoing RSI with ketamine and fentanyl, rather then ketamine and placebo have fewer episodes of adverse haemodynamic effects (systolic blood pressure less to 91 mmHg or greater than 149 mmHg) within the first 10 minutes following induction, and whether there is a subsequent difference in mortality at 3, 7 and 30 days.
+
+The study will be powered to detect a difference in the percentage of patients who meet the primary endpoint of low or high blood pressure, and will be used to inform future work regarding difference in mortality benefit.
+
+1.	White PF. Comparative evaluation of intravenous agents for rapid sequence induction thiopental, ketamine and midazolam. Anaethesiology, Oct 1982; 57(4): 279-84
+2.	Hug CC Jr et al. Haemodynamic effects of propofol: Data from over 25,000 patients. Anaethesia and Analgesia, 1993; 77 (4 suppl):S21-9.
+3.	Miller M et al.  The haemodynamic response following ketamine induction for pre-hospital anaesthesia in shocked and non-shocked patients.  Ann Emerg Med, 2016 April;
+4.	Hefner AC et al. The frequency and significance of post-intubation hypotension during emergency airway management. J Crit Care. 2012 Aug; 27(4):417, e9-13.
+5.	Manly G, et al. Hypotension, hypoxia and head injury: Frequency, duration and consequences. Archiv Surg. 2001 Oct; 136(10):1118-23.
+6.	Honner SK et al. Emergency department control of blood pressure in intracerebral haemorrhage. J Emerg Med. 2011; 414(4): 355-61.
+7.	Bickell WH, Wall MJ Jr, Pepe PE, Martin RR, Ginger VF, Allen MK, Mattox KL. Immediate versus delayed fluid resuscitation for hypotensive patients with penetrating torso injuries. N Engl J Med. 1994 Oct 27;331(17):1105-9.
+8.	Dutton RP, Mackenzie CF, Scalea TM. Hypotensive resuscitation during active hemorrhage: impact on in-hospital mortality. J Trauma. 2002 Jun;52(6):1141-6.
+9.	Lyon RM et al. Significant modification of traditional r</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South West Sydney Human Research Ethics Committee</ethicname>
+      <ethicaddress>Liverpool Hospital HREC
+Locked Bag 7103
+Liverpool BC
+NSW 1871
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>31/01/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ian Ferguson</name>
+      <address>Emergency Department
+Liverpool Hospital
+Locked Bag 7103
+Liverpool BC
+NSW 1871</address>
+      <phone>+61 2 8738 3950</phone>
+      <fax />
+      <email>Ian.Ferguson@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ian Ferguson</name>
+      <address>Emergency Department
+Liverpool Hospital
+Locked Bag 7103
+Liverpool BC
+NSW 1871</address>
+      <phone>+61 403859555</phone>
+      <fax />
+      <email>ianferguson@doctors.org.uk</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ian Ferguson</name>
+      <address>Emergency Department
+Liverpool Hospital
+Locked Bag 7103
+Liverpool BC
+NSW 1871</address>
+      <phone>+61 2 8738 3950</phone>
+      <fax />
+      <email>Ian.Ferguson@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ian Ferguosn</name>
+      <address>Emergency Department
+Liverpool Hospital
+Locked Bag 7103
+Liverpool BC
+NSW 1871</address>
+      <phone>+61 2 8738 3950</phone>
+      <fax />
+      <email>Ian.Ferguson@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

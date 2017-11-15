@@ -1,0 +1,300 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362612">
+  <stage>Registered</stage>
+  <submitdate>8/06/2012</submitdate>
+  <approvaldate>13/06/2012</approvaldate>
+  <actrnumber>ACTRN12612000632897</actrnumber>
+  <trial_identification>
+    <studytitle>The Influence of Anaesthetic Depth on Patient Outcome after Major Surgery</studytitle>
+    <scientifictitle>A prospective, randomised, double-blind, active control, parallel assessment, intention to treat, safety and efficacy study comparing "light" and "deep" general anesthesia monitored with Bispectral Index (BIS) to investigate whether depth of anesthesia alters peri-operative outcomes in patients having major surgery</scientifictitle>
+    <utrn />
+    <trialacronym>BALANCED</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Perioperative Outcomes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>General anaesthesia monitored with Bispectral Index (BIS). BIS targets will be either 50 or 35. We expect 90% of anaesthesia time to be within 5 units of the target range and no deviations for &gt;5 minutes. Anaesthesia standard care using standard anaesthetic hypnotics, volatiles, opioids and relaxants, intravenous or inhalational gas induction, volatile maintenance, continuous BIS monitoring, computerised data logging of BIS, blood pressure and volatile anaesthetic concentration. An individualised blood pressure target range appropriate for the patient being studied will be set by the anaesthetist before BIS target randomization</interventions>
+    <comparator>Comparison between BIS target of 50 and 35 will be the comparable treatment</comparator>
+    <control>Dose comparison</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>One-year mortality. One year mortality will be compared between randomised groups using a Mantel-Haenszel Chi-square test, stratified on study centre. 
+A two-tailed p-value &lt;0.049 will be taken to indicate statistical significance. 
+One year mortality is expected to be approximately 10% based on the findings of Leslie's study and Australasian studies.  The reduction in mortality in the light anaesthesia group is expected to be 20%. 
+A power analysis using p1=0.10 and p2=0.08 indicates that N=3250 patients are required in each group, Beta=0.8,alpha=0.049. The alpha level is reduced to allow for the single interim analysis.</outcome>
+      <timepoint>one year after randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Morbidity review for the presence of myocardial infarction (MI), cardiac arrest, pulmonary embolism (PE), stroke, sepsis, surgical site infection, Intensive Care Unit (ICU) stay, hospital stay, awareness, WHODAS disability score, disability free survival, persistent postoperative pain and cancer recurrence will be compared between randomized groups using Mantel-Haenszel chi-square tests or Fisher's exact test depending on the expected cell frequencies. Additionally a composite score including the presence of any of MI, cardiac arrest, stroke, PE, sepsis and surgical site infection, will be compared between randomised groups also using a chi-square test. Additional analyses will also explore the role of MI, cardiac arrest, stroke, PE,  sepsis and surgical site infection on one year mortality using Cox's proportional hazards regression to develop a model of independent predictors of one year mortality. The randomized group will be added to this model to assist explanation of any observed differences in outcome between the randomized groups. </outcome>
+      <timepoint>30 days and one year randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age equal to/greater than 60 years, ASA grade 3 or 4, surgery expected to last &gt;2 hours, post-operative hospital stay expected to be 2 or more nights, general anaesthesia with or without major regional block.</inclusivecriteria>
+    <inclusiveminage>60</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to monitor BIS (eg cranial or intracranial surgery), not expected to survive one year, unable to consent, not expected to be contactable in one year, surgery with wake-up test.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients who are eligible for the trial will be identified by a consultant anesthetist and given the trial information sheet by a member of the research team and encouraged to discuss the study with their family or whanau before written informed consent is sought.
+Treatment allocation
+Once all entry details are given and eligibility confirmed, the patient will be randomised by contacting the automated central telephone randomisation service.  Allocation will be concealed from subjects, investigators and outcome assessors.  Only the anesthetist conducting the anesthesia will be aware of the treatment allocation.</concealment>
+    <sequence>Simple randomisation using a randomisation table generated by a computer software - sequence.  Assignment to one of the two groups will be stratified for collaborating centre and a unique study number given.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2 />
+    <masking3>True</masking3>
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/10/2012</anticipatedstartdate>
+    <actualstartdate>19/12/2012</actualstartdate>
+    <anticipatedenddate>30/11/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>6500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/03/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <hospital>St Vincents Private Hospital Lismore - Lismore</hospital>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Western Hospital - Henley Beach</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <hospital>Prince of Wales Hospital - Randwick</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Peter MacCallum Cancer Institute - East Melbourne</hospital>
+    <hospital>Barwon Health - Geelong Hospital campus - Geelong</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>St John of God Hospital, Ballarat - Ballarat</hospital>
+    <hospital>St John of God Hospital, Subiaco - Subiaco</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>King Edward Memorial Hospital - Subiaco</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <hospital>Epworth Richmond - Richmond</hospital>
+    <hospital>Nambour General Hospital - Nambour</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Shantin, New Territories</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Assoc Professor Dr Timothy Short</primarysponsorname>
+    <primarysponsoraddress>Department of Anaesthesia
+Level 8, Support Building
+Auckland City Hospital
+Park Rd
+Grafton
+Auckland 1023</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of new Zealand</fundingname>
+      <fundingaddress>Level 3 - ProCARE Building, Grafton Mews, at 110 Stanley Street, Auckland 1010</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street,
+Canberra,
+ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>Australia New Zealand College of Anaesthetist Clinical Trials Group</othercollaboratorname>
+      <othercollaboratoraddress>ANZCA House
+630 St Kilda Road
+Melbourne Vic 3004</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>Monash University</othercollaboratorname>
+      <othercollaboratoraddress>School of Public Health and Preventive Medicine
+The Alfred Centre
+99 Commercial Road
+Melbourne Vic 3004
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Approximately 450,000 people undergo surgery for various reasons in New Zealand. Most of these people are given general anaesthesia for their procedure. We use a range of monitoring to assess vital signs and other safety factors. One of the monitoring systems we use is the Bi-spectral Index (BIS), which uses electroencephalogram (EEG) waves to determine the depth (how deeply anaesthetised) patients are during their procedure. These monitoring systems are widely available nationally and internationally, however, the optimal depth at which anaesthetics should be given is unknown. Recent observational studies have shown a 20% increase in mortality in patients undergoing major surgery who receive relatively deep anaesthesia. We plan to perform a large scale randomized trial investigating the difference between two clinically standard depth ranges, which are commonly referred to light and deep anaesthesia, to definitively answer the question of whether anaesthetic depth alters surgical outcome. In particular we will look at death rate at one year and also whether there are differences in other complications of surgery and anaesthesia, including wound infection, cardiovascular and neurological complications, pain and awareness</summary>
+    <trialwebsite>http://balancedstudy.org.nz/</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern A Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Health and Disability Ethics Committees
+Ministry of Health
+1 the Terrace
+PO Box 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>3/09/2012</ethicapprovaldate>
+      <hrec>12/NTA/16</hrec>
+      <ethicsubmitdate>11/06/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Royal Melbourne Hospital
+Office for Research
+CITY CAMPUS
+Level 6
+East
+300 Grattan Street
+Parkville 
+Victoria 3050
+</ethicaddress>
+      <ethicapprovaldate>18/03/2013</ethicapprovaldate>
+      <hrec>HREC/12/MH/385</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Timothy Short</name>
+      <address>Anaesthesia Research
+Department of Anaesthesia and Perioperative Medicine
+Level 8, Support Building
+Auckland City Hospital
+Park Rd
+Grafton
+Auckland 1023</address>
+      <phone>+6493670000</phone>
+      <fax>+6493754378</fax>
+      <email>tims@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Davina McAllister</name>
+      <address>Anaesthesia Research
+Department of Anaesthesia and Perioperative Medicine
+Level 8, Support Building
+Auckland City Hospital
+Park Rd
+Grafton
+Auckland 1023</address>
+      <phone>+6493757095</phone>
+      <fax>+6493754378</fax>
+      <email>davinams@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Davina McAllister</name>
+      <address>Anaesthesia Research
+Department of Anaesthesia and Perioperative Medicine
+Level 8, Support Building
+Auckland City Hospital
+Park Rd
+Grafton
+Auckland 1023</address>
+      <phone>+6493757095</phone>
+      <fax>+6493754378</fax>
+      <email>davinams@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Timothy Short</name>
+      <address>Dept Adult and Trauma Anaesthesia
+Level 8, Support Building
+Auckland City Hospital
+2 Park Road
+Grafton
+Auckland 1023</address>
+      <phone>+64 9 3074949 extn 25720</phone>
+      <fax>+64 9 3754378</fax>
+      <email>tims@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,630 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1157">
+  <stage>Registered</stage>
+  <submitdate>8/05/2006</submitdate>
+  <approvaldate>8/05/2006</approvaldate>
+  <nctid>NCT00324155</nctid>
+  <trial_identification>
+    <studytitle>Dacarbazine and Ipilimumab vs. Dacarbazine With Placebo in Untreated Unresectable Stage III or IV Melanoma</studytitle>
+    <scientifictitle>A Multi-center, Randomized, Double-Blind, Two-Arm, Phase III Study in Patients With Untreated Stage III (Unresectable) or IV Melanoma Receiving Dacarbazine Plus 10 mg/kg Ipilimumab (MDX-010) vs. Dacarbazine With Placebo</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>CA184-024</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Melanoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Malignant melanoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Ipilimumab
+Treatment: drugs - Placebo
+Treatment: drugs - Dacarbazine
+
+Experimental: Arm A: Ipilimumab and Dacarbazine - In Maintenance phase: Ipilimumab will be continued. Dacarbazine was given up to Week 22 and is not given in the Maintenance phase
+
+Active Comparator: Arm B: Placebo and Dacarbazine - 
+
+
+Treatment: drugs: Ipilimumab
+Intravenous solution; intravenous; 10mg/kg; one dose every 3 weeks for 10 weeks then one dose every 12 weeks starting at Week 24, until disease progression, unacceptable toxicity or withdrawal of consent
+In Maintenance phase: Only Ipilimumab: 10mg/kg, every 12 weeks will be continued until disease progression
+
+Treatment: drugs: Placebo
+Intravenous solution; intravenous; 0 mg; one dose every 3 weeks for 10 weeks then one dose every 12 weeks starting at Week 24; until disease progression, unacceptable toxicity or withdrawal of consent
+
+Treatment: drugs: Dacarbazine
+Intravenous solution; intravenous; 850 mg/m^2; one dose every 3 weeks for 22 weeks, until disease progression, unacceptable toxicity or withdrawal of consent
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) - OS was defined as the time from the date of randomization until the date of death. Analysis of OS was to be done once 416 deaths had occurred (primary endpoint). However, analysis occurred at 414 deaths (February 7, 2011), due to operational timing of the study. Median number of months of OS and associated confidence interval calculated using the method of Brookmeyer and Crowley.</outcome>
+      <timepoint>Date of randomization to 37 months through 5-year follow-up and up to approximately 76 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Survival Rate at 1 Year, 18 Months, 2 Years, and 3 Years - The survival rate (percentage of participants alive) was defined as the probability that a participant is alive at 1 year (or 18 months, 2 years, or 3 years) following randomization and was estimated via the Kaplan-Meier method.</outcome>
+      <timepoint>Date of randomization to 3 years following randomization</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Control Rate (DCR) - DCR=number whose best overall response (BOR) was partial response (PR), complete response (CR) or stable disease (SD), divided by all randomized participants (unevaluable participants included). Independent review committee assessment. BOR=date of first dose to last tumor assessment prior to subsequent cancer therapy (including tumor resection, excluding palliative local radiotherapy). Modified World Health Organization criteria: CR=disappearance of all lesions; no evidence of progressive disease (PD); PR=50% or more decrease in the sum of products of the longest diameter and greatest perpendicular diameter of all index lesions compared with baseline; SD=neither sufficient decrease to qualify for PR nor sufficient increase to qualify for PD; PD=at least 25% increase in sum of products of all index lesions and/or appearance of any new lesions; nonindex lesions: appearance of any new lesions and/or unequivocal progression of nonindex lesions.</outcome>
+      <timepoint>First dose to last tumor assessment prior to subsequent therapy at data cutoff for Primary Endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Median Number of Months of Progression-free Survival (PFS) - PFS=time between randomization and date of progression or death, whichever occurs first. Participants who died without reported prior progression were considered to have progressed on date of death. For those alive and not progressed, PFS was censored on date of last evaluable tumor assessment (TA). Those who have not died and have no recorded postbaseline TA were censored at randomization. Those who died without any recorded postbaseline TA were considered to have progressed on date of death. Evaluation was conducted by both investigator and an independent review committee (IRC), who assessed radiologic imaging studies, photographs of skin lesions, and clinical data. Progressive disease defined using modified criteria of the World Health Organization: demonstration of at least a 25% increase in the sum of products of all index lesions or the appearance of any new lesions. For nonindex lesions: appearance of any new lesions or unequivocal progression of nonindex lesions.</outcome>
+      <timepoint>Randomization to date of progression or death to approximately 5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-free Survival (PFS) Rate Truncated at Week 12 - PFS rate=probability patient was progression-free at Day 78, calculated as total patients receiving treatment and with an overall response of stable disease (SD), partial response (PR), or complete response (CR) at Week 12, divided by total patients. For those alive and not progressed at or before Week 12, PFS censored on date of last evaluable tumor assessment (TA) at or before Week 12. Those with an assessment of PD prior to Week 12 and subsequent assessment of SD, PR, or CR at Week 12 were called progression-free at Week 12. Those with no recorded postbaseline TA dated on or before Day 109, and who had not died on or before Day 109, were censored at randomization. PD=at least 25% increase in sum of products of all index lesions or appearance of any new lesions. Both an investigator and independent review committee (IRC) assessed radiologic imaging studies, photographs of skin lesions, and clinical data. IRC assessment was considered primary over that of the investigators.</outcome>
+      <timepoint>Day 78</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Best Overall Response Rate (BORR) - BORR=number with Best Overall Response (BOR) of complete response (CR) or partial response (PR), divided by total number of randomized patients. BOR=date of first dose to the last tumor assessment prior to subsequent cancer therapy (including tumor resection surgery but excluding palliative local radiotherapy for bone lesions). Independent review committee assessment. Modified criteria of the World Health Organization (mWHO): CR=disappearance of all lesions; no evidence of progressive disease; PR=50% or greater decrease in the sum of products of the longest diameter and greatest perpendicular diameter of all index lesions compared with baseline. Immune-related (ir) response criteria (irRC) assess tumor response in patients on immunotherapy: irCR=disappearance of all lesions in 2 consecutive observations at least 4 weeks apart; irPR=50% or greater decrease in total measureable tumor burden compared with peak in 2 observations at least 4 weeks apart.</outcome>
+      <timepoint>First dose to last tumor assessment at data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DOR): Randomized Participants With Response of Complete Response (CR) or Partial Response (PR) - DOR defined in those with Best Overall Response (BOR)=CR or PR per independent review committee (IRC) as time between date of response of confirmed CR or PR, whichever occurred first, and date of PD or death. If PR assessed before CR, DOR confirmed at earlier time-point showing PR. Modified criteria of the World Health Organization (mWHO): CR=disappearance of all lesions;no evidence of PD; PR=50% or greater decrease in the sum of products of longest and greatest perpendicular diameters (SPD) of all index lesions compared with baseline. PD=an increase of 25% or greater in SPD of index lesions compared with the smallest recorded sum, or appearance of 1 or more new lesions. Immune-related response criteria (irRC): SD=50% decrease in total measurable tumor burden compared with peak cannot be established nor 25% increase compared with nadir, in absence of unequivocal progression of nonindex lesions. Unconfirmed immune-related (ir) CR, irPR, or irPD=irSD.</outcome>
+      <timepoint>Day of CR or PR to day of PD or death up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Response: All Randomized Participants With Response to Treatment - Time to response was defined as the time between the first dose of study therapy and the date when measurement criteria were met for Best Overall Response (BOR) of partial response (PR) or complete response (CR), whichever occurred first, per independent review committee. Note that if an overall response of PR occurred before confirmation of CR, the time to response endpoint was not determined by the time that the BOR of CR was shown but rather by the earlier time point showing PR. Modified criteria of the World Health Organization: CR=disappearance of all lesions; no evidence of progressive disease (PD); PR=50% or more decrease in the sum of products of the longest and greatest perpendicular diameters (SPD) of all index lesions compared with baseline; PD=an increase of 25% or greater in the SPD of index lesions compared with the smallest recorded sum, or the appearance of 1 or more new lesions.</outcome>
+      <timepoint>First dose to date of BOR up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Stable Disease (SD): Randomized Participants With Stable Disease - Duration of SD was defined in those whose Best Overall Response (BOR) was SD, per independent review committee (IRC) as the time between Week 12 and date of progressive disease (PD) or death , whichever occurs first. For those who underwent tumor resection following Week 12 but prior to PD, duration of SD was censored on date of last evaluable tumor assessment (TA) prior to resection. For those with BOR of SD at Week 12, date of PD was used in analysis of duration of SD. For those with BOR=SD who have not subsequently progressed and who remain alive, duration of SD censored on date of last evaluable TA. Modified criteria of the World Health Organization (mWHO): SD=insufficient decrease to qualify for partial response or sufficient increase to qualify for PD; PD=an increase of 25% or more in sum of products of longest diameter and greatest perpendicular diameter of index lesions compared with smallest recorded sum, or appearance of 1 or more new lesions.</outcome>
+      <timepoint>Week 12 to date of disease progression or death up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Brain Metastasis-Free Survival at Time of Data Cutoff - Brain metastasis-free survival was defined as the time from randomization to the date of progression with a new lesion located in the brain. New brain lesions prior to Week 12 constituted a progression event (unlike main progression-free survival analysis). A participant who dies without documentation of a brain lesion was considered to have progressed with brain metastasis on the date of death. Participants who are free of brain metastasis were censored on the date of their last tumor assessment. An independent review committee evaluated images of participants with clinical symptoms to determine the number of those free of brain metastasis. The brain metastasis-free status was reported as a percent of participants (n/N), where n= participants with metastasis-free brains at data cutoff for the Primary Endpoint and N= randomized participants. A 2-sided Clopper and Pearson confidence interval was performed.</outcome>
+      <timepoint>Date of randomization up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Adverse Events (AEs), Drug-related AEs, AEs Leading to Discontinuation, Serious Adverse Events (SAEs), Drug-related SAEs, Drug-related Hypersensitivity, Immune-related AEs/SAEs, and Inflammatory AEs/SAEs - AE=any new undesirable symptom, sign, clinically significant laboratory abnormality, or medical condition occurring after starting study treatment, even if the event was not considered to be drug-related. SAE=a medical event that at any dose results in death, persistent or significant disability/incapacity, or drug dependency/abuse; is life-threatening, an important medical event, or a congenital anomaly/birth defect; or requires or prolongs hospitalization. Treatment-related=having certain, probable, possible, or missing relationship to study drug. Grade (Gr) 1=Mild, Gr 2=Moderate, Gr 3=Severe, Gr 4= Potentially Life-threatening or disabling. Randomization=Day 1; start of treatment (first dose)=Week 1. Summarization time frame is from first dose to 70 days after last dose of study at time of 414 deaths.</outcome>
+      <timepoint>Week 1 (First Dose) to 70 days after last dose of study up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Grade 2-3 and Grade 3-4 Immune-related Adverse Events (irAEs) With Resolution Resolved - irAEs included the categories: gastrointestinal (GI), diarrhea, liver, endocrine, and skin. Grade 2=moderate adverse events (AEs); minimal, local, or noninvasive intervention indicated. Grade 3=severe AEs, medically significant but not immediately life-threatening. Grade 4=life-threatening consequences; urgent intervention indicated. Resolution is defined as improvement to Grade 1 or less or to the Grade at baseline (prior to treatment).</outcome>
+      <timepoint>Week 1 (first dose) to 70 days after last dose up to data cutoff for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Resolution of Grade 2-3, Grade 3-4 Immune-related Adverse Events (irAEs) - irAEs included the categories: gastrointestinal (GI), diarrhea, liver, endocrine, and skin. Grade 2=Moderate adverse events (AEs); minimal, local or noninvasive intervention indicated. Grade 3=severe AEs, medically significant but not immediately life-threatening. Grade 4=life-threatening consequences; urgent intervention indicated. Time to resolution is defined as improvement to Grade 1 or less or to the Grade at baseline (prior to treatment).</outcome>
+      <timepoint>Week 1 (first dose) to 70 days after last dose up to database lock for primary endpoint (approximately 5 years)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Informed Consent
+
+          -  Measurable Disease
+
+          -  Eastern Cooperative Oncology Group (ECOG) 0 or 1
+
+          -  Lab / imaging requirements
+
+          -  Neg for Human Immunodeficiency Virus (HIV), Hepatitis B (HepB), C
+
+          -  Men and Women &gt; 18 years (16 were allowable)
+
+          -  Prior therapy restriction (adjuvant only)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion:
+
+          -  Pregnant / nursing
+
+          -  Inadequate contraception
+
+          -  Brain metastasis
+
+          -  Primary ocular or mucosal melanoma</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/08/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>681</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/10/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Local Institution - Coffs Harbour</hospital>
+    <hospital>Local Institution - Newcastle</hospital>
+    <hospital>Local Institution - Port Macquarie</hospital>
+    <hospital>Local Institution - South Brisbane</hospital>
+    <hospital>Local Institution - Box Hill</hospital>
+    <postcode>2450 - Coffs Harbour</postcode>
+    <postcode>2300 - Newcastle</postcode>
+    <postcode>2444 - Port Macquarie</postcode>
+    <postcode>4101 - South Brisbane</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brasschaat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Edegem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Ceara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio Grande Do Sul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre Benite</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Jena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kiel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tubingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kaposyar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin 4</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Cork</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Galway</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ragusa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rome</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Siena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Eindhoven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Hv Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Wurzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Stavropol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Murmansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St.-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Eastern Cape</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Gauteng</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Western Cape</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Johannesburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Canarias</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Zaragoza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Geneva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Cherkassy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnepropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Uzhgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Avon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Dorset</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Essex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Greater London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Merseyside</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Surrey</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Bristol-Myers Squibb</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Medarex</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this clinical research study is to examine the safety and effectiveness (how
+      well the drug works) of two different treatments for patients with melanoma. One treatment is
+      an investigational compound (a drug that is not currently approved by the United States Food
+      and Drug Administration [FDA]), know as Ipilimumab (also known as MDX-010 or BMS-734016)
+      together with an approved chemotherapy drug called Dacarbazine</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00324155</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Bristol-Myers Squibb</name>
+      <address>Bristol-Myers Squibb</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

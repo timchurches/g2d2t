@@ -1,0 +1,196 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372638">
+  <stage>Registered</stage>
+  <submitdate>30/03/2017</submitdate>
+  <approvaldate>3/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000480381</actrnumber>
+  <trial_identification>
+    <studytitle>Improving Glucose Outcomes Using a Novel Treatment Strategy in Young Adult Onset Type 2 Diabetes</studytitle>
+    <scientifictitle>Improving Glycaemic Outcomes Using a Rapid Titration Treatment Strategy in Young Adult Onset Type 2 Diabetes</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Young Adult Onset Type 2 Diabetes Mellitus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>After baseline tests are performed, subjects will be randomised to either a continuous glucose monitoring (CGM) guided, rapid titration of treatment strategy or a currently accepted standard of care type 2 diabetes treatment strategy.  Treatment strategies (both rapid titration and standard of care) will be managed by experienced Endocrinologists for the duration of the study period.
+
+Rapid Titration Treatment Strategy:
+
+During the initial (six week) phase of the study, participants randomised to the rapid titration treatment strategy will be seen weekly for assessment and possible intensification of treatment. Weekly CGM recordings will be used to guide treatment decisions and assessments will be made on the basis of the mean blood glucose level (MBG). A MBG of 7.56 mmol/l has been found to correlate with an HbA1c of 6.5% (Nathan DM et al. Diabetologia 2007; 50: 2239-2244).  If the MBG during the final 48 hours of the weekly recording is &gt;7.56 mmol/l, treatment will be intensified.  Treatment will begin with metformin (titrated from 1 g daily to 2 g daily) followed by the addition of an SGLT2 inhibitor (empagliflozin - 10 mg daily titrated to 25 mg daily) and then GLP-1 receptor agonist (liraglutide - 0.6 mg daily titrated to a maximum of 1.8 mg daily) in sequential addition. In the event that a participant is intolerant of metformin, treatment will progress to the next agent in the algorithm, empaglifozin. If treatment with the GLP-1 receptor agonist is required it will be commenced at the starting dose as per product information.  The dose will be up-titrated according to recommendations within the product information provided by the manufacturer. If a higher dose of medication is not tolerated then reversion will be to the maximum tolerated dose. At the end of the rapid titration period, participants should be at the target MBG level and/or on the maximum tolerated combination of metformin, empagliflozin and liraglutide. Participants continue on their treatment regimen established by week 6 and are seen again after 3 months of treatment. From this point on, further treatment intensification will be based on achieving an HbA1c target of &lt;6.5%. The active treatment phase of this trial will last twelve months.  In addition to the assessment performed after 3 months, participants will also seen after 6 months and 9 months and treatment will be intensified if the HbA1c is not at the target level (&lt;6.5%).  If the HbA1c target of &lt;6.5% is not achieved or maintained on combination therapy with metformin, empagliflozin and liraglutide, insulin can be commenced.  An on insulin HbA1c target of &lt;7% without hypoglycaemia will be applied.  This is consistent with the current Australian Diabetes Society endorsed clinical guidelines.
+
+To ensure treatment fidelity, primary care physicians will be contacted by the investigator team prior to randomisation requesting that on-study treatment be left unchanged except in the case of a severe adverse event.  A 24 hour emergency contact number will be provided to assist.  In addition all participants will be provided with a trial summary card including the emergency contact number.  Treatment retention will be facilitated by the provision of a flexible appointment schedule and provisions will be made to ensure ease of access to Royal Prince Alfred Hospital on an individual basis.</interventions>
+    <comparator>Standard of Care Treatment Strategy:
+
+This is based on the Australian Diabetes Society treatment usual care algorithm for type 2 diabetes.  Treatment options include metformin, sulfonylurea or DPP-IV inhibitor and insulin or GLP-1 receptor agonist in sequential addition. Intensification will be by three monthly HbA1c assessments; hence participants are seen 3, 6, 9 and 12 months after entering the study. Similarly to Treatment Strategy A, the pre-insulin treatment target HbA1c level for Treatment Strategy B is 6.5% without hypoglycaemia. If a study participant assigned treatment strategy B is deemed to require insulin therapy, the HbA1c target level will be &lt;7.0% without hypoglycaemia.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Glycaemic control assessed by HbA1c.  HbA1c will be measured on a sample of whole blood using an IFCC standardised method.</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in beta-cell function.  Beta-cell function will be primarily assessed indirectly from the results obtained during oral glucose tolerance testing and will include the derivation of the oral disposition index (ODI).</outcome>
+      <timepoint>12 months (with reference point being beta-cell function at baseline)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Markers of renal function (including serum creatinine, eGFR, urinary albumin to creatinine ratio plus additional novel serum and urinary biomarkers)</outcome>
+      <timepoint>12 months (with reference point being the baseline assessment)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Recent diagnosis of type 2 diabetes (&lt; 6 months since diagnosis)
+Age range: 18 to 40 years of age
+Diabetes management at time of recruitment: diet alone or metformin monotherapy</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>40</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Type 1 diabetes / GAD or IA2 positive diabetes
+Current pregnancy
+HbA1c &lt;6.5% at time of screening
+Contraindication to metformin, SGLT2 inhibitor or GLP-1 receptor agonist treatment
+History of diabetic ketoacidosis</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation will be concealed via the use of a central computer program.</concealment>
+    <sequence>Treatment allocation will take place via the process of minimisation (with weighted randomisation) using open source software.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The intervention groups will be compared for the primary outcome and secondary outcome measures at 12 months, adjusted for the baseline value of each outcome. The analyses for each of the treatment protocols will be conducted separately and ANCOVA analysis will use all available clinical data for baseline adjustments. Secondary analysis will be for outcome changes at 6 months. Significance will be set at a probability of 0.05. As secondary measures are largely exploratory no adjustment for multiple comparisons are planned.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/05/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Prince Alfred Hospital</primarysponsorname>
+    <primarysponsoraddress>Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Prince Alfred Hospital, Department of Endocrinology</fundingname>
+      <fundingaddress>Level 6 West, Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Guidelines for the treatment of type 2 diabetes direct clinicians to individualise therapy in diabetes however there is little evidence to guide successful treatment in Young Adults with Type 2 Diabetes (YT2DM). This study will provide much needed evidence on which to base treatment decisions for YT2DM, a growing problem in our clinics. The outcomes of a physiologically sensible, innovative continuous glucose monitoring-guided rapid titration strategy which differs from usual care will provide new knowledge on the treatment for this high risk group. Further the fundamental physiologic effects of this strategy on beta cell function and early renal decline in YT2DM will provide further insights to guide therapeutic decisions for this high risk patient group. If positive, the results can be translated into wider practice and guide individualised therapy in addition to evidence based clinical practice guidelines for YT2DM.  The global nature of the problem of YT2DM will ensure international interest and the investigators are well placed to facilitate dissemination of results to wider stakeholders and translation.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>SLHD Ethics Review Committee (RPAH Zone)</ethicname>
+      <ethicaddress>Research Ethics and Governance Office
+Royal Prince Alfred Hospital
+Camperdown NSW 2050</ethicaddress>
+      <ethicapprovaldate>15/11/2016</ethicapprovaldate>
+      <hrec>X16-0339 &amp; HREC/16/RPAH/465</hrec>
+      <ethicsubmitdate>10/08/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Timothy Middleton</name>
+      <address>Diabetes Centre, Level 6 West
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 9515 5888</phone>
+      <fax>+61 2 9515 5820</fax>
+      <email>timothy.middleton@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Timothy Middleton</name>
+      <address>Diabetes Centre, Level 6 West
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 9515 5888</phone>
+      <fax>+ 61 2 9515 5820</fax>
+      <email>timothy.middleton@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Timothy Middleton</name>
+      <address>Diabetes Centre, Level 6 West
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 9515 5888</phone>
+      <fax>+61 2 9515 5820</fax>
+      <email>timothy.middleton@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

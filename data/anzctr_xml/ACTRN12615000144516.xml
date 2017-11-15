@@ -1,0 +1,220 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366358">
+  <stage>Registered</stage>
+  <submitdate>29/10/2014</submitdate>
+  <approvaldate>16/02/2015</approvaldate>
+  <actrnumber>ACTRN12615000144516</actrnumber>
+  <trial_identification>
+    <studytitle>Omega-3, vitamin D and Autism in children </studytitle>
+    <scientifictitle>Effect of Vitamin D and Omega-3 Fatty Acid Supplements on behavioural measures in Children with Autism Spectrum Disorder (ASD): A randomised, double-blind, placebo-controlled trial
+</scientifictitle>
+    <utrn>U1111-1156-9537 </utrn>
+    <trialacronym>VIDOMA Study</trialacronym>
+    <secondaryid>nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Autism spectrum disorder</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Autistic spectrum disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>An RCT with 3 treatment arms:
+1: Omega-3, high DHA (722mg) fish oil; 2xomega-3 (total DHA dose = 722mg/day) per day + 2xplacebo per day
+2:Vitamin D3, 2000IU; 2xvitamin D3 (1000IU/capsule) per day + 2xplacebo per day
+3: Omega-3 (722mg DHA) and vitamin D3 (2000IU); 2xomega-3 (total DHA dose = 722mg/day) per day+2xvitamin D3 (1000IU/capsule) per day
+All in gel capsules with tear-off nipple allowing oil to be mixed with food. Administered daily with food for 12 months. 
+Compliance monitored with diary and pill counting in returned bottles.</interventions>
+    <comparator>4xplacebo per day; Capsules containing 750mg vegetable oil in gel capsules with tear-off nipple allowing oil to be mixed with food. Administered daily with food for 12 months.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in behaviour and social interaction; Will be assessed by Social Responsiveness Scale-2 (SRS-2) </outcome>
+      <timepoint>12 months after commencement of intervention</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change in sensory profile; Will be assessed by Sensory Processing Measure (SPM) </outcome>
+      <timepoint>12 months after commencement of intervention</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change in problem behaviours; Will be assessed by Aberrant Behaviour Checklist (ABC)</outcome>
+      <timepoint>12 months after commencement of intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Gastrointestinal symptoms as monitored by weekly diary of symptoms by parent or caregiver.</outcome>
+      <timepoint>12 months after commencement of intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Medical diagnosis of autism spectrum disorder, onset after 18 months of age</inclusivecriteria>
+    <inclusiveminage>2</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>8</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Children with winter 25(OH)D concentration &gt; 75 nmol/L (+10 nmol/L assay variation) and summer 25(OH)D concentration &gt; 105 nmol/L (+10 nmol/L assay variation) at baseline</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Children will be recruited and allocated to a quartet by age. This is important to ensure that there is as close as possible range of ages in each of the four treatment groups. Allocation concealment will be carried out by a third party who is unaware of who, when and to which group the eligible subject is allocated. This person will generate randomisation using WinPepi program (balanced randomisation of random blocks stratified by age and autism severity).</concealment>
+    <sequence>Each quartet will be assigned to treatments using a random block method.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures>this is a 4-arm, placebo controlled trial</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The sample size is calculated based on the main outcome measure, SRS-2.. It was calculated that 42 participants (a minimum of 34 participants, and allowing for a 20% potential dropout rate) would be required for each arm of the trial to demonstrate a significant difference at 80% power and 5% significance. Power calculations were based on a 17 units difference between supplemented groups and placebo in change from baseline to endpoint on the Social Responsiveness Scale (SRS) total score, on a mean SRS and standard deviation of 105 and 24.7 units in untreated children with ASD, respectively (from our pilot study, unpublished)..
+Statistical analysis will be performed using IBM SPSS version 21.0 (IBM Corporation, New York, US). The variables will be tested for normality using the Kolmogorov-Smirnov, Shapiro-Wilk tests and normality plots. Non-normally distributed data will be transformed into approximate normal distributions by logarithmic transformations. The data will be reported appropriately as mean (95%CI) for normally distributed data; transformed data will be back transformed from summary statistics into mean (95% CI), non-normally distributed data will be described as median (25, 75 percentiles) and categorical data as frequencies. Baseline characteristics of participants will be compared among groups using analysis of variance (ANOVA). The primary analysis, comparing the effects of treatment on symptoms of autism over 12-months, will be conducted using a generalised linear mixed models procedure. Treatments and time will be included as fixed effects and the interactions between interventions and time will be tested. If significant main effects or interaction effects are observed, post-hoc analysis with Bonferroni adjustments will be performed. Potential confounding factors and effect modifiers (e.g. gender, age, biochemistry, baseline symptoms of autism) will be investigated within the model. A P-value of &lt;0.05 will be considered statistical significant.
+
+Compliance to treatment will be analysed by counting each participants remaining supplements once they have completed the intervention. Differences between participants who completed and withdrew will be analysed using independent t test or Mann-Whitney tests for continuous variables (e.g. age) and chi-square for categorical variables (e.g. gender). Statistical significance will be based on two-tailed tests, with p &lt;0.05 considered significant. 
+  </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>10/01/2015</anticipatedstartdate>
+    <actualstartdate>1/02/2015</actualstartdate>
+    <anticipatedenddate>1/08/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>168</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Enrolling by invitation</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Massey University</primarysponsorname>
+    <primarysponsoraddress>Massey University Albany 
+Private Bag 102904 
+North Shore 
+Auckland
+0745
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Massey University</fundingname>
+      <fundingaddress>Massey University Albany 
+Private Bag 102904 
+North Shore 
+Auckland
+0745
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Waitemata District Health Board</sponsorname>
+      <sponsoraddress>124 Shakespeare Road
+Takapuna
+AUCKLAND 0622
+Private Bag 93-503
+Takapuna
+AUCKLAND 0740
+</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Internationally, prevalence of autism appears to be increasing but the cause is unknown. In New Zealand one child in every 100 is diagnosed with a condition on the autism spectrum. Both vitamin D and Omega-3 polyunsaturated fatty acids are known to play a number of roles in brain development and behaviour. The VIDOMA trial will investigate the effect of supplementing these important nutrients in the diet of 168 young children with autism spectrum disorder. Children will take the supplements for one year and investigators will measure changes in symptoms such as social-communicative functioning, sensory processing profile, problem behaviours and gastrointestinal symptoms..</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disabilities Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+10 Brandon Street
+PO Box 5013
+Wellington 6145
+</ethicaddress>
+      <ethicapprovaldate>25/08/2014</ethicapprovaldate>
+      <hrec>14/NTA/113</hrec>
+      <ethicsubmitdate>14/07/2014</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Pamela von Hurst</name>
+      <address>Division of Human Nutrition and Dietetics
+College of Health
+Massey University Albany campus
+Private bag 102904
+North Shore City, 0745, Auckland
+
+
+</address>
+      <phone>+649 4140800  ext 43657</phone>
+      <fax />
+      <email>p.r.vonhurst@massey.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Owen Mugridge</name>
+      <address>Division of Human Nutrition and Dietetics
+College of Health
+Massey University Albany campus
+Private bag 102904
+North Shore City, 0745, Auckland </address>
+      <phone>+649 4140800 </phone>
+      <fax />
+      <email>o.mugridge@massey.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pamela von Hurst</name>
+      <address>Division of Human Nutrition and Dietetics
+College of Health
+Massey University, Albany campus
+Private bag 102904
+North Shore City, 0745, Auckland
+</address>
+      <phone>+649 4140800  ext 43657</phone>
+      <fax />
+      <email>p.r.vonhurst@massey.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pamela von Hurst</name>
+      <address>Division of Human Nutrition and Dietetics
+College of Health
+Massey University Albany campus
+Private bag 102904
+North Shore City, 0745, Auckland </address>
+      <phone>+649 4140800  ext 43657</phone>
+      <fax />
+      <email>p.r.vonhurst@massey.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,260 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366573">
+  <stage>Registered</stage>
+  <submitdate>30/06/2014</submitdate>
+  <approvaldate>7/08/2014</approvaldate>
+  <actrnumber>ACTRN12614000843651</actrnumber>
+  <trial_identification>
+    <studytitle>Remote Exercise Monitoring Trial for Exercise-based Cardiac Rehabilitation</studytitle>
+    <scientifictitle>Randomised controlled trial to compare the effectiveness of remote monitored exercise-based cardiac rehabilitation with supervised exercise in people with cardiovascular disease to enhance exercise capacity.  </scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym>REMOTE-CR</trialacronym>
+    <secondaryid> 3705052</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Consistent with recommendations for supervised home-based exercise, the technology-assisted, home-based, remote monitored exercise cardiac rehabilitation (TexCR) intervention will be delivered over 12 weeks. It will comprise a personalised exercise prescription, telephone support, and behavioural strategies to increase exercise adherence (goal setting, exercise scheduling, overcoming barriers), delivered via smartphone. Participants will be remotely monitored in real-time during bouts of exercise by an exercise physiologist. The intervention aims to have individuals participate in moderate to vigorous aerobic-based exercise for at least 30 minutes (preferably more) most daysof the week, in line with current recommendations and American College of Sports Medicine (ACSM) guidelines.  Specific details are provided below.
+Exercise prescription: An individualised exercise prescription, based on personal preferences and current exercise capacity, is a core component of the intervention. Following ACSM guidelines for exercise in cardiac patients participants will be provided with a weekly prescription detailing exercise duration, frequency and intensity, via a smartphone application (app). The prescribed exercise intensity will be sufficient to induce a training effect, yet below a metabolic load that evokes abnormal clinical signs or symptoms. The preferred mode of exercise will be walking, although participants will be able to choose other modes (e.g. stationary cycling, rowing) if preferred. 
+During pre-defined time (e.g., 07:00-09:00) windows participants will connect to a remote exercise monitoring system where a remotely-located exercise physiologist will monitor their location, distance, speed, heart rate, respiratory rate, training load and single lead ECG in real-time; provide real-time feedback and support via participants smartphones (including alerts, text messages or telephone calls); respond to adverse events if necessary; provide post-exercise feedback; and modify participants exercise prescription if needed. Participants can be monitored in any environment with an active broadband connection (mobile, Wi-Fi, Bluetooth) and the system supports simultaneous monitoring of multiple participants.
+Support and strategies to facilitate exercise adherence: Behaviour change strategies will be delivered to participants via messages sent through the smartphone. The programme will be grounded in self-efficacy theory,  which is the most examined psychological variable within the cardiac setting. Strategies will focus on increasing confidence and motivation to exercise, overcoming barriers to being physically active, scheduling exercise into daily life, goal setting, and enhancing social support and networks to be active. The smartphone app will also allow participants to review their exercise performance and assess progress toward personalised goals.
+TexCR System: The system comprises a physiological sensing device, smartphone and web apps, and a middleware platform. The BioHarness 3 (Zephyr Technologies, USA) physiological sensing device enables measurement of a comprehensive range of physiological parameters required for monitoring exercise performance. Bluetooth connectivity permits transmission of data to smartphones. We have developed and pre-tested smartphone (Android) and web apps, incorporating the Odin middleware platform. The smartphone app collects and transmits physiological data to a remotely located web server in real-time. The web app displays these data in remote locations, and enables real-time provision of feedback to moderate participants exercise behaviour. The Odin middleware platform, developed by Computer Science at the University of Auckland, is an off-the-shelf solution that provides reliable communication, minimises data usage cost and maximises device battery life.
+</interventions>
+    <comparator>The active control group will receive a 12 week programme of supervised exercise, delivered at the University of Auckland or Bay of Plentys CR clinics. Supervised group-based exercise sessions are offered three times per week by trained exercise scientists/nurses. Participants typically complete a 15-minute warm up, 30-45 minutes of moderate-vigorous intensity aerobic exercise on various exercise modalities (e.g., treadmill, cycle ergometer, rowing machine), and a 5 min cool down.  Heart rate, blood pressure, and rating of perceived exertion (RPE) are monitored on a regular basis.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in peak oxygen uptake (VO2 peak) from baseline to 12 weeks assessed during cardiopulmonary exercise test (CPX) on atreadmill</outcome>
+      <timepoint>12 weeks post randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-efficacy (to complete the programme).  Task self-efficacy is assessed using a scale adapted from the Self-Efficacy Scale. Participants rate their confidence to perform physical activities for increasing periods of time (i.e., 10, 30, and 60 min) at three intensities (i.e., light, moderate, and vigorous). A key is provided to define these levels of intensity. Mean scores are calculated with higher values indicating greater efficacy to perform physical activity for longer duration and greater intensity.</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiovascular risk factors; blood pressure, height, weight, waist and hip circumference and blood lipid and glucose concentration.
+An electronic sphygmomanometer will be used to assess systolic and diastolic blood pressure pressure.
+Participants height will be measured to the nearest 0.1 cm using a stadiometer, and body mass to the nearest 0.1 kilograms using electronic scales. Body mass index is derived from the weight (kg) divided by height (m) squared.  
+A fingertip blood sample is obtained from participants for analysis of blood lipid and glucose concentration using automated point of care analysers (Cholestech LDX or CardioChek).</outcome>
+      <timepoint>Blood pressure, height, weight, waist and hip circumference (12 and 24 weeks) 
+Blood lipid and glucose concentration (12 weeks only).
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health related quality of life (EQ-5D).</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost-effectiveness  Cost information will include the cost of each programme, and direct medical costs (including treatment, primary care, secondary care and over-the-counter medications). Healthcare utilisation will be recorded for adverse events including cardiac events, and other events (including, but not limited to, musculoskeletal injury) participants deem likely to be related to their participation in the study.</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time spent in moderate-to-vigorous intensity physical activity assessed using an Actigraph accelerometer </outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-reported leisure time exercise assessed using the Godin Leisure Scale Index</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-reported intentions to exercise. Intentions to perform physical activity are assessed using two items, which ask participants to rate their level of intention to to follow their exercise prescription during the next 3 months (e.g. " I definitely intend to follow my exercise prescription"). The items are scored using a seven point Likert scale ranging from 0 (completely disagree) to 7 (completely agree). A mean score from the two items is used to give an overall measure of intention.</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Motivation or locus of causality. a reliable and valid three-item self-report measure of the extent to which participants feel they choose to exercise with no sense of coercion. Participants rate how much they agree or disagree with each statement on a seven-item Likert scale from 1 (Strongly disagree) to 7 (Strongly agree) indicating their motivation to perform exercise. Mean scores are calculated and higher scores indicate greater self-determination or a more internal perceived locus of causality</outcome>
+      <timepoint>12 and 24 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Aged 18+ years
+Have a diagnosis of ischaemic heart disease (angina, myocardial infarction or coronary revascularisation) within the previous three months;
+Outpatients who have been clinically stable for at least 6 weeks, are able to perform exercise, understand and write English
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Have been admitted to hospital with heart disease within the previous 6 weeks
+2.	Have terminal cancer
+3.	Currently exercises for 150 minutes per week at moderate intensity
+4.	Currently participating in a supervised exercise programme (including exercise-based cardiac rehabilitation)
+5.	Have significant exercise limitations other than IHD
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible participants will be identified by cardiac rehabilitation nurses from Auckland City Hospital through outpatient clinics and existing databases. We will also recruit via staff at The Cardiac Clinic, Tauranga.  We propose recruiting patients that have been discharged from hospital, and are eligible to participate in cardiac rehabilitation (CR). CR nurses or clinic staff will contact potential participants to determine and document their interest in the trial. Interested participants will be screened for eligibility, provided with participant information and consent forms. Interested participants, who agree will be referred to the research team. A research assistant will contact participants to confirm their interest in the study and to schedule a baseline assessment.  In addition, we will also recruit participants by contacting existing community-CR education sessions, where the aims of the study will be outlined and people will be invited to take part.
+
+A research assistant will arrange an appointment for the participant to attend the University of Auckland Clinics, or The Cardiac Clinic, Tauranga at an agreed time to undergo assessment. On arrival to the baseline assessment, the researcher will explain procedures and will collect the signed consent forms. 
+
+Randomisation will take place after written consent has been obtained and after completion of the baseline assessment. 
+Participants will be randomized at a 1:1 ratio to receive technology assisted exercise programme (TexCR) or traditional supervised exercise CR, stratified by sex and site.  Allocation concealment will be implemented, through the use of Opaque, sealed envelopes at the time of randomisation. Participants will be informed of their group allocation as soon as possible. 
+ </concealment>
+    <sequence>A senior biostatistician generated the randomisation sequence. Stratified block randomisation method was used to generate the sequences, with variable block size. Two stratification factors were considered for randomisation: (1) study site (Auckland/Tauranga) and (2) Sex (Female/Male).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Non-inferiority </designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The target sample size of 162 participants (81 per group) will provide 80% power at 2.5% level of significance (one-sided) to show that the REMOTE and standard exCR programmes do not differ by more than 1.25 ml/kg/min on peak oxygen uptake. This sample size is based on the assumption the standard exCR programme will result in an increase of 2.4 ml/kg/min (SD 2.7) in peak oxygen uptake at 12 weeks, and has been inflated to allow for 10% loss to follow up. The non-inferiority margin was chosen because it is clinically significant and is associated with lower CV-mortality. 
+
+Statistical analyses will be performed using SAS version 9.2 (SAS Institute Inc. Cary NC) and R version 2.11 (R Foundations for Statistical Computing). 
+
+Baseline characteristics will be summarised using descriptive statistics. Continuous variables will be described as numbers of observed and missing values, mean, standard deviation, median, minimum and maximum. Categorical variables will be described as frequencies and percentages.  Results will be presented for each of the two treatment arms as well as overall. 
+
+Treatment evaluation will be performed on the principle of intention to treat (ITT), using data collected from all randomised participants. Analysis of covariance (ANCOVA) regression model will be used to evaluate the main treatment effect on the primary outcome  between the two treatment groups, adjusting for its baseline measure, age, ethnicity and other potential confounding factors (if they are statistically significant at 5% level). A similar approach will be used for other continuous secondary outcome measures. Logistic regression model will be considered for the analysis of a binary outcome (e.g. meeting physical activity recommendations).
+
+Cost information will include the cost of each programme and direct medical costs (including cost of treatment, primary care, secondary care and over-the-counter medications). We will use the EQ5D to obtain a single preference index for calculation of Quality Adjusted Life Year (QALY) to assess cost per QALY for comparison with other CR programmes. Healthcare utilisation will be recorded for adverse events including cardiac events, and other events (including, but not limited to, musculoskeletal injury) participants deem likely to be related to their participation in the study.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>13/06/2014</anticipatedstartdate>
+    <actualstartdate>13/06/2014</actualstartdate>
+    <anticipatedenddate>30/11/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>162</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland </state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Tauranga</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland </primarysponsorname>
+    <primarysponsoraddress>School of Population Health
+Tamaki Campus
+Morrin Rd, Glen Innes, Auckland 1142
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Auckland Medical Research Foundation</fundingname>
+      <fundingaddress>Ground Floor, 89 Grafton Road
+P O Box 110139, Auckland Hospital
+Auckland 1148</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Auckland UniServices Ltd</sponsorname>
+      <sponsoraddress>Tamaki Campus
+Morrin Rd, Glen Innes, 1142
+Auckland</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Exercise  is  essential  to  aid  recovery  from  a  heart  attack,  however  adherence  to  regular exercise  is  low.  In  this  trial  we  will  compare  the  effectiveness  of  home-based  monitored exercise  using  mobile  phones  and  monitoring  technology  to  existing  supervised  exercise cardiac  rehabilitation.  162  participants  will  be  allocated  at  random  to  12  weeks  standard supervised  exercise  cardiac  rehabilitation  or  to  the  new  mobile  phone  programme. Assessments will compare physical fitness, and change in risk factors associated with heart disease  between  the  two  groups.  This  approach  has  potential  to  improve  the  delivery  of  cardiac rehabilitation services in New Zealand for those who need it. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>UNIVERSITY OFAUCKLAND HUMAN PARTICIPANTS ETHICS COMMITTEE(UAHPEC)</ethicname>
+      <ethicaddress>The University of Auckland
+Private Bag 92019, Victoria Street West
+Auckland, 1142
+</ethicaddress>
+      <ethicapprovaldate>6/12/2013</ethicapprovaldate>
+      <hrec>011021</hrec>
+      <ethicsubmitdate>15/11/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ralph Maddison</name>
+      <address>National Institute for Health Innovation
+University of Auckland
+Private Bag 92019
+Auckland 1142
+Victoria Street West</address>
+      <phone>+6499234767</phone>
+      <fax />
+      <email>r.maddison@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jonathan Rawstorn</name>
+      <address>Project Manager 
+National Institute for Health Innovation, SOPH Tamaki Campus, University of Auckland  
+Private Bag 92019
+Auckland 1142
+Victoria Street West
+
+</address>
+      <phone>+649 9234498</phone>
+      <fax />
+      <email>j.rawstorn@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ralph Maddison</name>
+      <address>National Institute for Health Innovation
+University of Auckland
+Private Bag 92019
+Auckland 1142
+Victoria Street West</address>
+      <phone>+649 9234767</phone>
+      <fax />
+      <email>r.maddison@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ralph Maddison</name>
+      <address>National Institute for Health Innovation
+University of Auckland
+Private Bag 92019
+Auckland 1142
+Victoria Street West</address>
+      <phone>+649 9234767</phone>
+      <fax />
+      <email>r.maddison@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

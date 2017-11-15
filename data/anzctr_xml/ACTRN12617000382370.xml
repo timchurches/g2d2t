@@ -1,0 +1,218 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372529">
+  <stage>Registered</stage>
+  <submitdate>9/03/2017</submitdate>
+  <approvaldate>14/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000382370</actrnumber>
+  <trial_identification>
+    <studytitle>Validation of head injury prognostic calculators</studytitle>
+    <scientifictitle>Comparative study of two tools in determining severe head injury outcomes in an Australian setting: CRASH (Corticosteroid Randomisation after Significant Head injury) versus IMPACT (International Mission for Prognosis and Analysis of Clinical Trials in Traumatic Brain Injury)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Severe traumatic brain injury (TBI)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>CRASH (Corticosteroid Randomisation After Significant Head Injury)
+-This prognostic model may be used as an aid to estimate mortality at 14 days and death and severe disability at six months in patients with traumatic brain injury (TBI). The predictions are based on the average outcome in adult patients with Glasgow coma score (GCS) of 14 or less, within 8 hours of injury, and can support clinical judgment. 
+
+-Duration of observation of each participant is 6 months (from admission to 6 months post admission)
+</interventions>
+    <comparator>IMPACT (International Mission for Prognosis and Analysis of Clinical Trials in TBI)
+-Based on extensive prognostic analysis, this prognostic model was developed for predicting 6 month outcomes in adult patients with moderate to severe head injury (Glasgow Coma Scale &lt;=12) on admission. By entering patient admission details into the calculator, the models will provide an estimate of the expected outcome at 6 months. 
+-There are three models of increasing complexity (Core, Core + CT, Core + CT + Lab). These were developed and validated in collaboration with the CRASH trial collaborators on large numbers of individual patient data (the IMPACT database). </comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>CRASH outcome: Risk of unfavourable outcome at 6 months (%) 
+-Assessed by plugging patient admission and CT data (e.g. age, Glasgow Coma Scale score on admission, presence of traumatic subarachnoid haemorrhage on CT) into calculator and pressing 'Calculate'</outcome>
+      <timepoint>6 months post admission</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>IMPACT outcome: Core and Core + CT and Core + CT + Lab predicted probability of 6 month unfavourable outcome (%)
+-All are assessed by plugging patient admission, CT and lab data (e.g. age, Glasgow Coma Scale score on admission, petechial hemorrhages on CT and blood glucose levels on admission) into calculator and pressing 'Calculate'</outcome>
+      <timepoint>6 months post admission</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Glasgow Outcome Scale (GOS)</outcome>
+      <timepoint>6 months post admission</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>The inclusion criteria consists of participants with severe head injury requiring intubation (i.e. Glasgow Coma Scale &lt;8).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>The exclusion criteria consists of previously physically or mentally disabled participants (in order to maintain uniformity in outcome).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>-Statistical analysis of data shall assess discrimination using a 95% confidence interval, as well as the AUC (area under the curve). 
+-Adequate model discriminatory ability is represented by AUC greater or equal to 0.8, and model non-discriminatory ability is represented by AUC less than or equal to 0.5. 
+-The H-L goodness-of-fit test shall be used to assess calibration. It uses predicted probabilities to divide participants into deciles, followed by a computation of a x-squared from expected as well as observed frequencies. 
+-The x-squared distribution enables calculation of a p-value. A p-value of &lt;0.05 is considered as significant.
+-The Cox calibration analysis derives the slope and intercept from a logistical regression model. The degree of predictions variation is represented by the slope, being a coefficient of the predicted probability's logit. The slope equals 1 for an ideal model.
+-The intercept, on the other hand, measures overall calibration by indicating systematically if predictions are too high or too low, and is zero in an ideal model.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Convenience sample</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>31/03/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <postcode>4102 - Woolloongabba</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Ananthababu Pattavilakom Sadasivan</primarysponsorname>
+    <primarysponsoraddress>Dept of Neurosurgery, Princess Alexandra Hospital, 
+199 Ipswich Rd,
+WOOLLOONGABBA,
+QLD 4102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Princess Alexandra Hospital</fundingname>
+      <fundingaddress>Dept of Neurosurgery, Princess Alexandra Hospital, 
+199 Ipswich Rd,
+WOOLLOONGABBA,
+QLD 4102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>N/A</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Head injury is common, affecting Australians at a rate of 107 per 100,000 people. Its outcome varies from complete recovery to disability.
+
+Two recognised tools predict these outcomes, based on presentation: CRASH (Corticosteroid Randomisation after Significant Head injury) and IMPACT (International Mission for Prognosis and analysis of Clinical Trials in TBI (Traumatic Brain Injury)). Clinical studies independently validated them. One reported study compared them within a non-Australian community.
+
+Study Aim: To compare CRASHs efficacy against IMPACT in predicting severe head injury outcomes.
+
+Research design: 
+-Recruiting severe head injury patients admitted to Princess Alexandra Hospital as participants.
+-Collect symptom details from first admission and after six months.
+-Calculate participants CRASH and IMPACT scores and compare with actual outcomes.
+
+Reviewing participants after six months provides information relating initial presentation to recovery. The results would identify whether CRASH or IMPACT better predicts outcomes. This knowledge may influence future patient care and research.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Metro South Human Research Ethics Committee</ethicname>
+      <ethicaddress>Metro South Hospital and Health Service,
+Level 7 TRI, 
+37 Kent Street, 
+WOOLLOONGABBA 
+QLD 4102 
+</ethicaddress>
+      <ethicapprovaldate>19/09/2016</ethicapprovaldate>
+      <hrec>HREC/16/QPAH/462- SSA/16/QPAH/463</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Harini Ravi</name>
+      <address>Dept of Neurosurgery, Princess Alexandra Hospital, 
+199 Ipswich Rd,
+WOOLLOONGABBA,
+QLD 4102</address>
+      <phone>+61411824152</phone>
+      <fax />
+      <email>harini.ravi@uq.net.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ananthababu Pattavilakom Sadasivan</name>
+      <address>Dept of Neurosurgery, Princess Alexandra Hospital, 
+199 Ipswich Rd,
+WOOLLOONGABBA,
+QLD 4102</address>
+      <phone>+61411824152</phone>
+      <fax />
+      <email>harini.ravi@uq.net.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ananthababu Pattavilakom Sadasivan</name>
+      <address>Department of Neurosurgery, Princess Alexandra Hospital, 
+199 Ipswich Rd,
+WOOLLOONGABBA,
+QLD 4102
+</address>
+      <phone>+61411536689</phone>
+      <fax />
+      <email>ananthababu@hotmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

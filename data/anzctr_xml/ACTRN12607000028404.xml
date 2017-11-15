@@ -1,0 +1,276 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="81692">
+  <stage>Registered</stage>
+  <submitdate>28/11/2006</submitdate>
+  <approvaldate>11/01/2007</approvaldate>
+  <actrnumber>ACTRN12607000028404</actrnumber>
+  <trial_identification>
+    <studytitle>Statins in Sepsis Study</studytitle>
+    <scientifictitle>A phase II, randomised, placebo-controlled study of the safety, pharmacokinetics and effect on inflammatory marker levels of atorvastatin in intensive care patients with severe sepsis</scientifictitle>
+    <utrn />
+    <trialacronym>STATInS</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Severe Sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood</conditioncode1>
+      <conditioncode2>Other blood disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomised allocation of oral or enteral atorvastatin 20mg given daily to a maximum of 28 days (or until discharge from the intensive care unit)</interventions>
+    <comparator>Randomised allocation of oral or enteral matched placebo (a "dummy" drug or inactive substance which looks the same as the atorvastatin) given daily to a maximum of 28 days (or until discharge from the intensive care unit)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in serum interleukin-6 level, a marker of inflammation</outcome>
+      <timepoint>Measured at day 0,1, 3, 5, 10, 14 and 48 hours post last dose</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Levels of biological markers of oxidative stress, inflammation, lipid profiles</outcome>
+      <timepoint>Measured at day 0,1,3,5,10,14 and 48 hours post last dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse event frequency</outcome>
+      <timepoint>Measured continuously throughout studyfor a maximum of 30 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in intensive care unit</outcome>
+      <timepoint>Recorded at 28 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital mortality</outcome>
+      <timepoint>Recorded at 28 days.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients admitted to the intensive care unit with severe sepsis of less than 24 hours duration.   Patients must have 3 or more features of systemic inflammatory response syndrome, a strongly suspected or confirmed site of sepsis, presence of organ dysfunction in at least one of the 5 following categories: (cardiovascular system , renal, respiratory, haematologic, unexplained metabolic acidosis).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Death is imminent, pregnancy or breastfeeding, known history of intolerance to a statin agent, acute liver failure (INR[International Normalised Ratio] greater than 2.5), Child's C classification of liver disease ( a grade of C as measured on the Child-Pugh Classification of Liver Disease, ie very severe liver disease), ALT (alanine transaminase ) &gt; 5 x ULN (Upper Limit of Normal), CK (creatinine kinase) &gt; 5x ULN (Upper Limit of Normal), patient unable to take enteral medication, patient or next of kin/person responsible unable to provide informed consent, patient, family or physician not in favor of aggressive treatment.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by phone/fax</concealment>
+    <sequence>Computerised sequence generation stratified by previous statin use</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>subjects, treating doctors and nurses, data analyst are blinded within this study</designfeatures>
+    <endpoint>Safety</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/07/2007</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>250</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Australia New Zealand Intensive Care Research Centre, a centre of Monash University</primarysponsorname>
+    <primarysponsoraddress>Department of Epidemiology and Preventive Medicine (DEPM)
+Monash University
+The Alfred
+Melbourne Victoria 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 5
+20 Allara Street
+Canberra ACT 2061</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>NIL</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background:
+15,000 people are admitted to an Intensive Care Unit in Australia with severe sepsis every year. One third of these patients will die.
+Severe sepsis occurs when an infection causes dysfunction of one or more of the major organs (such as the heart or kidneys). A significant factor in this illness is that the body's normal response to infection or'inflammatory response' becomes abnormal.
+The statins are a class of medications commonly used in Australia to lower
+cholesterol. Previous research suggests that they may also have a beneficial effect on inflammation and that it may be harmful for people who are already taking statins to stop taking them if they develop severe sepsis.
+
+There is a lack of current information on the effects of these drugs in acute illness
+and the risks and benefits of continuing or starting treatment with them in patients
+with severe sepsis in the ICU.
+The aims of this project are:
+To assess the safety profile of atorvastatin in patients with severe sepsis
+To assess the effect of atorvastatin on inflammation and the outcome of patients
+with severe sepsis
+Research Design:
+A randomised controlled trial of atorvastatin 20mg versus placebo.
+Methods:
+Patients in the ICU with severe sepsis who meet the entry criteria will be given 20
+mg of atorvastatin (a commerically available medication) or a placebo ("dummy
+drug"). The study drug will be given as a capsule by mouth or the contents will be
+given mixed with water via a feeding tube. Drug will be given once per day while
+the patient is in the ICU to a maximum of 28 days. Safety blood tests to look for
+signs of liver or muscle damage will be taken every day. Additional blood tests to
+assess inflammation will be taken 6 times during the study. All other care will be
+given as standard care.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Princess Alexandra Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Darwin Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Brisbane Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Austin Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Alfred Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Frankston Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Auckland City Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Geelong Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Bendigo Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Medical Centre</ethicname>
+      <ethicaddress>New ethics address. Please modify.</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>New ethics HREC. Please modify.</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Peter Kruger</name>
+      <address>Intensive Care Unit
+Princess Alexandra Hospital
+Ipswich Road
+Woolloongabba Queensland 4102</address>
+      <phone>+61 7 32402111</phone>
+      <fax>+61 7 32407074</fax>
+      <email>peter_kruger@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Belinda Howe</name>
+      <address>Department of Epidemiology and Preventive Medicine
+Monash University
+The Alfred
+Melbourne Victoria 3004</address>
+      <phone>+61 3 99030340</phone>
+      <fax>+61 3 99030556</fax>
+      <email>belinda.howe@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

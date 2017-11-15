@@ -1,0 +1,211 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367717">
+  <stage>Registered</stage>
+  <submitdate>22/05/2016</submitdate>
+  <approvaldate>2/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000727448</actrnumber>
+  <trial_identification>
+    <studytitle>Cardiac MRI in the prediction of outcomes in advanced cardiomyopathy</studytitle>
+    <scientifictitle>Cardiac MRI in the prediction of outcomes in advanced cardiomyopathy</scientifictitle>
+    <utrn>U1111-1165-9147</utrn>
+    <trialacronym>PREDICT-MRI</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Heart Failure</healthcondition>
+    <healthcondition>Sudden cardiac death</healthcondition>
+    <healthcondition>Arrhythmia</healthcondition>
+    <healthcondition>Cardiac fibrosis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Cardiomyopathy - both newly diagnosed and established. Both ischaemic and non-ischaemic. We will follow outcomes for 5 years. Patients undergo a cardiac MRI evaluating heart function including the presence of focal and diffuse scarring, left ventricular function, and chamber dimensions. Follow up will be via assessment of the avaialble medical records.</interventions>
+    <comparator>No control group.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Death will be assessed by review of the medical records and confirmed with reference to publicly available official registries (e.g. Registry of Births Death and Marriages)</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Sudden cardiac death - assessed by evaluation of the official cause of death on death certificate or coroners report and complemented with further information from the relevant medical record where available.</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Aborted sudden cardiac death (survived cardiac arrest) - assessed by review of the medical record for the relevant admission, or by review of ICD interrogation data (ie stored interrogation data) - in the setting of appropriate therapy for VT of VF.</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause mortality</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Documented ventricular tachycardia or ventricular fibrillation - as documented in the medical record (ECG, 24hr holter, cardiac device interrogation).</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>New onset other arrhythmias (AF, SVT, other) - - as documented in the medical record (ECG, 24hr holter, cardiac device interrogation).</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Left Ventricular Ejection Fraction - as documented in subsequent transthoracic echocardiograms, gated blood pool scans, other cardiac MRI, LV angiography or any other validated LV ejection function assessment.</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Functional status as determined by he New York Heart Association  Scale - as determined by the medical record.</outcome>
+      <timepoint>0, 6, 12, 24, 36, 48, 60 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Age &gt; 18
+2.	Capable of giving informed consent
+3.	New or established ICM or NICM (LVEF &lt; or = 45%) as detected on any cardiac imaging (echocardiogram, nuclear medicine scan, other cardiac MRI, LV angiogram)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Unable to consent to study
+2.	Contraindication to cardiac MRI (eg, existing ICD, uncontrollable claustrophobia, inability to lie flat, proven or suspected metallic implant)
+3.	eGRF &lt; 35ml/min or Cr &gt; 220
+4.	Pregnancy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Using a non-inferiority margin of 2.0 for the hazard ratio of ICD implantation to no ICD implantation in NICM patients without myocardial scar, and assuming a similar 3-year mortality to that published in prior studies, approximately 240 patients would need to be enrolled (120 with a primary prevention ICD and 120 without) to achieve a statistical power of 0.8. We have previously demonstrated a high rate of appropriate ICD discharge of approximately 15% per year. 1 Assuming approximately half of these discharges were life saving, 110 patients in each group will deliver a power of 80% with an alpha value of 5%.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>5</followup>
+    <followuptype>Years</followuptype>
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2016</actualstartdate>
+    <anticipatedenddate>30/04/2021</anticipatedenddate>
+    <actualenddate />
+    <samplesize>240</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Baker IDI Heart and Diabetes Institute</primarysponsorname>
+    <primarysponsoraddress>75 Commercial Road
+Melbourne, VIC, 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Baker IDI Heart and Diabetes Institute</fundingname>
+      <fundingaddress>75 Commercial Road
+Melbourne, VIC, 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Nearly 50% of patients with systolic heart failure suffer sudden cardiac death (SCD). In patients with ischaemic cardiomyopathy (ICM) and an LV ejection fraction (LVEF) of &lt;30%, primary prevention ICD implantation reduced mortality at 20 months follow-up compared to medical therapy alone. Trials in NICM patients suggested similar findings but failed to reach statistical significance - statistical significance was only achieved when both ICM and NICM groups were combined. urrent clinically based guidelines focus on the importance of symptoms (NYHA Class) and LVEF in determining suitability for ICD implantation. Nonetheless, ICD implantation, despite its mortality benefit in selected patient populations, infers significant morbidity in terms or device related complications including tamponade, infections, inappropriate device therapy (which itself has been linked to increased mortality). Consequently, uptake of prophylactic ICD therapy in Australia has been variable with many major centres failing to comply with international guidelines. Hence, many authors have called for the urgent re-evaluation of current guidelines. Clearly there is a need for further risk stratification to assess the vulnerability of the heart failure population to sudden cardiac death, and other long term morbidities associated with the condition.
+Myocardial fibrosis is a fundamental event in the development of cardiac failure, and is a common feature in all patients with advanced cardiac failure regardless of the aetiology of cardiomyopathy. Myocardial fibrosis in animal models is associated with worsening ventricular systolic function, abnormal cardiac remodelling and may predispose to ventricular arrhythmia. Also, increasing myocardial fibrosis results in progressive deterioration of myocardial function, with more extensive myocardial fibrosis identified histologically in the hearts of patients with advanced heart failure. Cardiac fibrosis has been identified as a key component of remodelling associated particularly idiopathic cardiomyopathy and our group has demonstrated a clear association with arrhythmogenesis (including VT and VF) in patients with systolic heart failure. For example, recently, our group published compelling data supporting the role of contrast-enhanced cardiac magnetic resonance imaging (CMR) in identifying low risk patients who meet current criteria for ICD implantation yet are unlikely to benefit this intervention. We feel that the cardiac MRI evaluation, particularly its ability to detect both regional and diffuse fibrosis, may be a useful tool in predicting the outcomes of patients with heart failure.
+This trail seeks to establish a long term prospective data registry to evaluate predictive value of CMR in determining the long term outcome of patients with advanced cardiomyopathy.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Hospital Ethics Committee</ethicname>
+      <ethicaddress>55 Commercial Road
+Melbourne, VIC, 3004</ethicaddress>
+      <ethicapprovaldate>21/04/2015</ethicapprovaldate>
+      <hrec>7/15</hrec>
+      <ethicsubmitdate>22/01/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andrew J Taylor</name>
+      <address>Head Cardiac MRI
+Alfred Hospital and Baker IDI
+75 Commercial Road
+Melbourne, VIC, 3004</address>
+      <phone>+61390762000</phone>
+      <fax />
+      <email>A.Taylor@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sandeep Prabhu</name>
+      <address>Alfred Hospital Heart Centre
+3rd Floor Philip Block
+The Alfred
+55 Commercial Road
+Prahran, VIC, 3181</address>
+      <phone>+61 3 90762000</phone>
+      <fax />
+      <email>sandeep1313@bigpond.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andrew J Taylor</name>
+      <address>Head Cardiac MRI
+Alfred Hospital and Baker IDI
+75 Commercial Road
+Melbourne, VIC, 3004</address>
+      <phone>+61 3 90762000</phone>
+      <fax />
+      <email>A.Taylor@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sandeep Prabhu</name>
+      <address>Alfred Hospital Heart Centre
+3rd Floor Philip Block
+the Alfred
+Commercial Road
+Prahran, VIC, 3181</address>
+      <phone>+61 3 90762000</phone>
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

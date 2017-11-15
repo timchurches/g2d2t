@@ -1,0 +1,202 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371517">
+  <stage>Registered</stage>
+  <submitdate>2/10/2016</submitdate>
+  <approvaldate>19/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001457437</actrnumber>
+  <trial_identification>
+    <studytitle>The demographic factors associated with blood ketone levels in acute care patients.</studytitle>
+    <scientifictitle>An observational study of the demographic factors, blood chemistry and clinical observations associated with blood ketone levels in acute care patients during hospital admission.</scientifictitle>
+    <utrn>U1111-1187-8136</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>perioperative nutritional status</healthcondition>
+    <healthcondition>Blood ketone levels</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A single blood ketone level will be measured using a drop of blood discarded during cannulation or incidental to other blood tests during acute inpatient care.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Early Detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Blood ketone level measured with point of care StatStrip Xpress Meter.</outcome>
+      <timepoint>At time of cannualtion or blood sampling for other investigations.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nutritional status [Body Mass Index, history of weight loss, fasting time] extracted from the patient's electronic medical record. [compound endpoint].</outcome>
+      <timepoint>As near as possible to time of the blood ketone measurement..</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood creatinine extracted from the patient's electronic medical record.</outcome>
+      <timepoint>As near as possible to the blood ketone measurement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient demographics listed in the patient electronic medical record. [age, gender, type of admission, ICU care, surgical procedures, length of stay, mode of separation]. [compound endpoint].</outcome>
+      <timepoint>On discharge from hospital.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comorbidities [diabetes, pregnancy, respiratory support] extracted from the patient's electronic medical record. [compound endpoint].</outcome>
+      <timepoint>As near as possible to the blood ketone measurement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood electrolytes, extracted from the patient's electronic medical record.</outcome>
+      <timepoint>As near as possible to the blood ketone measurement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Haemaglobin, white cell count and platelet count  extracted from the patient's electronic medical record. [composite outcome]</outcome>
+      <timepoint>As near as possible to the blood ketone measurement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood glucose extracted from the patient's electronic medical record.</outcome>
+      <timepoint>As near as possible to the blood ketone measurement.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients attending hospital for acute inpatient care.  They will be a sample of convenience selected from surgical, intensive care and emergency department attendances.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients that are not already having blood tests or cannulation.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Using a sample of 500 tests will permit subgroup analysis to identify associations with a range of demographic factors. No hypotheses are being tested so a power analysis is not relevant in this setting.  Regression, correlation and multiple logistic regression will be used to assess these associations.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Convenience sample</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/11/2016</anticipatedstartdate>
+    <actualstartdate>14/06/2017</actualstartdate>
+    <anticipatedenddate>31/12/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>63</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>St George Hospital - Kogarah</hospital>
+    <hospital>Shoalhaven Hospital - Nowra</hospital>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2541 - Nowra</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Department of Anaesthesia - St. George Hospital</primarysponsorname>
+    <primarysponsoraddress>Gray St. Kogarah, NSW 2217</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>St. George Hospital Department of Anaesthesia</fundingname>
+      <fundingaddress>Gray St. Kogarah NSW 2217</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Blood ketone measurement has been used in the treatment of diabetic ketoacidosis for some time. However it also provides a monitor of nutritional status. Ketonaemia [elevated blood ketones] occur when the body switches from glucose to fatty acids as the main metabolic substrate. This occurs in starvation, during illness and also with prolonged perioperative fasting. The aim of this study is to establish the prevalence and associations of ketonaemia in acute care patients.
+Point of care, single drop, blood analysis [similar to blood sugar testing] provides a simple method of detecting ketonaemia. Making measurements on discarded blood during cannulation or routine blood collection and relating the ketone level to factors collected from the electronic medical record [eMR] will enable normal ranges and demographic associations to be established. This observational study will permit use of blood ketone measurement to detect nutritionally vulnerable populations and establish a baseline for studies of specific interventions in the future.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney LHD Human Research Ethics Committee</ethicname>
+      <ethicaddress>POWH, High St. Randwick, NSW, 2031</ethicaddress>
+      <ethicapprovaldate>13/04/2017</ethicapprovaldate>
+      <hrec>16/097</hrec>
+      <ethicsubmitdate>4/10/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Richard Morris</name>
+      <address>St. George Hospital
+Gray St. 
+Kogarah NSW 2217</address>
+      <phone>+61 2 91132100</phone>
+      <fax />
+      <email>richard.morris@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Richard Morris</name>
+      <address>St. George Hospital
+Gray St. 
+Kogarah NSW 2217</address>
+      <phone>+61 2 91132100</phone>
+      <fax />
+      <email>richard.morris@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Richard Morris</name>
+      <address>St. George Hospital
+Gray St. 
+Kogarah NSW 2217</address>
+      <phone>+61 2 91132100</phone>
+      <fax />
+      <email>richard.morris@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Richard Morris</name>
+      <address>St. George Hospital
+Gray St. 
+Kogarah NSW 2217</address>
+      <phone>+61 2 91132100</phone>
+      <fax />
+      <email>richard.morris@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

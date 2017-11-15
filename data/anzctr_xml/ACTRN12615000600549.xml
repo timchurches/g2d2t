@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368611">
+  <stage>Registered</stage>
+  <submitdate>21/05/2015</submitdate>
+  <approvaldate>9/06/2015</approvaldate>
+  <actrnumber>ACTRN12615000600549</actrnumber>
+  <trial_identification>
+    <studytitle>Effects of testosterone and exercise (TEX) on fitness, physical activity and vascular health in men.</studytitle>
+    <scientifictitle>Effects of testosterone and exercise (TEX) on fitness, physical activity and vascular health in men aged 50-70 years with waist circumference 95 cm or more: a 2x2 factorial randomised controlled trial.</scientifictitle>
+    <utrn>U1111-1170-4352 </utrn>
+    <trialacronym>TEX</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Fitness</healthcondition>
+    <healthcondition>Physical activity</healthcondition>
+    <healthcondition>Overweight
+Vascular health</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm 1: Testosterone supplementation and exercise training
+Arm 2: Testosterone supplementation and usual activities
+Arm 3: Placebo and exercise training
+
+Testosterone dose: 5% w/v testosterone cream, 2 ml applied transdermally every morning for 12 weeks. Used tubes will be collected and weighed to verify amounts applied. Participants will be provided with a diary to record doses.
+
+Exercise training  will involve one hour of exercise at least twice, if possible three times per week, for 12 weeks. Each session will consist 15 minutes of warm up and cool down exercises, and 45 minutes of an exercise circuit with a series of stations incorporating aerobic and resistance exercise. Treadmill and cycle ergometers and multigym weights will be used. Exercise will commence at 65% and progress up to 80% of baseline VO2 max or strength for aerobic and resistance exercise respectively. Training will be administered in small group sessions supervised by an exercise physiologist. A record of attendance will be kept. 
+
+For Arm 1, both interventions commence and contunue over the same period.
+
+
+
+
+
+
+
+</interventions>
+    <comparator>Arm 4: Placebo and usual activities</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Cardiorespiratory fitness measured using a treadmill protocol and indirect calorimetry. </outcome>
+      <timepoint>12 weeks</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Physical activity will be assessed using a compact heart rate monitor with an integrated uni-axial accelerometer.</outcome>
+      <timepoint>Monitor will be worn for seven days in week 12</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ambulatory blood pressure will be measured over 24 hours using an automated portable monitor.</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Arterial stiffness will be assessed using piezoelectric-based sensors placed on the carotid and femoral arteries.</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Endothelial function will be assessed in the brachial and femoral arteries in response to application and release of an occlusive pressure cuff, and also in response to a single dose of glyceryl trinitrate (GTN), using non-invasive high resolution Duplex ultrasound. The dose of GTN is 400 µg administered by sub-lingual spray.</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Body composition will be assessed using Dual Energy X-ray Absorptiometry.</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Men aged 50-70 years with waist circumference 95 cm or more. Total cholesterol 7.0 mmol/L or less, or LDL 4.0 mmol/L or less, eGFR 45 ml/min or more, and total testosterone 6-14 nmol/L with normal haematocrit and PSA, and no evidence of significant liver disease. No clinical indication of pituitary, testicular or prostate disease, and office BP 150 mmHg systolic or less and 95 mmHg diastolic or less.</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cardiovascular disease shown by history of angina, hospitalisation for myocardial infarction, stroke, heart failure or peripheral artery disease, prostate cancer or other major medical comorbidity (eg. renal or lung disease or cancer, transplantation or use of high dose opiate therapy). </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation will be based on random numbers, with participants assigned unique study ID numbers. These ID numbers will appear on the labelling of the drug, with no indication of whether the allocated drug is testosterone or placebo. Allocation will be concealed by the use of sealed opaque envelopes, with the holder of the allocation schedule being off site and contacted by telephone.</concealment>
+    <sequence>Randomised-block randomisation was used for subject allocation in order to ensure similar numbers of subjects within each group. Blocks of four and eight were randomly selected and simple randomisation within blocks occurred. The user-written ‘ralloc’ package  was used based upon Stata software (Version 13, StataCorp, College Station, Tx., USA).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures>With regard to receiving and administering treatments, the blinding refers to the testosterone vs placebo arms, not the exercise intervention.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Treatment effects of T and exercise will be examined using general linear modelling adjusted for baseline variables. Based on our previous studies involving centre-based exercise training in 182 subjects, the planned sample sizes will allow detection of a clinically significant difference in VO2peak of 2.5 ml/kg/min with 80% power at a=0.05.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>15/06/2015</anticipatedstartdate>
+    <actualstartdate>30/03/2016</actualstartdate>
+    <anticipatedenddate>30/03/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <postcode>6150 - Murdoch</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Bu Yeap</primarysponsorname>
+    <primarysponsoraddress>School of Medicine and Pharmacology, M582, University of Western Australia, 35 Stirling Highway, Crawley, WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Heart Foundation (Australia)</fundingname>
+      <fundingaddress>Level 12, 500 Collins Street, Melbourne, VIC 3000.</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Western Australia, School of Medicine and Pharmacology, Fiona Stanley Hospital Unit</sponsorname>
+      <sponsoraddress>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This will be a 12 week, 2x2 factorial randomised controlled trial of the effect of testosterone treatment, with and without exercise training, on cardiorespiratory fitness, physical activity levels and vascular health and physiology (validated markers of cardiovascular risk) in men aged 50-70 years who have waist circumference 95 cm or more. The hypothesis is that 12 weeks of testosterone plus exercise training will produce additive beneficial effects on fitness, physical activity and measures of vascular physiology, compared to either intervention alone, or placebo. These results would inform the debate over the risks and benefits of testosterone therapy in men.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</ethicaddress>
+      <ethicapprovaldate>12/05/2015</ethicapprovaldate>
+      <hrec>15/21</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Bu Yeap</name>
+      <address>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</address>
+      <phone>+61 8 6151 1149</phone>
+      <fax />
+      <email>bu.yeap@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Chyn Soh</name>
+      <address>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</address>
+      <phone>+61 8 6151 1138</phone>
+      <fax />
+      <email>shuen-chyn.soh@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bu Yeap</name>
+      <address>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</address>
+      <phone>+61 8 6151 1149</phone>
+      <fax />
+      <email>bu.yeap@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bu Yeap</name>
+      <address>Harry Perkins Institute of Medical Research, Fiona Stanley Hospital, Robin Warren Drive, Murdoch, WA 6150</address>
+      <phone>+61 8 6151 1149</phone>
+      <fax>+61 8 6151 1199</fax>
+      <email>bu.yeap@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

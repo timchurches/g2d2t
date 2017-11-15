@@ -1,0 +1,218 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370339">
+  <stage>Registered</stage>
+  <submitdate>15/03/2016</submitdate>
+  <approvaldate>21/03/2016</approvaldate>
+  <actrnumber>ACTRN12616000364471</actrnumber>
+  <trial_identification>
+    <studytitle>Can Infiltrating Antibiotics to Reduce the Rate of Wound Infection?</studytitle>
+    <scientifictitle>Efficacy of incisional antibiotics to reduce wound infection and graft failure following excision of skin lesions</scientifictitle>
+    <utrn>U1111-1171-0431</utrn>
+    <trialacronym>PICASSO
+Prophylactic InCisional Antibiotics in Skin cancer Surgery</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>wound infection</healthcondition>
+    <healthcondition>graft failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Surgical techniques</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Non melanoma skin cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Malignant melanoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention
+
+Arm 1: 1% LIDOCAINE plus ADRENALINE 1:100,000 buffered 1:10 with 8.4% sodium bicarbonate (50 mEq/50mL) plus FLUCLOXACILLIN 500 micrograms/mL delivered by injection into subcutaneous tissue as a field block immediately prior to skin excision as a single dose. The volume injected will vary between skin lesions according to amount deemed necessary by the operating surgeon.
+
+Arm 2: 1% LIDOCAINE plus ADRENALINE 1:100,000 buffered 1:10 with 8.4% sodium bicarbonate (50 mEq/50mL) plus CLINDAMYCIN 408 micrograms/mL delivered by injection into subcutaneous tissue as a field block immediately prior to skin excision as a single dose. The volume injected will vary between skin lesions according to amount deemed necessary by the operating surgeon.</interventions>
+    <comparator>Control
+
+1% LIDOCAINE plus ADRENALINE 1:100,000 buffered 1:10 with 8.4% sodium bicarbonate (50 mEq/50mL) delivered by injection into subcutaneous tissue as a field block immediately prior to skin excision as a single dose. The volume injected will vary between skin lesions according to amount deemed necessary by the operating surgeon.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Wound infection: all surgical sites will be assessed at 5-10 days and 3-4 week time points postoperatively and graded for signs of infection as per the standardized scoring system adopted from Griego et al. 
+Griego R, Zitelli J. Intra-incisional prophylactic antibiotics for dermatologic surgery. Archives of Dermatology. 1998;134(6):688-92.</outcome>
+      <timepoint>Once at 5 days post surgery and once at 3 weeks post surgery.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Graft take: all surgical sites closed with a skin graft will be assessed at 5-10 days and 3-4 week time points postoperatively and graded for percentage graft take. A transparent plastic film with a printed grid 1cm x 1cm will be used to estimate the total size of the graft and the percentage of graft take. Photographs will be taken for re-assessment by another observer.</outcome>
+      <timepoint>Once at 5 days post surgery and once at 3 weeks post surgery.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients waitlisted for surgical management of skin lesions following specialist evaluation at the CMDHB Skin Cancer Centre and whom are able to provide consent independently.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>History of allergy to FLUCLOXACILLIN or CLINDAMYCIN.
+Pre-operative administration of antibiotics.
+Inability to return for follow up.
+Inability to consent independently.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be treated with de-identified injectable solutions with a unique code. The allocation to a particular group will only be known in hindsight to the study overseer.</concealment>
+    <sequence>Randomization of patient de-identified injectable will be assigned using random block sizes, stratified according to location of the surgical site (any site on a lower extremity vs. no site on a lower extremity), and will be delivered via opaque envelopes prepared by study statistician preoperatively.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>To account for the testing of two primary hypotheses, we apply a False Discovery Rate correction (equivalent in this case to a Bonferroni correction) to the nominal 5% significance level against two-sided hypotheses under which statistical inference will be effected in the intended full study. We further posit two reasonable values for expected infection rates under the hypothesis of a beneficial treatment effect, namely reductions from a 7% POWI rate to 3.5% and 2% respectively. We determine the expected study sizes required to achieve 80% power under these two scenarios: 2340 and 987 respectively.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>2/05/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/09/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>2340</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Mr Jon Mathy</primarysponsorname>
+    <primarysponsoraddress>Plastic, Reconstruction &amp; Hand Department
+Middlemore Hospital
+100 Hospital Road
+Auckland 
+2025</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Ko Awatea, Middlemore Hospital, Counties Manukau District Health Board</fundingname>
+      <fundingaddress>Ko Awatea
+Middlemore Hospital
+100 Hospital Road
+Auckland 
+2025</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Delayed healing and graft failure secondary to infection contribute to morbidity amongst patients undergoing excision of melanoma and non-melanoma skin cancers. Infection delays healing and leads to more prominent scar formation while graft failure also delays healing and may necessitate further surgery or lead to chronic wounds. Such complications have a flow on effect economically as further nursing resources are occupied, dressings are required for longer and in younger patients a return to work may be delayed.  The adjusted infection rate amongst patients undergoing excision of skin lesions through the Plastic, Reconstructing &amp; Hands department at Middlemore Hospital is approximately 7%.
+Studies have previously demonstrated that pre-operative infiltration of antibiotic to the incision site simultaneously with local anaesthetic leads to a reduction in post-operative wound infections1, 2. However, these studies have been performed in private Mohs micrographic surgery centres and the process has yet to be applied in a public setting. To our knowledge, the process has not been tested in patients requiring split thickness and full thickness skin grafts following excision of melanoma and non-melanoma skin cancers.
+The approaching calamity of antibiotic resistance adds further impetus to the judicious use of antibiotics. Many surgeons routinely prescribe pre-operative antibiotics and/or a course of antibiotics post-operatively in an attempt to reduce morbidity. Not only does this systemic approach contribute to the evolution of antibiotic resistance but it certainly confers morbidity in terms of antibiotic side effects to some patients. Here we seek to apply the principle of intra-incisional antibiotics in a high volume public care setting to determine whether this more judicious use of antibiotics can reduce post-operative wound infection and graft failure secondary to infection.
+</summary>
+    <trialwebsite>nil</trialwebsite>
+    <publication>nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>nil</publicnotes>
+    <ethicscommitee>
+      <ethicname>Central Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Freyberg Building
+Reception  Ground Floor
+20 Aitken Street
+Wellington
+New Zealand 
+6011</ethicaddress>
+      <ethicapprovaldate>14/03/2016</ethicapprovaldate>
+      <hrec>15/CEN/260</hrec>
+      <ethicsubmitdate>30/11/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Jon Mathy</name>
+      <address>Department of Plastic, Reconstructive and Hand Surgery
+100 Hospital Road
+Middlemore Hospital
+Auckland
+2025</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>jonathan.mathy@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jon Mathy</name>
+      <address>Department of Plastic, Reconstructive and Hand Surgery
+100 Hospital Road
+Middlemore Hospital
+Auckland
+2025</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>jonathan.mathy@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jon Mathy</name>
+      <address>Department of Plastic, Reconstructive and Hand Surgery
+100 Hospital Road
+Middlemore Hospital
+Auckland
+2025</address>
+      <phone>+64 9 276 0000</phone>
+      <fax />
+      <email>jonathan.mathy@middlemore.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bryce Jackson</name>
+      <address>C/: Mr Jon Mathy
+Department of Plastic, Reconstructive and Hand Surgery
+100 Hospital Road
+Middlemore Hospital
+Auckland
+2025</address>
+      <phone />
+      <fax />
+      <email>brycejacksonnz@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

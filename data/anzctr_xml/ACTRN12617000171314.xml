@@ -1,0 +1,212 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371937">
+  <stage>Registered</stage>
+  <submitdate>28/11/2016</submitdate>
+  <approvaldate>1/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000171314</actrnumber>
+  <trial_identification>
+    <studytitle>Long term benefits of insulin pump use in people with type 1 diabetes</studytitle>
+    <scientifictitle>Long term follow-up on the real-world efficacy of insulin pump therapy in people with type 1 diabetes: retrospective cohort study.</scientifictitle>
+    <utrn>nil</utrn>
+    <trialacronym>nil</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>type 1 diabetes mellitus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a retrospective cohort study that does not involve participant recruitment/enrollment. Data collection will be from electronic medical records of clinical data routinely collected as part of clinical care. 
+
+Clinic data obtained as part of patient follow-up will be collected from the electronic medical record of people commenced on insulin pump therapy compared to people provided with standard care which is a formalised training in insulin dose adjustment (FlexIt Program). People included are those where commencement of insulin pump therapy or the FlexIt program was  between 2000 and 2011. Clinic data will be collected from the time of commencement of nsulin pump therapy or the FlexIt program to December 2016 which is the end of follow-up..
+
+Clinical outcome data that will be extracted includes:
+1. demographic information  age and gender, duration of diabetes
+2. glycemic control (HbA1c)
+3. diabetes renal complications (albuminuria and eGFR) and cardiovascular risk factors (SBP and DBP, lipid profile (total cholesterol, LDL, HDL, triglycerides, weight)
+4. utilization of health care resources and appropriate technical and practical use of insulin pump therapy (as determined from insulin pump data uploaded to computer on clinic visits)</interventions>
+    <comparator>standard care in type 1 diabetes - formalised training in insulin dose adjustment</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>glycemic control (HbA1c)
+</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>diabetes renal complications (albuminuria and eGFR)</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>utilization of health care resources</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>glucose stability (based on blood glucose average, blood glucose SD, and HbA1c SD)</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>cardiovascular risk factors - SBP and DBP, lipid profile (total cholesterol, LDL, HDL, triglycerides), weight</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>appropriate technical and practical use of insulin pump therapy (as determined from insulin pump data uploaded to computer on clinic visits)</outcome>
+      <timepoint>Starting point: Commencement of insulin pump therapy (intervention group) or FlexIt Program (control group) for people commenced between 2000 and 2011 
+Endpoint: December 2016</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>commencement of insulin pump therapy or undertaking of formalised training in insulin dose adjustment (FlexIt Program) between 2000 and 2011 at the Baker Diabetes Clinical Services</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>not being commencement of insulin pump therapy or not undertaking of formalised training in insulin dose adjustment (FlexIt Program) between 2000 and 2011 at the Baker Diabetes Clinical Services</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Differences between the two patient groups  will be by:
+(i) ANOVA for continuous variables
+(ii) chi2 test/Fisher exact for categorical variables.
+
+Assessment of the impact of treatment modality and clinical factors on glycemic control, hypoglycaemia, weight changes and clinical service utilisation will be by:
+(i) logistic regression analysis
+
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>6/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/05/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>400</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/05/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <postcode>3004 - St Kilda Road Melbourne</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Baker Heart and Diabetes Institute</primarysponsorname>
+    <primarysponsoraddress>Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>Baker Heart and Diabetes Institute</fundingname>
+      <fundingaddress>Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Insulin pump therapy is a potential long-term treatment options in patients with type 1 diabetes not achieving optimal glycemic control. Compared to standard care insulin pump therapy is expensive and requires high levels of medical and patient input, and its use in Australia is rapidly increasing. Despite this the potential long-term effects of insulin pump therapy in patients with type 1 diabetes in comparison with standard of care is poorly documented, with no studies published with more than 5 years of follow-up.
+
+The aim of this study is to review long term (5 to 16 years) follow-up clinic data relating to clinical outcomes (glycemic control, hypoglycaemia, weight, clinical service utilisation) between 2000 and 2016 of people commenced on insulin pump therapy compared to standard care which is people who have undergone formalised training in insulin dose adjustment (FlexIt Program) between 2000 and 2011..
+
+We intend to provide real life long term data to examine the efficacy and costs of on insulin pump therapy compared to modern standard care.</summary>
+    <trialwebsite>nil</trialwebsite>
+    <publication>nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>nil</publicnotes>
+    <ethicscommitee>
+      <ethicname>Alfred Health HREC</ethicname>
+      <ethicaddress>55 Commercial Road, Melbourne Victoria 3004, Australia
+
+</ethicaddress>
+      <ethicapprovaldate>20/12/2016</ethicapprovaldate>
+      <hrec>547/16</hrec>
+      <ethicsubmitdate>21/11/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Esther Briganti</name>
+      <address>Baker Diabetes Clinical Services
+Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</address>
+      <phone>+61 3 8532 1838</phone>
+      <fax>+61 3 8532 1899</fax>
+      <email>esther.briganti@baker.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Esther Briganti</name>
+      <address>Baker Diabetes Clinical Services
+Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</address>
+      <phone>+61 3 8532 1838</phone>
+      <fax>+61 3 8532 1899</fax>
+      <email>esther.briganti@baker.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Esther Briganti</name>
+      <address>Baker Diabetes Clinical Services
+Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</address>
+      <phone>+61 3 8532 1838</phone>
+      <fax>+61 3 8532 1899</fax>
+      <email>esther.briganti@baker.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Esther Briganti</name>
+      <address>Baker Diabetes Clinical Services
+Level 4, 99 Commercial Road, Melbourne Victoria 3004, Australia</address>
+      <phone>+61 3 8532 1838</phone>
+      <fax>+61 3 8532 1899</fax>
+      <email>esther.briganti@baker.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

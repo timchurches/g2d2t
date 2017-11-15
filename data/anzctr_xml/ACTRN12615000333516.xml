@@ -1,0 +1,199 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368233">
+  <stage>Registered</stage>
+  <submitdate>24/03/2015</submitdate>
+  <approvaldate>13/04/2015</approvaldate>
+  <actrnumber>ACTRN12615000333516</actrnumber>
+  <trial_identification>
+    <studytitle>Novel approaches to manage glucocorticoid-induced diabetes in hospital inpatients</studytitle>
+    <scientifictitle>The effects of liraglutide vs insulin on glycaemic control in inpatients with glucocorticoid-induced diabetes </scientifictitle>
+    <utrn>U1111-1168-6022</utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>glucocorticoid-induced or -exacerbated diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Basal insulin (0.2 U/kg by subcutaneous injection in the morning) + liraglutide (0.6 mg by subcutaneous injection in the morning)  for 72 h</interventions>
+    <comparator>Basal insulin (0.2 U/kg by subcutaneous injection in the morning) + short-acting insulin (0.2 U/kg by subcutaneous injection in 3 divided doses before each main meal) for 72 h</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time spent with normoglycaemia as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>mean glucose as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>total daily insulin obtained from drug chart</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>peak glucose as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>glycemic variability as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hypoglycaemia (BGL &lt; 3.5 mmol/L and/or clinical evidence of hypoglycaemia) as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hyperglycaemia (BGL&gt;18 mmol/L) as determined by continuous glucose monitoring</outcome>
+      <timepoint>72 h</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Glucocorticoid-induced or exacerbated diabetes treated with insulin and/or oral glucose-lowering medication(s)
+Glucose &gt;= 15 mmol/l</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Type 1 diabetes
+Admission to intensive care
+Likely to require surgical intervention
+Likely to be admitted &lt;48 h
+eGFR &lt;15 ml/min
+Acute vomiting or history of gastroparesis
+Known allergy to insulin or GLP-1 agonists
+Proliferative retinopathy
+Premenopausal females</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>29/05/2014</anticipatedstartdate>
+    <actualstartdate>29/05/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>22/09/2015</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize>7</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Alfred Hospital</primarysponsorname>
+    <primarysponsoraddress>55 Commercial Rd
+Melbourne, Vic, 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Novo-Nordisk Regional Grant Scheme</fundingname>
+      <fundingaddress>Level 3
+21 Solent Circuit
+BAULKHAM HILLS NSW 2153</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>N/A</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>High dose steroids can raise blood glucose levels. These can cause infections, prolong hospital stay and even rarely result in death. Little is known about the best way to manage patients with steroid diabetes. We will study various approaches to manage high glucose levels in patients treated with steroids in hospital.  We will use minimally invasive continuous glucose monitoring, a contemporary technology, to compare and evaluate in detail two different treatment schedules. One intervention will combine longer acting and mealtime insulin (conventional regimen), and the other will combine liraglutide, a newer non-insulin injection, together with longer acting insulin.  The results of this study will provide important objective pilot data on management of patients with steroid diabetes in hospital.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Health Human Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>1/04/2014</ethicapprovaldate>
+      <hrec>75/14</hrec>
+      <ethicsubmitdate />
+      <ethiccountry />
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Leon Bach</name>
+      <address>Department of Endocrinology and Diabetes
+The Alfred
+55 Commercial Rd
+Melbourne Vic 3004</address>
+      <phone>+61 3 9076 2460</phone>
+      <fax />
+      <email>leon.bach@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Leon Bach</name>
+      <address>Department of Endocrinology and Diabetes
+The Alfred
+55 Commercial Rd
+Melbourne Vic 3004</address>
+      <phone>+61 3 9076 2460</phone>
+      <fax />
+      <email>leon.bach@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Leon Bach</name>
+      <address>Department of Endocrinology and Diabetes
+The Alfred
+55 Commercial Rd
+Melbourne Vic 3004</address>
+      <phone>+61 3 9076 2460</phone>
+      <fax />
+      <email>leon.bach@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

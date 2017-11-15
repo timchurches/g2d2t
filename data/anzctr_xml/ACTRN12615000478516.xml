@@ -1,0 +1,219 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368472">
+  <stage>Registered</stage>
+  <submitdate>4/05/2015</submitdate>
+  <approvaldate>14/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000478516</actrnumber>
+  <trial_identification>
+    <studytitle>Effectiveness of a telephone-based weight management program in overweight or obese patients with lower back pain waiting for orthopedic consultation.</studytitle>
+    <scientifictitle>In overweight or obese patients with lower back pain, who are waiting for consultation with an orthopedic surgeon, does a telephone-based weight management program, result in decreased patient pain, compared to usual patient care.</scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Low back pain</healthcondition>
+    <healthcondition>Overweight and obesity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients will be assessed and provided advice/education by a trained physiotherapist and undertake a telephone-based healthy lifestyle coaching program, the Get Healthy Service (GHS). The GHS involves 10 individually tailored coaching calls delivered over a 6 month period by a qualified health professional and aims to support participants to make positive lifestyle behaviour changes regarding healthy eating, physical activity and achieving and maintaining a healthy weight. 
+
+The frequency of coaching calls is individually tailored to each participant, however calls are generally provided on a tapered schedule, with a higher intensity of calls made within the first 3 months of the program. Participants also receive an information booklet that provides additional information to support them during the program to achieve their goals, a coaching journal to record goals and actions, and access to online services to help track their progress. To ensure participants are suitable for the ongoing coaching calls a number of screening and assessment questions are asked during the initial telephone call.</interventions>
+    <comparator>Patients allocated to the control group will receive usual care during the 6 month trial. Control patients will receive the same brief advice as the intervention group during baseline data collection. The brief advice aims to inform patients about the importance of reducing weight or further weight gain and the link between weight and low back pain. Control patients will be monitored and data will be collected at the same time points as the intervention group.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Pain Intensity measured as the average lower back pain over the past week using a numerical rating scale of 0 to 10, where 0 is no pain and 10 is the worst possible pain</outcome>
+      <timepoint>Baseline and at 2, 6, 10, 14, 18, 22 and 26 weeks after randomisation. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disability and function assessed using the Roland Morris Disability Questionnaire</outcome>
+      <timepoint>Baseline and at 6 and 26 weeks after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient quality of life assessed using the SF-12.v2</outcome>
+      <timepoint>Baseline and at 6 and 26 weeks after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Diet assessed using the Food Frequency Questionnaire</outcome>
+      <timepoint>Baseline and at 6 and 26 weeks after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physical activity assessed using the Active Australia Survey</outcome>
+      <timepoint>Baseline and at 6 and 26 weeks after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Weight (kg) assessed by a trained research assistant using a portable digital scale measured to the nearest 0.1kg </outcome>
+      <timepoint>26 weeks after randomisation </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>*Primary complaint of pain in the lower back area (i.e. between the 12th rib and buttock crease) with or without leg pain
+*Pain duration of longer than 3 months since the onset of pain
+*Average back pain intensity of 3 or greater out of 10 over the past week on a numerical rating scale of 0 to 10
+*Moderate level of interference in activities of daily living (adaptation of item 8 on SF36)
+*Aged 18 years or over
+*Classified as overweight or obese with a self-reported body mass index (BMI) between 27 or greater and less than 40
+*Have access to and can use a telephone
+
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>*A known or suspected serious pathology as the underlying cause of back pain (e.g. fracture, cancer, infection)
+*A previous history of obesity surgery
+*Currently participating in any prescribed, medically supervised or commercial weight loss program 
+*Back surgery in the last six months or planned surgery in the next 6 months
+*Unable to comply with the study protocol, adapt meals or exercise, due to non-independent living arrangements
+*Any medical or physical impairment apart from back pain precluding safe participation in exercise such as uncontrolled hypertension, or morbid obesity (BMI&gt;40)
+*Cannot speak and read English</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Potential participants have been previously contacted by Population Health as part of a cohort study. They are patients with musculoskeletal conditions, waiting for consultation with an orthopaedic surgeon at the Royal Newcastle Centre at the John Hunter Hospital, Newcastle NSW Australia.
+A trained interviewer will contact patients with lower back pain and BMI between 27 and &lt;40 via telephone for eligibility screening and baseline data collection. Eligible patients who consent to participate will be randomised to intervention or control in a 1:1 ratio, using a computer generated randomization schedule generated by an independent statistician. Following screening and (baseline) assessment, the interviewer will open an opaque envelope containing the group allocation. The participant will then be advised on the specific program details (i.e. continue as part of the cohort (control) or be referred to the health coaching service (intervention)).</concealment>
+    <sequence>The randomisation schedule will be generated a priori by an independent statistician using SAS 9.3 through the SURVEYSELECT procedure.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The data will be analysed by intention-to-treat and by a statistician blinded to group allocation.
+Primary outcomes analysis
+For pain intensity we will use linear mixed models with random intercepts for individuals to account for correlation of repeated measures (pain). The model will include terms for important prognostic factors measured prior to randomisation and specified a priori. We will obtain estimates of the effect of the intervention and 95% confidence intervals by constructing linear contrasts to compare the adjusted mean change in outcome from baseline to each time point between the treatment and control groups. For weight we will compare the proportional reduction in weight between groups using t-tests. We will analyse the effect of treatment separately for each outcome.
+We will also conduct a sensitivity analysis of weight loss using self-report measure in a linear mixed model.
+Secondary outcomes analysis
+We will analyse the effect of treatment separately for each outcome using linear mixed models with random intercepts for individuals to account for correlation of repeated measures. As per primary model will include terms for important prognostic factors measured prior to randomisation and specified a priori. We will obtain estimates of the effect of the intervention and 95% confidence intervals by constructing linear contrasts to compare the adjusted mean change (continuous variables) or difference in proportions (dichotomous variables) in outcome from baseline to each time point between the treatment and control groups.
+
+sample size: calculations allow for two primary outcomes. Using a standard deviation of 2.3, a two-sided alpha of 0.025 (to account for two primary outcomes) and allowing for 15% lost to follow up, a sample of 80 participants per group will, will give 90% power to detect a clinically meaningful difference of 1.5 in pain intensity between intervention and control groups. This sample also provides 80% power to detect a 5kg difference between at follow up  this accounts for 5% reduction in weight and hypothesized to be lead to a clinically meaningful reduction in pain.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>15/05/2015</anticipatedstartdate>
+    <actualstartdate>18/05/2015</actualstartdate>
+    <anticipatedenddate>2/11/2015</anticipatedenddate>
+    <actualenddate>27/10/2015</actualenddate>
+    <samplesize>160</samplesize>
+    <actualsamplesize>160</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>24/05/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <postcode>2305 - New Lambton Heights</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Hunter New England Population Health, Hunter New England Local Health District</primarysponsorname>
+    <primarysponsoraddress>Locked Bad 10, Wallsend, NSW 2287</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Hunter New England Population Health, Hunter New England Local Health District</fundingname>
+      <fundingaddress>Locked Bad 10, Wallsend, NSW 2287</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Newcastle, Faculty of Health, School of Medicine and Public Health</fundingname>
+      <fundingaddress>University Drive, Callaghan, NSW 2308</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Nil</sponsorname>
+      <sponsoraddress>Nil</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Many patients with chronic low back pain are referred for orthopaedic surgical consultation despite most having no indication for surgical intervention. A high percentage of these patients are overweight or obese and would likely benefit from weight management care, however such care is rarely offered to these patients. Instead, patients wait for extended periods of time for consultation during which their pain symptoms and health decline. This study aims to evaluate the effectiveness of a telephone-based weight management program in decreasing weight and pain in overweight or obese patients with chronic low back pain waiting for consultation with an orthopaedic surgeon. We hypotheses that the patients who receive the telephone-based weight management program will achieve an average weight loss of 5kg and decrease their pain score by an average of 1.5 out of 10 from baseline, compared to the control group receiving usual care.</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>Nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>Nil</publicnotes>
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton, NSW 2305
+</ethicaddress>
+      <ethicapprovaldate>20/04/2015</ethicapprovaldate>
+      <hrec>13/12/12/5.18</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher M Williams</name>
+      <address>University of Newcastle, Locked Bag 10, Wallsend NSW 2287</address>
+      <phone>+61 2 49246102</phone>
+      <fax />
+      <email>Christopher.M.Williams@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher M Williams</name>
+      <address>University of Newcastle, Locked Bag 10, Wallsend NSW 2287</address>
+      <phone>+61 2 49246102</phone>
+      <fax />
+      <email>Christopher.M.Williams@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher M Williams</name>
+      <address>University of Newcastle, Locked Bag 10, Wallsend NSW 2287</address>
+      <phone>+61 2 49246102</phone>
+      <fax />
+      <email>Christopher.M.Williams@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Amanda Williams</name>
+      <address>University of Newcastle, Locked Bag 10, Wallsend NSW 2287</address>
+      <phone>+61 2 49246450, </phone>
+      <fax />
+      <email>Amanda.J.Williams@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

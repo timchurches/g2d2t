@@ -1,0 +1,226 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363238">
+  <stage>Registered</stage>
+  <submitdate>2/11/2012</submitdate>
+  <approvaldate>16/11/2012</approvaldate>
+  <actrnumber>ACTRN12612001215819</actrnumber>
+  <trial_identification>
+    <studytitle>Investigating the utility of the customised fetal growth chart: a randomised controlled trial</studytitle>
+    <scientifictitle>Does a customised fetal growth chart compared to a non-customised fetal growth chart for use in routine antenatal care in singleton pregnancies reduce adverse perinatal outcome?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Perinatal outcomes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Antenatal care</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A customised fetal growth chart that is individualised for the specific pregnancy using maternal and pregnancy characteristics and can be used with routine measurements of fundal height.  The intervention will be used at each antenatal visit after 24 weeks gestation by entering the fundal height measurement into the system, which will then plot it on the chart, with all previous measurements.  The charts will be used up until delivery of the baby.</interventions>
+    <comparator>A non-customised fetal growth chart that can be used with routine measurements of fundal height. The intervention will be used at each antenatal visit after 24 weeks gestation by entering the fundal height measurement into the system, which will then plot it on the chart, with all previous measurements.  The charts will be used up until delivery of the baby.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Composite perinatal morbidity/mortality outcome (stillbirth, neonatal death, Apgar score at 5 minutes &lt; 4, hypoglycaemia, stages 2-3 necrotizing enterocolitis [NEC] according to Bell's Criteria, hypoxic ischaemic encephalopathy [HIE] Sarnat stages 2 and 3, neonatal seizures, intraventricular haemorrhage [IVH] graded according to Papile's classification, admission to neonatal intensive care unit [NICU] &gt; 4 days)</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of babies confirmed as SGA on ultrasound of those referred</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of babies confirmed as large-for-gestational age (LGA) on ultrasound of these referred</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Classification of SGA by Birthweight Appropriateness Quotient and/or population based charts</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Classification of LGA by Birthweight Appropriateness Quotient and/or population based charts</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Preterm birth (defined as birth less than &lt;37 weeks and &lt;34 weeks); identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of caesarean sections (CS)/inductions for SGA/LGA; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Individual perinatal outcomes that comprise the primary outcome measure; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Perineal trauma; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost of interventions (such as ultrasound scans and antenatal/neonatal admissions); identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Fetal distress; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Resuscitation (such as need for intubation); identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mechanical ventilation; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Chronic neonatal lung disease; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Shoulder dystocia; identified from routinely collected data</outcome>
+      <timepoint>Discharge of baby from hospital</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All women receiving routine antenatal care</inclusivecriteria>
+    <inclusiveminage>13</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>55</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Multiple gestation
+Participation in GP shared care</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>To generate the growth chart to be used, the required parameters for the customisation process will be entered during the booking interview with the midwife.  Once the first doctor’s visit has occurred, and the model of care (i.e. to exclude women accessing GP shared care) and plurality (i.e. to exclude multiple pregnancies) have been entered, the chart will be produced and saved in the electronic obstetric clinical system.  The randomisation schedule will be saved into this same system and the chart (either standard or customised) will be generated based on the next allocation in the randomisation sequence.</concealment>
+    <sequence>A computer generated randomisation schedule will be generated prior to study commencement that will be used to allocate patients to either the standard chart or customised chart.  Variable block randomisation will be used, as well as stratification by pregnancy risk (low risk and high risk).  Women who are allocated to the obstetric model of care at the first doctor’s visit will be classified as high risk; all others will be low risk.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/02/2013</anticipatedstartdate>
+    <actualstartdate>11/03/2014</actualstartdate>
+    <anticipatedenddate>31/12/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>4020</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Mater Mother's Hospital - South Brisbane</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Mater Medical Research Institue</primarysponsorname>
+    <primarysponsoraddress>Raymond Terrace, South Brisbane, QLD, 4101</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Mater Mothers Golden Casket Research Grant</fundingname>
+      <fundingaddress>Raymond Terrace, South Brisbane, QLD, 4101</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Adverse fetal growth is strongly associated with adverse pregnancy outcome for the fetus and newborn. Close monitoring of fetal growth is an essential component of antenatal care in order to try and reduce the resultant risks associated with adverse growth. It is standard practice to
+assess fetal growth by measuring symphyseal fundal height (SFH) at each antenatal visit and assessing the growth in line with a standard non-individualised growth chart. We have
+developed a customised growth chart that we hypothesise that when compared to a standard growth chart, reduces the risk of adverse pregnancy outcome through increased detection of adverse growth. Therefore, this study is a single centre, blinded, two-arm, randomised controlled trial to compare the detection rates of adverse growth (both slowed growth and accelerated growth) and adverse fetal and neonatal outcomes when using a customised fetal growth chart compared with a standard growth chart. The study will be run at the Mater Mothers Hospital Antenatal Clinic, with women randomly allocated to receive either the standard chart or customised chart. This chart will then be used throughout pregnancy to plot serial measurements of SFH to monitor fetal growth. We aim to reduce the rate of our
+composite perinatal morbidity outcome measure from 10% to 7.5%, which will require randomising 4,010 women. If our study hypothesis is proven, the low cost nature of this tool
+allows for the possibility of implementation into developing countries, as well as rural and remote Australian settings, that do not have sophisticated monitoring equipment. By
+implementing such a low cost solution to the difficult task of monitoring growth, there are potentially very large human and economic benefits from this research.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Health Services Human Research Ethics Committee</ethicname>
+      <ethicaddress>Raymond Terrace, South Brisbane, QLD, 4101</ethicaddress>
+      <ethicapprovaldate>8/10/2012</ethicapprovaldate>
+      <hrec>1925M</hrec>
+      <ethicsubmitdate>5/09/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Kristen Gibbons</name>
+      <address>Level 2, Mater Research
+Aubigny Place
+Raymond Terrace
+South Brisbane Qld 4101</address>
+      <phone>+61 7 3163 1587</phone>
+      <fax />
+      <email>kristen.gibbons@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Kristen Gibbons</name>
+      <address>Level 2, Mater Research
+Aubigny Place
+Raymond Terrace
+South Brisbane Qld 4101</address>
+      <phone>+61 7 3163 1587</phone>
+      <fax />
+      <email>kristen.gibbons@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Kristen Gibbons</name>
+      <address>Level 2, Mater Research
+Aubigny Place
+Raymond Terrace
+South Brisbane Qld 4101</address>
+      <phone>+61731631587</phone>
+      <fax />
+      <email>kristen.gibbons@mater.uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

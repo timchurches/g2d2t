@@ -1,0 +1,276 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83125">
+  <stage>Registered</stage>
+  <submitdate>2/09/2008</submitdate>
+  <approvaldate>17/09/2008</approvaldate>
+  <actrnumber>ACTRN12608000466347</actrnumber>
+  <trial_identification>
+    <studytitle>Low-dose tenecteplase versus standard-dose alteplase for acute ischaemic stroke: an Imaging-Based Efficacy Trial.</studytitle>
+    <scientifictitle>Low-dose tenecteplase versus standard-dose alteplase for acute ischaemic stroke: an Imaging-Based Efficacy Trial.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Tenecteplase versus Alteplase for Acute Ischaemic Stroke (TAAIS) Trial</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ischaemic stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Tenecteplase: given as a single intravenous bolus (over one minute), in one of two doses (0.1mg/kg or 0.25 mg/kg)</interventions>
+    <comparator>Alteplase: given intravenously 0.9mg/kg, 10% as a bolus (over one minute) and the remaining 90% as a one hour infusion immediately following the bolus</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Reperfusion: This will be measured by the proportional reduction in the size of the pre-treatment perfusion lesion (mean transit time) on perfusion computed tomography (CTP) or magnetic resonance imaging (MRI), and the 24 hour post-treatment MRI perfusion lesion.</outcome>
+      <timepoint>Baseline and 24 hours</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Early Clinical Improvement: This will be determined by change in the NIHSS (National Institutes of Health Stroke Scale) score from pre-treatment to 24 hours.</outcome>
+      <timepoint>Baseline and 24 hours</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intra-cranial haemorrhage (ICH): Proportion with parenchymal haematoma (PH type 1 or PH type 2) on 24 hour MRI</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with parenchymal haematoma type 2 (PH2) on 24 hour MRI</outcome>
+      <timepoint>Baseline and 24 hour perfusion CT and MRI</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with complete vessel recanalisation on 24 hour MRA</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Infarct growth between acute CTP and 24 hour MRI - measured in absolute volume change (mL)</outcome>
+      <timepoint>baseline and 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Infarct growth between acute CTP and day 90 MRI - measured in absolute volume change (mL)</outcome>
+      <timepoint>Baseline and day 90</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with early major neurologic improvement at 24 hours (NIHSS reduction of 8 or more)</outcome>
+      <timepoint>Baseline and 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with good functional outcome: defined as a modified Rankin Scale (mRS)  of 0-2</outcome>
+      <timepoint>day 90</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with symptomatic ICH (PH2 + decline of 4 or more points on NIHSS) at 24 hours</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with excellent functional outcome: defined as a modified Rankin Scale (mRS) of 0-1 at 90 days</outcome>
+      <timepoint>90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with poor functional outcome: defined as a modified Rankin Scale (mRS) of 5-6 at 90 days</outcome>
+      <timepoint>90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportional reperfusion at 24 hours (non-parametric measured)</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with complete or partial recanalisation on MRA (MR angiogram) at 24 hours.</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in acute to 24 hour NIHSS (non-parametric measured)</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients dying before 90 days</outcome>
+      <timepoint>90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The above analyses will be performed on pooled TNK vs tPA group. Should there be significant differences in the primary outcomes the above analyses will be repeated between the individual treatment groups</outcome>
+      <timepoint>24 hours and 90 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients presenting with acute ischaemic stroke, onset within previous 6 hours. Fulfilling usual clinical criteria for thrombolytic treatment. Specific additional advanced imaging criteria:
+
+Imaging inclusion criteria:
+CT or MR scanning has excluded intracranial haemorrhage
+CT angiography (CTA) shows a visible vessel occlusion (complete or partial)  this may be in middle, anterior or posterior cerebral artery, and should be anatomically correlated with the perfusion CT (CTP) lesion
+CTP or MRI shows &gt;20% mismatch between mean transit time (MTT) lesion and cerebral blood volume (CBV) or DWI lesion  (i.e. significant penumbral tissue)  this is visually assessed.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Standard clinical exclusion criteria for stroke thrombolysis apply.
+Specific imaging exclusion criteria: 
+Severe renal impairment - Glomerular filtration rate (GFR) &lt;15 mls/min
+Contraindication to MRI (pacemaker, aneurysm clips) 
+No perfusion lesion visible and/or no visible vessel occlusion (in middle, anterior, or posterior cerebral arteries)
+Match between cerebral blood volume (CBV) or diffusion-weighted MRI (DWI) lesion and MTT lesion (i.e. no penumbra).
+Large area of irreversible ischaemia (&gt;1/3 middle cerebral artery territory on CBV, or DWI) 
+Internal carotid occlusion on side of acutely affected hemisphere or carotid T thrombus (as this may be more effectively treated with intra-arterial therapy)
+Evidence of acute brainstem ischaemia</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Treatment allocation is via a centralised telephone service, manned by the central study coordinator. Treatment allocation occurs via phone call to the central study coordinator who opens a sealed opaque envelope envelope (next in sequence) and informs the investigator of the allocation. The only person who has access to the sealed opaque envelopes (locked in a filing cabinet) is the central study coordinator.</concealment>
+    <sequence>Permuted block randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/11/2008</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>75</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>2305</postcode>
+    <postcode>3128</postcode>
+    <postcode>3084</postcode>
+    <postcode>3052</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>John Hunter Hospital, University of Newcastle</primarysponsorname>
+    <primarysponsoraddress>1 Lookout Road
+New Lambton Heights, Newcastle, NSW 2305</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC) Project Grant: ID 510722</fundingname>
+      <fundingaddress>Level 5, 20 Allara Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Box Hill Hospital</othercollaboratorname>
+      <othercollaboratoraddress>1 Nelson Road
+Box Hill Melbourne, VIC 3128</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Austin Hospital</othercollaboratorname>
+      <othercollaboratoraddress>145 Studley Road
+Heidelberg Melbourne VIC 3084</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Royal Melbourne Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Corner Grattan Street and Sydney Road
+Parkville, Melbourne, VIC 3050</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a trial of thrombolytic (clot-dissolving) treatment for acute stroke comparing the standard medication alteplase to a newer agent, tenecteplase</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Eastern Health Research and Ethics Committee</ethicname>
+      <ethicaddress>16 Arnold Street
+Box Hill
+VIC 3128</ethicaddress>
+      <ethicapprovaldate>12/09/2008</ethicapprovaldate>
+      <hrec>E07/0809</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Mark Parsons</name>
+      <address>Department of Neurology
+John Hunter Hospital
+1 Lookout Road
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61249213490</phone>
+      <fax />
+      <email>mark.parsons@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Mark Parsons</name>
+      <address>Department of Neurology
+John Hunter Hospital
+1 Lookout Road
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61249213490</phone>
+      <fax />
+      <email>mark.parsons@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Mark Parsons</name>
+      <address>Department of Neurology
+John Hunter Hospital
+1 Lookout Road
+New Lambton Heights
+NSW 2305</address>
+      <phone />
+      <fax />
+      <email>mark.parsons@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

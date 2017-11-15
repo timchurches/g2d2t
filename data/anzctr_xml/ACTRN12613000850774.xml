@@ -1,0 +1,183 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364569">
+  <stage>Registered</stage>
+  <submitdate>11/07/2013</submitdate>
+  <approvaldate>1/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000850774</actrnumber>
+  <trial_identification>
+    <studytitle>Comparison of normobaric hypoxia and hypoxic hypoxia protocol on human performance and physiology</studytitle>
+    <scientifictitle>In young male population, is there difference in physiology, performance and hypoxia symptoms between normobaric hypoxia and hypobaric hypoxia?</scientifictitle>
+    <utrn>U1111-1145-5064 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>symptoms and physiological changes under hypoxia in healthy young male</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>normobaric hypoxia: subjects in sitting position, exposed to hypoxia by inhaling 7% oxygen through face mask at sea  level 
+hypoxia duration &lt; 5 min (depend on invidual tolerance and SpO2)
+Each participant undergo the two sessions on one occasion only. Each sessions are separated by at least 48 hours.   </interventions>
+    <comparator>hypobaric hypoxia: subjects sitting in altitude chamber, exposed to hypoxia by ascending to simulated 25,000 feet environment; total duration of hypoxia exposure in altitude chamber varies in each individual but around 3-5 min (depend on invidivual tolerance and SpO2). All participants undergo this intervention on one occasion only. </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>PaO2 drop below 60% (evaluated by pulse oximeter with sensor attached to subjects' middle finger)</outcome>
+      <timepoint>between 3-4 minutes of hypoxia exposure</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>unable to hold on to hypoxia exposure (subjective feeling of participants, also judged by inside observer [aerospace physiologist]) </outcome>
+      <timepoint>3-4 minutes of  hypoxia exposure</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>heart rate drop &gt; 20 bpm (monitored by polysomograph, with three EKG sensors over chest region)</outcome>
+      <timepoint>3-4 minutes after hypoxia exposure</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>severe hypoxia symptoms (observed by aviation physiologist, combined with subjective check list with 17 hypoxia symptom items filled out by participants)</outcome>
+      <timepoint>3-4 minutes after hypoxia exposure</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>healthy volunteer
+able to detect middle cerebral artery blood flow by doppler at temporal region.</inclusivecriteria>
+    <inclusiveminage>20</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>40</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>1. pulmonary disease (asthma, COPD, pneumothorax, pulmonary tuberculosis)
+2. claustrophobia
+3. heart disease
+4. severe anemia</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Healthy volunteers were recruited from staff and trainees taking aviation physiology course in Aviation Physiology Research Laboratory of Kaoshiung Armed Forces Hospital Gangshan Branch. Inclusion criteria include: male between 20 to 40 years old and successful sonographic detection of blood flow signals in the middle cerebral artery using transcranial Doppler sonography. No female subjects were enrolled in order to minimize gender-related variability. </concealment>
+    <sequence>Each subject was asked to complete the NH and HH sessions in a randomized order. A list of random numbers was determined using a computer program (Research Randomizer). Numbers were placed in sealed opaque envelopes before the beginning of the study so that randomization was concealed from the recruiter. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>within group study</designfeatures>
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>Data were presented as mean+/-standard deviation. Statistical analysis wereperformed using generalized linear model (GzLM) and generalized equation estimation (GEE). Coreelation analysis was performed with Pearson analysis. 
+Data analysis was performed using the Statistical Package for the Social Sciences (SPSS; version 19.0, SPSS,USA). Results were considered significant when p&lt;0.05.The sample size was calculated using G*power. With an a of 0.05, power of 0.80, and effect size of 0.5, required number of valid samples was at least 16.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/08/2012</anticipatedstartdate>
+    <actualstartdate>3/08/2012</actualstartdate>
+    <anticipatedenddate>31/10/2012</anticipatedenddate>
+    <actualenddate>25/10/2012</actualenddate>
+    <samplesize>21</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Taiwan, Province Of China</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>National Defense Medical Center</primarysponsorname>
+    <primarysponsoraddress>161 Minchuan East Road, Sec. 6, Taipei 11490, Taiwan, R.O.C.</primarysponsoraddress>
+    <primarysponsorcountry>Taiwan, Province Of China</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>National Defense Medical Center</fundingname>
+      <fundingaddress>161 Minchuan East Road, Sec. 6, Taipei 11490, Taiwan, R.O.C.</fundingaddress>
+      <fundingcountry>Taiwan, Province Of China</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>When unexpected situations such as oxygen system failure or loss of cabin pressure occur, a pilot may suffer hypoxia. Without early recognition of hypoxia symptoms and prompt corrective measures, in-flight hypoxia could affect cognition and judgment, even jeopardize flight safety. Hypoxia symptoms are determined by inherent tolerance, among other factors.It is believed that hypoxia signature, aconstellation of hypoxia symptoms, is unique for each individual. To familiarize with hypoxia symptoms, all military pilots in Taiwan have to undergo hypoxia awareness training by exposing themselves to simulated hypoxia environment in altitude chamber. This hypobaric hypoxia (HH) training protocol has the potential danger of decompression sickness and barotrauma. Alternatively, normobaric hypoxia (NH) training has been developed involving breath low concentration of oxygen at sea level. NH is safer, more economical andtime saving. However, theres no conclusion as to whether NH protocol can faithfully imitate altitude hypoxia, as represented by HH protocol currently implemented in many countries as the mainstay of hypoxia awareness training. The purpose of this study is to compare the physiological responses, performances and hypoxia symptoms between HH and NH hypoxia awareness training protocol.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Institutional Review Board, Tri-Service General Hospital</ethicname>
+      <ethicaddress>No.325,Sec.2,Chenggong Rd.,Neihu District,Taipei City 114,Taiwan(R.O.C)</ethicaddress>
+      <ethicapprovaldate>30/07/2012</ethicapprovaldate>
+      <hrec>2-101-05-080</hrec>
+      <ethicsubmitdate>21/06/2013</ethicsubmitdate>
+      <ethiccountry>Taiwan, Province Of China</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin Chu</name>
+      <address>Institute of Aerospace and Undersea Medicine, School of Medicine, National Defense Medical Center. 
+
+No. 161, Section 6, Min-Chuan East Road. Taipei, 114 Taiwan, R.O.C.</address>
+      <phone>+886-2-87923100 </phone>
+      <fax>+886-2-87923176</fax>
+      <email>hrchu@ndmctsgh.edu.tw</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin Chu</name>
+      <address>Institute of Aerospace and Undersea Medicine, School of Medicine, National Defense Medical Center. 
+
+No. 161, Section 6, Min-Chuan East Road. Taipei, 114 Taiwan, R.O.C.</address>
+      <phone>+886-2-87923100 </phone>
+      <fax />
+      <email>hrchu@ndmctsgh.edu.tw</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hsin Chu</name>
+      <address>Institute of Aerospace and Undersea Medicine, School of Medicine, National Defense Medical Center. 
+
+No. 161, Section 6, Min-Chuan East Road. Taipei, 114 Taiwan, R.O.C.</address>
+      <phone>+886-2-87923100</phone>
+      <fax />
+      <email>hrchu@ndmctsgh.edu.tw</email>
+      <country>Taiwan, Province Of China</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,202 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343464">
+  <stage>Registered</stage>
+  <submitdate>9/12/2015</submitdate>
+  <approvaldate>15/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001362583</actrnumber>
+  <trial_identification>
+    <studytitle>Psychological strength training as an evidence based targeted intervention for the primary prevention of post-traumatic stress disorder (PTSD).</studytitle>
+    <scientifictitle>Efficacy of a psychological strength training program for the prevention of PTSD in fire and emergency services recruits in Western Australia</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Posttraumatic Stress Disorder</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A four hour psychological strength training program, to be delivered over four, one hour sessions as part of initial recruit training. The one hour module were delivered throughout the duration of recruit training school (15 weeks) by a psychologist; the time for each module within each recruit school was varied to fit in with DFES scheduling requirements, with Module 1 always delivered in the first week of recruit training and Module 4 always delivered in the final week of recruit training. Modules were delivered in a group format; attendance was not recorded as attendance of all aspects of recruit training is required by DFES for graduation from recruit school.
+
+Each one-hour MAPS session comprised a fully contained module. The MAPS precis was presented at the start and end of each session, as follows:
+Creating strong MAPS:
+1.	MomentTake a moment to choose the strongest option
+2.	AssessMake an assessment of what the situation is, what is happening for you (internally and externally) and what outcome you would like.
+3.	PlanPlan your course of action
+4.	Supportwhat support(s) might you need to follow through with the strongest possible response? 
+
+Module One was an introduction to the MAPS program. The objective of Module Two was to instruct participants in how to take a moment to be able to choose their response while under stress. These concepts were revisited and consolidated in Module Three, where the concept of identifying and using appropriate supports was added. The final MAPS module targeted maintenance and self-care. 
+</interventions>
+    <comparator>Training-as-usual: the comparison group will receive intial recruit training-as-usual without the psychological strength training component.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>PTSD Symptoms (measured by PTSD Checklist-Civilian)</outcome>
+      <timepoint>Pre-intervention (T1), immediately post-intervention (T2), 6-month follow up (T3), 12-month follow up (T4), 5 year follow-up (T5)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Depression, as measured by the Depression Anxiety and Stress Scale (DASS-21)</outcome>
+      <timepoint>Pre-intervention (T1), immediately post-intervention (T2), 6-month follow up (T3), 12-month follow up (T4), 5 year follow-up (T5)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Completing initial recruit training with the WA Department of Fire and Emergency Services</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>There were no exclusion criteria. Participants had gone through a recruitment and screening process to be accepted into recruit school, thus if they were enrolled as a DFES recruit they were eligible for this study.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Recruits within DFES are naturally grouped into ‘schools’, where a school is a cohort that completes training together. For this reason, random allocation of single subjects to treatment or control groups is not feasible. Rather, ‘schools’ will be randomly allocated to treatment or control.
+As four schools were expected to participate, four sealed envelopes (two containing “TAU” and two containing “intervention”) were prepared at the start of the trial. Before contact with each school one envelope was selected, designating the condition for that school. 
+It was originally intended that two TFF schools would be randomly allocated to the TAU condition and two to the Intervention condition, in order to achieve the minimum number of participants required, as estimated by the power analysis.  With two TFF schools scheduled in both 2012 and 2013, the study was on track with this target; however, due to reasons not communicated to the researchers, one TFF school in 2013 was cancelled by DFES after it had been allocated as an intervention group. Given the 12 month follow-up period, it was not possible to recruit an additional TFF school in 2014 and complete this project within the required timeframe. 
+</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>GLMM
+According to the power program (G*Power 3.1), at a per-test alpha-level of .05, 82 participants (41 in each group) are required for an 80% chance of capturing a small to moderate Group x Time interaction (f = .158). This is the repeated measures ANOVA estimate. The Generalised Linear Mixed Model (GLMM; the statistical procedure used to test the hypotheses, as outlined below) estimate would be approximately equivalent; but with GLMM, natural attrition can occur without seriously compromising power. This is because the GLMM maximum likelihood procedure is a full estimation procedure, which uses all of the data available at each time period without being dependent on each participant providing data at each time point (Holden, Kelley, &amp; Agarwal, 2008).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>4/06/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>15/12/2014</actualenddate>
+    <samplesize>82</samplesize>
+    <actualsamplesize>76</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <postcode>6058 - Forrestfield</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University</primarysponsorname>
+    <primarysponsoraddress>Kent St
+Bentley 
+Perth WA 6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Curtin University</fundingname>
+      <fundingaddress>Kent St
+Bentley
+Perth
+WA 6102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will evaluate the efficacy of a psychological strength training program. The program will be designed to improve coping skills and resilience with a view to preventing Posttraumatic Stress Disorder (PTSD) in professions that are frequently exposed to trauma. The program will be delivered to fire and emergency recruits, who will then be tracked for up to 5 years to assess their exposure to potentially traumatic events, PTSD symptoms and other coping indicators.</summary>
+    <trialwebsite />
+    <publication>Skeffington, P. M., Rees, C. S., Mazzucchelli, T. G., &amp; Kane, R. T. (2016). The primary prevention of PTSD in firefighters: preliminary results of an RCT with 12-month follow-up. PLoS one, 11(7), e0155873.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>HREC c/- Office of Research and Development
+Curtin University
+GPO Box U1987
+Perth WA 6845</ethicaddress>
+      <ethicapprovaldate>5/10/2011</ethicapprovaldate>
+      <hrec>HR113/2011</hrec>
+      <ethicsubmitdate>15/06/2011</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Petra Skeffington</name>
+      <address>Curtin University
+School of Psychology and Speech Pathology
+GPO Box U1987 
+Perth
+WA, 6845</address>
+      <phone>+61402312619</phone>
+      <fax />
+      <email>petra.skeffington@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Petra Skeffington</name>
+      <address>Curtin University
+School of Psychology and Speech Pathology
+GPO Box U1987 
+Perth
+WA, 6845</address>
+      <phone>+61402312619</phone>
+      <fax />
+      <email>petra.skeffington@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Petra Skeffington</name>
+      <address>Curtin University
+School of Psychology and Speech Pathology
+GPO Box U1987 
+Perth
+WA, 6845</address>
+      <phone />
+      <fax />
+      <email>petra.skeffington@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Clare Rees</name>
+      <address>Curtin University
+School of Psychology and Speech Pathology
+GPO Box U1987 
+Perth
+WA, 6845</address>
+      <phone>+61 08 9266 3442</phone>
+      <fax />
+      <email>c.rees@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

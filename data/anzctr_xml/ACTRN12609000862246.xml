@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="320652">
+  <stage>Registered</stage>
+  <submitdate>25/09/2009</submitdate>
+  <approvaldate>6/10/2009</approvaldate>
+  <actrnumber>ACTRN12609000862246</actrnumber>
+  <trial_identification>
+    <studytitle>Can short message service reminders reduce the do not attend rate in physiotherapy outpatient clinics?</studytitle>
+    <scientifictitle>Can short message service (SMS) reminders reduce the do not attend rate in patients attending physiotherapy outpatient clinics?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>No secondary ID</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Do not attend rate of patients with appointments at physiotherapy outpatient clinics</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Short message service reminder for appointment in physiotherapy outpatients. Patients allocated to the short message service reminder group will be sent a reminder 2 days before their appointment if the appointment is made more than 3 days prior, or the day before the appointment if the appointment was made 2 days ago. It is expected that that intervention will be applied over a duration of 2 months.</interventions>
+    <comparator>Usual care, not receiving short message reminder for appointment in physiotherapy outpatients.  Usual care entails not receiving a reminder at all at three sites (Box Hill, Angliss, Maroondah) and a telephone reminder 2 days before the appointment at Yarra Valley Community Health Service</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Do not attend rate, the number of scheduled appointments not attended as a proportion of the total number of scheduled appointments.</outcome>
+      <timepoint>The next scheduled appointment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cancellation rate (note that cancellations less than 24 hours prior to appointment will be defined as a did not attend)</outcome>
+      <timepoint>The next scheduled appointment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Estimation of costs, including equipment, staff time in adminsitering the short message service calls, and the costs of any missed appointments in clinician time for a standard initial or repeat appointment.</outcome>
+      <timepoint>At the end of the trial</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Description of patients who did not attend compared to those who did attend in terms of age, sex, occupation, health condition, referral source, and timing of appointment. These data will be assessed from patient records.</outcome>
+      <timepoint>The next scheduled appointment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Particpants will be included if they;
+1. Have a physiotherapy appointment in an acute physiotherapy outpatient clinic at Angliss, Maroondah or Box Hill Hospitals or at the Yarra Valley Community Health Service
+2. Provide a mobile phone number 
+3. Aged at least 18 years
+4. Able to give verbal consent to participate</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Participants will be excluded if:
+1. They are attending sub-acute ambulatory care services or group programs
+2. Cannot provide a mobile phone number through which they can be contacted
+3. Have been given an appointment on the same day on which they make the appointment
+4. Have already participated in the trial by being allocated for a previous appointment during the trial
+5. Aged under 18 years
+6. Not able to give verbal consent to participate</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be required to give verbal consent to participate at the time of making their appointment.  The person making the appointment will read out a prepared script. If the patient agrees to participate a note will be placed in their file that they have given verbal consent.  Eligible patients will be randomly allocated to the intervention (SMS reminder) or control group (usual care - no SMS reminder) for their next available appointment.  The person who allocates will open a  pre-prepared computer file where the allocation is concealed, and select the next subject in sequence and reveal their allocation by changing text from white to black in that cell.</concealment>
+    <sequence>The sequence will be prepared by an independent researcher using web-based random number tables stratified for site (Box Hill, Angliss, Maroondah, Yarra Valley) in permuted blocks.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2009</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>3128</postcode>
+    <postcode>3156</postcode>
+    <postcode>3155</postcode>
+    <postcode>3777</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Nicholas Taylor</primarysponsorname>
+    <primarysponsoraddress>Level 3, 16 Arnold Street, Box Hill, Victoria 3128</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Eastern Health</fundingname>
+      <fundingaddress>5 Arnold Street, Box Hill, Victoria 3128</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Deenika Benjamin</sponsorname>
+      <sponsoraddress>Physiotherapy Department, Angliss Hospital, Albert Street, Upper Ferntree Gully, Victoria 3156</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Failure to attend appointments is a problem for health services.  A high proportion of patients who do not attend (DNA) means that clinical and administrative staff are not efficiently employed, and results in longer waiting times for other patients that may increase the risk of further health problems.  A recent audit of Eastern Health physiotherapy outpatient clinics found a DNA rate of 8.1%, representing more than 125 missed appointments per month.
+A review of the literature indicates providing reminders can be an effective method of reducing DNA rates for health services, and a couple of recent observational studies have provided preliminary evidence that sending patients reminders via the short message service (SMS) on mobile phones can be an effective way of reducing DNA rates. Therefore, the aim of this trial is to find out if sending SMS reminders to patients with appointments at physiotherapy outpatient clinics is an effective way of reducing DNA rates.
+Using a randomised controlled trial at 4 Eastern Health physiotherapy outpatient clinics, patients will be randomly allocated either to the group that will receive an SMS reminder or the group that receives usual care.  The primary outcome is DNA rate, and secondary outcomes are cancellation rates and an initial estimation of costs in implementing the SMS reminder system.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>La Trobe University Faculty Human Ethics Committee</ethicname>
+      <ethicaddress>Faculty Human Ethics Committee
+Faculty of Health Sciences
+La Trobe University
+Bundoora
+Victoria  3086</ethicaddress>
+      <ethicapprovaldate>3/09/2009</ethicapprovaldate>
+      <hrec>FHEC 09/193</hrec>
+      <ethicsubmitdate>20/07/2009</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Nicholas Taylor</name>
+      <address>Level 3, Clive Ward Building
+16 Arnold Street
+Box Hill 
+Victoria 3128</address>
+      <phone>+61 3 9091 874</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nicholas Taylor</name>
+      <address>Level 3, Clive Ward Building
+16 Arnold Street
+Box Hill 
+Victoria 3128</address>
+      <phone>+61 3 9091 8874</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nicholas Taylor</name>
+      <address>Level 3, Clive Ward Building
+16 Arnold Street
+Box Hill 
+Victoria 3128</address>
+      <phone>+61 3 9091 8874</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

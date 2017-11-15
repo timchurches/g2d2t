@@ -1,0 +1,715 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3661">
+  <stage>Registered</stage>
+  <submitdate>5/10/2012</submitdate>
+  <approvaldate>5/10/2012</approvaldate>
+  <nctid>NCT01704716</nctid>
+  <trial_identification>
+    <studytitle>High Risk Neuroblastoma Study 1.7 of SIOP-Europe (SIOPEN)</studytitle>
+    <scientifictitle>High Risk Neuroblastoma Study 1 of SIOP-Europe (SIOPEN)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>HR-NBL-1.7 / SIOPEN</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Neuroblastoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Neuroendocrine tumour (NET)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Other</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Vincristine
+Treatment: drugs - Aldesleukin
+Treatment: drugs - ch14.18/CHO
+Treatment: drugs - Carboplatin
+Treatment: drugs - Etoposide
+Treatment: drugs - Cisplatin
+Treatment: drugs - Cyclophosphamide
+Treatment: drugs - Doxorubicin
+Treatment: drugs - G-CSF
+Treatment: drugs - Busulfan
+Treatment: drugs - Melphalan
+
+Experimental: R0: COJEC plus G-CSF - Patients randomised to G-CSF during induction treatment (Rapid COJEC) received a single daily subcutaneous injection of 5 microgram/kg/day G-CSF (filgrastim) beginning 24 hours after the last chemotherapy dose.
+
+Active Comparator: R0: COJEC - Induction treatment (COJEC) without filgrastim Patients randomised to Rapid COJEC alone will receive induction Treatment without G-CSF
+
+Active Comparator: R1: BuMel MAT - The BuMel MAT regimen consists of oral administration of busulphan and the short i.v. infusion of melphalan.
+In July 2007 (amendment 3) oral busulfan was changed to i.v. Busulfan (Busilvex)
+
+Experimental: R1: CEM MAT - The CEM MAT regimen uses three drugs: the dose of Carboplatin must be based on renal function with a target area under the concentration versus time curve (AUC) of 16.4 mg/ml.min, etoposide 350 mg/m2/course and melphalan 210 mg/m2/course
+
+Active Comparator: R2: ch14.18/CHO - ch14.18/CHO is given at a dose of 20 mg/m2/day over five days every four weeks for five courses
+
+Experimental: R2: ch14.18/CHO plus Aldesleukin - Patients randomised to receive ch14.18/CHO plus Aldesleukin
+
+Active Comparator: R3: COJEC Induction - Rapid COJEC induction treatment is applied over ten weeks; three different courses are given every ten days:
+Course A (given on days 0 and 40): vincristine, carboplatin, and etoposide Course B (given on days 10, 30, 50, and 70): vincristine and cisplatin Course C (given on days 20 and 60): vincristine, etoposide, and cyclophosphamide
+
+Experimental: R3: Modified N7 - The modified N7 induction is a dose intense induction chemotherapy regimen including two putatively non cross-resistent drug combinations: high-dose cyclophosphamide plus doxorubicin/vincristine (CAV) and high-dose cisplatin/etoposide (P/E).
+
+Active Comparator: R4: cnt inf ch14.18/CHO - ch14.18/CHO is given as continuous Infusion over 10 days at a cumulative dose of 100mg/m2. Patients receive 5 cycles of ch14.18/CHO
+
+Experimental: R4: cnt inf ch14.18/CHO plus Aldesleukin - ch14.18/CHO is given as continuous Infusion over 10 days at a cumulative dose of 100mg/m2. Patients receive 5 cycles of ch14.18/CHO.
+In addition, Aldesleukin is given at a dose of 3 x 10e6 on days 1 to 5 and on days 9, 11, 13, 15, and 17 during ch14.18/CHO infusion
+
+
+Treatment: drugs: Vincristine
+given during Rapid COJEC and modified N7 therapy
+
+Treatment: drugs: Aldesleukin
+Aldesleukin is given during MRD Treatment for patients randomised to the arm with IL-2
+
+Treatment: drugs: ch14.18/CHO
+ch14.18/CHO antibody is given during MRD treatment
+
+Treatment: drugs: Carboplatin
+Carboplatin is given during induction Treatment (R3 randomisation: Rapid COJEC arm)
+
+Treatment: drugs: Etoposide
+Etoposide is given during Induction Treatment (both R3 randomisation arms)
+
+Treatment: drugs: Cisplatin
+Cisplatin is given during Induction Treatment (both R3 randomisation arms)
+
+Treatment: drugs: Cyclophosphamide
+Cyclophosphamid is given during Induction Treatment (both R3 randomisation arms)
+
+Treatment: drugs: Doxorubicin
+Doxorubicin is given during Induction Treatment (R3 arm modified N7)
+
+Treatment: drugs: G-CSF
+G-CSF is given during Induction Treatment
+
+Treatment: drugs: Busulfan
+In case i.v. busulfan is not available, the use of oral busulfan is permitted, although not recommended.
+
+Treatment: drugs: Melphalan
+Melphalan is given during MAT treatment
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Event Free Survival (R1: MAT therapy) - The primary endpoint was the event free survival (EFS) calculated from the date of the first R1 randomisation. The following was considered as event:
+disease progression or relapse
+death from any cause
+second neoplasm
+Patients lost to follow up without event were considered at the date of their last follow up evaluation.
+R1 has been closed in October 2010 following the results of R1 randomisation showing significant superiority for myeloablative therapy (MAT) with busulfan and melphalan (BuMel) in patients with high risk neuroblastoma over MAT with continuous infusion of carboplatin, etoposide and melphalan (CEM). BuMel is now the standard MAT.</outcome>
+      <timepoint>Up to three years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Event Free Survival (R4: immunotherapy) - R4 randomisation comparing immunotherapy with ch14.18/CHO and 13-cis retinoic acid versus 13-cis retinoic acid alone was activated in November 2006. It was amended in July 2009 and now compares immunotherapy with anti GD2 antibody ch14.18/CHO with or without aldesleukin (IL-2).
+The primary endpoint is 3-year event free survival calculated from the date of the second randomisation. The following will be considered as events:
+disease progression or relapse
+death from any cause
+second neoplasm
+Patients lost to follow up without event will be censored at the date of their last follow-up evaluation.</outcome>
+      <timepoint>Up to three years</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Complete metastatic response (R3: Induction therapy) - R3 randomisation compares two different induction therapy regimen, Rapid COJEC and modified N7.
+Complete metastatic response after induction is defined as:
+no skeletal uptake on mIBG
+Negative bone marrow aspirates (by cytomorphology) and trephines
+Absence of other metastatic sites</outcome>
+      <timepoint>Up to 95 days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Event free survival (R3: Induction therapy) - R3 randomisation compares two different induction therapy regimen, Rapid COJEC and modified N7.
+The primary endpoint is event free survival calculated from the date of the R3-randomisation. The following will be calculated as events:
+disease progression or relapse
+death from any cause
+second neoplasm
+Patients lost to follow up without event will be censored at the date of their last follow up evaluation</outcome>
+      <timepoint>Up to three years</timepoint>
+    </primaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-   Established diagnosis of neuroblastoma according to the International Neuroblastoma
+             Staging System (INSS).
+
+               -  Age below 21 years.
+
+               -  High risk neuroblastoma defined as either:
+
+                    1. INSS stage 2, 3, 4, and 4s with MYCN amplification, or
+
+                    2. INSS stage 4 without MYCN amplification aged &gt; 12 months at diagnosis
+
+               -  Patients who have received no previous chemotherapy except for one cycle of
+                  etoposide and carboplatin (VP16/Carbo). In this situation patients will receive
+                  Rapid COJEC induction and the first Rapid COJEC cycle may be replaced by the
+                  first cycle VP16/Carbo (etoposide / carboplatin).
+
+               -  Written informed consent, including agreement of parents or legal guardian for
+                  minors, to enter a randomised study if the criteria for randomisation are met.
+
+               -  Tumour cell material available for determination of biological prognostic
+                  factors.
+
+               -  Females of childbearing potential must have a negative pregnancy test. Patients
+                  of childbearing potential must agree to use an effective birth control method.
+                  Female patients who are lactating must agree to stop breast-feeding.
+
+               -  Registration of all eligibility criteria with the data centre within 6 weeks from
+                  diagnosis.
+
+               -  Provisional follow up of 5 years.
+
+               -  National and local ethical committee approval.</inclusivecriteria>
+    <inclusiveminage>1</inclusiveminage>
+    <inclusiveminagetype>Month</inclusiveminagetype>
+    <inclusivemaxage>21</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Any negative answer concerning the inclusion criteria of the study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/02/2002</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>2700</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/09/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Sydney Children's Hospital - Sydney</hospital>
+    <postcode> - Sydney</postcode>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Austra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbruck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Lüttich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Montegnee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Prague</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Skejby</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dijon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Pellerin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Reims</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Etienne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tiqwa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ancona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bergamo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Cagliari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Cosenza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Firenze</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Modena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Palermo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pavia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pescara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rimini</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rome</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>San Giovanni Rotondo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Trieste</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Bergen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tromso</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzów</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Cracow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Katowice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warschau</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lissabon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Banská Bystrica</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovenia</country>
+      <state>Ljubljana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Aranzazu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Bilbao</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Galicia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Jaen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>La Coruna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Oviedo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Zaragoza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Linkoping</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Geneva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lausanne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Aberdeen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Belfast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bristol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cambridge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cardiff</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Edinburgh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leicester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Oxford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sheffield</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southhampton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>St. Anna Kinderkrebsforschung</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a randomised study of the European SIOP Neuroblastoma Group (SIOPEN) in high-risk
+      neuroblastoma (stages 2, 3, 4 and 4s MYCN-amplified neuroblastoma, stage 4 MYCN non amplified
+      &gt; 12 months at diagnosis).
+
+      The protocol consists of a rapid, dose intensive induction chemotherapy (R3 randomisation -
+      Rapid COJEC vs modified N7), peripheral blood stem cell harvest, attempted complete excision
+      of the primary tumour, myeloablative therapy (BuMel) followed by peripheral blood stem cell
+      rescue, radiotherapy to the site of the primary tumour and immunotherapy (R4 randomisation -
+      isotretinoin and ch14.18/CHO, with or without aldesleukin (IL-2).
+
+      In the induction phase, all patients with stage 4 neuroblastoma and those with stage 4s
+      MYCN-amplified neuroblastoma will be randomised (R3) to Rapid COJEC or modified N7; localised
+      patients receive Rapid COJEC (Rapid COJEC is given with G-CSF support based on the results of
+      the R0 randomisation running between 2002 and 2005).
+
+      Following induction treatment peripheral blood stem cell harvest (PBSCH) will be performed
+      and complete excision of the primary tumour will be attempted.
+
+      Patients with an inadequate metastatic response to allow BuMel MAT followed by PBSCR at the
+      end of induction should receive 2 TVD (Topotecan, Vincristine, Doxorubicin) cycles.
+
+      After Rapid COJEC induction, localised patients will proceed to consolidation. Patients aged
+      12-18 months at diagnosis, with stage 4 neuroblastoma, no MYCN amplification and without
+      segmental chromosomal alterations (SCA) are thought to have a good prognosis and will stop
+      treatment after induction therapy and surgery to the primary tumour.
+
+      Consolidation consists of BuMel MAT (following the results of the R1 randomisation) followed
+      by peripheral blood stem cell rescue (PBSCR) and radiotherapy to the site of the primary
+      tumour.
+
+      During the immunotherapy phase, patients will be randomised (R4) to immunotherapy with
+      isotretinoin (13-cis-RA) and ch14.18/CHO, with or without aldesleukin (IL-2).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01704716</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Ruth L Ladenstein, MD, MBA, cPM</name>
+      <address>St. Anna Kinderkrebsforschung</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Ruth L Ladenstein, MD, MBA, cPM</name>
+      <address />
+      <phone>0043140470</phone>
+      <fax />
+      <email>ruth.ladenstein@ccri.at</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

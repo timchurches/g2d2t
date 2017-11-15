@@ -1,0 +1,237 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370430">
+  <stage>Registered</stage>
+  <submitdate>2/04/2016</submitdate>
+  <approvaldate>7/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000455460</actrnumber>
+  <trial_identification>
+    <studytitle>Using technology to manage gout</studytitle>
+    <scientifictitle>Patient-centred eHealth approach to improving outcomes for gout sufferers</scientifictitle>
+    <utrn>U1111-1181-3934</utrn>
+    <trialacronym>None</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Gout</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Rheumatoid arthritis</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The eHealth intervention is a self-management tool which will be provided to the intervention group participants. The eHealth app will be accessed through the Internet using a computer or mobile smart-device. It is designed to promote adherence to urate-lowering therapy by providing timely medical reminders, access to educational resources, and reporting attacks and adverse events. The intervention period for which participants have access to the app is 12 months.
+
+Functions of the eHealth intervention:
+- Promoting ULT adherence 
+Plasma urate concentrations will be presented over time in relation to target plasma urate (equal to or less than 0.36 mmol/L) to indicate the individual's risk of gout and highlighting level of risk. 
+
+-Providing patient education
+The eHealth app will provide access to high quality education about gout and its management for gout patients. The importance of ULT will be emphasised.
+
+-Reminder alerts
+When patients are 'in the red' i.e. at high risk, alerts will be sent to remind patients to:
+1) Take their ULT
+2) Refill their prescriptions
+3) Have blood tests for plasma urate (also test if due)
+4) See their GP as urate concentration is out of range
+5) Enter data regarding attacks
+
+Sites: GP practices within Sydney, NSW, Australia
+
+Data collection: GPs and their respective patients will be allocated to control (current standard care of gout) or intervention (use of eHealth gout management tool). Patient data will be collected at baseline and at intervals for one year (6 and 12 months). In addition to demographic data, medical history of gout (onset, frequency of attacks, treatments), alcohol history, medications (especially diuretics and low dose aspirin), co-morbidities (cardiovascular, renal, endocrine) and medical examination details (weight, height, blood pressure) will be collected. Pathology data will include renal function (plasma creatinine and eGFR) and plasma urate concentration.
+
+Medical examination and pathology data will be collected from patients' medical records. Demographic data will be collected through use of a questionnaire. For the intervention group, gout monitoring data (i.e. urates, attacks) will be collected from the eHealth app that the patient uses to record this information. For the control group, that data will be collected from GP records. For both groups, researchers will review GP, pathology and PBS records at 6-month intervals for intervention and control patients to identify gout attacks, plasma urate concentrations, ULT dosages and adverse events. These data will be compared to the eHealth app and Diary data.</interventions>
+    <comparator>Usual care - patients receiving routine care for prevention or treatment of their gout including GP visits.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Achievement of plasma urate of 0.36 mmol/L or less</outcome>
+      <timepoint>The timepoints are 6 and 12 months post randomisation. The trial will last 12 months.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Frequency of acute gout attacks. The patient will use a rating scale and categories to record attacks via the app (scales and categories are yet to be developed)</outcome>
+      <timepoint>The timepoints are 6 and 12 months post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life as indicated by standardised survey (yet to be determined)</outcome>
+      <timepoint>The timepoints are 6 and 12 months post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost effectiveness of the intervention (DALYs)</outcome>
+      <timepoint>12 months post randomisation.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Adult (&gt;18 yrs)
+- Diagnosis of gout by GP (either new or flare up) and have experienced at least two attacks of acute gout in the previous year
+- Receiving ULT treatment or candidate to start ULT treatment
+- Regular access to a smartphone device, the Internet and able to download mobile phone applications (apps)
+- Sufficient English language to complete questionnaires
+- Provide written informed consent</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Pregnant or intending to become pregnant during the study
+- Psychological condition (i.e. cognitive decline) that may impede participation in the study
+- Lack of technological experience so that participation in the study would be difficult
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>None</concealment>
+    <sequence>1 to 1 randomisation - simple randomisation using randomisation table from a statistics book</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>n our study, GP practices are randomised to either intervention or control. By comparison with similar cluster randomised studies in Australian general practice, we have selected an intra-class correlation of 0.01 for the primary outcome (i.e. achievement of the target plasma urate concentration (less than or equal to 0.36 mmol/L) at 6 months. On average, we expect to recruit 5 patients per practice. Allowing for 20% dropout over the course of 1 year, we will have on average 4 patients for analysis in each practice. For the sample size estimation, we have estimated that 50 plus or minus 15% i.e. 35-65% of subjects will achieve sustained target urate concentrations. Although there are a few studies published on the effect sizes for interventions centred on eHealth tools, given the potential to eliminate gout if the target is reached, this study will attempt to demonstrate an ambitious effect size of 0.7 i.e. 60-100% of intervention subjects will achieve the target. We have powered our study accordingly.To be conservative, we adopted the scenario which requires the largest sample size i.e. a sample of 96 patients in 24 intervention practices is required to detect a difference of 25% between pre-intervention (35%) and post-intervention (60%) cohorts, with 90% power for a two-sided test and 5% significance. In total a minimum of 192 patients from 48 practices will be recruited for the study. Conservatively, we will aim for 100 patients for both the intervention and control groups respectively.
+
+The study analysis will be according to the intention to treat principle. The groups will be compared using the method of general estimating equations, for each outcome, to account for the correlation within practices. The effects on adherence will be explored and correlations with primary and secondary outcomes sought. Adherence data will be accessed for participants from Healthy.me diaries and the Pharmaceutical Benefits Scheme.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/05/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <postcode>2000 - Sydney</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of New South Wales</primarysponsorname>
+    <primarysponsoraddress>St Vincents Clinical School | UNSW Australia
+Department of Clinical Pharmacology and Toxicology
+Therapeutics Centre | Level 2 Xavier Building
+St Vincents Hospital
+Victoria Street | Darlinghurst NSW 2010 | Australia
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>We propose a cluster randomised controlled trial to compare outcomes from standard gout care with those following provision on an eHealth intervention to gout patients and their general practitioners (GPs). This intervention is designed to promote adherence to urate lowering therapy (ULT) by providing timely reminders to have plasma uric acid measured, pick up prescriptions, and visit the GP, as well as reporting attacks and adverse effects.
+
+We will target two behaviours to drive significant change in outcomes for gout:
+1) Patient's adherence to ULT therapy
+2) GP's prescribing of a dose of ULT that achieves the target plasma rate
+
+Our eHealth intervention will provide personal feedback to patients about their plasma urate in relation to the target urate concentration. The intervention is designed to facilitate communication and information sharing between GPs and their patients, and increasing patient's knowledge of gout and the goal of treatment. The improved understanding of their condition is anticipated to increase patients' adherence to treatment to reach and maintain target urate concentrations. Importantly, GPs will also receive feedback linked to their patients' progress with respect to achieving and sustaining target plasma urate concentrations. This will help GPs to select the right dose of ULT and to reinforce the importance of adherence to ULT.</summary>
+    <trialwebsite>To be established</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of New South Wales Human Research Ethics Comittee</ethicname>
+      <ethicaddress>Research Ethics and Compliance Support (RECS)
+University of New South Wales
+Level 3, Rupert Myers Building (South Wing)
+Sydney NSW 2052</ethicaddress>
+      <ethicapprovaldate>27/05/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>15/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Day</name>
+      <address>St Vincents Clinical School, UNSW Australia
+Department of Clinical Pharmacology and Toxicology
+Therapeutics Centre, Level 2 Xavier Building
+St Vincents Hospital
+Victoria Street, Darlinghurst NSW 2010</address>
+      <phone>+61 2 8382 2331</phone>
+      <fax />
+      <email>r.day@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Amy Nguyen</name>
+      <address>St Vincents Clinical School, UNSW Australia
+Department of Clinical Pharmacology and Toxicology
+Therapeutics Centre, Level 2 Xavier Building
+St Vincents Hospital
+Victoria Street, Darlinghurst NSW 2010</address>
+      <phone>+61 2 8382 2199</phone>
+      <fax />
+      <email>amy.nguyen@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Amy Nguyen</name>
+      <address>St Vincents Clinical School, UNSW Australia
+Department of Clinical Pharmacology and Toxicology
+Therapeutics Centre, Level 2 Xavier Building
+St Vincents Hospital
+Victoria Street, Darlinghurst NSW 2010</address>
+      <phone>+61 2 8382 2199</phone>
+      <fax />
+      <email>amy.nguyen@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

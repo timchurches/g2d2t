@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="554">
+  <stage>Registered</stage>
+  <submitdate>12/09/2005</submitdate>
+  <approvaldate>16/09/2005</approvaldate>
+  <actrnumber>ACTRN12605000436673</actrnumber>
+  <trial_identification>
+    <studytitle>Virological and clinical anti-HBV efficacy of tenofovir in antiretroviral naive patients with HIV/HBV co-infection</studytitle>
+    <scientifictitle>A randomised mulitcentre trial of tenofovir (TDF) vs lamividine (LAM) vs TDF/LAM in antiretroviral naive subjects with HIV/HBV conifection over 48 weeks.</scientifictitle>
+    <utrn />
+    <trialacronym>TICO</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>HIV Hepatitis B Coinfection</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Acquired immune deficiency syndrome (AIDS / HIV)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Liver</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Tenofovir, Lamivudine over 48 weeks</interventions>
+    <comparator />
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To compare HBV DNA suppression to levels below the limit of detection (&lt;400 copies/ml) by week 48 in each group</outcome>
+      <timepoint />
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To evaluate the emergence of HBV resistance</outcome>
+      <timepoint>At 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare the proportion of patients with undetectable HBV DNA </outcome>
+      <timepoint>At weeks 12 and 24 in each treatment group.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare the proportion of patients who achieve HBeAg and HBsAg seroconversion.</outcome>
+      <timepoint>At weeks 24 and 48 during the study.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare changes in ALT from baseline and the rate of hepatic cytolysis (ALT &gt; 5x ULN).</outcome>
+      <timepoint />
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To compare suppression of HIV-1 RNA and changes in CD4/CD8 counts.</outcome>
+      <timepoint>Over 48 weeks.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome> To compare the effect of therapy on histological changes in the liver and on the presence of ccc-DNA.</outcome>
+      <timepoint />
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Written informed consent; Documented HIV infection (positive serology for HIV-1 and detectable HIV-1 RNA); HBV DNA &gt; 105 copies/ml; HBsAg positive &gt;6 months or HBsAg positive and anti HB core IgM negative; Creatinine &lt;= 2.0mg/dl (&lt;= 0.2 mmol/L); Platelet count &gt;= 50,000/mm; HIV-1 antiretroviral therapy naive; No prior exposure to anti-HBV agents (LAM, adefovir, TDF) although prior IFN treatment allowed.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>HCV-RNA positive or Anti-HAV IgM positive-Acute hepatitis (serum ALT &gt; 1000 U/L)-Active opportunistic infection-Other causes of chronic liver disease identified (autoimmune hepatitis, haemachromatosis, Wilsons disease, alfa-1-antitrypsin deficiency)-Concurrent malignancy requiring cytotoxic chemotherapy-Decompensated or Child's C cirrhosis-Alfa-fetoprotein (AFP) &gt; 3X ULN (unless negative CT scan or MRI within 3 months of entry date)-Pregnancy or lactation-Any other condition which in the opinion of the investigator might interfere with compliance or outcome of the study.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Centrally randomised via fax</concealment>
+    <sequence>SAS, Permuted Blocks stratified site and CD count</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3 / Phase 4</phase>
+    <anticipatedstartdate>26/01/2004</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>51</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>National Centre in HIV Epidemiology and Clincial Research</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Gilead Sciences</fundingname>
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of New South Wales</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A randomised multi-centre trial of tenofovir vs lamivudine vs tenofovir/lamivudine in antiretroviral naive subjects with HIV/HBV co-infection over 48 weeks (Clinical Trial A). Plus, a 12 week viral kinetic sub-study comparing a sub-group of the patients on Clinical Trial A with a group of therapy naive HBV mono-infected subjects (Substudy A1)</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St. Vincent's Hospital Sydney</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Alfred Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Thai Red Cross AIDS Research Centre</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Associate Professor Greg Dore</name>
+      <address>National Centre in HIV Epidemiology and Clinical Research
+Level 2
+376 Victoria Street
+Darlinghurst NSW 2010</address>
+      <phone>+61 2 93850900</phone>
+      <fax />
+      <email>gdore@nchecr.unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Elizabeth Knight</name>
+      <address>National Centre in HIV Epidemiology and Clinical Research
+Level 2
+376 Victoria Street
+Darlinghurst NSW 2010</address>
+      <phone>+61 2 93850900</phone>
+      <fax />
+      <email>eknight@nchecr.unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

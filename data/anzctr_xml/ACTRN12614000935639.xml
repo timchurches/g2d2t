@@ -1,0 +1,265 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366939">
+  <stage>Registered</stage>
+  <submitdate>20/08/2014</submitdate>
+  <approvaldate>1/09/2014</approvaldate>
+  <actrnumber>ACTRN12614000935639</actrnumber>
+  <trial_identification>
+    <studytitle>Clonidine-sufentanil versus remifentanil in endoscopic sinus surgery</studytitle>
+    <scientifictitle>In patients undergoing endoscopic sinus surgery, does clonidine and sufentanil compared to remifentanil provide better quality surgical field in term of bleeding.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Quality of surgical field in term of bleeding in endoscopic sinus surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients are randomized in two group using minimization.
+
+For both groups patients are positioned 15 degrees reverse trendelenburg.
+The trachea is intubated. Mechanical ventilation parameters are set to Peep: 3cmH2O, Respiratory rate: 12, Tidal volume: 6-8ml/kg. These parameters are then adjusted for a target EtCO2 of 30-35mmHg
+
+
+Cata group	
+ Anesthesia induction: 
+1. Lidocaine 1mg/kg I.V. bolus 
+2. Sufentanil 0.15mcg/kg I.V. bolus
+3. Intravenous Propofol titrated to loss of eye lid reflex
+4. Rocuronium 0.3mg/kg I.V. bolus
+5. Clonidine 2mcg/kg  slow I.V. bolus (for 5 min)
+Anesthesia Maintenance: sevoflurane 1 MAC  (inhalation)
+
+15 min from the start of surgery, the Fromme score is assessed, if it's higher than 4  and the mean arterial pressure (MAP) is greater than 65mmHg and the last sufentanil injection occurred more than 45min ago then a new bolus of sufentanil 0.15mcg/kg is injected I.V. If the last sufentanil injection occurred within the  last 45 minutes  then a new bolus of clonidine 1mcg/kg I.V. is slowly injected (for five minutes) to a maximum total clonidine dose of  3mcg/kg.
+
+If, during the procedure,  the surgeon complaints about bleeding and the MAP is greater than 65mmHg and the last sufentanil injection occurred more than 45min ago then a new bolus of sufentanil 0.15mcg/kg is injected I.V. If the last sufentanil injection occurred less than 45 min ago then a new bolus of clonidine 1mcg/kg I.V. is slowly injected (for five minutes) to a maximum total clonidine dose of  3mcg/kg
+
+If,during the procedure, the patients MAP fall below 55mmHg then ephedrine is titrated intravenously by 3mg for a MAP greater than 55mmHg.
+
+In all cases, if ephedrine fails to raise the MAP the patient should receive neosynephrine or norepinephrine and leave the study.
+If the surgeon is unable to perform the procedure due to bleeding despite a well followed protocol, the patient leaves the study.
+</interventions>
+    <comparator>Remi group
+Anesthesia induction:
+1. Lidocaine 1mg/kg I.V. bolus
+2. Remifentanil I.V. infusion 0.25mcg/kg/min until trachea intubation. After that, the infusion rate is lowered to 0.12mcg/kg/min
+3. Propofol I.V. injection titrated to loss of eye lid reflex
+4. Rocuronium 0.3mg/kg I.V. injection
+
+Anesthesia maintenance: sevoflurane 1 MAC  (inhalation)
+
+15 min from the start of the procedure, the Fromme score is assessed. If it is higher than 4 and the mean arterial pressure (MAP) is greater than 65mmHg then the rate of remifentanil infusion rate is doubled until a maximum of 1mcg/kg/min.
+
+If, during the procedure,  the surgeon complaints about bleeding and MAP is greater than 65mmHg then the  remifentanil infusion rate is doubled until a maximum of 1mcg/kg/min.
+
+During the surgery, if the patients MAP fall below 55mmHg then ephedrine  is titrated intravenously by 3mg for MAP greater than 55mmHg and the remifentanil infusion rate is halved.
+
+In all cases, if ephedrine fails to raise the MAP the patient should receive neosynephrine or norepinephrine and leave the study.
+If the surgeon is unable to perform the procedure due to bleeding despite a well followed protocol, the patient leaves the study.
+</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Fromme score (0-5).</outcome>
+      <timepoint>15 min after beginning and at the end of the surgery.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heartrate (measured by ECG and pulse oximeter) and Blood pressure (measured by an automated oscillometric device)
+</outcome>
+      <timepoint>Heartrate is monitored continuously during surgery and the recovery room stay. Blood pressure is taken every 3 minutes during the surgery and every 10 minutes in the recovery room.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to eyes opening.</outcome>
+      <timepoint>At the end of the surgery.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time spent in the recovery room.</outcome>
+      <timepoint>When the patient leaves the recovery room.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pain scores (VAS).</outcome>
+      <timepoint>During the recovery room stay.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Occurrence of adverse events in recovery (hypotension, bradycardia, nausea and vomiting).</outcome>
+      <timepoint>During the recovery stay.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Amount of Piritramide received by the patient (The source of this information is the institutional computerized prescription system).</outcome>
+      <timepoint>When the patient leaves the recovery room.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing elective endoscopic sinus procedures with ASA score I to III.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cardiac disorders other than supraventricular tachycardia
+Cerebrovascular disorder
+Renal or hepatic disorder
+Non treated arterial hypertension
+Beta blocking agent therapy
+Platelet inhibiting agent or anticoagulant therapy
+Coagulopathy
+Pregnancy
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible patients will be approached during the anesthesia preoperative visit, days before the surgery. The anesthesia consultant will obtain an informed consent. The treatment received for each patient will be determined on the day of the procedure by minimization (handled by Qminim, online minimization at http://qminim.sourceforge.net).</concealment>
+    <sequence>Minimisation
+The factors used for stratification include age, sex, Mackay-Lund score, preoperative oral corticoid treatment, ASA score and surgeon.
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The purpose of the trial is to detect a difference of 1 point on the Frommes scale. The preliminary data on 40 patients allowed to estimate Fromme scale as 2.4 +/- 1.1 (mean +/- SD).Using a two-tailed non parametric test, with an alpha risk of 0.05, a beta risk of 0.20 (or a power of 0.80), a minimal difference of 1 and a SD of Fromme scale of 1.3, the total number of patients necessary to perform the comparison is 58 (computation by G*Power 3 software).
+
+Planned statistical analysis
+comparison of numerical variables : Wilcoxon-Mann-Whitney test
+comparison of categorical variables : chi-square or Fisher exact test when appropriate
+comparison of ordinal variables : Cochran-Armitage test
+correlation between numerical variables: Spearman rank correlation coefficient
+multivariate analysis if appropriate.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/10/2014</anticipatedstartdate>
+    <actualstartdate>18/11/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>17/03/2015</actualenddate>
+    <samplesize>58</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Laurent Bairy</primarysponsorname>
+    <primarysponsoraddress>CHU Dinant-Godinne-Anesthesiology
+1, avenue Gaston Therasse
+5530 Yvoir
+Belgium</primarysponsoraddress>
+    <primarysponsorcountry>Belgium</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>CHU Dinant-Godinne
+</fundingname>
+      <fundingaddress>1,avenue Gaston Therasse
+5530 Yvoir
+</fundingaddress>
+      <fundingcountry>Belgium</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to determine whether the use of remifentanil or clonidine and sufentanil for anesthesia provides the best surgical conditions  for endoscopic sinus surgery in term of bleeding.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comite d'ethique hospitalier</ethicname>
+      <ethicaddress>CHU Dinant-Godinne
+1, avenue Gaston Therasse
+5530 Yvoir</ethicaddress>
+      <ethicapprovaldate>17/03/2014</ethicapprovaldate>
+      <hrec>B039201318956</hrec>
+      <ethicsubmitdate>8/11/2013</ethicsubmitdate>
+      <ethiccountry>Belgium</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Laurent Bairy</name>
+      <address>CHU Dinant-Godinne
+Service d'anesthesie
+1, avenue Gaston Therasse
+5530 Yvoir</address>
+      <phone>+3281422111</phone>
+      <fax>+3281423920</fax>
+      <email>Laurent.Bairy@uclouvain.be</email>
+      <country>Belgium</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurent Bairy</name>
+      <address>CHU Dinant-Godinne
+Service d'anesthesie
+1, avenue Gaston Therasse
+5530 Yvoir</address>
+      <phone>+3281422111</phone>
+      <fax>+3281423920</fax>
+      <email>Laurent.bairy@uclouvain.be</email>
+      <country>Belgium</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurent Bairy</name>
+      <address>CHU Dinant-Godinne
+Service d'anesthesie
+1, avenue Gaston Therasse
+5530 Yvoir</address>
+      <phone>+3281422111</phone>
+      <fax />
+      <email>Laurent.Bairy@uclouvain.be</email>
+      <country>Belgium</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Laurent Bairy</name>
+      <address>CHU Dinant-Godinne
+Service d'anesthesie
+1, avenue Gaston Therasse
+5530 Yvoir</address>
+      <phone />
+      <fax />
+      <email />
+      <country>Belgium</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

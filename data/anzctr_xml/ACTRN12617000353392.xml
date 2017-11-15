@@ -1,0 +1,219 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372451">
+  <stage>Registered</stage>
+  <submitdate>28/02/2017</submitdate>
+  <approvaldate>8/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000353392</actrnumber>
+  <trial_identification>
+    <studytitle>How a sleep clinical pathway in an inpatient rehabilitation centre may help with sleep and recovery.</studytitle>
+    <scientifictitle>The effectiveness of a sleep clinical pathway an inpatient rehabilitation setting: a randomised control trial</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Poor Sleep</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention group will receive management of their sleep disturbance through clinician use of a sleep assessment and management clinical pathway which will be recorded in the medical history of the patient.  
+This pathway has been developed collaboratively by the rehabilitation and sleep clinicians at the Royal Melbourne Hospital and consists of two parts  a simplified sleep history and a pathway providing sleep optimisation strategies. Guidelines and resources used included the National Sleep Foundation, the Australian National Stroke Foundation, and elements of the Pittsburgh Sleep Quality Index.
+Rehabilitation clinicians (with a focus particularly on medical, nursing and pharmacy staff) will be invited to a one hour group face-to-face education session, conducted by a sleep physician on managing sleep in hospitals, including use of the pathway.  Sleep hygiene written educational material in three languages (English, Greek and Italian) sourced from the National Sleep Foundation will be made available on the wards for clinicians to provide to the patients.  The pathway will be activated on notification of randomisation for the intervention group and reviewed weekly until discharge which can range between two to six weeks on average. 
+ 
+</interventions>
+    <comparator>Control patients will be provided with standard care. As part of current practice, treating clinicians may enquire about a patients sleep status although there is no standard process or protocol/pathway to support this.  </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The Pittsburgh Sleep Quality Index (PSQI) is a widely-used, 19-item self-report questionnaire that measures sleep disturbance for up to a one-month period.  There are 7 sleep component scores (range of 0-3 for each subscale): subjective sleep quality, sleep latency (i.e. time needed to fall asleep), sleep duration (number of hours of actual sleep per night), habitual sleep efficiency (total sleep time divided by time in bed converted to a score 0-3), sleep disturbance (waking up in the middle of the night), use of sleeping medications and daytime sleepiness. The sum of these scores yields an overall score (range 0-21); a lower score reflects better quality of sleep. A score cutoff of 5 is indicative of poor sleep quality and a change in three points suggests clinical effect.  This instrument has high test-retest reliability and good validity.</outcome>
+      <timepoint>Within the first 72 hours after admission
+Within 72 hours prior to discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>The Hopkins Rehabilitation Engagement Rating Scale (HRERS) is a 5-item, clinician-rated measure developed to quantify engagement in acute rehabilitation services.  It is a valid and reliable measure and has good internal consistency and interrater reliability.  Clinicians (physiotherapist and occupational therapist) will be asked to complete this based on the engagement of the patient in the previous 72 working hours.</outcome>
+      <timepoint>Within the first 72 hours after admission
+Within 72 hours prior to discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome> Fatigue severity scale (FSS) measures fatigue severity through nine items concerning how fatigue affects motivation, exercise, physical functioning, carrying out duties, interfering with work, family or social life, on a 7-point Likert scale where 1=strongly disagree and 7 is strongly agree.  Responses are summed and divided by number of items for a scale score (range 1-7). Higher score indicates more severe fatigue. It has excellent validity and reliability.</outcome>
+      <timepoint>Within the first 72 hours after admission
+Within 72 hours prior to discharge</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Actigraphy will provide an objective measure of sleep-wake parameters..  This is a small watch-like device that records motor activity continuously for several days.  The data from the actigraph allows estimation of sleep-wake parameters based on presence or absence of motor activity</outcome>
+      <timepoint>Within the first 72 hours after admission
+Within 72 hours prior to discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient satisfaction with sleep will be measured with 5 point Likert scale (very satisfied, somewhat satisfied, neither satisfied nor dissatisfied, somewhat dissatisfied, very dissatisfied).</outcome>
+      <timepoint>Within the first 72 hours after admission
+Within 72 hours prior to discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay in rehabilitation unit.</outcome>
+      <timepoint>At time of discharge using medical records.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Ability and willingness to give informed consent, poor sleep quality (scoring = 5 on the Pittsburgh Sleep Quality Index after a negative answer to the initial screening question of do you currently sleep well?), musculoskeletal diagnosis (as per rehabilitation sub-group).  </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be excluded if they are not able or willing to complete the Pittsburgh Sleep Quality Index due to medical or behavioural instability (such as agitated and aggressive) or severe cognitive communication deficits.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed, sequentially numbered opaque envelopes will be used to conceal allocation</concealment>
+    <sequence>A statistician (BA) not involved with the study will generate a randomization schedule using a computerized random number sequence.  Assignment will be in a ratio of 1:1 intervention to usual care, stratified by primary diagnosis requiring rehabilitation (orthopaedic vs amputation).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>6/02/2017</actualstartdate>
+    <anticipatedenddate>28/04/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/05/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - Royal Park campus - Parkville</hospital>
+    <postcode>3052 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Rehabilitation Department - Royal Melbourne Hospital</primarysponsorname>
+    <primarysponsoraddress>34-54 Poplar Rd, Parkville VIC 3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>The Royal Melbourne Hospital</fundingname>
+      <fundingaddress>300 Grattan St, Parkville VIC 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Sleep is important for health, quality of life and general well being.  Patients in rehabilitation often sleep poorly but the reasons for this are not well understood.  It is important to better understand why patients sleep poorly in rehabilitation and how this can be managed.  Through this study, it is hoped that a clinical pathway which consists of guides for clinicians will help clinicians understand and better address sleep problems.  Patients will be divided into two groups randomly, with one group receiving care based on the clinical pathway and the other group receiving usual care without use of the clinical pathway.
+
+Sleep is starting to emerge as an important consideration in the overall management of rehabilitation patients however there is paucity of current literature relating to the efficacy of treatment of sleep disorders to guide treatment. For clinicians who actively manage sleep issues, most rely on evidence obtained in non-rehabilitation patients and commonly use hypnotic agents, Behavioural interventions and where appropriate devices such as continuous positive airway pressure (CPAP). Currently available clinical pathways for the treatment of sleep disorders focus predominantly on the management of obstructive sleep apnoea and do not extrapolate well to sleep disorders in a rehabilitation setting.
+
+This study aims to determine the feasibility and effectiveness of a sleep optimisation clinical pathway within the rehabilitation setting when compared to usual care on sleep quality, patient satisfaction with sleep, engagement with rehabilitation therapy, fatigue and length of inpatient rehabilitation stay through a randomized controlled trial with blinded patients and outcome assessors.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>MELBOURNE HEALTH HUMAN RESEARCH ETHICS COMMITTEE</ethicname>
+      <ethicaddress>Office for Research
+The Royal Melbourne Hospital
+Level 2 South West
+300 Grattan Street
+Parkville VIC 3050</ethicaddress>
+      <ethicapprovaldate>18/11/2016</ethicapprovaldate>
+      <hrec>HREC/16/MH/299</hrec>
+      <ethicsubmitdate>27/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Louisa Ng</name>
+      <address>Building 21 (Administration Building)
+The Royal Melbourne Hospital - Royal Park Campus
+34-54 Poplar Rd, Parkville VIC 3052
+</address>
+      <phone>+61 3 83872350 </phone>
+      <fax />
+      <email>louisa.ng@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Louisa Ng</name>
+      <address>Building 21 (Administration Building)
+The Royal Melbourne Hospital - Royal Park Campus
+34-54 Poplar Rd, Parkville VIC 3052
+</address>
+      <phone>+61 3 83872350 </phone>
+      <fax />
+      <email>louisa.ng@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Louisa Ng</name>
+      <address>Building 21 (Administration Building)
+The Royal Melbourne Hospital - Royal Park Campus
+34-54 Poplar Rd, Parkville VIC 3052
+</address>
+      <phone>+61 3 83872350 </phone>
+      <fax />
+      <email>louisa.ng@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jason Hsu</name>
+      <address>Building 21 (Administration Building)
+The Royal Melbourne Hospital - Royal Park Campus
+34-54 Poplar Rd, Parkville VIC 3052
+</address>
+      <phone />
+      <fax />
+      <email>jason.hsu@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

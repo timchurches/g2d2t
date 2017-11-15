@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372446">
+  <stage>Registered</stage>
+  <submitdate>28/02/2017</submitdate>
+  <approvaldate>3/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000337370</actrnumber>
+  <trial_identification>
+    <studytitle>Addition of nasal cannula can either impair or enhance preoxygenation with a bag valve mask: a randomised crossover trial comparing oxygen flow rates</studytitle>
+    <scientifictitle>Comparison of end-tidal oxygen at 3-minutes using a combination  nasal cannulae at different flow rates and a bag valve mask in healthy volunteers</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>intubation</healthcondition>
+    <healthcondition>preoxygenation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The study design is five-period crossover study (repeated measures design). Participants will be required to complete five trials of 3-minutes pre-oxygenation with 100% oxygen in using a bag valve mask (BVM) (at 15l/min) and nasal cannula (NC) in all of the following conditions; BVM alone, BVM+NC at 0l/min, BVM+NC at 5l/min, BVM+NC at 10l/min, BVM+NC at 15l/min, At the end of each trial, oxygen will be measured by an expiratory breath into an oxygen analyser. There will be followed by a washout period of 2 minutes after which the ETO2 will be remeasured to ensure it is within 1% of the participants baseline.</interventions>
+    <comparator>The BVM-only condition is the comparator. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>End-tidal oxygen, assessed with a paramagnetic oxygen analyser from a standard anaesthetic machine. The same analyser will be used for all trials.</outcome>
+      <timepoint> after 3-minutes of preoxygenation </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comfort of breathing as measured by visual analog scale</outcome>
+      <timepoint> after 3-minutes of preoxygenation </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>No regular cardiovascular or respiratory medication, no history of chronic respiratory disease.
+Attendees at the Greater Sydney Area HEMS governance day, </inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Pregnancy, lung disease, known or suspected coronary or cerebrovascular disease, treatment for asthma or
+COPD, previous exposure to bleomycin, participants with beards, dentures or facial abnormalities affecting mask
+seal.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed.</concealment>
+    <sequence>Random sequence generation by statistical software package 'R'.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>The sequence by which the trials are to conducted will by a balanced Latin-Squares design. This allows the sequence of trials to be randomised, but balanced so that, if one participant was to conduct the trials in a particular order, another participant will perform their trials in the reverse of that order.</designfeatures>
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/03/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/06/2016</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize>39</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/06/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <postcode>2200 - Bankstown Aerodrome</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Ambulance Service NSW</primarysponsorname>
+    <primarysponsoraddress>Aeromedical and retreival services
+Drover Road
+Bankstown Airport
+NSW 2200</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Ambulance NSW</fundingname>
+      <fundingaddress>Aero medical and retrieval services 
+Drover Rd
+Bankstown 
+Nsw 2200</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>nil</sponsorname>
+      <sponsoraddress>nil</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Objectives 
+A critical safety component of emergency anaesthesia is
+ the avoidance of hypoxaemia during the apnoeic phase of a rapid sequence intubation. Preoxygenation with a bag valve mask (BVM) or anaesthetic circuit may be improved with supplemental oxygen by nasal cannulae (NC) if there is a mask leak. In addition, NC are recommended for apnoeic oxygenation after induction and may  be placed prior to preoxygenation
+. 
+However, the optimum NC flow rate for preoxygenation or  whether presence of NC itself creates a mask leak remains unclear. 
+Methods 
+We performed a randomized crossover study on healthy volunteers comparing BVM alone and BVM with NC flow rates of 0 (NC-0), 5 (NC-5), 10 (NC-10) and 15 (NC-15) litres per minute
+. 
+Our primary outcome was end tidal oxygen (ETO2) after 3-minutes preoxygenation. 
+</summary>
+    <trialwebsite />
+    <publication>Mcquade D, Miller MR, Hayes-Bradley C. Addition of Nasal Cannula Can Either Impair or Enhance Preoxygenation With a Bag Valve Mask: A Randomized Crossover Design Study Comparing Oxygen Flow Rates. Anesthesia &amp; Analgesia 2017; Publish Ahead of Print
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sydney Local Health District</ethicname>
+      <ethicaddress>Research Ethics and Governance Office (REGO)
+Royal Prince Alfred Hospital
+Missenden Road
+CAMPERDOWN NSW 2050</ethicaddress>
+      <ethicapprovaldate>11/02/2016</ethicapprovaldate>
+      <hrec>HREC/15/RPAH/587</hrec>
+      <ethicsubmitdate>9/12/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>David McQuade</name>
+      <address>Department of Emergency Medicine
+Wellington Hospital
+Riddiford St, Newtown, 
+Wellington 6021</address>
+      <phone>+64 4385 5999</phone>
+      <fax />
+      <email>davidmcq@gmail.com</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8,</address>
+      <phone>+1 4162784580</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8,</address>
+      <phone>+1 4162784580</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

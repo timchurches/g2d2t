@@ -1,0 +1,264 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365273">
+  <stage>Registered</stage>
+  <submitdate>7/11/2013</submitdate>
+  <approvaldate>12/11/2013</approvaldate>
+  <actrnumber>ACTRN12613001242718</actrnumber>
+  <trial_identification>
+    <studytitle>The clinical effectiveness of a simple new treatment for supine-dependent obstructive sleep apnoea</studytitle>
+    <scientifictitle>Does a supine-avoidance device achieve a similar reduction in sleepiness as usual CPAP treatment in patients with supine-predominant obstructive sleep apnoea?</scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym>SUPA OSA Trial</trialacronym>
+    <secondaryid>Nil </secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Supine-predominant obstructive sleep apnoea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Supine Avoidance Device (BuzzPOD)
+Patients will wear a BuzzPOD every night while they sleep for 8 weeks.
+A BuzzPOD is a small (80mm x 40mm x 20mm) position monitoring device that is worn on the chest and discourages supine sleep by vibrating if the wearer remains on their back for longer than 5 seconds.
+Adherence will be measured through a self-report sleep/wake diary and data downloaded from the BuzzPOD at 3 weeks and post-treatment (8 weeks).
+There is a one week washout period between treatments; Treatment 2 will begin 7-14 days after completing Treatment 1.</interventions>
+    <comparator>Standard treatment - Continuous Positive Airway Pressure (CPAP) Machine
+Patients will be asked to use a CPAP machine every night while they sleep for 8 weeks.
+CPAP machines use a continuous level of positive airway pressure delivered through a mask to keep the airway open, thereby normalising breathing during sleep. The settings of each machine (including mask type etc.) will be individually adjusted to each patient.
+Adherence measures will be downloaded from the machine at 3 weeks and post-treatment (8 weeks).</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in sleepiness (Epworth Sleepiness Scale)</outcome>
+      <timepoint>Baseline, 3 weeks after the beginning of each treatment, 8 weeks after the beginning of each treatment.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Reduction in Apnea-Hypopnea Index</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Snoring (Snoring Scale Score)</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Resting blood pressure assessed using an automatic sphygmomanometer</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality (Pittsburgh Sleep Quality Index, Functional Outcomes of Sleep Questionnaire)</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life (Assessment of Quality of Life - 8D)</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Treatment adherence - assessed by usage data downloaded from each device</outcome>
+      <timepoint>Baseline, 3 weeks after the beginning of each treatment, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient and partner satisfaction with treatment - assessed using an investigator designed questionnaire containing eight Visual Analogue Scale questions</outcome>
+      <timepoint>Baseline, 8 weeks after the beginning of each treatment.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age 18 to 75 years.
+Epworth Sleepiness Scale score greater than or equal to 8.
+No prior CPAP or BuzzPOD therapy.
+Overnight diagnostic data indicating a diagnosis of supine-predominant obstructive sleep apnoea;
+- Total AHI greater than 10 an hour
+- Non-supine AHI less than 10 an hour
+- Supine AHI greater than or equal to twice the non-supine AHI
+- Total sleep greater than or equal to 4 hours
+- Supine sleep time greater than or equal to 30 minutes
+- Non-supine sleep time greater than or equal to 30 minutes</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Potentially dangerous sleepiness requiring urgent treatment.
+Epworth Sleepiness Scale score great than or equal to 16.
+If participant is a commercial driver.
+Co-morbidities that may preclude supine-avoidance treatment (e.g. arthritis, pacemaker).
+Unwilling to cease current alternative OSA therapies for the duration of the trial.
+Overnight diagnostic criteria indicating minimum blood oxygen saturation less than 80% for more than 10% of total sleep time.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>At each recruitment site (Repatriation General Hospital, Queen Elizabeth Hospital, Royal Adelaide Hospital, Flinders Medical Centre) a member of the sleep laboratory staff will review recent patient diagnostic sleep studies for patients who fit the study criteria for approach by their clinician at the patient’s next clinic appointment. The clinician will briefly describe the study and ask if the patient is willing to be contacted by research staff at the Adelaide Institute of Sleep Health for more information. If so, their contact details will be passed on to the Adelaide Institute for Sleep Health where the study researchers will provide more information on the study. 
+Patients who are still interested in study participation will attend an appointment with a study researcher at the Repatriation General Hospital. At this appointment the patients will be consented into the study and begin baseline measures following the successful completion of eligibility criteria. 
+
+Allocation to intervention will occur via a minimisation program, subsequent to consent and the collection of baseline measures, thereby ensuring allocation concealment. </concealment>
+    <sequence>A minimisation program (MinimPy), operated by the Repatriation General Hospital Pharmacy Department, will stratify treatment allocation (supine avoidance; CPAP) by ESS score, supine AHI, and gender. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>All analyses will be conducted on an intention to treat basis, and the trial conducted according to CONSORT guidelines. Random effects modelling (using Statas xt commands) will be employed to analyse each outcome, clustering over individual within site to account for the possibility of a design effect. This approach uses all the available data, and is unaffected by data missing at random. For the primary outcome linear mixed effects models will be used to examine the change in sleepiness (ESS) over each treatment period. 
+Significance will be concluded if the confidence interval does not cross the non-inferiority margin. Diagnostic tests to examine homoscedasticity and normality of residuals will be carried out to ensure model validity.  To assess treatment compliance between study arms, we will use multilevel mixed effects logistic regression. The change in snoring frequency will be assessed using multilevel mixed effect Poisson regression. Deviance residuals will be used to examine the goodness-of-fit of the logistic and Poisson models.
+All calculations assume a type II error rate of 20%, that is, power of 80%. Available data suggest the change in ESS with CPAP treatment is around 4 (SD 4). We have powered to show non-inferiority. We consider expert clinicians in the field would agree that a difference &lt;1.5 is unlikely to be of clinical importance, and we have used this non-inferiority margin previously. The null hypothesis is that the difference in mean ESS between supine-avoidance and CPAP treatment arms of the trial is &gt;1.5 ESS units. Assuming the true difference between treatment arms is zero and a type I error rate of 2.5% (one-sided), a sample size of approximately 113 per group is required to reject the null hypothesis with a parallel groups design. Allowing for 20% attrition we originally selected 140 patients per group. The proportion of patients who use CPAP at least 4 h/night is ~50%.  Assuming a type I error rate of 5% (two-sided) we have power to detect superior compliance if the proportion of those using the vibration device more than 4 h/night is = 67%.  
+However, given significantly lower than anticipated recruitment rates the original sample size of 280 patients has proven unachievable within remaining time and resources. To address this major problem we have redesigned the study as a cross-over trial. This should achieve equivalent study power with around half the original sample size (i.e. N=140 allowing for attrition), which we believe is achievable. Based on additional Statistician advice, we propose 2 additional strategies to maximise study power and potentially further reduce the sample size needed to address the main hypotheses. Firstly, replication of primary outcome measures (ESS) at 2 time points within each treatment arm will increase study power. Secondly, a blinded analysis at 12 months following cross-over trial commencement will be conducted to assess the within trial standard-deviation of the treatment change in ESS (without identifying treatment allocation). This will be used to re-power the study, anticipating that the sample size needed to address the primary hypothesis will be somewhat reduced. Simulations analyses suggest that replication of the primary outcome measures may reduce the sample size needed to address the primary outcome towards N=100.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>25/11/2013</anticipatedstartdate>
+    <actualstartdate>13/03/2014</actualstartdate>
+    <anticipatedenddate>28/02/2017</anticipatedenddate>
+    <actualenddate>24/01/2017</actualenddate>
+    <samplesize>140</samplesize>
+    <actualsamplesize>66</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/07/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Repatriation Hospital - Daw Park</hospital>
+    <hospital>The Queen Elizabeth Hospital - Woodville</hospital>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <postcode>5041 - Daw Park</postcode>
+    <postcode>5011 - Woodville</postcode>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>5000 - Adelaide</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>A/Prof Peter Catcheside</primarysponsorname>
+    <primarysponsoraddress>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra, ACT, 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other</sponsortype>
+      <sponsorname>Adelaide Institute for Sleep Health</sponsorname>
+      <sponsoraddress>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Brief summary: Obstructive sleep apnoea (OSA) is the most common form of pathological breathing in sleep. It is characterised by frequent upper airway collapse, recurrent brief arousals that severely disrupt sleep, and marked repetitive oxidative and cardiovascular system stress. OSA has serious adverse health and quality of life consequences, including severe daytime sleepiness, cognitive impairment, a 2-fold increased risk of motor vehicle and other accidents, and hypertension. Of those patients diagnosed with OSA around 30% exhibit clinically significant symptoms only when supine.
+
+Although a number of supine avoidance therapies are available and generally effective (e.g. classic tennis ball devices designed to make supine sleep uncomfortable), all have problems that limit clinical utility. In a follow-up survey of patients established with a traditional tennis ball device, we found that over 90% of patients stopped using treatment within a median time of 1 month, primarily due to excessive discomfort. The acceptability of supine-avoidance therapy as a mainstream treatment for appropriately selected patients relies upon substantiating practical, acceptable and low cost methods to discourage supine sleep.
+
+The BuzzPOD (Gorman ProMed Pty. Ltd) is a position monitoring device, worn on the chest, employing a vibration function designed to discourage supine sleep whilst minimally disturbing the patient and bed partner. A previous small, randomised, controlled, cross-over pilot study of active versus inactive treatment (1 week of each with 1 week washout) in 14 patients confirmed that the device almost completely abolished the supine posture and usefully improved OSA severity. Adherence to treatment was high. Total use over the full 3 week trial was (mean+/-SD) 85%+/-23% of nights, 6.8+/-2.3 h per night including zero hours when not worn, and 8.0+/-1.2 h on nights when worn. These average nightly compliance values are around twice those typically reported for CPAP treatment in mild OSA (3.5+/-2.1 h/night). Compliance was maintained at that level for several months in several of the patients who agreed to a longer period of post-study surveillance. Thus, we believe there is now sufficient evidence to support a more rigorous longer-term trial of supine-avoidance therapy.
+
+The study intends to recruit 140 patients with supine-predominant obstructive sleep apnoea. Patients will receive both treatments in a randomly allocated order; the control arm will be standard, clinical, best-practice CPAP treatment, the experimental arm will be receive BuzzPOD supine-avoidance therapy. Patients will receive each treatment for 8 weeks, and will attend follow-up assessments just prior to concluding each treatment. 
+It is expected that supine avoidance therapy in patients with positional OSA will achieve improvements in daytime sleepiness and quality of life that are not inferior to those following CPAP, and be better tolerated than conventional CPAP treatment. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress>The Flats, G5 - Rooms 3 and 4
+Flinders Drive 
+Flinders Medical Centre 
+Bedford Park SA 5042
+</ethicaddress>
+      <ethicapprovaldate>14/10/2013</ethicapprovaldate>
+      <hrec>431.13/HREC/13/SAC/274</hrec>
+      <ethicsubmitdate>14/08/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter Catcheside</name>
+      <address>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041
+</address>
+      <phone>+61 8 8275 1309</phone>
+      <fax>+61 8 82776890</fax>
+      <email>Peter.catcheside@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Amanda O'Grady</name>
+      <address>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041
+</address>
+      <phone>+61 8 8275 1301</phone>
+      <fax>+61 8 82776890</fax>
+      <email>amanda.o'grady@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter Catcheside</name>
+      <address>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041
+</address>
+      <phone>+61 8 8275 1309</phone>
+      <fax>+61 8 82776890</fax>
+      <email>Peter.catcheside@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Amanda O'Grady</name>
+      <address>Adelaide Institute for Sleep Health
+Repatriation General Hospital
+C-Block
+Daws Road
+Daws Park SA 5041
+</address>
+      <phone>+61 8 8275 1301</phone>
+      <fax>+61 8 82776890</fax>
+      <email>amanda.o'grady@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,224 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370264">
+  <stage>Registered</stage>
+  <submitdate>3/03/2016</submitdate>
+  <approvaldate>8/03/2016</approvaldate>
+  <actrnumber>ACTRN12616000300471</actrnumber>
+  <trial_identification>
+    <studytitle>Safety and efficacy of automated targeting of oxygen therapy in premature infants</studytitle>
+    <scientifictitle>Safety and efficacy of automated targeting of oxygen therapy in premature infants</scientifictitle>
+    <utrn>U1111-1180-3710 </utrn>
+    <trialacronym>SANTO-B</trialacronym>
+    <secondaryid>RHHRF 15203</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Premature birth</healthcondition>
+    <healthcondition>Respiratory insufficiency of prematurity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Automated control of inspired oxygen therapy will be administered using a custom-built device incorporating a novel, adaptive and intuitive control algorithm (VDL1.1). This device receives SpO2 input from an oximeter, compares the value with the midpoint of the desired SpO2 range, and provides an output, which is an updated value for FiO2. Automated control using this device will be used for a 24 hour period in all study subjects, and will be compared with two flanking periods of manual control. The schedule of interventions is thus 12 hours manual control, 24 hours automated control and 12 hours manual control. The SpO2 target range will be 90-94% for both manual and automated control. In a sub-study within the 24 hour period of automated control, the effectiveness of activating an apnoea responsive feature in the algorithm will be compared with no apnoea response in two 12 hour periods in random order. When this feature is activated, the algorithm will make a pre-emptive response when respiratory pauses (5-14 sec) or apnoea (15 sec or more) are detected, potentially in advance of a deviation in SpO2. </interventions>
+    <comparator>Manual control of inspired oxygen therapy will be by bedside clinical staff, aiming to keep SpO2 in the target range (90-94% for manual control). This is the usual approach to SpO2 targeting, which continues up until oxygen therapy is no longer required. For the purposes of the study two 12 hours periods of manual control are being "observed" as a comparator to the period of automated control.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Eupoxia - proportion of time with oxygen saturation (SpO2) in the desired target range, or above the desired target range when no supplemental oxygen is being administered. This is assessed by analysis of data received from the pulse oximeter at a sampling frequency of 1 Hz. </outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of time in various degrees of hypoxia (SpO2 &lt;80%, 80-84%, 85-88%), assessed by analysis of data received from the pulse oximeter at a sampling frequency of 1 Hz. </outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of time in degrees of hyperoxia when in oxygen (SpO2 &gt;96%, &gt;98%),  assessed by analysis of data received from the pulse oximeter at a sampling frequency of 1 Hz. </outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of episodes per hour of prolonged hypoxia (SpO2 &lt;80% and SpO2 &lt;85%), lasting 30 sec or more, assessed by analysis of data received from the pulse oximeter at a sampling frequency of 1 Hz. </outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of episodes per hour of prolonged hyperoxia in oxygen (SpO2 &gt;96% and SpO2 &gt;98%), lasting 30 sec or more, assessed by analysis of data received from the pulse oximeter at a sampling frequency of 1 Hz. </outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of manual FiO2 adjustments made per 24 hours, assessed by analysis of data received from an oxygen analyser at a sampling frequency of 1 Hz.</outcome>
+      <timepoint>Continuous monitoring second by second throughout the 24 hour study period</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of apnoea events followed by hypoxia (SpO2 &lt;85% and &lt;80%) and/or by bradycardia (heart rate &lt; 100 bpm), assessed by analysis of data received from an oximeter and a cardiorespiratory monitor at a sampling frequency of 1 Hz.
+</outcome>
+      <timepoint>Within 24 hour study period, and compared by continuous monitoring throughout the 12 hour sub-study periods during automated control (apnoea response active and inactive)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>i) Preterm birth at &lt;32 weeks gestation
+ii) Requirement for non-invasive respiratory support, including continuous positive airway pressure (CPAP), or high flow via nasal cannula (HF).
+iii ) Either a) requirement for supplemental oxygen at the time of commencing the study, or b) in room air but showing a propensity to hypoxic events with or without apnoea.
+iv) Research team available to commence recording.</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>4</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Currently ventilated or in imminent need of intubation and ventilation</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>This is a non-blinded study of automated vs manual control of oxygen therapy in preterm infants.</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>The study design is as follows:
+The main study is a non-randomised crossover evaluation of oxygen saturation targeting during a 24 hour period of automated oxygen control compared with two flanking 12 hour periods of manual oxygen control (24 hours in total).
+A sub-study of controller response to apnoea (active vs inactive) will be conducted during the 24 hour automated control period, with a randomised crossover design (two 12 hour periods).</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Comparison of the automated and manual control epochs will be performed using paired statistical tests (paired t-test or Wilcoxon test, as appropriate), as will the comparison of the apnoea responsive and non-responsive epochs within the automated control period. Statistical significance will be assumed where P&lt;0.05. Analysis of covariance will be used to determine whether the results are influenced by covariates such as gestation at birth, and severity of lung disease at the time of study. 
+
+Sample size calculation is based in part on preliminary data generated in an initial clinical study of the automated control algorithm, and also takes into account the need to more extensively test the VDL1.1 algorithm under standard clinical conditions. In the initial clinical study during manual control the mean time proportion in the eupoxic range was 53%, with standard deviation 9.4%. Detecting an absolute increase of 10% in this proportion with 80% power and a=0.05 would require 26 infants overall if the groups were independent, and potentially fewer in view of the crossover design. Given the additional requirements of the study, in particular to test the VDL1.1 algorithm under a range of clinical conditions, 30 infants will be studied when receiving oxygen and 30 when in room air. This will result in 60 study episodes overall, with a maximum of 2 episodes per infant (one in oxygen, one in air). </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2016</anticipatedstartdate>
+    <actualstartdate>16/04/2017</actualstartdate>
+    <anticipatedenddate>31/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>11</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>TAS</recruitmentstate>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <postcode>7000 - Hobart</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Menzies Institute for Medical Research, University of Tasmania</primarysponsorname>
+    <primarysponsoraddress>Liverpool St
+Hobart
+TAS 7000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal Hobart Hospital Research Foundation </fundingname>
+      <fundingaddress>Royal Hobart Hospital
+Liverpool St
+Hobart TAS 7000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>No secondary sponsor</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Many preterm infants receive supplemental oxygen during their first hospitalisation, with fraction of inspired oxygen (FiO2) titrated to target a preferred oxygen saturation (SpO2) range. Both hypoxia and hyperoxia are known to be associated with adverse outcomes, including mortality, chronic lung disease, retinopathy and necrotizing enterocolitis. SpO2 targeting is, however, fraught with difficulty, with manual oxygen control targeting the desired SpO2 range less than 50% of the time. Automated oxygen control may offer a solution, with existing control algorithms increase time in target range by around 10% in short term studies. We have developed an adaptive and intuitive algorithm (VDL1.1) for automated control of inspired oxygen in the preterm infant, which is to be used in the study outlined in this proposal. A forerunner version of the algorithm (VDL1.0), has been found to be very effective in SpO2 targeting, both in pre-clinical studies using a simulation of oxygenation, and in a 4 hour crossover study in preterm infants. 
+
+We propose to evaluate the effectiveness of the VDL1.1 algorithm in a 24 hour crossover study under standard clinical conditions. Preterm infants &lt;32 weeks gestation at birth will be eligible if less than 4 months of age, receiving non-invasive respiratory support and showing the need or potential need for supplemental oxygen. In a non-randomised crossover study, a 24 hour period of automated oxygen control will be compared with two flanking 12 hour periods of standard manual control of inspired oxygen (total 24 hours). Additionally, within the 24 hour automated control period the function of the VDL1.1 algorithm with an apnoea-responsive element active or inactive (12 hours each in random order) will be evaluated. Primary outcome for the main study is eupoxia - the proportion of time with oxygen saturation in the desired target range, or above the desired target range when no supplemental oxygen is being administered. Secondary outcomes include i) proportion of time, and episodes of, hypoxia (SpO2 &lt;80%, 80-84%, 85-88%) and hyperoxia (SpO2 &gt;96% and &gt;98%) when in supplemental oxygen; and ii) number of manual FiO2 adjustments per 24 hours. A total of 60 crossover periods will be studied.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Tasmania Health and Medical Human Research Ethics Committee</ethicname>
+      <ethicaddress>University of Tasmania
+Private Bag 01
+Hobart Tas 7001
+</ethicaddress>
+      <ethicapprovaldate>16/03/2016</ethicapprovaldate>
+      <hrec>H0015111</hrec>
+      <ethicsubmitdate>25/01/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Dargaville</name>
+      <address>Dept of Paediatrics 
+Royal Hobart Hospital
+Liverpool St
+Hobart
+TAS 7000</address>
+      <phone>+61 3 61667546</phone>
+      <fax>+613 62227381</fax>
+      <email>peter.dargaville@dhhs.tas.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Dargaville</name>
+      <address>Dept of Paediatrics 
+Royal Hobart Hospital
+Liverpool St
+Hobart
+TAS 7000</address>
+      <phone>+61 3 61667546</phone>
+      <fax>+613 62227381</fax>
+      <email>peter.dargaville@dhhs.tas.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Dargaville</name>
+      <address>Dept of Paediatrics 
+Royal Hobart Hospital
+Liverpool St
+Hobart
+TAS 7000</address>
+      <phone>+61 3 61667546</phone>
+      <fax>+613 62227381</fax>
+      <email>peter.dargaville@dhhs.tas.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Dargaville</name>
+      <address>Dept of Paediatrics 
+Royal Hobart Hospital
+Liverpool St
+Hobart
+TAS 7000</address>
+      <phone>+61 3 61667546</phone>
+      <fax>+613 62227381</fax>
+      <email>peter.dargaville@dhhs.tas.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

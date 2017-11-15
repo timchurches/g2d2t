@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371526">
+  <stage>Registered</stage>
+  <submitdate>21/09/2016</submitdate>
+  <approvaldate>10/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001397404</actrnumber>
+  <trial_identification>
+    <studytitle>Intranasal Deposition of fluorescein-dyed Saline delivered by a Nasal Mesh Nebulizer (NMN) at different pulse frequencies in patients that have undergone Functional Endoscopic Sinus Surgery (FESS) </studytitle>
+    <scientifictitle>Intranasal Deposition of fluorescein-dyed Saline delivered by a Nasal Mesh Nebulizer (NMN) at different pulse frequencies in patients that have undergone Functional Endoscopic Sinus Surgery (FESS) 
+
+</scientifictitle>
+    <utrn> U1111-1187-8516</utrn>
+    <trialacronym>Nasal Mesh Nebulizer Trial AFT-MD-02</trialacronym>
+    <secondaryid>AFT-MD-02</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patients who undergone functional endoscopic sinus surgery </healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The participant will be randomly allocated to a treatment sequence which will determine the order in which the aerosol deposition assessments are performed.  During each treatment period, the pulse frequency of the saline delivered by the device is different.. 
+During each study period when the assessment is being conducted, it involves the following steps:
+1. The nasal aerosol assessment involves the delivery into the nose 1-2mL of fluorescein-dyed saline. The device will deliver the dyed saline to each side of the nose. The study subject will apply the device at the site under the investigator's supervision
+2. Endoscopic assessment will be performed immediately following the delivery of the dyed-saline with the NMN, and 5,10 and 15 minutes thereafter. 
+3. Once the endoscopic assessment at 15 minutes has been completed, a saline rinse will be provided to remove the any residual fluorescein-dyed saline with the nasal cavity. 
+Steps 1-3 will be repeated for each of the four study periods. These treatments and inspections will be the same across all four study periods with the only difference being the settings on the NMN device used to deliver the fluorescein-dyed saline aerosol. Additionally, for study periods from 2-4, a brief endoscopic inspection will take place between Steps 1 and 2 above to ensure that all fluorescein-dyed saline from the previous assessment has been washed out.. 
+The washout period consists of flushing both nasals with two bottles of saline (50ml each bottle) after each treatment period. </interventions>
+    <comparator>1-2ml of fluorescein-dyed saline without any pulse frequency delivered by the Nasal Mesh Nebulizer (NMN)</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome is a composite outcome to evaluate and compare the deposition of fluorescein-dyed saline delivered with the NMN device at different pulse frequencies within the nasal cavities of patients that have undergone FESS.  
+
+The quantitative assessment of nasal deposition, clearance and retention will be determined by measurements of the total area of deposition of fluorescein-dyed saline and the intensity of fluorescein at each surgical site (surgically expanded ostia of the paranasal sinuses and oropharynx). Endoscopic videos will be taken at each of the four time points (T0, T5, T10, T15) for each of the sites. Screenshots of these endoscopic videos will be imported into PhotoShop (Adobe Systems, Inc. San Jose, CA) and normalized to a standard images size (605 x 450 pixels). A Lasso tool (tolerance 20) will be used to select portions of the still image containing enough fluorescein to be discerned by the program. The total area of distribution (mm2) will be estimated by comparing the total number of fluorescein-laden pixels captured to the number of pixels subtended by a paper square of known dimensions placed at each surgical site. Additionally, the histogram resulting from the lasso portion of the image will be used to estimate total fluorescein intensity, which is expressed as the mean intensity multiplied by the number of captured pixels (channel, green).</outcome>
+      <timepoint>The primary endpoint is a composite endpoint which is the total area of deposition of fluorescein-dyed saline at 5 sites within the nasal cavity (surgically expanded ostia of the paranasal sinuses, and oropharynx) immediately after administration between T0 and T15 (at T0, T5, T10 and T15). </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To evaluate and compare the clearance of fluorescein-dyed saline delivered with the NMN device at different pulse frequencies within the nasal cavities of patients that have undergone FESS.  </outcome>
+      <timepoint>Clearance of fluorescein-dyed saline over 15 minutes (at T0, T5, T10, T15) at all 5 sites. The intensity of fluorescein will be evaluated from the screenshots obtained from the endoscopic videos taken immediately following adminstration and at 5, 10 and 15 minutes thereafter. Clearance will be calculated as the linear decrement in fluorescien intensity (mean intensity X number of pixels) between T0 and T25. The 15 minutes duration of assessment is consistent with previous studies and is expected given the known of mucociliary clearance in the paranasal sinuses. 
+
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The other secondary outcome is to evaluate and compare the retention of fluorescein-dyed saline delivered with the NMN device at different pulse frequencies within the nasal cavities of patients that have undergone FESS.  </outcome>
+      <timepoint>The retention will be calculated as: 
+1. Retention of fluorescein-dyed saline over 15 minutes (at T0, T5, T10, T15) expressed as the Area Under the Curve between T0 and T15  (AUC0-15) of the total area of deposition of fluorescein-dyed saline at all 5 sites
+2. Retention of fluorescein-dyed saline over 15 minutes ( at T0, T5, T10, T15) expressed as the AUC0-15 of the intensity of fluorescein-dyed saline at all 5 sites
+
+
+
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The third secondary outcome is to generate a variable that takes into account both the total area of deposition of fluorescein and intensity of fluorescein.</outcome>
+      <timepoint>1. Intensity-adjusted total area of deposition of fluorescein-dyed saline at 5 sites
+2. Retention of fluorescein-dyed saline over 15 minutes expressed as the AUC0-15 of the intensity adjusted total area of fluorescein-dyed saline at all 5 sites
+
+It is expected that the suitable variable will be the Intensity-adjusted Total Area of Deposition: the product of the total area of deposition (primary endpoint) and the mean intensity (expressed as a proportion of maximum intensity [255 on PhotoShop]) of the fluorescein captured in the screenshots at T0. If this is suitable then both the total area of deposition at T0 and the retention of fluorescein-dyed saline between T0 and T15 (i.e. the AUC0-15 of the intensity-adjusted total area of deposition of fluorescein-dyed saline) will be assessed using this variable as exploratory endpoints.
+These endpoints will be compared between each pulse frequency and the continuous delivery for each site. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical safety assessment </outcome>
+      <timepoint>Safety will be assessed by the incidence of treatment-emergent adverse events over the course of the study. Participant will be specifically asked about the most common side-effects (such as irritation and stinging) as well as other symptoms that may have experienced, at the end of study. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Participants (both males and females) that have undergone Functional Endoscopic Sinus Surgery (FESS) more than 3 months before the study
+2. Age &gt;= 18 years
+3. No history of smoking
+4. No history of chronic lung diseases including asthma, cystic fibrosis, tuberculosis, chronic obstructive lung disease
+5. Normal lung function with stable and reproducible baseline FEV1 of &gt;80% of predicted value following adjustment for height, age, and gender (according to the Global Lung Initiative equation)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Significant upper and/or lower respiratory tract infection within the previous 4 weeks
+2. History of recurrent lung infections
+3. History of chronic lung diseases
+4. History of severe or multiple allergies, including hay-fever and perennial rhinitis
+5. Participants using nasal decongestant within 14 days of entering the study 
+6. Participants with documented or suspected, clinically significant alcohol or drug abuse
+7. Known history of adverse reaction to fluorescein
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A randomization list will be generated and each eligible subject will be assigned to a unique randomization number in sequential order. </concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>The randomization table generated from the computer program includes the treatment sequence that each subject will received during each study period </designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Subject Characteristics
+Participant demographic and background characteristics will be descriptively summarized using means, standard deviations, ranges, frequencies and percentages as appropriate.
+
+Nasal Deposition Analyses
+Between-treatment differences in total area of deposition and clearance at each site will be compared by means of one-way analysis of variance (ANOVA) with pulse frequency as factor. 
+For measures of retention over 15 minutes, between treatment differences will be compared by means of one-way analysis of covariance (ANCOVA) with pulse frequency as a factor and T0 value as a covariate. 
+
+Safety analyses
+Data listings will be provided for protocol specified safety data. The Medical Dictionary for Regulatory Activities (MedDRA) (Version 9.1 or higher) will be used to classify all AEs with respect to system organ class and preferred term. Adverse event summaries will include only treatment emergent AEs, which will be summarized for each treatment group. If frequencies permit Fishers 2 sided exact test may be used to compare the rates of occurrence between treatment groups
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>31/01/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>28/03/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>10/04/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland </state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>AFT Pharmaceuticals Ltd. </primarysponsorname>
+    <primarysponsoraddress>Level 1, 129 Hurstmere Road, Takapuna, Auckland, 0622 New Zealand </primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>AFT Pharmaceuticals Ltd. </fundingname>
+      <fundingaddress>Level 1, 129 Hurstmere Road, Takapuna, Auckland, 0622, New Zealand </fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a single-centre, randomized, controlled, cross-over clinical study investigating the deposition of aerosols generated by the Nasal Mesh Prototype (NMN) device at different pulse frequencies to clinically relevant sites within the nasal cavity of 20 patients that have undergone FESS. 
+
+The study will be performed in adult participants that have previously undergone FESS. Employing a cross-over design enable each subject to act as its own control and reduces the overall number of patients to assess aerosol deposition.
+
+The study will comprise four Study Periods, with one treatment (pulse frequency setting) tested per Period. The treatment sequence for the study subjects will be randomly applied, with a brief saline washout period between treatments. 
+
+Each subject will receive the same amount (1-2 mL) of fluorescein-dyed saline solution (5% FluoresciteTM sterile fluorescein solution) for each treatment. 
+
+Endoscopic videos of each subject will be taken immediately and at 5, 10 and 15 minutes after self-administration of 1-2 mL fluorescein-dyed saline with the NMN device to each nare. The final assessment at 15 minutes is consistent with the study by Bleier et al and is expected given the known rates of mucociliary clearance in the paranasal sinuses.  
+
+Screenshots of 5 standard sites (surgically expanded ostia of paranasal sinuses and the oropharynx) will be taken using a 2.7 mm rigid endoscope fitted with a blue light filter at 100% light intensity (Karl Storz, Tuttlingen, Germany).
+
+Nasal deposition, clearance and retention of fluorescein-dyed saline solution will be assessed through the analysis of endoscopic images in PhotoShop (Adobe Systems, Inc. San Jose, CA). This will included the evaluation of the number and intensity of fluorescein-laden pixels in endoscopic images taken from the 5 standardized sites within the nasal cavity. 
+
+Nasal deposition, clearance and retention will be determined and compared between the different pulsed application methods (10 Hz, 50 Hz and 100 Hz) and the continuous method (no pulse). 
+</summary>
+    <trialwebsite>Not applicable </trialwebsite>
+    <publication>Not applicable </publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>Not applicable </publicnotes>
+    <ethicscommitee>
+      <ethicname>Northern B Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Freyberg Building
+Reception  Ground Floor
+20 Aitken Street, 6011
+Wellington</ethicaddress>
+      <ethicapprovaldate>13/12/2016</ethicapprovaldate>
+      <hrec>16/NTB/190</hrec>
+      <ethicsubmitdate>29/09/2016</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Douglas </name>
+      <address>Mauranui Clinic
+86 Great South Rd, Epsom, Auckland 0646,  New Zealand
+</address>
+      <phone> +(64) 27 2186083</phone>
+      <fax />
+      <email>richard.douglas@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hartley Atkinson </name>
+      <address>AFT Pharmaceuticals Ltd, Level 1, 129 Hurstmere Road, Takapuna, Auckland, 0622 New Zealand </address>
+      <phone>+ 64 9 488 02 32</phone>
+      <fax />
+      <email>hartley@aftpharm.com</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hartley Atkinson </name>
+      <address>AFT Pharmaceuticals Ltd, Level 1, 129 Hurstmere Road, Takapuna, Auckland, 0622 New Zealand </address>
+      <phone>+ 64 9 488 0232 </phone>
+      <fax />
+      <email>hartley@aftpharm.com</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Charles Beasley</name>
+      <address>Level 1, 129 Hurstmere Road, Takapuna, Auckland, New Zealand </address>
+      <phone>+ 64 9 488 0232 </phone>
+      <fax />
+      <email>charles.beasley@aftpharm.com</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

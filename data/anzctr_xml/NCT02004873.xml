@@ -1,0 +1,355 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4750">
+  <stage>Registered</stage>
+  <submitdate>3/12/2013</submitdate>
+  <approvaldate>3/12/2013</approvaldate>
+  <nctid>NCT02004873</nctid>
+  <trial_identification>
+    <studytitle>Micra Transcatheter Pacing Study</studytitle>
+    <scientifictitle>Micra Transcatheter Pacing Study</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Micra</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Class I or II Indication for Implantation of a Single Chamber Ventricular Pacemaker According to ACC/AHA/HRS 2001 Guidelines and Any National Guidelines</healthcondition>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: devices - Micra Pacemaker Implant
+
+Experimental: Micra Pacemaker Implant - 
+
+
+Treatment: devices: Micra Pacemaker Implant
+
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Major Complications - Micra system and/or procedure related major complication free rate at 6-months post-implant.</outcome>
+      <timepoint>Implant to 6 Months Post Implant</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Pacing Capture Threshold - Subjects that have an adequate pacing capture threshold (PCT) at the 6-month post-implant visit, which is defined as PCT &lt;=2 volts at 0.24 ms pulse width and the increase in PCT from implant to 6 months &lt;=1.5 volts. The pacing capture threshold is the minimal electrical stimulus required to produce consistent cardiac depolarization. It is the minimum amount of energy that is required for a pacemaker to pace the heart.</outcome>
+      <timepoint>6 Months Post Implant</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ventricular Capture Management Threshold - Subjects that have a ventricular capture management threshold (VCMT) that is within 0.5 Volts of the manual (auto decrement) PCT (at 0.24 ms pulse width) at the 6-month post-implant visit. The VCMT is an automatically measured pacing capture threshold that is measured by the Micra device's pacing algorithm. In contrast, the manual (auto decrement) pacing capture threshold is measured by the clinician during a study visit.</outcome>
+      <timepoint>6 Months Post Implant</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate Response Operation of Micra - Assessment of whether the Micra sensor-indicated rate derived from the input of the accelerometer during the Minnesota Pacemaker Response Exercise Protocol (M-PREP) treadmill test conducted at the 3-month and 6-month follow-up visits was proportional to the workload. The sensor-indicated rate (in min^-1) and workload (in METS) were normalized for each subject relative to their minimum and maximum possible values so the normalized values have a minimum possible value of zero and a maximum possible value of 1. These normalized values were used in a random effect linear regression model to assess the relationship between the sensor-indicated rate and workload via estimation of the Kay-Wilkoff slope parameter. The tests at 3-month and 6-month visits were combined in one analysis.</outcome>
+      <timepoint>3 Months and 6 Months Post Implant (combined analysis)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Subjects who have a Class I or II indication for implantation of a single chamber
+             ventricular pacemaker according to ACC/AHA/HRS 2008 guidelines and any national
+             guidelines
+
+          -  Subjects who are able and willing to undergo the study requirements and are expected
+             to be geographically stable for the duration of the follow-up.
+
+          -  Subjects who are at least 18 years of age (or older, if required by local law).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Subjects who are entirely pacemaker dependent (escape rhythm &lt;30 bpm). (Please note:
+             Subjects who are entirely pacemaker dependent (escape rhythm &lt;30 bpm) can now be
+             included in the study. Medtronic notified all sites on July 23, 2014 that the
+             restriction against pacemaker dependent subjects was lifted, following review of the
+             Early Performance Assessment.)
+
+          -  Subject has an existing or prior pacemaker, ICD or CRT device implant.
+
+          -  Subject has unstable angina pectoris or has had an acute myocardial infarction (AMI)
+             in the 30 days prior to eligibility assessment.
+
+          -  Subjects with current implantation of neurostimulator or any other chronically
+             implanted device which uses current in the body. Note that a temporary pacing wire is
+             allowed.
+
+          -  Subjects with a mechanical tricuspid valve, implanted vena cava filter, or left
+             ventricular assist device (LVAD).
+
+          -  Subjects who are morbidly obese and physician believes telemetry communication of =5
+             inches (12.7 cm) could not be obtained with programmer head.
+
+          -  Subjects whose femoral venous anatomy is unable to accommodate a 23 French introducer
+             sheath or implant on the right side of the heart (for example, due to obstructions or
+             severe tortuosity) in the opinion of the implanter.
+
+          -  Subjects who are considered as unable to tolerate an urgent sternotomy
+
+          -  Subjects with a known intolerance to Nickel-Titanium (Nitinol) Alloy.
+
+          -  Subjects for whom a single dose of 1.0mg dexamethasone acetate may be contraindicated.
+
+          -  Subjects with a life expectancy of less than 12- months.
+
+          -  Subjects who are currently enrolled or planning to participate in a potentially
+             confounding drug or device trial during the course of this study. Coenrollment in
+             concurrent trials is only allowed when document pre-approval is obtained from the
+             Medtronic study manager.
+
+          -  Pregnant women, or women of child bearing potential and who are not on a reliable form
+             of birth control.
+
+          -  Subjects with exclusion criteria required by local law (e.g. age, breast feeding,
+             etc.).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>744</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/05/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Princess Alexandria Hospital - Woolloongabba</hospital>
+    <postcode> - Woolloongabba</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Praha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>København</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Heraklion</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Hyderabad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>New Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pisa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shinagawa-Ku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Yokohama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Kuala Lumpur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Eindhoven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nieuwegein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Serbia</country>
+      <state>Beograd</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Cape Town</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Medtronic Cardiac Rhythm and Heart Failure</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this clinical study is to evaluate the safety and efficacy of the Micra
+      Transcatheter Pacing System and to assess long term performance.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02004873</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dwight Reynolds</name>
+      <address>University of Oklahoma</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365805">
+  <stage>Registered</stage>
+  <submitdate>22/02/2014</submitdate>
+  <approvaldate>3/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001059651</actrnumber>
+  <trial_identification>
+    <studytitle>Effect of combined electrical muscle stimulation and resistance exercises on duration of mechanical ventilation in critically ill patients: a randomized controlled trial</studytitle>
+    <scientifictitle>Effects of combined electrical muscle stimulation and resistance exercises in duration of mechanical ventilation in critically ill patients</scientifictitle>
+    <utrn>U1111-1153-3132</utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>mechanical ventilation</healthcondition>
+    <healthcondition>muscle dysfunction</healthcondition>
+    <healthcondition>critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>All patients eligible were randomized to a 55 minutes session of resistance exercise (RE), electrical muscle stimulation (EMS), combined exercise (EMS + RE) or usual care (control group, CG). We used sequentially numbered, opaque, sealed envelopes to maintain randomization allocation.
+RE group started with passive mobilization; as patient was regaining consciousness, resistance was applied through active exercises (biceps, triceps and lower extremities) and resistance exercises with elastic band (Theraband, Mercury, Brazil). EMS group received daily EMS sessions of both lower extremities. EMS was implemented simultaneously on the vastus lateralis and vastus medialis. After shaving and skin cleaning, rectangular electrodes (90 x 50 mm) were placed on the motor points of vastus lateralis and vastus medialis of both legs. The stimulator (Industrial Electronic Technology Ltda, Brazil) delivered biphasic, symmetric impulses of 45 Hz, 400  micro seconds pulse duration, 12 seconds on (including 0,8 second rise time and 0,8 second fall time) and 6 seconds off, at intensities able to cause visible contractions. In case of doubt, contraction was confirmed by palpation of the muscles involved. The duration of the session was 55 minutes including 5 minutes for warm up and 5 minutes for recovery. Combined exercise group used both techniques, RE plus EMS at the same time. All patients received respiratory physiotherapy (positioning, mucus clearance techniques) during 30 minutes, twice a day, seven days per week . Interventions were continued until ICU discharge. RE will be applied once daily until ICU discharge.</interventions>
+    <comparator>Usual care group was characterized as a control group, with no exercise interventions, only respiratory physiotherapy.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>duration of mechanical ventilation (discontinuation of mechanical ventilation support with no need of return for mechanical ventilation until intensive care unit discharge)</outcome>
+      <timepoint>at discharge from intensive care unit</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>length of stay in intensive care unit</outcome>
+      <timepoint>the moment when the patient was discharged from intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biomarker analysis</outcome>
+      <timepoint>Participants who consent to participation will also be
+approached for consent to biomarker assessment involving
+blood samples. Venous blood (15 ml) will be collected at each time point and processed to obtain plasma and serum for 
+subsequent analyses. Stored plasma and serum will be
+analysed using ELISA methods for IGF-1, IL-1 beta, IL-6,
+IL-10, IL-18 and TNF-alpha. Biomarker assessment will be performed at baseline, and at ICU discharge (where possible
+the ICU discharge measure will occur 24 h post final
+intervention exercise session).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients consecutively admitted to the multidisciplinary ICU of San Jose Hospital during the study period were considered for inclusion in the study. All patients who had been on mechanical ventilation for less than 72 hours, and were expected to continue for at least 24 hours, were included. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>preexisting neuromuscular disease (e.g. Myasthenia Gravis, Guillain-Barre disease), cardiopulmonary arrest, end-stage malignancy, raised intracranial pressure, or technical obstacles that did not allow the implementation of EMS such as bone fractures or skin lesions</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>We used sequentially numbered, opaque, sealed envelopes to maintain randomization allocation</concealment>
+    <sequence>All patients eligible were randomized to a 55 minutes session of resistance exercise (RE), electrical muscle stimulation (EMS), combined exercise (EMS + RE) or usual care (control group, CG). We used simple randomisation using a randomisation table from a statistic book</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Data were analyzed by an intention to treat approach. Patients who died during the study received scores of 0 for all endpoints. We used the chi-squared test or Fisher Exact test (as appropriate) to compare categorical variables between the four study groups, including the endpoint, and the Wilcoxon-Mann-Whitney two-sample rank-sum test or t tests to compare continuous variables. The differences between groups were analyzed by the one-factor mixed model ANOVA, corrected by change (post  pre) fasting blood glucose and Glasgow score. All significant main effects and interactions were subsequently analyzed using Bonferroni honestly significant difference post hoc test. To compare the effect of the treatment protocol on the duration of mechanical ventilation and changes blood glucose, we used linear regression analysis. Statistical significance was established as P&lt;0.05. For biomarker analyses the sample size calculation is based on prior trials detecting changes in muscle protein synthesis and associated signalling following exercise, (increase in signalling &gt;20% with SD in signalling of 2%).Using a=0.05 and power=0.80 the required sample size is 18 cases. To account for dropouts and mortality we have increased this sample size to 40 cases.   </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/08/2014</anticipatedstartdate>
+    <actualstartdate>1/08/2014</actualstartdate>
+    <anticipatedenddate>31/12/2014</anticipatedenddate>
+    <actualenddate>24/09/2015</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize>40</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>15/10/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Distrito Federal</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Brasilia Brazil</primarysponsorname>
+    <primarysponsoraddress>Centro Metropolitano
+Conjunto A
+Lote 01
+Ceilandia
+Brasilia - DF
+ZIP: 72220-900</primarysponsoraddress>
+    <primarysponsorcountry>Brazil</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Brasilia Brazil</fundingname>
+      <fundingaddress>Centro Metropolitano
+Conjunto A
+Lote 01
+Ceilandia
+Brasilia - DF
+ZIP: 72220-900</fundingaddress>
+      <fundingcountry>Brazil</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Millions of patients are admitted to an intensive care unit (ICU) worldwide each year. Due to medical advances, more patients are surviving critical illness. Critical care survival comes at important costs to patient in terms of impaired physical function and quality of life and to society in terms of ongoing health care utilization and lost productivity, especially those who received prolonged mechanical ventilation. 
+Critical illness polyneuromyopathy (CIPNM) is an acquired neuromuscular disorder observed in survivors of acute critical illness. This syndrome delays weaning from mechanical ventilation, increases the length of stay at the ICU, compromises rehabilitation and may result in a lifelong loss of function and in a reduction in quality of life. 
+Emerging evidence is demonstrating that early rehabilitation may benefit ICU patients. Early mobilization is feasible and well tolerated, decreases both ICU and hospital length of stay and improves functional outcomes at hospital discharge. However, not all patients in the ICU can participate in physical activity because of sedation, impaired cognition, or insufficient physiological reserve. 
+Electrical muscle stimulation (EMS) has been used as an alternative for disabled patients in chronic heart failure and chronic obstructive lung disease. Recent studies have showed that EMS may be well tolerated in ICU patients, preserving muscle mass and improving clinical outcomes.
+To our knowledge, there are no previous studies comparing the effect of combined EMS plus resistance exercise (RE) in ICU patients. We hypothesized that EMS plus RE, as an alternative form of exercise, could improve clinical outcomes of critically ill patients receiving mechanical ventilation. The scope of the present study is to assess the effect of EMS, RE, and EMS plus RE on the duration of mechanical ventilation in critically ill patients hospitalized in a multidisciplinary ICU.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Brasilia Brazil</ethicname>
+      <ethicaddress>Centro Metropolitano Conjunto A Lote 01 Ceilandia
+Brasilia - DF ZIP: 72220-900</ethicaddress>
+      <ethicapprovaldate>15/02/2010</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>15/12/2009</ethicsubmitdate>
+      <ethiccountry>Brazil</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Luciana Vieira</name>
+      <address>Condominio Estancia Quintas da Alvorada quadra 2 conjunto 13 casa 17
+Lago Sul
+Brasilia
+Distrito Federal
+ZIP 71680389</address>
+      <phone>+556181511027</phone>
+      <fax />
+      <email>lutavernard@gmail.com</email>
+      <country>Brazil</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Gerson Cirpiano Jr</name>
+      <address>Centro Metropolitano Conjunto A Lote 01 
+Ceilandia
+ZIP 72220-900</address>
+      <phone>+ 55 61 81907111</phone>
+      <fax />
+      <email>ciprianeft@gmail.com</email>
+      <country>Brazil</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Vinicius Maldaner</name>
+      <address>Centro Metropolitano Conjunto A Lote 01 
+Ceilandia
+ZIP 72220-900</address>
+      <phone>+ 55 61 96522517</phone>
+      <fax />
+      <email>viniciusmaldaner@gmail.com</email>
+      <country>Brazil</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

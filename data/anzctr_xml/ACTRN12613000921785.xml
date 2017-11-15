@@ -1,0 +1,325 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364677">
+  <stage>Registered</stage>
+  <submitdate>14/08/2013</submitdate>
+  <approvaldate>20/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000921785</actrnumber>
+  <trial_identification>
+    <studytitle>The Which Heart failure Intervention is most Cost-effective in reducing Hospital stay (WHICH? II) trial.</studytitle>
+    <scientifictitle>A pragmatic multicentre randomised control trial comparing intensive nurse-led intervention management and standard heart failure care by local heart failure services on reducing the cost of health care in hospitalised patients with chronic heart failure.</scientifictitle>
+    <utrn>U1111-1146-7324 </utrn>
+    <trialacronym>WHICH? II</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Heart Failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Initial profiling of subjects to determine incremental risk of rehospitalisation or death using the Green Amber Red Delineation of Individual risk And Need in Heart Failure (GARDIAN-HF) tool.
+
+Based on subject location (metropolitan or remote dwelling) and GARDIAN-HF profiling, subjects will be exposed to a more intensive, nurse-led management program (including incremental face-to-face visits and structured telephone support), and monitoring of BNP levels using a point of care machine (for those aged younger than 75 years at the date of index hospitalisation) for a minimum of 12 months post index discharge. Active surveillance and management will continue for a minimum of 12 months for major endpoint analyses and then up to 5 years to determine the longer-term effects of the study intervention.
+
+The incremental face-to-face visits include a full physical assessment (i.e. lying and standing blood pressure, pulse, heart sounds, oedema, etc), symptom assessment (i.e. NYHA class, dyspnoea and appetite/evidence of cachexia or malnutrition), and compliance with clinical monitoring and self-management (i.e. daily weighs, fluid intake assessment, and medication adherence), ongoing HF self-management education, assessment of self-care behaviours (i.e. attendance to GP/ Cardiologist, emotional levels, immunisation status and health-related quality of life) and a plan of future care including medication titration and ordering of further tests (i.e. pathology, x-ray), in consultation with the individuals health care team, communication with GP, and/or referral to community services or allied health professionals. 
+
+The structured telephone support includes a range of pre-determined questions including presence of symptoms (shortness of breath, or weight increase), length of symptoms, and maintenance of low sodium diet and fluid restriction. 
+
+The individuals who are randomly allocated into the intensive management arm of the study will receive at least two home visits throughout the initial 12 month follow-up period. All intensive management patients will also receive weekly to monthly structured telephone support by the National Heart Foundation of Australia (NHFA). Those participants who are designated into standard care and live remotely from the hospital (i.e. greater than 30kms from the recruitment site) will receive monthly structured telephone support from the NHFA.
+
+Each home visit will take a minimum of 60 minutes. The initial structured telephone support call will take approximately 20 minutes for the initial call and approximately 8 minutes for each call thereafter. 
+
+Detailed reports of initial profiling and management will be sent to the subject's heath care team (i.e. GP) utilising the GARDIAN-HF tool.</interventions>
+    <comparator>Standard heart failure treatment as provided by the subject's local heart failure service including pre-discharge planning, formal pathways to improve communication within the health care team, optimisation of gold-standard pharmacological therapy (including up-titration of doses to evidence-based levels), application of non-pharmacological strategies  including access to formal/informal exercise programs, monitoring weight and adjusting dietary intake, patient (and caregiver) education, promotion of self-care, and increased surveillance for impending crises. At least one home visit will be performed. </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Total cost of health care (calculated as cost/day per subject). Assessed via linked data from hospital/death records, GP follow-up and participant feedback.</outcome>
+      <timepoint>12 Months post index hospital discharge</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of hospitalisation (all-cause, unplanned, CVD and CHF-specific) both in respect to hospital episodes and associated length of stay. This is measured as events per patient per 100 days. 
+
+Australia-refined Diagnostic Related Groupings (AR-DRGs)  will be used to standardise and categorise each hospital readmission into fixed and variable costs. Fixed costs are those that all surviving patients incur irrespective of their length of stay, whilst variable costs are a per diem (i.e. medical and nursing staff) cost and are dependent on the length of stay. The total costs are the variable costs multiplied by the length of stay plus the fixed cost.  </outcome>
+      <timepoint>12 Months post index hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All-cause mortality. Assessed via linked data from the local death registry.
+</outcome>
+      <timepoint>12 Months post index hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Event-free survival from all-cause death or hospitalisation - measured as both a dichotomous variable (yes or no) and expressed as days alive and out-of-hospital. 
+
+Assessed via linked data from hospital/death records, GP follow-up and participant feedback.</outcome>
+      <timepoint>12 Months post index hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in health-related quality of life from baseline to 12 months:
+
+Generic (AQoL-8D) and; 
+Heart failure specific (Kansas City Cardiomyopathy Questionnaire) </outcome>
+      <timepoint>12 Months post index hospital discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pattern of gold-standard therapy (including prescribed doses of angiotensin converting enzyme [ACE] inhibitors and beta blockers) relative to expert guidelines for the management of chronic heart failure. 
+
+Assessed during the clinic visit at the 12 month time-point via medical records, GP records, and patient review.</outcome>
+      <timepoint>12 Months post index hospital discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Prolonged follow-up of event-free survival from all-cause death or hospitalisation - measured as both a dichotomous variable (yes or no) and expressed as days alive and out-of-hospital.
+
+Assessed via linked data from hospital/death records, GP follow-up and participant feedback.</outcome>
+      <timepoint>5 Years post index hospital discharge.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Individuals discharged to home following an admission to a participating hospital will be eligible for study randomisation if they: 1) have a diagnosis of chronic heart failure and 2) a history of 1 or more admissions to hospital with acute HF (including the index hospitalisation). </inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be excluded if they have a terminal condition, are non-English speaking and unable to give fully informed consent (in the absence of an interpreter) and/or unable to give fully informed consent for another reason.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All patients with a cardiac diagnosis admitted to four hospitals in SA (The Queen Elizabeth Hospital, Adelaide), NSW (St Vincent's Hospital and Prince of Wales Hospital, Sydney) and VIC (The Western Hospital, Melbourne) will be screened for study eligibility. 
+
+Dedicated recruitment staff will monitor hospital cardiac units for patients who fit the eligibility criteria. Once a patient consents, the recruiters will call the data management department at the Mary MacKillop Institute for Health Research, Australian Catholic University on a toll-free 1800-number to complete randomisation. The recruiter will be asked for the patients initials, metropolitan versus rural living status, and type of HF (preserved versus impaired systolic function) for stratification of participants. 
+
+Once this data has been entered into the Mary MacKillop Institute for Health Research system, a unique ID code will be generated with the participant's randomised group. </concealment>
+    <sequence>Random, computer generated sequence with block randomisation for each participating hospital. 
+
+Randomisation will be stratified according to 2 criteria:
+
+1) Presence/absence of impaired versus preserved left ventricular ejection fraction (systolic function).
+
+2) Participant location of residence in metropolitan areas -defined by each centre’s pre-defined catchment area for face-to-face management (default less than 30km and/or 45 minutes travel time to patients’ home) or beyond. 
+
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Complies with CONSORT guidelines for a pragmatic, randomised trial of a health service intervention.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>All baseline and outcome data will be analysed on an intention-to-treat basis. 
+
+Continuous data will be presented as a mean +/- standard deviation or median plus interquartile range. Categorical data will be presented as a percentage. Univariate comparisons of baseline data will involve Chi square analyses (with calculation of odds ratios and 95% CIs for categorical data), Mann Whitney U test for non-normally distributed continuous data (including the rate of health care costs and hospital stay) and Students t-test for normally distributed continuous data. 
+
+All-cause mortality and event-free survival data will be initially analysed using Life Tables and Kaplan Meier survival curves. Days alive out-of- hospital will be calculated as days of survival (of maximal days of survival) free from all-cause hospitalization. 
+
+Cox proportional hazards models (including demographic and clinical data) will examine the independent impact of group allocation on event-free survival and all-cause mortality. If study outcomes are highly skewed Poisson Regression Analyses will be undertaken by the study statistician.
+
+Detailed health economic analyses will be derived and informed from initial analyses of primary and secondary endpoint data.
+
+Initial study power estimates:
+
+Based on data from the original WHICH? Trial data and 1:1 randomization this study will have greater than 85% power (two-sided alpha of 0.05), a total of 400 patients in each group (800 in total) to detect a minimum 15% absolute difference in the primary endpoint - total health care costs (expected rate of $90 +/- 100 per day/patient in the standard management group) within 12 months of follow-up (a shorter follow-up than was originally planned). On the same basis, we will have sufficient power to detect a 15% absolute difference in total hospital stay (expected rate of 1.74 +/- 3.1 days per patient). </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>19/08/2013</anticipatedstartdate>
+    <actualstartdate>2/09/2013</actualstartdate>
+    <anticipatedenddate>1/01/2016</anticipatedenddate>
+    <actualenddate>31/01/2016</actualenddate>
+    <samplesize>800</samplesize>
+    <actualsamplesize>787</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>3/02/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,SA,VIC</recruitmentstate>
+    <hospital>St Vincent's Hospital (Darlinghurst) - Darlinghurst</hospital>
+    <hospital>Western Hospital - Footscray</hospital>
+    <hospital>The Queen Elizabeth Hospital - Woodville</hospital>
+    <hospital>Prince of Wales Hospital - Randwick</hospital>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>3011 - Footscray</postcode>
+    <postcode>5011 - Woodville</postcode>
+    <postcode>2031 - Randwick</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Professor Simon Stewart</primarysponsorname>
+    <primarysponsoraddress>Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne 
+VIC 3000 </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council 
+(Project grant 1049133)</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Associate Professor Melinda Carrington </sponsorname>
+      <sponsoraddress>Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne 
+VIC 3000 </sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Chronic heart failure is one of the leading causes of death and disability within our ageing population.
+
+Chronic heart failure management programs now form part of the gold-standard care for patients hospitalised with the syndrome to prevent costly recurrent readmissions and prolong survival. However, there is still a need to apply these cost-effectively - particularly in respect to meeting the needs of high risk individuals and those living remotely to a heart failure service. 
+
+Following on from the original WHICH? Trial we are now testing two different ways of applying chronic heart failure management to determine which is most cost-effective in reducing recurrent hospital stay.
+
+Specifically, we are testing a more intensive program of care, based on each persons needs and where they live, with a standard program of care and support. We will compare the impact of standard care in the community (Group 1) with more intensive care in the community (Group 2).
+
+Health outcomes will be compared at 12 months with plans for more prolonged follow-up to 5 years post index hospital discharge.</summary>
+    <trialwebsite>http://www.cre2rihd.org.au/which_ii_trial.html</trialwebsite>
+    <publication>PUBLICATIONS:
+Stewart S, Carrington MJ, Marwick TH, Davidson PM, Macdonald P, Horowitz JD, Krum H, Newton PJ, Reid C, Chan YK, Scuffham PA. Impact of Home Versus Clinic-Based Management of Chronic Heart Failure: The WHICH? (Which Heart Failure Intervention Is Most Cost-Effective &amp; Consumer Friendly in Reducing Hospital Care) Multicenter, Randomized Trial. J Am Coll Cardiol. 2012;60(14):1239-1248. 
+
+Whitty JA, Carrington MJ, Stewart S, Holliday J, Marwick TH, Scuffham PA. Patient Preferences for the Delivery of Disease Management in Chronic Heart Failure: A Qualitative Study. J Cardiovasc Nurs. 2012;27(3):201-207.
+
+Maru S, Byrnes J, Carrington MJ, Chan YK, Thompson DR, Stewart S, Scuffham PA, Which Trial Investigators. Cost-effectiveness of home versus clinic-based management of chronic heart failure: Extended follow-up of a pragmatic, multicentre randomized trial cohort - The WHICH? study (Which Heart Failure Intervention Is Most Cost-Effective &amp; Consumer Friendly in Reducing Hospital Care). Int J Cardiol 2015;201:368-375.
+
+Stewart S, Wiley J, Ball J, Chan YK, Ahamed Y, Thompson DR, Carrington MJ. Impact of nurse-led, multidisciplinary home-based intervention on event-free survival across the spectrum of chronic heart disease: Composite analysis of health outcomes in 1226 patients from 3 randomized trials. Circulation 2016;133:1867-1877.
+
+CONFERENCE PRESENTATIONS:
+European Society of Cardiology Congress Heart Failure Meeting, Florence, May 2016
+
+Stewart S, Ball J. The Which Intervention is most Cost-effective in reducing Hospital stay (WHICH?) II Trial. Accepted for Basic and Translational Science Hot Line session.
+
+Emanuele NA, Carrington MJ, Ahamed Y, Stewart S on behalf of the Which Heart failure Intervention is most Cost-effective in reducing Hospital stay (WHICH? II) Trial Investigators. Utility and potential impact of a structured telephone support tool to facilitate a seamless program of composite nurse-led, face-to-face and structured telephone support management for chronic heart failure. Accepted for oral presentation within the Nursing Investigator Award session.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee (TQEH/LMH/MH)</ethicname>
+      <ethicaddress>The Queen Elizabeth Hospital
+28 Woodville Road
+Woodville South
+SA 5011 
+</ethicaddress>
+      <ethicapprovaldate>20/06/2013</ethicapprovaldate>
+      <hrec>HREC/13/TQEHLMH/99</hrec>
+      <ethicsubmitdate>21/05/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office for Research
+6 East, Central Building
+The Royal Melbourne Hospital
+300 Grattan Street
+PARKVILLE  VIC  3050
+</ethicaddress>
+      <ethicapprovaldate>29/07/2013</ethicapprovaldate>
+      <hrec>2013.145</hrec>
+      <ethicsubmitdate>12/06/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>St Vincent's Hospital Research Ethics Committee</ethicname>
+      <ethicaddress>Research Office
+Level 6, de Lacy Building
+St Vincent's Hospital
+390 Victoria Street
+Darlinghurst
+Sydney NSW 2010</ethicaddress>
+      <ethicapprovaldate>12/11/2013</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney Local Health District</ethicname>
+      <ethicaddress>Room G71, East Wing
+Edmund Blacket Building
+Prince of Wales Hospital
+RANDWICK NSW 2031</ethicaddress>
+      <ethicapprovaldate>8/04/2014</ethicapprovaldate>
+      <hrec>14/G/076</hrec>
+      <ethicsubmitdate>17/02/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Simon Stewart</name>
+      <address>The Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne VIC 3000</address>
+      <phone>+61 3 99533677 </phone>
+      <fax />
+      <email>simon.stewart@acu.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Simon Stewart</name>
+      <address>The Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne VIC 3000</address>
+      <phone>+61 3 99533677 </phone>
+      <fax />
+      <email>MacKillopInstitute.WHICH2@acu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Simon Stewart</name>
+      <address>The Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne VIC 3000</address>
+      <phone>+61 3 99533677 </phone>
+      <fax />
+      <email>Simon.Stewart@acu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Simon Stewart</name>
+      <address>The Mary MacKillop Institute for Health Research
+Australian Catholic University 
+Level 5, 215 Spring Street
+Melbourne VIC 3000</address>
+      <phone>+61 3 9953 3677</phone>
+      <fax>+61 3 9663 5726   </fax>
+      <email>Simon.Stewart@acu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

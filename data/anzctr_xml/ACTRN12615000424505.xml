@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368003">
+  <stage>Registered</stage>
+  <submitdate>17/04/2015</submitdate>
+  <approvaldate>5/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000424505</actrnumber>
+  <trial_identification>
+    <studytitle>Dynamic Balance measures using a Kinect Camera; a validation study</studytitle>
+    <scientifictitle>Comparing functional reach and sit to stand  test using traditional and technological data collection methods in healthy adults</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Dynamic postural balance control</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Studies of the normal brain and nervous system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Normal musculoskeletal and cartilage development and function</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will be requested to perform the functional reach test 3 times with each arm (arm parallel to the floor)  in front of a Kinect camera in standing.  A wash out period of 5 minutes between trials will be used to ensure no fatigue.
+
+Participants will then be requested to stand from a sitting position as many times as they can in 30 seconds, with the number of repetitions counted by the camera software.</interventions>
+    <comparator>Participants will be requested to perform the functional reach test 3 times with each (arm parallel to the floor) while standing next to a tape measure in standing.
+
+Participants will then be requested to stand from a sitting position as many times as they can in 30 seconds, with the number of repetitions counted by the researcher with a stop watch..</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Range of motion excursion of the hand will be measured (in centremetres)</outcome>
+      <timepoint>Baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Reliability of the new technology will aslo be measured using ICC and 95% confidence intervals in STATA program</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Functional balance as measured by sit-to-stand in 30 seconds</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Healthy  adults recruited from university staff and student population</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Inability to stand unaided for 5 minutes.
+Less than 90 degrees motion at each shoulder joint
+Lower limb amputation
+Current or past neurological condition</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will draw a coloured chip from a hat (eyes closed) and select either a blue or red chip. Participants who draw a red chip will complete the traditional measure with a tape measure data collection method first; participants who draw a blue chip will complete the kinect camera based data collection first</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Bio-equivalence</endpoint>
+    <statisticalmethods>Bland altman plots will be generated from the mean data to determine limits of agreement for the two methods of data collection (manual and electronic). As well, co-efficient of variation will be generated for the novel data collection tool - the Kinect camera. Sample size is based on previous research examining normative data for functional reach (13.8±2.2 inches) with a clinically relevant difference of 10% (1.3 inches) and a  reported a power of 80% indicates a sample of 23 people is required.  </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>30/05/2015</anticipatedstartdate>
+    <actualstartdate>28/05/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>23</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>TAS</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Tasmania</primarysponsorname>
+    <primarysponsoraddress>Locked Bag1322
+Launceston
+TAS 7250</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The Faculty of Health
+University of Tasmania</fundingname>
+      <fundingaddress>Locked Bag1322
+Launceston
+TAS 7250</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Data collection using new technology has the capacity to improve the efficiency of data collection and reduce transcription errors in large data sets.  As well, it has potential clinical relevance for management of client assessment and re-assessments.
+Functional reach is a validated measure of dynamic balance  that is used for measuring limits of stability in response to a self-generated perturbation. It is widely used for a variety of clinical populations and compares well with other balance measures for clinical utility. Traditionally values are measured by a clinician reading values from a tape measure or ruler adjacent to the client.  New motion capture software and cameras has the capacity to improve efficiency in both research and clinical contexts by accurately measuring, recording and storing information.  As well, costs for this commercially available technology have reduced dramatically in recent times, making it cost-effective for a wide range of practical applications. The Kinect camera has been validated for range of motion, and several functional tasks like Timed Up and Go, however, to date no validation studies have been done using the Kinect for windows to compare its accuracy and clinical utility in a dynamic balance task.  Recent advances in camera technology (last 5 months) have increased the sensitivity of motion capture and allowed us to test it in this way.  Previously published validation studies using this technology are typically small 
+Potential advantages include:
+*Reduced time for data collection
+*Improved storage of data 
+*Reduced data collection time
+*Easy ability to securely gain and store data
+The aim of this project is to determine if the new camera technology is 
+*accurate and 
+* reliable</summary>
+    <trialwebsite>nil</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Tasmanian Health and Medical Research Ethics committee</ethicname>
+      <ethicaddress>Locked Bag 1
+Hobart
+TAS 7000</ethicaddress>
+      <ethicapprovaldate>16/04/2015</ethicapprovaldate>
+      <hrec>H0014764</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+The University of Tasmania
+Locked Bag 1322
+Launceston TAS 7250</address>
+      <phone>+61 3 63425497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+The University of Tasmania
+Locked Bag 1322
+Launceston TAS 7250</address>
+      <phone>+61 3 63425497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+The University of Tasmania
+Locked Bag 1322
+Launceston TAS 7250</address>
+      <phone>+61 3 63425497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+The University of Tasmania
+Locked Bag 1322
+Launceston TAS 7250</address>
+      <phone>+61 3 63425497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

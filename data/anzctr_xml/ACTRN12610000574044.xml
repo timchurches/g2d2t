@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335717">
+  <stage>Registered</stage>
+  <submitdate>14/07/2010</submitdate>
+  <approvaldate>16/07/2010</approvaldate>
+  <actrnumber>ACTRN12610000574044</actrnumber>
+  <trial_identification>
+    <studytitle>Proof-of-Concept Study of Insulin Glargine as Basal Insulin Support for Recovering Critically Ill Patients</studytitle>
+    <scientifictitle>Proof-of-Concept Study of Insulin Glargine as Basal Insulin Support for patients with stress diabetes in the Intensive Care and the High Dependency Units and Validation of an Insulin Glargine Pharmacokinetics Model</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>stress diabetes in critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Recovering critically ill patients who meets the study inclusion criteria will be given insulin glargine once a day. The dose will be determined by a titration algorithm. Blood samples will be taken for assays of plasma insulin and C-peptide 3 times a day for the first two days a patient is receiving glargine. The samples will be taken before glargine injection, 6 hours from time of injection, and 14 hours from time of injection. The patient will continue to receive glargine for blood glucose control unless the dose become less than 10U. When the patient begins to consume meals (as oppose to naso-gastric feed), blood samples will be taken 8 times a day for the first two days. These samples will be taken before glargine injection and breakfast, before lunch, before dinner, 30 mins from start of dinner, 1 hr from start of dinner, 1.5 hrs from start of dinner, 2 hrs from start of dinner, and 4 hrs from start of dinner. Photos will be taken of the meal before and after mealtime to determine nutrition intake.</interventions>
+    <comparator>standard intensive care blood glucose control protocol without the use of glargine</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Goodness of blood glucose control - median and range of blood glucose levels</outcome>
+      <timepoint>at termination of study</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>amount of total insulin administered</outcome>
+      <timepoint>at termination of study</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>nursing effort as assessed by blood glucose measurement frequency plus insulin dosing adjustment frequency</outcome>
+      <timepoint>at termination of study</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Glargine pharmacokinetics mathematical model validation assessed by data fitting accuracy</outcome>
+      <timepoint>at termination of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mathematical meal model validation assessed by data fitting accuracy</outcome>
+      <timepoint>at termination of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mathematical endogenous insulin production model validation assessed by data fitting accuracy</outcome>
+      <timepoint>at termination of study</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Stable hourly insulin requirement, equal to or less than 3U of intravenous insulin per hour, for at least 12 hours.
+- Stable naso-gastric feed rate, equal to or greater than 60% of the calculated goal feed. (Goal feed is calculated using individual patients age, gender and frame size.)
+- No acute renal failure (creatinine &lt; 250 micromol/L)
+- Less than 1000ml of fluid given as intravenous boluses in the past 24 hours, indicating stable interstitial volume.
+- Resolving multiple organ failure (Sequential Organ Failure Assessment Score SOFA&lt;=6).</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>insulin dependent diabetes, absence of an arterial line, not expected to survive for more than 3 days at the time of screening</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>sealed envelopes</concealment>
+    <sequence>permuted block randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacokinetics / pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>23/08/2010</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Canterbury District Health Board/Christchurch Hospital</primarysponsorname>
+    <primarysponsoraddress>Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Canterbury Medical Research Foundation</fundingname>
+      <fundingaddress>24 St Asaph Street
+Christchurch 8011</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Canterbury</sponsorname>
+      <sponsoraddress>Private Bag 4800
+Christchurch 8140</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Otago Christchurch</sponsorname>
+      <sponsoraddress>2 Riccarton Avenue
+PO Box 4345
+Christchurch 8140</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Intravenous insulin is commonly used to maintain normoglycaemic in the Christchurch Hospital Intensive Care Unit (ICU). The current standard protocol, SPRINT, uses intravenous insulin injections every 1-2 hours and controls the blood glucose levels very effectively. However, once patients leave the ICU, the standard protocols in the general wards are to use subcutaneous insulin, often due to the lack of intravenous lines and nursing resource. Currently, the guidelines for switching patients from intravenous to subcutaneous insulin are unclear, resulting in inconsistent levels of care. Therefore ward patients do not continue to benefit from tight blood glucose control.
+
+There is a need for a system, which can maintain good blood glucose control outside of ICU that can follow patients from ICU to less acute wards, while keeping nursing effort to a minimum. This study will first validate the Glargine pharmacokinetics model developed by the investigators group and test the effectiveness of Glargine as basal insulin support in the ICU populations. These steps are necessary before expending glycaemic control to less acute wards.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Upper South Regional Ethics Committee</ethicname>
+      <ethicaddress>C/- Ministry of Health
+4th floor 
+250 Oxford Terrace 
+PO Box 3877
+Christchurch 8011</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>19/07/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Prof. J Geoffrey Chase</name>
+      <address>Department of Mechanical Engineering
+University of Canterbury
+Private Bag 4800
+Christchurch 8140</address>
+      <phone>+64 3 3642987 x7224</phone>
+      <fax />
+      <email>geoff.chase@canterbury.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Geoffrey M Shaw</name>
+      <address>Intensive Care Unit
+Christchurch Hospital
+Riccarton Avenue
+Private Bag 4710
+Christchurch 8140</address>
+      <phone>+64 3 3640640 x88581</phone>
+      <fax />
+      <email>geoff.shaw@cdhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr. Jessica Lin</name>
+      <address>Department of Medicine
+University of Otago Christchurch
+2 Riccarton Avenue
+PO Box 4345
+Christchurch 8140</address>
+      <phone />
+      <fax />
+      <email>jessica.lin@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

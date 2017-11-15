@@ -1,0 +1,247 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364913">
+  <stage>Registered</stage>
+  <submitdate>9/09/2013</submitdate>
+  <approvaldate>10/09/2013</approvaldate>
+  <actrnumber>ACTRN12613001006730</actrnumber>
+  <trial_identification>
+    <studytitle>Optimising positive end expiratory pressure (PEEP) in mechanically ventilated patients with acute respiratory distress syndrome (ARDS)</studytitle>
+    <scientifictitle>The investigation of model based methods to provide an optimal level of positive end expiratory pressure (PEEP) to mechanically ventilated patients with acute respiratory distress syndrome (ARDS)</scientifictitle>
+    <utrn>U111111429939</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Respiratory Distress Syndrome (ARDS)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The planned interventions will test the response of patient lung when it is ventilated at different positive end expiratory pressure (PEEP) to determine the best PEEP settings specific to each patient at a particular time. 
+
+The best PEEP is found to occur during minimal elastance. Minimal elastance PEEP is able to maximise lung recruitment and avoid overdistension. It is important ventilation is optimised as soon as possible when the patient is admitted to the ICU. Delayed proxy consent will be sought for these reasons. 
+
+The intervention tests a mathematical model (Time-varying elastance model) to better inform intensive care clinicians about the lung condition, and select a PEEP at minimal elastance during a PEEP titration protocol. Patients whose PEEP selected by the mathematical model, implemented by the clinician, will be compared with the outcomes of patients who have had their PEEP determined solely by clinical judgement.
+
+Details of PEEP titration protocol
+1. A staircase recruitment manoeuvre (RM) is performed (C.L. Hodgson et al., 2011).  During RM, PEEP is increased in steps of 5cmH2O from a base level of 5cmH2O PEEP.
+2. PEEP is increased until peak airway pressure (PIP) reaches a limit of 55cmH2O (or lower, if clinician feels this is too high for the patient)
+3. Each PEEP is maintained for 10-15 breathing cycles before a subsequent increase.
+4. Elastance is calculated at each PEEP 
+5. The minimum elastance PEEP is determined
+6. This PEEP is recommended to the attending clinician
+7. If the clinician feels this PEEP is appropriate, they will re-perform steps 1 and 2. The purpose of this increase is to re-recruit the lung after decremented portion of RM. On the decremented portion of the RM, the clinician will end the PEEP decrease on the recommended PEEP.                                                                     
+8. Otherwise the clinician will set the PEEP to a PEEP they feel is more appropriate.  If the clinician chooses to ignore the model suggestion, this will be recorded. Further the data from the patient will still be recorded.
+
+Every 3 hours or when the patient is turned in the bed the following adjustments are to be made:
+
+1. PEEP is increased in 3 steps of 2cmH2O with 10~15 breathing cycles at each step.
+2. If the Elastance shows an increase at each and every step, then revert back to the original PEEP setting minus 1cmH2O.
+3. If the Elastance shows a decrease at each and every step, then set to the final PEEP setting (a total of 6cmH2O increase in PEEP).
+4. If the Elastance decreases at the first step and then increases at any subsequent step, then set to the PEEP that yielded the minimum Elastance value during the adjustment procedure.
+5. If the Elastance increases at the first step and then decreases at any subsequent step, then leave PEEP at original setting. This instance is cause for the clinician to consider a full recruitment manoeuvre.  
+
+The study will run for at least 48 hours, and until there has been significant resolution of their lung condition. Following each intervention, clinical staff in the ICU will be given the option of following the recommended settings as determined by the mathematical model.
+
+Data regarding clinician compliance with the protocol, the number of low oxygen recordings (using standard pulse oximetry monitoring), length of mechanical ventilation and ICU stay, total oxygen dose and ICU mortality will be collected and compared with a matched cohort.
+</interventions>
+    <comparator>The comparator cohort for this study includes patients that are not enrolled for the actual trial. Their treatment will not be in any way affected of altered as a result of this trial. They will receive normal care from ICU professionals as per usual hospital routine. These data were obtained in previous observational trial (Feb 2010 to Dec 2011) ACTRN12611001179921. </comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of desaturation events (measured by continuous pulse oximetry, where SpO2 is less than 88%)</outcome>
+      <timepoint>The occurance of desaturation events of a patient is recorded throughout the trial or for at least 48 hours. </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Length of mechanical ventilation</outcome>
+      <timepoint>The length of MV is recorded as the duration from start of the trial until the discontinuation of mechanical ventilation. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>PEEP selection based on minimal elastance has been suggested in some clinical and experimental trials [1-3]. However, there is yet confirmation of the PEEP selected at this elastance is optimal. The primary outcome the study will further verify and validate the benefit of minimal elastance selected PEEP during mechanical ventilation. 
+
+1. Carvalho, A., et al. (2007). "Positive end-expiratory pressure at minimal respiratory elastance represents the best compromise between mechanical stress and lung aeration in oleic acid induced lung injury." Critical Care 11(4): R86.
+2. Lambermont, B., et al. (2008). "Comparison of functional residual capacity and static compliance of the respiratory system during a positive end-expiratory pressure (PEEP) ramp procedure in an experimental model of acute respiratory distress syndrome." Critical Care 12(4): R91.
+3. Chiew, Y. S., et al. (2011). "Model-based PEEP Optimisation in Mechanical Ventilation." BioMedical Engineering OnLine 10(1): 111. 
+</outcome>
+      <timepoint>The assessment is conducted after completion of the clinical trials.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The study also aims to give clinicians the confidence to allow clinical staff to adjust PEEP levels, which may enable the clinicians more time to look at other aspects of the patients health and improve the standard of care in the intensive care unit.
+
+This assessment will be conducted by using qualitative questionaires and feedback of clinical staffs that were involde during the trial</outcome>
+      <timepoint>The assessment is conducted after completion of the clinical trials.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patient on mechanical ventilation.
+2. Patients diagnosed with all degrees of ARDS (PF ratio &lt;300) as per the Berlin Definition (2012) (The ARDS Definition Task Force, A. 2012), by intensive care clinicians.
+3. Arterial line in situ.
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Patients who are likely to be discontinued from MV within 24 hours.
+2. Patients aged less than 16.
+4. Patients who are moribund and/or not expected to survive for more than 72 hours.
+5. Patients whose care could be compromised if given increased sedation and/or muscle relaxants for the purpose of assessing lung recruitment.   
+6. Lack of clinical equipoise by ICU medical staff managing the patient.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Mechanically ventilated patients are unable to communicate due to their requirements for analgesia (opioids, such as morphine) and sedation (hypnotic drugs, such as diazepam or “valium”). They also frequently have metabolic or septic encephalopathies, or brain injury. Thus, virtually no patient will ever be competent to provide informed consent or desire to participate. Patients on MV who meet the inclusion criteria will be enrolled in the trial, once proper consents are obtained form family or whanau.</concealment>
+    <sequence>No randomising will occur in this trial.</sequence>
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/09/2013</anticipatedstartdate>
+    <actualstartdate>9/09/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>19/11/2014</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>13</actualsamplesize>
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>19/11/2014</actuallastvisitdate>
+    <dataanalysis>Data collected is being analysed</dataanalysis>
+    <withdrawnreason>Lack of funding/staff/facilities,Other reasons/comments</withdrawnreason>
+    <withdrawnreasonother>The trial has collected sufficient data for analysis and testing. The clinical protocol requires additional changes.</withdrawnreasonother>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Canterbury District Health Board</primarysponsorname>
+    <primarysponsoraddress>Level 2
+H Block
+The Princess Margaret Hospital
+Cashmere Road
+Cashmere
+PO Box 1600
+Christchurch 8140</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Canterbury</sponsorname>
+      <sponsoraddress> Private Bag 4800
+Christchurch 8140</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Intensive care clinicians use Mechanical Ventilation on a daily basis in the ICU to treat patients with injured lungs. An important setting on the ventilator machines is known as positive end expiratory pressure or PEEP. This controls the pressure in the lung at the end of the breath, and its accuracy is critical in the successful treatment of injured lungs. 
+
+Currently, doctors have no standard way of selecting the PEEP for each patient, and use their clinical intuition, or their gut-feeling. Different patients have different lungs and as such, selecting PEEP this way might lead to an incorrect PEEP setting for that patient. This might cause the patient to require longer stays in the ICU and/or or further lung injury. 
+
+This study aims to evaluate a computer based method of PEEP selection and is based on prior research conducted here in the Christchurch ICU. Because this method of PEEP selection is specific to each patient, it is anticipated ventilation better matched to their lungs. This could lead to healthier lungs and as a result, require the patient to spend less time in the ICU. 
+
+</summary>
+    <trialwebsite />
+    <publication>1..	Kannangara DO, Newberry F, Howe S, Major V, Redmond D, Szlavecz A, Chiew YS, Pretty C, Benyo B, Shaw GM, Chase JG, Estimating the True Respiratory Mechanics during Asynchronous Pressure Controlled Ventilation, Biomedical Signal Processing and Control, 30: 70-78, 2016.
+2.	Damanhuri NS, Chiew YS, Othman NA, Docherty PD, Pretty C, Shaw, GM, Desaive T, Chase JG, Assessing Respiratory Mechanics Using Pressure Reconstruction Method in Mechanically Ventilated Spontaneous Breathing Patient, Computer Methods and Programs in Biomedicine, 2016, Vol 130, pp. 175-185
+4..	Major V, Corbett S, Redmond R, Beatson A, Glassenbury D, Chiew YS, Pretty C, Desaive T, Szlavecz A, Benyo B, Shaw GM, and Chase JG, Respiratory mechanics assessment for reverse-triggered breathing cycles using pressure reconstruction. Biomedical Signal Processing and Control 2016, 23:1-9.
+5.	Szlavecz A, Chiew YS, Redmond D, A Beatson A, Glassenbury D, Corbett S, Major V, Pretty C, Shaw GM, Benyo B, Desaive T, Chase JG, The Clinical Utilisation of Respiratory Elastance Software (CURE Soft): a bedside software for real-time respiratory mechanics monitoring and mechanical ventilation management. BioMedical Engineering OnLine 2014, 13:140.
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Comittee (Southern)</ethicname>
+      <ethicaddress>Health and Disability Ethics Committees
+1 the Terrace
+PO Box 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>8/06/2013</ethicapprovaldate>
+      <hrec>13/STH/84</hrec>
+      <ethicsubmitdate>10/05/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Geoffery Shaw</name>
+      <address>Department of Intensive Care
+Christchurch Hospital
+Private Bag 4710
+Christchurch 8140</address>
+      <phone>+643364 1077</phone>
+      <fax />
+      <email>geoff.shaw@cdhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Geoffery Shaw</name>
+      <address>Department of Intensive Care
+Christchurch Hospital
+Private Bag 4710
+Christchurch 8140</address>
+      <phone>+643364 1077</phone>
+      <fax />
+      <email>geoff.shaw@cdhb.health.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>J Geoffrey Chase</name>
+      <address>University of Canterbury Department of Mechanical Engineering Private Bag 4800 Christchurch 8140</address>
+      <phone>+6421342743</phone>
+      <fax />
+      <email>geoff.chase@canterbury.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Chiew Yeong Shiong</name>
+      <address>Ilam Apartments 
+Homestead Lane 
+Private Bag 6362 
+Christchurch 8442</address>
+      <phone>+64226813166</phone>
+      <fax />
+      <email>ahchiew@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

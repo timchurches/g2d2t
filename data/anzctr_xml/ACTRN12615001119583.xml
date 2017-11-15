@@ -1,0 +1,235 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369350">
+  <stage>Registered</stage>
+  <submitdate>18/09/2015</submitdate>
+  <approvaldate>23/10/2015</approvaldate>
+  <actrnumber>ACTRN12615001119583p</actrnumber>
+  <trial_identification>
+    <studytitle>Target Temperature Management for Traumatic Brain Injury:
+A Feasibility Study of Pyrexia Control  
+</studytitle>
+    <scientifictitle>A feasibility study on the effect of target temperature management on patient temperature in traumatic brain injury patients.</scientifictitle>
+    <utrn />
+    <trialacronym>TTM-TBI-Feasibility</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>traumatic brain injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1.	If a patient has an initial temperature below 36.0 degrees celsius, the patient will be managed according to the preference of the treating clinician until temperature reaches 36.0 degrees celsius. 
+2.	The intervention will be initiated when temperature reaches 36.0 degrees celsius
+3.	The aim is to control temperature to 36.0 degrees celsius, with the intention of avoiding any core temperature greater than or equal to 37.0 degrees celsius.
+4.	The minimum duration is 72 hours following randomisation or when mechanical ventilation is ceased, whichever occurs first. 
+5.	The intervention may be maintained for as long as is clinically indicated at the discretion of the treating clinician. 
+6.  The choice of intervention (physical cooling device) is at the discretion of the treating clinician.  
+7.  Adherence will be monitored by recording hourly core temperature and use of physical cooling.</interventions>
+    <comparator>Standard care: no specific guidelines will be provided on temperature management and treatment of pyrexia will occur according to clinical discretion.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean temperature difference between the intervention and standard care groups.
+
+All patients will have temperature monitored hourly using intravesical temperature (bladder catheter). In oliguric patients (defined as urine output &lt; 0.3mls/kg/hr for greater than 4 hours) or patients with an open abdomen, core temperature will be measured with intravascular, oesophageal, nasopharyngeal or rectal temperature measurement.</outcome>
+      <timepoint>Hourly intravesical (bladder) temperature during the first 72 hours after randomisation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>For patients that are receiving intracranial pressure monitoring as part of their standard clinical care, we will calculate mean intracranial pressure difference between the intervention and standard care groups.
+
+Intracranial pressure will be monitored in this study with an intraparenchymal catheter or an external ventricular drain.   </outcome>
+      <timepoint>In patients with a clinical indication for intracranial pressure monitoring, Intracranial pressure will be monitored hourly during the first 72 hours after randomisation or the end of mechanical ventilation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of mechanical ventilation.
+
+This will be determined by review of the hospital medical record.</outcome>
+      <timepoint>From randomisation to removal of the endotracheal tube and absence of re-intubation or non invasive ventilation for 24 hours after removal (survivors and non-survivors will be reported separately).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Age greater than or equal to 16
+2.	Blunt trauma with clinical diagnosis of TBI defined as: 
+a.	Blunt head trauma
+b.	Glasgow Coma Scale (GCS) score less than or equal to 13 (prior to sedation) 
+c.	Computed tomographic (CT) scan of the head consistent with traumatic brain injury
+3.	Invasive mechanical ventilation and predicted need for invasive mechanical ventilation beyond the next calendar day.
+4.	Screening and randomisation within 24 hours of injury
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	The treating physician intends to control temperature and/or induce hypothermia as part of the management plan
+2.	The treating clinician deems participation is not in the patients best interests
+3.	Drug or alcohol intoxication is likely to be the predominant cause of coma
+4.	Cardiac arrest at scene of injury
+5.	Spinal cord injury with confirmed neurological deficit
+6.	Pregnancy 
+7.	Disability prior to injury, defined by a score of 4 or less as assessed by the extended Glasgow Outcome Score
+8.	Death is deemed to be imminent/inevitable or a treatment limitation order is in place
+9.	The patient has an underlying process or comorbidity making 180-day survival unlikely
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients with an admission diagnosis that includes TBI that are admitted to the participating ICU are eligible for screening and evaluation for enrolment into the study.  All screened patients will be entered into the screening log whether or not the patient is randomised into the study.
+
+The study will include all patients admitted to a participating intensive care unit who fulfill all the inclusion criteria and for whom none of the exclusion criteria exist.
+</concealment>
+    <sequence>Computer generated randomisation codes will be used, with stratification by study site and permuted blocks. Allocation concealment will be maintained by the use of sequentially numbered opaque envelopes. </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The main analyses will be conducted on an intention to treat basis using standard statistical approaches for categorical and continuous data. The difference in the 72-hour temperature curves in patients randomised to the intervention group compared to the control group will be analysed using a repeated-measure linear model with generalised estimating equations to model within-patient correlations. The model will include fixed effects of treatment and time as well as baseline temperature as covariate. The primary analysis will include all available data without imputation. 
+
+A statistical analysis plan will be agreed upon prior to entry of data into the electronic database and prior to any analyses being conducted.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/02/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/02/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW,QLD</recruitmentstate>
+    <hospital>St George Hospital - Kogarah</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Royal North Shore Hospital - St Leonards</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>The George Institute for Global Health</primarysponsorname>
+    <primarysponsoraddress>The Division of Critical Care and Trauma
+The George Institute for Global Health 
+Level 13, 321 Kent St, Sydney, NSW 2000, Australia 
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Intensive Care Foundation (Application in progress)</fundingname>
+      <fundingaddress>Level 2, 10 Ievers Terrace
+Carlton, Victoria 3053, Australia 
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>St. George Hospital Clinical School</sponsorname>
+      <sponsoraddress>	Pitney Building, 2 Chapel St, Kogarah NSW 2217</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Injuries to the brain that occur after an accident, such as a car crash or after a fall, can be serious and have lasting negative consequences. Estimates suggest that at least 10 million people globally are affected by this type of brain injury every year, known as traumatic brain injury. Those that survive are often left with significant physical and or mental disabilities that are challenging to manage for the patients, their families and the health care system.
+
+Prevention of the accidents are important, but it is also important to find treatments that can help the recovery of patients affected by traumatic brain injury. At present there are a limited number of treatments that improve the recovery of these patients. One important area that has promising evidence is temperature control. Our group has contributed to evidence in this area of study.
+
+Preliminary evidence suggests that a raised temperature is a very common occurrence and that it may be harmful after traumatic brain injury. Yet, there still remains substantial uncertainty about this finding and whether reducing the patients temperature will help in their recovery.
+In clinical practice in Australia, cooling treatments are used with substantial variability by doctors, without certainty that the treatment will help the patient recover. Additionally, From our prior research, we know that often the temperature of patients still remains above the normal range, despite the use of cooling treatments.
+
+Therefore, we propose a study to work out if it is possible to maintain patient temperature in a targeted low normal range and avoid any elevation of temperature. From our prior work, maintaining temperature in a low normal range is an approach that is used in some centres in Australia.
+
+If we are able to maintain temperature in a low normal range successfully, then our plan is to apply for a larger grant to work out if this approach helps with the recovery after traumatic brain injury a study that would help inform the way patients are treated. This larger type of study would require about 1000 patients, but the study that we are seeking to do now only involves 50 patients and is designed to provide practical, preliminary information to enable us to proceed to the next stage.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication>N/A</publication>
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes>N/A</publicnotes>
+    <ethicscommitee>
+      <ethicname>Royal Prince Alfred Hospital Ethics Committee</ethicname>
+      <ethicaddress>Research Development Office
+RPAH Medical Centre
+Suite 210A, 100 Carillon Avenue
+NEWTOWN NSW 2042 </ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>14/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Manoj Saxena</name>
+      <address>Division of Critical Care and Trauma
+The George Institute for Global Health,
+Level 13, 321 Kent Street, Sydney NSW 2000.</address>
+      <phone>+61296570348</phone>
+      <fax />
+      <email>msaxena@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Manoj Saxena</name>
+      <address>Division of Critical Care and Trauma
+The George Institute for Global Health,
+Level 13, 321 Kent Street, Sydney NSW 2000.</address>
+      <phone>+61296570348</phone>
+      <fax />
+      <email>msaxena@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Manoj Saxena</name>
+      <address>Division of Critical Care and Trauma
+The George Institute for Global Health,
+Level 13, 321 Kent Street, Sydney NSW 2000.</address>
+      <phone>+61296570348</phone>
+      <fax />
+      <email>msaxena@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Manoj Saxena</name>
+      <address>Division of Critical Care and Trauma
+The George Institute for Global Health,
+Level 13, 321 Kent Street, Sydney NSW 2000.</address>
+      <phone>+61296570348</phone>
+      <fax />
+      <email>msaxena@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

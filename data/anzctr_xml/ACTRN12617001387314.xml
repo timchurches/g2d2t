@@ -1,0 +1,309 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373535">
+  <stage>Registered</stage>
+  <submitdate>4/09/2017</submitdate>
+  <approvaldate>29/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001387314</actrnumber>
+  <trial_identification>
+    <studytitle>National Echocardiography Database Australia (NEDA). A longitudinal cohort study of echocardiograms from public and private echocardiography laboratories from around Australia, linked with the National Deaths Index.</studytitle>
+    <scientifictitle>National Echocardiography Database Australia (NEDA). A multicentre cohort longitudinal echocardiography study involving public and private echocardiography laboratories around Australia, assessing the prevalence and mortality of pulmonary hypertension and other cardiac abnormalities identified by echocardiography.</scientifictitle>
+    <utrn />
+    <trialacronym>NEDA</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular Diseases</healthcondition>
+    <healthcondition>Pulmonary Hypertension</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Normal development and function of the cardiovascular system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>No intervention. Measurements and text interpretation information performed as part of a standard echo examination are collected from a backup copy of the echo database at each lab. The duration of the observation is from the first echo ever entered into the clinical database at the lab until the last echo entered when the backup database was taken. This time interval varies among each laboratory in Australia, and is dependent on when digital echocardiography was installed in the laboratory, and may be as long as 10 years. Since NEDA is a real world database, there is no intervention and no change to practice with NEDA.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Prevalence of pulmonary hypertension, defined by elevated pulmonary artery systolic pressure (PASP) &gt;40mmHg measured by echocardiography, in a diverse Australian population.</outcome>
+      <timepoint>The true prevalence in our echo cohort will be the proportion of patients with pulmonary hypertension in NEDA. The minimum indicative prevalence of pulmonary hypertension will be measured by the prevalence of pulmonary hypertension in our cohort of echocardiography patients projected against the Australian population. The time period for the observation will be those having echocardiography within the last 2 years and still alive at the time of the data analysis.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Prognosis of Pulmonary Hypertension as defined by Pulmonary Arterial Systolic Pressure (PASP) &gt;= 40mmHg measured using echocardiography from within the NEDA cohort, matched against mortality, provided data linkage with the National Deaths Index.</outcome>
+      <timepoint>The time period for the observation will be those having echocardiography within the last 2 years and still alive at the time of the data analysis.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The association between pulmonary artery systolic pressure and echo variables: left ventricular ejection fraction, mitral inflow E wave velocity, myocardial relaxation septal E velocity, E:E ratio, left atrial volume, right ventricular TAPSE, right ventricular basal and mid diameters, right ventricular Tei index, Noninvasive PVR estimation (Schiller equation), and right atrial volume.</outcome>
+      <timepoint>Each echo variable will be analysed against pulmonary artery systolic pressure using standard statistical analysis tools. The time period for the observation will be all echocardiograms in the NEDA database.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Identification of additional echo parameters associated with markers of pulmonary hypertension disease severity and predictors of death. This is an exploratory analysis designed to identify those additional markers not identified as standard markers, and those not included in Secondary Outcome 1.</outcome>
+      <timepoint>The time period for the observation will be all echocardiograms in the NEDA database.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Identification of reference ranges for  echocardiographic variables. Reference intervals refer to  the normal ranges normally found in healthy individuals. Since NEDA is a "big data" database, it is well suited to analysis of subgroups such as those without any demonstrable disease. Each individual measurement (up to 150 individual variables) will be subjected to this analysis. Only variables in which valid conclusions can be drawn based on the number of available measurements will be reported.</outcome>
+      <timepoint>The time period for the observation will be all echocardiograms in the NEDA database.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants will be considered those who have undergone echocardiography at one of the participating centres in accordance with standard clinical practice.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Individuals under the age of 18 will be excluded from the study and those who withdraw their consent. There are no other exclusion criteria for participants involved in the study. Individual data points may be excluded if a clause is present in an echo study suggesting that image quality was insufficient for accurate diagnostic imaging to be performed.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The planned sample size of 900,000 is based on 150 Australian
+laboratories reporting an average of 3000 studies per year, with at least
+one year of retrospective data available. This sample size will provide
+good precision to estimate the prevalence of pulmonary hypertension, and the associated abnormalities of echocardiographic variables. Based on our previous data of an estimated median survival of 4.3+/-0.1 years for patients with all-cause pulmonary hypertension, a sample size of 779 PHT patients would be required to identify a characteristic associated with a 10% increase in risk, with power 80%, alpha level 0.05.
+Since NEDA will have a vastly greater sample size than the necessary sample size for risk prediction described above, NEDA will be well powered to address the primary and secondary outcomes.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Convenience sample</selection>
+    <timing>Both</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>5/01/2015</actualstartdate>
+    <anticipatedenddate>31/12/2020</anticipatedenddate>
+    <actualenddate />
+    <samplesize>900000</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>500000</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <hospital>Springwood Hospital - Springwood</hospital>
+    <hospital>Blue Mountains District ANZAC Memorial Hospital - Katoomba</hospital>
+    <hospital>Hawkesbury District Health Service - Windsor</hospital>
+    <hospital>John Hunter Hospital - New Lambton</hospital>
+    <hospital>St Vincent's Private Hospital (Darlinghurst) - Darlinghurst</hospital>
+    <hospital>Royal Darwin Hospital - Tiwi</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <hospital>Footscray Hospital - Footscray</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Belmont Hospital - Belmont</hospital>
+    <hospital>The Maitland Hospital - Maitland</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2747 - Kingswood</postcode>
+    <postcode>2777 - Springwood</postcode>
+    <postcode>2780 - Katoomba</postcode>
+    <postcode>2756 - Windsor</postcode>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>0810 - Tiwi</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <postcode>3011 - Footscray</postcode>
+    <postcode>6000 - Perth</postcode>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>2280 - Belmont</postcode>
+    <postcode>2320 - Maitland</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>NEDA Limited</primarysponsorname>
+    <primarysponsoraddress>Unit 41, Mount Medical Centre
+146 Mounts Bay Road
+Perth WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Glaxo Smith-Kleine Pharmaceuticals</fundingname>
+      <fundingaddress>1061 Mountain Highway, Boronia Victoria 3155</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Actelion Pharmaceuticals</fundingname>
+      <fundingaddress>Ste 6/ 13B Narabang Way, Belrose New South Wales 2085</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Bayer Pharmaceuticals</fundingname>
+      <fundingaddress>875 Pacific Highway, Pymble New South Wales 2073</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Contemporary Australian data suggest that pulmonary hypertension (PHT) is more common than previously reported and confers a poor prognosis, however this single-centre data needs confirmation in a large population study from many locations and diverse backgrounds. Identification of underlying cause and prognosis of PHT non-invasively using simple markers would have a major impact on the diagnosis and management of patients with PHT.
+
+PHT is often identified during echocardiography, performed for investigation of breathlessness. PHT is not a diagnosis in itself, but has a number of underlying causes that require additional investigation to delineate. Such causes include left heart diseases, various chronic respiratory illnesses, and chronic thromboembolic and pulmonary vascular diseases.
+
+Over 900,000 echocardiograms (echos) are performed in Australia each year, but to date there has been no systematic method for capturing data from these echos. The newly developed National Echo Database Australia (NEDA) is designed to obtain measurement and report data, but no images, from digital echo laboratory across Australia and transfer them to a secure database, matched against national mortality data. The NEDA database will be the largest echo database in the world.  
+
+Identification of the population of patients with PHT is of great importance, both to target those who may benefit from disease-specific therapy, and to better understand all forms of PHT in Australia and New Zealand. Abnormalities identifiable using echocardiography may be very useful prognostic indicators, and may help separate various causes for PHT. This information could be used to both identify patients who may respond to treatment, and to identify them earlier, with the goal of decreasing both morbidity and mortality for this common condition.</summary>
+    <trialwebsite>www.neda.net.au </trialwebsite>
+    <publication>Strange, G. et al., Disparity Between Severe Aortic Stenosis Prevalence and Aortic Valve Replacement Using the National Echo Database of Australia (NEDA), Abstracts for the 64th Cardiac Society of Australia and New Zealand Annual Scientific Meeting and the International Society for Heart Research Australasian Section Annual Scientific Meeting, 4  7 August 2016, Adelaide, Australia, Heart, Lung and Circulation, Volume 25, Supplement 2, S226.
+
+Playford, D. et al., Making Australia the benchmark in Echocardiography databases: The National Echo Database Australia, Abstracts for the 64th Cardiac Society of Australia and New Zealand Annual Scientific Meeting and the International Society for Heart Research Australasian Section Annual Scientific Meeting, 4  7 August 2016, Adelaide, Australia, Heart, Lung and Circulation, Volume 25, Supplement 2, S560.
+
+Chung, K. et al., The National Echo Database Australia (NEDA) and Pulmonary Hypertension, Abstracts for the 64th Cardiac Society of Australia and New Zealand Annual Scientific Meeting and the International Society for Heart Research Australasian Section Annual Scientific Meeting, 4  7 August 2016, Adelaide, Australia, Heart, Lung and Circulation , Volume 25 , Supplement 2, S122.
+
+Chung, K. et al. Pulmonary Hypertension (PH) Due to Left Heart Disease: A Predictive Model Using the National Echo Database of Australia (NEDA), Heart, Lung and Circulation, Volume 26, S61.
+
+Playford et al. Making Australia the Benchmark in Echocardiography Databases: The National Echo Database Australia (NEDA). Pulmonary Circulation 2017;7(1):1-7. 
+
+Kuppusamy, H. et al., The Echocardiographic Pulmonary to Left Atrial Ratio (ePLAR): Identifying Cause of Pulmonary Hypertension and Subsequent Mortality Risk, Heart, Lung and Circulation, Volume 26 , S273.
+
+Chung et al, Pulmonary Hypertension due to Left Heart Disease: A predictive model using the National Echo Database of Australia. ESC 2017.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Notre Dame</ethicname>
+      <ethicaddress>PO Box 1225
+Fremantle, Western Australia 6959</ethicaddress>
+      <ethicapprovaldate>13/10/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>18/08/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Sydney Local Health District HREC</ethicname>
+      <ethicaddress>Royal Prince Alfred Hospital
+Camperdown NSW 2050
+</ethicaddress>
+      <ethicapprovaldate>16/03/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>27/10/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Australian Institute of Health and Welfare Ethics Committee</ethicname>
+      <ethicaddress>GPO Box 570
+Canberra ACT 2601</ethicaddress>
+      <ethicapprovaldate>3/06/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>31/01/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Tasmanian Health and Medical Research Ethics Committee</ethicname>
+      <ethicaddress>University of Tasmania
+Private Bag 1
+Hobart TAS 7001</ethicaddress>
+      <ethicapprovaldate>8/06/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>21/03/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service HREC</ethicname>
+      <ethicaddress>Level 2, Southern Research Facility (Perkins building)
+Fiona Stanley Hospital, 11 Robin Warren Drive, MURDOCH WA 6150</ethicaddress>
+      <ethicapprovaldate>21/07/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>3/05/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Menzies School of Research HREC</ethicname>
+      <ethicaddress>PO BOX 41096
+Casuarina NT 0811</ethicaddress>
+      <ethicapprovaldate>14/11/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>5/08/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>David Playford</name>
+      <address>School of Medicine
+University of Notre Dame
+32 Mouat Street,
+Fremantle, WA 6959</address>
+      <phone>+61 8 9391 1234</phone>
+      <fax />
+      <email>dplayford@neda.net.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Geoff Strange</name>
+      <address>Cardiology
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 422 308 585</phone>
+      <fax />
+      <email>gstrange@neda.net.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Geoff Strange</name>
+      <address>Cardiology
+Royal Prince Alfred Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+ 61 422 308 585</phone>
+      <fax />
+      <email>gstrange@neda.net.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Melissa Farthing</name>
+      <address>PO BOX 962
+Maroochydore QLD 4558</address>
+      <phone>+61 403423525</phone>
+      <fax />
+      <email>melissa@neda.net.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

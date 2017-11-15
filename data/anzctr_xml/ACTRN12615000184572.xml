@@ -1,0 +1,229 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367965">
+  <stage>Registered</stage>
+  <submitdate>13/02/2015</submitdate>
+  <approvaldate>25/02/2015</approvaldate>
+  <actrnumber>ACTRN12615000184572</actrnumber>
+  <trial_identification>
+    <studytitle>An Evaluation of a Group Intervention for Caregivers of Individuals with Bipolar Disorder</studytitle>
+    <scientifictitle>For caregivers of people with bipolar disorder, does group psychoeducation, compared to waitlist control, reduce perceived burden and symptoms of emotional disorder?</scientifictitle>
+    <utrn>Nil.</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Perceived Burden of caring for someone with bipolar disorder</healthcondition>
+    <healthcondition>Depression</healthcondition>
+    <healthcondition>Anxiety</healthcondition>
+    <healthcondition>Stress</healthcondition>
+    <healthcondition>Self-efficacy caring for someone with bipolar disorder</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention requires eligible participants attend two, 150-minute group psychoeducation sessions spaced one week apart. Participants will be provided with educational information about bipolar disorder, its treatment and coping strategies for themselves as a caregiver of someone with bipolar disorder.
+
+Sessions will be audiorecorded and adherence to protocol by the facilitators will be assessed by independent raters.</interventions>
+    <comparator>Waitlist control. Waitlist participants will receive assessments at the same timepoints as the immediate intervention group.
+
+Waitlist participants will receive the intervention after the 1-month follow-up assessment.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Perceived care-giving burden, as measured by the Burden Assessment Scale.</outcome>
+      <timepoint>Baseline (immediately prior to first group session) to immediately after the second group session 1-week later and to 1-month follow-up.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Caregiver emotional distress, as measured by the Depression, Anxiety, and Stress Scale (DASS-21) total score.</outcome>
+      <timepoint>Baseline (immediately prior to first group session) to immediately after the second group session 1-week later and to 1-month follow-up.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Caregivers' knowledge of bipolar disorder, support and self-care strategies, as measured by the Knowledge of Bipolar Disorder Scale.</outcome>
+      <timepoint>Baseline (immediately prior to first group session) to immediately after the second group session 1-week later and to 1-month follow-up.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Caregivers' coping self-efficacy, as measured by the Managing Bipolar Disorder Scale.</outcome>
+      <timepoint>Baseline (immediately prior to first group session) to immediately after the second group session 1-week later and to 1-month follow-up.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria for participation in this study will be: 1) aged over 18 years; 2) the ability to speak and read English fluently, 3) a caregiver of someone with diagnosed bipolar disorder, defined as a friend, family member or partner.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Aged under 18 years
+Inability to speak and read English fluently
+Not being a caregiver (friend, family, partner) of someone with bipolar disorder
+Caregiver is a currently receiving therapy related to supporting the individual with bipolar disorder.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Potential participants who express an interest in the study will be contacted by the associate investigator (Miller) who will complete the initial screening interview over the phone. Participants who meet inclusion criteria will then be sent the information sheet, consent form and baseline measures. The coordinating principal investigator (McEvoy) who is off-site will generate a randomisation schedule and allocate participants to waitlist control or immediate intervention. Participants will be informed via telephone which condition they are in.</concealment>
+    <sequence>Simple randomisation schedule will be generated using www.random.org</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>A power analysis using G*Power software was conducted assuming a low to medium effect size (f = .20), an alpha of .05, power of .80, an autocorrelation of .5, and three measurement occasions. This analysis suggested that a minimum of 42 (21 per group) participants be recruited.
+
+Five hypotheses are proposed
+
+H1: 	Participants will report significantly greater pre-post reductions in burden (as measured by the BAS) compared to controls.
+
+H2: 	Participants will report significantly greater pre-post reductions in symptoms of depression, anxiety, and stress (as measured by the DASS) compared to controls.
+
+H3: 	Participants will report significantly greater pre-post improvements in knowledge of bipolar disorder, support and self-care strategies (as measured by the Knowledge of Bipolar Disorder Scale), compared to controls
+  
+H4: 	Participants will report significantly greater pre-post improvements in bipolar disorder coping self-efficacy (as measured by a scale adapted from the Managing Bipolar Disorder Scale) compared to controls
+
+H5: 	The effects hypothesised in H1  H4 will be maintained at one-month follow-up.
+
+
+The five hypotheses will be tested with a series of Generalised Linear Mixed Models (GLMMs)  one for each outcome measure. For the GLMMs, there is one nominal random effect (participant), one fixed nominal effect of group (intervention, waitlist), and one ordinal fixed effect (time: baseline for those in the waitlist condition, pre, post, follow-up for all participants). All hypotheses predict a significant Group by Time interaction effect.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>2/03/2015</anticipatedstartdate>
+    <actualstartdate>10/04/2015</actualstartdate>
+    <anticipatedenddate>30/09/2015</anticipatedenddate>
+    <actualenddate>17/08/2015</actualenddate>
+    <samplesize>42</samplesize>
+    <actualsamplesize>32</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>10/09/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University</primarysponsorname>
+    <primarysponsoraddress>Kent Street, Bentley, Perth, Western Australia, 6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Centre for Clinical Interventions, WA Health Department</sponsorname>
+      <sponsoraddress>223 James Street, Northbridge, WA, 6003</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Psychoeducation provided to individuals with bipolar disorder and their caregiver has strong research support but to date no studies have investigated the impact of providing psychoeducation to caregivers alone. This study aims to contribute towards filling this gap by evaluating a two-session group intervention for caregivers of individuals with bipolar disorder focussing on improving knowledge of the disorder and the development of self-care strategies. Participants will be randomised to either a waitlist control condition or intervention condition. Repeated measures of stress, depression, anxiety, self-efficacy, knowledge and burden will be taken at pre, post, and follow-up intervals. It is hypothesised that participants will report reduced symptoms of stress, depression, anxiety and burden at post intervention and follow-up, as well as improved knowledge and self efficacy, relative to controls. Those in the control condition will be offered the intervention immediately after the waitlist period.</summary>
+    <trialwebsite />
+    <publication>Journal article:
+Hubbard, A. A., McEvoy, P. M., Smith, L., &amp; Kane, R. T.  (2016). Brief group psychoeducation for caregivers of individuals with bipolar disorder: a randomized controlled trial. Journal of Affective Disorders, 200, 31-36.
+
+Conference presentation.
+Smith, L., Hubbard, A., &amp; McEvoy, P. M., &amp; Swan, A. (June, 2016). Caring for the carers: what helps to relieve burden and increase coping self-efficacy for carers and loved ones of people with bipolar disorder? Paper presented at the World Congress of Behavioural and Cognitive Therapy. Melbourne, June 2016.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>North Metropolitan Health Service - Mental Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Graylands Hospital
+Locked Bag No. 1 CLAREMONT WA 6910</ethicaddress>
+      <ethicapprovaldate>6/03/2015</ethicapprovaldate>
+      <hrec>01_2015</hrec>
+      <ethicsubmitdate>19/12/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Office</ethicname>
+      <ethicaddress>Office of Research and Development
+HREC Office
+Kent Street
+Bentley  WA 6102</ethicaddress>
+      <ethicapprovaldate>11/03/2015</ethicapprovaldate>
+      <hrec>HR43/2015</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/367965-HR43_2015.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/367965-01_2015 HREC approval letter 06032015.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter McEvoy</name>
+      <address>School of Psychology and Speech Pathology
+Curtin University
+Kent Street, Bentley, WA, 6102</address>
+      <phone>+618 9266 5110</phone>
+      <fax />
+      <email>peter.mcevoy@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,286 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="320666">
+  <stage>Registered</stage>
+  <submitdate>30/09/2009</submitdate>
+  <approvaldate>2/10/2009</approvaldate>
+  <actrnumber>ACTRN12609000859280</actrnumber>
+  <trial_identification>
+    <studytitle>Inhaled nitric oxide in preterm infants: a systematic review and individual patient data meta-analysis</studytitle>
+    <scientifictitle>A systematic review of preterm infants  inhalation of nitric oxide vs placebo for reduction in infant mortality and morbidity</scientifictitle>
+    <utrn />
+    <trialacronym>MAPPINO</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Preterm infant Mortality</healthcondition>
+    <healthcondition>Preterm infant morbidity e.g Chronic Lung Disease or severe adverse neurological events</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Inhaled Nitric Oxide (iNO) relaxes vascular smooth muscle by activating guanyl cyclase and leading to the production of cyclic GMP (guanosine monophosphate).
+
+Infants received multiple randomized doses of iNO from 5 to 80 ppm until weaned if effective. Maximum treatment days ranged from  3 days to 24 days. Frequencies and duration of doses varied between the 11 trials.</interventions>
+    <comparator>Most studies used inhaled  oxygen or nitrogen gas or ventilatory support without iNO as the placebo gas. Maximum treatment days ranged from  3 days to 24 days. Frequencies and duration of doses varied between the 11 trials.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>All cause of mortality or chronic lung disease (CLD) using best available definition e.g alive and Oxygen (O2) dependent at 36 weeks PMA ( Post Menstrual Age) if calculable, or trialist own definition. 
+Found in medical records</outcome>
+      <timepoint>36 weeks PMA</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Severe adverse neurological event after randomization (intraventricular hemorrhage (IVH) grade III or IV, or cystic periventricular leukomalacia (PVL) or other pathologies such as periventricular echodensity, periventricular cysts,ventriculomegaly or hydrocephalus) assessed using cranial ultrasound.</outcome>
+      <timepoint>Assessed at 28 weeks and 36 weeks PMA</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause of mortality at any time as assessed by medical records</outcome>
+      <timepoint>prior to discharge and last follow up date (ranging from 1-3 years adjusted age between trials)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severe IVH (grade III or IV) (with and without adjustment for baseline IVH severity) assessed  by cranial ultrasound</outcome>
+      <timepoint>enrolment, after randomisation, at discharge, longer term follow up (ranges from 1-3 years corrected age)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Survivors without CLD assessed by medical records e.g alive and O2 non-dependent at 36 weeks PMA ( Post Menstrual Age) if calculable, or trialist own definition.</outcome>
+      <timepoint>36 weeks PMA</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postnatal steroid use assessed by medical records</outcome>
+      <timepoint>at enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Gross pulmonary air leak (at least one of the following: pneumothorax, pneumomediastinum, pneumoperitoneum or pneumopericardium)assessed by clinical examination and medical records</outcome>
+      <timepoint>assessed continually after randomisation until discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pulmonary haemorrhage assessed by clinical examination and medical records</outcome>
+      <timepoint>assessed continually after randomisation until discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Failure of assigned treatment as defined by each trial and assessed by clinical examination and medical records</outcome>
+      <timepoint>assessed continually after randomisation and prior to discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of oxygen therapy assessed by medical records</outcome>
+      <timepoint>assessed continually after randomisation until discharge and follow up after discharge (1-3 years adjusted age)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of hospital stay by assessment of medical records</outcome>
+      <timepoint>date of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severe ROP (Retinopathy of Prematurity) stage &gt;=3; surgical or laser therapy for ROP) assessed by by medical record of eye examinations recorded</outcome>
+      <timepoint>enrolment, after randomisation, at discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postmenstrual age when ETT (endotracheal tube) ceased assessed by medical records</outcome>
+      <timepoint>date ETT ceased</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postmenstrual age when respiratory support ceased assessed by medical records</outcome>
+      <timepoint>date when respiratory support ceased</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>neurodevelopmental abnormality at follow-up (at least one of the following: cerebral palsy, developmental delay, blindness or hearing loss) 
+cerebral palsy assesed by GMFCS (Gross Motor Function Classification System),
+major developmental delays asssessed by the Bayley mental development index II (MDI) score, Bayley psychomotor developmental index II (PDI) 
+blindness assessed by no useful vision in either eye and hearing loss assessed by requiring hearing aids</outcome>
+      <timepoint>Longer term follow up ranging between 1- 3 years corrected age between trials</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>For the purposes of this meta-analysis it was decided to include any trials that were: 
+
+Studies will be included if they are randomised controlled trials
+preterm infants (&lt;37 weeks) receiving assisted ventilation</inclusivecriteria>
+    <inclusiveminage>24</inclusiveminage>
+    <inclusiveminagetype>Weeks</inclusiveminagetype>
+    <inclusivemaxage>37</inclusivemaxage>
+    <inclusivemaxagetype>Weeks</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>For the purposes of this meta-analysis it was decided to exclude any trials that were:
+
+Non randomised controlled trials using term infants</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>18/12/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>3567</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leicester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Florence</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Denver</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Chicago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Stanford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Montreal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>National Health and Medical Research Council, Clinical Trials Centre, University of Sydney</primarysponsorname>
+    <primarysponsoraddress>Level 6 Medical Foundation Building, 92 Parramatta Road, Locked Bag 77, Camperdown NSW  2050 Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>iNO Therapeutics</fundingname>
+      <fundingaddress>6 State Route 173, Clinton, New Jersey 08809</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Several randomized controlled trials have been conducted in preterm infants to determine whether inhaled nitric oxide (iNO) reduces the rates of death and/or chronic lung disease. The results of these studies appear contradictory.  Some studies have shown a reduction in lung injury, one has shown a reduction in cerebral injury, and several others have shown no effect.  The different patient characteristics and different trial characteristics within these trials may explain this difference. 
+
+The purpose of this systematic review and individual patient data meta-analysis is to determine whether inhaled nitric oxide in preterm infants receiving assisted ventilation improves survival without morbidity, specifically without chronic lung disease (CLD), cerebral injury, retinal injury, and improves survival without long-term disability.
+
+Secondly to determine whether the effects of inhaled nitric oxide differ according to the risk profile of the patient in terms of gestational age at birth, severity of illness, antenatal steroid use, postnatal age at the time of randomization, ventilation mode at randomization, administration of exogenous surfactant, inhaled nitric dosage and duration of nitric oxide administration.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Angela Carberry</name>
+      <address>Level 6 Medical Foundation Building, 92 Parramatta Road, Locked Bag 77, Camperdown NSW  2050</address>
+      <phone>+612 9562 5028</phone>
+      <fax />
+      <email>angela.carberry@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Lisa Askie</name>
+      <address>Level 6 Medical Foundation Building, 92 Parramatta Road, Locked Bag 77, Camperdown NSW  2050</address>
+      <phone>+61 29562 5040</phone>
+      <fax />
+      <email>laskie@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Angela Carberry</name>
+      <address>Level 6 Medical Foundation Building, 92 Parramatta Road, Locked Bag 77, Camperdown NSW  2050</address>
+      <phone>+61 2 9562 5028</phone>
+      <fax />
+      <email>angela.carberry@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

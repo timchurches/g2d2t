@@ -1,0 +1,195 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369830">
+  <stage>Registered</stage>
+  <submitdate>22/12/2015</submitdate>
+  <approvaldate>13/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000016437</actrnumber>
+  <trial_identification>
+    <studytitle>Pregabalin for dural puncture headache </studytitle>
+    <scientifictitle>Pregabalin for the management of post-dural puncture headache after unintentional dural puncture in obstetric patients: a randomised, double-blind, placebo-controlled trial</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>headache</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Pain management</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm 1: Prophylactic administration of oral pregabalin capsule twice daily. Dose 75 mg/75 mg for 2 days then 75 mg/150 mg for 2 days
+Arm 2: Prophylactic administration of oral plabebo capsules twice daily
+
+Total number of study drug capsules consumed will be recorded </interventions>
+    <comparator>Comparator is a  placebo capsule matched for each 75 mg active drug capsule</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Severity of headache as assessed by incidence of "severe' rating at presentation and by 0-72 hour area-under-curve 1-10 intensity score</outcome>
+      <timepoint>At onset of post-dural puncture headache, if presents</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of post-dural puncture headache, as determined by confirmation of clinical diagnosis by anaesthesiologist after patient reporting of headache or on questioning at daily clinical review or interview (for 4 days and again at one week after commencing study drug)</outcome>
+      <timepoint>Within 4 days of accidental dural puncture</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>
+1.	Obstetric women aged 18 years and over 
+2.	An unintentional dural puncture at the time of epidural analgesia for labour and delivery, confirmed by observation of efflux of cerebrospinal fluid from the needle or catheter; by identification of CSF from an epidural catheter; or by positive test-dosing for subarachnoid placement.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>
+1.	Attempted postpartum prevention of PDPH using any therapy other than intrathecal epidural catheter placement, including prophylactic epidural blood patch.
+2.	Onset of PDPH prior to study drug administration
+3.	Renal impairment 
+4.	Contraindication to use or exposure to pregabalin within past 72 hours
+5.	ASA 4 status 
+6.	Women planning to breastfeed a premature baby 
+7.	Concurrent administration of drugs that may possibly impact on the severity of PDPH, namely oral tablets of or intravenous caffeine, triptans, hydrocortisone, oral theophylline or intravenous aminophylline, epidural morphine. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Randomization sequence for each site, stratified for size of epidural needle (16 vs 17 or 18 gauge)</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The primary endpoints are the severity of PDPH, as measured by the incidence in each group of a rating of severe at 24 hours after commencing treatment; and the AUC 0-72 h for pain (headache) scores. Previous data suggests that approximately 70% of women will develop a PDPH after unintentional dural puncture with an epidural needle and 40% of women will rate their headache as severe initially. 
+Using the severity of pain as a primary endpoint will require a sample size of approx. 85 per group or total 170 to test for a 50% reduction in the treatment group. To allow for those who do not develop a PDPH (0.7 x N = 170) plus withdrawals and loss to follow-up, this will be increased to 150 per group (300 patients). 
+There are few data on AUC in this situation, but in different populations and using the drug as treatment, women start around the 7-8/10 and have reduced to 2-4/10 after 3-4 days of pregabalin. Based on women in the placebo group starting on pain scores of 8, reducing to 6 on day 2 and 4 on day 3, a rough estimation of 72 h AUC would be ~430 (8x24h + 6x24h + 4x24h). Using a conservative estimate of standard deviation ~340 (representing 80% AUC),  the sample size of  300 women would have &gt; 90% power to show a 30% reduction in 0-72 hour AUC PDPH score in the active treatment group and a one-quarter reduction in the need for epidural blood patch, assuming an incidence of 60% in the control group.
+
+An intention to treat analysis will be performed. Descriptive statistics will be median, interquartile range (IQR) and range or mean (standard deviation [SD]) as appropriate and categorical outcomes will be summarized using frequency distributions. The Chi-square test or Fisher exact tests will be used for comparisons of categorical outcomes between groups. Comparisons of continuous outcomes between groups will be based on Mann-Whitney tests, assuming lack of normality. P-values of &lt; 0.05 will be considered statistically significant.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/02/2016</anticipatedstartdate>
+    <actualstartdate>22/07/2016</actualstartdate>
+    <anticipatedenddate>29/02/2020</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>6/03/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,WA,VIC</recruitmentstate>
+    <hospital>King Edward Memorial Hospital - Subiaco</hospital>
+    <hospital>Mercy Hospital for Women - Heidelberg</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <postcode>6008 - Subiaco</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>4029 - Herston</postcode>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>King Edward Memorial Hospital for Women</primarysponsorname>
+    <primarysponsoraddress>374 Bagot Rd, Subiaco WA 6008</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>ANZCA Foundation</fundingname>
+      <fundingaddress>600 St Kilda Rd, Melbourne Victoria 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this study is to investigate the efficacy of pregabalin against headache resulting from unintentional dural puncture in obstetric patients having epidural analgesia for labour and delivery.
+The primary question addressed is Does pregabalin reduce the severity of post-dural puncture headache in postpartum women after unintentional dural puncture? Our hypothesis is that oral pregabalin will significantly reduce the severity of post-dural puncture headache in postpartum women experiencing the complication of unintentional dural puncture. The question is addressed by conduct of a randomized, double-blind, placebo-controlled, parallel-group, superiority clinical trial. The study drugs will be commenced after unintentional dural puncture and patients followed for one week, with the incidence and severity of headache important outcomes showing whether pregablin is effective compared with a placebo.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Women and Newborn Health Service</ethicname>
+      <ethicaddress>374 Bagot Rd Subiaco WA 6008</ethicaddress>
+      <ethicapprovaldate>4/08/2015</ethicapprovaldate>
+      <hrec>2015132EW</hrec>
+      <ethicsubmitdate>12/06/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Paech</name>
+      <address>Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, 374 Bagot Rd., Subiaco WA 6008</address>
+      <phone>+61893402222</phone>
+      <fax>+61893402227</fax>
+      <email>michael.paech@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Paech</name>
+      <address>Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, 374 Bagot Rd., Subiaco WA 6008</address>
+      <phone>+61893402222</phone>
+      <fax>+61893402227</fax>
+      <email>michael.paech@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Paech</name>
+      <address>Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, 374 Bagot Rd., Subiaco WA 6008</address>
+      <phone>+61893402222</phone>
+      <fax>+61893402227</fax>
+      <email>michael.paech@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Paech</name>
+      <address>Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, 374 Bagot Rd., Subiaco WA 6008</address>
+      <phone>+61893402222</phone>
+      <fax>+61893402227</fax>
+      <email>michael.paech@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

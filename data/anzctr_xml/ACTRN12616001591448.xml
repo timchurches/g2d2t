@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371808">
+  <stage>Registered</stage>
+  <submitdate>8/11/2016</submitdate>
+  <approvaldate>17/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001591448</actrnumber>
+  <trial_identification>
+    <studytitle>Assessment of the return of pulsatile flow by carotid artery ultrasound using cardiac bypass patients as a model of the return of spontaneous circulation</studytitle>
+    <scientifictitle>Assessment of the return of pulsatile flow by carotid artery two-dimension or colourDoppler ultrasound using cardiac bypass patients as a model for the return of spontaneous circulation: A Pilot study</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiac Arrest</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is an interventional trial with two arms. The trial will evaluate the use of US to detect pulsatile flow compared to the blood pressure as measured on the radial arterial line. The participants will be randomised to 2D US or colour-Doppler. One of the investigators will ultrasound the carotid artery of patients as they come off bypass and a video of the image recorded. At the same time a video will be recorded of the anaesthetic monintor. Three Independent investigators will assess the ultrasound images and will record the time at which they think sustained pulsatile flow occurs, This will then be correlated to the blood presssure of the participants. Those assessing the ultrasound images will not have access to the monitor videos. The assessors will be three anaesthetists (two cardiac and one general anaesthetist). Videos will be recorded as rewarming of the heart begins and continue for approximately 5 minutes after the return of spontaneous circulation </interventions>
+    <comparator>participants are randomised to receive either 2D or colour-Doppler US at the time of coming off bypass.</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The ptimary outcome is the agreement between assessors as to the time of return of pulsatile flow on 2D and colourDoppler ultrasound assessed by interrelator agreement</outcome>
+      <timepoint>time of the detection of pulsatile flow</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The secondary outcome will be the MAP when pulsatile flow first detected by 2d or colourDoppler by inter-relator agreement. </outcome>
+      <timepoint>Time when pulsatile flow visible on arterial line trace</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age &gt; 18. Ability to offer informed consent. Undergoing cardiac surgery requiring cardiac bypass from the perfusion machine.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Previous surgery involving the great blood vessels including aorta or carotid arteries. Patients in whom the cardiac surgeon considers enrolment will be inappropriate due to high surgical risk, patients with intraaortic balloon pump, known peripheral vascular disease.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central allocation to 2D or colour Doppler at time of study design</concealment>
+    <sequence>Simple Random sequence generation using software R</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analysis will be performed using R statistical software version 3.1.2 (2014-10-31).
+
+Participant demographics will be reported as mean plus or minus standard deviation, whilst non-normal data will be reported as median plus interquartile range. Categorical data will be reported as counts and proportions. 2D US and colour-flow Doppler groups will be compared using non-parametric methods due to the small sample size.
+
+As only twenty participants are intended to be enrolled in total, the blood pressure data will be considered non-normal. SBP and MAP will be reported as median plus interquartile range for 2D US and colour-flow doppler US. 
+
+In the first analysis, a measure of inter-rater agreement will be calculated for the time when pulsatile flow is first calculated. An interclass correlation coefficient and limits of agreement will be calculated from the data for the 2D and colour flow Doppler methods. 
+
+The second anaylsis will compare the difference in arterial blood pressure when pulsatile flow is first detected by 2D US and colour-flow Doppler. Firstly, a median SBP and MAP will be calculated for the three assessor estimates for each participant. These will then be compared using interclass correlation coefficient.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/08/2016</actualstartdate>
+    <anticipatedenddate>5/12/2016</anticipatedenddate>
+    <actualenddate>23/01/2017</actualenddate>
+    <samplesize>20</samplesize>
+    <actualsamplesize>20</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate>10/12/2016</anticipatedlastvisitdate>
+    <actuallastvisitdate>27/01/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>St George Hospital - Kogarah</hospital>
+    <postcode>2217 - Kogarah</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>St George Hospital</primarysponsorname>
+    <primarysponsoraddress>Gray St, Kogarah NSW 2217, Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>St George Hospital</fundingname>
+      <fundingaddress>Gray St, Kogarah NSW 2217, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Current cardiac arrest algorithms require assessment of the return of spontaneous circulation (ROSC) following rhythm checks. Current recommendations for assessment of ROSC include observation for patient movement or spontaneous respiration, both of which may be absent in sedated and paralysed patients. Healthcare professionals are advised to check the pulse in the presence of an organized rhythm, however previous studies have shown poor ability to correctly   detect the presence or absence of a pulse in a simulated pulseless electrical activity (PEA) arrest. In one study, 45% of participants incorrectly diagnosed pulselessness in cardiac surgery patients no longer on bypass, despite systolic pressures greater than 80mmHg.  
+
+In coronary artery bypass graft (CABG) surgery, when coming off bypass, blood flow changes from continuous to pulsatile. This may offer a model by which to simulate the return of pulsatile flow, and allow a comparison of radial arterial pressures when pulsatile flow becomes first apparent on 2D US and colour flow Doppler US of the carotid artery. This pilot study proposes to investigate whether pulsatile flow can be reliably assessed by the use of carotid artery ultrasound, and whether CABG patients can be used as a model to evaluate this. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney  Local Health District</ethicname>
+      <ethicaddress>Research Support Office
+G71, East Wing 
+Edmund Blacket Building
+Prince of Wales Hospital
+Barker St
+Randwick NSW 2031 </ethicaddress>
+      <ethicapprovaldate>24/02/2016</ethicapprovaldate>
+      <hrec>HREC/15/POWH/579</hrec>
+      <ethicsubmitdate>23/11/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8, 
+Canada</address>
+      <phone>+447521046880</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8, 
+Canada</address>
+      <phone>+447521046880</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8, 
+Canada</address>
+      <phone>+447521046880</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew Miller</name>
+      <address>Department of Anaesthesia
+Toronto Western Hospital,
+399 Bathurst St, 
+Toronto, 
+ON M5T 2S8, 
+Canada</address>
+      <phone>+447521046880</phone>
+      <fax />
+      <email>mattdotmiller@gmail.com</email>
+      <country>Canada</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,184 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="222">
+  <stage>Registered</stage>
+  <submitdate>19/08/2005</submitdate>
+  <approvaldate>13/09/2005</approvaldate>
+  <actrnumber>ACTRN12605000367640</actrnumber>
+  <trial_identification>
+    <studytitle>RCT of laser acupuncture in acute low back pain.</studytitle>
+    <scientifictitle>Double blind randomised controlled trial of laser acupuncture in acute and subacute low back pain as measured by Oswestry disability index.</scientifictitle>
+    <utrn />
+    <trialacronym>LoBACu</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute and subacute low back pain</healthcondition>
+    <conditioncode>
+      <conditioncode1>Alternative and complementary medicine</conditioncode1>
+      <conditioncode2>Pain management</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>8 weeks laser acupuncture </interventions>
+    <comparator>8 weeks sham laser acupuncture</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Oswestry Disability Index</outcome>
+      <timepoint>Measured weekly for 8 weeks, then at follow up (3, 6, 9, 12 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>K10</outcome>
+      <timepoint>Measured at commencement and follow up (3,6,9,12 months).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>VAS</outcome>
+      <timepoint>Measured weekly for 8 weeks, then at follow up (3,6,9,12 months).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Medication</outcome>
+      <timepoint>Measured weekly for 8 weeks, then at follow up (3,6,9,12 months).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health Utilization</outcome>
+      <timepoint>Measured weekly for 8 weeks, then at follow up (3,6,9,12 months).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>2-8 wks of back pain.</inclusivecriteria>
+    <inclusiveminage>20</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Chronic LBP, significant medical conditions.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>yes - independent allocation - wired and sealed into laser machine with no access and no bypass switch</concealment>
+    <sequence>random numbers generated in Excel, stratification by GP and block randomisation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>special laser probe for double blinding</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/07/2005</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>250</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Melbourne University</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University Melb.Dept. Gen Practice</fundingname>
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>nil</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>General practice recruitment aswell as A&amp;E
+12 month follow up.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne University</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Epworth Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Ian Relf</name>
+      <address>Department of General Practice
+University of Melbourne
+200 Berkley Street
+Carlton VIC 3053</address>
+      <phone>+61 3 83443369</phone>
+      <fax />
+      <email>i.relf@unimelb.edu .au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Marie Pirotta</name>
+      <address>Department of General Practice
+University of Melbourne
+200 Berkley Street
+Carlton VIC 3053</address>
+      <phone>+61 3 83449723</phone>
+      <fax />
+      <email>m.pirotta@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,325 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365972">
+  <stage>Registered</stage>
+  <submitdate>13/03/2014</submitdate>
+  <approvaldate>24/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000306617</actrnumber>
+  <trial_identification>
+    <studytitle>The Dynamic Patterns of Thinking in Attention-Deficit/Hyperactive Disorder (ADHD): Diagnostic accuracy of Euclidean, multifractal and lacunarity measures</studytitle>
+    <scientifictitle>In a group of  Children with Attention-Deficit/Hyperactive Disorder (ADHD) do Euclidean, multifractal and lacunarity measures have any diagnostic value to distinguish them from a control group (i.e., is the Receiver Operator Curve [ROC] area  [AUC] &gt; 0.5? )</scientifictitle>
+    <utrn> U1111-1146-3085</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition> Attention-Deficit/Hyperactive Disorder (ADHD)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Epidemiology</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Procedures:
+
+The present study will be performed in two clinical interviews for each child.
+
+Physical and neurological examinations (including handedness) and clinical
+history will be obtained for each child in the first interview.
+
+The child will be evaluated using the reference standard, i.e., Conners 3rd Edition(TM) and DSM-IV-TR diagnosis of ADHD. If as a result of the routinely assessment the child is diagnosed with ADHD combined type, he will be invited to voluntary participate in the study and have a second clinical interview to receive a detailed information and discuss the research.
+
+After receiving a comprehensive description of the study, written informed ascent/consent will be obtained from the children and parents.
+
+The child will be presented with a problem-solving task, i.e., the Battleship Game.
+The inference problem-solving task is a standardised computer version of the battleship boardgame: Battleship 5.0, that has been developed for this research using Lazarus IDE 1.02 for the open source Pascal compiler, Free Pascal (FPC) 2.6.0 to be executed under Linux Slackware 14.0.
+The full task includes eight individual games, each one defined by a standard template with the position of the ships.
+Each participant will be seated (beside the interviewer), in front of a computer screen running the computer game Battleship 5.0.
+
+Following the APA guidelines and prior to beginning each trial the interviewer will initialise the computer game session with a case identification number and the current date for each participant. Afterwards they will read a standardised version of the instructions and demonstrate to the children how to play the game. The child will be requested to verbalise the coordinated (letter-number) of his shots and simultaneously clicking the mouse pointer in
+the correspondent position in the board game screen. The tasks will be preceded by a short practise trial with some general examples.
+During the task completion the child will receive visual feedback (in the computer screen) about the number of shots already performed, time passed, and their ongoing performance (amount of sunk ships).
+At the end of each game the child will be asked if he or she would like to play another game.
+The total testing duration will be approximately 20-40 min; including one break after the fourth game.
+After finishing the interview an archive file will be created for each participant containing the data coming from the computer game Battleship 5.0 .
+
+A graph representing the inferential dynamics will be build using the (x,y) shots coordinates with GNUPLOT Version 4.4 patchlevel 3 and stored as a graphic file in PNG format. The graphic file is a binary image of 2048x2048 pixels, without borders with black background and the graph in white pixels.
+A FORTRAN code developed for this research and compiled with gfortran under Linux Slackware-64, 14.0 will be used to calculate Euclidean and dynamics measures from (x,y) shots coordinates i.e., geometric distance between shots,
+cumulative distance, instantaneous speed and average speed.
+Multifractal, Lacunarity and Entropy measures are going to be calculated from the graphic PNG files using  QM-2.01_alpha_2013_02_27 (Interactive Quantitative Morphology).
+MF (Multifractal &amp; Regression Java Tools) and FRACLAC V2.5wb126 for IMAGEJ 1.47m  will be used to get alternative replicated measurements from the same graphic PNG files.
+The Outcome Measures are: Total number of shots performed to solve the problem, their (x,y) coordinates and time between shots. A graph will be generated with the sequence of (x,y) coordinates of each shot fired to solve the problem; Multifractal and Lacunarity spectrum along with other geometrical measures (biomarkers) will be estimated from the resulting graph.</interventions>
+    <comparator>The reference standard used for this study is a combination of methods to establish the presence of the target condition, i.e., Conners 3rd Edition(TM) and DSM-IV-TR diagnosis of ADHD. </comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The set of Cartesian coordinates (x,y) representing the shot sequence fired by each subject to solve the problem.
+Including: 
+The total number of shots performed to solve the problem and the time between shots.</outcome>
+      <timepoint>Immediately after completion of interview and problem-solving task by each participant</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Result of ADHD diagnostic coming from: Conners 3rd edition and DSM-IV-TR.</outcome>
+      <timepoint>Immediately after completion of interview and problem-solving task by each participant</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>A multivariate outcome vector composed of the geometric measures estimated from the graph of each game which include:
+Multifractal spectrum of Generalised or Renyi dimensions for q integer values from  0 to10, including: Box-counting,  nformation and Correlation dimensions. 
+
+Lacunarity spectrum for e integer values from 1 to10 and Entropy measures.
+
+Geometrical and kinematic measures: i.e., geometric distance between shots, Cumulative distance, Instantaneous speed and Average speed.</outcome>
+      <timepoint>Immediately after completion of interview and problem-solving task by each participant</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The clinical history. including physical and neurological assessment and handedness.</outcome>
+      <timepoint>Immediately after completion of interview and problem-solving task by each participant</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria for cases:
+
+A full DSM-IV-TR diagnosis of ADHD combined type with associated impairment in at least two settings.
+
+Conners Rating Scale (CPRS) hyperactivity rating greater than two s above age -and sex- specific means.
+
+ADHD Patients totally drug-naive; that never used any psychoactive drug or received any psychoactive therapy.
+
+Inclusion criteria for controls:
+
+No DSM-IV-TR diagnosis of ADHD any type. 
+
+No Conners Parent Rating Scale (CPRS) hyperactivity rating greater than two s above age- and sex-specific means.</inclusivecriteria>
+    <inclusiveminage>7</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>12</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria for cases:
+
+Evidence of medical or neurological disorders, or any other Axis I psychiatric disorder.
+
+Exclusion criteria for controls:
+
+DSM-IV-TR diagnosis of ADHD any type. 
+
+Conners Parent Rating Scale (CPRS) hyperactivity rating greater than two s above age- and sex-specific means.
+
+Evidence of medical or neurological disorders, or any other Axis I psychiatric disorder.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>This is an exploratory, prospective, phase (I) diagnostic of accuracy study with a case-control convenience sampling design; that consider statistic control (as co-variates) for the potential confounding factors: age, gender, instruction level and ethnicity (ethnicity will be collected using the NZ Census related question as a template). Measures of intelligence like IQ scores are not going to be included, due to the fact that strong logical, statistical and methodological arguments have been raised against this practise in studies of neurodevelopmental disorders, particularly in ADHD. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/03/2014</anticipatedstartdate>
+    <actualstartdate>26/05/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>36</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Nelson and Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Fabian Labra-Sprohnle</primarysponsorname>
+    <primarysponsoraddress>Dr Fabian Labra-Sprohnle
+Paediatric Research Unit
+Nelson Marlborough District Health Board
+PO Box: 1144 Nelson 7040
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary> Summary of proposed research
+
+Attention-Deficit/Hyperactive Disorder (ADHD) is one of the most common childhood neurodevelopmental disorders. Despite this, no useful biomarker or gold standard diagnostic test exists. This research will test a new approach to identify biomarkers that may serve later research into diagnosis as well as in the therapy of ADHD. The proposed strategy is based on a diagrammatic representations of the dynamics of thought processes and its description by means of geometrical measures.
+
+Hypothesis:
+
+The dynamic patterns of thinking of children with ADHD are expected to be different when compared with their controls. It is postulated that some Euclidean and fractal descriptive measures (Cumulative distance, Generalized (Renyi) dimension and Lacunarity spectrum), have the ability to distinguish patients with ADHD from those without it, acting as diagnostic biomarkers.
+
+Study Aims:
+
+To describe the dynamic patterns of thinking of children with ADHD and their controls using standardised diagrams. 
+
+To estimate geometrical measures as biomarkers from the standardised diagrams.
+
+To determine whether the geometrical measures (biomarkers) have any ability to distinguish patients with ADHD from those without ADHD.
+
+To estimate the diagnostic accuracy of the geometrical measures (biomarkers) by evaluating sensitivity, specificity and the ROC curve area (AUC) (from traditional statistics classifiers and machine learning classifiers).
+
+To adjust and optimise the problem-solving task, and the data collection for the following phase.
+
+Designs and Methods:
+
+This is an exploratory phase (I)study of diagnostic accuracy with a case-control design.
+
+Inclusion criteria for cases:
+
+A full DSM-IV-TR diagnosis of ADHD combined type with associated impairment in at least two settings.
+
+Conners Rating Scale (CPRS) hyperactivity rating greater than two s above age -and sex- specific means.
+
+ADHD Patients totally drug-naive; that have never used any psychoactive drug or received any psychoactive therapy.
+
+Inclusion criteria for controls:
+
+No DSM-IV-TR diagnosis of ADHD any type. 
+
+No Conners Parent Rating Scale (CPRS) hyperactivity rating greater than two s above age- and sex-specific means.
+
+Exclusion criteria for cases:
+
+Evidence of medical or neurological disorders, or any other Axis (I)psychiatric disorder.
+
+Exclusion criteria for controls:
+
+DSM-IV-TR diagnosis of ADHD any type. 
+
+Conners Parent Rating Scale (CPRS) hyperactivity rating greater than two s above age- and sex-specific means.
+
+Evidence of medical or neurological disorders, or any other Axis (I) psychiatric disorder.
+
+Procedures:
+
+Each child will be interviewed, using the clinical method along with presenting them with a problem-solving task i.e, a computer version of the Battleship game developed for this research. A subsidiary routine of the same software will record the outcome measures from each game. 
+
+Outcome Measures:
+
+Total number of shots performed to solve the problem, their (x,y) coordinates and time between shots. A graph will be generated with the sequence of (x,y) coordinates of each shot fired to solve the problem; Multifractal and Lacunarity spectrum along with other geometrical measures (biomarkers) will be estimated from the resulting graph.
+
+Statistical Analysis:
+
+Multilevel Logistic Regression and Machine Learning classification techniques. Sensitivity, Specificity and a Receiver Operating Characteristics (ROC) analysis. 
+
+Research Impact:
+
+ADHD biomarkers could enable the early detection of ADHD, the monitoring of ongoing treatment, to make differential diagnosis, serve as a triage and to create a replacement test. From an epidemiological point of view, the most relevant use of ADHD biomarkers is the possibility to perform screening programs to estimate measures of the prevalence and incidence of ADHD.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Central Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Health and Disability Ethics Committees
+1 The Terrace
+C/- MEDSAFE, Level 6, Deloitte House
+10 Brandon Street
+PO Box 5013
+Wellington
+6011
+</ethicaddress>
+      <ethicapprovaldate>13/03/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Fabian Labra-Sprohnle</name>
+      <address> Dr Fabian Labra-Sprohnle
+ Paediatric Research Unit 
+Nelson Marlborough District Health Board
+PO Box: 1144 Nelson 7040</address>
+      <phone>Phone:  (64)(3)5447866</phone>
+      <fax />
+      <email>flabra@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Fabian Labra-Sprohnle</name>
+      <address>Dr Fabian Labra-Sprohnle
+Paediatric Research Unit 
+Nelson Marlborough District Health Board
+PO Box: 1144 Nelson 7040</address>
+      <phone>Phone:  (64)(3)5447866</phone>
+      <fax />
+      <email>flabra@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Fabian Labra-Sprohnle</name>
+      <address>Dr Fabian Labra-Sprohnle
+Paediatric Research Unit 
+Nelson Marlborough District Health Board
+PO Box: 1144 Nelson 7040</address>
+      <phone>Phone:  (64)(3)5447866</phone>
+      <fax />
+      <email>flabra@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Fabian Labra-Sprohnle</name>
+      <address>Dr Fabian Labra-Sprohnle
+Paediatric Research Unit 
+Nelson Marlborough District Health Board
+PO Box: 1144 Nelson 7040
+</address>
+      <phone>Phone:  (64)(3)5447866</phone>
+      <fax />
+      <email>flabra@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369285">
+  <stage>Registered</stage>
+  <submitdate>11/09/2015</submitdate>
+  <approvaldate>1/10/2015</approvaldate>
+  <actrnumber>ACTRN12615001023549</actrnumber>
+  <trial_identification>
+    <studytitle>Using thermal clothing to reduce heart failure morbidity during winter: a randomised controlled trial</studytitle>
+    <scientifictitle>Efficacy of thermal clothing in reducing hospitalisations during winter for heart failure patients</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Heart Failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Thermal clothing: two thermal tops, two pairs of thermal socks, one thermal hat.
+
+A large display indoor temperature monitor to be placed inside the home.
+
+A single A4 advisory sheet on when to wear the thermals, with the recommendation to wear the thermals in the following circumstances:
+1. If the indoor temperature is below 18.0 degrees C when you wake up, then wear the thermals under your normal clothes during the day.
+2. If the indoor temperature is below 18.0 degrees C degrees just before you go to bed, then wear the thermals in bed.
+3. If you are going outside for 10 minutes or more and the outdoor temperature is below 18.0 degrees C, then wear the thermals under your normal clothes.
+
+The intervention period is from 1 May 2016 to 30 September 2016 (5 months).
+
+Adherence to the thermals will be monitored using a self-completed clothing diary for one week during July 2016.</interventions>
+    <comparator>No extra clothing (standard care) and no advice about the dangers of cold bar what the participants will read in the participant information sheet.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of days in hospital using combined data on private hospital admissions from Medicare data and public hospital admissions from the Queensland Hospital Admitted Patient Data Collection.</outcome>
+      <timepoint>1 May 2016 to 30 September 2016</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life using EQ-5D</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality using the Pittsburgh sleep questionnaire</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of GP visits during winter  using Medicare data </outcome>
+      <timepoint>1 May 2016 to 30 September 2016</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall healthcare usage using a combination of: i) Medicare data, ii) the Queensland Emergency Department Information System, and iii) the Queensland Hospital Admitted Patient Data Collection</outcome>
+      <timepoint>1 May 2016 to 30 September 2016</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Systolic blood pressure using sphygmomanometer</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood viscosity by blood sample analysis</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cholesterol by blood sample analysis</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Fibrinogen by blood sample analysis</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>c-reactive protein by blood sample analysis</outcome>
+      <timepoint>Midwinter (July 2016) and the end of winter (Sep/Oct 2016)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Have a diagnosis of either systolic or diastolic heart failure</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Are pregnant (highly unlikely).
+2. A serious co-morbidity (e.g., cancer) or a serious physical impairment that prevents the participant from dressing themselves.
+3. Live in a residential care facility.
+4. Are unable to give informed consent.
+5. Were involved in our previous pilot.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be identified and approached in Dr Platts’ cardiology clinic and cardiology wards at The Prince Charles Hospital. The approach and consent will be made by a research nurse.
+
+The nurse will first complete the informed consent procedure and baseline questionnaire using a computer tablet. At this point they will not know the treatment allocation.
+
+The random allocation will occur once the nurse reaches the end of the baseline questions and clicks a button. Treatment allocation will be held using the REDCap (Research Electronic Data Capture) data management software. </concealment>
+    <sequence>We aim to recruit 120 patients who will be randomised to receive the thermals or not. A randomisation list will be created using the R software (www.r-project.org). The list will be in randomly permuted blocks in a 1:1 ratio using the "blockrand" function. We will stratify by recruitment location (ward/clinic) because of the higher risk of subsequent events for ward patients.
+
+The randomisation list will be created by the study statistician, and only they will be able to view the randomised groups.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Data will be analysed using an intention-to-treat approach, so if a participant in the thermal group did not wear the thermals, they will be still be included in the final analysis as a member of the thermal group.
+
+PRIMARY OUTCOME
+
+We will compare the number of days in hospital between the two groups using the bias corrected bootstrap to create non-parametric 95% confidence intervals for the difference between the mean number of days in hospital between the two groups. A parametric analysis would be a Poisson regression model with a dependent variable of number of days and independent variable of treatment group. However, in the pilot study we could not use the Poisson model because the assumption of independence between days was violated.
+
+To control for the differing lengths of observation times between participants we will divide each participants total number of days in hospital by their number of days under study. This is important because some participants may not be recruited until June.
+
+SECONDARY OUTCOMES
+
+We will compare the number of GP visits during winter using the same method as per the primary outcome. We will compare quality of life in midwinter and the end of winter using a mixed model with the quality of life score as the dependent variable, treatment group as the key independent variable, baseline quality of life as an independent variable and a random intercept to control for the within-participant correlation. This same analysis of covariance (ANCOVA) model will be used to compare sleep quality, blood pressures and cardiovascular risk factors.
+
+SAMPLE SIZE
+
+Sixty participants per group gives us an 80% power to detect a 40% reduction (effect size) in winter hospitalisation rates. This uses a Poisson regression model with a baseline rate of one hospitalisation per winter. We used a one-sided p-value of 5%. We used a one-sided test in order to reduce the sample size and save costs and time. Our focus is on the key decision to use thermals as a preventative measure rather than the hypothesis test. For this decision there is no difference between equivalence and thermals doing harm.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/04/2016</anticipatedstartdate>
+    <actualstartdate>5/04/2016</actualstartdate>
+    <anticipatedenddate>31/05/2016</anticipatedenddate>
+    <actualenddate>2/06/2016</actualenddate>
+    <samplesize>120</samplesize>
+    <actualsamplesize>91</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>30/09/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>The Prince Charles Hospital - Chermside</hospital>
+    <postcode>4032 - Chermside</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Queensland University of Technology</primarysponsorname>
+    <primarysponsoraddress>60 Musk Avenue, Kelvin Grove, Queensland 4059</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Heart Foundation</fundingname>
+      <fundingaddress>Level 12, 500 Collins Street, Melbourne, Victoria 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>The Prince Charles Hospital</sponsorname>
+      <sponsoraddress>627 Rode Road, Chermside, Queensland 4032</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Winter is a surprisingly dangerous time in Australia with greatly increased rates of death and hospitalisation. Winter death rates are 47% higher for heart failure and 32% higher for hypertensive disease compared with summer. Warm countries like Australia have a far greater winter increase in morbidity and mortality than cold countries like Sweden. This is because many Australian homes are inadequately insulated or heated, with indoor temperatures in winter often below 18 degrees C. This cold exposure increases blood pressure and inflammatory factors, which increases the risk of an acute cardiovascular event. 
+Home insulation and heating have both been proven to improve cardiovascular health and wellbeing during winter. This study will test if personal insulation also improves cardiovascular health. Heart failure patients will be randomised to receive no intervention or a pack containing thermal tops, hats and socks, indoor temperature monitors, and advice on when to wear the thermals. Our primary hypothesis is that winter hospital admissions will be reduced, and we will also examine improvements in blood pressure, inflammatory factors, quality of life, sleep and personal insulation.
+This will be the worlds largest study of the health benefits of personal insulation, and will build on our work with heart failure patients at The Prince Charles Hospital. Thermal clothes are a cheap and simple intervention that could greatly reduce winter morbidity and mortality across Australia.</summary>
+    <trialwebsite />
+    <publication>Main results published: Barnett AG, Stewart I, Beevers A, et al Thermal clothing to reduce heart failure morbidity during winter: a randomised controlled trial. BMJ Open 2017;7:e017592. doi: 10.1136/bmjopen-2017-017592.
+
+Trial data available on figshare: https://figshare.com/articles/Thermal_clothing_clinical_trial/4649231
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee Metro North Hospital and Health Service</ethicname>
+      <ethicaddress>The Prince Charles Hospital 
+Building 14
+Rode Road, Chermside QLD 4032
+</ethicaddress>
+      <ethicapprovaldate>8/09/2015</ethicapprovaldate>
+      <hrec>HREC/15/QPCH/215</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/369285-01_G_ThermalProtocol_v1_20150807.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology, 60 Musk Avenue, Kelvin Grove, Queensland 4059</address>
+      <phone>+61731386010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology, 60 Musk Avenue, Kelvin Grove, Queensland 4059</address>
+      <phone>+61731386010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>Queensland University of Technology, 60 Musk Avenue, Kelvin Grove, Queensland 4059</address>
+      <phone>+61731386010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Adrian Barnett</name>
+      <address>60 Musk Avenue, Kelvin Grove, Queensland 4059</address>
+      <phone>+61731386010</phone>
+      <fax />
+      <email>a.barnett@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

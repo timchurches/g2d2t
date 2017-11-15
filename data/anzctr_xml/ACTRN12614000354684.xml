@@ -1,0 +1,349 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365960">
+  <stage>Registered</stage>
+  <submitdate>19/03/2014</submitdate>
+  <approvaldate>2/04/2014</approvaldate>
+  <actrnumber>ACTRN12614000354684</actrnumber>
+  <trial_identification>
+    <studytitle>Targeted enhanced surveillance to observe vaccine impact against Pneumococcus</studytitle>
+    <scientifictitle>Evaluation of the effectiveness of the 13-valent pneumococcal conjugate vaccine against pneumococcal pneumonia in children</scientifictitle>
+    <utrn />
+    <trialacronym>TESTOV-Pneumo</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Pneumonia</healthcondition>
+    <healthcondition>Streptococcus pneumoniae</healthcondition>
+    <healthcondition>Empyema</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Pneumonia caused by Streptococcus pneumoniae is a leading cause of childhood morbidity and mortality. While vaccination programs against pneumococcus are highly effective in reducing invasive pneumococcal disease, there are concerns that they may lead to serotype replacement disease; a phenomenon which has been reported in children with empyema, a complication of pneumonia. This study will assess the effectiveness of the 13-valent pneumococcal conjugate vaccine (13vPCV) program (which includesadministration of 13vPCV to children and 2, 4 and 6 months, and an 18 month booster for  Aboriginal and Torres Strait Islander children residing in the NT) on hospitalised childhood pneumonia over 3 years. This study will also assess the bacterial and associated viral causes of pneumonia and empyema in children in Australia. </interventions>
+    <comparator>vaccine effectiveness will be estimated using a matched case-control analysis of PCV eligible children. For every case of SP pneumonia identified in this study, one or more date-of-birth and postcode-matched controls will be sampled from a de-identified Australian Childhood Immunisation Registry (ACIR) dataset</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Determine the real-world effectiveness of pneumococcal conjugate vaccine for preventing hospitalisation for Streptococcus pneumoniae (SP) confirmed and all-cause pneumonia; by testing patient blood, nasopharyngeal and pleural fluid samples to identify SP and perform further molecular testing to determine the isolates specific serotype. To determine vaccine effectiveness, idetified serotypes will be compared to those present in the current 13vPCV.</outcome>
+      <timepoint>At completion of the observational study (36 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the contribution of SP to complicated and uncomplicated pneumonia in Australian children following the introduction of 13vPCV. All subjects recruited with complicated or un-complicated pneumonia will have blood and nasopharyngeal samples, +/- pleural fluid samples tested for the presence of Streptococcus pneumoniae (SP) along with other commom bacteria and viruses. SP positive samples will be further tested to identify specific PCV or non-PCV serotypes.
+</outcome>
+      <timepoint>At the completion of the observational study (36 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess SP serotype replacement by comparing the distribution of serotypes causing complicated and uncomplicated SP pneumonia with those obtained for complicated pneumonia before the introduction of 13vPCV.
+</outcome>
+      <timepoint>At the completion of the observational study (36 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the contribution of non-SP bacterial causes of complicated childhood pneumonia.
+Culture of Blood +/- pleural fluid samples will be performed at each participating site as per hospital operating procedures. Specific molecular testing will occur using in-house PCR's to detect non-SP bacteria such as Haemophilus influenzae, MSSA &amp; MRSA</outcome>
+      <timepoint>At the completion of the observational study (36 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the contribution of infection with respiratory viruses to pneumonia in children, and to assess the role of viral co-infection in pneumococcal pneumonia.
+Nasopharyngeal samples from patients with complicated and un-complicated pneumonia will be cultured on enhanced growth medium to identify SP and other pathogens.</outcome>
+      <timepoint>At the completion of the observational study (36 months)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Children &lt; 18 years old hospitalized &lt;24 hours
+2. Xray confirmed pneumonia
+3. Presumed infective aetiology
+4. A full blood count performed and at least 250microL of blood in an EDTA tube available for further testing.  
+</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Significant co-morbidity, including haematologic malignancy, post stem cell or solid organ transplantation, cystic fibrosis, congenital malformation of the lung
+2. Hospitalised within 14 days of presentation
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The distribution of SP serotypes among empyema cases for the 7vPCV (from ARNiE) and 13vPCV periods will be compared using two-tailed chi square statistic or Fishers exact test for contingency tables. 
+
+The vaccination status of cases and each of its matched controls will be referenced with regard to the date of hospitalisation of the case. The vaccination status of each case (0 doses, 1 dose, 2 doses, or 3 or more doses) will be compared with that of matched controls using conditional logistic regression analysis to estimate the odds ratio of vaccination for cases versus controls. VE will be inferred from the odds ratio (ie. VE = 1  OR*100%) with 95% confidence intervals. VE will be estimated separately for: 
+1. complicated SP pneumonia (empyema), 
+2. uncomplicated SP PwiRIM, and 
+3. uncomplicated SP PwoRIM.
+If the absolute difference in the point estimates of VE is &lt;20%, the VE analyses will be pooled and reported as the primary VE measure, otherwise VE estimates will be reported separately as the primary VE measure.
+Secondary VE estimates will be calculated for:
+1. all pneumonia
+2. PCV-type SP pneumonia, and 
+3. non-PCV-type SP pneumonia. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Case control</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>2200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <hospital>Sydney Children's Hospital - Randwick</hospital>
+    <hospital>Princess Margaret Hospital - Subiaco</hospital>
+    <hospital>The Children's Hospital at Westmead - Westmead</hospital>
+    <hospital>Royal Children's Hospital - Herston</hospital>
+    <hospital>Royal Darwin Hospital - Tiwi</hospital>
+    <hospital>Womens and Childrens Hospital - North Adelaide</hospital>
+    <hospital>The Royal Childrens Hospital - Parkville</hospital>
+    <hospital>John Hunter Children's Hospital - New Lambton</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Alice Springs Hospital - Alice Springs</hospital>
+    <hospital>Lady Cilento Children's Hospital - South Brisbane</hospital>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>6008 - Subiaco</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4029 - Royal Brisbane Hospital</postcode>
+    <postcode>4101 - South Brisbane</postcode>
+    <postcode>0811 - Casuarina</postcode>
+    <postcode>5006 - North Adelaide</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>2605 - Garran</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>0870 - Alice Springs</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of New South Wales</primarysponsorname>
+    <primarysponsoraddress>High St, Kensington NSW 2052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health Medical Research Council project grant (1064841)</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Adam Jaffe</sponsorname>
+      <sponsoraddress>School of Women's and Children's Health
+Level 3 Sydney Children's Hospital
+High Street, Randwick 2031 NSW
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Pneumonia in children is a worldwide problem and a leading cause of morbidity and mortality. Rarely pneumonia is complicated by an empyema where fluid collects around the lung and requires drainage with a tube. Many different types of bacteria can cause pneumonia and empyema. Streptococcus pneumoniae (SP) is one of the leading causes and has more than 90 different strains. It is unknown why some children are susceptible to pneumonia from SP; some evidence from adult patients suggests that there may be a genetic reason for susceptibility to Pneumococcal infection. Furthermore, viruses are commonly found in the upper airway of children with pneumonia and  increase the risk of infection with SP. Vaccination can help prevent infection with many of the strains of pneumococcus. Australia recently introduced a vaccine which covers 13 of these strains. The main aim of this study is to look at the effectiveness of this newly introduced vaccine. The study will also look at the other bacteria and viruses that can cause pneumonia in children in Australia using sensitive molecular tests.
+
+
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Local Health District</ethicname>
+      <ethicaddress>New Lambton 
+NSW 2305</ethicaddress>
+      <ethicapprovaldate>31/07/2014</ethicapprovaldate>
+      <hrec>EC00130</hrec>
+      <ethicsubmitdate>30/04/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Mater Health Services HUman Research Ethics Committee</ethicname>
+      <ethicaddress>Raymond Terrace 
+South Brisbane
+Queensland 
+4101</ethicaddress>
+      <ethicapprovaldate>8/08/2014</ethicapprovaldate>
+      <hrec>EC00332</hrec>
+      <ethicsubmitdate>17/06/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Health Human Research Ethics Committee </ethicname>
+      <ethicaddress>Level 2, I Block
+Monash Medical Centre
+246 Clayton Road
+Clayton
+VIC 3168</ethicaddress>
+      <ethicapprovaldate>24/02/2015</ethicapprovaldate>
+      <hrec>14247B</hrec>
+      <ethicsubmitdate>8/07/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>WCHN Human Research Ethics Committee</ethicname>
+      <ethicaddress>Level 2, Samuel Way Building
+72 Kings William Road
+Womens and Childrens Hospital
+North Adelaide 
+SA 5006</ethicaddress>
+      <ethicapprovaldate>1/11/2014</ethicapprovaldate>
+      <hrec>HREC/14/WCHN/92</hrec>
+      <ethicsubmitdate>12/08/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Central Austrailia Human Research Ethics Committee</ethicname>
+      <ethicaddress>Centre for Remote Health 
+Cnr Simpson &amp; Skinner st
+PO Box 4066
+Alice Springs 
+NT 0871</ethicaddress>
+      <ethicapprovaldate>1/08/2014</ethicapprovaldate>
+      <hrec>14-247</hrec>
+      <ethicsubmitdate>12/06/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee of the Northern Territory Department of Health and Menzie School of Research </ethicname>
+      <ethicaddress>John Matthews Building 
+Royal Darwin Hospital Campus
+Rocklands Drive
+Casuarina
+NT 0810</ethicaddress>
+      <ethicapprovaldate>18/08/2014</ethicapprovaldate>
+      <hrec>2014-2219</hrec>
+      <ethicsubmitdate>20/05/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Princess Margaret Hospital for Children HREC</ethicname>
+      <ethicaddress>Level 1, Children's Clinical Research Facility 
+Princess Margaret Hospital 
+Roberts Road, 
+Subiaco
+Perth
+WA 6840</ethicaddress>
+      <ethicapprovaldate>18/12/2014</ethicapprovaldate>
+      <hrec>2014097EP</hrec>
+      <ethicsubmitdate>14/08/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>ACT Human Research Ethics Committee</ethicname>
+      <ethicaddress>Building 10, Level 6
+Canberra Hospital 
+PO Box 11
+Woden 
+ACT 2606</ethicaddress>
+      <ethicapprovaldate>26/11/2015</ethicapprovaldate>
+      <hrec>ETH.9.15.161</hrec>
+      <ethicsubmitdate>17/08/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Tasmanian Health and Medical Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office of Research Services
+University of Tasmania
+Private Bag 1
+Hobart
+Tasmania 
+7001 </ethicaddress>
+      <ethicapprovaldate>5/05/2015</ethicapprovaldate>
+      <hrec>H0014697</hrec>
+      <ethicsubmitdate>10/02/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Adam Jaffe</name>
+      <address>Level 3 Sydney Children's Hospital
+School of Women's and Children's Health
+High Street, Randwick 2031 NSW
+
+
+</address>
+      <phone>+612 93821799</phone>
+      <fax />
+      <email>adam.jaffe@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Roxanne Strachan</name>
+      <address>Level 0, Ainsworth Building, South West Wing
+Sydney Children's Hospital
+High Street Randwick 2031 NSW</address>
+      <phone>+61293820639</phone>
+      <fax />
+      <email>roxanne.strachan@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Adam Jaffe</name>
+      <address>Level 3 Sydney Children's Hospital
+School of Women's and Children's Health
+High Street, Randwick 2031 NSW</address>
+      <phone>+61293821799</phone>
+      <fax />
+      <email>adam.jaffe@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Roxanne Strachan</name>
+      <address>Level 0, Ainsworth Building, South West Wing
+Sydney Children's Hospital
+High Street Randwick 2031 NSW</address>
+      <phone>+61293820639</phone>
+      <fax />
+      <email>roxanne.strachan@sesiahs.health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -15,6 +15,10 @@
 #' @importFrom XML xmlToDataFrame
 
 library(tidyverse)
+library(DBI)
+stopifnot("MonetDBLite" %in% rownames(installed.packages()))
+dbdir <- "playground/MonetDBLite"
+con <- dbConnect(MonetDBLite::MonetDBLite(), dbdir)
 
 source("R/passwords.R")
 
@@ -80,8 +84,6 @@ drugbank_fetches <- get_drugbank("everything", username=drugbank_username, passw
 create_drugbank_data_frames(drugbank_fetches)
 
 # ugly renaming of columns with spaces in them - rename() in dplyr doesn't seem to work?
-
-
 drugbank_target_all_polypeptide_ids$drug_ids <- drugbank_target_all_polypeptide_ids$"Drug IDs"
 drugbank_target_all_polypeptide_ids$name <- drugbank_target_all_polypeptide_ids$"Name"
 drugbank_target_all_polypeptide_ids$gene_name <- drugbank_target_all_polypeptide_ids$"Gene Name"
@@ -114,7 +116,67 @@ drug_terms2drug_id <- bind_rows(drug_common_names, drug_synonyms) %>% arrange(dr
 
 drug_terms2drug_id %>% rename(drug_term=term, drug_term_type=type) %>% inner_join(gene_terms2drug_id %>% rename(gene_term=term, gene_term_type=type), by="drug_id") -> drugs2drug_id2genes
 
-drug_terms2drug_id %>% rename(associated_id=drug_id) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/drug_terms.csv")
+# Used in HealthHack 2017
+# drug_terms2drug_id %>% rename(associated_id=drug_id) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/drug_terms.csv")
 
-gene_terms2drug_id %>% rename(associated_id=ID) %>% filter(term != "NA", !term %in% 0:99, !term %in% LETTERS, !term %in% letters) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/gene_terms.csv")
+# gene_terms2drug_id %>% rename(associated_id=ID) %>% filter(term != "NA", !term %in% 0:99, !term %in% LETTERS, !term %in% letters) %>% select(associated_id, term, type) %>% distinct(associated_id, term, type) %>% write_csv("data/gene_terms.csv")
 
+# Write to a database
+store_drugbank_dfs <- function(df_name, dbcon) {
+  # load into database
+  dbWriteTable(dbcon, df_name, get(df_name), overwrite=TRUE)
+  message(paste("Loaded", df_name, "tbl containing", nrow(get(df_name)), "rows into MonetDB database."))
+  invisible(NULL)
+}
+
+store_drugbank_dfs("drug_common_names", con)
+store_drugbank_dfs("drug_name2drug_id", con)
+store_drugbank_dfs("drug_synonyms", con)
+store_drugbank_dfs("drug_terms2drug_id", con)
+store_drugbank_dfs("drugbank_all_drug_links", con)
+store_drugbank_dfs("drugbank_all_drugbank_vocabulary", con)
+store_drugbank_dfs("drugbank_carrier_all_polypeptide_ids", con)
+store_drugbank_dfs("drugbank_carrier_all_uniprot_links", con)
+store_drugbank_dfs("drugbank_enzyme_all_polypeptide_ids", con)
+store_drugbank_dfs("drugbank_enzyme_all_uniprot_links", con)
+store_drugbank_dfs("drugbank_target_all_polypeptide_ids", con)
+store_drugbank_dfs("drugbank_target_all_uniprot_links", con)
+store_drugbank_dfs("drugbank_transporter_all_polypeptide_ids", con)
+store_drugbank_dfs("drugbank_transporter_all_uniprot_links", con)
+store_drugbank_dfs("drugs2drug_id2genes", con)
+store_drugbank_dfs("gene_common_names", con)
+store_drugbank_dfs("gene_symbols", con)
+store_drugbank_dfs("gene_terms2drug_id", con)
+store_drugbank_dfs("gene2drug_id", con)
+
+assign_drugbank_dfs <- function(df_name,envir, dbcon) {
+  # assign to the calling environment
+  df <- as.tibble(dbReadTable(con, df_name))
+  assign(df_name, df, envir=envir)
+  message(paste("Loaded", df_name, "tbl containing", nrow(df), "rows."))
+  invisible(NULL)
+}
+
+load_drugbank_dfs <- function(dbcon=NULL) {
+  assign_drugbank_dfs("drug_common_names", parent.frame(), dbcon)
+  assign_drugbank_dfs("drug_name2drug_id", parent.frame(), dbcon)
+  assign_drugbank_dfs("drug_synonyms", parent.frame(), dbcon)
+  assign_drugbank_dfs("drug_terms2drug_id", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_all_drug_links", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_all_drugbank_vocabulary", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_carrier_all_polypeptide_ids", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_carrier_all_uniprot_links", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_enzyme_all_polypeptide_ids", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_enzyme_all_uniprot_links", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_target_all_polypeptide_ids", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_target_all_uniprot_links", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_transporter_all_polypeptide_ids", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugbank_transporter_all_uniprot_links", parent.frame(), dbcon)
+  assign_drugbank_dfs("drugs2drug_id2genes", parent.frame(), dbcon)
+  assign_drugbank_dfs("gene_common_names", parent.frame(), dbcon)
+  assign_drugbank_dfs("gene_symbols", parent.frame(), dbcon)
+  assign_drugbank_dfs("gene_terms2drug_id", parent.frame(), dbcon)
+  assign_drugbank_dfs("gene2drug_id", parent.frame(), dbcon)
+}
+
+load_drugbank_dfs(dbcon=con) 

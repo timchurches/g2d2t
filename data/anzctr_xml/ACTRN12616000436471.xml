@@ -1,0 +1,299 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369434">
+  <stage>Registered</stage>
+  <submitdate>20/12/2015</submitdate>
+  <approvaldate>6/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000436471</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised trial of the pro-phylactic use of melatonin in critically ill patients to evaluate if this leads to a reduction in incidence of delirium (Pro-MEDIC study)</studytitle>
+    <scientifictitle>Pro-phylactic administration of Melatonin for the prevention of Delirium in Intensive Care units  a randomized placebo controlled trial (Pro-MEDIC study)</scientifictitle>
+    <utrn>U1111-1175-1814</utrn>
+    <trialacronym>Pro-MEDIC</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Delirium</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Melatonin (4mg) to be given once daily at 21:00 (oral or nasogastric medication) to intensive care patients who have an expected ICU length of stay &gt;72 hrs. Patients must be enrolled within 48 hrs of their admission. Given for 14 days or until ICU discharge (whichever is shorter). The decision on whether nasogastric or oral route is used will be left up to the patient and bedside nurse. Melatonin is inexpensive with an excellent safety profile and is widely used in the community. It is a natural hormone stimulated by low light, peaking during the main sleep period. It helps regulate the sleep-wake cycle, which is a problem in ICU. Serum melatonin levels are lower post surgery, in delirious post surgical patients and in those administered opioids. Drops in melatonin levels and fluctuations in its metabolite 6-SMT are associated with delirium. Administered by bedside ICU nurse and adherence will be monitored by the examining the patients medication chart</interventions>
+    <comparator>Placebo - similar liquid in appearance - nursing/pharmacy/medical staff will be blinded.  
+Both formulations - sucrose, glycerol, flavouring and purified water so will be identical in taste (melatonin added to intervention formulation)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Delirium free assessments (as measured by CAM-ICU score)</outcome>
+      <timepoint>Twice daily assessment - any positive result during ICU stay or 14 days (whichever is shorter)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severity of delirium as measured by CAM-S score</outcome>
+      <timepoint>Twice daily (if positive for delirium) during ICU stay or 14 days (whichever is shorter)
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>ICU, 28 and 90 day mortality</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of ICU stay - this will be assessed by the principal investigator or research co-ordinator at each site using computer results systems linked to medical records</outcome>
+      <timepoint>Duration of stay in terms of number of days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay - this will be assessed by the principal investigator or research co-ordinator at each site using computer results systems linked to medical records or medical records themselves</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ventilator days - this is recorded in ICU systems already and will be extracted by the research co-ordinator or principal investigator</outcome>
+      <timepoint>Number of days ventilated during during ICU stay or 14 days (whichever is shorter)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physical restraints - yes/no each day during ICU stay or 14 days (whichever is shorter) - nursing staff will report whether they used physical restraints that day</outcome>
+      <timepoint>Daily need for physical restraints - each day during ICU stay or 14 days (whichever is shorter) </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Anti-psychotics - these will be recorded as total dose each day - recorded on case report form</outcome>
+      <timepoint>Daily doses of anti-psychotics required -  during ICU stay or 14 days (whichever is shorter) </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic cost - cost consequence analysis using cost of length of stay in ICU if there is a reduction in length of stay in the intervention group</outcome>
+      <timepoint>Cost-consequence approach based on potential reduction in length of stay and cost of intervention - evaluated after completion of data collection</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality - total sleep time by polysomnography</outcome>
+      <timepoint>Performed on two occasions (days 2-3 and day 5-7) in a subset of 100 patients</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality - sleep efficiency on polysomnography</outcome>
+      <timepoint>Performed on two occasions (days 2-3 and day 5-7) in a subset of 100 patients</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality - percentage REM sleep by polysomnography</outcome>
+      <timepoint>Performed on two occasions (days 2-3 and day 5-7) in a subset of 100 patients</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality - arousal index by polysomnography</outcome>
+      <timepoint>Performed on two occasions (days 2-3 and day 5-7) in a subset of 100 patients</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients admitted to the Intensive Care Unit, identified by the treating intensivist as expected to have an ICU length of stay &gt;72 hours.  Patients must be enrolled within 48 hours of their ICU admission.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1 Patients already on melatonin before their admission to ICU
+2 Prior hypersensitivity reaction to any of the components of the study drug
+3 Patients expected to be discharged within 72 hrs of their ICU admission 
+4 Non English speaking
+5 Expected or inevitable death within next 48 hours
+6 Patients that are not expected to improve adequately to be able to be assessed with a CAM-ICU score during their ICU stay
+7 Patients that are not able to be assessed due to neurological problems that would affect their ability to participate in a CAM-ICU assessment (as judged by treating physician) 
+8 No enteral route  melatonin not available in intravenous formulation
+9 Pregnancy or breastfeeding. 
+10. Hepatic impairment defined as Alanine Transferase (ALT) &gt;500 IU/L, previous liver transplant or liver cirrhosis categories Childs-Pugh B and C.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Computer generated randomisation list by independent statistician. Randomisation will be stratified by site. Melatonin and placebo will be liquid form in sealed bottles, same taste and appearance.
+Once allocated, blinding will assist allocation concealment in that at no point in the study will the clinicians, investigators or other study personnel be aware of the allocation</concealment>
+    <sequence>Computer generated sequence</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample Size Estimation
+Estimates of sample size were made based on the percentage of delirium free assessments (the primary outcome) and the length of stay in ICU (LOS).  LOS was chosen in addition to the percentage of delirium free assessments, as a significant relationship been delirium and LOS has been observed. 
+
+An audit of 100 patients at SCGH and JHH was used to provide preliminary data to guide sample size calculations. 
+
+Both estimates of sample size were performed with an alpha value of 0.05 and a power of 0.80.  
+
+Percentage of delirium free assessments
+
+In the audit, 54% of assessments were deemed delirium free (standard deviation of 45%).  The research group is interested in being able to detect a 10% increase in the percentage of delirium free assessments.  This would give a sample size calculation of 319 per group.  Adjustment for non-parametric test, (15%) increases this to 367 per group.  It is expected that 10% of patients recruited in the study will not be assessable for delirium at any point during the study.  To account for this, and missing data/loss to follow up, the sample size was increased by 15% to 423 patients per group (total rounded to 850). 
+
+Length of stay
+
+LOS using the study criteria did not result in a normal distribution of values but a gamma distribution. Thus using a sample size calculation for a gamma distribution as outlined in Cundill &amp; Alexander, 2015 (67) to detect a difference in length of stay of one day, 387 patients per group will be required. 
+
+Sample size:  Based on the two sample size calculations a total of 850 patients will be recruited for the study, with 425 patients in each arm. 
+
+Statistical Analyses Plan
+The primary outcome, percentage of delirium free assessments, will be analyzed using a Mann Whiney U Test.  Generalized linear models will be used to analyze secondary outcomes including ICU and hospital length of stay, severity and duration of delirium, duration of mechanical ventilation and sleep quality.  Where possible, covariates such as age, gender, admission type and diagnosis type will be factored into the analysis.  Mortality will be analyzed using Cox proportion hazard regressions. Data analysis is to be carried out using STATA software.
+
+Predetermined Subgroups
+Predetermined subgroup analysis will include:
+
+1 Delirium free assessments by age: less than 65 and 65 years of age or above
+2 Delirium free assessments by gender
+3 Delirium free assessments by delirium subgroup  hyperactive, hypoactive and mixed
+4 Delirium prevalence by delirium medical subgroup
+
+Interim Analyses
+An interim analysis will be carried out after data has been collected on the first 100 subjects.  The interim analysis will be done to examine the primary aim and review the number of adverse events in each group.  This will be done to ensure results of the study are in line with the sample size calculations and that the treatment is being well tolerated.  If the treatment is having a greater effect than expected, the prevalence is notably higher or lower than expected, or there are high rates of SUSARs in the treatment group the study may be closed before the scheduled completion date.
+
+We have chosen to use the Haybittle-Peto stopping rule.  Thus if there is a probability of less than 0.001 in either direction that the treatment and placebo are different the Data Safety Monitoring Board will recommend that the study be ceased.  The Haybittle-Peto rule is relatively conservative but as melatonin has an excellent safety profile it is very unlikely that patients will be exposed to harm a result of participating in the trial.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2 / Phase 3</phase>
+    <anticipatedstartdate>2/05/2016</anticipatedstartdate>
+    <actualstartdate>20/07/2016</actualstartdate>
+    <anticipatedenddate>30/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>850</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>240</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/03/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Joondalup Health Campus - Joondalup</hospital>
+    <hospital>St John of God Midland Public Hospital - Midland</hospital>
+    <hospital>St John of God Hospital, Murdoch - Murdoch</hospital>
+    <hospital>St John of God Hospital, Subiaco - Subiaco</hospital>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>6008 - Subiaco</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Sir Charles Gairdner Hospital</primarysponsorname>
+    <primarysponsoraddress>Sir Charles Gairdner Hospital, Hospital Ave, Nedlands, Western Australia 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>State Health Research Advisory Council</fundingname>
+      <fundingaddress>Department of Health
+Level 2, C Block, 189 Royal Street, EAST PERTH WA 6004
+PO Box 8172, Perth Business Centre WA 6849</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>nil</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Aim
+Delirium is associated with increased mortality, ventilator time, hospital length of stay, poor functional status and cognitive impairment, use of physical restraints and medical costs. This study will help determine whether the use of melatonin prophylactically decreases the incidence of delirium in Intensive Care patients.  
+
+Secondary aims will be to see if melatonin prophylaxis via its effect on delirium and sleep results in reduced mortality, length of stay (hospital and ICU), ventilator days and use of anti-psychotics, sedatives and physical restraints. 
+The economic analysis will evaluate the cost benefits of the intervention
+
+Participant recruitment
+850 patients from Adult Public ICUs who meet all of the inclusion and none of the exclusion criteria.  Randomisation and enrolment will only occur Monday-Friday due to limitation of resources although treatment and assessment will occur on weekends and after-hours.
+
+Randomisation and consent
+ Patients may be unable to consent at time of enrolment. In these cases an emergency waiver of consent will be used, as allowed for in the NHMRC National Statement, in conjunction with acknowledgement from the patients next-of-kin that they are not aware of any reason why the patient would have chosen not to participate. All patients will be followed up and provided the opportunity to consent to continued study participation once capacity is regained. 
+
+Intervention
+Melatonin 4mg in oral suspension or placebo (similar appearance) will be given at 21:00 for 14 days or until discharge from ICU. 
+A subset of 100 patients will have two separate sleep EEGs done which is the gold standard to assess sleep quality and duration on days 2-3 and 5-7 of their admission
+
+Analysis described earlier.  An interim analysis will take place after 100 patients and 400 patients (employing peto-haybittle rule with p value 0.001) and a pre-planned economic analysis
+
+Outcome assessment will be done by trained intensive care registrars.  Data recording and management will be done by the principal investigators and research nurses
+</summary>
+    <trialwebsite>Nil as yet</trialwebsite>
+    <publication>Nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Hospital Ethics Committee</ethicname>
+      <ethicaddress>Sir Charles Gairdner Hospital Ethics Committee
+Hospital Ave
+Nedlands
+WA 6009</ethicaddress>
+      <ethicapprovaldate>14/03/2016</ethicapprovaldate>
+      <hrec>205-122</hrec>
+      <ethicsubmitdate>4/10/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Bradley Wibrow</name>
+      <address>Sir Charles Gairdner Hospital, Hospital Ave, Nedlands, WA 6009</address>
+      <phone>+61422410689</phone>
+      <fax />
+      <email>bradley.wibrow@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bradley Wibrow</name>
+      <address>Intensive Care Unit
+Sir Charles Gairdner Hospital
+Hospital Ave
+Nedlands 
+Western Australia 6009</address>
+      <phone>+61422410689</phone>
+      <fax />
+      <email>bradley.wibrow@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bradley Wibrow</name>
+      <address>Intensive Care Unit
+Sir Charles Gairdner Hospital
+Hospital Ave
+Nedlands 
+Western Australia 6009</address>
+      <phone>+61422410689</phone>
+      <fax />
+      <email>bradley.wibrow@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bradley Wibrow</name>
+      <address>Intensive Care Unit
+Sir Charles Gairdner Hospital
+Hospital Ave
+Nedlands 
+Western Australia 6009</address>
+      <phone>+61422410689</phone>
+      <fax />
+      <email>bradley.wibrow@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

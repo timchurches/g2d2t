@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364534">
+  <stage>Registered</stage>
+  <submitdate>3/07/2013</submitdate>
+  <approvaldate>4/07/2013</approvaldate>
+  <actrnumber>ACTRN12613000743763</actrnumber>
+  <trial_identification>
+    <studytitle>The D-Health Trial: A trial of vitamin D for prevention of mortality and cancer in older Australian adults.</studytitle>
+    <scientifictitle>A randomised placebo-controlled trial of high-dose vitamin D supplementation for prevention of mortality and cancer in Australian adults aged 60-79.</scientifictitle>
+    <utrn>NIL</utrn>
+    <trialacronym>NIL</trialacronym>
+    <secondaryid>P1519 QIMR Berghofer Medical Research Institute</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Mortality</healthcondition>
+    <healthcondition>Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Alternative and Complementary Medicine</conditioncode1>
+      <conditioncode2>Other alternative and complementary medicine</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention Arm: An oral tablet containing 60,000IU of Vitamin D taken once a month for 5 years. 
+Participant adherence to the intervention will be monitored through annual surveys where participants will be asked the number of tablets taken and whether they have started taking off-label vitamin D supplements. A random sample of participants from each arm of the study will be asked to supply a blood sample for testing of 25 hydroxy vitamin D (25(OH)D).
+</interventions>
+    <comparator>Participants randomised into the placebo arm will be allocated a Placebo of soya oil, softgel capsule (glycerol, gelatin, titanium dioxide, purified water) to be taken once a month for 5 years. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Primary outcome: All cause mortality as assessed though data linkage to the National Death Index (NDI).</outcome>
+      <timepoint>Time point: Linkage to the NDI for up to 15 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary outcome: Total cancer incidence, colorectal cancer incidence. 
+Assess though linkage to Australian Cancer Registers.
+</outcome>
+      <timepoint>Time point: Linkage to Cancer Registers for up to 15 years
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tertiary Outcome: Total cardiovascular events, depression, upper respiratory illnesses, exacerbations of asthma or chronic obstructive pulmonary disease, hyper- or hypothyroidism, diabetes, high blood pressure, falls, fractures, arthritis, use of anti-inflammatory, use of antibiotics, cognitive decline, overall self-reported health status, muscle aches and pains. 
+Assess though D-Health Annual Surveys and Data linkage to health records.
+</outcome>
+      <timepoint>Time point: Baseline and annual surveys for 5 years and linkage to health records for up to 15 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Aged 60 to 79 years old 
+2. Enrolled to vote 
+3. Do not have any of the health conditions listed in exclusions criteria and are not cognitively impaired 
+4. Are not taking vitamin D at doses greater than 500 IU/day 
+</inclusivecriteria>
+    <inclusiveminage>60</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>79</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>People will be excluded if they are unable to give consent or to communicate well enough in English to understand study materials or if they indicate in an initial screening form that they: 
+1. Have any of the following medical conditions (which either preclude or require high dose vitamin D supplementation or prevent informed consent): hyperparathyroidism, sarcoidosis, osteomalacia, osteoporosis, a history of renal calculi, a history of high calcium 
+2. Are taking vitamin D at doses greater than 500 IU/day 
+3. Cognitive impairment 
+4. Do not have a telephone (landline or mobile) 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be randomly selected from the Australian Electoral Roll and invited to participate by post. The initial approach to participants will be outsourced to DataTime Services Pty Ltd. They will send an invitation to potential participants, enclosing an ‘Expression of Interest’ form on which people who express an interest in taking part will be asked to answer several questions to determine eligibility and to provide full contact details. Those eligible will be posted a full information booklet, a trial consent form, a Medicare consent form, a baseline survey and a reply-paid envelope. Once the trial consent form and baseline survey are returned (either by mail or online – see below) participants will be formally entered into the trial and randomised. The Medicare consent form is optional. Participants will be randomised into one of the two groups. Tablets will be supplied to QIMR Berghofer by an external company that will meet good manufacturing practice (GMP) standards, labelled as A and B. The code will be held by the tablet manufacturing company and a delegate from QIMR Berghofer. Participants and investigators will remain blinded until primary outcomes have been analysed. </concealment>
+    <sequence>When a participant is recruited a QIMR Berghofer staff member will upload the participant ID number into the online randomisation system which will generate the code. The system will use random permuted blocks to allocate the intervention code. Participants and investigators will remain blinded until primary outcomes have been analysed.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Nil</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>We based our sample size calculations on cumulative risk of death over a 10-year period. We used sex- and age-specific (by single year of age) death rates in the general Australian population to estimate the expected risk for trial participants. Detectable relative risk (80% power and significance 0.05) was looked at with different sample sizes, based on a logrank test, allowing the mortality rate for the trial participants to vary between 60% and 100% of the population mortality rate (ie standardised mortality ratio (SMR) of 0.6  1). We have chosen a sample size of 25,000 as beyond this, there is minimal gain in power, but a substantially increased cost. 
+
+Intention-to-treat analyses will be used to assess the effect of vitamin D supplementation on all endpoints. Use of the Cox proportional hazards model will allow for variable follow-up lengths and estimation of hazard ratios for mortality and other events obtained from linkage. For outcomes such as falls, fractures and nonmelanoma skin cancer where events can occur more than once, we will use Poisson or negative binomial models (depending on the distribution) to model the number of events. Endpoints that are measured on a continuous scale and that cannot be captured through passive monitoring will be assessed using linear regression models, with analyses to estimate the effects of differential loss-to-follow-up and therefore differences in patient-reported outcomes. 
+In exploratory analyses we will evaluate effect modification by age, sex, baseline risk factors, dietary calcium intake and predicted baseline vitamin D level (in our pilot data we were able to predict a baseline vitamin D level of less than 50 nmol/L with a C statistic of 0.7). The study has insufficient power for these stratified analyses, but we plan to pool our data with data from other trials to substantially increase the available sample size. 
+Interim analyses will occur after the first linkage  and after subsequent linkages. Final analysis will be at a minimum of 5 years after the final participant has completed the intervention phase.  
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/01/2014</anticipatedstartdate>
+    <actualstartdate>7/01/2014</actualstartdate>
+    <anticipatedenddate>31/12/2014</anticipatedenddate>
+    <actualenddate>17/06/2015</actualenddate>
+    <samplesize>25000</samplesize>
+    <actualsamplesize>21315</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>7/01/2024</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>QIMR Berghofer Medical Research Institute</primarysponsorname>
+    <primarysponsoraddress>300 Herston Road, Herston, Brisbane, QLD, 4006  </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council, Project Grant 1046681 </fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra ACT 2601
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Nil</sponsorname>
+      <sponsoraddress>Nil</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary> Vitamin D in your body comes from exposure to the sun or from your diet. Having enough vitamin D in your blood stream is important for maintaining healthy bones, but we dont really know how much our bones need. Having higher vitamin D levels might also reduce risks of diseases such as diabetes, heart disease, multiple sclerosis and some cancers, but this is uncertain. 
+To fully understand the health effects of vitamin D we need to do studies with very large numbers of people. We are aiming to recruit about 25,000 Australians aged 60-79. The aims are to see if taking a vitamin D tablet changes the risk of a person being diagnosed with health conditions such as cancer, heart disease or infections (like flu). D-Health will give us much-needed information so that we can advise people correctly in the future. 
+</summary>
+    <trialwebsite>dhealth.qimrberghofer.edu.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The QIMR Berghofer Human Research Ethics Committee</ethicname>
+      <ethicaddress>The QIMR Berghofer HREC
+QIMR Berghofer Medical Research Institute
+300 Herston Rd
+Herston QLD 4006
+</ethicaddress>
+      <ethicapprovaldate>20/05/2013</ethicapprovaldate>
+      <hrec>P1519</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Neale</name>
+      <address>Cancer and Population Studies Group 
+QIMR Berghofer Medical Research Institute 
+Central Level 4 300 Herston Road Herston Brisbane QLD 4006 </address>
+      <phone> +61 7 3845 3598</phone>
+      <fax>+61 7 3845 3502</fax>
+      <email>Rachel.Neale@qimrberghofer.edu.au  </email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Catherine Baxter</name>
+      <address>Cancer and Population Studies Group 
+QIMR Berghofer Medical Research Institute 
+Central Level 4 300 Herston Road Herston Brisbane QLD 4006 </address>
+      <phone>+61 7 3845 3557</phone>
+      <fax>+61 7 3845 3502</fax>
+      <email>Catherine.Baxter@qimrberghofer.edu.au </email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rachel Neale</name>
+      <address>Cancer and Population Studies Group 
+QIMR Berghofer Medical Research Institute 
+Central Level 4 300 Herston Road Herston Brisbane QLD 4006 </address>
+      <phone>+61 7 3845 3598</phone>
+      <fax>+61 7 3845 3502</fax>
+      <email>Rachel.Neale@qimrberghofer.edu.au  </email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sashika Naidoo</name>
+      <address>QIMR Berghofer Medical Research Institute 
+300 Herston Road 
+Herston QLD 4029 </address>
+      <phone>+61 7 3362 0433</phone>
+      <fax>+61 7 3362 0109</fax>
+      <email>Sashika.naidoo@qimrberghofer.edu.au  </email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

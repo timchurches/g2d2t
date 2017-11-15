@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365472">
+  <stage>Registered</stage>
+  <submitdate>11/12/2013</submitdate>
+  <approvaldate>16/12/2013</approvaldate>
+  <actrnumber>ACTRN12613001376730</actrnumber>
+  <trial_identification>
+    <studytitle>Investigating a new approach to re-starting Warfarin after Surgery</studytitle>
+    <scientifictitle>A prospective, randomised comparison in hospitalised patients re-commenced on warfarin post-operatively at the usual maintenance dose versus a loading dose strategy to assess time to a stable therapeutic INR.</scientifictitle>
+    <utrn>U1111-1151-2779 </utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Re-commencing post-operative warfarin</healthcondition>
+    <healthcondition>elective surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Blood </conditioncode1>
+      <conditioncode2>Other blood disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Guidelines uniformly recommend pre-operative cessation/reversal of the anticoagulant warfarin to ensure an INR &lt;1.5 prior to surgery. Warfarin is recommenced orally on the night of surgery at the prior known maintenance dose. The patient has often been discharged prior to achieving a stable therapeutic INR, and is commonly followed by a hospital-based extended care service until this occurs. This requires daily point-of-care INR monitoring and bridging anticoagulation, usually with a low-molecular weight heparin. This study utilises the fact that the response to a warfarin loading dose is proportional to the maintenance dose to explore the utility of a structured loading dose strategy in these patients to shorten the time to re-achieve a stable therapeutic INR. This would decrease the use of bridging anticoagulation and shorten the length-of-stay under extended care services. The oral loading dose strategy uses twice the Standardised Maintenance Dose daily for the first 3 days of re-commencement (commencing on the night of surgery) and returning to the normal maintenance dose on the 4th day, where the Standardised Maintenance Dose is 2.5 x current dose / current INR. The new loading dose strategy will be compared to current guideline recommendations in a non-blinded, randomised study. Medication adherence will not be monitored.</interventions>
+    <comparator>Patients undergoing surgery who are re-commenced  on warfarin at their prior maintenance dose according to current guidelines. Re-commencement will occur on the night of surgery.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+    <interventioncode>Treatment: Surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to achieve a stable therapeutic INR (range 2-3) where a stable INR is the first INR of two consecutive daily INRs in the therapeutic range or the first INR in the therapeutic range where the previous INR was within 0.5</outcome>
+      <timepoint>achievement of stable therapeutic INR </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>episodes of overanticoagulation (INR&gt;=4) prior to achieving a stable therapeutic INR</outcome>
+      <timepoint> achievement of a stable therapeutic INR</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of stay under Hospital at Home care</outcome>
+      <timepoint>achievement of a stable therapeutic INR</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Subgroups analysis of patients commenced on drugs known to interact with warfarin that are commenced during the induction period. This will be separated into two groups - interacting drugs known to increase the response to warfarin (elevate the INR) and drugs known to decrease the efficacy of warfarin. All new post-operative drug use during warfarin re-commencement will be recorded. </outcome>
+      <timepoint>achievement of a stable therapeutic INR</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sub-group analysis of patients maintained on daily doses (measured as the Standardised Maintenance Dose) of &lt;2mg</outcome>
+      <timepoint>achievement of a stable therapeutic INR</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sub-group analysis of patients maintained on daily doses (measured as the Standardised Maintenance Dose) of &gt;7.5mg</outcome>
+      <timepoint>achievement of a stable therapeutic INR</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>&gt; 18 years old, receiving ongoing warfarin therapy, undergoing elective surgery, able to provide written, informed consent, and followed-up by Hospital-at-Home services for INR monitoring</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to provide written, informed consent 
+Not followed-up by Hospital-at-Home until a stable therapeutic INR is achieved
+Undergoing cardiac surgery (note  patients with pre-existing artificial mitral or aortic valves are eligible as long as the surgery is not cardiac)
+Surgery expected to grossly prevent normal oral intake in the week post-operatively eg colon resection
+Use of more than 2 mg of vitamin K, fresh frozen plasma, or Prothrombinex-VT for INR reversal immediately pre-operatively
+Use of any vitamin K, fresh frozen plasma, or Prothrombinex for INR reversal in the week after surgery, prior to a stable therapeutic INR being achieved. Normal blood transfusions are permissible and will be considered as a sub-group.
+Commencement of regular therapy with drugs known to interact with warfarin in the period between the most recently measured maintenance INR and the commencement of surgery, excluding routine drugs administered immediately prior to surgery, such as antibiotic prophylaxis. This includes, imidazole antifungals, macrolide antibiotics, fluoroquinolones, amiodarone, omeprazole, metronidazole, cholestyramine, carbamazepine, phenytoin, barbiturates, rifampicin, sulfamethoxizole/trimpethoprim, SSRIs, thyroxine, NSAIDs.
+Lack of reliable INR results with corresponding maintenance dose
+Most recent routine maintenance dose INR below 1.5 or above 3.5 for patients with a therapeutic range of 2-3, or above 4.0 for patients with a therapeutic range of 2.5-3.5
+Warfarin reversed during warfarin re-commencement period due to unexpected return to theatre
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients recieving ongoing warfarin management requiring elective surgery will be approached pre-operatively. Consenting patients will be randomised to either normal warfarin re-commencement or a loading dose strategy. The allocation will not be blinded to patient or staff. </concealment>
+    <sequence>A patient allocation chart will be drawn up where the sequence generation will be stratified in blocks of four using the toss of a coin. Patients will be entered into the study as consecutive patients on the allocation chart. </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Time to reach a stable INR will be assessed with survival analysis and co-variants analysed using Coxs F-test. The chi-square test will be used for non-parametric data, Students t test for parametric data. P values are considered significant at less than 0.05. 
+Previous local data from patients who were commenced on doses equivalent to their eventual maintenance dose indicate a median time to stable INR of 6 days (50% of patients in range at 6 days). For the test group we aim to have at least 70% of patients in the therapeutic range by then. This requires 93 patients in each group (at beta=0.8, alpha=0.5). For a safety endpoint, this would also enable us to detect up to an 8% absolute increase in episodes of overanticoagulation (INR&gt;4), assuming there are no episodes of overanticoagulation using the national guideline approach.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3 / Phase 4</phase>
+    <anticipatedstartdate>1/05/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/05/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>186</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+    <hospital>Repatriation Hospital - Daw Park</hospital>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>5041 - Daw Park</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Flinders Medical Centre</primarysponsorname>
+    <primarysponsoraddress>Flinders Drive
+Bedford Park SA 5042</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Flinders Medical Centre</fundingname>
+      <fundingaddress>Flinders Drive
+Bedford Park SA 5042</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The blood thinner warfarin is stopped prior to elective surgery for safety reasons. Immediately after the operation it is re-commenced at the usual dose, but takes a week or longer to become therapeutic again (until the blood is thinned out again). This means the patient has to be followed at home by extended care services and injected with a faster acting blood thinner until the warfarin becomes therapeutic again. 
+Some modelling using existing data indicates that if we know the usual warfarin dose of the patient, we may be able to develop a more rapid-acting loading dose strategy that shortens the time for the warfarin to become therapeutic again. This would mean the hospital services wouldn't need to follow the patient for as long, and the patient wouldn't need as many blood thinner injections before their warfarin was therapeutic again. 
+
+</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>Roberts GW et al. Re-initiation of warfarin anticoagulation - modelling a loading dose strategy. Journal of Pharmacy Practice and Research. December 2013 (in press)</publication>
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname> Southern Adelaide Combined Human Research Ethics Committee </ethicname>
+      <ethicaddress>Flinders Drive
+Flinders Medical Centre
+Bedford Park SA 5041</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>EC00188</hrec>
+      <ethicsubmitdate>28/11/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Drive
+Flinders Medical Centre
+Bedford Park SA 5042</address>
+      <phone>61 8 82046655</phone>
+      <fax />
+      <email>greg.roberts2@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive
+Bedford Park SA 5042 </address>
+      <phone>61 8 82046655</phone>
+      <fax />
+      <email>greg.roberts2@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Medical Centre
+Flinders Drive
+Bedford Park SA 5042</address>
+      <phone>61 8 82046655</phone>
+      <fax />
+      <email>greg.roberts2@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Greg Roberts</name>
+      <address>Pharmacy Department
+Flinders Drive
+Flinders Medical Centre
+Bedford Park SA 5042</address>
+      <phone>61 8 82046655</phone>
+      <fax />
+      <email>greg.roberts2@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

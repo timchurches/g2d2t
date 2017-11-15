@@ -1,0 +1,240 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366628">
+  <stage>Registered</stage>
+  <submitdate>1/07/2014</submitdate>
+  <approvaldate>11/07/2014</approvaldate>
+  <actrnumber>ACTRN12614000735651</actrnumber>
+  <trial_identification>
+    <studytitle>Communication Skills Training for Healthcare Workers as a technique to reduce patient perpetrated violence: A Randomized Clinical Trial.</studytitle>
+    <scientifictitle>Among Healthcare workers, does Communication Skills Training or mentalization training reduce patient perpetrated violence.</scientifictitle>
+    <utrn>U1111-1158-6871</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patient aggression</healthcondition>
+    <healthcondition>Traumatic Stress </healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Communication Skills Training.
+
+This consists of a scripted group training called "It's All About Communication" that uses video examples of clinical situations together with a workbook and trainer's guide. 
+
+The aim is for participants to reflect on their communication style and to teach them how to analyze, reflect, and modify their communication depending on the patient or client's circumstances. 
+
+The training programme consists of four weekly, face to face group sessions, administered by a facilitator using the training materials, lasting between 50 and 75 minutes.</interventions>
+    <comparator>Mentalization.
+
+The control group will be offered four sessions of mentalization practice, using a an acceptance and compassion model. 
+
+The training programme consists of four weekly, face to face group sessions, administered by a facilitator using the training materials, lasting between 50 and 75 minutes.
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Perception of Patient Aggression Scale, NZ modification (POPAS-NZ)</outcome>
+      <timepoint>Baseline, post intervention (at week four), one month later (week eight, three and six months later</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Impact of Events Scale, Revised, Patient completed.</outcome>
+      <timepoint>Baseline, post intervention (at week four), one month later (week eight, three and six months later</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Interpersonal communication competence scale (ICCS)</outcome>
+      <timepoint>Baseline, post intervention (at week four), one month later (week eight, three and six months later</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kessler 10, Patient completed</outcome>
+      <timepoint>Baseline, post intervention (at week four), one month later (week eight, three and six months later</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Working in a healthcare or disability setting.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>1. Caring for a member of one's personal family.
+2. Unable to speak English.
+3. Not a Registered Health Care Professional</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Within two regions of New Zealand, all healthcare providers will be contacted and permission requested to recruit from the organization. 
+
+Once this is obtained, potential participants will be met in their workplace and invited to participate. They will be given a consent form and information sheet, and time to consider and consult with family or others as to if they will participate. 
+
+Once groups  of seven to nine participants in each workplace are indentified, the group will be assigned to an intervention randomly. 
+
+We cannot conceal the intervention from the group, and all outcomes are self-reported. </concealment>
+    <sequence>We will use computer generated random numbers held by a person outside the study, at a central site,  to allocate intervention</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Cluster (or group) randomisation, from multiple organizations.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>In order to provide 80% power to detect differences of 0.5 SD between arms of the study at follow-up (i.e., moderate effect sizes) for the primary continuous outcomes, using two-sided tests at the 0.05 level and assuming a correlation between baseline and follow-up values of r=0.5 or higher, we would need the equivalent of 48 participants in each arm with full data.  As this would involve participants nested within groups (mean of 8.5 participants/group) and nested within organisations (mean of 20 participants/organisation), assuming ICCs of 0.05 and 0.01 for these respectively, producing design effects of 1.375 and 1.19, this resulted in a final sample size of 79/group.  To allow for approximately 20% loss to follow-up, 100 participants will be recruited to each arm of the study (total n=200).
+Appropriate summary statistics will be presented for all outcomes of interest.  Differences in changes between the two arms of the study will be examined using appropriate regression models (linear for continuous, binary logistic for dichotomised, and Poisson or negative binomial for count outcomes) adjusting for baseline values.  Standard regression diagnostics will be used in each case.  As missing data will potentially be informative, differences between participants with and without follow-up data will be conducted along with sensitivity analyses to examine the robustness of any findings.  All statistical tests will be conducted at the two-sided 0.05 level.  Stata 13.1 and R 3.1.0 (or later versions) will be used for all analyses.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>4/09/2014</anticipatedstartdate>
+    <actualstartdate>9/02/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>8/02/2016</actualenddate>
+    <samplesize>200</samplesize>
+    <actualsamplesize>134</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>31/08/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago, Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>P O Box 913
+Dunedin 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Hume Memorail Fund</fundingname>
+      <fundingaddress>Department of Psychological Medicine
+University of Otago
+P.O. Box 13
+Dunedin 9054</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Christopher Gale</sponsorname>
+      <sponsoraddress>Department of Psychological Medicine
+University of Otago
+P O Box 913 
+Dunedin 9054</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Nicola Swain</othercollaboratorname>
+      <othercollaboratoraddress>Department of Psychological Medicine University of Otago P O Box 913 Dunedin 9054</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Maria Baby</othercollaboratorname>
+      <othercollaboratoraddress>Department of Psychological Medicine University of Otago P O Box 913 Dunedin 9054</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patient initiated violence is a workplace hazard in all healthcare settings, for trained and untrained staff. A previous pilot study showed that training in communication skills decreased the rate of such aggression. In this group-randomized trial we will compare communication skills training with mindfulness, to see which decreases the risk of patient violence over six months.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>2/12/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>19/08/2014</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher Gale</name>
+      <address>Department of Psychological Medicine
+Dunedin School of Medicine
+University of Otago
+P O Box 913
+Dunedin 9054</address>
+      <phone>+64 3 4797355</phone>
+      <fax>+64 3 474 7934</fax>
+      <email>chris.gale@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Nicola Swain</name>
+      <address>Department of Psychological Medicine
+Dunedin School of Medicine
+University of Otago
+P O Box 913
+Dunedin 9054</address>
+      <phone>+64 3 474 7299</phone>
+      <fax>+64 3 474 7934</fax>
+      <email>nicola.swain@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Christopher Gale</name>
+      <address>Department of Psychological Medicine
+Dunedin School of Medicine
+University of Otago
+P O Box 913
+Dunedin 9054</address>
+      <phone>+ 64 3 474 7355</phone>
+      <fax>+64 3 474 7934</fax>
+      <email>chris.gale@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Maria Baby</name>
+      <address>Department of Psychological Medicine
+Dunedin School of Medicine
+University of Otago
+P O Box 913
+Dunedin 9054</address>
+      <phone>+64 3 474 7389</phone>
+      <fax>+64 3 474 7934</fax>
+      <email>mar42892@student.otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

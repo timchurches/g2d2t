@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336848">
+  <stage>Registered</stage>
+  <submitdate>20/04/2011</submitdate>
+  <approvaldate>27/04/2011</approvaldate>
+  <actrnumber>ACTRN12611000428965</actrnumber>
+  <trial_identification>
+    <studytitle>Using a pharmacokinetic-pharmacodynamic response surface interaction model to control propofol  remifentanil infusion for bispectral index (BIS) targeted anaesthesia</studytitle>
+    <scientifictitle>Using a PK-PD interaction model to control propofol  remifentanil infusion for bispectral index (BIS) targeted anaesthesia in patients: a proof of concept study</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Evaluating pharmacokinetic pharmacodymic interaction models for infusion of anaesthetic drugs</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Current automated methods to infuse anaesthetic drugs are reliant on pharmacokinetic models. These models target plasma concentrations and do not account for interactions between drugs. We will conduct a proof of concept study to evaluate the use of linked pharmacokinetic - pharmacodynamic models for infusion of anaesthetic drugs. The study model will target effect (as Bispectral Index, or BIS monitoring) and will account for interactions between anaesthetic drugs. Propofol and remifentanil will be given as study drugs. Only patients who were to receive these agents as part of their standard anaesthetic care will be recruited.  Doses of propofol and remifentanil will be within the normal range of standard care - the dose given during total intravenous anaesthesia (TIVA) for both drug varies with patient requirements during normal practice and this will also be the case in this study. For the purposes of the study, we will be interested in the ratio of propofol dose to remifentanil dose. Standard procedure for administration of TIVA using propofol and remifentanil is via pharmacokinetic based infusion pump. In this situation anaesthetists select a target plasma or effect site concentration. Although the same pumps will be used, the pumps themselves will be driven by external software from a study designated laptop and drug infused as per a pharmacodynamic response surface model. Anaesthetists will instead select a target BIS level. All patients will receive BIS monitoring as part of the study protocol. This is already considered standard monitoring in our hospital.All aspects of patient care will remain with the attending anaesthetist as is routine care. Patients will be studied only once, during their surgery.</interventions>
+    <comparator>There is no comparator group for this study as it is a proof-of-concept project at this stage. Future research may compare infusion accuracy between pharmacodynamic response surface models and pharmacokinetic models. The results of this project will be interpreted in the context of the variability associated with currently established pharmacokinetic models and with other published response surface models.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The difference between model predicted BIS values and observed BIS values will be used to calculate the percentage performance error as a measure of model performance.</outcome>
+      <timepoint>Continuous (values assessed as per recordings during anaesthetic)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Divergence, bias and wobble will be assessed as secondary measures of model performance. These are measures of accuracy of model predicted BIS values as compared with observed BIS values; as for the primary variable these will be calculated at each timepoint where a predicted and observed BIS are available (likely one per 5 minute epoch during anaesthetic maintenance, and one per 30 second epoch during anaesthetic induction).</outcome>
+      <timepoint>Continuous (values assessed as per recordings during anaesthetic)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients will be eligible if they are
+1. American Society of Anesthesiologists physical status I and II, 
+2. aged 18-45 years,
+3. scheduled for a general anaesthetic with endotrachael intubation and the use of muscle relaxants,
+4. scheduled for elective surgery on Levels 4 and 8 of Auckland City Hospital.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>45</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be excluded if they
+1. have a history of chronic opioid consumption,
+2. use psychoactive medication (including high alcohol intake),
+3. have neurological dysfunction,
+4. require premedication before surgery</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Twenty suitable patients will be recruited from the waiting list for elective surgery at Auckland City Hospital on Levels 4 and Levels 8. Potential participants will be approached either on the hospital ward (wherever possible) or during preoperative check-in. As this is an uncontrolled, proof of study participants do not require allocation to one or other treatments - all participants will recieve their total intravenous anaesthetic (TIVA) as infused by the study model and under the study conditions.</concealment>
+    <sequence>n/a</sequence>
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint>Pharmacokinetics / pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2011</anticipatedstartdate>
+    <actualstartdate>1/11/2011</actualstartdate>
+    <anticipatedenddate>1/05/2012</anticipatedenddate>
+    <actualenddate>24/07/2012</actualenddate>
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland City Hospital, Auckland, New Zealand</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Auckland</primarysponsorname>
+    <primarysponsoraddress>Deptartment of Anaesthesiology
+L12 Support Building
+Auckland City Hospital
+2 Park Road
+Auckland
+1023</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Green Lane Research and Educational Board (Phd stipend)</fundingname>
+      <fundingaddress>Green Lane Research and Educational Fund Board, PO Box 110042, Auckland Hospital, Auckland 1148</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Response surface models are becoming increasingly prevalent in the anaesthetic literature. They have been shown to be useful in indentifying optimal drug dose combinations designed to achieve specific clinical outcomes. An example is the optimal combination of propofol and remifentanil required to tolerate esophageal instrumentation while maintaining spontaneous breathing. Additionally, these models can be used to predict patient wake up times at the end of anaesthesia, and have been implemented in novel anaesthetic display monitors. The latter is likely to improve drug titration for individual patients by promoting the active use of pharmacokinetic and pharmacodynamic knowledge in theatre.
+We believe that response surface models are potentially useful when combinations of drugs that are known to display synergistic interactions are given as infusions. Knowledge about drug interactions is commonly employed in anaesthesia, but rarely is it directly applied using pharmacodynamic models. Software is available that allows us to drive infusions based on interaction models using standard ADHB alaris infusion pumps. These models are extendable to three drug interactions. We wish to conduct a proof of concept study to validate our hypothesis that pharmacodynamic response surface models can be directly applied to administration of anaesthesia, and to assess the clinical feasibility of using these models in this context. We hypothesise that response surface model driven infusions will allow anaesthetists to target a level of drug effect (in this study Bispectral Index, or BIS, as a measure of depth of anaesthesia) while varying the ratio of propofol:remifentanil. This would be a useful tool in anaesthesia where the ratio of hypnotic:opioid is often varied depending on the particular needs of individual patients, but manual targeting of effect levels such as BIS is often difficult.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Upper South B Regional Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+6 Hazeldean Road
+Lvl 1 Montgomery Watson Building
+Addington
+Christchurch</ethicaddress>
+      <ethicapprovaldate>4/07/2011</ethicapprovaldate>
+      <hrec>URB/11/06/014</hrec>
+      <ethicsubmitdate>25/04/2011</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Jacqueline Hannam</name>
+      <address>Department of Anaesthesiology
+University of Auckland
+L12 Support Building
+Auckland City Hospital
+2 Park Road
+Grafton 
+Auckland
+1023</address>
+      <phone>+64 3737 599 ext 89300</phone>
+      <fax />
+      <email>j.hannam@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Jacqueline Hannam</name>
+      <address>Department of Anaesthesiology
+University of Auckland
+L12 Support Building
+Auckland City Hospital
+2 Park Road
+Grafton 
+Auckland
+1023</address>
+      <phone>+64 3737 599 ext 89300</phone>
+      <fax />
+      <email>j.hannam@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Jacqueline Hannam</name>
+      <address>Department of Anaesthesiology University of Auckland L12 Support Building Auckland City Hospital 2 Park Road Grafton Auckland 1023</address>
+      <phone>+64 3737 599 ext 89300</phone>
+      <fax />
+      <email>j.hannam@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Timothy Short</name>
+      <address>Dept of Anesthesia
+Auckland City Hospital
+Park Road
+Grafton 
+Auckland 1023</address>
+      <phone>+64274542464</phone>
+      <fax />
+      <email>Tims@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

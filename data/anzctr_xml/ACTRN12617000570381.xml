@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372737">
+  <stage>Registered</stage>
+  <submitdate>12/04/2017</submitdate>
+  <approvaldate>24/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000570381</actrnumber>
+  <trial_identification>
+    <studytitle>Building bone from blood: The effect of vitamin D on circulating bone-forming cells</studytitle>
+    <scientifictitle>A randomised, double blind, placebo-controlled trial to determine the effect of vitamin D supplementation on the number of Circulating Osteo-Progenitor (COP) cells in vitamin D-deficient individuals</scientifictitle>
+    <utrn>U1111-1195-4316 </utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Vitamin D deficiency</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>After randomisation, on day 1 of the 3 month dosing period, participants will be given either loading dose of one tablet containing 50000IU of vitamin D orally (treated group - Arm 1) or a tablet containing placebo (placebo group - Arm 2). Both groups will also receive 1000IU/day of vitamin D for 3 months starting on day 1 post-loading dose for both groups. Participants will be required to return every 4 weeks for a total of 3 monthly visits. During each monthly visit, adherence will be monitored by asking the participants to bring their empty bottles of vitamin D tablets. At their monthly visits, participants will receive enough vitamin D tablets (1,000 IU/tablet) for a month. In addition, a monthly blood test (40ml) will be performed. </interventions>
+    <comparator>Arm 2 will consist of placebo (tablets containing microcrystalin cellulose)  followed by 1000IU/day of vitamin D for 3 months, which will be started on day 1 post-loading dose.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome of the intervention will be the proportion of participants with an increase in number of circulating osteoprogenitor cells (COP) cells (as a percentage), measure by flow cytometry, at the end of the first month post-loading dose.
+</outcome>
+      <timepoint>One month post-loading dose (50,000 IU) of vitamin D</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The secondary outcome would be to observe the rate of increase (monthly) of COP cells for three months. Percentage of COP cells in the circulation will be mesured monthly by flow cytometry.</outcome>
+      <timepoint>At 1, 2 and 3 months post-loading dose</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1- Age &gt; 55yo
+2- Both male and females
+3- Independent in Activities of Daily Living (ADL) (Barthel &gt; 60%)
+4- Vitamin D deficient &lt; 35 nmol/L
+5- Normal Bone Mineral Density (BMD) (&gt;-1 SD)</inclusivecriteria>
+    <inclusiveminage>55</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1- Current smoker
+2- High Body Mass Index (&gt;30)
+3- Diabetics
+4- Hematopoietic / Hematological diseases
+5- Current or prior use of drugs that could interfere with bone mass (ie Glucocorticosteroids, anti-resorptive drugs, Hormone Replacement Therapy, Teriparatide)
+6- History of recent / traumatic fractures in the last 3 months
+7- History of bone tumours
+8- Aortic valve calcification
+9- HyperPTH (&gt;6.8pmol/L)
+10- Abnormal thyroid function (Thyroid Stimulating Hormone (TSH) &gt; 10mIU/L)
+11- Estimated Glomerular Filtration rate (eGFR) &lt; 35 ml/min</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Randomisation is achieved at the pharmacy through central randomisation by computer.</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size calculations were based on COP levels observed in healthy populations from previous unpublished datasets. Since COP cells are not normally distributed, the mean and SD of logarithmic transformation will be used (mean -0.9, SD 0.9). It is expected that the intervention group will reach normal COP values within 1 month, while the placebo group will be 50% lower in value. Based on this estimate and assuming a two-tailed significance level of 0.05 and power of 80%, 42 patients per group will be required. Sample size calculations were obtained using STATA 13.0.
+Withdrawn participants will not be replaced in the study. Every patient will be contacted and reminded prior to their monthly visits, therefore the drop-out is not expected to exceed 5%. The total number of patients recruited will therefore be 84
+All the results will be presented following CONSORT guidelines. Baseline characteristics will be presented as frequencies with percentages and median values with interquartile ranges. The outcome variable will be transformed to follow normal distribution if required. Primary outcome (the difference in COP levels at 1 month) will be analysed on intention to treat principle with case-wise deletion of those patients with missing primary outcome. Statistical test used will be 2-samples independent t-test with no adjustment for covariates (two-tailed level of significance at 5%). Secondary outcomes (the difference in COP levels at 2 and 3 months) will be analysed in similar manner. As part of sensitivity analysis for primary and secondary outcomes, the per-protocol analysis will be performed as well as adjustment for unbalanced baseline covariates using linear regression. Missing data imputation will not be attempted unless a large proportion of missing data or its non-random nature is observed during the study and at analysis stage in which case missing data imputation may be performed and results presented as part of sensitivity analysis.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>5/06/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>27/10/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>84</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>29/01/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Footscray Hospital - Footscray</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <hospital>Williamstown Hospital - Williamstown</hospital>
+    <postcode>3011 - Footscray</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <postcode>3016 - Williamstown</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Western Health</primarysponsorname>
+    <primarysponsoraddress>176 Furlong Road
+St. Albans VIC 3021</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Melbourne</fundingname>
+      <fundingaddress>176 Furlong Road
+St. Albans VIC 3021</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Bone remodelling involves a process of continuous bone resorption and formation through the co-ordinated recruitment of osteoclasts (bone resorbing cells) and osteoblasts (bone forming cells), and it is well recognised that the bone marrow provides the progenitor cells (mesenchymal and hematopoietic stem cells) needed for such processes to occur. Mesenchymal stem cells (MSCs) give rise to bone (including osteoblasts), adipose tissue and muscle, while the hematopoietic stem cells (HSCs) give rise to the blood cells (including osteoclasts). Many studies have attempted to investigate factors that regulate the bone remodeling process, with vitamin D as a popular choice due to its known beneficial effects in bone conditions such as osteoporosis in the elderly. Although its effect on osteoblasts, osteoclasts and myocytes are well known, the effects on the progenitor cells are not. 
+Currently, the origin of osteoblastic cells is not as well understood as osteoclastic cells. With ageing, there is a significant reduction in the number and quality of the osteogenic precursors within the bone marrow, which is more prominent in osteoporotic bone. This has allowed researchers to hypothesise that increasing the number of osteoblast precursors in bone could be used as a new approach to osteoporosis. However, one of those potential therapeutic options involves an invasive and complex technique of bone biopsy with aspiration to obtain such progenitor cells for ex-vivo culturing and re-implantation for treatment in osteoporotic patients. This has led to the research of less invasive techniques that aim to assess the quality and quantity of such progenitor cells without the need of invasive procedures, with one such development being the discovery of circulating osteogenic progenitor (COP) cells within peripheral blood.
+COP cells are considered as a surrogate of MSC population in the bone marrow and are implicated in processes such as the pubertal growth spurt and frailty. Presently, there are few interventional studies regarding COP cells described in the literature. As such, more should be done in an attempt to explore and further characterise the biology of COP cells and their exact role in bone formation. In addition, COP cells could become a biomarker for diseases that affect MSC population, such as sarcopenia and osteoporosis, and also as an indicator of the therapeutic response to treatments that induce bone formation.
+There have been many studies recognising various compounds that affect bone. Vitamin D is one of those compounds with an anabolic effect on bone and also as an inhibitor of bone marrow adipogenesis. In this study, we hypothesise that individuals who are deficient in vitamin D will have a relatively lower number of COP cells as compared to healthy individuals. Secondly, we also hypothesise that the beneficial effect of vitamin D supplementation on human bone is associated with increasing numbers of  COP cells.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>MELBOURNE HEALTH HUMAN RESEARCH ETHICS COMMITTEE</ethicname>
+      <ethicaddress>Office for Research
+The Royal Melbourne Hospital
+Level 2 South West
+300 Grattan Street
+Parkville VIC 3050
+</ethicaddress>
+      <ethicapprovaldate>10/02/2017</ethicapprovaldate>
+      <hrec>HREC/16/MH/348</hrec>
+      <ethicsubmitdate>9/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Gustavo Duque</name>
+      <address>Level 3 WCHRE, Sunshine Hospital
+176 Furlong Road
+St. Albans VIC 3021</address>
+      <phone>+61 3 83958121</phone>
+      <fax />
+      <email>gustavo.duque@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rita Kinsella</name>
+      <address>Level 3 WCHRE, Sunshine Hospital
+176 Furlong Road
+St. Albans VIC 3021</address>
+      <phone>+61 3 83958121</phone>
+      <fax />
+      <email>rita.kinsella@wh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rita Kinsella</name>
+      <address>Level 3 WCHRE, Sunshine Hospital
+176 Furlong Road
+St. Albans VIC 3021</address>
+      <phone>+61 3 83958121</phone>
+      <fax />
+      <email>rita.kinsella@wh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rita Kinsella</name>
+      <address>Level 3 WCHRE, Sunshine Hospital
+176 Furlong Road
+St. Albans VIC 3021</address>
+      <phone>+61 3 83958121</phone>
+      <fax />
+      <email>rita.kinsella@wh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

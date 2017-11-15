@@ -1,0 +1,191 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335630">
+  <stage>Registered</stage>
+  <submitdate>21/06/2010</submitdate>
+  <approvaldate>23/06/2010</approvaldate>
+  <actrnumber>ACTRN12610000518066</actrnumber>
+  <trial_identification>
+    <studytitle>A randomized trial comparing Transurethral resection of the prostate (TURP) with 120W photoselective vapourization of the prostate (PVP) in men with lower urinary tract symptoms</studytitle>
+    <scientifictitle>Laser vapourization of the prostate in men with benign prostate enlargement.  Long term results and cost analysis.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Benign prostate enlargement</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Surgical techniques</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Other renal and urogenital disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Laser vapourization of prostate (PVP) compared to TURP.  PVP uses a 120W green light laser to vapourize prostate tissue to create an opening to allow an improved urinary flow.  The procedure takes between 30 and 80 minutes.  There is very little bleeding and saline can be used to washout the bladder.</interventions>
+    <comparator>TURP is the long established "gold standard" to improve urinary flow blocked by an enlarged prostate.  An electrical current is used to remove chips of prostate.  Whilst generally quicker than PVP there are risks of bleeding and fluid absorption.  Saline cannot be used as an irrigant as it will not allow the passage of an electrical current.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary end point is urinary flow measured with a flow meter.</outcome>
+      <timepoint>Pre operation 3 months, 1 year, 5 years following surgery</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Improvement in clinical symptoms assessed with the International prostate symptom score (IPSS)</outcome>
+      <timepoint>Pre operation 3 months, 1 year, 5 years following surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall procedure costs - staff costs, theatre time, theatre disposables, pathology costs.  All timings of cases will be recorded at the time of surgery and costs estimated using data provided by hospitals.</outcome>
+      <timepoint>At time of surgery/admission and 5 years post surgery</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Urinary flow rate &lt; 15mls/sec, IPSS &gt; 12</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Prostate cancer, inability to provide informed consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients offered access to trial from organisations operation waiting list.  Computerized random number allocator with sealed envelopes representing either TURP or PVP</concealment>
+    <sequence>Sealed envelopes will have numbers on to be selected by random number generator</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2010</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>150</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Philip McCahy</primarysponsorname>
+    <primarysponsoraddress>Department of Urology
+Casey Hospital
+Kangan Drive
+Berwick
+Vic 3806</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Southern Health</fundingname>
+      <fundingaddress>Casey Hospital
+Kangan Drive
+Berwick
+Vic 3806</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Department of Urology, Monash Medical Centre</sponsorname>
+      <sponsoraddress>Monash Medical Centre Moorabbin
+Centre Road
+East Bentleigh
+Vic 3165</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>PVP is a new procedure that may one day be able to replace TURP as the main treatment for men with benign prostate enlargement.  There has only ever been one randomized controlled trial of PVP with TURP and this was using the now outdated 80W model.  Recent advice from the UK National Institute for Health and Clinical Excellence has stated that PVP should only be used in the context of randomized controlled trials. We intend to assess whether the procedure has long term benefits for patients and whether it is cost efective for health providers.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health</ethicname>
+      <ethicaddress>Monash Medical Centre
+Clayton Road
+Clayton
+Vic 3168</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/07/2010</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Mr Philip McCahy</name>
+      <address>Department of Urology
+Casey Hospital
+Kangan Drive
+Berwick
+Vic 3806</address>
+      <phone>+61 3 99288643</phone>
+      <fax>+61 3 99288361</fax>
+      <email>philip@seurology.com.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Mr Philip McCahy</name>
+      <address>Department of Urology
+Casey Hospital
+Kangan Drive
+Berwick
+Vic 3806</address>
+      <phone>+61 3 99288643</phone>
+      <fax>+61 3 99288361</fax>
+      <email>info@seurology.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Mr Philip McCahy</name>
+      <address>Department of Urology
+Casey Hospital
+Kangan Drive
+Berwick
+Vic 3806</address>
+      <phone>+61 3 99288643</phone>
+      <fax>+61 3 99288361</fax>
+      <email>philip@seurology.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

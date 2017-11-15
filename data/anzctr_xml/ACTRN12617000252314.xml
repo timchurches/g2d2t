@@ -1,0 +1,313 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370204">
+  <stage>Registered</stage>
+  <submitdate>16/02/2017</submitdate>
+  <approvaldate>17/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000252314</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating a Computer-based Inhibitory Smoking Training (INST) program to assist individuals to quit or reduce smoking.</studytitle>
+    <scientifictitle>A Randomised Controlled Trial examining the Efficacy of Training Response Inhibition to Smoking in Nicotine Dependent Individuals.</scientifictitle>
+    <utrn />
+    <trialacronym>Inhibitory Smoking Training (INST)</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Smoking</healthcondition>
+    <healthcondition>Addiction</healthcondition>
+    <healthcondition>Nicotine dependence</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Addiction</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is an online  GoNoGo response inhibition training task as developed by Lawrence et al. (2015). The task used in this study has been modified to incorporate images of smoking. The intervention will consist of smoking-related pictures, non-smoking behaviour-related pictures, and neutral pictures. The neutral pictures are incorporated to prevent participants from easily identifying the associative rules of the task such that learning will occur through automatic processes as opposed to explicit control. Smoking-related pictures will always be paired with no-go signals, non-smoking pictures will always be paired with go signals, and neutral pictures will be paired equally with go and no-go signals.  The training will consist of 6 blocks of 36 trials in each block.  There are 14 sessions altogether which occur once a day for two weeks. Participants must quickly indicate whether the picture is located to the left or the right of the computer screen on their keyboard ('go' trials). On half of the trials, the frame around the picture will be bolded ('no go' cue) and the participants must not respond. Participants will be provided with feedback on their accuracy and mean go reaction time at the end of each block. Each training session will last for approximately 10 minutes.  T
+Reference: Lawrence, N. S., OSullivan, J., Parslow, D., Javaid, M., Adams, R. C., Chambers, C. D.,  Verbruggen, F. (2015). Training response inhibition to food is associated with weight loss and reduced energy intake. Appetite, 95, 1728. doi:10.1016/j.appet.2015.06.009</interventions>
+    <comparator>The active control is a general inhibition training task and is in the same format as the intervention, except only contains neutral pictures. The active control training is identical to that described in Lawrence et al. (2015).</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Smoking cessation Yes/No
+Measured by the Timeline Follow Back method (Sobell &amp; Sobell, 1976)
+</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Number of cigarettes smoked 
+Measured by the Timeline Follow Back method (Sobell &amp; Sobell, 1976)</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nicotine Craving
+Smoking Craving Questionnaire (Johnson 2001)</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-efficacy 
+Visual analogue Scale "How confident do you feel right now that you can achieve your goal reducing/quitting smoking"</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severity of nicotine dependence
+Fagerstrom measure of Nicotine Dependence 
+Heatherton, Kozlowski, Frecker, Fagerstrom (1991)</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Impulsivity - behavioural and self-report
+
+Barratt measure of impulsivity (BIS II) (self-report)
+Stop Signal Task (behavioural)</outcome>
+      <timepoint>Post-intervention, 1-month follow-up, 3-month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Positive valence towards smoking cues
+Smoking specific Valence measure adapted from Lawrence et al 2015</outcome>
+      <timepoint>Post-intervention, 3-month follow-up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Regular cigarette use- smokes 10 or more cigarettes per day on average for at least the past 12 months
+DSM V Diagnosis of Tobacco Use Disorder
+Reside in Melbourne Metropolitan Area (need to meet them face to face)
+Completed at least year 9 at a mainstream school or equivalent
+Regular access to a computer and internet on a daily basis for the next two week
+Express an intention to reduce or quit smoking 
+Between the ages of 18 - 60</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>High risk use of alcohol or drugs (other than nicotine) 
+No period of abstinence from nicotine (excluding e.g. hospital stays) longer than 2 weeks in the past 3 months
+Reports of a brain injury or a loss of consciousness for more than 30 minutes
+Currently using anti-craving medication such as Champix (varenicline) or Zyban (buproprion)
+Use of psychotropic medications such as antidepressants, anxiolytics or antipsychotics
+Primary nicotine use is via e-cigarettes
+Individuals who use nicotine replacement therapy (e.g. Nicorette patches) will be excluded if they cannot refrain from using them during the two-week training period.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is computerised and so once baseline is completed participants are automatically allocated to a treatment group which the the researcher is unaware of and not involved in communicating</concealment>
+    <sequence>Randomisation occurs via computerised sequence generation </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Multi-level modelling will be utilised to assess primary and secondary outcomes
+Hierarchical regressions will be utilised to assess mediators and moderators</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>21/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>3/09/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>150</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>17/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Associate Professor Petra Staiger</primarysponsorname>
+    <primarysponsoraddress>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood, VIC 3125
+
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Deakin University, School of Psychology</fundingname>
+      <fundingaddress>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood, VIC 3125
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Melissa Hayden</sponsorname>
+      <sponsoraddress>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood, VIC 3125
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Karen Guo</sponsorname>
+      <sponsoraddress>School of Psychology
+Deakin University
+221 Burwood highway
+Burwood Campus
+Burwood 3125
+Victoria</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Laura Hughes</sponsorname>
+      <sponsoraddress>School of Psychology
+Deakin University
+221 Burwood highway
+Burwood Campus
+Burwood 3125
+Victoria</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Jason Bos</sponsorname>
+      <sponsoraddress>School of Psychology
+Deakin University
+221 Burwood highway
+Burwood Campus
+Burwood 3125
+Victoria</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Natalia Lawrence</sponsorname>
+      <sponsoraddress>School of Psychology
+University of Exeter
+Exeter
+EX4 4QG
+</sponsoraddress>
+      <sponsorcountry>United Kingdom</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Ben Richardson</othercollaboratorname>
+      <othercollaboratoraddress>Cairnmillar Institute
+993 Burke Rd
+Camberwell, 3124
+Victoria</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Ron Borland</othercollaboratorname>
+      <othercollaboratoraddress>Cancer Council of Victoria
+615 St Kilda Road
+Melbourne, 3004
+Victoria
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Despite the supports and treatments available to assist smoking cessation, relapse remains high amongst smokers who attempt to quit. An important factor that has been identified to contribute to relapse is difficulties with impulse control, also known as response inhibition. Smokers have been found to exhibit reduced response inhibition, that is, difficulties inhibiting an automatic response such as smoking, Difficulties with response inhibition has been hypothesised to be a predictor of relapse following a quit attempt. Therefore, it would be beneficial to target response inhibition during this time period to assist in achieving and maintaining abstinence. While response inhibition interventions have not yet been investigated in smokers, other studies have found it to be effective in changing unhealthy behaviours in heavy drinkers, dieters and overweight adults. This Randomised Controlled Trial aims to investigate whether response inhibition training is effective for reducing smoking in those who are dependent on nicotine,  It will also examine how a number of mediators and moderators.   Our research group is collaborating with Dr Natalia Lawrence to adapt her program which was developed and evaluated in the UK in relation to food inhibition training. Participants will be allocated to either a treatment group or an active control group. The response inhibition group will complete two weeks of the smoking response inhibition training program, while the control group will complete a general response inhibition training program. All participants will complete fourteen online training sessions over a two-week period and will provide follow-up data relating to their smoking status three time points after they have completed the training - post intervention, one and three month follow up.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Deakin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Human Research Ethics Office 
+Deakin Research Integrity
+Deakin University 
+221 Burwood Hwy
+Burwood, VIC 3125</ethicaddress>
+      <ethicapprovaldate>22/02/2016</ethicapprovaldate>
+      <hrec>2015-298</hrec>
+      <ethicsubmitdate>23/11/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Petra Staiger</name>
+      <address>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood VIC 3125
+</address>
+      <phone>+61 3 9244 6876</phone>
+      <fax />
+      <email>petra.staiger@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Petra Staiger</name>
+      <address>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood VIC 3125
+</address>
+      <phone>+61 3 9244 6876</phone>
+      <fax />
+      <email>petra.staiger@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Petra Staiger</name>
+      <address>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood VIC 3125
+</address>
+      <phone>+61 3 9244 6876</phone>
+      <fax />
+      <email>petra.staiger@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Petra Staiger</name>
+      <address>School of Psychology
+Faculty of Health
+Deakin University
+221 Burwood Highway
+Burwood VIC 3125
+</address>
+      <phone>+61 3 9244 6876</phone>
+      <fax />
+      <email>petra.staiger@deakin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

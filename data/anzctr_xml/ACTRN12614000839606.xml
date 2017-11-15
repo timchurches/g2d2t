@@ -1,0 +1,260 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365709">
+  <stage>Registered</stage>
+  <submitdate>16/07/2014</submitdate>
+  <approvaldate>7/08/2014</approvaldate>
+  <actrnumber>ACTRN12614000839606</actrnumber>
+  <trial_identification>
+    <studytitle>An Implementation Project to Improve Identification Of Altered Mood for People Hospitalised After Acute Stroke</studytitle>
+    <scientifictitle>Will patients with acute stroke who are admitted to a hospital providing the mood identification program have a greater likelihood of having altered mood identified than patients  in hospitals providing standard care and when compared to an historical control period?
+</scientifictitle>
+    <utrn />
+    <trialacronym>IAMAS</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients with stroke and TIA admitted to intervention sites will be observed (from admission onwards) and screened (after 5 days) for altered mood. Screening will be undertaken using the Hospital Anxiety &amp; Depression Scale (HADS) or for those with cognition/ communication issues the Behavioural Outcomes of Anxiety (BOA) and Stroke Aphasic Depression Questionnaire Hospital Version (SADQ-H10) tools. These will be repeated as clinically indicated. Staff will be trained in observation and screening. Evidence of identification of altered mood, including screen scores, will be recorded in the medical record. </interventions>
+    <comparator>The National Stroke Foundation Audit data from 2011 and 2013 will be used as historical comparative data for both Intervention and Control sites.
+Both groups will also undertake a prospective, pre-implementation  file audit for all patients admitted with stroke or TIA over a 5 week period.
+The intervention will then be implemented at the Intervention sites, while the Control sites will continue with business as usual. No changes regarding identify altered mood will be trialled at these sites.
+A repeat of the file audit will be undertaken at Intervention and Control sites 5 months after commencing the intervention.
+</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of patients with stroke who have consideration of altered mood documented in their medical record</outcome>
+      <timepoint>At discharge</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients with stroke with a length of stay greater than or equal to 5 days who have undergone a screening of anxiety and depression</outcome>
+      <timepoint>At discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of intervention sites that have an identified individual/ s responsible for leading altered mood identification</outcome>
+      <timepoint>At commencement of intervention program</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Admitted with clinical signs of stroke or Transient Ischaemic Attack (TIA)
+Participants located in a stroke unit or general ward</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>nil</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>This study is investigating the effectiveness of an implementation strategy to improve identification of altered mood after stroke.
+It is a nonrandomised intervention comparison study with retrospective and prospective control groups (historical-control for within hospital change) and prospective control cohort (similar hospitals not providing the intervention)</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Descriptive statistics exploring differences in proportions for adherence to providing mood assessments (n adherence/ N eligible patients) using the Chi 2 test. Bivariable and multivariable regression analyses to assess for associations of patient or hospital characteristics  with the likelihood of receiving a mood assessment with adjustment for patient clustering by hospital and differences in patient case-mix. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>19/05/2014</anticipatedstartdate>
+    <actualstartdate>19/05/2014</actualstartdate>
+    <anticipatedenddate>24/12/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>The Maitland Hospital - Maitland</hospital>
+    <hospital>Calvary Mater Newcastle - Waratah</hospital>
+    <hospital>Belmont Hospital - Belmont</hospital>
+    <hospital>Manning Rural Referral Hospital (Taree) - Taree</hospital>
+    <hospital>Armidale Rural Referral Hospital - Armidale</hospital>
+    <hospital>Tamworth Rural Referral Hospital - Tamworth</hospital>
+    <hospital>Port Macquarie Base Hospital - Port Macquarie</hospital>
+    <hospital>Gosford Hospital - Gosford</hospital>
+    <hospital>Wyong Public Hospital - Hamlyn Terrace</hospital>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>2320 - Maitland</postcode>
+    <postcode>2298 - Waratah</postcode>
+    <postcode>2280 - Belmont</postcode>
+    <postcode>2430 - Taree</postcode>
+    <postcode>2350 - Armidale</postcode>
+    <postcode>2340 - Tamworth</postcode>
+    <postcode>2444 - Port Macquarie</postcode>
+    <postcode>2250 - Gosford</postcode>
+    <postcode>2259 - Hamlyn Terrace</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Hunter New England Local Health District</primarysponsorname>
+    <primarysponsoraddress>Lookout Rd,
+New Lambton Heights,
+NSW. 2305.</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>National Stroke Foundation</fundingname>
+      <fundingaddress>Level 7, 461 Bourke St
+Melbourne. Victoria. 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Central Coast Local Health District
+</sponsorname>
+      <sponsoraddress>Gosford Hospital
+Holden Street
+GOSFORD NSW 2250</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>North Coast Local Health District
+</sponsorname>
+      <sponsoraddress>Morton Street
+PORT MACQUARIE NSW 2444</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>Monash University</othercollaboratorname>
+      <othercollaboratoraddress>Wellington Rd, Clayton VIC 3800</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>University of Western Sydney</othercollaboratorname>
+      <othercollaboratoraddress>Hawkesbury Campus, College Dr, Richmond, NSW 2753</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Charities/Societies/Foundations</othercollaboratortype>
+      <othercollaboratorname>Hunter Medical Research Institute</othercollaboratorname>
+      <othercollaboratoraddress>1 Kookaburra Circuit, New Lambton Heights NSW 2305</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Charities/Societies/Foundations</othercollaboratortype>
+      <othercollaboratorname>National Stroke Foundation</othercollaboratorname>
+      <othercollaboratoraddress>Level 7, 461 Bourke St
+Melbourne. Victoria. 3000</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Altered mood is a common problem after stroke and can impact on stroke survivors recovery. Despite this it is often
+poorly identified by health professionals. Accessing psychology services after stroke is an enormous issue with
+only 12% of acute services having access to clinical psychology and 29% having protocols for referral to psychology.
+This pilot, implementation study aims to improve the identification of suspected altered mood in patients with stroke
+admitted to Hunter New England Health (HNEH) hub services. It will trial standardised processes and tools, supported by training for clinicians. Identification processes will commence early in the acute setting and continue during the stroke survivor's inpatient stay in HNEH hub facilities. Results from identifying suspected altered mood will be included in the patient discharge summary. This controlled, pre and post-implementation cohort design study will include comparisons to historical audit data and control sites. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Ethics and Governance Unit
+District Headquarters- Administration Building
+Lookout Road,
+New Lambton,
+NSW. 2305.</ethicaddress>
+      <ethicapprovaldate>17/12/2013</ethicapprovaldate>
+      <hrec>13/12/11/4.01</hrec>
+      <ethicsubmitdate>29/11/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>Di Marsden</name>
+      <address>Hunter Stroke Service,
+Level 2 , The Lodge
+Rankin Park Campus,
+Lookout Road,
+New Lambton Heights.
+NSW. 2305.</address>
+      <phone>+61 2 49223380</phone>
+      <fax />
+      <email>Di.Marsden@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Di Marsden</name>
+      <address>Hunter Stroke Service,
+Level 2 , The Lodge
+Rankin Park Campus,
+Lookout Road,
+New Lambton Heights.
+NSW. 2305.</address>
+      <phone>+61 2 49223380</phone>
+      <fax />
+      <email>Di.Marsden@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Di Marsden</name>
+      <address>Hunter Stroke Service,
+Level 2 , The Lodge
+Rankin Park Campus,
+Lookout Road,
+New Lambton Heights.
+NSW. 2305.</address>
+      <phone>+61 2 49223380</phone>
+      <fax />
+      <email>Di.Marsden@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Di Marsden</name>
+      <address>Hunter Stroke Service,
+Level 2 , The Lodge
+Rankin Park Campus,
+Lookout Road,
+New Lambton Heights.
+NSW. 2305.</address>
+      <phone>+61 2 49223380</phone>
+      <fax />
+      <email>Di.Marsden@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

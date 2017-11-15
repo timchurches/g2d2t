@@ -1,0 +1,390 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6543">
+  <stage>Registered</stage>
+  <submitdate>17/04/2014</submitdate>
+  <approvaldate>17/04/2014</approvaldate>
+  <nctid>NCT02119676</nctid>
+  <trial_identification>
+    <studytitle>Study of Ruxolitinib in Colorectal Cancer Patients</studytitle>
+    <scientifictitle>A Randomized, Double-Blind Study of Ruxolitinib or Placebo in Combination With Regorafenib in Subjects With Relapsed or Refractory Metastatic Colorectal Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>INCB18424-267</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Metastatic Colorectal Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Ruxolitinib
+Treatment: drugs - Regorafenib
+Treatment: drugs - Placebo
+
+Experimental: Ruxolitinib plus regorafenib - 
+
+Active Comparator: Placebo plus regorafenib - 
+
+
+Treatment: drugs: Ruxolitinib
+5 mg tablets to be administered by mouth
+Ruxolitinib 20 mg twice a day (BID) (Part 1) (NOTE: The starting dose for the randomized portion of study (Part 2) was 15 mg BID based on results from Part 1.)
+
+Treatment: drugs: Regorafenib
+Regorafenib 160mg once daily for the first 21 days of each 28-day cycle. (NOTE: Dose interruptions and modifications for regorafenib are expected when toxicities occur in which dose interruptions or modifications are appropriate.)
+
+Treatment: drugs: Placebo
+5 mg matching placebo tablets to be administered by mouth
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) - Overall survival is defined as the time from randomization to death due to any cause. Participants without death observed at the time of the analysis will be censored at last date known to be alive. The median overall survival time was estimated using the Kaplan-Meier method. Overall survival was compared between treatment groups using log-rank test.</outcome>
+      <timepoint>Baseline until death due to any cause; up to 16 months or data cut-off 11 FEB 2016.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival (PFS) - Progressive Disease (PD) is defined using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 at least a 20% increase in the sum of the Longest Diameter (LD) of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions, unequivocal progression of non-target lesions, or the appearance of new lesions.</outcome>
+      <timepoint>Baseline through disease progression, or death due to any cause if sooner; up to 16 months or data cut-off 11 FEB 2016.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Response Rate (ORR) - Response defined per Response Evaluation Criteria In Solid Tumors (RECIST) criteria: Complete Response (CR)=disappearance of all target and non-target lesions without new lesion; Partial Response (PR)=30% decrease in sum of longest diameter of target lesions, non-target lesion not progressed, and no new lesion; Progressive Disease=20% increase in sum of longest diameter of target lesions, or non-target lesion progression, or identification of new lesion; Stable Disease=small changes that do not meet above criteria. ORR was defined as the proportion of participants who achieved a best response of either CR or PR. ORR=number of participants with CR or PR/number of participants randomized.</outcome>
+      <timepoint>Baseline through end of study; up to 16 months or data cut-off 11 FEB 2016.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response - Duration of response is defined as the time from response (CR/PR) until the earliest date of disease progression determined by investigator assessment of objective radiographic disease assessments per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1, or death due to any cause.</outcome>
+      <timepoint>Baseline through end of study; up to 16 months or data cut-off 11 FEB 2016.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Achieving Disease Control - Disease control as measured by the percentage of participants whose best response was complete response (CR), partial response (PR), or stable disease (SD) per RECIST v.1.1.</outcome>
+      <timepoint>Baseline through end of study; up to 16 months or data cut-off 11 FEB 2016.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Treatment-emergent Adverse Events (TEAEs) - TEAEs were defined as any adverse event (AE) during the study that began or worsened on or after the date of first dose of investigational product.</outcome>
+      <timepoint>Baseline through approximately 30 days post treatment discontinuation;up to 16 months or data cut-off 27JAN 2016 for Substudy 1 and up to the data cut-off of 11FEB2016 for Substudy 2.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Histologically or cytologically confirmed adenocarcinoma of the colon or rectum that
+             is metastatic.
+
+          -  Previous treatment with fluoropyrimidine-, oxaliplatin- and irinotecan- based
+             chemotherapy, an anti-VEGF therapy (if no contraindication) and if KRAS wild type and
+             no contraindication, an anti-EGFR therapy.
+
+          -  Radiographically measurable or evaluable disease (per RECIST v1.1)
+
+          -  Life expectancy of = 12 weeks.
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2
+
+          -  Three or more weeks have elapsed from the completion of previous treatment regimen and
+             subjects must have recovered or be at a new stable baseline from any related
+             toxicities.
+
+          -  Prior radiotherapy to disease sites is allowed with certain protocol-defined
+             restrictions.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Prior treatment with regorafenib.
+
+          -  Presence of active gastrointestinal disease or other condition that will interfere
+             significantly with the absorption of drugs.
+
+          -  Active peptic ulcer disease, inflammatory bowel disease (eg, ulcerative colitis,
+             Crohn's disease), diverticulitis, or other gastrointestinal conditions with increased
+             risk of perforation or gastrointestinal bleeding.
+
+          -  Recent history (= 3 months) or ongoing partial or complete bowel obstruction unless
+             due to disease under study and corrected with surgery.
+
+          -  Blood pressure = 140/90 mmHg.
+
+          -  Active bleeding diathesis or history of any major bleeding (eg, requiring transfusion
+             of red blood cells (RBCs), central nervous system (CNS) bleeding, or significant
+             hemoptysis within 6 months of enrollment. Subjects with bleeding secondary to
+             underlying disease (including gastrointestinal (GI) perforation or fistula) that has
+             been corrected by surgery or alternative procedure may be included.
+
+          -  Clinically significant cardiac disease including unstable angina, acute myocardial
+             infarction within 6 months from Day 1 of study drug administration, New York Heart
+             Association Class II, III, or IV congestive heart failure, and arrhythmia requiring
+             therapy.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/03/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>396</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/12/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - East Bentleigh</hospital>
+    <hospital> - Herston</hospital>
+    <hospital> - Kurralta Park</hospital>
+    <hospital> - New Lambton Heights</hospital>
+    <hospital> - Randwick</hospital>
+    <postcode> - East Bentleigh</postcode>
+    <postcode> - Herston</postcode>
+    <postcode> - Kurralta Park</postcode>
+    <postcode> - New Lambton Heights</postcode>
+    <postcode> - Randwick</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon Cedex 09</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besançon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Mans</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Halle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beer Sheva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Democratic People's Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Oviedo, Asturias</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bournemouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Incyte Corporation</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study was to determine if ruxolitinib, in combination with regorafenib,
+      is safe and effective in the treatment of metastatic colorectal cancer.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02119676</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Albert Assad</name>
+      <address>Incyte Corporation</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

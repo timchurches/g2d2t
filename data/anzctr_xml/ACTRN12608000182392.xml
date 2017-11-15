@@ -1,0 +1,260 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="82682">
+  <stage>Registered</stage>
+  <submitdate>19/03/2008</submitdate>
+  <approvaldate>10/04/2008</approvaldate>
+  <actrnumber>ACTRN12608000182392</actrnumber>
+  <trial_identification>
+    <studytitle>The CHOICE (Choice of health options in prevention of cardiovascular events) replication trial.</studytitle>
+    <scientifictitle>For patients who survive acute coronary syndrome does the availability of the CHOICE (Choice of health options in prevention of cardiovascular events) program improve the uptake of secondary prevention and reduce the proportion of patients with risk factors above national targets.</scientifictitle>
+    <utrn />
+    <trialacronym>CHOICE (Choice of health options in prevention of cardiovascular events)</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute coronary syndrome</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intervention is participation in a 12 month CHOICE program that includes a one-hour initial consultation and a few follow-up phone calls over three months.  The program has four stages and was designed as an individualized, structured, case-management approach and was overseen by treating physicians.  Stage one involves the development of modules and tailoring of leaflets by thorough investigation of local programs for each risk factor.  Stage two involves face-to-face risk factor assessment and measurement, generating a list of each patients relevant risk factors.  In stage three, patients make guided choices about which risk factors they will lower, participate in goal-setting informed by current national targets for the chosen risk factors, and select which management option(s) they will use to lower risk.
+
+All CHOICE patients participate in a core module for lowering cholesterol (including healthy eating advice and pharmacotherapy) given its major impact on reducing recurrent events.  Up to two choice modules including blood pressure-lowering, smoking cessation, increased physical activity and nutrition are also offered depending on individual patient need and preference.  After choosing relevant risk factor modules, patient selected their preferred management option(s) and make a self-commitment to a written action plan and are formally referred where appropriate (eg, smoking cessation clinic appointment made).  Patients are also provided with a tailored resource package and a summary of the chosen risk factors, goals and interventions is mailed to the family physician, cardiologist and the patient.  Stage four of the CHOICE program is telephone follow-up.</interventions>
+    <comparator>3 month CHOICE program similar to that described above but with an average of only 4 follow-up telephone calls over 3 months. We will also recruit a randomised control group of approximately 70 participants at one hospital only.  This single-site control group will continue to manage their heart health as directed by their treating doctor(s).</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of patients admitted to hospital with acute coronary syndrome who take up the CHOICE program</outcome>
+      <timepoint>Baseline, 12 and 36 months after intervention commencement</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Difference in mean total cholesterol level between CHOICE and CHOICE-plus groups and from baseline.</outcome>
+      <timepoint>12 and 36 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Poportion of patients achieving National Heart Foundation (NHFA) national target level for blood pressure.</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who achieve smoking cessation</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving National Heart Foundation (NHFA) national target level for physical activity</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving National Heart Foundation (NHFA) national target level for nutrition</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients taking cholesterol-lowering medication</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in Short Form 12 quality of life scores</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with 3 or more modifiable risk factors</outcome>
+      <timepoint>12 and 36 months after intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Difference between the single-site control and intervention groups - 3-month and 12-month CHOICE programs.</outcome>
+      <timepoint>Baseline, 12 and 36 months.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Diagnosis of ACS in the four weeks prior to recruitment; refusal of the initial invitation to participate in standard CR; failure to attend initial CR assessment.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Clinical diagnosis of uncompensated, severe cardiac failure (Class IV); uncontrolled arrhythmia or angina; severe or symptomatic aortic stenosis; persistent hypotension (SBP &lt; 90mmHg); clinical diagnosis of a severe coexisting medical condition that would prevent participation (eg, dementia, a terminal illness, severe rheumatoid arthritis); or insufficient English to provide written informed consent.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>After baseline measurements, at 3 hospital sitees, are completed participants will be randomly allocated to one of the two groups (CHOICE or CHOICE-plus).  At a single-site, patients will be randomly allocated to one of 3 groups (control, CHOICE or CHOICE-plus).  Randomisation will be undertaken by an independent researcher (at the University of Sydney) with a computer-generated random allocation sequence and will be concealed from the health professional obtaining consent and conducting baseline assessment, as management for the first three months will be identical in the two groups.  Patients will be coded for confidentiality.</concealment>
+    <sequence>Computer-generated random allocation sequence.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>This trial will be conducted at 4 hospital sites.  At 3 sites patients will be randomly allocated to one of 2 groups (CHOICE, CHOICE-plus) and at 1 site patients will be randomly allocated to one of 3 groups (control, CHOICE, CHOICE-plus).</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2008</anticipatedstartdate>
+    <actualstartdate>17/06/2008</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>23/07/2010</actualenddate>
+    <samplesize>500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>2000</postcode>
+    <postcode>2139</postcode>
+    <postcode>2200</postcode>
+    <postcode>2193</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>ANZAC Research Institute, Concord Hospital</primarysponsorname>
+    <primarysponsoraddress>Hospital Road, Concord NSW 2139</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>HCF Health and Medical Research Foundation</fundingname>
+      <fundingaddress>403 George St, Sydney</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Institute of Clinical Studies</fundingname>
+      <fundingaddress>GPO Box 4530, Melbourne VIC
+Level 5, Fawkner Centre
+499 St Kilda Road, Melbourne VIC 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>Sydney South West Area Health Service</sponsorname>
+      <sponsoraddress>Suite 108, Medical Centre
+Hospital Road Concord NSW 2139</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Ben Freedman</othercollaboratorname>
+      <othercollaboratoraddress>Department of Cardiology
+Hospital Road Concord NSW 2139</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Tom Briffa</othercollaboratorname>
+      <othercollaboratoraddress>Clinical Epidemiology, University of Western Australia, Stirling Hwy Crawley WA</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Ms Lis Neubeck</othercollaboratorname>
+      <othercollaboratoraddress>Suite 108, Medical Centre
+Hospital Road Concord NSW 2139</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Associate Professor David Hare</othercollaboratorname>
+      <othercollaboratoraddress>Austin Hospital
+PO Box 5555
+Heidelberg, Victoria</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Professor Adrian Bauman</othercollaboratorname>
+      <othercollaboratoraddress>School of Public Health
+University of Sydney, NSW</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Julie Redfern</othercollaboratorname>
+      <othercollaboratoraddress>Suite 108, Medical Centre
+Hospital Road Concord NSW 2139</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Sudden heart events are a major health problem and account for about 22% of Australian deaths annually.  However, more than 80% of survivors dont enrol in programs aimed at lowering another attack.  We have previously shown that first time survivors who do not use existing cardiac rehabilitation programs have higher coronary risk factors yet were prepared to participate in a brief, guided-choice modular program which resulted in showed significantly improved risk factor level and would lower their chance of a future heart event.  The benefit was apparent at 3 months and maintained at 1 year.  Given the importance of these findings we aim to determine whether they can be replicated across a range of hospitals and to determine whether periodic reinforcement improves outcomes further and for 3 years.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication>Neubeck L, Redfern J, Briffa T, Bauman A, Hare D, Freedman SB. The CHOICE (Choice of Health Options In prevention of Cardiovascular Events) replication trial: study protocol. BMC Cardiovasc Disord 2008;8(1):25 (01/08/2008)
+Neubeck L, Lowres N, Freedman SB, Rogers K, Bauman A, Redfern J. Two year outcomes of the Choice of Health Options In prevention of Cardiovascular Events (CHOICE) replication study. Nursing Prize Session Winner. Cardiac Society of Australia and New Zealand, Gold Coast, Australia (09/08/2013)
+Neubeck L, Lowres N, Freedman SB, Briffa T,  Bauman A, Redfern J. One year outcomes of the Choice Of Health Options In prevention of Cardiovascular Events (CHOICE) replication trial. EuroPRevent, Rome, Italy (18/04/2013)</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sydney South West Area Health Service - CRGH Zone</ethicname>
+      <ethicaddress>Concord Hospital, Hospital Road, Concord NSW 2139</ethicaddress>
+      <ethicapprovaldate>18/01/2008</ethicapprovaldate>
+      <hrec>07/CRGH/93</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Lis Neubeck</name>
+      <address>The George Institute for Global Health
+83-117 Missenden Road
+Camperdown
+NSW 2050</address>
+      <phone>+61 417 015 282</phone>
+      <fax />
+      <email>lneubeck@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lis Neubeck</name>
+      <address>The George Institute for Global Health
+83-117 Missenden Road
+Camperdown
+NSW 2050</address>
+      <phone>+61 417 015 282</phone>
+      <fax />
+      <email>lneubeck@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lis Neubeck</name>
+      <address>The George Institute for Global Health
+83-117 Missenden Road</address>
+      <phone>+61 417 015 282</phone>
+      <fax />
+      <email>lneubeck@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Julie Redfern</name>
+      <address>The George Institute for Global Health
+83-117 Missenden Road
+Camperdown 
+NSW 2050</address>
+      <phone>+61 2 9993 4574</phone>
+      <fax />
+      <email>jredfern@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

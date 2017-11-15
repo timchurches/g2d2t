@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="347839">
+  <stage>Registered</stage>
+  <submitdate>9/12/2011</submitdate>
+  <approvaldate>12/12/2011</approvaldate>
+  <actrnumber>ACTRN12611001272987</actrnumber>
+  <trial_identification>
+    <studytitle>A Novel Approach to Cardiovascular Health by Optimizing Risk Management: An Intensive Behavioural Intervention Study</studytitle>
+    <scientifictitle>Main effects comparison of group based behavioural interventions to reduce cardiac risk in an adult population identified as resistant to change.</scientifictitle>
+    <utrn />
+    <trialacronym>ANCHOR-II</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular Events</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will all receive a global risk factor assessment prior to intervention and at the end of the intervention phase (roughly 7 months later).  Participants recruited from a previous study that did not show change will be asked to enroll in the current study.  The previous study (A Novel Approach to Cardiovascular Health By Optimizing Risk Management: ANCHOR) recruited adults from two family practice offices in Nova Scotia.  Each individual received one-on-one behaviour change counselling by a health care provider aimed at reducing cardiac risk.  Cardiac risk was assessed utilizing a global risk factor assessment that computed a Framingham score and risk category.  The Framingham score was percent measure of 10 year risk of experiencing a cardiac event.  Thus, those that were not able to reduce their 10 year risk, will be approached to enrol in the current study.  
+Additionally, new participants will be recruited from the same health centre.  Once an initial assessment is complete, previous participants will be matched to new participants based on several risk indicators and randomly assigned as a dyad.
+Each participant will be randomized to one of four group based intervention conditions: 1) Motivation ONLY 2) Awareness building and coping strategy training 3)Combination of above 4) Neither.
+New participants that are not matched will receive one-to-one behavioural counseling from a nurse trained in behaviour change counseling.  
+The group interventions are described below:
+Motivational Enhancement
+The use of motivational enhancement as an intervention strategy will differ from the ANCHOR Study primarily in format and duration. In the current study, this intervention will be delivered in a small group setting.  Each group will be comprised of 5-8 members depending on participant availability.  Participants will attend a one hour session, every month, for 6 months.  In these small groups, participants will explore the components of motivation as it relates to engaging in and changing health behaviours.  Participants will be encouraged to evaluate the behaviours in need of change based on the individualized Heart Risk Assessment feedback given during the initial assessment.  Concepts such as stages of change, readiness for change, decisional balance, SMART goals, and relapse prevention will be presented and discussed.  Participants will be guided through creating a change plan and will be encouraged to find reinforcers for positive health behaviours.  The facilitator will present concepts, guide discussion, and encourage participation utilizing concepts of motivational interviewing and motivational enhancement.  The overall goal is to support participants in increasing motivation to engage in positive health behaviours.  
+
+Awareness Building and Coping Strategy Training
+Participants assigned to this intervention will be presented with material to increase awareness of risks and rewards of health behaviours.  The facilitator will guide discussion around increasing awareness of detrimental health behaviours.  A problem solving and stress management approach will be utilized to encourage the participants to explore new adaptive coping strategies while reducing the use of maladaptive strategies.  The overall goal is to increase distress regarding health behaviours while supporting the participants in problem solving and coping activities that can lead to increasing positive health behaviours.</interventions>
+    <comparator>All intervention groups will be compared to each other as described above.  There is no "control" condition in this study</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>10 year risk of experiencing a cardiac event as measured by Framingham Risk Points</outcome>
+      <timepoint>Baseline and Post intervention (approximately 7 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Psychosocial indicators of successful change:  Readiness to change, psychological distress, coping strategies, and fatigue.  These outcomes will be assessed utilizing psychometrically sound questionnaires.</outcome>
+      <timepoint>Baseline and Post intervention (approximately 7 months)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Permanent Nova Scotia resident
+Age 30 years of age or older
+Previous participant of ANCHOR with a Framingham point total that stayed the same or increased from baseline to post-intervention
+Never participated in ANCHOR</inclusivecriteria>
+    <inclusiveminage>30</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Resident of chronic care facility
+Cognitive impairment
+Inability to communicate in either official language
+Reduction in Framingham points during ANCHOR</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All previous participants of ANCHOR who demonstrated a Framingham score that stayed the same or increased from baseline to post-intervention will be identified and targeted for recruitment.  New participants will be identified via the Duffus Health Care Centre.  
+The method of randomization for the current study begins with the evaluation of previous ANCHOR participants who have completed the initial assessment.  Each previous participant will be matched to a new participant based on several factors identified to be predictive of being resistant to change in the preliminary exploratory analysis of the ANCHOR Study.
+The variables and ranges they are to be match on are as follows:
+Age: matched within range as identified by Framingham risk calculation charts
+Gender
+BMI: matched within weight classification range as defined by NHLBI guidelines
+Readiness: matched within 2 total points on eating healthy, physical activity, and weight
+Psychosocial distress: matched within 1 point on total of social support, anger, happiness, and community support
+Framingham risk points: matched within 2 points
+
+Each matched dyad (one previous ANCHOR and one new participant) will then be randomly assigned to one of four conditions.  Randomization to conditions will continue until all previous ANCHOR participants recruited have been assigned.  That is, no unmatched new participant will be randomized to a condition.  Any new participant that is unmatched or is recruited in excess of the n recruited from the previous ANCHOR participant pool  will be assigned to the 5th condition.
+Allocation is not concealed.</concealment>
+    <sequence>A random numbers generator will be utilized to produce an assignment sequence utilizing 1 - 4, but will be constrained to contain the same number of each digit to produce equal groups.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/02/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Michael Vallis, Ph.D., R.Psych.</primarysponsorname>
+    <primarysponsoraddress>Capital District Health Authority
+Behaviour Change Institute
+7071 Bayers Rd, Suite 165
+Halifax, NS B3L 2C2</primarysponsoraddress>
+    <primarysponsorcountry>Canada</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Queen Elizabeth II Foundation</fundingname>
+      <fundingaddress>1276 South Park Street
+Room 1-040, Centennial Building
+Halifax, NS B3H 2Y9</fundingaddress>
+      <fundingcountry>Canada</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Claudine Szpilfogel, MSc</sponsorname>
+      <sponsoraddress>Research Power Inc.
+168 Ochterloney Street
+Dartmouth, Nova Scotia
+B2Y 1E1</sponsoraddress>
+      <sponsorcountry>Canada</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr. Jafna Cox</othercollaboratorname>
+      <othercollaboratoraddress>QEII Health Sciences Centre
+Division of Cardiology
+1796 Summer Street
+Halifax, Nova Scotia
+B3H 3A7</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr. Blair O'Neill</othercollaboratorname>
+      <othercollaboratoraddress>University of Alberta Hospital
+2C2.36 WMC
+8440-112 Street
+Edmonton, AB
+T6G 2B7</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr. Brendan Carr</othercollaboratorname>
+      <othercollaboratoraddress>QEII Health Sciences Centre
+Room 742
+Dickson Building
+1276 South Park Street
+Halifax, NS B3H 2Y9</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Angela Pfammatter, MSc</othercollaboratorname>
+      <othercollaboratoraddress>Partners for Healthier Weight
+6960 Mumford Road, Suite 2055
+Halifax, NS
+B3L 4P1</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The original ANCHOR study helped to identify the important characteristics of health teams (nurses, dieticians, etc.) that best support patients in making better lifestyle choices.  Many patients were helped in improving health and reducing risk of heart troubles.  Now, the question this study seeks to answer is: can we help people that did not benefit from the original study using a more intense intervention and can we find similar people to intervene upon to help patients change health behaviors that affect their cardiac risk.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Research Ethics Board</ethicname>
+      <ethicaddress>Centre for Clinical Research Building
+118-5790 University Ave
+Halifax, NS
+B3H 1V7</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>9/12/2011</ethicsubmitdate>
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr. Michael Vallis</name>
+      <address>Capital District Health Authority
+Behaviour Change Institute
+7071 Bayers Rd, SUite 165
+Halifax, NS
+B3L 2C2</address>
+      <phone>+1 (902) 454-1611</phone>
+      <fax />
+      <email>tvallis@dal.ca</email>
+      <country>Canada</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Claudine Szpilfogel</name>
+      <address>Research Power, Inc.
+168 Ochterloney Street
+Dartmouth, NS
+B2Y 1E1</address>
+      <phone>(+1 (902) 405-3652</phone>
+      <fax />
+      <email>claudine@researchpowerinc.com</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Angela Pfammatter</name>
+      <address>Partners for Healthier Weight
+6960 Mumford Rd, Suite 2055
+Halifax, NS
+B3L 4P1</address>
+      <phone>+1 (902) 449-7353</phone>
+      <fax />
+      <email>apfammatter@gmail.com</email>
+      <country>Canada</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

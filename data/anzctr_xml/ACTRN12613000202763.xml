@@ -1,0 +1,326 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363154">
+  <stage>Registered</stage>
+  <submitdate>19/02/2013</submitdate>
+  <approvaldate>19/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000202763</actrnumber>
+  <trial_identification>
+    <studytitle>The Breathing for Life Trial: A randomised controlled trial of fractional exhaled nitric oxide based management of asthma during pregnancy and its impact on perinatal outcomes and infant and childhood respiratory health</studytitle>
+    <scientifictitle>The Breathing for Life Trial: A multi-centre randomised controlled trial of fractional exhaled nitric oxide based management of asthma during pregnancy and its impact on perinatal outcomes and infant and childhood respiratory health.</scientifictitle>
+    <utrn />
+    <trialacronym>BLT</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Asthma during pregnancy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Antenatal care</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>FENO Algorithm: Fractional exhaled nitric oxide (FENO) is a non-invasive marker of airway inflammation in asthma. FENO will be measured at monthly visits during the second and third trimesters pregnancy and the level used to adjust maintenance asthma therapy.  When FENO is high, inhaled corticosteroid therapy will be increased, when FENO is in a mid-range no change will be made to ICS, and when FENO is low, ICS will be decreased. If symptoms are present (assessed using the asthma control questionnaire), long acting beta agonist (LABA) will be added.  </interventions>
+    <comparator>Standardised Usual Care: Pregnant women will receive an initial asthma assessment, and asthma therapy (inhaled corticosteroid and long acting beta agonist) will be adjusted by their usual care providers. FENO measurements will not be made. </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Adverse perinatal outcome (either preterm birth [delivery &lt;37 completed weeks gestation], intrauterine growth restriction [birth weight &lt;10th centile], perinatal mortality [stillbirth or neonatal death within first 28 days of life] or neonatal hospitalisation at birth</outcome>
+      <timepoint>First 28 days of life</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Preterm birth (delivery at &lt;37 completed weeks gestation)</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intrauterine growth restriction (Birth weight &lt;10th centile)</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Perinatal mortality</outcome>
+      <timepoint>First 28 days of life</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neonatal hospitalisation at birth</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal asthma exacerbations requiring medical intervention during pregnancy</outcome>
+      <timepoint>End of pregnancy</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal hospitalisations for asthma during pregnancy</outcome>
+      <timepoint>End of pregnancy</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Multiple episodes of bronchiolitis in the first year of life, parent-report by the Questionnaire on respiratory symptoms in preschool children (Strippoli et al. Arch Dis Child. 2007), which has demonstrated test-retest reliability. </outcome>
+      <timepoint>12 months of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Multiple episodes of croup in the first year of life, parent-report by the Questionnaire on respiratory symptoms in preschool children (Strippoli et al. Arch Dis Child. 2007), which has demonstrated test-retest reliability. </outcome>
+      <timepoint>12 months of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Atopy at age 3</outcome>
+      <timepoint>3 years of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physician diagnosed asthma at age 6</outcome>
+      <timepoint>6 years of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean birth weight</outcome>
+      <timepoint>Birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospitalisation for bronchiolitis in first year of life</outcome>
+      <timepoint>12 months of age</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maternal hospitalisations or emergency department presentations for asthma during pregnancy</outcome>
+      <timepoint>End of pregnancy</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospitalisation or emergency department presentation for severe respiratory illness (bronchiolitis, croup or wheezing) in the first year of life</outcome>
+      <timepoint>12 months of age</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>12-22 weeks gestation</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>50</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Inability to attend monthly study visits, inability to perform manoeuvres required for spirometry or FENO, drug or alcohol dependence, unknown dates, chronic oral steroid use or use of immunosuppressant therapy. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealed by blinded randomisation list held by independent statistician</concealment>
+    <sequence>Computer generated random number list stratified by study centre and maternal smoking</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3>True</masking3>
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>5/03/2013</anticipatedstartdate>
+    <actualstartdate>7/03/2013</actualstartdate>
+    <anticipatedenddate>31/12/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1200</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>768</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>The Maitland Hospital - Maitland</hospital>
+    <hospital>Royal North Shore Hospital - St Leonards</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <hospital>Royal Hospital for Women - Randwick</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <postcode>2305</postcode>
+    <postcode>2320</postcode>
+    <postcode>2065</postcode>
+    <postcode>2747</postcode>
+    <postcode>4029</postcode>
+    <postcode>2031</postcode>
+    <postcode>2605 - Garran</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>John Hunter Hospital (Hunter New England Local Health District)</primarysponsorname>
+    <primarysponsoraddress>Locked Bag 1,
+HRMC
+Newcastle NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (application ID 1060983)</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Prof Peter Gibson</sponsorname>
+      <sponsoraddress>Centre for Asthma and Respiratory Diseases
+Level 2, West Wing,
+Hunter Medical Research Institute
+Locked Bag 1, HRMC
+Newcastle NSW 2310</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>University of Newcastle</othercollaboratorname>
+      <othercollaboratoraddress>University Drive
+Callaghan NSW 2308</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>The Maitland Hospital</othercollaboratorname>
+      <othercollaboratoraddress>550-560 High Street
+Maitland NSW 2320</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Royal Hospital for Women, Randwick</othercollaboratorname>
+      <othercollaboratoraddress>Barker Street
+Randwick NSW 2031</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Royal North Shore Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Pacific Highway
+St Leonards NSW 2065</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Royal Brisbane and Women's Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Cnr Butterfield St and Bowen Bridge Rd
+Herston Qld 4029</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Nepean Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Derby Street
+Kingswood NSW 2747</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>The Canberra Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Yamba Dr, Garran
+ACT 2605</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study in pregnant women with asthma investigates the maternal, infant and childhood outcomes following asthma treatment adjustment using FENO, compared to standardised usual care treatment adjustment. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Health Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton
+NSW 2305</ethicaddress>
+      <ethicapprovaldate>24/10/2012</ethicapprovaldate>
+      <hrec>12/10/17/3.04</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>ACT Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Building 10, Level 6
+Canberra Hospital
+PO Box 11, Woden ACT 2606</ethicaddress>
+      <ethicapprovaldate>10/12/2015</ethicapprovaldate>
+      <hrec>ETH.11.15.232</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Prof Peter Gibson</name>
+      <address>Centre for Asthma and Respiratory Diseases
+Level 2, West Wing
+Hunter Medical Research Institute
+Locked Bag 1,
+HRMC
+Newcastle NSW 2310</address>
+      <phone>61 02 40420143</phone>
+      <fax>61 02 40420046</fax>
+      <email>peter.gibson@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Prof Peter Gibson</name>
+      <address>Centre for Asthma and Respiratory Diseases
+Level 2, West Wing
+Hunter Medical Research Institute
+Locked Bag 1,
+HRMC
+Newcastle NSW 2310</address>
+      <phone>61 02 40420143</phone>
+      <fax>61 02 40420046</fax>
+      <email>peter.gibson@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Vanessa Murphy</name>
+      <address>Centre for Asthma and Respiratory Diseases
+Level 2, West Wing
+Hunter Medical Research Institute
+University of Newcastle
+University Drive
+Callaghan NSW 2308</address>
+      <phone>61 02 4042 0141</phone>
+      <fax>61 02 4042 0046</fax>
+      <email>vanessa.murphy@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Gibson</name>
+      <address>Centre for Asthma and Respiratory Diseases
+Level 2, West Wing
+Hunter Medical Research Institute
+Locked Bag 1,
+HRMC
+Newcastle NSW 2310</address>
+      <phone>61 02 40420143</phone>
+      <fax>61 02 40420046</fax>
+      <email>peter.gibson@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

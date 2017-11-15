@@ -1,0 +1,988 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3922">
+  <stage>Registered</stage>
+  <submitdate>14/05/2013</submitdate>
+  <approvaldate>14/05/2013</approvaldate>
+  <nctid>NCT01855750</nctid>
+  <trial_identification>
+    <studytitle>A Study of the Bruton's Tyrosine Kinase Inhibitor, PCI-32765 (Ibrutinib), in Combination With Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone in Patients With Newly Diagnosed Non-Germinal Center B-Cell Subtype of Diffuse Large B-Cell Lymphoma</studytitle>
+    <scientifictitle>A Randomized, Double-blind, Placebo-controlled Phase 3 Study of the Bruton's Tyrosine Kinase (BTK) Inhibitor, PCI-32765 (Ibrutinib), in Combination With Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone (R-CHOP) in Subjects With Newly Diagnosed Non-Germinal Center B-Cell Subtype of Diffuse Large B-Cell Lymphoma</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>PCI-32765DBL3001</secondaryid>
+    <secondaryid>CR102118</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Ibrutinib
+Treatment: drugs - Placebo
+Treatment: drugs - Rituximab
+Treatment: drugs - Cyclophosphamide
+Treatment: drugs - Doxorubicin
+Treatment: drugs - Vincristine
+Treatment: drugs - Prednisone (or equivalent)
+
+Placebo Comparator: Treatment Arm A: placebo + R-CHOP - Treatment Arm A = placebo + R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone)
+
+Experimental: Treatment Arm B: ibrutinib + R-CHOP - Treatment Arm B = ibrutinib + R-CHOP
+
+
+Treatment: drugs: Ibrutinib
+560 mg capsules administered by mouth once daily (21-day cycles)
+
+Treatment: drugs: Placebo
+4 matched capsules administered by mouth once daily (21-day cycles)
+
+Treatment: drugs: Rituximab
+375 mg/m2 administered intravenously once on Day 1 of each cycle (21-day cycles)
+
+Treatment: drugs: Cyclophosphamide
+750 mg/m2 administered intravenously once on Day 1 of each cycle (21-day cycles)
+
+Treatment: drugs: Doxorubicin
+50 mg/m2 administered intravenously once on Day 1 of each cycle (21-day cycles)
+
+Treatment: drugs: Vincristine
+1.4 mg/m2 administered intravenously once on Day 1 of each cycle (21-day cycles)
+
+Treatment: drugs: Prednisone (or equivalent)
+100 mg capsules administered by mouth once daily on Day 1 to Day 5 of each cycle
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Event-free survival</outcome>
+      <timepoint>Up to disease progression, relapse from complete response, initiation of subsequent systemic antilymphoma therapy after completion of at least 6 cycles of R-CHOP therapy, or death, whichever occurs first, up to Year 7</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-free survival</outcome>
+      <timepoint>Up to disease progression, relapse from complete response, or death, whichever occurs first, up to Year 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival</outcome>
+      <timepoint>Up to the date of the participants death, up to Year 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Complete response rate</outcome>
+      <timepoint>Up to completion of chemotherapy treatment, up to Year 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to worsening symptoms in the Lym subscale of the Functional Assessment of Cancer Therapy-Lymphoma (FACT-Lym)</outcome>
+      <timepoint>Up to the start date of the worsening of patient symptoms, up to Year 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Oral plasma clearance of ibrutinib</outcome>
+      <timepoint>Predose Day 1 of Cycles 1, 2, and 3, and postdose 1 h, 2 h, and 4 h of Cycles 1 and 2</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Oral volume of distribution at steady state of ibrutinib</outcome>
+      <timepoint>Predose Day 1 of Cycles 1, 2, and 3, and postdose 1 h, 2 h, and 4 h of Cycles 1 and 2</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Area under the plasma concentration-time curve of ibrutinib</outcome>
+      <timepoint>Predose Day 1 of Cycles 1, 2, and 3, and postdose 1 h, 2 h, and 4 h of Cycles 1 and 2</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimum observed plasma concentration of ibrutinib</outcome>
+      <timepoint>Predose Day 1 of Cycles 1, 2, and 3, and postdose 1 h, 2 h, and 4 h of Cycles 1 and 2</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of participants affected by an adverse event</outcome>
+      <timepoint>Up to 30 days after the last dose of study medication</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  No prior treatment for diffuse B-cell lymphoma (DLBCL)
+
+          -  Histologically-confirmed non-germinal center B-cell subtype DLBCL
+
+          -  Stage II (not candidates for local x-ray therapy), III, or IV disease by the Ann Arbor
+             Classification
+
+          -  At least 1 measurable site of disease according to Revised Response Criteria for
+             Malignant Lymphoma
+
+          -  Revised International Prognostic Index score of &gt;=1
+
+          -  Eastern Cooperative Oncology Group performance status grade of 0, 1, or 2
+
+          -  Hematology and biochemical laboratory values within protocol-defined parameters prior
+             to random assignment and at baseline
+
+          -  Left ventricular ejection fraction within institutional normal limits, as determined
+             by echocardiography or multiple uptake gated acquisition (MUGA) scan
+
+          -  Agrees to protocol-defined use of effective contraception (for women, these
+             restrictions apply for 12 months after the last dose of rituximab or 1 month after the
+             last dose of study drug, whichever is later; for men, these restrictions apply for 12
+             months after the last dose of rituximab or 3 months after the last dose of study drug,
+             whichever is later)
+
+          -  Men must agree to not donate sperm during and after the study for 12 months after the
+             last dose of rituximab or 3 months after the last dose of study drug, whichever is
+             later
+
+          -  Women of childbearing potential must have a negative serum or urine pregnancy test at
+             screening</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Major surgery within 4 weeks of random assignment
+
+          -  Known central nervous system or primary mediastinal lymphoma
+
+          -  Prior history of indolent lymphoma
+
+          -  Diagnosed or treated for malignancy other than DLBCL, except: malignancy treated with
+             curative intent and with no known active disease present for &gt;=3 years before random
+             assignment; adequately treated non-melanoma skin cancer or lentigo maligna without
+             evidence of disease; adequately treated carcinoma in situ without evidence of disease
+
+          -  History of stroke or intracranial hemorrhage within 6 months prior to random
+             assignment
+
+          -  Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+
+          -  Requires treatment with strong CYP3A inhibitors
+
+          -  Prior anthracycline use &gt;=150 mg/m2
+
+          -  Clinically significant cardiovascular disease such as uncontrolled or symptomatic
+             arrhythmias, congestive heart failure, or myocardial infarction within 6 months of
+             screening, or any Class 3 (moderate) or Class 4 (severe) cardiac disease as defined by
+             the New York Heart Association Functional Classification
+
+          -  Known history of human immunodeficiency virus or active hepatitis C virus or active
+             hepatitis B virus infection or any uncontrolled active systemic infection requiring
+             intravenous antibiotics
+
+          -  Women who are pregnant or breastfeeding
+
+          -  Any life-threatening illness, medical condition, or organ system dysfunction which, in
+             the investigator's opinion, could compromise the patient's safety, interfere with the
+             absorption or metabolism of ibrutinib capsules, or put the study outcomes at undue
+             risk</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>3/09/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>839</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>16/06/2022</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Adelaide</hospital>
+    <hospital> - Concord</hospital>
+    <hospital> - Darlinghurst</hospital>
+    <hospital> - Hobart</hospital>
+    <hospital> - Melbourne</hospital>
+    <hospital> - Nedlands</hospital>
+    <hospital> - Perth</hospital>
+    <hospital> - Randwick</hospital>
+    <hospital> - South Brisbane</hospital>
+    <hospital> - Woolloongabba</hospital>
+    <postcode> - Adelaide</postcode>
+    <postcode> - Concord</postcode>
+    <postcode> - Darlinghurst</postcode>
+    <postcode> - Hobart</postcode>
+    <postcode> - Melbourne</postcode>
+    <postcode> - Nedlands</postcode>
+    <postcode> - Perth</postcode>
+    <postcode> - Randwick</postcode>
+    <postcode> - South Brisbane</postcode>
+    <postcode> - Woolloongabba</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Vermont</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Ciudad Autonoma De Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Ciudad De Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brugge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Haine-Saint-Paul, La Louviere</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Kortrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio De Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>São Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Changchun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Chengdu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Guangzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Hangzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Harbin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Jinan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Nanjing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shanghai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Tianjin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Hradec Kralove</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Ostrava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha 10</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha 2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus C</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Roskilde</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Vejle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Helsinki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Jyväskylä</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Oulu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Turku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Limoges</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pessac</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre Benite</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Tours</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bamberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Jena</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Münster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Villingen-Schwenningen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Gyula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szombathely</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Veszprem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beer-Sheva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Hadera</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat-Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hiroshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Isehara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kobe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kumamoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kyoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Nagano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Nagoya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Narita</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka-Sayama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Sapporo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Sendai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Suita</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tachikawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tsukuba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Busan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Goyang-Si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>San Luis Potosi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam Zuidoost</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Arnhem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Dordrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Groningen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Leiden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nieuwegein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tromsø</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Brzozow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzów</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Olsztyn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ekaterinburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Nizhny Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-Na-Donu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Sochi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Volgograd</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Linköping</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Luleå</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Uppsala</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taoyuan County</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Adana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Kayseri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Samsun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Cherkassy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Khmelnitskiy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kiev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Makiivka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Maidstone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Oxford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Romford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Southampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Janssen Research &amp; Development, LLC</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Pharmacyclics LLC.</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to evaluate if ibrutinib administered in combination with
+      rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) improves the
+      clinical outcome in newly diagnosed patients with non-germinal center B-cell subtype (GCB) of
+      diffuse large B-cell lymphoma (DLBCL).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01855750</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Janssen Research &amp; Development, LLC Clinical Trial</name>
+      <address>Janssen Research &amp; Development, LLC</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,215 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366164">
+  <stage>Registered</stage>
+  <submitdate>12/04/2014</submitdate>
+  <approvaldate>9/05/2014</approvaldate>
+  <actrnumber>ACTRN12614000483651</actrnumber>
+  <trial_identification>
+    <studytitle>Head Position in Stroke Trial</studytitle>
+    <scientifictitle>An investigator initiated, international collaborative, multicentre, cluster randomised controlled trial to establish the effects of head positioning on death or disability in patients with acute stroke</scientifictitle>
+    <utrn />
+    <trialacronym>HeadPoST</trialacronym>
+    <secondaryid>Nill</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute ischaemic stroke</healthcondition>
+    <healthcondition>Acute intracerebral haemorrhage</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The lying flat (0 degree) head position - the intervention is for all patients to be nursed lying flat (0 degree) immediately after diagnosis of acute stroke is made and to remain in this position for 24 hours. These patients are to have strict bed rest for the first 24 hours after admission to hospital and should be toileted in bed. Patients may be nursed and/or allowed to turn on their side for comfort, feeding and toileting. However, if a patient is very uncomfortable and unable to tolerate this position, they may have their head slightly elevated with a pillow (i.e. no more than 5 degrees). If toileting is impossible in bed, they may sit up or use a commode near the side of the bed for a brief period. Feeding may commence after they have passed an appropriate swallowing screen or assessment; it is possible for patients to eat on their side in the flat position as swallow is an active process that is not dependent on gravity. However, if it is not practical for feeding to be undertaken in the lying flat (0 degree) head position, then a patient may be sat up to 30 degrees for a short time (&lt;30 minutes) for meals. Patients should have no more than 3 breaks in the 30 degrees position in the first 24 hours, and none of the breaks are to be grouped together (i.e. no back-to back breaks are permitted). For patients with dysphagia, the options are: (i) to maintain nil-by-mouth for the first 24 hours with hydration maintained by intravenous fluids; and/or (ii) insertion of a nasogastric tube with bolus interval rather than continuous enteral feeding to avoid aspiration. After 24 hours, those patients with minor strokes may have gradual elevation of their head and are allowed to commence gentle graded mobilisation with toilet privileges. Those patients with moderate-to-severe deficits may have the head position maintained for longer and mobilised according to local stroke care guidelines. An appropriately trained person (local champion) will undertake assessments and quality checks on adherence to the randomised intervention protocol on a regular basis and train staff as required to ensure compliance.</interventions>
+    <comparator>The sitting-up (greater than 30 degrees) head position - the intervention is for all patients to be nursed with their head elevated (greater than 30 degrees) by raising the head of the bed (or with extra pillows or wedge) immediately after the diagnosis of acute stroke is made, and to remain in this position for the next 24 hours. They may be nursed on their side, while the head position remains at greater than 30 degrees, and have toilet privileges for a short duration with no more than 3 breaks of 30 minutes in a lying down (0 degree) head position or less than 30 degrees head position in the first 24 hours, and none of the breaks are to be grouped together. Feeding may commence after their have passed an appropriate swallowing test. Those patients with minor deficits are allowed gentle mobilisation according to local guidelines. An appropriately trained person (local champion) will undertake assessments and quality checks on adherence to the randomised intervention protocol on a regular basis and train staff as required to ensure compliance.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Shift (improvement) in death or disability according to the modified Rankin Scale (mRS) </outcome>
+      <timepoint>90 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Shift in NIH Stroke Scale (NIHSS) score </outcome>
+      <timepoint>7 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death</outcome>
+      <timepoint>Within 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital stay</outcome>
+      <timepoint>Hospital discharge or death</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Quality of Life Scale 5 Dimension (EQ-5D)</outcome>
+      <timepoint>90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pneumonia
+Hospital acquired pneumonia is defined as pneumonia that occurs 48 hours or more after admission, which was not incubating at the time of admission; and the presence of a new or progressive radiographic infiltrate plus at least two of three clinical features (fever greater than or equal to 38 degrees, leukocytosis or leukopenia, and purulent secretions).</outcome>
+      <timepoint>Within 48 hours</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>* adults over 18 years ( the age for adults may vary in different countries)
+* have a clinical diagnosis of acute stroke (i.e. with a persistent neurological deficit on presentation).
+* presentation to hospital including  in-hospital event and hospital transfers , with a stroke.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* transient ischaemic attack (TIA) (i.e. symptoms fully resolved upon presentation).
+* definite clinical contraindication or indication to either sitting up head position or lying flat head position.  
+* significant medical condition that takes priority in care and where adherence to the randomised head position is not possible on another ward/department of the hospital.
+* immediate transfer from the Emergency Department (ED) or admission, to another ward for medical treatment (e.g. for haemodialysis) or surgery (e.g. carotid endarterectomy, haematoma evacuation) where adherence to the randomised head position is not possible.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The unit of randomisation will be the site (hospital), which will be randomly assigned by a statistician not otherwise involved in the trial to (a) lying flat (0 degree) head position or (b) sitting up (greater than 30 degrees) head position, by country of the site. 
+
+The randomised intervention is to be usual nursing care for all stroke patients meeting the study criteria as early as possible from the time of presentation in the ED (or from diagnosis if in-hospital event). The site is required to recruit consecutive stroke cases in the randomised position until the target number of patients is met before immediately crossing over to the other head position. The site will be contacted close to the first intervention target being achieved to prepare for crossing over to the second intervention.</concealment>
+    <sequence>Sites will be randomised using a computer-generated random numbers stratified by country of the site.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>For a cluster size of 50 AIS patients, and assuming a 5% crossover and 10% drop-out in each hospital, recruitment failure in 10%-15% of hospitals and an intra-cluster correlation coefficient of 0.03, a sample size of 14,000 AIS patients from 140 sites will provide 90% power (alpha=0.05) to detect 16% or greater improvement (shift) (approximate 4% absolute) associated with the lying flat head position in death or disability on the mRS at day 90 in an ordinal logistic regression analysis.  Likewise, a sample size of 2,800 ICH patients from 140 sites (average cluster size 10) will provide 90% power (alpha=0.05) to detect 25% or greater improvement (shift) in death or disability associated with sitting up head position.  The target of 70 patients in each intervention is derived from 10 patients in the initial learning phase, 50 AIS and 10 ICH. Thus, the overall target number of stroke patients to be recruited at each site is 140 (i.e. 2 x 70).  
+
+Analyses will be undertaken at the patient level on an intention-to-treat basis defined by allocated head position at each centre using Generalised Estimating Equations (GEE) or random-effects regression to account for clustering. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/06/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>19600</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>The George Institute for Global Health</primarysponsorname>
+    <primarysponsoraddress>PO Box M201, Missenden Rd, Camperdown NSW 2050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC)</fundingname>
+      <fundingaddress>GPO Box 1421 Canberra ACT2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>An investigator-initiated and conducted, international collaborative, regionally organised, multicentre, prospective, cluster randomised, crossover, blinded outcome assessment study to compare the effectiveness of the lying flat (0 degree) head position with the sitting up (greater than 30 degrees) head position, in the first 24 hours of admission to hospital for patients with acute stroke, on the poor outcome of death or disability over the subsequent 90 days.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sydney South West Area Health Service Ethics Review Committee (RPAH Zone)</ethicname>
+      <ethicaddress>Research Development Office, Royal Prince Alfred Hospital, Missenden Rod, Camperdown NSW 2050</ethicaddress>
+      <ethicapprovaldate>26/03/2014</ethicapprovaldate>
+      <hrec>HERC/14/RPAH/49</hrec>
+      <ethicsubmitdate>29/01/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Maree Hackett</name>
+      <address>The George Institute for Global Health, PO Box M201 Missenden Rd, Camperdown NSW 2050</address>
+      <phone>+61 2 9993 4500</phone>
+      <fax />
+      <email>mhackett@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Maree Hackett</name>
+      <address>The George Institute for Global Health, PO Box M201 Missenden Rd, Camperdown NSW 2050</address>
+      <phone>+61 2 9993 4500</phone>
+      <fax />
+      <email>mhackett@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Craig Anderson</name>
+      <address>The George Institute for Global Health, PO Box M201 Missenden Rd, Camperdown NSW 2050</address>
+      <phone>+61 2 9993 4500</phone>
+      <fax />
+      <email>canderson@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Maree Hackett</name>
+      <address>The George Institute for Global Health, PO Box M201 Missenden Rd, Camperdown NSW 2050</address>
+      <phone>+61 2 9993 4500</phone>
+      <fax />
+      <email>mhackett@georgeinstitute.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

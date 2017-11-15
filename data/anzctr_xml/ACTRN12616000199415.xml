@@ -1,0 +1,188 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369354">
+  <stage>Registered</stage>
+  <submitdate>21/09/2015</submitdate>
+  <approvaldate>15/02/2016</approvaldate>
+  <actrnumber>ACTRN12616000199415</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised control trial of cognitive behavioural treatment for perfectionism in Athletes</studytitle>
+    <scientifictitle>Randomised control trial of Online guided self-help version of Cognitive Behavioural Treatment for Perfectionism in athletes: evaluating impact on perfectionism, eating disorder pathology, compulsive exercise and burnout.</scientifictitle>
+    <utrn>U1111-1174-7139</utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Clinical Perfectionism </healthcondition>
+    <healthcondition>Eating Disorder Pathology </healthcondition>
+    <healthcondition>Compulsive Exercise</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Eating disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>8 week Online guided self help Cognitive Behavioural Treatment Program for Clinical Perfectionism.  Participants will be sent the text "Overcoming Perfectionism"  by Shafran, Egan and Wade which is a self help guided CBT intervention targeting perfectionism, Through weekly emails participants will be directed to read certain areas of the text and complete the associated activities. Each session should approximately require 2 hours to complete. Participants are required to complete each section of text and activities by the end of one week. Activities include worksheets exploring the perfectionist beliefs and cognitive restructuring and problem solving as well as reflections. Participants may also have to plan and participate in behavioural experiments. The time taken to complete Behavioural experiments would depend on the complexity of the design from 5 minutes to 1 hour. Communication via email with an investigator will ensure participants complete each session. </interventions>
+    <comparator>Waitlist Control will be offered the intervention after 8 weeks on the waitlist. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Clinical Perfectionism: measured by mean global and sub scale scores Frost Multidimensional Perfectionism Scale (Frost, Marten, Lahart, &amp; Rosenblate, 1990)  and Clinical Perfectionism Questionnaire (Fairburn, Cooper &amp; Shafran, 2003). </outcome>
+      <timepoint>Pre treatment, post treatment(after 8 week treatment), 3 months after last treatment session and 6 months after last treatment session. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Athlete Burnout measured by mean scores on Athlete Burnout Questionnaire(Raedeke &amp; Smith, 2001).  </outcome>
+      <timepoint>Pre treatment, post treatment(after 8 week treatment), 3 months after last treatment session and 6 months after last treatment session. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compulsive exercise measured by means scores on the Compulsive exercise test(Taranis et al., 2011). </outcome>
+      <timepoint>Pre treatment, post treatment(after 8 week treatment), 3 months after last treatment session and 6 months after last treatment session. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Eating Disorder Pathology as measured by global and sub scale scores on the Eating Disorder Examination- Questionnaire (Fairburn &amp; Beglin, 2008) </outcome>
+      <timepoint>Pre treatment, post treatment(after 8 week treatment), 3 months after last treatment session and 6 months after last treatment session. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1)	Elevated perfectionism as indicated by a score of 24.7 or greater, on the Concern over Mistakes (CM) subscale of the Frost Multidimensional Perfectionism Scale (FMPS; Frost, Marten, Lahart, &amp; Rosenblate, 1990).
+2)	Participants must be at least 18 years of age.  
+3)	Refrain from entering psychological treatment or medication during treatment. 
+4)	Stable use of psychological medication for at least 1 month prior to participation in research. 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1)	Participants who are found to have psychological disorders assessed by the Mini International Psychiatric Interview (MINI) (Sheehan et al., 1998)
+2)	Participants who are found to have medium to high risk on the suicide risk assessment on the MINI (Sheehan et al., 1998). 
+3)	Participants who demonstrate diagnosis of Anorexia Nervosa as measured by BMI less than or equal to 17kg/m2. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Once found to be eligible, Participants will be randomly assigned to the treatment group, an online guided self-help CBT treatment for clinical perfectionism, (CBT-CP) or the waitlist control group (CG). This allocation will be conducted by an individual not involved in the research project. </concealment>
+    <sequence>Randomisation will be conducted using Saghaei's (2004) software (simple randomisation). </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Mixed effects linear regression (Generalised Linear Mixed Models; GLMM) will be utilized through SPSS. The Categorical random effect is the participant, fixed categorical effect is the group (intervention and control) and ordinal fixed effect is time (pre-test, post-test, 3 month follow up and 6 month follow up). The treatment of perfectionism has been found to demonstrate large effects (Egan et al., 2011). Steele &amp; Wade, (2008) found the treatment of perfectionism reduced eating disorder symptoms on the global scale of EDE (d=1.73) and depression (d=.86) according to Cohens 1988 criteria (Cohen, 1988). Using G*power it is estimated that 34 participants (17 per group) are required for a 80% chance of detecting a moderate intervention effect time (pre vs post) x Group (intervention vs control) interaction at alpha level .05. This estimate represents an analysis with a standard ANOVA, a GLMM analysis is more sensitive to detecting an intervention effect and as such the proposed power analysis is relatively conservative. However, 34 participants will be used a minimum requirement, recruitment will aim for 25 per cent more to account for attrition rates.  
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>17/12/2015</actualstartdate>
+    <anticipatedenddate>20/02/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University </primarysponsorname>
+    <primarysponsoraddress>Dr. Sarah Egan 
+School of Psychology and Speech Pathology, Kent St, Bentley WA 6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Curtin University </fundingname>
+      <fundingaddress>Dr. Sarah Egan 
+School of Psychology and Speech Pathology, Kent St, Bentley WA 6102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Research indicates a high prevalence of eating disorder symptomology in elite athletes in comparison to the non-athlete population (Smolak et al., 2000). Perfectionism is an a critical risk and maintaining factor in eating disorders (Egan et al., 2011) and compulsive exercise (Coen &amp; Ogles, 1993). CBT guided self-help treatment has been found to treat effectively perfectionism (Egan et al., 2014). This trial will implement an online, guided self-help treatment for perfectionism in athletes to examine if it reduces Eating Disoder symptomology, compulsive exercise and burnout in athletes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee </ethicname>
+      <ethicaddress>School of Psychology and Speech Pathology, Kent St, Bentley WA 6102</ethicaddress>
+      <ethicapprovaldate>7/10/2015</ethicapprovaldate>
+      <hrec>HR88/2013</hrec>
+      <ethicsubmitdate>1/10/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Sarah Egan </name>
+      <address>School of Psychology and Speech Pathology 
+Curtin University 
+Kent Street, Bentley, Perth Western Australia 6102</address>
+      <phone>+618 9266 2367</phone>
+      <fax />
+      <email>S.Egan@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sarah Egan </name>
+      <address>School of Psychology and Speech Pathology
+Curtin University 
+Kent Street, Bentley, Perth Western Australia 6102</address>
+      <phone>+618 9266 2367</phone>
+      <fax />
+      <email>S.Egan@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sarah Egan </name>
+      <address>School of Psychology and Speech Pathology 
+Curtin University 
+Kent Street, Bentley, Perth Western Australia 6102</address>
+      <phone>+618 9266 2367</phone>
+      <fax />
+      <email>S.Egan@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

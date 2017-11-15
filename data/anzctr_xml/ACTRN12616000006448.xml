@@ -1,0 +1,303 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369624">
+  <stage>Registered</stage>
+  <submitdate>15/12/2015</submitdate>
+  <approvaldate>12/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000006448</actrnumber>
+  <trial_identification>
+    <studytitle>Restricted Fluid Resuscitation in Sepsis-associated Hypotension (REFRESH) Trial</studytitle>
+    <scientifictitle>In Sepsis with hypotension does restricted volume resuscitation lead to less endothelial cell activation and systemic inflammation?</scientifictitle>
+    <utrn />
+    <trialacronym>REFRESH trial</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Sepsis</healthcondition>
+    <healthcondition>Septic Shock</healthcondition>
+    <healthcondition>Hypotension</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Restricted volume resuscitation. Patients with clinically suspected sepsis and hypotension which persists after an initial bolus of 1000mls intravenous fluids will be eligible. Particiants randomised to the restricted fluid arm will be commenced on an intravenous infusion of a vasopressor agent (noradrenaline or metaraminol as per local hospital protocol), titrated to a mean arterial pressure (MAP) of at least 65mmHg by the treating clinician. A maintenance infusion of 1-2mls/kg/hour of intravenous fluid will be started and further fluid boluses of 250mls may be administered at the discretion of treating clinician according to usual clinical practice. The trial protocol will run for 6 hours from randomisation after which treatment will continue as guided by the treating team. All administered fluids will be accurately recorded. Research blood samples will be obtained at randomisation (Time 0), and at 3 hours, 6 hours and 24 hours for biomarkers of interest.</interventions>
+    <comparator>Standard volume resuscitation. Patients with clinically suspected sepsis and hypotension which persists after and initial bolus of 1000mls intravenous fluids will be eligible. Participants randomised to standard care will receive a further 1000mls intravenous fluid bolus (2000mls total) + further fluid as indicated, according to international consensus guidelines as determined by the treating clinician. Participants whose blood pressure remains inadequate following fluid resuscitation will be commenced on an intravenous infusion of a vasopressor agent (noradrenaline or metaraminol as per local hospital protocol), titrated to a mean arterial pressure (MAP) of at least 65mmHg by the treating clinician. A maintenance infusion of 1-2mls/kg/hour of intravenous fluid will be started and further fluid boluses of 500mls may be administered  at the discretion of treating clinician according to usual clinical practice. The trial protocol will run for 6 hours from randomisation after which treatment will continue as guided by the treating team. All administered fluids will be accurately recorded. Research blood samples will be obtained at randomisation (Time 0), and at 3 hours, 6 hours and 24 hours for biomarkers of interest.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Feasibility, defined as a at least 30% less total volume of intravenous fluid administered in the intervention group (restricted volume) during the first 6 hours of treatment.compared to the standard care group, including fluids administered prior to randomisation. This data will be prospectively collected on the case report form by research personnel and verified against  fluid administration log sheets.</outcome>
+      <timepoint>6 hours from randomisation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biomarkers
+Peak values for a range of markers including:
+- Atrial Natriuretic Peptide (ANP)
+- Inflammatory cytokines (Interleukin-6, Interleukin-10)
+- Resistin
+- Neutrophil Gelatinase associated lipocalin
+- Soluble Endothelial activation molecules (ICAM-1, VCAM-1, P-selectin, E-selectin)
+- Soluble glycocalyx degradation molecules (Syndecan, Hyaluronin)
+Biomarkers will be analysed using commercial ELISA kits or by cytometric bead array on stored sera.</outcome>
+      <timepoint>Randomisation (T0)
+3 hours from randomisation (T3)
+6 hours from randomisation (T6)
+24 hours from randomisation (T24)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biomarkers
+Pattern of expression over time for a for a range of markers including:
+- Atrial Natriuretic Peptide (ANP)
+- Inflammatory cytokines (Interleukin-6, Interleukin-10)
+- Resistin
+- Neutrophil Gelatinase associated lipocalin
+- Soluble Endothelial activation molecules (ICAM-1, VCAM-1, P-selectin, E-selectin)
+- Soluble glycocalyx degradation molecules (Syndecan, Hyaluronin)
+Biomarkers will be analysed using commercial ELISA kits or by cytometric bead array on stored sera.
+
+</outcome>
+      <timepoint>Randomisation (T0)
+3 hours from randomisation (T3)
+6 hours from randomisation (T6)
+24 hours from randomisation (T24)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ventilator-free days by review of hospital records
+</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of ventilator support by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiovascular support-free days by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of cardiovascular support by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Renal replacement therapy-free days by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of renal replacement therapy by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU-free days by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of ICU stay by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital-free days by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of hospital stay by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>In hospital mortality by review of hospital records</outcome>
+      <timepoint>28 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause mortality by electronic database query and telephone follow up with patient/carer/primary care physician</outcome>
+      <timepoint>90 days from enrollment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Suspected infection
+2. Systolic blood pressure &lt;100mmHg after at least 1000mls intravenous isotonic crystalloid administered over maximum 60 minutes
+3. Randomisation within 2 hours of meeting inclusion criteria</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Hypotension thought due to, or contributed to by, a non-sepsis cause (e.g. arrhythmia, haemorrhage)
+2. Clinical indication for further fluid replacement replacement (e.g. GI losses)
+3. Transfer from another hospital
+4. More than 2000mL of intravenous fluid has been given (either pre-hospital, in ED or both) 
+5. Likely requirement for immediate surgery
+6. Age&lt;18 years
+7. Pregnancy (confirmed or suspected)
+8. Patient in extremis or death is deemed imminent and inevitable
+9. Patient wishes or  comorbidities such that fluid loading or vasopressor support is not considered to be clinically appropriate.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central online computerised randomisation performed only after decision to enroll participant</concealment>
+    <sequence>1:1 allocation by real-time online randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Patients and treating clinician will be aware of treatment allocation
+Biomarker analyses will be performed by laboratory staff blinded to treatment allocation</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The primary outcome (feasibility) is a 30% reduction in fluid administered over the first 6 hours. In a recent Australian clinical trial (the ARISE trial) in this population the control arm received a mean volume of 4200 +/-2650 mls of fluid in the initial 6 hours. A clinically meaningful reduction would be 2800 +/-1800mls. A total of 86 participants will have 80% power to detect this difference with alpha 0.05. The trial will enroll a total of 100 participants to allow a 'margin of safety'.
+
+Differences in continuous variables will be analysed using the  t-test or Wilcoxon rank sum test depending upon the distribution. Chi squared or Fishers exact test will be used for categorical data. 
+
+For biomarker analyses, those which are normally distributed or can be transformed, linear mixed models with maximum likelihood estimation will be employed to analyse the pattern of biomarkers over time. Differences in the pattern of biomarkers over time between the restricted volume and the standard volume groups will be tested by the interaction of time and group in the model. Additional covariates will be added to adjust for treating centre, illness severity and comorbidities. For biomarkers with skewed distributions resistant to successful transformation, quantile regression with per person cluster adjustment will be used.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>27/06/2016</anticipatedstartdate>
+    <actualstartdate>15/09/2016</actualstartdate>
+    <anticipatedenddate>31/01/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD,TAS,WA,VIC</recruitmentstate>
+    <hospital>Armadale Kelmscott Memorial Hospital - Armadale</hospital>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Gold Coast Hospital - Southport</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>The Prince Charles Hospital - Chermside</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>35 Stirling Highway
+Crawley WA 6009
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Queensland Emergency Medicine Research Foundation</fundingname>
+      <fundingaddress>1/15 Lang Parade
+Milton QLD 4064</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Royal Perth Hospital</sponsorname>
+      <sponsoraddress>GPO Box 2213
+Perth WA6000</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Sepsis can occur when a person becomes unwell due to an infection. It is caused by inflammation throughout the body and affects the functions of organs such as the heart, lungs and kidneys. Sepsis can cause low blood pressure and impaired blood flow to the bodys tissues. This is sometimes called septic shock.
+
+First line treatment of septic shock is to give intravenous fluid to help restore the circulation. Standard guidelines recommend at least 30ml/kg initially, or approximately 2 litres in an adult. Often up to 5 litres is given in the first 6 hours. However, the volume required varies between individual patients, and calculating the correct amount can be difficult. There is emerging evidence that giving too much fluid can be harmful by leaking into the tissues (such as lungs), impairing organ function, delaying recovery and increasing the risk of complications.
+
+Other research suggests that giving excessive fluid affects the bodys immune responses. In particular this can lead to adverse effects on the normal function of small blood vessels within tissues. This may be one mechanism by which too much fluid leads to harm.
+
+An alternative means of restoring adequate blood pressure is to use a drug called noradrenaline. This is a chemical produced naturally by the body, which causes blood vessels to constrict, raising blood pressure. Noradrenaline, given by a continuous infusion through a drip, has been routinely used for decades for this purpose and is known to be safe and effective. Normally noradrenaline is commenced in patients whose blood pressure does not improve after 2-3 litres of intravenous fluid.
+
+While our current guidelines recommend initial generous fluid administration for septic shock, it has been suggested that using lower volumes of fluid may result in less inflammation and harmful effects, particularly on the cells which line the walls of blood vessels and control their function. This study aims to test this hypothesis.
+
+We propose comparing an approach where patients receive a smaller volume of fluid in their initial resuscitation, against the standard guideline-recommended volume. Participants will be randomised to one or other group. We will measure the blood levels of certain chemical markers of inflammation and blood vessel function. We aim to demonstrate that giving a lower amount of fluid in the initial resuscitation phase is feasible clinically, and results in less alteration of blood vessel function and inflammation in the body.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>Southern Integrated Research Organisation
+Locked Bag 100
+Palmyra DC WA6961</ethicaddress>
+      <ethicapprovaldate>13/10/2015</ethicapprovaldate>
+      <hrec>15-114</hrec>
+      <ethicsubmitdate>1/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Macdonald</name>
+      <address>Centre for Clinical  Research in Emergency Medicine
+Harry Perkins Institute of Medical Research
+Emergency Department
+Royal Perth Hospital
+GPO Box X2213
+Perth WA6001</address>
+      <phone>+61 8 9224 8458</phone>
+      <fax>+61 8 9224 1494</fax>
+      <email>stephen.macdonald@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Macdonald</name>
+      <address>Centre for Clinical  Research in Emergency Medicine
+Harry Perkins Institute of Medical Research
+Emergency Department
+Royal Perth Hospital
+GPO Box X2213
+Perth WA6001</address>
+      <phone>+61 8 9224 8458</phone>
+      <fax>+61 8 9224 1494</fax>
+      <email>stephen.macdonald@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Macdonald</name>
+      <address>Centre for Clinical  Research in Emergency Medicine
+Harry Perkins Institute of Medical Research
+Emergency Department
+Royal Perth Hospital
+GPO Box X2213
+Perth WA6001</address>
+      <phone>+61 8 9224 8458</phone>
+      <fax>+61 8 9224 1494</fax>
+      <email>stephen.macdonald@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Macdonald</name>
+      <address>Centre for Clinical  Research in Emergency Medicine
+Harry Perkins Institute of Medical Research
+Emergency Department
+Royal Perth Hospital
+GPO Box X2213
+Perth WA6001</address>
+      <phone>+61 8 9224 8458</phone>
+      <fax>+61 8 9224 1494</fax>
+      <email>stephen.macdonald@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

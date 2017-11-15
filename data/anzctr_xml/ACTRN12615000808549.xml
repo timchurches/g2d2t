@@ -1,0 +1,246 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365384">
+  <stage>Registered</stage>
+  <submitdate>10/12/2014</submitdate>
+  <approvaldate>4/08/2015</approvaldate>
+  <actrnumber>ACTRN12615000808549</actrnumber>
+  <trial_identification>
+    <studytitle>Alice Springs Hospital Readmission Prevention Project: Analysis of a multi-dimensional transitional care program in patients frequently admitted to hospital</studytitle>
+    <scientifictitle>In patients frequently admitted to hospital does a multi-dimensional transitional care package, compared with usual care, reduce hospital readmission</scientifictitle>
+    <utrn>U1111-1150-4169</utrn>
+    <trialacronym>ASH RAPP</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>chronic non-communicable diseases</healthcondition>
+    <healthcondition>Frequent hospital readmission</healthcondition>
+    <healthcondition>Aboriginal Australian health</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Chronic obstructive pulmonary disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Multi-dimensional case management approach
+-Comprehensive assessment to identify  factors driving readmission (e.g. housing, alcohol and other drugs, social and emotional well-being): This assessment will involve a face to face, semi structured interview with the patient lasting approximately 45-60 minutes. 
+-Coordination of early referral to inpatient, allied services and organization of outpatient services and equipment
+-Patient and carer education including diagnosis, medication use, role and access and follow-up plan: This will involve one face to face session focusing on diagnosis, a bedside session lasting 30-45mins with the team pharmacist focusing on medications and then a final session lasting 30mins with the team doctor or nurse focusing on discharge plan and follow-up
+-Primary health care liaison to ensure early review within 7 days post discharge
+
+Adherence to the intervention will be monitored by continued involvement with the program including engagement with the team during admissions, timely review with primary care and low drop out rate from the program.</interventions>
+    <comparator>Usual clinical and hospital discharge management which involves input from individual services such as discharge planning, social work and allied health. Involvement of these services is based on referrals made by treating team. These services work independently and are not coordinated by a team or person. </comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Rate of all-cause readmission (calculated as readmissions/month follow-up)
+-This will be assessed using data linkage with hospital medical records</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>rate of all-cause hospital inpatient days
+-This will be assessed using data linkage with hospital medical records</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>overall rate of emergency department attendances
+-This will be assessed using data linkage with hospital medical records</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>days alive and out-of-hospital (including linkage with NT Government Death notifications)
+</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>number of ICU/HDU admissions and bed days
+-This will be assessed using data linkage with hospital medical records</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>time to first primary health care review following hospital discharge
+-This will be assessed using data linkage with community health records</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>cost effectiveness
+-The use of all health care resources will be measured and multiplied by the respective unit costs using the National Weighted Activity Units (NWAU). Cost for primary health care will be a fixed cost as per medicare multiplied by number of visits</outcome>
+      <timepoint>12 months following enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>A prognostic assessment will be carried out by the participant's treating physician. The participant will be excluded if the median life expectancy is less than 12 months.
+
+Accuracy of prognostic assessments
+-This will be assessed using data linkage with government death notifications for patients excluded based on prognosis</outcome>
+      <timepoint>12 months following exclusion from project</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>4 or more adult medical/surgical admissions over the preceding 12 months OR more than 7 admissions over the past 24 months
+-A surgical admission is deemed appropriate if related to a patient's chronic disease eg. diabetic foot infections, chronic pancreatitis, cellulitis
+2. Resident of Central Australia (including the cross border regions of Western Australia and
+South Australia and extending north to Elliot in the Northern Territory). </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Median life expectancy of 12 months or less based on independent specialist (including
+subspecialist physician) assessment
+2. Stage 5 chronic kidney disease (eGFR &lt; 15ml/min or receiving renal replacement therapy)
+3. Solid organ transplant (including renal transplant)
+4. Ongoing palliative care service review
+5. Previous enrollment in the study (such subjects will have on-going care as per original
+study allocation)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Total sample size will be 210, 70 randomised to case management and 140 to the control arm.
+Randomisation will occur once inclusion and exclusion criteria have been reviewed and informed consent obtained from the patient. Once enrolled patients will be allocated to either the intervention or usual care groups via telephone randomization database managed by the Australian Catholic University in Melbourne. Allocations will be weighted with two patients allocated to the control group for each allocated to the intervention. </concealment>
+    <sequence>Computer generated random number sequence (Stata 13)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Sample size is based on data derived from Alice Springs Hospital admission data over the previous 12 months in patients who would be suitable for inclusion in this study. These data and the required sample size are based on an alpha of 0.05 and beta of 0.1 (power of 90%). In this modelling a clinically significant reduction in readmission is defined as at least a 30% reduction in total bed days or 25% reduction in number of admissions. This reduction is in line with the 40% reduction seen in earlier studies of unplanned admission reduction in heart failure patients. The total sample size (control and intervention arms) will be 210. Alice Springs Hospital data indicates more than 300 individual patients were admitted to Alice Springs hospital over the last 12
+months who would meet the inclusion criteria for this study.
+
+Statistical analysis of the primary end point will be based on univariate analysis for continuous variables for inpatient days and chi square and survival analysis for all cause mortality. Multivariate analysis will be utilised to develop predictive equations for risk of readmission and survival utilising baseline data including self-reported (Resource Utilization Groups Activities of Daily Living (RUG-ADL)] and Australian Modified Karnofsky Performance Scale (AKPS)) and objective (6MWT) measures of function, co-morbidities (including severity), demographics and anthropometry.
+
+Health economic analyses will assess the use of all
+health care resources multiplied by the respective unit costs. In general, hospital admissions typically incur higher costs for the initial period when diagnostic tests and surgical procedures are undertaken. The later days stay are relatively lower cost with little more than hotel costs incurred. The use of Australia-refined Diagnostic Related Groupings (AR-DRGs) will permit us to standardise and categorise each rehospitalisation episode into fixed and variable costs. Fixed costs are those that all surviving patients incur irrespective of their length of stay, whilst variable costs are a per diem cost and are dependent on the length of stay. The total costs are the variable costs multiplied by the length of stay plus the fixed cost. Fixed costs will include
+components for the emergency department, pathology, imaging, allied health professional input, pharmacy, critical care, prostheses, operating room procedures and specialist procedure suites. Per diem costs will include those for medical staff, nursing staff, non-clinical staff, staff on-costs, supplies, hotel costs (e.g. meals), and depreciation. We will also collect length of stay in intensive care and critical care units (ICU/CCU), as well overall length of stay. Accordingly, costs will be calculated using fixed costs plus the mean per diem cost for ICU/CCU (equivalent 2012 costs - AU$3356) plus the per diem cost for a general ward (AU$772) multiplied by the lengths of stay in each facility. Further, other resources used for implementing the intervention and usual care in regard to discharge planning and readmission prevention and community care including primary
+health care services will be multiplied by the respective unit costs; these will be derived from contemporary sources in 2014</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>29/06/2015</anticipatedstartdate>
+    <actualstartdate>29/06/2015</actualstartdate>
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate>30/06/2017</actualenddate>
+    <samplesize>210</samplesize>
+    <actualsamplesize>113</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate>19/08/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis>Data collected is being analysed</dataanalysis>
+    <withdrawnreason>Lack of funding/staff/facilities,Participant recruitment difficulties,Other reasons/comments</withdrawnreason>
+    <withdrawnreasonother>Positive results from an interim analysis and a potential survival benefit identified</withdrawnreasonother>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NT</recruitmentstate>
+    <hospital>Alice Springs Hospital - Alice Springs</hospital>
+    <postcode>0870 - Alice Springs</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Baker IDI Heart and Diabetes Institute</primarysponsorname>
+    <primarysponsoraddress>75 Commercial Rd
+Melbourne Victoria 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601 </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Hospitals face high levels of emergency presentations and demand for inpatient care particularly for Aboriginal Australian people from remote communities. Readmissions lead to overcrowded emergency departments and poorer patient outcomes. We will undertake a project to evaluate the efficacy of a multidimensional case-based management intervention in a regional Australian hospital with the aim of reducing hospital readmission and improving patient outcomes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Australian Human Research Ethics Committee</ethicname>
+      <ethicaddress>Centre for Remote Health
+PO Box 4066 Alice Springs NT 0871</ethicaddress>
+      <ethicapprovaldate>13/11/2013</ethicapprovaldate>
+      <hrec>HREC-13-159</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Graeme Maguire</name>
+      <address>Baker IDI Central Australia
+PO Box 1294
+Alice Springs NT 0871</address>
+      <phone>+61 8 8951 0111</phone>
+      <fax>+61 8 8952 1557</fax>
+      <email>graeme.maguire@bakeridi.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Graeme Maguire</name>
+      <address>Baker IDI Central Australia
+PO Box 1294
+Alice Springs NT 0871</address>
+      <phone>+61 8 8951 0111</phone>
+      <fax>+61 8 8952 1557</fax>
+      <email>graeme.maguire@bakeridi.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Graeme Maguire</name>
+      <address>Baker IDI Central Australia
+PO Box 1294
+Alice Springs NT 0871</address>
+      <phone>+61 8 8951 0111</phone>
+      <fax>+61 8 8952 1557</fax>
+      <email>graeme.maguire@bakeridi.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Gabrielle Diplock</name>
+      <address>Baker IDI Central Australia
+PO Box 1294
+Alice Springs NT 0871</address>
+      <phone>+61 8 8951 0111</phone>
+      <fax>+ 61 8 8952 1557</fax>
+      <email>gabrielle.diplock@bakeridi.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368513">
+  <stage>Registered</stage>
+  <submitdate>7/05/2015</submitdate>
+  <approvaldate>8/07/2015</approvaldate>
+  <actrnumber>ACTRN12615000707561</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluation of a protective ventilation strategy in patients undergoing major neurosurgery: a pilot study</studytitle>
+    <scientifictitle>Safety and applicability of a protective ventilation strategy in patients undergoing neurosurgery, as compared to conventional mechanical ventilation.</scientifictitle>
+    <utrn>U1111-1169-8923</utrn>
+    <trialacronym>Low VT in neurosurgery</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Protective mechanical ventilation strategy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The patient randomized in the intervention group will undergo to a protective mechanical ventilation strategy set as described: volume controlled ventilation mode with a Positive End-Expiratory pressure equal to 5 cmH2O, a tidal volume equal to 6 ml/kg of ideal body weight. The respiratory rate will be initially set at 16 breaths/min. After the induction of anesthesia and patient's intubation, and before the beginning of the surgery, a recruitment maneuver will be done applying a pressure to the airway opening equal to 30 cmH2O for a period of 25-30 seconds. Recruitment maneuvers will be done anytime the patient will be deconnected from the ventilator.
+The treatment will be administered to patients until the end of the surgery and, afterwards, till patients will be awaken from of the anesthesia</interventions>
+    <comparator>The patient randomized in the control group will undergo to a conventional ventilation strategy set as described: volume controlled ventilation mode with zero End-Expiratory pressure, a tidal volume equal to 10 ml/kg of ideal body weight. The respiratory rate will be initially set at 6-8 breaths/min, afterwards regulated according the endtidal carbon dioxide tension (35-40 mmHg).
+The treatment will be administered to patients until the end of the surgery and, afterwards, till patients will be awaken from of the anesthesia.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To evaluate if a protective ventilation strategy is safety (i.e. number of intraoperative complications like desaturation or hypotension) during a major neurosurgery </outcome>
+      <timepoint>Immediately at the completion of the surgery</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>To evaluate if a protective ventilation strategy is feasible (i.e. evaluation of the cerebral tension by the surgeon, possibility of optimal control of arterial carbon dioxide) during a major neurosurgery.</outcome>
+      <timepoint>Immediately at the completion of the surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of pulmonary complications (i.e. post-operative hypoxaemia, pneumonia, need of non-invasive or invasive ventilatory support), as assesed through peripheral oxygenation, arterial blood gases and/or chest X-Ray after the surgery, need of oxygen or non-invasive ventilation or invasive ventilation.</outcome>
+      <timepoint>This endpoint will be daily assessed till the day of the patient's discharge (or to 30 days after the surgery)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of extra-pulmonary complications (sepsis or septic shock), as assessed by the vital parameters and laboratory blood tests (white blood cell, c-reactive protein, procalcitonin, organ failures indexes)</outcome>
+      <timepoint>This endpoint will be daily assessed till the day of the patient discharge (or to 30 days after the surgery)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intensive Care Unit (ICU), Hospital and 30-day mortalities as assessed through hospital medical records and follow up</outcome>
+      <timepoint>The mortality will be assessed at: 1) ICU discharge (whenever the patient will be admitted to ICU), 2) at hospital discharge and 3) at 30 days after the surgery.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of admission in Intensive Care Unit (ICU) (together with the reason of admission) as assessed through medical records</outcome>
+      <timepoint>Daily assessed till hospital discharge or 30 days after surgery max</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU length of stay as computed by the total number of days spent in ICU, as recorded by medical records (whenever a patient will be admitted for any reason)</outcome>
+      <timepoint>Daily assessed till hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay, as computed by the total number of days  from the hospital admission to discharge recorded on medical records</outcome>
+      <timepoint>Daily assessed till hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Impact of the ventilation strategy on the cerebral tension at the beginning of the surgery, as assessed by the surgeon through a dedicated 4-point rating scale, from 0 (i.e. no cerebral tension) to 4 (i.e. severe cerebral tension).</outcome>
+      <timepoint>Beginning of the surgery</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All the patients meeting the following criteria will be eligible for the study: 1) age equal or greater than 18 years; 2) cerebral or spinal neurosurgery with an expected duration equal or greater than 4 hours, 3) risk index for pulmonary post-operative complications greater than 2; 4) no need for post-operative ICU.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients will be excluded if meeting one or more of the following criteria: 1) mechanical ventilation in the previous 2 weeks 2) BMI equal or greater than 35 3) sepsis or acute rspiratory failure in the previous 2 weeks 4) emergent or urgent surgery 5) neuromuscular diseases 6) consent withdraw.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The allocation of a patient  in a group is done with sealed opaque envelopes.</concealment>
+    <sequence>Simple randomization using a randomisation table created by computer</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>A specific computation of the sample size is not feasible, since no previous studies regarding this topic during neurosurgery have been done. However, we believe that a total of 60 patients, 30 for each group, will be enough for a feasibility pilot study. 
+After data analysis, the normal distribution will be assessed by the Kolmogorov-Smirnov test. Data will be expressed as mean (standard deviation) or median [25-75 interquartile range], according to the normality test.
+Data will be compared with Student t-test or Mann-Whitney U test or chi2 or Fishers exact test, as indicated.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2014</actualstartdate>
+    <anticipatedenddate>31/12/2015</anticipatedenddate>
+    <actualenddate>16/12/2015</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>60</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Novara</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Federico Longhini, MD</primarysponsorname>
+    <primarysponsoraddress>Intensive Care Unit, ASL VC - Azienda Sanitaria Locale di Vercelli, C.so Mario Abbiate n. 21 - 13100 - Vercelli</primarysponsoraddress>
+    <primarysponsorcountry>Italy</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Recently, Futier et al. found that the use of a lung-protective ventilation strategy in intermediate-risk and high-risk patients undergoing major abdominal surgery was associated with improved clinical outcomes and reduced health care utilization, as compared with a practice of nonprotective mechanical ventilation (N Engl J Med. 2013 Aug 1;369(5):428-37). Moreover, Severgnini et al. found that a protective ventilation strategy during abdominal surgery lasting more than 2 h improved respiratory function and reduced the modified Clinical Pulmonary Infection Score without affecting length of hospital stay (Anesthesiology. 2013 Jun;118(6):1307-21). However, to date no studies investigate the role of a protective ventilation strategy during neurosurgery.
+The present pilot study aims to evaluate if a protective ventilation strategy is: 1) safety (i.e. number of intraopeartive complication like desaturation or hypootension) and 2) feasible (i.e. evaluation of the cerebral tension by the surgeon, possibility of optimal control of arterial carbon dioxide) during a major neurosurgery. 
+Secondarily, the study aims to evaluate: 
+1) if a protective ventilation strategy will translate into reduced number of pulmonary complications (i.e. post-operative hypoxaemia, pneumonia, need of non-invasive or invasive ventilatory support), as assesed through peripheral oxygenation, arterial blood gases and/or chest X-Ray after the surgery, need of oxygen or non-invasive ventilation or invasive ventilation, compared to conventional strategies;
+2) if a protective ventilation strategy will translate into reduced number of extra-pulmonary complications (sepsis or septic shock), as assessed by the vital parameters and laboratory blood tests (white blood cell, c-reactive protein, procalcitonin, organ failures indexes), compared to conventional strategies;
+3) the ICU, hospital and 30-days mortalities, as assessed through hospital medical records;
+4) the number of admission in ICU (together with the reason of admission);
+5) the ICU lenght of stay as computed by the total number of days spent in ICU (whenever a patient will be admitted for any reason);
+6) the hospital lenght of stay, as computed by the total number of days  from the hospital admission to discharge;
+7) the impact of the ventilation strategy on the cerebral tension at the beginning of the surgery, as assessed by the surgeon through a dedicated 4-point rating scale, from 0 (i.e. no cerebral tension) to 4 (i.e. severe cerebral tension).
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Ethical Committee Novara</ethicname>
+      <ethicaddress>Corso Mazzini 18, 28100, Novara</ethicaddress>
+      <ethicapprovaldate>21/10/2014</ethicapprovaldate>
+      <hrec>134/14</hrec>
+      <ethicsubmitdate>4/09/2014</ethicsubmitdate>
+      <ethiccountry>Italy</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Federico Longhini</name>
+      <address>Intensive Care Unit, ASL VC - Azienda Sanitaria Locale di Vercelli, C.so Mario Abbiate n. 21 - 13100 - Vercelli</address>
+      <phone>+39 3475395967</phone>
+      <fax />
+      <email>longhini.federico@gmail.com</email>
+      <country>Italy</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Federico Longhini</name>
+      <address>Intensive Care Unit, ASL VC - Azienda Sanitaria Locale di Vercelli, C.so Mario Abbiate n. 21 - 13100 - Vercelli</address>
+      <phone>+39 3475395967</phone>
+      <fax />
+      <email>longhini.federico@gmail.com</email>
+      <country>Italy</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Federico Longhini</name>
+      <address>Intensive Care Unit, ASL VC - Azienda Sanitaria Locale di Vercelli, C.so Mario Abbiate n. 21 - 13100 - Vercelli</address>
+      <phone>+39 3475395967</phone>
+      <fax />
+      <email>longhini.federico@gmail.com</email>
+      <country>Italy</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Federico Longhini</name>
+      <address>Intensive Care Unit, ASL VC - Azienda Sanitaria Locale di Vercelli, C.so Mario Abbiate n. 21 - 13100 - Vercelli</address>
+      <phone>+39 3475395967</phone>
+      <fax />
+      <email>longhini.federico@gmail.com</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

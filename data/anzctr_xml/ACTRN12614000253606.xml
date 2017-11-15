@@ -1,0 +1,259 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365659">
+  <stage>Registered</stage>
+  <submitdate>3/03/2014</submitdate>
+  <approvaldate>10/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000253606</actrnumber>
+  <trial_identification>
+    <studytitle>CORD CLAMPING STUDY: Early versus delayed cord clamping and its effects on infant heart rate and oxygen saturation in the first minutes after birth.</studytitle>
+    <scientifictitle>In newly born infants, greater or equal to 32 weeks gestation, does early cord clamping  &lt; 60s after birth versus delaying cord clamping (90 to 180s) after birth, or after breathing has established, result in less bradycardia (Heart rate (HR) &lt;100 bpm), when HR is measured 90s after birth?</scientifictitle>
+    <utrn>U1111-1152-4622</utrn>
+    <trialacronym>TOCC - Time of Cord Clamping Study</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Bradycardia in the first minutes after birth</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Childbirth and postnatal care</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>There are three intervention groups
+1. Early cord clamping group ( &lt;60s after birth)
+2. Delayed cord clamping (&gt; 90s but less than 180s after birth) 
+2. Clamping the cord 10s after crying and breathing has been established
+</interventions>
+    <comparator>Early cord clamping group ( &lt;60s after birth)
+</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>HR measured by pulse oximetry </outcome>
+      <timepoint>90s after birth</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Heart rate measured by StethocloudTM (a digital microphone enabled stethoscope)</outcome>
+      <timepoint>90s after birth</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison between HR in study infants compared to HR  centile charts  </outcome>
+      <timepoint>The first 10 minutes after birtth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison between oxygen saturation measurments  in study infants compared to published centile charts for oxygen saturation measurements</outcome>
+      <timepoint>The first 10 minutes after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>First heart rate data available on the oximeter</outcome>
+      <timepoint>Time for the first heart rate data to be available on the oximeter</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Need for active resuscitation in the delivery room with oxygen or continuous positive airway pressure (CPAP),or  positive pressure ventilation (PPV), or intubation</outcome>
+      <timepoint>Within the first 10 minutes after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Any treatment of hyperbilirubinaemia (measured by serum bilirubin) with phototherapy</outcome>
+      <timepoint>Within the first 28 days after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Post partum haemorrhage more than  500mls, blood loss estimated by midwife</outcome>
+      <timepoint>Within the first 30 mins following birth of the baby.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severe post partum haemorrhage more than 1000 mls, blood loss estimated by midwife</outcome>
+      <timepoint>Within the first 30 mins following the birth of the baby</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to infant's first cry after birth</outcome>
+      <timepoint>seconds after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Infant Apgar score</outcome>
+      <timepoint>one and five minutes after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Any true blood glucose &lt; 2.6 mmols/L measured by blood gas machine or via laboratory </outcome>
+      <timepoint>Within the first 48 hours after birth</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Temperature  per axilla measured with a digital thermometer</outcome>
+      <timepoint>20 minutes after birth </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Non-invasive blood pressure measured  via the right arm with a cuff of the appropriate size and a Dinamp monitor</outcome>
+      <timepoint>20 minutes after birth</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Any infant over or equal to 32 weeks gestation born at RWH is eligible for inclusion in the cord clamping study unless they meet exclusion criteria</inclusivecriteria>
+    <inclusiveminage>32</inclusiveminage>
+    <inclusiveminagetype>Weeks</inclusiveminagetype>
+    <inclusivemaxage>42</inclusivemaxage>
+    <inclusivemaxagetype>Weeks</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>*Multiple birth
+*Fetal bradycardia /fetal distress where birth is expedited with C/S or instrumental delivery
+*Nuchal cord requiring division before birth of the infant
+*Maternal general anaesthetic
+*Placenta praevia
+*Vasa praevia
+*Planned lotus birth
+*Planned water birth
+*Known congenital anomalies necessitating early transfer to a surgical centre
+*Infants &gt;= 37 weeks gestation enrolled in the Flamingo study (possible effect of cord clamping on cord gas measurements in Flamingo study)
+*Non-English speaking parents unable to provide informed consent
+*Infants whose parents have elected to have their infants cord blood banked
+*Parents with a birth plan detailing management of the third stage including timing of cord clamping and cutting
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Before birth (prior to second stage of labour or first incision at a caesarean section) study infants will be randomised  to a treatment group according to location ( operating theatres or birthing room)  and gestational age strata (32+0 to 36+6 and &gt;= 37+0 weeks’ gestation). The sequence of randomisation concealment has been generated independently and assignment concealed in consecutively numbered sealed opaque envelopes.</concealment>
+    <sequence>Block randomisation will be used with random block sizes.
+Randomisation will be blocked in 3 randomly allocated block sizes to ensure concealment of allocation.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Three intervention groups</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Data Analysis:The difference in mean heart rate between assigned groups and within assigned groups at 90s after birth will be tested with analysis of variance  (ANOVA). If the heart rate data is not normally distributed the non-parametric equivalent of one-way ANOVA, the Kruskal-Wallis test will be used.
+Sample size:In one of our previous studies 50 % of study infants had a HR &lt;100 bpm at 90 s. To reduce the proportion of HR &lt;100 bpm to 35%, with 80% power, alpha &lt;0.05, requires 227 in each of the groups. A total of 681 infants is required. To account for post randomisation exclusions (for example an obstetric emergency or the need for neonatal resuscitation), an additional 10% will be enrolled. Thus, we will recruit 749 infants.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate>1/07/2014</actualstartdate>
+    <anticipatedenddate>1/07/2016</anticipatedenddate>
+    <actualenddate>13/07/2015</actualenddate>
+    <samplesize>749</samplesize>
+    <actualsamplesize>27</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Royal Women's Hospital - Parkville</hospital>
+    <postcode>3052 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>The Royal Women's Hospital</primarysponsorname>
+    <primarysponsoraddress>Cnr Grattan Street &amp; Flemington Road
+Parkville, Victoria, 3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Centre of Excellence for Newborn Medicine - National Health and Medical Research Council.</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The active management of the third stage of labour involves clamping and cutting the umbilical cord and application of controlled cord traction after adminstration of syntometrine,  to deliver the placenta. The optimal timing of cord clamping is unknown and practice varies amongst professionals globally. Many healthy newly born infants experience bradycardia (heart rate less than 100 beats per minute) in the first few minutes. The timing of clamping the umbilical cord may influence the proportion of babies experiencing bradycardia. 
+The aims of this randomised controlled study are
+1. To determine if delaying clamping of the cord reduces bradycardia in the first minutes after birth in near term and term infants
+2. To determine if delaying clamping of the cord has an effect on the need for delivery room resuscitation
+3. To determine if there is a difference in heart rate and oxygen saturation centiles in the first 10 mins after birth in three groups of infants 
+(i) born after early (&lt; 60s after birth) cord clamping compared to (ii) infants born after delayed (90-180 s after birth) cord clamping or (iii) when the umbilical cord is clamped following the onset of regular respirations (10 s after accoucher determines onset of regular respirations) by the infant.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Royal Women's Hospital Research and Ethics Committee</ethicname>
+      <ethicaddress>The Royal Women's Hospital
+Cnr Grattan Street and Flemington Road
+Parkville, Victoria, 3052</ethicaddress>
+      <ethicapprovaldate>16/01/2014</ethicapprovaldate>
+      <hrec>13/44</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Omar Kamlin</name>
+      <address>Newborn Research
+7th Floor
+The Royal Women's Hospital
+Cnr Grattan street and Flemington Road
+Parkville, Victoria, 3052</address>
+      <phone>+61 3 8345  3763</phone>
+      <fax />
+      <email>omar.kamlin@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Omar Kamlin</name>
+      <address>Newborn Research
+7th Floor
+The Royal Women's Hospital
+Cnr Grattan street and Flemington Road
+Parkville, Victoria, 3052</address>
+      <phone>+61 3 8345 3763</phone>
+      <fax />
+      <email>omar.kamlin@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jennifer Dawson</name>
+      <address>Newborn Research
+7th Floor
+The Royal Women's Hospital
+Cnr Grattan street and Flemington Road
+Parkville, Victoria, 3052</address>
+      <phone>+61 3 8345 3763</phone>
+      <fax />
+      <email>jennifer.dawson@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jennifer Dawson</name>
+      <address>Newborn Research
+7th Floor
+The Royal Women's Hospital
+Cnr Grattan street and Flemington Road
+Parkville, Victoria, 3052</address>
+      <phone>+61 3 8345 3763</phone>
+      <fax />
+      <email>jennifer.dawson@thewomens.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

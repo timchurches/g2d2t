@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364139">
+  <stage>Registered</stage>
+  <submitdate>8/12/2013</submitdate>
+  <approvaldate>17/12/2013</approvaldate>
+  <actrnumber>ACTRN12613001382763</actrnumber>
+  <trial_identification>
+    <studytitle>An observational study comparing protocol estimated values to the measured values of mean arterial basal blood pressure</studytitle>
+    <scientifictitle>An observational study to assess the agreement between protocol estimated values and directly measured values for the basal blood pressure in a cohort of patients who recently underwent direct measurements of their resting arterial blood pressure.</scientifictitle>
+    <utrn>U1111-1151-1657</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patients who recently underwent ambulatory nighttime blood pressure monitoring</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Hypertension</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a retrospective observational cohort study among patients who attended our hospital cardiology department. We will enrol only those patients who recently underwent nighttime ambulatory blood pressure (BP) monitoring (within the last 2 years). These BP measurements will be considered as direct measurements of basal arterial BP. 
+
+For all enrolled patients, a blinded study investigator who is not aware of the direct measurements, will then estimate the basal mean arterial BP according to a preset protocol, which is displayed in public notes section. 
+
+Both values, directly measured and protocol-estimated, will be then correlated for each participant. 
+</interventions>
+    <comparator>We will enrol only those patients who recently underwent nighttime ambulatory blood pressure monitoring (within the last 2 years). These BP readings will be considered as direct measurements of basal arterial BP. Patient list will be extracted from the cardiology database, and the hospital electronic health information system will be accessed to obtain the required data. Where the patients do not have any digital medical records, we will contact patients local doctors to request previous BP measurements and anti-hypertensive treatment. </comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Agreement between the summary measures of protocol-estimated basal arterial BP and directly-measured basal arterial BP </outcome>
+      <timepoint>Direct measurement of nighttime or basal arterial BP during ambulatory BP monitoring within last two years </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Correlation between protocol estimated basal arterial BP and directly measured basal arterial BP</outcome>
+      <timepoint>Basal arterial BP would have been measured during nighttime ambulatory BP monitoring within the last two years
+
+</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with recent outpatient ambulatory BP monitoring within last 2 years AND 2 to 5 recorded BP measurements in a routine/follow up clinic BP within last three years
+
+</inclusivecriteria>
+    <inclusiveminage>40</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients with end stage renal disease and/or receiving dialysis</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>R-square statistics will be used to quantify agreement between the summary measures of directly measured and protocol-estimated BP. The strength of the relationship will be reported using linear regression (assuming normality). The Bland-Altman plot will then be used to demonstrate that there was no bias in the relationship. Finally, we will incorporate covariates such as alteration in antihypertensive prescription and lability of BP.
+
+As there is no prior data on this subject, the sample size calculation is convenience-based. We intend to enrol 100-200 patients with ambulatory BP monitoring. We believe the agreement data on this range of sample size will be a reasonable representation of the broader population. We will endeavour to collect maximum number of patients within this range if possible, as a larger sample size will provide a more precise estimate.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup>3</followup>
+    <followuptype>Years</followuptype>
+    <purposeobs>Screening</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>18/12/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>150</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <postcode>2305 - New Lambton</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>John Hunter Hospital</primarysponsorname>
+    <primarysponsoraddress>ICU, 64 Lookout Road, John Hunter Hospital,
+New Lambton, NSW 2305</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>John Hunter Hospital</fundingname>
+      <fundingaddress>ICU, 64 Lookout Road, John Hunter Hospital,
+New Lambton, NSW 2305</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Few patients admitted to the intensive care unit (ICU) have a previous record of directly measured BP during nighttime or resting (hereto referred as basal) state. Therefore, the usual hemodynamic targets in ICU are broadly based on values relevant to the general population. Individualising these targets could vastly improve management of critically ill patients. A validated protocol to estimate a patients baseline BP would enable this tailored therapy for the patients. 
+
+The main purpose of this study is to assess the agreement (or the difference) between a protocol-estimated value and a directly measured value for the resting BP in a cohort of patients who recently underwent direct measurements of their resting arterial BP.
+
+In this study, we hypothesise that the directly measured and protocol-estimated BP values will correlate well with minimal bias. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>Data will be collected on age, gender, previous clinic arterial BP, measured arterial BP and any major co-morbidities. All information collected for the study will be rendered unidentifiable before data is exported for further analysis. Participants data will be recorded directly in an Excel spread sheet and identified only by patient initials and the assigned study number.
+
+The final study report will not contain any identifiable data of the participants. Where there is no record of previous BP measurements in the digital medical records, then a written/verbal request will be made to the patients local doctor. In case no previous BP measurements of a patient can be traced, then, since we cannot estimate basal BP for such a patient, he/she will be excluded from the study.
+
+Participants: We anticipate enrolling approximately 100-200 patients for arterial BP assessment. This is a convenience-based sample size as there is no previous data in literature to determine appropriate sample size for such a study.
+
+The preset protocol to estimate basal MAP is as follows:
+
+Step 1: Find preferably up to five or at least two pre-morbid MAP (or BP) measurements, recorded at least 12 hours apart, starting with the most recent reading available within the last 3 years. The selected MAP (or BP) readings should be from a period when the patient met following criteria: was not admitted to ICU, was at least two weeks following any surgery, was not in renal failure, was not pregnant, was not receiving intravenous anti-hypertensive drugs, diuretics, or analgesics on that day, and was not transferred to another health care facility within the next two days. 
+
+1.1 Find pre-morbid MAP (or BP) measurements recorded during outpatient visits, pre-admission assessment or during a non-invasive cardiac investigation. If unavailable, then
+
+1.2 Find pre-morbid MAP (or BP) recorded on the observation charts from the last 48 hrs of a previous hospitalization. If multiple BP readings are available during the night, record the median BP during the last night of previous hospital stay. Then, record BP measurements that were done closest to the 12-hour interval from the selected median BP reading.
+
+
+Step 2: Derive pre-morbid basal MAP as follows:
+
+2.1 Convert BP readings that are recorded in SBP/DBP format to MAP as per the equation: MAP = DBP + 1/3(SBP-DBP)
+
+2.2 Subtract 15% from the daytime MAP values to estimate nighttime (basal) MAP to account for the nighttime fall in BP in accordance with published data on 24h ambulatory BP in previous studies. 
+
+2.3 Consider the mean of these estimated pre-morbid nighttime MAP values as basal-MAP.
+</publicnotes>
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton, NSW 2305</ethicaddress>
+      <ethicapprovaldate>16/12/2013</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>3/12/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Rakshit Panwar</name>
+      <address>ICU, 64 Lookout Road, John Hunter Hospital,
+New Lambton, NSW 2305</address>
+      <phone>+61412018808</phone>
+      <fax />
+      <email>rakshit.panwar@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rakshit Panwar</name>
+      <address>ICU, 64 Lookout Road, John Hunter Hospital,
+New Lambton, NSW 2305</address>
+      <phone>+61410218808</phone>
+      <fax />
+      <email>rakshit.panwar@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rakshit Panwar</name>
+      <address>ICU, 64 Lookout Road, John Hunter Hospital,
+New Lambton, NSW 2305</address>
+      <phone>+61410218808</phone>
+      <fax />
+      <email>rakshit.panwar@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

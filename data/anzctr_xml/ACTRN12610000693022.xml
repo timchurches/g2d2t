@@ -1,0 +1,190 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335867">
+  <stage>Registered</stage>
+  <submitdate>19/08/2010</submitdate>
+  <approvaldate>20/08/2010</approvaldate>
+  <actrnumber>ACTRN12610000693022</actrnumber>
+  <trial_identification>
+    <studytitle>A trial to compare the accuracy of two methods for delivering Propofol in children</studytitle>
+    <scientifictitle>A randomised control trial comparing accuracy of two commercially available pharmacokinetic algorithms for total intravenous anaesthesia (TIVA) using Propofol in children aged 1-16 years</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil.</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Children having major surgery that necessitates use of an intra-arterial catheter and who are suitable for an intravenous (Propofol)-based anaesthetic.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will be randomised to receive a propofol intravenous anaesthetic which will be delivered by either the Kataria or Paedfusor algorithm.  These algorithms will deliver the "predicted plasma levels" (Cp).  
+The intervention will occur only once: ie each participant will be only randomised once and will only have surgery once.
+The dose amount given will differ on a case by case basis and propofol delivery will be calculated on target blood level, age and weight.</interventions>
+    <comparator>During anaesthesia, approximately 9 blood samples of 0.5ml are obtained from each participant. Samples will be from an intra-arterial catheter. These samples will deliver the "measured plasma levels" (Cm)</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To determine the accuracy of pharmacokinetic algorithms in children.  This will be performed by comparing measured arterial plasma concentrations of Propofol (cm) with concurrent predicted (cp) plasma levels.</outcome>
+      <timepoint>Samples to be collected at 3 and 8 minutes post commencement of propofol infusion; 2 minutes after a reduction or increase in the target concentration; during stable anaesthesia (60 minutes between sample if long procedure);  just prior to ceasing the Target Controlled Infusion (TCI) system; 3 and 8 minutes after cessation; and upon participant?s eye opening.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bispectral index (BIS) measurements as a surrogate measure of Propofol concentration in the brain.</outcome>
+      <timepoint>BIS measurements to be taken at same time as arterial measurements: at 3 and 8 minutes post commencement of propofol infusion; 2 minutes after a reduction or increase in the target concentration; during stable anaesthesia (60 minutes between sample if long procedure);  just prior to ceasing the TCI system; 3 and 8 minutes after cessation; and upon participant?s eye opening.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Observation of perceived benefits of Propofol including a possible reduction in post-operative nausea and vomiting and airway problems.</outcome>
+      <timepoint>Until participant is discharged from recovery.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Children aged 1-16 yrs old having surgery necessitating insertion of an arterial line for intra-operative monitoring
+American Society of Anesthesiologists (ASA) status 1-3
+Surgical procedure expected to last between 1-8 hours</inclusivecriteria>
+    <inclusiveminage>1</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>16</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Evidence of severe impairment of respiratory, hepatic, renal or endocrine function
+Allergy to any constituents of Propofol
+Patients with known intra or extra-cardiac shunts (that allow mixing of arterial and venous blood, affecting measurements of Propofol)
+Patients who are intended to receive Ketamine at doses greater than 0.4 mg/kg/hr (may interfere with BIS readings)
+Treating anaesthetist excluding the patient if unfamiliar with the use of Propofol TCI for anaesthesia maintenance.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients aged 3-16 years of age will be randomised to either the Kataria or Paedfusor algorithm after parents and/or participants give informed consent to participate. Randomisation allocations will be delivered using sealed, opaque, sequentially numbered envelopes. Patients &lt;3 years old will not be randomised, but will be allocated to the Paedfusor algorithm.  
+This is not a blinded study, ie: anaesthetists will not be blinded to the algorithm that the participants are randomised to.</concealment>
+    <sequence>Patients aged 3-16 years of age will be randomised to either the Kataria or Paedfusor algorithm in a 1:1 ratio with variable block sizes.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacokinetics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/10/2010</anticipatedstartdate>
+    <actualstartdate>25/11/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>14/06/2012</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Children's Hospital</primarysponsorname>
+    <primarysponsoraddress>Flemington Road
+Parkville
+Victoria 3052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Children's Hospital</fundingname>
+      <fundingaddress>Flemington Road
+Parkville
+Victoria 3052</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this project is to assess how accurately we can predict what the level of Propofol is in the blood.  We will be assessing the accuracy of two paediatric pharmacokinetic algorithms (Paedfusor and Kataria) that are designed to deliver Propofol at a specific blood concentration.  The two different programmes deliver the Propofol at different doses according to the target blood level, age and weight. We will do this by comparing measured arterial plasma concentrations of Propofol (cm) with concurrent predicted (cp) plasma levels.</summary>
+    <trialwebsite />
+    <publication>* TIVA in paediatrics Dr Peter Squire ANZCA ASM 2011</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Children's Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Flemington Road
+Parkville
+Victoria 3052</ethicaddress>
+      <ethicapprovaldate>12/10/2010</ethicapprovaldate>
+      <hrec>30112</hrec>
+      <ethicsubmitdate>16/08/2010</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Peter Squire</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Children's Hospital
+Flemington Road
+Parkville, Victoria 3052</address>
+      <phone>+61 3 9345 5233</phone>
+      <fax>+61 3 9345 6003</fax>
+      <email>peter.squire@rch.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Suzette Sheppard</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Children's Hospital
+Flemington Road
+Parkville, Victoria 3052</address>
+      <phone>+61 3 9345 5233</phone>
+      <fax>+61 3 9345 6003</fax>
+      <email>suzette.sheppard@mcri.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Suzette Sheppard</name>
+      <address>Department of Anaesthesia and Pain Management
+Royal Children's Hospital
+Flemington Road
+Parkville, Victoria 3052</address>
+      <phone>+61 3 9345 5233</phone>
+      <fax>+61 3 9345 6003</fax>
+      <email>suzette.sheppard@mcri.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Squire</name>
+      <address>Department of Anaesthesia &amp; Pain Management
+Royal Children's Hospital
+Flemington Road
+Parkville VIC 
+3052</address>
+      <phone>+61393455233</phone>
+      <fax>+61393456003</fax>
+      <email>peter.squire@rch.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

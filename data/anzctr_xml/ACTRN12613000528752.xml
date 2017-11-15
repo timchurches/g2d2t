@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364138">
+  <stage>Registered</stage>
+  <submitdate>2/05/2013</submitdate>
+  <approvaldate>13/05/2013</approvaldate>
+  <actrnumber>ACTRN12613000528752</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of a follow up service on health related quality of life in patients post sepsis syndromes. </studytitle>
+    <scientifictitle>The effect of a multidisciplinary follow up service on health related quality of life in patients post sepsis syndromes: a randomized controlled trial</scientifictitle>
+    <utrn>U1111-1142-4194 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Post Sepsis syndromes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients in the intervention group will attend a follow-up clinic monthly for 1.5 hours for up to six months after discharge from the hospital. Screening instruments will be utilized and  appropriate management and referral provided. Examples of screening instruments are: overall medical review involving all systems assessment, medications, vital signs, assessment of mobility (modified Rivermead Mobility Index), balance assessment (Berg Balance measure) referrals to community for further rehabilitation, discussion with carer as to concerns (Zarit Burden interview), screening for chronic pain syndromes, nutritional review - referral to nutritionists and/or speech pathology if required, screening with UK-PTSS-14 (for post traumatic stress syndrome) and K-10 inventory for depression, referral to general practitioner or psychologists if needed, referral for occupational assessment re return to work or activities of daily living, liaison with general practitioners.</interventions>
+    <comparator>Patients in the control group will have usual care ie referred to specialist outpatient clinics and/or general practitioners on discharge </comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The Short Form (36) Health Survey (SF-36) which  consists of eight scaled scores, which are the weighted sums of the questions in their section. The eight sections are:
+1. vitality
+2. physical functioning
+3. bodily pain
+4. general health perceptions
+5. physical role functioning
+6. emotional role functioning
+7. social role functioning
+8. mental health
+
+</outcome>
+      <timepoint>Baseline (enrolment), six months and twelve months post baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Readmission to hospital</outcome>
+      <timepoint>Total numbers readmitted to any hospital compared between groups at 12 months post enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>Total numbers who die compared between groups at 12 months  post enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health care resource use - will be monitored through examination of patient medical records, patient self-report and through Medicare / Pharmaceutical Benefits Scheme data extraction.</outcome>
+      <timepoint>This will be compared between groups at 6 and 12 months post enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Individual patient productivity - This will be measured using a work/activity impairment questionnaire, the Work Productivity and Activity Impairment Questionnaire (WPAI)</outcome>
+      <timepoint>This will be compared between groups at 6 and 12 months post enrolment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patients included will be male or female, 
+2. &gt;18 years, 
+3. documented episode(s) of sepsis, severe sepsis or septic shock 
+4. Required intensive care admission
+5. Required mechanical ventilation for longer than 48 hours
+6. Discharged to community or low level facility</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>96</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Neurological injuries, 
+2. Spinal injuries
+3. Burns injury
+4. Non-English speaking
+5. Mini-mental state examination&lt;25/30</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The clinical staff will screen daily for patients while in intensive care. If patients appear suitable for the study, on discharge to the ward they will ask the patient as to whether the investigators may approach them to discuss the study. The patient will then be approached and provided with information about the study and asked for informed consent. If consent is obtained, the patient will be randomized to one of two groups by the use of computer randomization by an independent perspn unaware of the patients current condition. </concealment>
+    <sequence>This will be via a computer generated randomization</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size 
+Power calculations are based on SF-36 using previously published Minimally Clinically Important Differences (MCIDs) for the SF36 physical domain scores of 7.8 points (sd 15). The sample size, based on a two sample comparison of means was calculated at 78 per group for the SF-36 at 90% power with a two-sided, alpha error level of 0.05. Allowing for an almost 30% loss to follow up (mortality, drop outs) a total of 204 participants will be required
+
+
+A baseline comparison of demographics, severity of illness acute physiological and chronic health evaluation score (APACHE II), and baseline measures will be done between each group, using a combination of t-tests and Chi-square.
+Primary outcome: SF-36 domain scores and the summary score (utility) derived from the SF-36) will be compared between groups using a mixed model effect to allow for missing data. Secondary outcomes: Mortality will be compared between groups using a Cox proportional hazards (time until death) analysis proportional hazards (time until death) analysis. Time to first readmission will be compared between groups by a survival analysis. Health care costs will be compared between groups using a GLM to account for the non normal distribution. Economic (health resource) evaluation will be an incremental cost utility analysis. Direct costs included will be: cost of care provided in hospitals, by GPs, home nursing, complementary [allied] health providers, alternative health providers, opportunity cost of unpaid carers, cost of transportation to program and to other health services, and cost of pharmaceuticals. Indirect costs include loss of productivity due to disease, such as time lost from work or providing informal care to another individual. All costs will be valued using market costs where available and productivity costs will be valued using actual patient wage rates.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/06/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>204</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <postcode>4029 - Royal Brisbane Hospital</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Queensland</primarysponsorname>
+    <primarysponsoraddress>Mayne Medical School
+288 Herston Road, Herston
+Brisbane, QLD, 4006 </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal Brisbane &amp; Womens Hospital Research Foundation</fundingname>
+      <fundingaddress>Butterfield St, 
+Herston 4029, QLD</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Royal Brisbane &amp; Womens Hospital </sponsorname>
+      <sponsoraddress>100 Butterfield St,
+Herston QLD 4029</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>IMPROVING OUTCOME OF SEPSIS
+
+Greater numbers of patients are surviving intensive care but have poor quality of life due to immobility, poor cognition, post traumatic stress disorder, depression and frequent readmissions to hospital.  Patients with a severe infection sepsis are particularly affected.
+This study aims to improve the overall outcome of critically ill patients with sepsis, through a follow up outpatient service. The intervention group will be screened by several instruments and appropriate referrals made. 
+This trial will investigate whether these interventions can prevent readmission to hospital; improve health related quality of life, decrease mortality, and decrease utilization of health resources thereby decreasing the burden on the Australian health system.
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Brisbane &amp; Womens Hospital HREC</ethicname>
+      <ethicaddress>Floor 7, Block 7
+Royal Brisbane &amp; Womens Hospiral
+Butterfield St,
+Herston 4029, QLD</ethicaddress>
+      <ethicapprovaldate>24/04/2013</ethicapprovaldate>
+      <hrec>HREC/2013/QRBW/17</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The University of Queensland HREC</ethicname>
+      <ethicaddress>Cumbrae Stewart Building,
+The University of Queensland,
+St Lucia, 4072, QLD</ethicaddress>
+      <ethicapprovaldate>2/05/2013</ethicapprovaldate>
+      <hrec>#2013000543</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jennifer Paratz</name>
+      <address>Level 3, NHB,
+Dept of Intensive Care Medicine,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St,
+Herston 4029 QLD</address>
+      <phone>61 7 36461980</phone>
+      <fax>61 7 36463542</fax>
+      <email>j.paratz@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jennifer Paratz</name>
+      <address>Level 3, NHB,
+Dept of Intensive Care Medicine,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St,
+Herston 4029 QLD</address>
+      <phone>61 7 36461980</phone>
+      <fax>61 7 36463542</fax>
+      <email>j.paratz@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Robert Boots</name>
+      <address>Level 3, NHB,
+Dept of Intensive Care Medicine,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St,
+Herston 4029 QLD</address>
+      <phone>61 7 36461949</phone>
+      <fax>61 7 36463542</fax>
+      <email>Rob_Boots@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jennifer Paratz</name>
+      <address>Level 3, NHB,
+Dept of Intensive Care Medicine,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St,
+Herston 4029 QLD</address>
+      <phone>61 7 36461980</phone>
+      <fax>61 7 36463542</fax>
+      <email>j.paratz@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

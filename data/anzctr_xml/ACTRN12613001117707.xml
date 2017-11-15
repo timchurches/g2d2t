@@ -1,0 +1,182 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364273">
+  <stage>Registered</stage>
+  <submitdate>24/09/2013</submitdate>
+  <approvaldate>4/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001117707</actrnumber>
+  <trial_identification>
+    <studytitle>Predilution online hemodiafiltration with Citrasate -  is it a possible option for heparin free procedure?  </studytitle>
+    <scientifictitle>Citrate acid concentrate Citrasate for online predilution hemodiafiltration in patients on maintenance hemodialysis as an alternative of anticoagulation free procedure - comparison with acetate-based concentrate.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>anticoagulation during renal replacement therapy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>In a random order patients undergo one 4 hr procedure of online predilution hemodiafiltration with acetic acid or citrate acid (Citrasate) concentrate respectively. In two weeks and in a cross-over manner they undergo the second study procedure with citrate or acetic acid respectively. Citrate concentration in Citrasate is 0,8 mmol/l.</interventions>
+    <comparator>Acetic acid based concentrate will be used as a control treatment. Acetate concentration in dialysate is 3,0 mmol/l.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Successful finishing of HDF procedure without significant problems with blood clotting that would cause the extracorporeal circuit system exchange. </outcome>
+      <timepoint>240 min of HDF procedure</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>single pool Kt/V - HDF procedure adequacy calculated by Daugirdas formula: -ln((BUNPost / BUNPre) - (0.008 * Hours)) + ((4 - (3.5 * BUNPost / BUNPre)) * UFVol / WeightPost). 
+BUN = blood urea nitrogen, post = after dialysis, pre = before dialysis, hours = hours of dialysis, UFvol = volume ultrafiltrated, weightPost = weight after dialysis.</outcome>
+      <timepoint>240 min of HDF procedure</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>plasma thrombin-antithrombin (TAT) concentration during HDF procedure by Enzygnost TAT micro, an ELISA assay for thrombin-antithrombin complex determination</outcome>
+      <timepoint>minute 0, 60, 120 and 240</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>transmembrane pressure (TMP) during HDF procedure - online data from dialysis monitor will be recorded</outcome>
+      <timepoint>minute 0, 60, 120 and 240</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood clotting scale of dialyser after finishing HDF:
+1 = no visible clots, 2 = clots in less than 30% of fibres, 3 = clots in 30-60% of fibres, 4 = clots in 60-90% of fibres, blood from the extracorporeal circuit is possible to return to patient´s circulation, 5 = clotted dialyser, it is not possible to return blood back to patient´s circulation. The evaluation of dialyser will be performed by the independent dialysis stuff. </outcome>
+      <timepoint>240 min</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. chronic kidney disease 5/5 K/DOQI, more than 3 months on maintenance dialysis treatment,
+2. native arteriovenous fistula with blood flow at least 300 ml/min.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. laboratory markers of hepatopathy ( = ALT and AST more than double of upper borderline lab value),
+2. hemostasis disorder ( = pathological value of prothrombin time and aPTT and thrombocyte count less than 100 000/ul),
+3. antithrombotic treatment excluding acetylsalicylic acid (aspirin)
+4. malignancy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>After informed consent signature, patients will be randomized (simple randomization) to start the study with Citrasate dialysate or acetate dialysate resp. 
+Sequentially numbered sealed envelopes will be used for allocation concealment.
+</concealment>
+    <sequence>Random number table </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>13/09/2013</anticipatedstartdate>
+    <actualstartdate>13/09/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>10</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Pavlina Richtrova, M.D., Ph.D.</primarysponsorname>
+    <primarysponsoraddress>Division of Nephrology, Department of Internal Medicine I Charles University Medical School and Teaching Hospital, alej Svobody 80, 30460 Plzen Czech Republic</primarysponsoraddress>
+    <primarysponsorcountry>Czech Republic</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Project ED2.1.00/03.0076 from European Regional Development Fund.
+</fundingname>
+      <fundingaddress>Ministry of Education, Youth, and Physical Training of the Czech Republic, Karmelitska 7, 118 12 Prague, Czech Republic</fundingaddress>
+      <fundingcountry>Czech Republic</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Charles University Research Fund (project number P36)</fundingname>
+      <fundingaddress>Charles University in Prague, Rectorate, Ovocny trh 5, 116 36 Prague</fundingaddress>
+      <fundingcountry>Czech Republic</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>We want to test the hypothesis, 4 hr online predilution HDF with Citrasate is possible to be realized without manifest clotting problems even with no anticoagulation therapy. 
+As a secondary outcome we want to describe coagulation cascade activation based on TAT concentration during this HDF procedure.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Pavlina Richtrova, MD, PhD</name>
+      <address>Department of Internal Medicine I, Charles University Medical School and Teaching Hospital, alej Svobody 80, 30460 Plzen, Czech Republic</address>
+      <phone>+420377103285</phone>
+      <fax />
+      <email>richtrovap@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pavlina Richtrova, MD, PhD</name>
+      <address>Department of Internal Medicine I, Charles University Medical School and Teaching Hospital, alej Svobody 80, 30460 Plzen, Czech Republic</address>
+      <phone>+420377103285</phone>
+      <fax />
+      <email>richtrovap@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pavlina Richtrova, MD, PhD</name>
+      <address>Department of Internal Medicine I, Charles University Medical School and Teaching Hospital, alej Svobody 80, 30460 Plzen, Czech Republic</address>
+      <phone>+420377103285</phone>
+      <fax />
+      <email>richtrovap@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pavlina Richtrova, MD, PhD</name>
+      <address>Department of Internal Medicine I, Charles University Medical School and Teaching Hospital, alej Svobody 80, 30460 Plzen, Czech Republic</address>
+      <phone>+420377103285</phone>
+      <fax />
+      <email>richtrovap@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

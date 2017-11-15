@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365871">
+  <stage>Registered</stage>
+  <submitdate>26/02/2014</submitdate>
+  <approvaldate>5/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000231640</actrnumber>
+  <trial_identification>
+    <studytitle>A cluster randomised trial of an intervention in women's groups for the identification, prevention and treatment of chronic suppurative otitis media in the children of Jumla, Nepal.</studytitle>
+    <scientifictitle>In women attending existing self-help groups in Jumla Nepal, does a participatory educational intervention improve their knowledge, attitude and practice regarding chronic suppurative otitis media in their children, compared to standard care (no intervention).</scientifictitle>
+    <utrn>U1111-1153-7954</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Suppurative Otitis Media</healthcondition>
+    <conditioncode>
+      <conditioncode1>Ear</conditioncode1>
+      <conditioncode2>Other ear disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A community-based, participatory, educational intervention in the existing women's self help groups in Jumla, Nepal over three consecutive group meetings. Women attend monthly one hour sessions over 3 months.  Session 1 includes visual aids, role plays and discussion of causes, symptoms, prevention and treatment of ear infections. Session 2 is a practical session learning to mop ears and correctly insert drops.  Session 3 is a recap with visual handout to take home.</interventions>
+    <comparator>No intervention</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>% improvement in women's knowledge, attitude and practice questionnaire scores re chronic suppurative otitis media (Questionnaire prepared specifically for this study)</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>% reduction in prevalence of chronic suppurative otitis media in the children aged 0-12 years living in the household of the participant women, measured by clinical examination with digital otoscope images to be reviewed subsequently by ENT surgeon blind to allocation. </outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>% reduction in prevalence of any abnormality tympanic membrane in the children aged 0-12 years living in the household of the participant women, measured by clinical examination with digital otoscope images to be reviewed subsequently by ENT surgeon blind to allocation. </outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Women attending existing women's self help groups in Jumla, Nepal who live in a household with at least one child aged 12 years and under</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Women under the age of 18 years
+Women who do not have a child aged 12 years and under in their household
+Women who are unable to give informed consent
+Men</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The 56 women’s groups will be stratified into two strata according to the remoteness of their location and distance to the road.  Although all of these groups are in a remote location, distance to the road determines accessibility of health and other services.   Women in the groups are all poor so stratifying on socioeconomic status is unlikely to be necessary and would impede the effect of randomisation to control for confounding. Following stratification, a random sample of 30 clusters will be chosen for the study.  Allocation will be done using a computer-generated random number sequence in Australia, by a member of the team not involved in data collection.  The allocation will be communicated to the field team by internet or telephone.   Baseline data will then be collected from all of the study groups.  Following baseline data collection, the 30 study groups will be stratified by geography.   Allocation into intervention or control group will then be conducted using a computer generated random number sequence by the same Australian based team member and communicated to the field team by telephone or internet.   This means that baseline data collection cannot be biased by knowledge of allocation. After baseline data collection, equal numbers from each strata will be randomly allocated to the intervention group and to the control group.</concealment>
+    <sequence>Allocation will be performed by a team member in Australia using computer generated random number sequence generator and communicated to the field team in Nepal by internet, or telephone if unavailable. </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>                   A biostatistician will be consulted on several occasions during the study.   Sample size was determined from data extracted from a previous study to find that for an unclustered study with a 5% two sided Type I error and 80% power to detect a 25% improvement in KAP score, sample size would be 114 women in each arm.  Using previous intracluster coefficients, adjusting for stratification, sample size was determined at 223 women per arm.  Adding an extra 2 clusters for stratification, would be 13 clusters per arm.  Since data analysis is simpler and more robust with at least 15 clusters, sample size of 15 clusters per arm was chosen,which is total of approx 600 women.                    
+           Analysis will be by intention-to-treat, all study participants will be included in the analysis, even if lost to follow-up. All analysis will be adjusted for clustering.  Covariates will be analysed, including SES, maternal and paternal education, caste, number of household members and examined in the analysis.  Every effort will be made to have complete data but missing data will not be ignored in the analysis.  
+Data will be checked and cleaned before being entered into SPSS.   Data will be analysed according to the CONSORT statement: extension to Cluster Randomised Trials. At baseline a comparison profile of both intervention and control groups will be provided.  The primary and secondary outcomes  - change in KAP score and prevalence of CSOM - will be compared between the two groups.  Data will be analysed at both individual and cluster level.  Cluster level analysis is very robust and, with 15 clusters in each arm, individual level analysis, adjusted for clustering ought also to be very robust.  A summary measure, in this case the mean score of the KAP, will be calculated and then the intervention and control group compared for significance with a t-test at the cluster level.  Individual level analysis will also be performed with  regression, using mixed effects linear regression, which adjusts for the effect of clustering. Secondary outcomes will also be analysed at both individual and cluster level.  Individual analysis will use logistic regression random effects model, which adjusts for clustering. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>15/05/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>600</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Nepal</country>
+      <state>Jumla</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of New South Wales</primarysponsorname>
+    <primarysponsoraddress>School of Public Health and Community Medicine
+University of New South Wales
+High St
+Kensington 2052.</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>Tribhuvan University
+Institute of Medicine</othercollaboratorname>
+      <othercollaboratoraddress>Maharajganj PO Box 1524
+Kathmandu
+Nepal
+
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Nepal</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Chronic Suppurative Otitis Media (CSOM) is a common, preventable cause of deafness, chronic ill-health and, rarely, death in children in low resource countries. CSOM arises as a complication of untreated acute otitis media (AOM), which is almost universal in young children.  Ear infections are so common, that they can seem normal and of low health priority (Monasta et al., 2012; World Health Organisation, 2004). Acute ear infections are simple and inexpensive to treat, which prevents CSOM, yet many children receive no assessment or intervention.  CSOM is a disease of poverty and its social determinants.  Low parental education level, low parental income, malnutrition, overcrowding, lack of clean water and sanitation are all associated with increased risk of CSOM.  The children most at risk of CSOM are also the ones with least access to health education and health care. 
+The main aims of this research are to design and deliver an intervention, appropriate to the cultural context, to improve the knowledge, attitude and practice (KAP) of women regarding the ear health in children and to decrease the prevalence of Chronic Suppurative Otitis Media (CSOM) in children. 
+The research hypothesis is that the intervention will increase the KAP of the women and reduce the prevalence of CSOM in the children.
+</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication>Nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of New South Wales HREC</ethicname>
+      <ethicaddress>University of New South Wales
+High St
+Kensingon. NSW. 2052</ethicaddress>
+      <ethicapprovaldate>27/02/2014</ethicapprovaldate>
+      <hrec>HREC Ref# HC13361</hrec>
+      <ethicsubmitdate>25/11/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Institutional Review Board of the Institute of Medicine, Tribhuvan University</ethicname>
+      <ethicaddress>Tribhuvan University
+Institute of Medicine
+Maharajganj PO Box 1524
+Kathmandu
+Nepal
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/03/2014</ethicsubmitdate>
+      <ethiccountry>Nepal</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Robyn Richmond</name>
+      <address>School of Public Health and Community Medicine
+University of New South Wales
+High St
+Kensington. NSW. 2052</address>
+      <phone>(612) 9385 2512</phone>
+      <fax />
+      <email>R.Richmond@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Clarke</name>
+      <address>School of Public Health and Community Medicine
+University of New South Wales
+High St
+Kensington 2052</address>
+      <phone>+61408644872</phone>
+      <fax />
+      <email>susan.clarke@student.unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Clarke</name>
+      <address>School of Public Health and Community Medicine
+University of New South Wales
+High St
+Kensington 2052</address>
+      <phone>+61 408644872</phone>
+      <fax />
+      <email>susan.clarke@student.unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Susan Clarke</name>
+      <address>School of Public Health and Community Medicine
+University of New South Wales
+High St
+Kensington 2052</address>
+      <phone>+61408644872</phone>
+      <fax />
+      <email>susan.clarke@student.unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363738">
+  <stage>Registered</stage>
+  <submitdate>20/02/2013</submitdate>
+  <approvaldate>22/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000212752</actrnumber>
+  <trial_identification>
+    <studytitle>Value of the Analgesia Nociception Index (ANI) to intraoperatively predict changes in blood pressure and heart rate  </studytitle>
+    <scientifictitle>Intraoperative patients: value of the Analgesia Nociception Index to predict changes in heart rate and blood pressure.</scientifictitle>
+    <utrn>U1111-1139-6375 </utrn>
+    <trialacronym>ANI2</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Heart rate and systolic blood pressure in anaesthetized patients</healthcondition>
+    <healthcondition>Nociception (by means of the analgesia nociception index)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Studies of the normal brain and nervous system</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Observation (continuous monitoring) of the analgesia nociception index (ANI) during anaesthesia for elective surgery. Simulataneously monitoring of systolic blood pressure, heart rate and bispectral index.
+ANI will be monitored over the entire period of anaesthesia (hence varying times between patients) by means of 2 sticky electrodes applied to the patient's chest. The sampled electrogrardiographic data is then used to calculate cardiac poarasympathetic activity, and finally displayed as a 0-100 score (high numbers mean more comfortable patient).</interventions>
+    <comparator>nil</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Predictive value of ANI for changes of systolic blood pressure or heart rate within a 5-minute interval (5 minutes from ANI change) in patients undergoing non-emergency surgery</outcome>
+      <timepoint>intraoperatively. Multiple events possible. ANI changes &gt; 20% from baseline are named "ANI event". A period of 5 minutes after such event is observed for changes in HR or blood pressure (&gt; 10%) </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in ANI after (within 5 minutes) changes in heart rate or blood pressure ("changes" of HR and BP defined as &gt; 15% from baseline)</outcome>
+      <timepoint>intraoperatively. Observation of ANI for 5 minutes after changes in heart rate of blood pressure (&gt; + 15% from baseline)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients scheduled for non-emergency surgery planned to be anaesthetized using sevoflurane and fentanyl.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients on medication with beta-receptorblockers, clonidine, ketamine, continuous infusion of vasoactive substances, neostigmine, glycopyrrolate or atropine. Patients with incapacity to consent, &lt; 18 years or patients who not wish to participate. Patients with an allergy to sticky ecg electrodes as well as patients with a pacemaker. Patients whose surgery will include use of a tourniquet will also be excluded.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>15/12/2012</anticipatedstartdate>
+    <actualstartdate>19/12/2012</actualstartdate>
+    <anticipatedenddate>15/02/2013</anticipatedenddate>
+    <actualenddate>15/02/2013</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Thomas Ledowski</primarysponsorname>
+    <primarysponsoraddress>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington St
+Perth WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Becor Medical Solutions, Perth, WA  provided the ANI monitor and electrodes free of charge </fundingname>
+      <fundingaddress>3/6 Norton St
+South Perth , WA 6161</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>Thomas Ledowski</fundingname>
+      <fundingaddress>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington St
+Perth WA 6000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Analgesia nociception index (ANI) is a novel score aiming to enable anaesthetists to estimate pain perception in anaesthetized patients. It work via 2 sticky (single use) electrodes applied to the chest (like ECG electrodes) from which it derives ECG data. This is then transformed into an index from 0-100, the ANI which will be larger in states of comfort and smaller in states of more pain. Although non-invasive and risk free, very few data exist to show the association of ANI with standard measures of nociception/pain in unconscious subjects: changes in blood pressure, heart rate or patient movement. We aim to do an observational trial on 30 patients in which we attach ANI monitoring to anaesthetized patients, record the ANI score continuously and match these records with other patient data obtained at the same time (blood pressure, heart rate, patient movement). This should enable us to get a better idea about the predictive value of ANI changes to preempt changes in above mentioned standart observations. </summary>
+    <trialwebsite>none</trialwebsite>
+    <publication>none</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>none</publicnotes>
+    <ethicscommitee>
+      <ethicname>Royal Perth Hospital</ethicname>
+      <ethicaddress>Royal Perth Hospital
+Level 5 Colonial House
+Wellington Street
+Perth WA 6000</ethicaddress>
+      <ethicapprovaldate>13/12/2012</ethicapprovaldate>
+      <hrec>EC 12/191</hrec>
+      <ethicsubmitdate>29/11/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington Street Campus
+Perth WA 6000</address>
+      <phone>+61 8 9224 0201</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington Street Campus
+Perth WA 6000</address>
+      <phone>+61 8 9224 0201</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington Street Campus
+Perth WA 6000</address>
+      <phone>+61 8 9224 0201</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>Dept. of Anaesthesia
+Royal Perth Hospital
+Wellington Street Campus
+Perth WA 6000</address>
+      <phone>+61 8 9224 0201</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,230 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362393">
+  <stage>Registered</stage>
+  <submitdate>16/04/2012</submitdate>
+  <approvaldate>17/04/2012</approvaldate>
+  <actrnumber>ACTRN12612000432819</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of saline instillation during physiotherapy (SIP) in the intensive care unit - a randomized crossover trial</studytitle>
+    <scientifictitle>Saline instillation during physiotherapy in intubated patients and the effect on sputum volume</scientifictitle>
+    <utrn>U1111-1130-0169</utrn>
+    <trialacronym>Saline Instillation during Physiotherapy (SIP)</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critically ill intubated intensive care patients</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Burns</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Instillation of 2mls Sodium Chloride isotonic solution 0.9% into the artificial airway via the lavage port prior to physiotherapy treatment. Those allocated to group A will receive saline instillation prior to suction during physiotherapy on day one, day two no saline will be used. The reverse will happen for those patients allocated to group B. There will be a washout period of 24 hours between interventions.</interventions>
+    <comparator>No instillation of fluid prior to physiotherapy treatment</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Secretions will be collected in a sputum trap (Tyco Healthcare Kendall Argyle) attached to the closed suction system. The freeze dried weight will be measured</outcome>
+      <timepoint>Immediately at the end of intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Airway resistance (Raw) cm H2O/L/second 
+This measure will be derived from the mechanical ventilator.</outcome>
+      <timepoint>Before and immediately after the intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PaO2/FiO2 or Oxygenation ratio
+This indicates the ratio of the oxygenation of the patient relative to the amount of inspired oxygen they are receiving.  It is calculated by dividing the PaO2  (as measured by an arterial blood gas) by the fraction of inspired oxygen (from the ventilator).Two mls of arterial blood will be taken from the arterial line by a heparized syringe and analysed using a benchtop Arterial Blood Gas Analyser (ABL 700 Series gas Machines, RADIOMETER, Copenhagen, Denmark).</outcome>
+      <timepoint>An arterial blood gas will be taken immediately pre, post and 60 minutes post intervention.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Haemodynamics: blood pressure (systolic, mean, diastolic) BP, heart rate (HR), rhythm, respiratory rate (RR). 
+This will ensure that the addition of saline fluid does not adversely affect haemodynamics.</outcome>
+      <timepoint>This is measured continuously via the ECG and the arterial line. This will be recorded every ten seconds during the physiotherapy treatment with the actual time of saline instillation marked and the values printed from the monitor (Intellivue, Phillips) after the procedure.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>SpO2 - oxygen saturation
+The amount of oxygen dissolved in the haemoglobin. It is measured non-invasively by a probe on the finger.</outcome>
+      <timepoint>This is measured continuously and will be recorded every 10 seconds and a hard copy printed at the completion of the measurement period.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1] Adults &gt;18 years, mechanically ventilated
+2] Expected to be ventilated for &gt;48 hours
+3] Arterial line in situ (for blood pressure measurement and to calculate P/F ratio)
+4] Next of kin or patient able to provide informed consent</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1] Compassionate care only
+2] Condition that contraindicates respiratory physiotherapy eg high intracranial pressure, unstable haemodynamics, undrained pneumothorax, frank haemoptysis, acute pulmonary oedema
+3] Ventilation modes such as high frequency oscillation</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The personnel determining eligibility and gaining consent will be unaware of group allocation. The allocation sequence will be concealed from these personnel as they will be stored on a password protected computer.</concealment>
+    <sequence>The sequence will be generated using a randomization table created by computer software.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2 / Phase 3</phase>
+    <anticipatedstartdate>1/06/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>35</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Queensland</primarysponsorname>
+    <primarysponsoraddress>Burns, Trauma &amp; Critical Care Research Centre
+Dept Intensive Care Medicine.
+Level 3, NHB,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St
+Herston Queensland 4029</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Royal Brisbane &amp; Womens Hospital</sponsorname>
+      <sponsoraddress>Burns, Trauma &amp; Critical Care Research centre
+Dept Intensive Care Medicine.
+Level 3, NHB,
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St, 
+Herston Queensland, 4029</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Insertion of an artificial airway for respiratory failure, either endotracheal, nasotracheal or tracheostomy, inhibits normal mucociliary clearance, thus increasing the risk of secretion retention and pneumonia. Suctioning of the artifical airway is one of the most common procedures in the intensive care unit and high dependency wards: the aim is to remove respiratory tract secretions, thus maintaining airway patency, and prevent complications of secretion retention. Normal saline instillation is defined as delivery of 2 to 10 cc of normal saline solution (0.9%) into an artificial airway prior to suctioning. This technique is utilised by many health practitioners and is believed to increase sputum yield by diluting and loosening secretions, stimulating a cough and lubricating the suction catheter. However, there are conflicting views about the safety and efficacy of this procedure. To date studies have investigated saline instillation as a stand alone technique and not as part of a respiratory physiotherapy regimen.
+
+The aim of this trial is to examine the effects of normal saline instillation on sputum clearance, haemodynamic parameters, oxygenation and respiratory mechanics during physiotherapy in patients with an artificial airway. 
+
+Design
+
+Prospective, single blinded, randomised, cross-over design where patients act as their own controls. Patients will be randomised using a computer generated sequence. Those allocated to group A will have saline instillation prior to suction during physiotherapy on day one, day two no saline will be used. The reverse will happen for those patients allocated to group B. Investigator collecting outcome measures will be blinded to group allocation.
+
+Participants
+Adults &gt;18 years, expected to be mechanically ventilated for &gt;48 hours.
+
+Outcome measures
+The primary outcome measure is sputum weight. Sputum will be collected during physiotherapy.Secondary outcome measures include airway resistance, oxygenation, blood pressure and heart rate which will be calculated at various times pre and post procedure. 
+
+Significance
+This study would add to the body of knowledge regarding the efficacy and safety of saline instillation during physiotherapy in the intensive care unit.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Brisbane &amp; Women's Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Royal Brisbane &amp; Women's Hospital,
+Block 7, Floor 7,
+Butterfield St,
+Herston 4029 QLD</ethicaddress>
+      <ethicapprovaldate>13/04/2012</ethicapprovaldate>
+      <hrec>HREC/12/QRBW/60</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Jennifer Paratz</name>
+      <address>Burns, Trauma &amp; Critical Care Research Centre
+Dept Intensive Care Medicine,
+Level 3, NHB
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St, 
+Herston, Queensland, 4029</address>
+      <phone>+61 7 36361980</phone>
+      <fax>+61 7 36363542</fax>
+      <email>j.paratz@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Kellie Stockton</name>
+      <address>Burns, Trauma &amp; Critical Care Research Centre
+Dept Intensive Care Medicine,
+Level 3, NHB
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St
+Herston, Queensland, 4029</address>
+      <phone>+61 7 36367893</phone>
+      <fax>+61 7 36363542</fax>
+      <email>k.stockton@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Jennifer Paratz</name>
+      <address>Burns, Trauma &amp; Critical Care Research Centre
+Dept Intensive Care Medicine,
+Level 3, NHB
+Royal Brisbane &amp; Womens Hospital,
+Butterfield St, 
+Herston, Queensland, 4029</address>
+      <phone>+61 7 36361980</phone>
+      <fax>+61 7 36363542</fax>
+      <email>j.paratz@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,233 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368011">
+  <stage>Registered</stage>
+  <submitdate>23/02/2015</submitdate>
+  <approvaldate>17/03/2015</approvaldate>
+  <actrnumber>ACTRN12615000240549</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of leg compression garments on the mechanical performance of single-leg hopping in healthy male volunteers</studytitle>
+    <scientifictitle>The effect of leg compression garments on the mechanical characteristics and performance of single-leg hopping in healthy male volunteers.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>fatigue</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Normal musculoskeletal and cartilage development and function</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Full lower limb compression Skins (Trade Mark) garment were worn and included both legs. Single-leg hopping was performed on the dominant leg only. Each garment was fitted according to the manufacturer guidelines and not to a pre-determined pressure in mmHg to ensure a correctly fitted garment. Skins TM do not disclose the ideal pressure range that their garments apply to the wearer. However, this range is reported to be built into their garment sizing system which is based on a Body Mass Index - anthropometrical algorithm Skins TM have developed. Participants in this study were fitted with garments according to the manufacturers sizing system. Thus, the findings from the current investigation are consistent with the manufacturers recommended garment sizing guidelines.
+The garment was worn once only for the duration of the single-leg hopping effort with the garment. The task required the participant to perform on-the-spot, single-leg hopping on the self-selected dominant leg in synchrony with an audible metronome (2.2 Hz), on an instrumented forceplate to volitional exhaustion, when the participant could no longer continue to hop at the required cadence due to experiencing calf muscle fatigue or was unable to maintain their position on the forceplate. There was a 10 minute wash out period betwen the three efforts (no garment, garment and sham) of single-leg hopping.</interventions>
+    <comparator>Sham treatment condition (tape adhered on the skin overlying the muscle bellies of the quadriceps femoris and calf muscles)
+
+control condition - no garment and no sham
+</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Duration of hopping measured by the time stamp recorded by the instrumented forceplate from the start of the first hop cycle to the end of the last hop cycle.</outcome>
+      <timepoint>After completion of the task of hopping for each condition.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Vertical leg stiffness was determined by calculating the quotient of force and vertical height displacement. Vertical force was recorded from an instrumented force plate and was the change in vertical ground reaction force (vGRF) from initial contact (first recorded force &gt;10N) to peak vertical vGRF (loading phase).
+Vertical height displacement during loading phase (from initial contact to peak vGRF) was calculated using the law of falling bodies. First, vertical displacement during the second half of flight phase (zf) was calculated, 
+zf = 0.5 x g x (0.5 x tf)^2 (Equation 1)
+where g was the acceleration due to gravity (9.81 m.s-1) and tf was the duration of flight phase. This method assumes that the velocity of the COM at the peak height during flight phase was 0  m.s^-1 as there was a change in direction of the COM that occurred at half flight phase.
+The velocity at IC was then determined by the following equation,
+vi = (2 x g x zf)^0.5 (Equation 2)
+Where vi was the velocity at IC, g was the acceleration due to gravity (9.81 m.s^-2) and zf was vertical displacement of the COM during the second half of flight phase.
+Vertical displacement of the COM during loading phase (zl) from IC to peak vGRF was then calculated using the following equation
+zl=0.5(vi+vf) x tl (Equation 3)
+where  zl was the vertical displacement of the COM during loading phase, vi was the velocity at IC, vf was velocity at peak vertical ground reaction force and assumed to be 0 m.^s-1 and tl was the duration of loading phase.
+Thus, vertical leg stiffness (k) was calculated,
+k = vGRF/zl</outcome>
+      <timepoint>Start (first 10 consecutive hop cycles) and end (last 10 consecutive hop cycles) of the hopping task for each condition</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Spatiotemporal characteristics of the centre of mass (duration of flight and contact phases and vertical displacement of the centre of mass during flight and loading phases of hopping). Temporal characteristics were determined from the recorded vertical ground reaction force (vGRF) data for each hop cycle and included the duration of flight time (from toe-off to initial contact (IC)); loading phase (from IC to peak vGRF); contact phase (from IC to toe-off) and hop cycle (sum of flight and contact phases). Toe-off and IC were identified for each hop cycle as the first recorded value &gt;10N when there was a consistent decline or rise from baseline force (~0N) during the flight phase.
+Spatial characteristics were determined from the law of falling bodies which included the vertical displacement of the centre of mass (COM) during the second half of flight phase (zf); vertical displacement of the COM during loading phase (zl). The equations for calcualtion of zf and zl are provided in the description of the primary outome (equations 1 and 3).</outcome>
+      <timepoint>Start (first 10 consecutive hop cycles) and end (last 10 consecutive hop cycles) of the hopping task for each condition</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Recreationally active (3-15 hours of exercise participation per week)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>35</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Pain or injury of the lower limb or spine on the day of testing or in the 6 months prior to testing</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All volunteer participants provided written and informed consent prior to the commencement of testing and were informed that they could withdraw from the study at any time during the testing procedure.
+This was a repeated measures design such that all participants were exposed to all three conditions of hopping; with a garment, with a sham and without a sham or garment in a random order.</concealment>
+    <sequence>The participant chose one of three marked cards (face down) to determine the order of the conditions of hopping.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>A repeated measures analysis of variance was performed to determine differences between conditions and time peridos for the dependant variables. A minimum sample size of N=28 was required as determeind by G*Power (V 1.0) with significance accepted at p&lt;0.05 and power (1-beta) was 0.8 and a small effect size (0.25).
+A total of N=38 were included in the study. An assumption of repeated measures ANOVA is that the dependant variable is normally distributed (Hills, 2008). However, when N is large (&gt;30) the paired t-test is robust (analogous to a repeated measure) and the violation of the normality assumption has little effect on its accuracy (Hills, 2008).
+
+Reference
+Adelma Hills (2008). Foolproof guide to statistics using SPSS (3rd Ed). Pearson Education Australia.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>11/04/2011</anticipatedstartdate>
+    <actualstartdate>11/04/2011</actualstartdate>
+    <anticipatedenddate>19/05/2011</anticipatedenddate>
+    <actualenddate>19/05/2011</actualenddate>
+    <samplesize>38</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <postcode>2560 - Campbelltown</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Sydney</primarysponsorname>
+    <primarysponsoraddress>University of Western Sydney
+Narellan Road
+Campbelltown Campus
+Campbelltown
+NSW 2560</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Western Sydney, School of Biomedical and Health Sciences</fundingname>
+      <fundingaddress>University of Western Sydney
+Narellan Road
+Campbelltown Campus
+Campbelltown
+NSW 2560</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Skins (trade mark) (In kind supply of garments)</fundingname>
+      <fundingaddress>Skins Compression Garments Pty Ltd
+PO Box 268
+Riverwood
+NSW 2210
+Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this investigation was to determine the effect of compression garments on performance and vertical stiffness during single-leg-hopping to exhaustion. The alternate hypothesis was that compression garments would lead to a change in the duration of single-leg hopping and leg mechanical characteristics.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication>Bryers, J. J., Clothier, P. J., &amp; Gupta, A. (2011). An evaluation of the effect of graded compression garments on temporal and mechanical characteristics during a single leg hopping. Conference Proceedings of the 8th Australasian Biomechanics Conference, Canberra, Australia, Nov 28  29, 2011.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Western Sydney Human Ethics Research Committee</ethicname>
+      <ethicaddress>Univeristy of Western Sydney
+Locked Bag 1797
+Penrith
+NSW 2751</ethicaddress>
+      <ethicapprovaldate>4/04/2011</ethicapprovaldate>
+      <hrec>CHS 040411-02</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Clothier</name>
+      <address>University of Western Sydney
+School of Science and Health
+Narellan Road
+Campbelltown Campus
+Bldg 24, level 2, Room 
+Campbelltown
+NSW 2560</address>
+      <phone>+61246203792</phone>
+      <fax />
+      <email>p.clothier@uws.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Clothier</name>
+      <address>University of Western Sydney
+School of Science and Health
+Narellan Road
+Campbelltown Campus
+Bldg 24, level 2, Room 
+Campbelltown
+NSW 2560</address>
+      <phone>+61246203792</phone>
+      <fax />
+      <email>p.clothier@uws.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Clothier</name>
+      <address>University of Western Sydney
+School of Science and Health
+Narellan Road
+Campbelltown Campus
+Bldg 24, level 2, Room 
+Campbelltown
+NSW 2560</address>
+      <phone>+61246203792</phone>
+      <fax />
+      <email>p.clothier@uws.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Clothier</name>
+      <address>University of Western Sydney
+School of Science and Health
+Narellan Road
+Campbelltown Campus
+Bldg 24, level 2, Room 
+Campbelltown
+NSW 2560</address>
+      <phone>+61246203792</phone>
+      <fax />
+      <email>p.clothier@uws.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

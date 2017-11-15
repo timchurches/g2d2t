@@ -1,0 +1,280 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371153">
+  <stage>Registered</stage>
+  <submitdate>25/07/2016</submitdate>
+  <approvaldate>2/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001015437</actrnumber>
+  <trial_identification>
+    <studytitle>Management of severe asthma using a combination of exhaled and blood markers of inflammation</studytitle>
+    <scientifictitle>Markers of Inflammation in the management of severe asthma: the utility of peripheral blood eosinophils and fraction of exhaled nitrogen oxide</scientifictitle>
+    <utrn />
+    <trialacronym>MIMOSA</trialacronym>
+    <secondaryid>nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>asthma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will attend and be assessed at a total of 14 study clinic visits, which will be at 4 weekly intervals over a 52 week period. In the Inflammation management arm, at each scheduled study visit, adjustment of prednisone oral corticosteroid (OCS) dosage will be performed using the following algorithm based on their fractional of exhaled nitrogen oxide
+(FeNO) and blood eosinophil count (cellx109/L). Starting dose of OCS will be dependent on their existing treatment plan.
+
+* Blood eosinophil count (cellx10 to the 9/L) less than 0.2: Biomarker Score (BS) = -1
+* Fractional of exhaled nitrogen oxide (FeNO) less than 15 BS = 0
+* FeNO 15 to less than 30 BS = 1
+* Blood eosinophil count (cellx10 to the 9/L) 0.2 to 0.4: BS = 1
+* FeNO greater than or equal to 30 BS = 2
+* Blood eosinophil count (cellx10 to the 9/L) greater than 0.4: BS = 2
+The composite BS is calculated from the individual biomarker scores and is the AVERAGE of both scores rounded to the nearest integer to give the "composite score" [score of 0, 1 or 2]. 
+Each participant will be assessed with a BS, and as falling into one of the following 6 categories at their study visit, which will allow their management based on the algorithm.
+1.	BS = 2, regardless of Asthma Sympton Score (ACQ): increase or (if treatment naïve) commence OCS at 7.5mg/day
+2.	BS = 1 and ACQ less than or equal to 1.5: no change 
+3.	BS = 1 and ACQ greater than 1.5: no change OCS/inhaled corticosteroids (ICS), increase treatment with GINA (Global Initiative for Asthma)-based symptom algorithm (GBSA)
+4.	BS = 0 and ACQ less than or eual to 0.75: reduce OCS. If off OCS, decrease treatment with GBSA
+5.	BS = 0 and ACQ is 0.75 to 1.5: reduce OCS, maintain other treatment
+6.	BS = 0 and ACQ greater than 1.5: reduce OCS and increase treatment with GBSA
+If BS = 2 on 50mg/day of OCS, clinician review will take place.
+See attached Table 1 available on the original ANZCTR record for more details
+
+Cut points for FeNO have been decided based on identification of the upper limit of FeNO for asthmatics that can undergo corticosteroid withdrawal, and that which is associated with control of eosinophilic inflammation. Cut points for peripheral blood eosinophils (PBE) have been determined as those previously associated with airway eosinophilia in asthma and COPD.	
+
+Monitoring of adherence to the drug protocol will be conducted via interview during the study visits as well as returning the drug packet to count unused drugs.
+</interventions>
+    <comparator>The participants in the standard care arm of the study will have their asthma control assessed according to standard clinical parameters based upon GINA treatment guidelines and treatment steps. GINA recommends assessment of asthma control by symptoms, lung function, and history and risk of exacerbations. Loss of control requires adjunctive therapy either within the current treatment step, or escalation to the next step. Well-controlled asthma requires dose reduction by 1 GINA treatment step. Short term, partial loss of control may require short term step up therapy, but otherwise no definite treatment change is recommended. 
+
+The assessment of control status at each visit will be based on symptom control scores and spirometry. We will use the ACQ with cut points as follows: 
+well controlled asthma: ACQ less than 0.75 
+partially controlled asthma: ACQ is 0.75 to 1.50
+uncontrolled asthma: ACQ higher than 1.5
+Clinicians will be blinded to PBE, FeNO and sputum eosinophil counts for participants in the control group. A change in ACQ score of greater than 0.5 will be determined to be significant, or a reduction in Forced Expiratory Volume (FEV1) greater than 20% from baseline. 
+
+Treatment will be adjusted according to GINA step guidelines, which have been summarized as recommendations for additional treatment in the GBSA. Treatment adjustment suggestions will be provided to the clinician, either up or down, based on ACQ score, and management enacted based on standard clinician judgement.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to first exacerbation
+
+An asthma exacerbation will be defined as a worsening of asthma control (characterized by a progressive increase in symptoms and progressive decrease in lung function) requiring systemic glucocorticoids or an increase in the dose of regular systemic glucocorticoids for at least 3 days. 
+
+Asthma exacerbations which occur during the study will be treated according to current clinical guidelines. 
+
+Will be assessed through interview with the patient</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Number of exacerbations
+
+An asthma exacerbation will be defined as a worsening of asthma control (characterized by a progressive increase in symptoms and progressive decrease in lung function) requiring systemic glucocorticoids or an increase in the dose of regular systemic glucocorticoids for at least 3 days. 
+
+Asthma exacerbations which occur during the study will be treated according to current clinical guidelines. 
+
+Will be assessed through interview with the patient</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient asthma symptom scores measured by the Asthma Control Questionnaire (ACQ) to be completed at the study visit</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life as measured by the Juniper Asthma Quality of Life Questionnaire (AQLQ) to be completed at the study visit</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total and maintenance dose of oral corticosteroid as measured by the participant's medication history (via interview with the patient)</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Analysis of common markers of inflammation (blood and sputum cell counts), to include IL-6, IL-1b, cortisol, presnisone, CRP</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in the levels of exhaled nitric oxide (to compare changes in exhaled NO and relate this to change in PBE count) as measured using a portable fractional exhaled NO detector</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total dose of oral corticosteroids used during the period of the study as measured through interview with the patient</outcome>
+      <timepoint>Week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital admission or Emergency visit due to asthma as measured by interview with the patient</outcome>
+      <timepoint>Weeks 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>* Diagnosed severe treatment-resistant asthma (GINA step 4 or higher) with documented evidence of variable airflow limitation or Respiratory consultant diagnosis of asthma)
+* Never or ex-smoker
+* Prescribed greater than 1000 micrograms of inhaled beclomethasone (CFC) metered dose inhaler (or equivalent) and inhaled long acting beta-2 agonist (LABA) for at least 6 months 
+* Remain uncontrolled with an asthma control questionnaire (ACQ) score greater than or equal to 1.5 OR Have had a hospital admission for asthma in the last 12 months OR Have experienced at least 2 asthma exacerbations in the past 12 months requiring a course of OCS (at least 3 days).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* Current smoker or smoking cessation within the last 6 months
+* Severe exacerbation or alteration to asthma therapy within 4 weeks prior to Visit 1 
+* Eligible for commencing Omalizumab (according to current Pharmaceutical Benefits Scheme criteria), or currently within the first 6 months of commencing Omalizumab. 
+* Other medical comorbidity or research study requiring chronic systemic corticosteroid (for example rheumatologic conditions, adrenal insufficiency, etc.)
+* Eligible for commencing Mepolizumab or currently within the first 6 weeks of commencing Mepolizumab</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligibility for the trial will be determined prior to randomisation, which will be carried out by an independent associate</concealment>
+    <sequence>Simple randomisation by research staff using a random number list with stratification for blood eosinophil level and OCS maintenance dose</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The target sample size is 30 participants. Prior data has shown a 60% reduction in the average rate of exacerbation when a corticosteroid algorithm is used with induced sputum analysis. In addition, uncontrolled prior data demonstrated a reduction in exacerbations from a median of 5 (IQR 5-8) to 0 (IQR 0-1) with the use of a similar algorithm based on PBE for asthma management. Assuming alpha = 0.05, and allowing power to range from 0.8  0.99, yields a range of sample sizes for each of the two groups of 9-16 with this information. Thus, a conservative estimate of the necessary total sample size would be 30.
+
+Data will be analysed on an intention-to-treat basis using 2-sided tests with p values less than 0.05 considered significant. As described in other RCTs using exacerbations as the primary outcome, the time to the first asthma exacerbation will be described using Kaplan-Meier plots and a log-rank test, with analysis of instantaneous risk described using a Cox proportional hazards model. Total numbers of exacerbations will be compared using a Poisson regression model. 
+
+Other continuous variables such as ICS dosage, Beta 2 agonist use, and questionnaire results will be analysed by analysis of covariance.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/09/2016</anticipatedstartdate>
+    <actualstartdate>9/01/2017</actualstartdate>
+    <anticipatedenddate>8/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <postcode>2305 - New Lambton Heights</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Hunter New England Health</primarysponsorname>
+    <primarysponsoraddress>Locked BAG # 1
+HRMC
+Hunter Region MC
+NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Newcastle</sponsorname>
+      <sponsoraddress>University Drive, Callaghan
+NSW 2308</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Treatment options for severe asthma remain limited and oral corticosteroids (OCS e.g. prednisone) are often needed to control severe asthma when it worsens or flares up. One disadvantage of OCS is their side-effects and therefore any measure that would reduce or eliminate the dose of OCS required would be advantageous. This study is designed to test if asthma management is better if a simple blood test is incorporated into clinical care to provide information to the clinician that prevents unnecessary use of OCS in severe asthma management.
+One type of airway inflammation (called eosinophilia) has been found to be common in some people who have severe asthma. Clinical studies have shown that these people have a high risk of exacerbation or asthma flare ups even in the presence of high doses of inhaled corticosteroids (ICS). Determining if a person with severe asthma has a high level of eosinophils in their lungs requires the induction of sputum that comes from deep in the airways. This is a lengthy procedure, requires specialist equipment and is not easily carried out in the clinic.
+Recent research has shown that measuring the number of eosinophils in a blood sample is a substitute for an induced sputum sample and is much simpler. In this study we seek to determine if severe eosinophilic asthma can be managed more effectively using blood eosinophil counts.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HNE HREC</ethicname>
+      <ethicaddress>Locked Bag No 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>14/07/2016</ethicapprovaldate>
+      <hrec>16/05/18/3.03</hrec>
+      <ethicsubmitdate>29/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/371153-Table 1 Possible formulation outcomes for each biomarker score algorithm level.docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Wark</name>
+      <address>Level 2, HMRI
+John Hunter Hospital
+Kookaburra Circuit
+New Lambton
+NSW
+2305</address>
+      <phone>+61 2 4042 0110</phone>
+      <fax>+61 2 4042 0046</fax>
+      <email>peter.wark@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jodie Simpson</name>
+      <address>Level 2, HMRI
+John Hunter Hospital
+Kookaburra Circuit
+New Lambton
+NSW
+2305</address>
+      <phone>+61 2 4042 0148</phone>
+      <fax>+61 2 4042 0046</fax>
+      <email>jodie.simpson@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jodie Simpson</name>
+      <address>Level 2, HMRI
+John Hunter Hospital
+Kookaburra Circuit
+New Lambton
+NSW
+2305</address>
+      <phone>+61 2 4042 0148</phone>
+      <fax>+61 2 4042 0046</fax>
+      <email>jodie.simpson@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Joanne Howes</name>
+      <address>Level 2, HMRI
+John Hunter Hospital
+Kookaburra Circuit
+New Lambton
+NSW
+2305</address>
+      <phone>+61 2 4042 0532</phone>
+      <fax>+61 2 4042 0046</fax>
+      <email>Joanne.Howes@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

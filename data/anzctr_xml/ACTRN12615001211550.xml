@@ -1,0 +1,231 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369232">
+  <stage>Registered</stage>
+  <submitdate>27/10/2015</submitdate>
+  <approvaldate>6/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001211550</actrnumber>
+  <trial_identification>
+    <studytitle>Can a tailored online program reduce mental health symptoms in adults?</studytitle>
+    <scientifictitle>Randomised Controlled Trial testing the effectiveness of FitMindKit, a tailored intervention, in reducing mental health symptoms</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>depression</healthcondition>
+    <healthcondition>anxiety</healthcondition>
+    <healthcondition>substance use</healthcondition>
+    <healthcondition>suicidality</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Addiction</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The FitMindKit program consists of 18 internet-based modules adapted and abridged to encapsulate CBT-based therapeutic techniques, such as behavioural activation, cognitive reframing, problem solving, exposure, motivational interviewing, mindfulness, and relaxation. These modules consist of short videos followed by activities and are based on existing evidence-based online programs. Of these modules, 10 are based on therapeutic techniques that are broadly aimed at improving general mental health, while 2 target social anxiety and panic, 2 target generalised anxiety and depression, 2 target alcohol and substance use, and 2 target suicidal thoughts. Participants are assigned 10 modules and complete 1 module per day. Each module takes approximately 10 minutes. There are 3 conditions, Tailored, Static, and Control. Participants in the Tailored condition receive a set of 10 of the 18 above modules tailored to their specific mental health symptoms, participants in the Static condition receive the 10 general mental health modules, and participants in the Control condition receive an attention=matched control program consisting of general health information not directly related to mental health.
+
+Data measuring adherence to all three versions of the program will be automatically gathered by the online platform hosting the FitMindKit study. The adherence variables measured will include total number of visits to the site, average length of each visit, and the number of modules completed.</interventions>
+    <comparator>There are two (2) comparison/control conditions. One, the Non-Tailored condition, is a static version of the FitMindKit program without tailoring and symptom-specific modules. The second, the Control condition, is an attention-matched control program consisting of general health information not directly related to mental health.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>depression/mood symptoms as assessed by PHQ-9 and GAD-7</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>anxiety symptoms as assessed by PADIS and SOPHS</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>alcohol/substance use as assessed by AUDIT and DUDIT</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>suicidal ideation as assessed by SIDAS (primary outcome)</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>cost-effectiveness assessed as a composite outcome based on cost of interventions and measures of previous service use using the AHSQ, quality of life using the AQOL-4, work and social functioning using the WSAS, and days out of role using a modified version of the WHO-DAS (will be published separately from primary outcomes)</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>attrition (measured by completion rate of daily assessments) (will be published separately from primary outcomes)</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>adherence (measured by rate of module commencement) (will be published separately from primary outcomes)</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>satisfaction (measured with satisfaction ratings on a 10-point Likert scale) (will be published separately from primary outcomes)</outcome>
+      <timepoint>at post-test (the day after completion of all 10 modules) and 3 months follow-up</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Elevated, but not clinical scores on the symptom scales (PHQ-9, GAD-7, PADIS, SOPHS, AUDIT, DUDIT, SIDAS) at the screening survey taken before starting the intervention. The score ranges for inclusion are as follows: PHQ-9 score of 9-20; GAD-7 score of 6-15; PADIS score of 1-6; SOPHS score of 5-12; AUDIT score of 5-15; DUDIT score of 1-6; SIDAS score of 1-20.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Clinical or non-elevated scores on symptom scales, not resident in Australia, currently in distress, or suicide attempt in the past year</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be recruited to register for the study using social media advertising. Upon clicking the link, participants are immediately directed to the information sheet and a screening questionnaire. If they do not meet the eligibility criteria for the study based on their answers, they are automatically excluded and redirected to a thank-you screen and help-seeking resources.
+
+Treatment allocation is performed by the central database and is detailed further below. </concealment>
+    <sequence>Eligible participants are assigned to subgroups stratified based on gender and symptom severity. This assignment is automatically performed by a script powered by the intervention host server. The script will randomly assign participants to a condition using a random number generator, with participant allocation stratified by gender and symptom severity.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The target sample size of n=570 (190 in each of the 3 conditions) takes into account up to 30% attrition from the trial based on similar trials, and aims to detect an effect size of 0.4 in the primary outcomes at post-test with &gt;90% power.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>9/11/2015</anticipatedstartdate>
+    <actualstartdate>27/01/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>12/08/2016</actualenddate>
+    <samplesize>570</samplesize>
+    <actualsamplesize>194</actualsamplesize>
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>8/12/2016</actuallastvisitdate>
+    <dataanalysis>Data collected is being analysed</dataanalysis>
+    <withdrawnreason>Other reasons/comments</withdrawnreason>
+    <withdrawnreasonother>Time restraints - it took longer than anticipated to recruit participants</withdrawnreasonother>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>National Institute for Mental Health Research</primarysponsorname>
+    <primarysponsoraddress>National Institute for Mental Health Research, 
+63 Eggleston Road, 
+The Australian National University, 
+Acton ACT 2601
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Australian Rotary Health</fundingname>
+      <fundingaddress>43 Hunter St, Parramatta NSW 2150</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of the project is to test the feasibility and effectiveness of the FitMindKit program to reduce symptoms of mental health problems in adults. FitMindKit is an online program that uses brief therapeutic modules (based on cognitive behavioural therapy) to reduce symptoms of common mental disorders (major depression, anxiety disorders, substance use disorders) and suicidal thoughts. Unlike existing internet programs, FitMindKit is tailored to the individual's mental health profile, taking account of multiple mental health problems using rapid screening methods.
+
+570 adults, 18 years and over, with elevated symptoms of depression, anxiety, and/or substance use will be recruited from the community and randomised to receive one of three programs: (i) the FitMindKit program, (ii) a static, untailored version of the FitMindKit program, or (iii) an attention-matched control program containing general health information not directly related to mental health.
+
+We hypothesise that: (1) compared to users of the control program, users of both versions of the FitMindKit program will show a greater reduction of symptoms of depression, generalised anxiety, social anxiety, panic, alcohol and other substance use, and suicidal thoughts; (2) users of the tailored FitMindKit program will show a greater symptom reduction than users of the static FitMindKit program; (3) users of both versions of the FitMindKit program will report greater satisfaction than users of the control program; (4) users of the tailored FitMindKit program will have greater adherence to the program; and (5) the FitMindKit program will be cost-effective, through reduced need for primary care and mental health services.</summary>
+    <trialwebsite>http://nimhr.anu.edu.au/research/projects</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Australian National University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Human Ethics Officer 
+Chancelry Building, 
+10 East Road, 
+Acton ACT 2601</ethicaddress>
+      <ethicapprovaldate>7/04/2015</ethicapprovaldate>
+      <hrec>2015/114</hrec>
+      <ethicsubmitdate>25/02/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Philip Batterham</name>
+      <address>National Institute for Mental Health Research, 
+63 Eggleston Road, 
+The Australian National University, 
+Acton ACT 2601
+</address>
+      <phone>+61 2 6125 1031</phone>
+      <fax />
+      <email>philip.batterham@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sonia McCallum</name>
+      <address>National Institute for Mental Health Research, 
+63 Eggleston Road, 
+The Australian National University, 
+Acton ACT 2601
+</address>
+      <phone>+61 2 6125 8412</phone>
+      <fax />
+      <email>sonia.mccallum@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Philip Batterham</name>
+      <address>National Institute for Mental Health Research, 
+63 Eggleston Road, 
+The Australian National University, 
+Acton ACT 2601
+</address>
+      <phone>+61 2 6125 1031</phone>
+      <fax />
+      <email>philip.batterham@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sonia McCallum</name>
+      <address>National Institute for Mental Health Research, 
+63 Eggleston Road, 
+The Australian National University, 
+Acton ACT 2601
+</address>
+      <phone>+61 2 6125 8412</phone>
+      <fax />
+      <email>sonia.mccallum@anu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

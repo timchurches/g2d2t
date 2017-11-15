@@ -1,0 +1,210 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343255">
+  <stage>Registered</stage>
+  <submitdate>26/07/2011</submitdate>
+  <approvaldate>28/07/2011</approvaldate>
+  <actrnumber>ACTRN12611000792921</actrnumber>
+  <trial_identification>
+    <studytitle>Efficacy and Safety of a Transient Ischaemic Attack (TIA) Electronic Support Tool</studytitle>
+    <scientifictitle>Multi-centre randomised controlled trial comparing the effect of general practitioner utilisation of a TIA electronic decision support tool in the management of TIA/minor stroke patients versus usual care on the subsequent 90 day stroke risk, degree of guideline adherence, and overall treatment costs.</scientifictitle>
+    <utrn>U1111-1123-1863</utrn>
+    <trialacronym>FASTEST</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Transient Ischaemic Attack</healthcondition>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Utilisation of a TIA electronic decision support (EDS) tool during the management of patients suspected of having suffered a TIA or stroke.
+
+The tool is a web based module that GPs access by clicking a menu button situated on the navigation bar of their practice management software that links them to the software provider (BPAC.Inc) module site. From there they select the TIA/Stroke EDS tool from a menu. Once selected a single page of tick boxes opens up for GPs to complete covering items such as relevant aspects of history of presenting illness and a brief focused physical examination.  Fields for relevant past medical history (e.g. diabetes and smoking history) are automatically populated by extracting data directly from the practice management system.  Completing the page of background and clinical presentation data takes approximately 2-5 minutes depending on the GPs familiarity with the tool. Based on this information the software confirms or rejects TIA/stroke as the likely diagnosis.  If TIA or stroke is confirmed a triage recommendation is generated based on a validated risk score (ABCD2) supplemented by several other variables taken from the New Zealand TIA guidelines and clinical experience. If patients are triaged into the low risk category GPs are offered the option of either referring them to a specialist TIA clinic or to manage the patients themselves in the community.  If community management is selected a step by step outline is provided with links to pre-populated relevant prescriptions, radiology referral forms, and life-style information leaflets.  If patients are triaged into the high risk category GPs are advised to refer them to hospital for specialist assessment and diagnostic work-up to be achieved within 24 hours and GPs are not offered the community management option.  However, if a GP feels that ED referral is not appropriate in any given situation (e.g. the patient refuses to attend ED) then the GP has the option to override this recommendation and refer patients to an outpatient specialist TIA clinic instead, as long as a reason for overriding the recommendation is specified.  Referrals to hospital are automatically generated and contain all required information to allow the specialist to prioritise them appropriately. In the case of a hyper-acute stroke that is within the 4.5 hour thrombolysis window the tool is immediately aborted and the GP is advised to call 111 for emergent hospital transfer to a centre where stroke thrombolysis is available.
+
+A GP sees on average 1 TIA patient per month which also represents the average anticipated frequency of EDS use. Each TIA presentations requires only a single use of the EDS.</interventions>
+    <comparator>Usual care without assistance from the TIA EDS tool.
+
+Usual care involves taking a history and performing a phyisical examination.  Then a diagnosis is rendered and a management plan devised that could involved hospital referral or community management.  However, community management without access to the TIA tool precludes urgent access to publicly funded diagnostics such as a head CT as these investigations are limited to specialists in New Zealand.  The GP can consult with any resource except for the TIA EDS.  Non-EDS resources would include text books, medical web sites, or phoning a specialist for advice.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Primary Outcome 1: all subsequent strokes in patients who presented with TIA or minor stroke to GP practices enrolled into study</outcome>
+      <timepoint>Within 90 days from presentation</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Primary Outcome 2: NZ TIA Guideline adherence as assessed by data linkage to medical records</outcome>
+      <timepoint>From presentation to completion of treatment event (e.g. hospital admission)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary Outcome 1: all cause mortality, myocardial infarction (MI), and intracerebral haemorrhage (ICH)</outcome>
+      <timepoint>Within 90 days of initial presentation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary Outcome 2: adverse events related to EDS use as assessed by data linkage to medical records.
+
+Adverse events relate to erroneous diagnosis of TIA leading to unwarranted therapy and related medication side effects, erroneous diagnosis of a non-TIA or falsely low triage score with resultant preventable stroke.</outcome>
+      <timepoint>Within 90 days of initial presentation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary Outcome 3: cost comparison between intervention and placebo arm as assessed by data linkage to medical records.
+
+Cost will be assessed from a health service point of view including physician fees, diagnostic fees, and hospital/rehabilitation costs.</outcome>
+      <timepoint>Within 90 days of initial presentation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>TIA </outcome>
+      <timepoint>Within 90 days of initial presentation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>GP willingness to be a) randomised to either intervention or placebo group, b) GP willingness to register ALL patients suspected of having a TIA, c) GP practice equipped with electronic medical record system that interfaces with EDS format</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Prior use/familiarity with the TIA EDS tool.  Location outside of the designated study areas (Hawke's Bay, Whanganui, and Southern DHB)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>GPs will be invited to participate via an invitation letter.  Once consent has been signed they will be randomised at the practice level (cluster design) in order to minimise any potential learning effect created by software use. 
+A randomisation schedule will be drawn up by the statistical advisor to the project, as the identity of the study practices will remain unknown to him. The PI and other researchers will know the name and location of the practices but will refer to them by number (1-30). As practices agree to participate the study’s PI will notify statistical advisor and he will advise her as to the study group allocation of the practice (Intervention or Control group). The PI will make these requests in separate phone calls for each practice, not knowing the randomisation schedule in advance.</concealment>
+    <sequence>According to order in which practices agree to participate</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/02/2012</anticipatedstartdate>
+    <actualstartdate>24/02/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>15/05/2013</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Annemarei Ranta</primarysponsorname>
+    <primarysponsoraddress>Department of Neurology
+Private Bag 11036
+MidCentral Health
+Palmerston North 4442</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council</fundingname>
+      <fundingaddress>Level 3, 110 Stanley Street, Auckland 1010, New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>A/Prof Susan Dovey</sponsorname>
+      <sponsoraddress>Department of General Practice
+Dunedin School of Medicine
+University of Otago
+PO Box 913
+Dunedin
+9016</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this study is o assess the efficacy and safety of the transient ischaemic attack (TIA)/Stroke electronic decision support (EDS) tool.  The study will focus on the effects of EDS use in the GP setting on stroke prevention, national guideline adherence, potentially associated risks, and cost compared with routine care.</summary>
+    <trialwebsite />
+    <publication>Presentation at International Stroke Conference, SanDiego, 13 Feb 2014, oral abstract.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>New Zealand Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+133 Molesworth St
+PO Box 5013
+Wellington</ethicaddress>
+      <ethicapprovaldate>14/09/2011</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>29/07/2011</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Annemarei Ranta</name>
+      <address>Department of neurology
+Private Bag 11036
+MidCentral Health
+Palmerston North 4442</address>
+      <phone>+64 6 350 8623</phone>
+      <fax>+64 6 3508831</fax>
+      <email>anna.ranta@midcentraldhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Annemarei Ranta</name>
+      <address>Department of neurology
+Private Bag 11036
+MidCentral Health
+Palmerston North 4442</address>
+      <phone>+64 6 350 8623</phone>
+      <fax>+64 6 3508831</fax>
+      <email>anna.ranta@midcentraldhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Annemarei Ranta</name>
+      <address>Department of neurology
+Private Bag 11036
+MidCentral Health
+Palmerston North 4442</address>
+      <phone>+64 6 350 8623</phone>
+      <fax>+64 6 3508831</fax>
+      <email>anna.ranta@midcentraldhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Annemarei Ranta</name>
+      <address>Department of neurology Private Bag 11036 MidCentral Health Palmerston North 4442</address>
+      <phone>+64 6 350 8623  </phone>
+      <fax />
+      <email>anna.ranta@midcentraldhb.govt.nz  </email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

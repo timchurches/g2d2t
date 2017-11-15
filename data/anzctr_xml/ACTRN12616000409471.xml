@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370356">
+  <stage>Registered</stage>
+  <submitdate>17/03/2016</submitdate>
+  <approvaldate>30/03/2016</approvaldate>
+  <actrnumber>ACTRN12616000409471</actrnumber>
+  <trial_identification>
+    <studytitle>Snoring Sound Analysis for the Diagnosis of Patients with suspected Obstructive Sleep Apnoea</studytitle>
+    <scientifictitle>Comparison of a snoring sound analysis algorithm against polysomnography for the diagnosis of obstructive sleep apnoea in patients attending a Sleep Disorders Centre: a diagnostic test accuracy study</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Obstructive Sleep Apnoea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Our proposed study aims to systematically explore the performance of our snore/breathing sound technology algorithm against Type I Polysomnography (PSG) by conducting a statistically powered study in a sleep laboratory as well as a home setting. 
+
+We hypothesise that breathing sounds (including snoring), when analysed using appropriate mathematical methods and machine learning techniques, can provide sufficient information to detect Obstructive Sleep Apnoea (OSA) at a sensitivity and specificity &gt;92% simultaneously, with respect to Type 1 PSG.  
+
+It is planned to prospectively recruit up to 50 patients with suspected sleep disordered breathing who are already listed for diagnostic PSG study in our sleep lab. These patients will undergo a one night diagnostic PSG sleep study as per usual practice in the sleep laboratory. In addition, study subjects will have sound measurements recorded (with a portable sound recorder, installed on a smart phone), along with oesophageal pressure monitoring. 
+
+Following the first night in the laboratory the next phase of snoring sound data collection will occur at home over the next 7 nights. Subjects will be loaned a smart phone for 7 nights, with an application ("app") installed to achieve this. The smart phone "app" will be self activated by patients when going to sleep, and switched off when awakening. The app solely records snoring sounds during the night for later analysis by our software. No other data collection will take place during this phase. The timing of  the activation of the "app" can be correlated against a sleep diary to confirm appropriate use. 
+
+Data from the PSG will be analysed in the usual fashion by sleep physicians. 
+
+Analysis of the recorded snoring sounds using the externally developed algorithm will then be correlated against Apnoea-Hypopnoea Index (AHI) as measured during the PSG by the principal investigators.  This information will aid in the validation of a streamlined technique to be used in the diagnosis of sleep disordered breathing. 
+</interventions>
+    <comparator>The reference-standard for OSA diagnosis is Type 1 Polysomnography (PSG). It requires an overnight laboratory stay connected to between 15-20 channels of measurements. Physiological data regarding patient's sleep is recorded, including cardiovascular, respiratory and neurological parameters. 
+
+The test will be administered as it usually would be for these patients with suspected OSA. The test is administered by sleep scientists and technicians. The patient stays for one night. The test subjects will have simultaneous snoring sound recording from the first night (in the lab) and then for 7 nights at home following this on a provided smart phone. 
+</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The sensitivity of the snoring sound technology will then be evaluated against the gold standard Apnoea-Hypopnoea Index (AHI) as measured by laboratory based PSG.  </outcome>
+      <timepoint>8 consecutive nights of data will be collected with the experimental snoring sounds analysis. The PSG will be done on the first night, which is in the laboratory. The following 7 nights will be for further data collection at home. </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>The specificity of the snoring sound technology will then be evaluated against the gold standard Apnoea-Hypopnoea Index (AHI) as measured by laboratory based PSG.  </outcome>
+      <timepoint>8 consecutive nights of data will be collected with the experimental snoring sounds analysis. The PSG will be done on the first night, which is in the laboratory. The following 7 nights will be for further data collection at home. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nil</outcome>
+      <timepoint>nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients listed for PSG studies through the Sleep Disorders Centre </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. intellectual impairment or inability to provide valid consent. 
+2. Less than 18 years old. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Not applicable. </concealment>
+    <sequence>Not applicable. </sequence>
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>In previous pilot studies, logistic regression models for the diagnosis of OSA (at AHI thresholds of 15 and 30) and the sensitivity and specificity of diagnosis was calculated using snoring sound analysis against Type I PSG. With n=51 (male model) and n=35 (female model) we obtained sensitivity, specificity, positive and negative predictive values all &gt;92%. This forms the basis of our assumption that a population of 50 would be sufficiently powered for the proposed study's purpose.  
+
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/04/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/03/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <postcode>4102 - Woolloongabba</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Department of Respiratory and Sleep Medicine Princess Alexandra Hospital. </primarysponsorname>
+    <primarysponsoraddress>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Princess Alexandra Hospital</fundingname>
+      <fundingaddress>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>It has been well established in the literature that snoring sounds can be used to detect the presence of obstructive sleep apnoea (OSA). Currently the gold standard in the diagnosis of obstructive sleep apnoea is Type I Polysomnography (PSG), which is both time and resource intensive. Streamlining the diagnostic process for patients with OSA is of great significance given the increasing prevalence and awareness of the condition. 
+
+Retrospective pilot studies have been conducted previously through our unit to assess the utility of analysing snoring sounds as a predictor for obstructive sleep apnoea. Our proposed study aims to systematically explore the performance of our snore/breathing sound technology algorithm against Type I PSG by conducting a statistically powered study in a sleep laboratory as well as a home setting. 
+
+We hypothesise that breathing sounds (including snoring), when analysed using appropriate mathematical methods and machine learning techniques, can provide sufficient information to detect OSA at a sensitivity and specificity &gt;92% simultaneously, with respect to Type 1 PSG.  
+
+It is planned to prospectively recruit up to 50 patients with suspected sleep disordered breathing who are already listed for diagnostic PSG study in our sleep lab. These patients will undergo the sleep study as planned, and will undergo a slightly modified protocol with additional sound measurements, along with oesophageal pressure monitoring. The patient will then proceed to have another 7 nights data collected with a portable sound recorded (stored as an "app" on a provided smart phone) to further validate data against PSG. 
+
+Analysis of the recorded snoring sounds using the externally developed algorithim will then be correlated against Apnoea-Hypopnoea Index (AHI) as measured during the PSG, which is considered the current diagnostic gold standard. Ideally this information will aid in the validation of a streamlined technique to be used in the diagnosis of sleep disordered breathing. 
+</summary>
+    <trialwebsite>None</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>None</publicnotes>
+    <ethicscommitee>
+      <ethicname>Metro South Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Kent St Woolloongabba QLD 4102</ethicaddress>
+      <ethicapprovaldate>10/05/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>1/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Robert Sheehy</name>
+      <address>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</address>
+      <phone>+61731762111</phone>
+      <fax />
+      <email>Robert.Sheehy@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Robert Sheehy</name>
+      <address>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</address>
+      <phone>+61731762111</phone>
+      <fax />
+      <email>Robert.Sheehy@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Robert Sheehy</name>
+      <address>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</address>
+      <phone>+61731762111</phone>
+      <fax />
+      <email>Robert.Sheehy@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Robert Sheehy</name>
+      <address>Department of Respiratory and Sleep Medicine 
+Princess Alexandra Hospital. 
+199 Ipswich Rd
+Woolloongabba QLD 4102</address>
+      <phone>+61731762111</phone>
+      <fax />
+      <email>Robert.Sheehy@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

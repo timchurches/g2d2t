@@ -1,0 +1,676 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3118">
+  <stage>Registered</stage>
+  <submitdate>10/03/2011</submitdate>
+  <approvaldate>10/03/2011</approvaldate>
+  <nctid>NCT01321554</nctid>
+  <trial_identification>
+    <studytitle>A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Lenvatinib (E7080) in 131I-Refractory Differentiated Thyroid Cancer (DTC)</studytitle>
+    <scientifictitle>A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Lenvatinib (E7080) in 131I-Refractory Differentiated Thyroid Cancer</scientifictitle>
+    <utrn />
+    <trialacronym>SELECT</trialacronym>
+    <secondaryid>E7080-G000-303</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Thyroid Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other endocrine disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Thyroid</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Lenvatinib
+Treatment: drugs - Placebo
+Treatment: drugs - Lenvatinib
+
+Experimental: Lenvatinib (Randomization Phase) - Participants randomly assigned in a 2:1 ratio to receive blinded study drug (lenvatinib or matching placebo) until documentation of disease progression (confirmed by IIR), development of unacceptable toxicity, or withdrawal of consent.
+
+Placebo Comparator: Placebo (Randomization Phase) - Participants randomly assigned in a 2:1 ratio to receive blinded study drug (lenvatinib or matching placebo) until documentation of disease progression (confirmed by IIR), development of unacceptable toxicity, or withdrawal of consent.
+
+Experimental: Lenvatinib 24 mg (OOL Lenvatinib Treatment Period) - Participants will receive lenvatinib 24 mg, orally once daily until documentation of disease progression (confirmed by investigator's assessment), development of unacceptable toxicity, or withdrawal of consent. Placebo treated participants in the Randomization Phase who have progressive disease confirmed by IIR could request to receive lenvatinib treatment in the OOL Treatment Period.
+
+Experimental: Lenvatinib 20 mg (OOL Lenvatinib Treatment Period) - Participants will receive lenvatinib 20 mg, orally once daily until documentation of disease progression (confirmed by investigator's assessment), development of unacceptable toxicity, or withdrawal of consent. Placebo treated participants in the Randomization Phase who have progressive disease confirmed by IIR could request to receive lenvatinib treatment in the OOL Treatment Period.
+
+
+Treatment: drugs: Lenvatinib
+Lenvatinib 24 mg (two 10-mg and one 4-mg lenvatinib matched capsules) taken orally once daily, continuously. Dose interruptions or reductions were allowed for subjects who experienced treatment-related toxicity.
+
+Treatment: drugs: Placebo
+Matching placebo (two 10-mg and one 4-mg lenvatinib matched capsules) taken orally once daily, continuously.
+
+Treatment: drugs: Lenvatinib
+Lenvatinib 20 mg (two 10-mg capsules) taken orally once daily, continuously. Dose interruptions or reductions were allowed for subjects who experienced treatment-related toxicity.
+The dose of lenvatinib during the OOL Lenvatinib Treatment Period was 24 mg once daily from 03 Oct 2011 until 15 Feb 2013. The dose was lowered at the request of the Data Monitoring Committee to 20 mg on 16 Feb 2013. Thus, more subjects were treated with 24 mg starting dose and the treatment duration was longer for these participants than those whose starting dose was 20 mg.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression Free Survival (PFS) - PFS was defined as the time from the date of randomization to the date of first documentation of disease progression or death (whichever occurred first), as determined by blinded independent imaging review (IIR) using Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 for the double-blind treatment period (Randomization Phase). Disease progression per RECIST v1.1 was defined as at least a 20% relative increase and 5 mm absolute increase in the sum of diameters of target lesions (taking as reference the smallest sum on study), recorded since the treatment started or the appearance of 1 or more new lesions.</outcome>
+      <timepoint>Date of randomization to the date of disease progression or death (whichever occurred first), assessed up to data cutoff date (15 Nov 2013) or up to approximately 2.5 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Response Rate (ORR) - ORR, defined as the proportion of participants who had best overall response (BOR) of complete response (CR) or partial response (PR) as determined by blinded IIR using RECIST 1.1 for target lesions and assessed by MRI/CT scans (for double blind treatment period i.e. Randomization Phase). CR was defined as disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) had to have reduction in short axis to less than 10 mm. PR was defined as at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. ORR = CR + PR.</outcome>
+      <timepoint>Date of randomization to the date of disease progression or death (whichever occurred first), assessed up to data cutoff date (15 Nov 2013) or up to approximately 2.5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - Overall survival measured from the date of randomization until date of death from any cause. Overall survival is adjusted with rank preserving structural failure time.</outcome>
+      <timepoint>Date of randomization until date of death from any cause, assessed up to data cutoff date (15 Nov 2013) or up to approximately 2.5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetic (PK) Profile of Lenvatinib: Area Under the Plasma Concentration Curve - AUC was used to determine the total exposure of lenvatinib in blood plasma. From each participant, a total of up to 12 blood samples were collected at the following specified time points: predose, 0.5 to 4 hours postdose, and 6 to 10 hours postdose on Cycle 1/Day 1 and Cycle 1/Day 15; predose and 2 to 12 hours postdose on Cycle 2/Day 1; and predose only on Day 1 of Cycles 3 to 6. The samples were analyzed for the concentration of lenvatinib using validated analytical methods. Population PK model and observed concentration data were used to derive model-predicted lenvatinib PK parameters and lenvatinib exposure (AUC) based on the 24 mg starting dose.</outcome>
+      <timepoint>Cycle 1 Day 1 through Cycle 6 Day 1</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria:
+
+          1. Histologically or cytologically confirmed diagnosis of one of the following DTC
+             subtypes: Papillary thyroid cancer (PTC) or follicular thyroid cancer (FTC).
+
+          2. Measurable disease according to (RECIST 1.1) and confirmed by central radiographic
+             review.
+
+          3. 131 I-refractory/resistant disease.
+
+          4. Evidence of disease progression within 12 months prior to signing informed consent (+1
+             month screening window).
+
+          5. Prior treatment with 0 or 1 vascular endothelial growth-factor (VEGF) or vascular
+             endothelial growth-factor receptors (VEGFR) targeted therapy.
+
+          6. Adequate renal, liver, bone marrow, and blood coagulation function, as defined in the
+             protocol.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria:
+
+          1. Anaplastic or medullary carcinoma of the thyroid
+
+          2. 2 or more prior VEGF/ VEGFR-targeted therapies
+
+          3. Received any anticancer treatment within 21 days or any investigational agent within
+             30 days prior to the first dose of study drug.
+
+        Inclusion criteria for OOL Lenvatinib Treatment Period :
+
+        Participants were eligible for lenvatinib treatment in the OOL Lenvatinib Treatment Period
+        if the met the following criteria:
+
+          1. Placebo-treated participants in the Randomization Phase who had progressive disease
+             (PD) confirmed by IIR, and who requested treatment with lenvatinib.
+
+          2. Participants who continued to satisfy specified inclusion and exclusion criteria as
+             presented in the study protocol.
+
+          3. Participants with maximum interval between the day of confirmation of PD by IIR and
+             Cycle 1/Day 1 of the OOL Lenvatinib Treatment Period of less than or equal to 3
+             months.
+
+          4. No systemic anticancer treatment during the interval between the day of confirmation
+             of PD by the IIR and Cycle 1/Day 1 of the OOL Lenvatinib Treatment Period.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>17/03/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>392</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,TAS,VIC</recruitmentstate>
+    <hospital> - St Leonards</hospital>
+    <hospital> - Herston</hospital>
+    <hospital> - Hobart</hospital>
+    <hospital> - Melbourne</hospital>
+    <hospital> - Heidelberg</hospital>
+    <postcode> - St Leonards</postcode>
+    <postcode> - Herston</postcode>
+    <postcode> - Hobart</postcode>
+    <postcode> - Melbourne</postcode>
+    <postcode> - Heidelberg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>District of Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Rosario, Provincia de Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>San Salvador de Jujuy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Tucuman</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Edegem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Brasilia - DF</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Joinville</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Movo Hamburgo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio de Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Salvador/BA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo - SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo, Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Temuco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Vina del Mar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clermont-Ferrand</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dijon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre Les Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Minz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Munchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tubingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Wurzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Catania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Livorno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monserrato</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pisa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rozzano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Viagrande</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukui</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Daejeon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Uijeongbu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gliwice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Kielce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Krasnodar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kursk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Obninsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ufa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cataluna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Galicia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>L'Hospitalet de Llobregat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Goteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Chiangmai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Khon Kaen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Pathumwan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Aberdeen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sheffield</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Eisai Inc.</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a multicenter, randomized, double-blind, placebo-controlled Phase 3 study to compare
+      the progression free survival of participants with 131 I -refractory DTC and radiographic
+      evidence of disease progression within the prior 12 months, treated with lenvatinib 24 mg by
+      continuous once daily oral dosing versus placebo. The study is conducted in 3 phases: a
+      Prerandomization Phase (screening and baseline period), a Randomization Phase (double-blind
+      treatment period), and an Extension Phase (Optional Open Label (OOL) Lenvatinib Treatment
+      Period and a follow-up period).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01321554</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Eisa Inc</name>
+      <address>Eisai Inc.</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

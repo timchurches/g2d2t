@@ -1,0 +1,235 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363893">
+  <stage>Registered</stage>
+  <submitdate>4/04/2013</submitdate>
+  <approvaldate>19/04/2013</approvaldate>
+  <actrnumber>ACTRN12613000451707</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of berryfruit extract on airways inflammation and airways obstruction in asthma</studytitle>
+    <scientifictitle>A cross-over, double-blind, randomised controlled, proof of concept trial of berryfruit extract versus placebo on the FeNO level of 28 steroid naive subjects with diagnosed asthma and an FeNO of &gt;40ppb. </scientifictitle>
+    <utrn>U1111-1138-3264</utrn>
+    <trialacronym />
+    <secondaryid>BA01</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Asthma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Alternative and Complementary Medicine</conditioncode1>
+      <conditioncode2>Other alternative and complementary medicine</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Encapsulated Berryfruit extract (1000mg), once daily, by mouth, for 28 days. Subjects will go through a washout period of 28 days between each intervention period of the study.
+Study extract/ placebo compliance will be captured via a capsule count, performed at the end of each intervention period (at visits 2 and 4) - study product will be collected and counted by study staff and a compliance log completed for accountability purposes.</interventions>
+    <comparator>Encapsulated matched Placebo (containing cellulose), once daily, by mouth, for 28 days. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Fractional exhaled Nitric Oxide (FeNO) level
+FeNO will be measured as per the ATS guidelines (2005), via either chemoluminescence using an online nitric oxide monitor (NIOX; Aerocrine AB, Solna, Sweden), or a NIOX MINO device.</outcome>
+      <timepoint>Measured at Baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Spirometry (FEV1)
+FEV1 measured in a body plethysmograph (Masterscope, Jaeger), according to ATS guidelines.</outcome>
+      <timepoint>Measured at baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Resistance/Conductance (sRaw / sGaw)
+sRAW/ sGAW measured in a body plethysmograph (Masterscope, Jaeger), according to ATS guidelines.</outcome>
+      <timepoint>Measured at baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Small airways function (MMEF 25-75)
+MMEF 25-75 measured in a body plethysmograph (Masterscope, Jaeger), according to ATS guidelines.</outcome>
+      <timepoint>Measured at baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Peripheral blood eosinophil count</outcome>
+      <timepoint>Measured at baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Shortened Asthma Control Questionnaire (ACQ-5)</outcome>
+      <timepoint>Measured at Baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Reliever use (captured from question 6 of ACQ) </outcome>
+      <timepoint>Measured at baseline, 4 weeks, 8 weeks, 12 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Doctor diagnosis of asthma 
+Steroid naive (no inhaled or oral corticosteroid in the last 90 days) 
+Exhaled FeNO of &gt;40ppb 
+Aged 18-75 
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to provide informed consent 
+Unable or unwilling to comply with study procedures, including not consuming confounding foodstuffs during study periods 
+Known hypersensitivity to berryfruit polyphenolic compounds Known pregnancy 
+Any other safety concern at the investigators discretion</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Numbered containers.
+</concealment>
+    <sequence>Biostatistician will conduct simple randomisation using a randomisation table created by computer software (i.e. computerised sequence generation).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analysis will be by a mixed linear model to account for the cross-over design with a random effect for participant and baseline FENO as a co-variate. The FENO will be logarithm transformed for analysis purposes as our past experience is that this variable has a highly skewed distribution. Exponentiation of the difference in logarithm FENO can be interpreted as the ratio of mean FENO between two randomised groups.
+A sample size of 24 has 80% power, alpha 5%, to detect a difference in logarithm FeNO of 0.227, equivalent to a ratio of mean values of 1.25; based on paired SD for the difference in logarithm FeNO at two visits in a group of steroid naive asthmatics taking a placebo.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate>1/06/2013</anticipatedstartdate>
+    <actualstartdate>26/06/2013</actualstartdate>
+    <anticipatedenddate>1/07/2013</anticipatedenddate>
+    <actualenddate>3/09/2013</actualenddate>
+    <samplesize>28</samplesize>
+    <actualsamplesize>28</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>4/12/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>The New Zealand Institute for Plant &amp; Food Research Ltd</primarysponsorname>
+    <primarysponsoraddress>Food Industry Science Centre
+Fitzherbert Science Centre
+Batchelar Road
+Palmerston North 4474</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Malaghan Institute of Medical Research</fundingname>
+      <fundingaddress>Malaghan Institute of Medical Research
+Gate 7, Victoria University 
+Kelburn Pde, PO Box 7060
+Wellington 6242
+New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is being done to find out whether a New Zealand berryfruit extract is able to reduce markers of airway inflammation in people with asthma. The aim is to provide scientific evidence to support the berryfruit extract as a functional food, able to assist with human health.</summary>
+    <trialwebsite />
+    <publication>Power S, Williams M, Semprini A, Munro C, Caswell-Smith R, Pilcher J, Holliday M, Fingleton J, Harper J, Hurst R, Weatherall M. RCT of the effect of berryfruit polyphenolic cultivar extract in mild steroid-naive asthma: a cross-over, placebo-controlled study. BMJ open. 2017 Mar 1;7(3):e013850.
+
+DOI: http://dx.doi.org/10.1136/bmjopen-2016-013850</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6145</ethicaddress>
+      <ethicapprovaldate>9/04/2013</ethicapprovaldate>
+      <hrec>13/CEN/47</hrec>
+      <ethicsubmitdate>18/03/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Power</name>
+      <address>Medical Research Institute
+Level 7 CSB Building
+Wellington Hospital
+Riddiford Street
+Wellington 6021</address>
+      <phone>+64 4 805 0147</phone>
+      <fax />
+      <email>sharon.power@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Power</name>
+      <address>Medical Research Institute
+Level 7 CSB Building
+Wellington Hospital
+Riddiford Street
+Wellington 6021</address>
+      <phone>+64 4 805 0235</phone>
+      <fax />
+      <email>sharon.power@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Power</name>
+      <address>Medical Research Institute
+Level 7 CSB Building
+Wellington Hospital
+Riddiford Street
+Wellington 6021</address>
+      <phone>+64 4 805 0235</phone>
+      <fax />
+      <email>sharon.power@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Mark Holliday</name>
+      <address>Medical Research Institute
+Level 7 CSB Building
+Wellington Hospital
+Riddiford Street
+Wellington 6021</address>
+      <phone>+64 4 805 0240</phone>
+      <fax />
+      <email>mark.holliday@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

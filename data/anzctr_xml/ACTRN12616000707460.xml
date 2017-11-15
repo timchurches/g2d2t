@@ -1,0 +1,287 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370187">
+  <stage>Registered</stage>
+  <submitdate>25/02/2016</submitdate>
+  <approvaldate>27/05/2016</approvaldate>
+  <actrnumber>ACTRN12616000707460</actrnumber>
+  <trial_identification>
+    <studytitle>Testing different engagement strategies, language and content style in an early prototype of a mental health screening smartphone application</studytitle>
+    <scientifictitle>Testing the effects of different engagement strategies, language and content style on engagement in an early prototype of a mental health screening smartphone application in healthy Australian adults.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>mental health disorders</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will complete quizzes pertaining to: Mood and anxiety symptoms (K6 questionnaire) and Wellbeing (WHO 5 Well-being Index) and sliding scales measuring alcohol use quantity; hours slept; perceived stress; physical and social activity.
+Participants who are deemed at-risk of mental health problems on the quizzes will be randomly allocated to receiving one of the following feedback types: normative positive, normative negative, theory-driven, humour-driven. E.g.
+*Normative positive: Your sleep is better than 60% of people/men/women your age over the past week. Learn how to improve your sleep here
+*Normative negative: Your sleep is worse than 40% of people/men/women your age over the past week. Learn how to improve your sleep here
+*Theory-driven: Your sleep is within the moderate range on the scale. Not getting enough sleep can cause fatigue, poorer judgement and reduced concentration. Learn how to improve your sleep here
+*Humour-driven:  Falling asleep can be hard when you're wound up or pissed off-no matter how many sheep you count or foreign films you watch. Learn how to improve your sleep here. 
+Immediately following their feedback (provided each time the quiz is completed) they will be provided information and a link to a variety of online self-help or information sites.
+Participants then use the app to monitor mood and alcohol quantity, sleep quality, physical and social activity. They also receive feedback on their current risk of mental health problems. Users will be reminded to complete quizzes and enter symptoms  weekly and log mood daily (with an option to enter more frequent data). The app will remain available for use as long as the participant does not delete the app.
+In a subsequent randomisation participants will receive one of two different mood measurement gauges, These gauges are modified circumplex models of mood using a Valence scale; a 6 core emotions scale and  10x10 Valence Arousal Matrix. Application software will monitor clicks and use occasions by each participant.</interventions>
+    <comparator>Users randomised to different arms (different feedback text types; two different mood monitoring presentations)</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>What is the best way to advertise/frame a mental health app to men?
+Engagement - (a) click-through rates of the different advertising campaigns; (b) sustained engagement (number of moods logged). </outcome>
+      <timepoint>Clicks will be assessed weekly over 3-month intervention period.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Engagement - (a) adherence (i.e use of widget, measured by comparison of frequency of mood ratings); (b) persistence (i.e. continued use of overall app over time, measured by comparison of frequency slider/quiz completion);  (c) click-through rates.
+
+(randomisation of differing mood widgets, feedback. Comparison of risk level, symptom level, gender, ad campaign)
+
+a.	How interested are people in finding out about their risk? 
+Engagement - (a) click-through rates of the different wording; (b) sustained engagement (number of moods logged). </outcome>
+      <timepoint>Adherence, persistence, and click through rates data will be collected daily over a 3-month intervention period.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Do ratings on the mood widget correlate with other standardised tools of symptoms, wellbeing, and risk level?
+Cross-sectional and prospective correlations of widget and quiz scores. Baseline algorithms for predicting symptoms etc. from mood signal.
+</outcome>
+      <timepoint>Mood monitoring will be assessed daily, and the K6 weekly, over a 3-month intervention period.
+
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Do users allow/respond to notifications?
+This is assessed by application software recording of response.
+(a) rate of notification acceptance; (b) rate of notification clicks.</outcome>
+      <timepoint>Notification data will be collected daily over 3-month intervention period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>What language do people use to describe their mood?
+Factor mapping of different mood labels.
+</outcome>
+      <timepoint>Mood monitoring data will be collected daily over a 3-month intervention period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>How interested are people in finding out about their risk? 
+Rate of (a) risk quiz selection; (b) risk quiz completion. 
+
+
+</outcome>
+      <timepoint>Risk quiz selection will be data will be collected upon initial use and at 3-month point.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>What do users want to measure?
+(a) rate of different slider use; (b) manual addition of new sliders.
+</outcome>
+      <timepoint>Slider use data will be collected daily over a 3-month intervention period.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Although the smartphone application we are developing will ultimately be aimed at men, for this study we will recruit both men and women, in order to allow us to look at any gender differences. Our eligibility criteria will be that participants must be aged 18 years or older, be resident in Australia, own a smartphone and have a reasonable understanding of the English language.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>no smartphone ownership
+under 18 years of age
+inability to understand english</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>central randomisation by computer software</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The data from this study will be analysed using either STATA or SPSS statistical software.  The sample size has been calculated based on the key analysis of which of four different feedback arms is most effective and following this which of the five different mood measures are most effective. In order to have 80% power to able to detect these differences 5% more often than chance alone would predict, with an alpha type 1 error rate of 5%, a total of 2,152 at-risk individuals (those scoring above population norms) will need to be recruited (1:1 males:females). Given the social media networks used for recruitment have a total following of more than 500,000 people, this sample size should be easily achieved. However, based on preliminary work with an early version of the program approximately one third of the sample is likely to fall into the low risk category for all risk items and as such approximately 3,000 screened participants will be required.
+Simple counts and Chi squared tests will be used to assess the relative success and popularity of different advertising strategies and the different question topics offered.  Rates of questionnaire completion will also be compared, both between topics and dependent on whether immediate feedback was provided. Finally, the trajectory of responses will be compared between those who received immediate feedback and those whose feedback came after completing all questionnaires using linear regression.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>30/05/2016</anticipatedstartdate>
+    <actualstartdate>30/05/2016</actualstartdate>
+    <anticipatedenddate>30/07/2016</anticipatedenddate>
+    <actualenddate>28/02/2017</actualenddate>
+    <samplesize>3000</samplesize>
+    <actualsamplesize>811</actualsamplesize>
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>31/05/2017</actuallastvisitdate>
+    <dataanalysis>Data collected is being analysed</dataanalysis>
+    <withdrawnreason>Participant recruitment difficulties</withdrawnreason>
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of New South Wales</primarysponsorname>
+    <primarysponsoraddress>UNSW
+Kensington
+2052 NSW</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Beyondblue</fundingname>
+      <fundingaddress>PO Box 6100
+Hawthorne
+Vic 3122</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Movember</fundingname>
+      <fundingaddress>PO Box 60
+East Melbourne
+VIC 8002 
+Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other</sponsortype>
+      <sponsorname>Black Dog Institute</sponsorname>
+      <sponsoraddress>Hospital Rd
+Randwick
+2031 NSW</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Sydney</sponsorname>
+      <sponsoraddress>Sydney
+NSW 2006
+Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Our research team has recently been awarded an Australian Mental Health Award by Beyondblue and the Movember Foundation, that will fund a program of research aimed at developing and evaluating a range of new e-health interventions for working men, termed Men@Work. One of the first parts of this program is the development of a new smart-phone application that will allow men to screen themselves for both symptoms and risk factors for common mental health problems. The working title for this new smartphone application is Mindgauge.  
+This registration covers one part of the development process; the testing of the relative appeal of different feedback texts, language, measurement tools, and content style with an early prototype of the Mindguage application. The testing of different features and content styles within an early prototype or minimum viable product (MVP) is considered a usual early stage in the development of complex new smartphone applications.
+The specific questions that this research project (and registration application) will aim to answer are:
+a)	What feedback texts are most persuasive for convincing participants to follow links to recommended interventions?
+b)	What mood widget measurement is most appropriate? And does it map onto other standardised tools?
+c)	Are app notifications acceptable to users?
+d)	How interested are people in finding out about their risk? Does it impact engagement?
+Data collection
+Participants will complete quizzes pertaining to: Mood and anxiety symptoms (K6 questionnaire) and Wellbeing (WHO 5 Well-being Index) and sliding scales measuring alcohol use quantity; hours slept; perceived stress; physical and social activity.
+Participants who are deemed at-risk of mental health problems on the quizzes will be randomly allocated to receiving one of the following feedback types: normative positive, normative negative, theory-driven, humour-driven. The outcome measure is number of clicks to external interventions. They will be reassured that techniques are available to help improve these factors and immediately following their feedback will be provided information and a link to a variety of online self help or information sites.
+Participants then use the app to monitor mood and alcohol quantity, sleep quality, stress, and physical and social activity. They have the option of finding out their current risk of mental health problems.
+In a subsequent randomisation participants will receive one of five different mood measurement gauges, outcomes will include engagement (quantity and frequency of check-ins with app) and Signal quality (correlation of signal to weekly k6 scores and accuracy of a baseline linear classifier trained to predict k6 score from mood signal.</summary>
+    <trialwebsite>www.mindgauge.org.au/</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>UNSW HREC</ethicname>
+      <ethicaddress>UNSW
+Sydney
+NSW 2031</ethicaddress>
+      <ethicapprovaldate>12/04/2016</ethicapprovaldate>
+      <hrec>HC15584</hrec>
+      <ethicsubmitdate>8/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Samuel Harvey</name>
+      <address>School of Psychiatry
+University of New South Wales
+Black Dog Institute Building
+Hospital Rd
+Randwick
+NSW 2031
+</address>
+      <phone>+61 2 9382 8356</phone>
+      <fax />
+      <email>s.harvey@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Samuel Harvey</name>
+      <address>School of Psychiatry
+University of New South Wales
+Black Dog Institute Building
+Hospital Rd
+Randwick
+NSW 2031</address>
+      <phone>+61 2 9382 8356</phone>
+      <fax />
+      <email>s.harvey@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Samuel Harvey</name>
+      <address>School of Psychiatry
+University of New South Wales
+Black Dog Institute Building
+Hospital Rd
+Randwick
+NSW 2031</address>
+      <phone>+61 2 9382 8356</phone>
+      <fax />
+      <email>s.harvey@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Mark Deady</name>
+      <address>School of Psychiatry
+University of New South Wales
+Black Dog Institute Building
+Hospital Rd
+Randwick
+NSW 2031</address>
+      <phone>+61 2 9382 4517</phone>
+      <fax />
+      <email>m.deady@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

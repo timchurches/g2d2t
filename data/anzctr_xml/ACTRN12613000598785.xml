@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364206">
+  <stage>Registered</stage>
+  <submitdate>8/05/2013</submitdate>
+  <approvaldate>27/05/2013</approvaldate>
+  <actrnumber>ACTRN12613000598785</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised controlled study investigating neurally adjusted ventilatory assist (NAVA) application during non-invasive ventilation (NIV) in Paediatrics.</studytitle>
+    <scientifictitle>The effect of neurally adjusted ventilatory assist (NAVA) application compared to standard non invasive ventilation (NIV) on length of ventilation, length of PICU stay, oxygenation and sedation requirements in paediatrics requiring NIV.</scientifictitle>
+    <utrn>NIL</utrn>
+    <trialacronym>NIV+NAVA</trialacronym>
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory or ventilatory insufficiency</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Non-invasive ventilation via a mask using the neural triggering available in the mode of NAVA. Neurally Adjusted Ventilatory Assist (NAVA) is a recent highly innovative triggering design. NAVA uses an oesophageal probe which detects diaphragmatic electric activity. Diaphragmatic electric activity is the first physiological response in initiating a breath. By relying on diaphragmatic innervation the ventilator provides a timely response to patient effort that is not affected by air leaks around the face mask.  The child will remain on NIV+NAVA for as long as clinically indicated.</interventions>
+    <comparator>Non-invasive ventilation via a mask using standard flow/pressure triggers. NIV delivered through a standard positive pressure ventilator. These ventilators rely on the patient triggering a supported breath as measured by a drop in flow within the circuit or a decrease in pressure within the circuit. The child will remain on NIV for as long as clinically indicated.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Length of ventilation</outcome>
+      <timepoint>This outcome will be measured when the method of delivering oxygen changes from NIV or NIV+NAVA to either high or low flow oxygen.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Oxygenation as measured by either blood gas analysis or pulse oximeter.</outcome>
+      <timepoint>S/F ratios are measured hourly on all enrolled patients. Many children on NIV do not have arterial access in situ to obtain blood gases for analysis. For those that do have arterial access, P/F ratios will be calculated for each sample taken throughout study period.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Escalation to intubation and invasive ventilation</outcome>
+      <timepoint>At discharge from PICU</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient comfort as evidenced by the amount of sedation given to the patient over the duration of the NIV respiratory support. </outcome>
+      <timepoint>At discharge from PICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient safety as evidenced by the incidence of pneumothoraces, aspiration, arrest event and facial integrity.</outcome>
+      <timepoint>At PICU discharge.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Requiring respiratory support using NIV</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>18</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Facial and/or head injuries that prohibit application of the mask and strapping
+2. Inability to maintain airway
+3. Lack of intrinsic respiratory drive</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All children admitted to PICU that are assessed as clinically requiring NIV will be enrolled in the study. Randomisation will only occur after the clinical decision to trial NIV is made. </concealment>
+    <sequence>Randomisation is computer generated.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>In 2010-11 we treated in total 177 patients with NIV, of which 77 received only NIV, 34 initially NIV and then failed and went on to be intubated and ventilated, and 66 were supported with NIV after extubation. The population identified for this study was 111 (77 NIV only-69%, and 34 NIV followed by intubation-31%). A reduction in intubation rate by 20% would results in an intubation rate of 8%, which equates to a confidence interval 95%. Enrollment should be feasible over a 3 year period with an anticipated 366 patients treated in our unit, hence being able to recruit for the study purpose 366 patients. Data will be expressed as frequencies and percentages for categorical variables and as median or mean and standard deviation for continuous variables. A Chi-squared test will be used with odds ratio and 95% confidence interval, For non-parametric data the Mann-Whitney U test will be used. The following subgroup comparisons are pre-planned as per the patient strata: different age groups (0-6mo, 7-24mo, &gt;24mo), cardiac versus respiratory group. All data will be managed using the SPSS (Version15) software. An ANOVA will also be conducted to compare the two groups and establish where statistically significant differences lie amongst the variables. In order to adjust for potential confounders, logistic multivariable regression will be performed with need for intubation as outcome, group allocation as a categorical variable, and potential confounders as covariables (age, sex, diagnostic group, PIM score etc). A p-value of &lt;0.05 will be considered statistically significant.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 0</phase>
+    <anticipatedstartdate>1/08/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>366</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Mater Children's Hospital</hospital>
+    <hospital>Royal Children's Hospital - Herston</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+    <postcode>4006 - Herston</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Mater Children's Hospital</primarysponsorname>
+    <primarysponsoraddress>Mater Health Services
+PICU
+Mater Children's Hospital
+Raymond Terr
+South Brisbane, QLD, 4101</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Golden Casket </fundingname>
+      <fundingaddress>Mater Foundation
+Stanley St
+South Brisbane, QLD, 4101</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Non-invasive ventilation (NIV) as a mode of respiratory support is growing in poopularity and a number of studies have demonstrated it's benefit in both adults and children. Difficulties associated with NIV are largely attributed to leakage around the mask which adversely affects triggering and results in a time lag between patient effort and the ventilator's response. Neurally adjusted ventilatory assist (NAVA) uses an oesophageal probe which detects diaphragmatic innervation for every breath. This results in a much more timely co-ordination of ventilatory support.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Health Services</ethicname>
+      <ethicaddress>Aubigny Place
+Mater Health Services
+Raymond Terr
+South Brisbane, QLD, 4101</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>C1952C</hrec>
+      <ethicsubmitdate>1/04/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>Consultant Intensivist
+Paediatric Intensive Care Unit
+Mater Children's Hospital
+Raymond Terr
+South Brisbane, QLD, 4101</address>
+      <phone>+61731632752</phone>
+      <fax />
+      <email>andreas.schibler@mater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqui Jauncey-Cooke</name>
+      <address>Clinical Nurse Researcher
+Paediatric Intensive Care Unit
+Mater Children's Hospital
+Raymond Terr
+South Brisbane, QLD, 4101</address>
+      <phone>+61731631143</phone>
+      <fax />
+      <email>jacqui.jauncey-cooke@mater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andreas Schibler</name>
+      <address>PICU - Level 5
+Mater Children's Hospital 
+Raymond Terr
+South Brisbane, QLD, 4101</address>
+      <phone>+61731632752</phone>
+      <fax />
+      <email>andreas.schibler@mater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jacqui Jauncey-Cooke</name>
+      <address>PICU-MCH
+Raymond Terr
+South Brisbane, QLD, 4101</address>
+      <phone>+61731631143</phone>
+      <fax />
+      <email>jacqui.jauncey-cooke@mater.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

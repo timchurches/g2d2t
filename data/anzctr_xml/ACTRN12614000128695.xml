@@ -1,0 +1,235 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365671">
+  <stage>Registered</stage>
+  <submitdate>22/01/2014</submitdate>
+  <approvaldate>3/02/2014</approvaldate>
+  <actrnumber>ACTRN12614000128695</actrnumber>
+  <trial_identification>
+    <studytitle>Meconium evacuation trial in preterm infants</studytitle>
+    <scientifictitle>The Effect of Early Aggressive Meconium Evacuation on Duration to Reach Full Oral Feeds in Very Low Birth Weight Infants: A Randomized Control Trial Comparing Regular Daily Saline Rectal Washout with Conventional Management using Glycerin Suppositories</scientifictitle>
+    <utrn>U1111-1152-4086 </utrn>
+    <trialacronym>MeVac Trial</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Effect of aggressive meconium evacuation on establishment of oral feeds in very low birth weight infants (750-1500g) </healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment group: Rectal washout with normal saline (10-20ml/kg for baby less than 1 kg, 20-40ml/kg for baby more than 1kg, twice a day) if infants failed to pass meconium at 48 hours of age, and rectal washout is continued until 1 day of yellow stools or equal to or more than 110ml/kg/day of feeds; whichever is earlier.</interventions>
+    <comparator>Infants are administered gylcerine suppository (1/4) if baby failed to pass meconium in 48 hours. If meconium is passed, feeds are tolerated, suppositories will be discontinued. If problems persist, i.e. feed intolerance/ abdominal distention, babies are referred to paediatric surgeon who will initiate rectal washout.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary (efficacy) outcome is the median number of days from birth to reach full oral feeds of equal to or more than 110ml/kg/day.</outcome>
+      <timepoint>Time when the infants reach full oral feeds  (equal to or more than 110ml/kg/day)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Median number of neonatal intensive care unit (NICU) days</outcome>
+      <timepoint>36 weeks of corrected age or time of discharge, whichever is earlier.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Median number of total parenteral nutrition (TPN) days</outcome>
+      <timepoint>36 weeks of corrected age or time of discharge, whichever is earlier</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of infants who have a positive culture sepsis</outcome>
+      <timepoint>36 weeks of corrected age or time of discharge, whichever is earlier</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who develop necrotising enterocolitis (NEC)</outcome>
+      <timepoint>36 weeks of corrected age or time of discharge, whichever is earlier</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who develop jaundice requiring phototherapy and among those who undergo phototherapy, median number of phototherapy days </outcome>
+      <timepoint>36 weeks of corrected age or time of discharge, whichever is earlier</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Treatment failure defined as the need for referral to surgeon and need for rectal washout GS arm; need for contrast enema; or need for laparotomy. </outcome>
+      <timepoint>at 36 weeks corrected age or discharge whichever is earlier.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Babies born in KK Hospital, Singapore with birth weight 750g-1.5kg meeting the following criteria:
+1. No bowel output (BO) for 48 hours or
+2. BO present but only meconium stain or
+3. Bo present but small amount of meconium</inclusivecriteria>
+    <inclusiveminage>48</inclusiveminage>
+    <inclusiveminagetype>Hours</inclusiveminagetype>
+    <inclusivemaxage>4</inclusivemaxage>
+    <inclusivemaxagetype>Days</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Infants considered non viable by attending neonatologist.
+2. Congenital malformation.
+3. Infants with neuromuscular disorder.
+4. Moderate or severe asphyxia.
+5. Inability to start enteral feeding, which continued for more than 3 consecutive days before 2 weeks of postnatal age.
+6. Aggravated medical disability.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Following consent from parents and treatment team, infants are allocated to the study arms by central randomisation by computer</concealment>
+    <sequence>Computerised sequence generation.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>Interventional arm receive only rectal washout. However, the conventional management can receive rectal washout if glycerine suppository fails. Both arms can receive contrast enema and laparotomy according to surgeon discretion if rectal washout in study arm or glycerin suppository+ rectal washout in conventional arm fails.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The effect of early aggressive meconium evacuation with rectal washout versus conventional management with glycerin suppository will be evaluated using survival analysis. The Cox Propertional Hazards (PH) model will be used to assess the treatment effect, expressed as a hazard ratio (with 95% confidence interval) adjusted for the effect of birth weight (&lt;1kg versus 1-1.5kg) and other prognostic factors, as necessary. Covariate-dependent confidence intervals for the difference between median during times under a stratified Cox PH model will be derived using the method of Chen and Chang (2007). The Kaplan-Meier technique will be used to derive cumulative incidence rates at the end of the study and construct plots.
+
+Sample size: To detect a difference of in the median duration to full oral feeds of equal to or more than 110mlkg/day in a two sided test at alpha=0.05 and 1-0.80, assuming that the median duration under control is M1 days, and under treatment is M2 days, a sample of size n is required. Final study size will depend on pilot study estimates.
+
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>26/11/2013</anticipatedstartdate>
+    <actualstartdate>26/11/2013</actualstartdate>
+    <anticipatedenddate>30/06/2015</anticipatedenddate>
+    <actualenddate>7/10/2015</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>61</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Thowfique Ibrahim</primarysponsorname>
+    <primarysponsoraddress>Dept of Neonatology
+KK Women's and Children's Hospital
+100 Bukit Timah Road
+Singapore 229899</primarysponsoraddress>
+    <primarysponsorcountry>Singapore</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Duke NUS Khoo Foundation</fundingname>
+      <fundingaddress>Duke NUS Graduate Medical School Singapore
+8 College Road Singapore 169857.</fundingaddress>
+      <fundingcountry>Singapore</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Meconium is the first stool all infants passes after birth. It is sticky and is black green colour. Infant's small and large guts are filled with meconium at birth.
+
+Meconium retention has become a recognized cause of bowel dysfunction in VLBW infants, causing delay in grading up of enteral feeds. Our goal is to shorten the duration to reach full oral feeds by aggressive meconium evacuation, thereby reducing the duration of NICU stay, incidence of necrotizing enterocolitis and sepsis, number of days an infant remains in total parental nutrition (TPN) and number of phototherapy days.
+
+Our primary hypothesis is that early evacuation of meconium with regular daily normal saline rectal  washout (RW) in VLBW infants (750-1500g) with failed bowel opening for 48 hours reduces the duration to reach full feeds (equal to or more than 110ml/kg/day) as compared to conventional management with glycerin suppositories.
+
+60 infants born over 18 months period from November 2013 in KK Hospital (KKH), Singapore will be enrolled. Infants are randomized at 48 hrs of age. Treatment group will receive RW at 48 hours of age and continued until 2 days of yellow stools or until infant reaches full feeds, whichever is earlier. Control group will follow conventional management protocol. Infants are followed up to 36 weeks of gestation or discharge whichever is earlier. Maternal and infant characteristics will be collected.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Centralised Institutional Review Board (CIRB)</ethicname>
+      <ethicaddress>Office of Research
+Singapore Health Services Pte Ltd
+7 Hospital Drive,
+#03-01, Block A
+Singhealth Research Facilities
+Singapore 169611
+</ethicaddress>
+      <ethicapprovaldate>12/08/2013</ethicapprovaldate>
+      <hrec>2013/441/E</hrec>
+      <ethicsubmitdate>29/05/2013</ethicsubmitdate>
+      <ethiccountry>Singapore</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Thowfique Ibrahim</name>
+      <address>A/Asst Professor,
+National University of Singapore,
+Duke NUS Graduate Medical School.
+
+Consultant,
+Dept. of Neonatology,
+KK Women's and Children's Hospital,
+100 Bukit Timah Road, Singapore 229899.</address>
+      <phone>+6563941836</phone>
+      <fax />
+      <email>Thowfique.Ibrahim@kkh.com.sg</email>
+      <country>Singapore</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Thowfique Ibrahim</name>
+      <address>A/Asst Professor,
+National University of Singapore,
+Duke NUS Graduate Medical School.
+
+Consultant,
+Dept. of Neonatology,
+KK Women's and Children's Hospital,
+100 Bukit Timah Road, Singapore 229899.</address>
+      <phone>+6563941836</phone>
+      <fax />
+      <email>Thowfique.Ibrahim@kkh.com.sg</email>
+      <country>Singapore</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Thowfique Ibrahim</name>
+      <address>A/Asst Professor,
+National University of Singapore,
+Duke NUS Graduate Medical School.
+
+Consultant,
+Dept. of Neonatology,
+KK Women's and Children's Hospital,
+100 Bukit Timah Road, Singapore 229899.</address>
+      <phone>+6563941836</phone>
+      <fax />
+      <email>Thowfique.Ibrahim@kkh.com.sg</email>
+      <country>Singapore</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

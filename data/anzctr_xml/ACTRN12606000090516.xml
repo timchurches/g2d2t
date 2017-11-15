@@ -1,0 +1,350 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="1126">
+  <stage>Registered</stage>
+  <submitdate>25/02/2006</submitdate>
+  <approvaldate>6/03/2006</approvaldate>
+  <actrnumber>ACTRN12606000090516</actrnumber>
+  <trial_identification>
+    <studytitle>PROphylaxis of ThromboEmbolism in Critical Care Trial (PROTECT)</studytitle>
+    <scientifictitle>A randomized phase III study to compare the effects of low-molecular weight heparin and unfractionated heparin in the prevention of proximal deep vein thrombosis in a critically ill population</scientifictitle>
+    <utrn />
+    <trialacronym>PROTECT</trialacronym>
+    <secondaryid>NCT00182143</secondaryid>
+    <secondaryid>ISRCTN94385648</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Thromboembolism</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients will undergo concealed random allocation to LMWH (dalteparin 5,000 IU once daily, the experimental intervention) subcutaneously.                                                                     The control intervention represents standard thromboprophylaxis in Canada and Australia for these ICU patients, as we have documented in surveys [Cook 2001, Cooper 2005], cross-sectional studies [Cook 2001, Lacherade] and a longitudinal study [Cook 2003].                                                                                                                                                             We will prepare LMWH syringes that contain 5,000 IU of dalteparin. UFH syringes will contain 5,000 IU of UFH. Syringes of LMWH and UFH will appear identical.                                Patients allocated to LMWH will also receive one placebo injection daily to maintain blinding.                                                                                                                                         For patients allocated to LMWH, the first dose, or the morning dose in each study kit will always be placebo and nurses will administer the numbered doses sequentially.  This is to optimize the likelihood that the patients enrolled later in the day into the LMWH arm will receive active drug on study day 1. Nurses will administer study drug at approximately 1100h (+1 hour) (placebo or UFH) and 2300h (+1 hour) (dalteparin or UFH).  Study drug will be administered for the duration of the ICU stay.
+Bilateral proximal leg compression ultrasounds will be performed within 48hours of enrolment, twice weekly, and on suspicion of DVT.</interventions>
+    <comparator>Patients will undergo concealed random allocation to UFH (5,000 IU bid, the control intervention) subcutaneously.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proximal DVT (symptomatic or asymptomatic DVT) diagnosed by bilateral lower extremity compression ultrasound.</outcome>
+      <timepoint>Outcome measured: 48 hours of enrolment, twice weekly during ICU stay and upon suspicion of VTE.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>1) pulmonary embolism (PE)</outcome>
+      <timepoint>Measured during the ICU and hospital duration.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>2) bleeding</outcome>
+      <timepoint>Measured during the ICU and hospital duration.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>3) Heparin Induced Thrombocytopenia (HIT)</outcome>
+      <timepoint>Measured during the ICU and hospital duration.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>4) other clinically suspected, objectively confirmed venous thrombosis.</outcome>
+      <timepoint>Measured during the ICU and hospital duration.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>As always in ICU studies, we will record ICU length of stay, ICU mortality, hospital length of stay and hospital mortality.</outcome>
+      <timepoint>Measured during the ICU and hospital duration.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Actual body weight &gt;45 kgAdmission to ICU expected to be &gt;72 hours durationEligible for either UFH or LWMH thromboprophylaxis.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Contraindication to prophylactic heparinNeurosurgery within last 3 monthsIschemic or hemorrhagic stroke within last 3 monthsIntracranial hemorrhage, within last 3 monthsSystolic blood pressure (SBP) &gt; 180 mmHg, diastolic blood pressure &gt; 110 mmHg for &gt; 12 hours requiring vasoactive drug infusionMajor hemorrhage within the last week unless definitively treated (e.g., AAA repair)Coagulopathy (INR &gt; 2 x ULN, or PTT &gt; 2 x ULN)Thrombocytopenia (platelet count &lt; 75 x 109/L)Other heparin contraindications (e.g., HIT, pregnancy)Contraindications to blood products (e.g., Jehovahs Witness)Unable to perform lower limb ultrasound (e.g., severe distal extremity burns)Limitation of life support (life expectancy &lt; 7 days, or palliative care Contamination (e.g., &gt; 3 days of any UFH or LMWH prophylaxis during this ICU admission).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A centralized computerized web based or phone-in randomization system will ensure concealed randomization, through either method used, as per the preference of each center.</concealment>
+    <sequence>The McMaster Methods Center will prepare a computer generated randomization schedule.Patients will be randomized 1:1 (LMWH:UFH) using randomly variable block sizes.  We will stratify patients by center and medical versus surgical admission status for 2 main reasons. First, surgical ICU patients may have a higher risk of VTE than medical patients. Second, our Canadian cross-sectional study showed differences in UFH prophylaxis prescribing between medical and surgical patients; 1-2 doses were often deferred or omitted immediately post-operatively when patients were still mechanically ventilated, and sometimes when patients had an epidural catheter [Cook 2001].</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3 / Phase 4</phase>
+    <anticipatedstartdate>1/04/2006</anticipatedstartdate>
+    <actualstartdate>16/05/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>30/06/2010</actualenddate>
+    <samplesize>3650</samplesize>
+    <actualsamplesize>3764</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>McMaster University</primarysponsorname>
+    <primarysponsoraddress>1200 Main Stree West, Hamilton ON</primarysponsoraddress>
+    <primarysponsorcountry>Canada</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Canadian Institute of Health Research</fundingname>
+      <fundingaddress>160 Elgin Street AL 4809A, Ottawa Ontario, Canada</fundingaddress>
+      <fundingcountry>Canada</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patients will undergo concealed random allocation to either LMWH (dalteparin 5,000 IU once daily, the experimental intervention) or UFH (5,000 IU bid, the control intervention) subcutaneously. The control intervention represents standard thromboprophylaxis in Canada and Australia for these ICU patients, as we have documented in surveys [Cook 2001, Cooper 2005], cross-sectional studies [Cook 2001, Lacherade] and a longitudinal study [Cook 2003].  We will prepare LMWH syringes that contain 5,000 IU of dalteparin. UFH syringes will contain 5,000 IU of UFH. Syringes of LMWH and UFH will appear identical.  Patients allocated to LMWH will also receive one placebo injection daily to maintain blinding.  For patients allocated to LMWH, the first dose, or the morning dose in each study kit will always be placebo and nurses will administer the numbered doses sequentially.  This is to optimize the likelihood that the patients enrolled later in the day into the LMWH arm will receive active drug on study day 1. Nurses will administer study drug at approximately 1100h (+1 hour) (placebo or UFH) and 2300h (+1 hour) (dalteparin or UFH).  Study drug will be administered for the duration of the ICU stay.
+Bilateral proximal leg compression ultrasounds will be performed within 48hours of enrolment, twice weekly, and on suspicion of DVT.</summary>
+    <trialwebsite />
+    <publication>PROTECT Manuscript Publications
+
+1.   Cook D, Meade M, Guyatt G, Walter SD, Heels-Ansdell D, Geerts W, Warkentin T, Cooper DJ, Zytaruk N, Vallance S, Berwanger O, Rocha M, Qushmaq I, Crowther MA for the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Clinical Trials Group. PROTECT (Prophylaxis for ThromboEmbolism in Critical Care Trial) Protocol and Analysis Plan.  J Crit Care 2011;26(2);223.e1-223.e9 
+
+2.   The PROTECT (Prophylaxis for ThromboEmbolism in Critical Care Trial) Investigators for the Canadian Critical Care Trials Group &amp; the Australian and New Zealand Intensive Care Society Clinical Trials Group.  Writing Committee: Cook DJ, Meade M, Guyatt G, Walter SD, Heels-Ansdell D, Warkentin T, Zytaruk N, Crowther MA, Geerts W, Cooper DJ, Vallance S, Qushmaq I, Rocha M, Berwanger O, Vlahakis N).  A randomized trial of dalteparin versus unfractionated heparin in critically ill Patients.  N Engl J Med 2011;364(14):1305-1314. 
+
+3.   Lutz K, Wilton K, Zytaruk N, Julien L, Hall R, Harvey J, Skrobik Y, Vlahakis N, Meade L,  Matte A, Meade M, Burns K, Albert M, Barlow Cash B, Vallance S, Klinger J,  Heels-Ansdell D, Cook D for the PROTECT Investigators in collaboration with the CCCTG and ANZICS-CTG.  Research ethics board approval for an international thromboprophylaxis trial.  J Crit Care 2012;27:225231.  
+
+4.   Arnold DM, Lauzier M, Rabbat C, Zytaruk N, Barlow-Cash B, Clarke F, Heels-Ansdell D, Guyatt G, Walter S, Davies A, Cook D, for the PROTECT Investigators, on behalf of the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Clinical Trials Group.  Adjudication of bleeding outcomes in an international thromboprophylaxis trial in critical illness. Thrombosis Research 2013;131: 204209.
+
+5.   Smith O, McDonald E, Zytaruk N, Foster D, Matte A, Clarke F, Meade L, Godfrey N, Vallance S, Galt P, Rajbhandari D, Rocha MG, Mehta S, Ferguson ND, Hall R, Fowler R, Burns KEA, Qushmaq I, Ostermann M, Heels-Ansdell D, Cook D, for the PROTECT Research Coordinators, PROTECT Investigators, Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Clinical Trials Group. Rates and determinants of informed consent: A case study of an international thromboprophylaxis trial. J Crit Care 2013;28:28-39.
+
+6.  Cook DJ, McDonald E, Smith O, Zytaruk N, Heels-Ansdell D, Watpool I, McArdle T, Matte A, Clarke F, Vallance S, Finfer S, Galt P, Crozier T, Fowler R, Arabi Y, Woolfe C, Orford N, Hall R, Adhikari N, Ferland MC, Marshall JD, Meade M for the PROTECT Investigators, CCCTG and ANZICS-CTG. Coenrolment of critically ill patients into multiple studies: Patterns, predictors and consequences. Crit Care 2013;17:R1-R8
+
+7.  Warkentin TE, Sheppard JI, Heels-Ansdell D, Marshall JC, McIntyre L, Rocha MG, Mehta S, Davies AR, Bersten AD, Crozier TM, Ernest D, Vlahakis NE, Hall RI, Wood GG, Poirier G, Crowther MA, Cook DJ for the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Trials Group.  Heparin-induced thrombocytopenia in medical surgical critical illness. Chest 2013  [doi: 10.1378/chest.13-0057. [Epub ahead of print] [PMID: 23722881]
+
+8.  Smith O, McDonald E, Zytaruk N, Foster D, Matte A, Clarke F, Fleury S, Krause K, McArdle T, Skrobik Y, Cook D for the North American PROTECT Research Coordinators and the Canadian Critical Care Trials Group. Enhancing the informed consent process for critical care Research: Strategies from a Thromboprophylaxis Trial.  Intensive and Critical Care Nursing 2013 doi.org/10.1016/j.iccn.2013.04.006 [Epub ahead of print].
+
+9.  Williamson D, Albert M, Heels-Ansdell A, Arnold D, Lauzier F, Zarychanski W, Crowther M, Warkentin T, Dodek P, Cade J, Lesur O, Lim W, Fowler R, Lamontagne F, Langevin S, Freitag A, Muscedere J, Friedrich J, Geerts W, Burry L, Alhashemi J, Cook D for the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Trials Group. Thrombocytopenia in critically ill: Incidence, risk factors and impact on transfusions, bleeding, mortality.  Chest 2013 (in press).
+
+10.  Lauzier F, Arnold D, Rabbat C, Heels-Ansdell D, Zarychanski R, Dodek P, Ashley BJ, Albert M, Khwaja K, Ostermann M, Skrobik Y, Fowler R, McIntyre L, Nates J, Karachi T, Lopes R, Zytaruk N, Finfer S, Crowther M, Cook D For the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Clinical Trials Group. Risk factors and consequences of major bleeding in medical-surgical critically ill patients: A cohort study.  Intensive Care Med 2013 DOI 10.1007/s00134-013-3044-3.
+
+11.   Katsios C, Donadini M, Meade M, Mehta S, Hall R,Granton J, Kutsiogiannis J, Dodek PE, Heels-Ansdell D, McIntyre L, Vlahakis N, Muscedere J, Friedrich J, Fowler R, Skrobik Y, Albert M, Cox M, Klinger J, Nates J, Bersten A, Doig C, Zytaruk N, Crowther M, Cook D,. For the PROTECT Investigators, Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Clinical Trials Group.  Prediction scores do not correlate with clinically adjudicated categories of pulmonary embolism in critically ill patients.  Can Respiratory Journal 2013 (in press).
+
+12.  Cook D, Arabi Y, Ferguson ND, Heels-Ansdell D, Freitag A, McDonald E, Clarke F, Keenan S, Pagliarello G, Plaxton W, Herridge M, Karachi T, Vallance S, Cade J, Crozier T, Alves da Silva S, Costa Filho R, Brandao N, Watpool I, McArdle T, Hollinger G, Mandourah Y, Al-Hazmi M, Zytaruk N, Adhikari NKJ for the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Trials Group.  Physicians declining patient enrolment in a critical care randomized trial.  Intensive Care Med 2013 (in press).
+
+13.   Lamontagne F, McIntyre L, Dodek PE, Heels-Ansdell D, Pemberton J, Meade M, Walsh M, Skrobik Y, LeBlanc M, Seppalt I, Reece G, Ostermann M, Muscedere J, Alhashemi J, Vlahakis N, Lewis B, Schiff D, Moody A, Padayachee S, Zytaruk N, and Cook D for the PROTECT Investigators, the Canadian Critical Care Trials Group and the Australian and New Zealand Intensive Care Society Trials Group.  Non-leg venous thrombosis in critically ill adults: A nested prospective cohort study. (submitted)
+
+PROTECT Abstract Publications
+
+1.    McDonald E, Tkaczyk AJ, Zytaruk N, Julien L, Steinberg L, Sivanantham V, Hammond S, Myers M, Sirois C, Smith O, Wen V, Smith L, Logie S, Morrissey J, Knox L, Masur J, Weatherburn C, Vallance S, Clarke FJ, Wei X, Cooper DJ, Cook DJ on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  PROTECT-TIMES (Time-in-Motion Evaluation Study). Am Rev Crit Care Med 2007;175:A594a.
+
+2.   Yeo C, Zytaruk N, Burns K, Wen V, McDonald E, Harvey J, Hammond S, Julien L, Sirois C, Matte A, McGrath-Chong M, Weatherburn C, Autio R, Auld F, Tkaczyk A, Duffett M, Bojilov B, Hand L, Blais M, Laberge N, Mehta S, Muscedere J, Meade M, Skrobik Y, Cooper J, Cook DJ on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG. Enrolment of medical-surgical ICU patients in a thromboprophylaxis trial.  Proc Am Thor Soc 2008; 177:A41a
+
+3.   Zytaruk N, Yeo C, McDonald E, Hand L, Sonnema L, Harvey J, Smith O, Hammond S, Julien L, Sirois C, Ganz P, Matte A, Auld F, Tkaczyk A, Vallance S, Wynne C, Bojilov B, Neas I, Foxall J, Lewis MJ, Watpool I, McArdle T, Heels-Ansdell D, Heyland D, Cook DJ on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Informed consent to randomize patients in a thromboprophylaxis trial. Proc Am Thor Soc 2008; 177:A40c
+
+4.   Lamontagne F, L McIntyre, P Dodek, J Southon, N Zytaruk, D Heels-Ansdell, M Meade, D Cook on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG. Calibration &amp; adjudication of thrombotic events in a thromboprophylaxis trial.  Canadian Critical Care Forum Abstract Book 2008.
+
+5.   Southon J, Zytaruk N, Lim WP, Zarychanski R, Rocha M, D Heels-Ansdell, G Guyatt, Cook D, S Walter, on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Venous thrombosis adjudication for a thromboprophylaxis trial.  Hamilton Research Day Abstract Book 2009
+
+6.   Rocha MG, Cavalcanti M, Teixeira C, Ghiot AM, Rodrigues A, Pagliosa L, Frosi F, Zeni J, Morandi P, Brandao da Silva N, Oliveira JB, Buelher AM, Berwanger O, Zytaruk N, Cook D on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Consent for an international thromboprophylaxis trial: The Brazil experience. Am J Resp Crit Care Med 2009; 179:A1583 
+
+7.    Zytaruk N, Meade M, Mehta S, Hall R, Southon J, Heels-Ansdell D, Cook DJ on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Adjudication calibration for pulmonary embolism in a thromboprophylaxis trial. Am J Resp Crit Care Med 2009; 179:A1582
+
+8. Galt P, Vallance S, Rajbhandari D, Weisbrodt L, Vuat J, Caf T,O Bree B, Shepherd K, Boschert C, Ankers S, Bird S, on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Prospective informed consent substudy: PROTECT in Australia.  ANZICS/ACCCN Intensive Care 2009 Annual Scientific Meeting, 29-31 October 2009, Perth, Australia.  Anaesthesia and Intensive Care 2009. Abstract book.
+
+9.   Crozier T, Ernest E, Botha J, Seppelt I, Durham D, Evans D, Woolfe C, Edington J, Orford N, Reece G, Ramadoss R, Arora S on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Coenrolment in ICU studies: The PROTECT Experience. ANZICS/ACCCN Intensive Care 2009 Annual Scientific Meeting, 29-31 October 2009, Perth, Australia.  Anaesthesia and Intensive Care 2009.  Abstract book.
+
+10.  Arnold D, Rabbat C, Lauzier F, Zytaruk N, Heels-Ansdell D, Cook DJ, on behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG.  Adjudicating bleeding outcomes in a large thromboprophylaxis trial in critical illness. Blood (ASH Annual Meeting Abstracts) 2009; 114: 2471
+
+11.  Crowther MA, Zytaruk N, Krolicki K,Duchesne S, Heels-Ansdell D, Sheppard J, Warkentin T, Walter S, Guyatt G, Cook DJ for the PROTECT Investigators, the CCCTG and the ANZICSCTG. Inter-rater reliability of the 4Ts scoring system in critically ill patients being evaluated for heparin induced thrombocytopenia. Blood (ASH Annual Meeting Abstracts) 2009;114:3995.
+
+12.    Heels-Ansdell D, Walter S, Guyatt G, Warkentin T, Crowther Mark, Geerts W, Berwanger O, Rocha M, Freitag A, Cooper J, Qushmaq I, Zytaruk N, Cook DJ for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Central statistical monitoring in an international thromboprophylaxis trial.  Am J Respir Crit Care Med 181;2010:A6041
+
+13.    Lutz K, Wilton K,  Hall R, Skrobik Y, Vlahakis N, Meade L, Matte A, Meade M, Albert M, Burns K, Barlow Cash B,  Cooper DJ, Klinger JR, Heels-Ansdell D, Cook DJ for the PROTECT Investigators, CCCTG and ANZICS.  Research Ethics Board approval for an international thromboprophylaxis trial.  Am J Respir Crit Care Med 2010;181:A6048
+
+14.   Vallance S, Potter J, OConnor A, OBree B, Rajbhandari D, McDonald E, Tkaczyk A, Finfer S, Barrett J, Woolfe C, Karachi T, Zytaruk N, Cooper JD, Davies A, Cook DJ for the PROTECT Investigators, CCCTG and ANZICS-CTG. Informed consent for an international thromboprophylaxis trial.   Am J Respir Crit Care Med 2010:181:A6046
+    
+15.   Zytaruk N, Heels-Ansdell D, Vallance S, Marshall S, Skrobik Y, Cooper DJ, Finfer S, Seppelt I, Ostermann M, Qushmaq I, Alsultan M, Arabi Y, Alhashemi J, Al-Hazmi M, Alzem A, Shaikh N, Mandourah Y, Cook DJ For the PROTECT Investigators, CCCTG and ANZICS-CTG. Antiembolic stockings and pneumatic compression devices in a medical-surgical thromboprophylaxis trial.  Crit Care 2011, Abstract P21. 
+
+16.   Heels-Ansdell D, Zytaruk N, Meade M, Mehta S, Hall R, Zarychanski R, Rocha M, Lim L, Lamontagne F, McIntyre L, Dodek P, Vallance S, Davies A, Cooper DJ, Cook DJ, For the PROTECT Investigators, CCCTG and ANZICS-CTG. Pulmonary embolism in medical-surgical ICU patients. Crit Care 2011, Abstract P19.  
+
+17.   Zytaruk N, Lamontagne F, McIntyre L, Dodek D, Vlahakis N, Lewis B, Schiff D, Moody A, Ostermann M, Padayachee S, Heels-Ansdell D, Vallance S, Davies A, Cooper DJ, Cook DJ. On behalf of the PROTECT Investigators, CCCTG and ANZICS-CTG. Upper extremity thromboses in medical-surgical critically ill patients. Crit Care 2011 Abstract P22.
+
+18.   Saunders L, Heels-Ansdell D, Zytaruk N, Southon J, Barlow-Cash B, Lutz K, Clarke F, Duchesne S, Krolicki K, Meade MO, Walter S, Crowther M, Cook D for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Methods center personnel costs for adjudication of 5 morbidity outcomes in a thromboprophylaxis trial.  Am Rev Resp Crit Care Med 2011;183:A1678.
+
+19.   Zytaruk N, Heels-Ansdell D, McDonald J, Wills J, Schiff D, Moody A, Vlahakis N, Lewis B, Ostermann M, Padayachee S, Cooper DJ, Cook DJ, for the PROTECT Investigators, the CCCTG and ANZICS-CTG.   Proximal leg venous segments affected by thromboses in critically ill patients undergoing twice weekly compression ultrasound. Am J Resp Crit Care Med 2011;183:A2382.
+ 
+20.  Katsios C, Donadini M, Crowther M, Cook D.  Diagnostic and outcome prediction models for pulmonary embolism in critically ill patients: A pilot study.  Am J Resp Crit Care Med 2011; 183:A4743 
+
+21.  Crowther M, Heels-Ansdell D, Williamson D, Granton J, Burry L, Lamontagne F, Finfer S, McDonald E, Vallance S, Klinger J, Freidrich J, Paunovic B, Walter S, Zytaruk N, Cook DJ, Warkentin TE for the PROTECT Investigators, CCCTG and ANZICS-CTG.  4Ts HIT Scoring in the medical-surgical ICU.  Blood (ASH Annual Meeting Abstracts) 2011 118: Abstract 4669 
+
+22.   Crowther M, Langevin S, Cooper JD, Dodek P, Muscedere J, Albert M, Khwaja K, Kutsiogiannis J, Mehta G, Klinger J, Freidrich J, McIntyre L, Ostermann M, Guyatt G, Zytaruk N, Heels-Ansdell D, Sheppard J, Cook DJ, Warkentin TE for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Laboratory HIT testing in critically ill patients.  Blood (ASH Annual Meeting Abstracts) 2011; 118: Abstract 198
+
+23.   Zarchanski R, Lim W, Rocha M, McIntyre L, Lamontagne F, Dodek P, Pai M, Cooper DJ,  Alhashemi J,  Zytaruk N for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Do statins influence DVT risk in critically ill patients?  Crit Care Med 2012 2011;39(12):suppl:A112
+
+24.  Smith O, Zytaruk N, McDonald E, Foster D, Clarke F, Matte A, Meade L, Godfrey N, Vallance S, Weisbrodt L for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Rates and determinants of informed consent in an international thromboprophylaxis trial.  Crit Care Med 2011;39(12):suppl.A133
+
+25.   Zarychanski R, Lauzier F, Turgeon A, Marshall J, Nates J, Cox M, Arabi Y, Qushmaq I, Zytaruk N,  Cook DJ for the PROTECT Investigators, CCCTG and ANZICS-CTG.  VTE risk factors in medical-surgical ICU patients.  Crit Care Med 2011;39(12):suppl:A672
+
+26.   Zytaruk N, Meade M, Mehta S, Hall R, Granton J, Ferguson ND, Freitag A, Muscedere J, Fowler R, Skrobik Y, Jacka M, Marshall J, Lauzier F, Lamontagne F, Turgeon A, Vlahakis N,  Klinger JR, Devereaux P, Ostermann M, Berwanger O, Khwaja K, Burry L, Freidrich J, Burns K, Herridge M, Cooper DJ, Bersten A, Heels-Ansdell D, Cook D for the PROTECT Investigators, the CCCTG and the ANZICS-CTG.  Risk factors for pulmonary embolism in medical-surgical ICU patients.  Am J Resp Crit Care Med 2012, volume 185, p.A2359
+
+27.  Katsios C, Donadini M, Meade M, Mehta S, Hall R, McIntyre L, Guyatt G, Dodek P,  Muscedere J, Granton J, Friedrich J, Fowler R, Skrobik Y, Kutsiogiannis J, Albert M, Doig C,  Cox M, Vlahakis N, Klinger J, Nates J, Bersten A, Heels-Ansdell D, Zytaruk N, Crowther M,  Cook DJ for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Published prediction models do not discriminate among critically ill patients in clinically suspected pulmonary embolism in ICU. Am J Resp Crit Care Med 2012, volume 185 p.A2360
+
+28.  Granton J, Friedrich J, Fergusson N, Finfer S, Kutsogiannis J, Lesur O, Lamontagne F,  Jacka M, Guyatt G, Lellouche F, Qushmaq I, Alhashemi J, Alsultan M, Sharpe M, Davies A,  Sheppard J, Zytaruk N, Crowther M, Warkentin TE, Cook D for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Heparin-Induced Thrombocytopenia in the ICU: ELISA versus SRA testing.  Am J Resp Crit Care Med 2012, volume 185 p.A1669
+
+29.  Clarke F, McDonald E, Smith O, Zytaruk N, Heels-Ansdell D, Watpool I, McArdle T,  Matte A, Vallance S, Finfer S, Galt P, Crozier T, Fowler R, Arabi Y, Woolfe C, Orford N, Hall R, Adhikari N, Ferland M, Marshall J, Foster D, Farias P, Cook, D, Meade M for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Enrolling critically ill patients into multiple studies: A case study of a thromboprophylaxis trial.  Am J Resp Crit Care Med 2012, volume 185  p.A2458
+
+30.  Clarke F, Zytaruk N, Fowler R, Heels-Ansdell D, Crowther M, Freitag A, Karachi T,  Pagliarello G, Cade J, Bellomo R, Keenan S, Reynolds S, Wood G, Paunovic B, Plaxton W,  Hollinger G, Chittock D, Poirier G, Lopes R, Mandourah Y, Shaikh N, Al-Hazmi M, Al-Azem A, Ostermann M, Brandao N, Costa Filho R,  Alves da Silva S, Teixeira C, Rocha M,  Guimaraes H, Cook D for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Physicians declining patient enrolment into clinical trials: Incidence and insights.  Am J Resp Crit Care Med 2012, volume 185 p. A2543
+
+31.  Arnold D, Lauzier F, Rabbat C, Heels-Ansdell D, Dodek P, Ashley B, Albert M, 
+Khwaja K, Ostermann M, Skrobik Y, Fowler R, McIntyre L, Nates J, Karachi T, Lopes R,  Zytaruk N, Crowther M and Cook D for the PROTECT Investigators, CCCTG and ANZICS-CTG.  In Medical-Surgical ICU Patients, Major bleeding is common, but independent of heparin prophylaxis.  Critical Care 2012, 16 (Suppl 1):P435 
+
+32.   Douketis J,  Pai M, Rabbat C, Ostermann O, Skrobik Y, Leblanc M, Heels-Ansdell D, Qushmaq I, Meade M, Guyatt G, Walter S, Geerts W, Cooper DJ, Crowther M, Berwanger O, Rocha M, Khwaja K, Burry L, Friedrich K, Bellomo R, Brandão da Silva N, Teixeira C, Alves da Silva S, Costa Filho R, Cox M, Adhikari N, Walsh M, Ribic C, Gangi A, Cook D, for the PROTECT Investigators, CCCTG and ANZICS-CTG.  Can low-molecular-weight heparin be safely used as prophylaxis against venous thromboembolism in critically-ill patients with end stage renal disease? An a priori sub-group analysis of the PROTECT trial.  North American Thrombosis and Hemostasis Summit. Am J Hematol Abstract Book 2012.
+
+33.  Lauzier F, Arnold D, Rabbat C, Heels-Ansdell D, Dodek P, Ashley B, Albert M, Khwaja K, Ostermann M, Skrobik Y, Fowler R, McIntyre L, Nates JL, Karachi T, Lopes RD, Zytaruk N, Crowther M, Cook D for the PROTECT Investigators, on behalf of the CCCTG and the ANZICS-CTG. Major bleeding in medical-surgical critically ill patients is associated with increased use of blood products, length of stay and mortality. Crit Care Med 2013;40(12):1-328;118.
+34. Ostermann M, McIntyre L, Lauzier F, Alhashemi J, Qushmaq I, Langevin S, Dodek P, Albert M, Khwaja K,  Kutsiogiannis J, Burry L, Granton J, Friedrich J, Ferguson N, Marshall J, Finfer S, Heels-Ansdell D, Zytaruk N, Cook D, Sheppard J, WarkentinTE and Crowther M for the PROTECT Investigators, CCCTG and ANZICS-CTG.  The consequences of suspected HIT in the ICU.  Critical Care 2012, 16 (Suppl 1):P423  
+35.  Williamson D, Albert M, Heels-Ansdell A, Arnold D, Lauzier F, Lim W, Zarychanski W, Crowther M, Cook D for the PROTECT Investigators, on behalf of the CCCTG and the ANZICS-CTG. Thrombocytopenia in critically ill: Incidence, risk factors and impact on transfusions, bleeding, mortality. Crit Care Med 2013;40(12):1-328;337.
+36.  Lamontagne F, Heels-Ansdell D, McIntyre L, Dodek P, Meade M, Skrobik Y, McDonald E, Vallance S, Zytaruk N, Cook D for the PROTECT Investigators, on behalf of the CCCTG and the ANZICS-CTG. non-leg venous thrombi during critical illness: A nested prospective cohort study. Crit Care Med 2013;40(12):1-328;758.
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Joseph's Hospital</ethicname>
+      <ethicaddress>Hamilton</ethicaddress>
+      <ethicapprovaldate>28/12/2005</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>QEII Halifax</ethicname>
+      <ethicaddress>NS</ethicaddress>
+      <ethicapprovaldate>19/12/2005</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Maisonneuve Rosemont</ethicname>
+      <ethicaddress>Montreal, PQ</ethicaddress>
+      <ethicapprovaldate>12/01/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Westminster General Hospital</ethicname>
+      <ethicaddress>Vancouver, BC</ethicaddress>
+      <ethicapprovaldate>10/01/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Alfred Hosptial</ethicname>
+      <ethicaddress>Melbourne</ethicaddress>
+      <ethicapprovaldate>9/01/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Surry Memorial Hospital</ethicname>
+      <ethicaddress>Vancouver</ethicaddress>
+      <ethicapprovaldate>10/01/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>University of Alberta</ethicname>
+      <ethicaddress>Alberta</ethicaddress>
+      <ethicapprovaldate>23/12/2006</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Deborah Cook</name>
+      <address>St Josephs Hospital
+50 Charlton Avenue E, Rm H327-1
+Hamilton ON
+L8N 4A6</address>
+      <phone>1-905-522-1155 ext 35325</phone>
+      <fax>1-905-308-7223</fax>
+      <email>debcook@mcmaster.ca</email>
+      <country>Canada</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Deborah Cook</name>
+      <address>St Josephs Hospital
+50 Charlton Avenue E, Rm H327-1
+Hamilton ON
+L8N 4A6</address>
+      <phone>1-905-522-1155 ext.35325</phone>
+      <fax>1-905-308-7223</fax>
+      <email>debcook@mcmaster.ca</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Deborah Cook</name>
+      <address>St Joseph's Healthcare Hamilton
+50 Charlton Ave E, Martha Building H327
+Hamilton ON, L8N 4A6
+
+</address>
+      <phone>1-905-522-1155</phone>
+      <fax />
+      <email>debcook@mcmaster.ca</email>
+      <country>Canada</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

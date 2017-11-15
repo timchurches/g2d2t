@@ -1,0 +1,335 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3436">
+  <stage>Registered</stage>
+  <submitdate>16/01/2012</submitdate>
+  <approvaldate>16/01/2012</approvaldate>
+  <nctid>NCT01513941</nctid>
+  <trial_identification>
+    <studytitle>An Efficacy and Safety Study of Telaprevir in Patients Infected With Both Chronic Hepatitis C Virus (HCV-1) and Human Immunodeficiency Virus (HIV-1)</studytitle>
+    <scientifictitle>Open-Label, Phase 3b Study to Determine Efficacy and Safety of Telaprevir, Pegylated-Interferon-alfa-2a and Ribavirin in Hepatitis C Virus Treatment-Naïve and Treatment-Experienced Subjects With Genotype 1 Chronic Hepatitis C and Human Immunodeficiency Virus Type 1 (HCV-1/HIV-1) Coinfection</scientifictitle>
+    <utrn />
+    <trialacronym>INSIGHT</trialacronym>
+    <secondaryid>VX-950HPC3008</secondaryid>
+    <secondaryid>CR100778</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Hepatitis C</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Acquired immune deficiency syndrome (AIDS / HIV)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Telaprevir
+Treatment: drugs - Ribavirin
+Treatment: drugs - Pegylated-Interferon-alfa-2a
+
+Experimental: Telaprevir plus Pegylated-Interferon-alfa-2a /ribavirin (RBV) - All patients who will receive 12 weeks of treatment with telaprevir 750 mg q8h except for patients on efavirenz will receive 1125 mg every 8 hours (q8h) in combination with Pegylated-Interferon-alfa-2a (Peg-IFN-alfa-2a) 180 µg/week and RBV 800 mg/day. At Week 12, telaprevir dosing will end and the patients will continue on Peg-IFN-alfa-2a and RBV.
+
+
+Treatment: drugs: Telaprevir
+Type=exact number, unit=mg, number=750 or 1125, form=tablet, route=oral. the patients will receive 2 oral tablets every 8 hours for 12 weeks except for patients on efavirenz who will receive 1125mg (3 oral tablets) every 8 hours for 12 weeks.
+
+Treatment: drugs: Ribavirin
+Type=exact number, unit=mg, number=400, form=tablet, route=oral. The patients will receive 2 oral ribavirin tablets twice daily for 24 or 48 weeks, based on the response guided therapy.
+
+Treatment: drugs: Pegylated-Interferon-alfa-2a
+Type=exact number, unit=microgram, number=180, form=injection, route=subcutaneous The patients will receive Peg-IFN-alfa-2a 180 microgram once a week for 24 or 48 weeks; based on the response guided therapy.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of patients achieving undetectable plasma hepatitis C virus (HCV) ribonucleic acid (RNA) levels - Proportion of patients achieving sustained virologic response (SVR) undetectable plasma HCV RNA levels 12 weeks after the last planned dose of study medication.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change from baseline in log HCV RNA values - Change from baseline in log HCV RNA values at each time point during treatment.</outcome>
+      <timepoint>Baseline and week 48</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportiond of patients achieving undetectable HCV RNA levels - Proportion of patients achieving SVR24 planned, defined as having undetectable plasma HCV RNA levels 24 weeks after the last planned dose of study medication.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving undetectable HCV RNA levels at Week 4 - The proportion of patients who achieve rapid virologic response (RVR) and undetectable HCV RNA levels at Week 4 of treatment.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving undetectable HCV RNA levels at Week 12 - Proportion of patients achieving undetectable HCV RNA levels at Week 12 of treatment.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving undetectable HCV RNA levels at Week 4 and Week 12 (eRVR) - Proportion of patients achieving undetectable HCV RNA levels at Week 4 and Week 12 of treatment (eRVR).</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving undetectable HCV RNA at the actual end of treatment - Proportion of patients having undetectable HCV RNA levels at the actual end of treatment (ie, Week 24, Week 48, or early discontinuation).</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients achieving less than 25 IU/mL - Proportion of patients having less than 25 IU/mL at the planned end of treatment (ie, Week 24 or Week 48).</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with on-treatment virologic failure - Proportion of patients with on-treatment virologic failure (an increase greater than 1 log in HCV RNA level from the lowest level reached, or a value of HCV RNA greater than 100 IU/mL in patients whose HCV RNA has previously become less than 25 IU/mL during treatment).</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with relapse achieving detectable HCV RNA levels after previously undetectable HCV RNA levels - Proportion of patients who relapse (having confirmed detectable HCV RNA during the follow-up period after previous undetectable HCV RNA levels (less than 25 IU/mL, undetectable) at planned end of treatment.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with relapse achieving detectable HCV RNA levels after previous HCV RNA levels - Proportion of patients who relapse, defined as having confirmed detectable HCV RNA during the follow-up period after previous HCV RNA less than 25 IU/mL at planned end of treatment.</outcome>
+      <timepoint>Up to 48 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Chronic (detectable HCV Ribonucleic acid (RNA) more than 6 months prior screening or
+             histological diagnosis based on liver biopsy or fibroscan) HCV infection genotype 1
+             with HCV RNA level greater than 1,000 IU/mL
+
+          -  Confirmed diagnosis of HIV-1 infection greater than 6 months before the screening
+             visit
+
+          -  CD4 count greater than 300 cells/mm3 at screening and no value less than 200 cells/mm3
+             within 6 months of screening visit
+
+          -  HIV-1 RNA undetectable by an ultrasensitive assay at least once within 90 days of the
+             screening visit
+
+          -  No HIV RNA values greater than 200 copies/mL within 6 months of the screening visit
+
+          -  Currently taking one of the permitted anti-HIV regimens for greater than or equal to12
+             weeks</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Anticipated need to switch anti-HIV regimen from screening through the Telaprevir
+             treatment period
+
+          -  Infection or co-infection with HCV other than genotype 1
+
+          -  Contraindication to the administration of Peg-IFN-alfa or RBV
+
+          -  Hepatitis B virus (HBV) co-infection
+
+          -  Acute or active condition of HIV-associated opportunistic infection within 6 months of
+             screening</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>163</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/06/2014</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Cairns</hospital>
+    <hospital> - Darlinghurst</hospital>
+    <hospital> - Melbourne</hospital>
+    <postcode> - Cairns</postcode>
+    <postcode> - Darlinghurst</postcode>
+    <postcode> - Melbourne</postcode>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Campinas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio De Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Santo André</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Kremlin Bicetre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 12</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bydgoszcz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Myslowice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Krasnodar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Perm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Smolensk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Voronezh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Badalona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Elche</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>San Sebastian</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla N/A</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Janssen-Cilag International NV</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to evaluate the effectiveness and safety of telaprevir, given
+      with pegylated-interferon-alfa-2a (Peg-IFN-alfa-2a) and ribavirin (RBV) in the treatment of
+      hepatitis C in patients infected with both chronic hepatitis C virus (HCV-1) and human
+      immunodeficiency virus (HIV-1).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01513941</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Janssen-Cilag International NV, Belgium Clinical Trial</name>
+      <address>Janssen-Cilag International NV</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

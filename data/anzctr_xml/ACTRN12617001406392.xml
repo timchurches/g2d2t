@@ -1,0 +1,325 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373684">
+  <stage>Registered</stage>
+  <submitdate>20/09/2017</submitdate>
+  <approvaldate>4/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001406392</actrnumber>
+  <trial_identification>
+    <studytitle>Study of the use of MRI for radiation therapy treatment planning for patients with complex pelvic cancers</studytitle>
+    <scientifictitle>The feasibility of MRI only Radiation Therapy Planning for patients with cancer of the Anal Canal, Rectum, Cervix or Endometrium</scientifictitle>
+    <utrn>U1111-1202-4412</utrn>
+    <trialacronym>MARVEL</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Rectal Cancer</healthcondition>
+    <healthcondition>Anal Canal Cancer</healthcondition>
+    <healthcondition>Endometrial Cancer</healthcondition>
+    <healthcondition>Cervical Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Anal</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Womb (Uterine or endometrial cancer)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Cervical (cervix)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The study involves an additional MRI scan being required for the study. This will require attendance at one MRI scan session of a half hour duration from the participant. This modification does not affect the gold standard of imaging the patients would otherwise receive for their treatment. This MRI scan will be undertaken at the Diagnostic Imaging Department, Calvary Mater Newcastle, scheduled on the same day as the participants planning CT scan. There will be no change to the participants treatment in this study  they will receive the gold standard of care and treatment as per departmental protocols. The MRI scan will be used for comparative purposes only.
+The MRI will be used to create a "synthetic CT scan" which will be used prospectively to compare to the participants previously acquired CT scan </interventions>
+    <comparator>The comparator/control will be the participant's planning CT scan which is acquired as per department protocol for their radiotherapy treatment planning</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>This is a composite primary outcome to demonstrate the mean dosimetric agreement and 95% confidence interval between conventional CT and synthetic CT for radiotherapy treatment planning of cancers of the rectum, anal canal, endometrium and cervix</outcome>
+      <timepoint>after completion of radiotherapy treatment planning</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To demonstrate the Hounsfield Unit comparison of conventional CT and synthetic CT for complex pelvic cancers using mean absolute error</outcome>
+      <timepoint>after completion of radiotherapy treatment planning</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To demonstrate the generation of digitally reconstructed radiographs (DRRs) from synthetic CT for on treatment guidance. A mock image guidance alignment will be performed using synthetic CT DRR based alignment and cone-bean CT based alignment. The differences in these measurements compared to the gold standard CT will be quantified</outcome>
+      <timepoint>after completion of radiotherapy treatment planning</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. &gt;18 years of age
+2. Patient able to provide informed consent
+3. Histological diagnosis of a malignancy of the rectum, anal canal, cervix or endometrium
+4. To be treated definitively with radical Radiotherapy +/- concurrent chemotherapy +/- surgery
+5. Suitable for IMRT or VMAT planning
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. ECOG performance status &gt;1
+2. Clinical evidence of distant metastatic disease
+3. Women who are pregnant or lactating
+4. Inability to have a MRI due to:
+	a. Implanted magnetic metal e.g. intraocular metal, aneurysm clip, or other metallic implant
+	b. Pacemaker/ implanted defibrillator
+     c. Extreme claustrophobia
+5. Mental impairment/intellectual impairment in which the patient would have difficulty giving informed consent to the study
+6. Bariatric patients (patients with a BMI &gt; 30)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The sample size will consist of 40 patients (20 male and 20 female patients) diagnosed with histologically confirmed malignancy of the rectum, anal canal, cervix or endometrium indicated for definitive radiotherapy, and who are eligible to undergo an MRI examination.
+Prior experience in early phase development of the synthetic CT software suggests that a minimum sample of 20 participants is required to create an accurate sCT atlas. The contouring atlas which is used for this study to develop the synthetic CT scans cannot generalise between genders, therefore males and females would be required to be separated into 2 different groups. As 20 participants of each group will need to be recruited to generate a reliable sCT atlas, 40 patients will be recruited to the study; 20 male patients and 20 female patients. Assuming the dose difference at the representative voxel is 1.5% (based on content knowledge and prior experience), a sample of 20 participants, each with a CT and sCT, will enable estimation of the mean percentage dose difference and 95% confidence interval with a 0.7% (absolute) margin of error.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>10/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>10/10/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>24/10/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Calvary Mater Newcastle - Waratah</hospital>
+    <postcode>2298 - Waratah</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Laura O'Connor</primarysponsorname>
+    <primarysponsoraddress>Radiation Oncology
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Calvary Mater Newcastle -Margaret Mitchell Research Grant</fundingname>
+      <fundingaddress>Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Peter Greer</sponsorname>
+      <sponsoraddress>Radiation Oncology, 
+Calvary Mater Newcastle Locked Bag 7
+Hunter Region Mail Centre
+NSW 2310
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Jason Dowling</othercollaboratorname>
+      <othercollaboratoraddress>CSIRO Health and Biosecurity
+Level 5
+UQ Health Science Building 901/16
+Herston, QLD, 4029
+
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Jarad Martin</othercollaboratorname>
+      <othercollaboratoraddress>Radiation Oncology, 
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, 
+NSW 2310
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Helen Warren-Froward</othercollaboratorname>
+      <othercollaboratoraddress>School of Health Sciences
+University of Newcastle
+Callaghan
+NSW
+2308
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Geetha Govindarajulu</othercollaboratorname>
+      <othercollaboratoraddress>Radiation Oncology, 
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, 
+NSW 2310
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Anne Capp</othercollaboratorname>
+      <othercollaboratoraddress>Radiation Oncology, 
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, 
+NSW 2310
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Mahesh Kumar</othercollaboratorname>
+      <othercollaboratoraddress>Radiation Oncology, 
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, 
+NSW 2310
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Swetha Sridharan</othercollaboratorname>
+      <othercollaboratoraddress>Radiation Oncology, 
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, 
+NSW 2310
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Leah Best</othercollaboratorname>
+      <othercollaboratoraddress>Radiology Department
+Hunter New England Health Care
+Calvary Mater Campus
+Waratah
+NSW 2310</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>
+The aim of this study is to evaluate the feasibility of MRI only planning for rectal, anal canal and gynaecological cancer radiation therapy. 
+
+Who is it for?
+You may be eligible to join this study if you are aged 18 years or over and have a histological diagnosis of a malignancy of the rectum, anal canal, cervix or endometrium and are about to be treated definitively with radical Radiotherapy at Calvary Mater Newcastle. 
+
+Study details
+All participants enrolled into this study will receive an additional MRI scan at the Diagnostic Imaging Department, Calvary Mater Newcastle, scheduled on the same day as the participants planning CT scan. There will be no change to the participants treatment in this study  they will receive the gold standard of care and treatment as per departmental protocols. The MRI scan will be used for comparative purposes only.
+The MRI will be used to create a "synthetic CT scan" which will be used prospectively to compare to the participants previously acquired CT scan.
+
+The use of MRI alone for radiotherapy planning will eliminate the potential inaccuracies in the current fusion process between the MRI and CT scan. This method has the potential to improve radiotherapy planning techniques by better utilising the superior soft tissue contrast that MRI affords.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Health District Human Research Ethics Committee</ethicname>
+      <ethicaddress>Hunter New England Research Ethics &amp; Governance Office
+Locked Bag No 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>29/08/2017</ethicapprovaldate>
+      <hrec>17/06/21/3.02</hrec>
+      <ethicsubmitdate>21/06/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373684-1706213.02 Ongoing Approval Clinical Trial Single-site LeadHREC.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373684-CLINICAL STUDY PROTOCOL - MARVEL V2.3.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373684-Participant Information and Consent v1.3.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>Laura O'Connor</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</address>
+      <phone>+61 2 40143168</phone>
+      <fax>+61 2 4014 3169</fax>
+      <email>Laura.O'Connor@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Laura O'Connor</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</address>
+      <phone>+61 2 40143168</phone>
+      <fax>+61 2 4014 3169</fax>
+      <email>Laura.O'Connor@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Laura O'Connor</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</address>
+      <phone>+61 2 40143168</phone>
+      <fax>+61 2 4014 3169</fax>
+      <email>Laura.O'Connor@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Laura O'Connor</name>
+      <address>Radiation Oncology
+Calvary Mater Newcastle, 
+Locked Bag 7, 
+Hunter Region Mail Centre, NSW 2310</address>
+      <phone>+61 2 40143168</phone>
+      <fax>+61 2 4014 3169</fax>
+      <email>Laura.O'Connor@calvarymater.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

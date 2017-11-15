@@ -1,0 +1,252 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365832">
+  <stage>Registered</stage>
+  <submitdate>25/02/2014</submitdate>
+  <approvaldate>11/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000258651</actrnumber>
+  <trial_identification>
+    <studytitle>Impact of standard communication and antimicrobial stewardship on time to appropriate antimicrobial therapy in blood stream infections</studytitle>
+    <scientifictitle>In patients with a positive blood culture, does standard communication from the microbiology laboratory plus Antimicrobial Stewardship Team review improve the time to appropriate antimicrobial therapy when compared to standard laboratory communication methods? </scientifictitle>
+    <utrn>U1111-1153-5612 </utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Positive blood cultures</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention group will recieve both standard care (see comparator/control treatment) plus antimicrobial stewardship team review. Antimicrobial Stewardship Team review will occur on the same day (ie. within 12 hours) of the positive blood culture being announced at the weekday Microbiology Laboratory meeting.
+
+Antimicrobial Stewardship Team Review: This refers to a focused review of the patients medical record and relevant pathology/microbiology by an Infectious Diseases Physician, an Antimicrobial Stewardship Pharmacist and Infectious Diseases Registrar. The patient is not clinically reviewed during this process. Recommendations for antimicrobial therapy are dicussed with the treating unit and documented in the medical record. The clinical decision to alter antimicrobial therapy remains with the treating unit.</interventions>
+    <comparator>Standard care: The current standard of care when blood cultures flag positive is that the microbiology laboratory (usually the Microbiology Registrar or a Laboratory Scientist after hours) calls the resident caring for the patient. Clinical advice may be provided at this time, however this advice does not include a review of the medical record. 
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to appropriate antimicrobial therapy following blood culture positivity in the microbiology laboratory
+
+Appropriateness of antimicrobial therapy will be analysed based on microbiological activity and clinical appropriateness. This will be assessed by an independent, blinded panel of infectious diseases physicians.
+
+Active antimicrobial therapy:  refers to an antimicrobial agent with a spectrum of activity that will be active against the isolated organism. The spectrum of activity of active antimicrobial therapy may differ to that of appropriate antimicrobial therapy.
+
+Appropriate antimicrobial therapy is defined as antimicrobial therapy that meets the following criteria:
+- Has an adequate spectrum of activity against the pathogen 
+- Correct dosing regimen 
+- Appropriate route of administration 
+- Considers the clinical picture of the patient (e.g. adverse drug reactions, additional microbiological culture results) 
+If any of the above criteria are not met, the antimicrobial therapy will be deemed inappropriate.
+
+ 
+</outcome>
+      <timepoint>24 hours, 48 hours and 72 hours after taking blood cultures. Time of blood cultures being taken will be regarded as time 'zero'</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to active antimicrobial therapy.  This will be assessed by an independent, blinded panel of infectious diseases physicians.
+
+Active antimicrobial therapy:  refers to an antimicrobial agent with a spectrum of activity that will be active against the isolated organism. The spectrum of activity of active antimicrobial therapy may differ to that of appropriate antimicrobial therapy.
+</outcome>
+      <timepoint>24 hours, 48 hours and 72 hours after taking blood cultures. Time of blood cultures being taken will be regarded as time 'zero'</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to appropriate antibiotic defined as correct agent, dose, route of administration, narrowest spectrum for diagnosis. </outcome>
+      <timepoint>A specific time point wasn't used as time to appropriate therapy was considered as a continuous (time to event) outcome.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>In-hospital</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>First episode positive blood culture detected by BacT/ALERT (Registered Trademark) 3D automated blood culture system</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients admitted under the Haematology, ID, Respiratory, Burns or Intensive Care Units where existing Infectious Diseases (ID) liaison services exist
+Patients who are currently receiving a formal ID consultation at the time of blood culture positivity
+Patients admitted at Sandringham or Caulfield Hospitals (as Antimicrobial Stewardship Team review does not currently operate routinely at these sites)
+Outpatients
+Patients in the emergency department/short stay unit who are discharged within 24 hours of blood culture positivity
+Patients transferred from a hospital outside of Alfred Health with a blood stream infection
+Patients transferred to another hospital within 24 hours of blood culture positivity
+Patients with antimicrobial agents already entered into Guidance MS 
+Patients admitted under a medical unit where their treating physician is an ID physician
+Patients considered to be palliative and not for further medical intervention</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be prospectively identified by the Antimicrobial Stewardship Pharmacist at the daily (Monday – Friday) microbiology laboratory meeting, with subsequent randomisation according to a pre-determined randomisation structure.
+Patients who are identified with a positive blood culture on weekends will be identified at the Monday microbiology laboratory meeting
+As current standard of care is for the Antimicrobial Stewardship Team to review patients entered into Guidance MS (Registered Trademark), patients will be stratified for inclusion into the study according to a pre-determined study flowchart
+Allocation concealment was undertaken using sealed opaque envelopes</concealment>
+    <sequence>Permuted block randomisation. Sealed ppaque envelopes containing the randomisation allocation were filled by a research assistant not involved in the trial.
+Upon identification of potentially suitable patients, the Antimicrobial Stewardship Pharmacist screens the patient for elligibility for the trial. If the patient is suitable, the randomisation envelope is then opened to determine allocation
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>It is estimated that an enrolment of 80 patients in each arm (ie. total of 160 patients) will have 80% power to show a significant difference in the time to appropriate antimicrobial therapy, assuming approximately 20% of patients are on inappropriate antimicrobial therapy 24 hours after blood culture positivity without Antimicrobial Stewardship Team review and 4% of patients are on inappropriate antimicrobial therapy with Antimicrobial Stewardship Team review and a two-sided type I error of 0.05. 
+
+Time to event data, including time to species identification and time to appropriate antimicrobial therapy, will be compared between study arms using the Log rank test. A multivariate analysis for time to appropriate antimicrobial therapy will be performed adjusting for severity of illness (measured using the MEDS score) using a Cox proportional hazards model. Categorical outcomes, such as proportion of patients on appropriate antimicrobial therapy at the time blood cultures are positive and adherence with recommendations will be compared using the Fisher's exact test. Other continuous measures, such as additional resource use, will be summarised using descriptive statistics</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>27/02/2014</anticipatedstartdate>
+    <actualstartdate>27/02/2014</actualstartdate>
+    <anticipatedenddate>31/07/2014</anticipatedenddate>
+    <actualenddate>29/12/2015</actualenddate>
+    <samplesize>160</samplesize>
+    <actualsamplesize>160</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/02/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <postcode>3181 - Prahran</postcode>
+    <postcode>3169 - Clayton South</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>The Alfred Hospital</primarysponsorname>
+    <primarysponsoraddress>55 Commerical Rd
+Prahran
+VIC, 3181</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Monash University</sponsorname>
+      <sponsoraddress>Faculty of Pharmacy and Pharmaceutical Sciences
+Monash University
+381 Royal Parade
+Parkville
+VIC 3052</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Bloodstream infections (BSI) are an important cause of morbidity and mortality. Several studies have demonstrated that early, appropriate antimicrobial therapy reduces BSI associated mortality and reduces hospital length of stay. Conversely, antimicrobial therapy should be minimised in patients that do not have infection to reduce the impact of antimicrobial agents on resistance, including in patients where blood culture isolates represent contamination.
+
+The aim of this project is to assess the implementation of  Antimicrobial Stewardship Team review on time to appropriate antimicrobial therapy in patients with a positive blood culture at The Alfred Hospital.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Ethics Committee</ethicname>
+      <ethicaddress>55 Commercial Road
+Prahran, VIC 3181 </ethicaddress>
+      <ethicapprovaldate>23/01/2013</ethicapprovaldate>
+      <hrec>490/13</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Monash University
+Level 1, Building 3e, Clayton Campus
+Wellington Rd
+Clayton VIC 3800</ethicaddress>
+      <ethicapprovaldate>6/02/2014</ethicapprovaldate>
+      <hrec>CF14/321 - 2014000117</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Health Ethics Committee</ethicname>
+      <ethicaddress>Monash Medical Centre
+246 Clayton Rd
+Clayton
+VIC 3168
+</ethicaddress>
+      <ethicapprovaldate>19/11/2014</ethicapprovaldate>
+      <hrec>14432XL</hrec>
+      <ethicsubmitdate>10/11/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Michael Dooley</name>
+      <address>The Alfred Hospital,
+55 Commercial Road
+Prahran, VIC, 3181</address>
+      <phone>+61 3 907 62061</phone>
+      <fax />
+      <email>M.Dooley@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Kelly Cairns</name>
+      <address>The Alfred Hospital,
+55 Commercial Road
+Prahran, VIC, 3181</address>
+      <phone>+61 3 907 62061</phone>
+      <fax />
+      <email>K.Cairns@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Kelly Cairns</name>
+      <address>The Alfred Hospital,
+55 Commercial Road
+Prahran, VIC, 3181</address>
+      <phone>+61 3 907 62061</phone>
+      <fax />
+      <email>K.Cairns@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Kelly Cairns</name>
+      <address>The Alfred Hospital,
+55 Commercial Road
+Prahran, VIC, 3181</address>
+      <phone />
+      <fax>+61 3 907 62061</fax>
+      <email>K.Cairns@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

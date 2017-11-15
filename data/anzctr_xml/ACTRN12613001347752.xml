@@ -1,0 +1,207 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365420">
+  <stage>Registered</stage>
+  <submitdate>4/12/2013</submitdate>
+  <approvaldate>9/12/2013</approvaldate>
+  <actrnumber>ACTRN12613001347752</actrnumber>
+  <trial_identification>
+    <studytitle>De novo combination allopurinol-thiopurine vs standard thiopurine in inflammatory bowel disease (IBD) patients escalating to immunomodulators: a randomized controlled trial</studytitle>
+    <scientifictitle>A randomized controlled trial of patients with IBD attending specialist clinics comparing de novo combination allopurinol and thiopurine versus thiopurine alone (ie standard practice) in terms of objective clinical outcomes at six months</scientifictitle>
+    <utrn />
+    <trialacronym>The DECIDER study</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Inflammatory Bowel Disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Inflammatory bowel disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>De novo combination therapy with allopurinol 100mg orally and gradual pre-specified dose increments of azathioprine starting at 25mg and increasing to 50mg orally daily as determined by measuring thiopurine metabolite levels at week 6 and the absence of serious side effects. Medications will be supplied in blister packs which will be supplied every six weeks and drug/ packaging will be returned to assess adherence at the relevant study visit(s). The overall duration of study treatment will be six months.</interventions>
+    <comparator>Standard introduction of azathioprine monotherapy starting at 25mg and incrementally increasing dose to 150mg orally daily every two weeks (also with aid of thiopurine metabolite testing at week 6). Medications will be supplied similarly in blank packaging to intervention group. The overall duration of treatment will be six months.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of those with 50% reduction in faecal calprotectin concentration from baseline to week 10 &amp; week 26, comparing intervention vs control groups.</outcome>
+      <timepoint>Week 26</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in clinical assessment of disease activity (measured by HBI for Crohn's disease, SCCAI for ulcerative colitis)</outcome>
+      <timepoint>Week 26</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in objective disease activity (serum CRP and faecal calprotectin assays)</outcome>
+      <timepoint>Week 26</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in white cell counts (measured by serum full blood counts)</outcome>
+      <timepoint>Week 26</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in liver function (measured by serum ALT level)</outcome>
+      <timepoint>Week 26</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of adverse reactions (by type) - compared by proportion of patients in each group reporting or have laboratory testing consistent with one or more episodes of a  significant adverse reaction attributable to either thiopurine or allopurinol at one or more study visits with investigator(s). Examples of adverse reactions include nausea, rash, myalgia/ arthralgia, malaise, abdominal pain, serious infection, leukopenia, deranged liver function.</outcome>
+      <timepoint>Week 26</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Confirmed Crohn's disease (CD) or ulcerative colitis (UC)
+- Stable doses of other IBD medications (standardized prednisolone weaning schedule only, maintenance biologics only, aminosalicylates at same dose only)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Unable to understand adequate English and/or give informed consent
+- Pregnancy or medical comorbidities including concurrent sepsis, advanced chronic liver disease, malignancy, haematological disorders causing one or more cytopenias, or any other medical condition that the investigators feel would preclude study entry
+- Previous serious adverse reaction to a thiopurine or allopurinol
+- Low thiopurine methyltransferase (TPMT) activity (&lt;5 U/ml) or TPMT homozygous genotype (TPMTL/ TPMTL) if previously tested or at baseline screening test
+- Deranged liver function with ALT &gt; 3x ULN at baseline screening test
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The initial screening visit will ensure adequate explanation of the project to potential participants with a view to obtaining informed consent. Consenting participants will then be randomized by computer randomization software into either Group A (standard azathioprine/6MP monotherapy regimen) or Group B (combined allopurinol-thiopurine co-therapy. From this week 0 visit onwards, the investigators will be blinded to each participant’s grouping as all medications will be supplied in sealed, non-distinguishable dosing packs at each visit, labelled by unique code number for each participant according to grouping. These packs will be arranged and supervised by an independent study coordinator who will be able to re-identify participants via the code number log if required. Supplying all study medication will also enable accurate monitoring of adherence. Dosing adjustments where required (e.g. for leukopenia or deranged LFTs) will all be pre-specified as per protocol. </concealment>
+    <sequence>Simple randomization via computer software sequence generation with stratification by IBD diagnosis and concurrent anti-TNF maintenance therapy.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Nil</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Assuming a clinical response to thiopurines in IBD of 60% (as per local experience and real world data elsewhere, with 10% rate of serious adverse reactions (thus 10% dropout rate) and a 25% gain in efficacy of ATC vs AZA/6MP monotherapy, this study will require 60 participants in each group to achieve power of 0.8 with a=0.05.
+
+Endpoint outcomes of Group A versus B will be compared. Proportions will be compared with Fisher exact tests and quantitative data with analysis of variance (ANOVA)/unpaired t-tests or Mann-Whitney/ Kruskal-Wallis tests (respectively for parametric and non-parametric data). </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3 / Phase 4</phase>
+    <anticipatedstartdate>3/03/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>120</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <hospital>Maroondah Hospital - Ringwood East</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Daniel van Langenberg</primarysponsorname>
+    <primarysponsoraddress>Department of Gastroenterology, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128 Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Gastrenterological Society of Australasia Ferring IBD clinician establishment grant</fundingname>
+      <fundingaddress>Gastroenterological Society of Australia 
+PO Box 508 
+Mulgrave 3170 Victoria, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The inflammatory bowel diseases (IBD), Crohns disease and ulcerative colitis, are immune system related conditions where an overactive immune response from the bodys white blood cells causes inflammation and damage to the intestines and in turn the typical symptoms of diarrhoea, abdominal pain and weight loss. Immune-modifying drugs (immunomodulators) like azathioprine (AZA) and 6-mercaptopurine (6MP) dampen down the overactive white blood cells that are the cause of the inflammation. Over 50% of patients who attend an IBD clinic at Eastern Health are on one of these medications. 
+
+In IBD like other immune related conditions, AZA and 6MP have been shown to both get patients well (induce remission), and keep patients well (maintain remission). Importantly, they also reduce the need for cortisone-based medicines such as prednisolone that are associated with many side effects and no long-term benefits. 
+
+We know that AZA and 6MP to produce two chemical end-products (metabolites) that are responsible for the benefits and also side effects of these drugs. These metabolites are known as 6-thioguanine nucleotides (6-TGN) and 6-methylmercaptopurine (6-MMP). 6-TGN is the good metabolite that makes these drugs work, while 6-MMP instead can cause side-effects, especially affecting the liver. Therefore it is desirable to have high levels of 6-TGN and low levels of 6-MMP to get the best out of these drugs.
+
+Recent research has shown that by adding another drug called allopurinol to AZA/6MP in almost all cases the 6TGN levels improve and the 6MMP levels greatly reduce. Also, we generally use a much lower dose of the AZA/6MP combined with the allopurinol and thus most patients end up getting a greater benefit but with fewer tablets, with no increase in side effects. It should be noted that the use of allopurinol in combination with azathioprine or 6-mercaptopurine remains experimental, and is not currently approved by the TGA.
+
+In this study we are comparing patients who are commencing on treatment with azathioprine with those who will be started on a combination of azathioprine and allopurinol to see if this combination of drugs is more effective and quicker to work, yet similarly safe, to those taking the standard AZA alone. 
+
+If we are able to show that the combination is better in this study, then this will have major consequences to how azathioprine is used in the treatment of IBD in the future. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Eastern Health Research Ethics Committee</ethicname>
+      <ethicaddress>c/o Research &amp; Ethics Office, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>na</hrec>
+      <ethicsubmitdate>22/01/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel van Langenberg</name>
+      <address>Department of Gastroenterology, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128</address>
+      <phone>+61 3 90949533</phone>
+      <fax>+61 3 9899 9137</fax>
+      <email>Daniel.van-Langenberg@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Althea Barr</name>
+      <address>Department of Gastroenterology, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128</address>
+      <phone>+61 3 9094 9544</phone>
+      <fax>+61 3 9899 9137</fax>
+      <email>Althea.Barr@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel van Langenberg</name>
+      <address>Department of Gastroenterology, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128</address>
+      <phone>+61 3 9094 9533</phone>
+      <fax>+61 3 9899 9137</fax>
+      <email>Daniel.van-Langenberg@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Daniel van Langenberg</name>
+      <address>Department of Gastroenterology, Eastern Health
+Level 2, 5 Arnold St Box Hill VIC 3128</address>
+      <phone>+61 3 9094 9533</phone>
+      <fax>+61 3 9899 9137</fax>
+      <email>Daniel.van-Langenberg@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

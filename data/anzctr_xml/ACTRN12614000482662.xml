@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366247">
+  <stage>Registered</stage>
+  <submitdate>2/05/2014</submitdate>
+  <approvaldate>9/05/2014</approvaldate>
+  <actrnumber>ACTRN12614000482662</actrnumber>
+  <trial_identification>
+    <studytitle>Closed loop insulin delivery and glucose control for type 1 diabetes, seven days and nights, hospital to home.</studytitle>
+    <scientifictitle>Performance of a closed loop insulin delivery system in patients with type 1 diabetes for seven days and nights in the hospital and home, compared to sensor augmented pump therapy, with respect to glycaemic outcomes.</scientifictitle>
+    <utrn>U1111-1156-2402 </utrn>
+    <trialacronym />
+    <secondaryid>nil
+</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>type 1 diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Closed loop insulin therapy (or artificial pancreas), compromising of a Medtronic Paradigm Veo insulin pump with continuous glucose sensor, an Android-based smartphone with the closed loop algorithm software, and a translator that translates messages between the phone and insulin pump. An insulin pump is an external device, which is already used by thousands of patients in the community. There is a small cannula placed subcutaneously through which the insulin is infused - and is attached to the insulin pump by plastic tubing. No anaesthetic is required. The infusion site lasts three days, before needing to be changed to a new site. The continous glucose sensor is a small plastic cannula inserted into the subcutaneous tissue - which then connects to an external transmitting device which communicates to the insulin pump via radiofrequency. A glucose sensor lasts a maximum of 6 days, and does not require an anaesthetic for insertion. Participants will spend this first 48 - 72 hours in hospital learning how to use the technology, before going home and completing a full 7 days. While at home patient will upload their insulin pump daily, and we will use remote monitoring of the smartphone for constant monitoring and checking of adherance. There will be a washout of at least 7 days between treatments.</interventions>
+    <comparator>Sensor augmented insulin pump therapy (Medtronic Paradigm Veo insulin pump with continuous glucose sensor)  with low glucose suspend function activated. An insulin pump is an external device, which is already used by thousands of patients in the community. There is a small cannula placed subcutaneously through which the insulin is infused - and is attached to the insulin pump by plastic tubing. No anaesthetic is required. The infusion site lasts three days, before needing to be changed to a new site. The continous glucose sensor is a small plastic cannula inserted into the subcutaneous tissue - which then connects to an external transmitting device which communicates to the insulin pump via radiofrequency. A glucose sensor lasts a maximum of 6 days, and does not require an anaesthetic for insertion. Participants will spend this first 48 - 72 hours in hospital learning how to use the technology, before going home and completing a full 7 days. While at home patient will upload their insulin pump daily sot hat we can monitor adherance.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>time spent with sensor blood glucose between 3.9  10mmol/L</outcome>
+      <timepoint>Calculated after 7 days</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>hypoglycaemic events (sensor blood glucose &lt;3.3mmol/L) </outcome>
+      <timepoint>Count at the end of 7 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>nil</outcome>
+      <timepoint>nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age 12-50 years with type 1 diabetes
+Duration of diabetes at least 12 months
+On insulin pump therapy for at least 6 months
+Carbohydrate counting
+Using bolus calculator function
+HbA1C&lt;9%
+</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>50</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Pregnancy
+Any alcoholic or substance abuse
+Undergoing treatment for psychological illness
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomization by computer</concealment>
+    <sequence>Simple randomisation using using a randomisation table created by computer software </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The primary outcome in this study is the number of minutes per day spent in euglycaemia (BGL 3.9  10.0mmol/L). Using data from previous studies, patients using sensor augmented pump therapy spent a mean of 774 minutes per day (SD 232minutes) euglycaemic. We hypothesise that with closed loop this will increase by 30%. Using a paired t-test with within group correlation of 0.7, alpha at 0.05, we require 10 subjects to have 90% power to detect this increase. We will recruit 14 subjects to allow for participant drop-out.Treatment evaluation (Closed Loop Vs SAPT) will be based on the principal of intention to treat. 
+All statistical analysis will be two-sided and a 5% significance level will be maintained throughout the analyses. Linear mixed models will be used will be used to assess the main treatment effect accounting for the randomization sequence and time period. Continuous variables that are not normally distributed (or can not be transformed into a normally distributed variable) will be analysed using a Wilcoxon signed-rank test. 
+For missing glucose data a linear relationship will be assumed between data points when data omission is &lt;2 hours. If there is a time period of &gt;2hr with no blood glucose data, the between meal section of the day will be omitted from analysis (for example: breakfast to lunch, or lunch to dinner) and will be reported as insufficient data for analysis and study limitations during manuscript preparation. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>22/05/2014</anticipatedstartdate>
+    <actualstartdate>1/06/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>15/10/2014</actualenddate>
+    <samplesize>14</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Princess Margaret Hospital - Subiaco</hospital>
+    <postcode>6008 - Subiaco</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Martin de Bock</primarysponsorname>
+    <primarysponsoraddress>Princess Margaret Hospital
+1 Roberts Road
+Subiaco
+Perth 6008
+Western Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Juvenile Diabetes Research Foundation</fundingname>
+      <fundingaddress>Unit 3
+181 Main Street
+Osborne Park WA 6017</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Medtronic</fundingname>
+      <fundingaddress>18000 Devonshire St, Northridge, CA 91325, United States
+
+</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a randomized cross over trial. Patients with type 1 diabetes will have their glucose levels controlled by either a closed loop (artificial pancreas) system, or sensor augmented pump therapy with low glucose suspend. During closed loop patients will still use the bolus function of their pump for meals. The study will start in hospital for 2 days and nights, and then the participants will continue in the home for a further 5 days. Then, after a washout for at least a week, they will cross over to the opposite intervention for a further 7 day period. Our primary outcomes are the ammount of time spent euglycaemic (3.9 - 10mmol/L), and hypoglycaemic events (&lt;3.3mmol/L). We will recruit 14 participants.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Princess Margaret margaret Hospital Ethics Commitee</ethicname>
+      <ethicaddress>Princess Margaret Hospital
+Roberts Road
+Subiaco 6008
+Western Australia</ethicaddress>
+      <ethicapprovaldate>1/05/2014</ethicapprovaldate>
+      <hrec>2014040EP</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Martin de Bock</name>
+      <address>Princess Margaret Hospital
+Department Paediatric and Endocrinology
+1 Roberts Road
+Subiaco 
+WA 6008
+</address>
+      <phone>+61 8 93407915</phone>
+      <fax />
+      <email>martin.debock@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Martin de Bock</name>
+      <address>Princess Margaret Hospital
+Department Paediatric and Endocrinology
+1 Roberts Road
+Subiaco 
+WA 6008
+</address>
+      <phone>+61 8 93407915</phone>
+      <fax />
+      <email>martin.debock@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Martin de Bock</name>
+      <address>Princess Margaret Hospital
+Department Paediatric and Endocrinology
+1 Roberts Road
+Subiaco 
+WA 6008
+</address>
+      <phone>+61 8 93407915</phone>
+      <fax />
+      <email>martin.debock@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Martin de Bock</name>
+      <address>Princess Margaret Hospital
+Department Paediatric and Endocrinology
+1 Roberts Road
+Subiaco 
+WA 6008
+</address>
+      <phone>+61 8 93407915</phone>
+      <fax />
+      <email>martin.debock@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

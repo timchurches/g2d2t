@@ -1,0 +1,231 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343361">
+  <stage>Registered</stage>
+  <submitdate>17/08/2011</submitdate>
+  <approvaldate>29/08/2011</approvaldate>
+  <actrnumber>ACTRN12611000919910</actrnumber>
+  <trial_identification>
+    <studytitle>Are post-operative antibiotics indicated in simple appendicitis? A prospective randomized trial.</studytitle>
+    <scientifictitle>Is a single dose of prophylactic antibiotics as effective as a three dose regime in preventing post-operative infection in paediatric patients with simple appendicitis?</scientifictitle>
+    <utrn>U1111-1123-7877</utrn>
+    <trialacronym />
+    <secondaryid>ClinicalTrials.gov: NCT01420367</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Simple Appendicitis</healthcondition>
+    <healthcondition>Post-operative Infection</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Single pre-operative dose of antibiotics (IV metronidazole 12.5mg/kg up to 500mg and IV cefazolin 25mg/kg up to 1g)
+administered at the time of induction.
+And Normal Saline (used as a placebo) IV 10mL given at 8 and 16 hours after the antibiotics.</interventions>
+    <comparator>Three doses of antibiotics:
+One pre-operative dose of IV metronidazole 12.5mg/kg up to 500mg and IV cefazolin 25mg/kg up to 1g
+administered at the time of induction
+Two post-operative dose at 8 and 16 hours after the first dose (IV metronidazole 12.5mg/kg up to 500mg and IV cefazolin 25mg/kg up to 1g)</comparator>
+    <control>Dose comparison</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Post-operative infection - defined as wound infection (red, swollen, hot around site of incision), fever (temperature &gt;38.5 degrees celsius) or signs of sepsis (tachycardia, hypotension, raise white cell count and CRP).  This is assessed in hospital whilst still an inpatient and at a 6 week follow-up phone call to see if they have been ill since, seen their GP or attended hospital.</outcome>
+      <timepoint>6 weeks following surgery</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Requirement for further antibiotics - administered by the patients general practitioner or at a hospital due to suspected infection (as per primary outcome 1).  Patients will be telephoned at 6 weeks post-operation to assess whether they have visited their GP or another hospital.</outcome>
+      <timepoint>6 weeks following surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to discharge</outcome>
+      <timepoint>From surgery til discharge home</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Re-admission:   Assessed with 6 week follow-up phone call to see if they have presented at hospital since the operation</outcome>
+      <timepoint>6 weeks following surgery</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients who have their appendix removed and are found on operation to have simple appendicitis as defined in the Cochrane review (an appendix that is non-inflamed, acutely inflamed, phlegmonous, suppurative or mildly inflamed).</inclusivecriteria>
+    <inclusiveminage>4</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>16</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-Any patient whose guardian does not wish for them to participate in the study.
+- Patients who on operation are found to have complicated appendicitis defined as an appendix that is gangrenous or perforated.  
+-Patients who pre-operatively appear to be acutely septic or for another reason require extended antibiotic therapy. 
+- Patients who, at operation, are found to have other pathology e.g. Meckels Diverticulum, Intussusception; requiring surgical or medical intervention.
+-Patients who have additional co-morbidities, including diabetes, immuno-suppression, cardiac, renal or liver failure. 
+- If the child continues to show sign of sepsis, in terms of fever, tachycardia, he/she will be discontinued from the study and be given additional doses of antibiotics, as clinically indicated.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Enrollment:  All patients who are being taken to theatre for laparoscopic appendectomy will be consented with regard to the study pre-operatively.  ). An information sheet will be provided to parents.  In theatre the surgeon makes a decision as to whether patient meets the inclusion criteria (appears to have simple appendicitis) and at this point enrolment takes place.  
+
+Treatment Allocation:  Randomisation will occur at the pharmacy department using a computerised random number generator to determine group allocation.  The pharmacy will distribute individually labelled, identical appearing syringes containing whether antibiotics or placebo (normal saline).
+
+Allocation Concealment:  Allocation to single or three dose groups will be triple blinded, that is concealed from the patient, treating team and outcome assessors.</concealment>
+    <sequence>Random number generation using excel.  Excel is used to randomly order numbers 1 to 300 with the first 150 numbers listed being allocated to group 1 (single dose + placebo) and the second 150 being allocated to group 2 (three doses).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/11/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Nicole Mennie, BMedSci Student</primarysponsorname>
+    <primarysponsoraddress>Department of Paediatrics, Department of Surgery
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences, Level 5, Block E, Monash Medical Centre, 246 Clayton Rd, Clayton, VIC 3168</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Department of Paediatrics, Department of Surgery, Monash Medical Centre</fundingname>
+      <fundingaddress>Southern Medical School, Faculty of Medicine, Nursing and Health Sciences, Level 5, Block E, Monash Medical Centre, 246 Clayton Rd, Clayton, VIC 3168</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Prof Wei Cheng</sponsorname>
+      <sponsoraddress>Department of Paediatrics, Department of Surgery
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences, Level 5, Block E, Monash Medical Centre, 246 Clayton Rd, Clayton, VIC 3168</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Monash University</sponsorname>
+      <sponsoraddress>BMedSci Course Administrator
+Faculty of Medicine, Nursing and Health Sciences
+Building 15 Reception, Monash University VIC 3800</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Peter Ferguson</othercollaboratorname>
+      <othercollaboratoraddress>Department of Paediatrics, Department of Surgery
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences, Level 5, Block E, Monash Medical Centre, 246 Clayton Rd, Clayton, VIC 3168</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This project will compare patients 16 years and under with simple appendicitis (appendicitis that is not perforated or gangrenous).  Patients will be randomly divided into two groups; 
+- Group one will receive a single pre-operative dose of antibiotics (metronidazole 12.5mg/kg up to 500mg and cefazolin 25mg/kg up to 1g) and two doses of normal saline (placebo) eight and sixteen hours after the initial dose, respectively.  
+- Group two will receive one pre-operative dose of antibiotics (metronidazole 12.5mg/kg up to 500mg and cefazolin 25mg/kg up to 1g) and two post-operative doses, eight and sixteen hours after the first dose, respectively.  
+
+Group allocation will be concealed from the patient and their guardian, the treating surgical team and outcome assessors (triple blinded).  A process to rapidly reveal group allocation if required will be in place. 
+
+The aim of the study is to determine if a single dose of antibiotics is as effective as three doses in preventing post-operative infection.  This will be assessed by comparing:
+- Duration of hospital stay from operation until discharge, based on a standardised discharge criteria.
+- Development of wound infection or requirement of antibiotics in the six weeks post-operation 
+- Need for re-admission.  
+
+Information will be collected prospectively from each patients hospital notes and from a follow-up phone call six weeks after the operation.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health HREC</ethicname>
+      <ethicaddress>Research Support Unit, Level 4 Main Block
+Monash Medical Centre, 246 Clayton Rd, Clayton, VIC 3168</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>31/08/2011</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Prof Wei Cheng</name>
+      <address>Department of Paediatrics, Department of Surgery,
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences
+Level 5 Block E, Monash Medical Centre, 
+246 Clayton Rd, Clayton
+VIC 3168</address>
+      <phone>+61395945500</phone>
+      <fax />
+      <email>wei.cheng@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Prof Wei Cheng</name>
+      <address>Department of Paediatrics, Department of Surgery,
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences
+Level 5 Block E, Monash Medical Centre, 
+246 Clayton Rd, Clayton
+VIC 3168</address>
+      <phone>+61395945500</phone>
+      <fax />
+      <email>wei.cheng@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nicole Mennie</name>
+      <address>Department of Paediatrics, Department of Surgery,
+Southern Medical School, Faculty of Medicine, Nursing and Health Sciences
+Level 5 Block E, Monash Medical Centre, 
+246 Clayton Rd, Clayton
+VIC 3168</address>
+      <phone />
+      <fax />
+      <email>nmmen4@student.monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362706">
+  <stage>Registered</stage>
+  <submitdate>18/07/2012</submitdate>
+  <approvaldate>30/07/2012</approvaldate>
+  <actrnumber>ACTRN12612000798864</actrnumber>
+  <trial_identification>
+    <studytitle>A randomised trial of patient centred intervention to reduce re-presentations of older people at risk after discharge from the emergency department</studytitle>
+    <scientifictitle>In older people at risk after discharge from the emergency department (ED), is a patient centred intervention post discharge more effective than standard care in reducing re-presentation to the ED within 28 days?</scientifictitle>
+    <utrn>U1111-1132-2577</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Geriatric syndromes</healthcondition>
+    <healthcondition>Depression</healthcondition>
+    <healthcondition>Polypharmacy</healthcondition>
+    <healthcondition>Cognitive impairment</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Care coordination commenced by a research team member within 72 hours of ED discharge. 
+We will conduct a home assessment to supplement assessments done prior to discharge, and in conjunction with the patient formulate specific plans based around identifiable risks. Initial contact will involve establishment of rapport and commencement of assessment including assisting the patient (+/- family/carer as appropriate) to express their understanding of their risk for early re-presentation and potentially modifiable contributing factors.
+Further information will then be provided to the patient regarding their identifiable risks found on risk assessment, and what services may be available so that the patient can make an informed choice regarding their options.
+Research staff will have a coordinating and advisory role assisting the patient/carer in invoking these plans. These will be directed towards addressing where possible risks found from our risk algorithm which was used to identify the patient at high risk of re-presentation.
+It is estimated that the duration of initial home assessment will be 1.5 hours, and on average this will be followed by 2x1 hour further face to face sessions and 20 minute weekly telephone contact for a minimum of 4 weeks</interventions>
+    <comparator>Unspecified post discharge instruction and care at the discretion of the ED team.</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>28 day reattendance rate to ED assessed by patient contact triangulated with hospital electronic ED attendance data</outcome>
+      <timepoint>28 days post enrolment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to 1st ED presentation post discharge assessed by patient contact triangulated with hospital electronic ED attendance data</outcome>
+      <timepoint>Number of days after enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Count of ED presentations in 12 months post enrolment assessed by patient contact triangulated with hospital electronic ED attendance data</outcome>
+      <timepoint>One year after enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to 1st hospital admission assessed by patient contact triangulated with hospital electronic admission data</outcome>
+      <timepoint>Number of days after enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Count of admissions in 12 months post enrolment assessed by patient contact triangulated with hospital electronic admission data</outcome>
+      <timepoint>One year after enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>12 month mortality rate assessed by mortality registry data</outcome>
+      <timepoint>One year after enrolment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>12 month rate of admission to residential aged care facility assessed by patient contact</outcome>
+      <timepoint>One year after enrolment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Age at least 65 years old
+2. Live in geographical area of Perth Western Australia covered by post discharge community services
+3. Identified as high risk (approximately 35% or higher probability) for re-presentation based on our risk algorithm
+4. Informed consent
+5. Meet occupational health and safety policy on safe home and community visiting</inclusivecriteria>
+    <inclusiveminage>65</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Resident of high level aged care facility
+2. No fixed residential address
+3. Currently under palliative care services, or deemed not likely to survive longer than 90 days
+4. Discharged without ED care coordination team assessment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients aged 65 years and over where discharge from ED is planned will be assessed by a care coordination team. Part of this assessment will be to use a risk algorithm to determine their probability of ED reattendance post discharge. The algorithm is based on previous research done by our group that has found certain risk factors such as depression, polypharmacy and cognitive impairment are most influential in detrmining reattendance risk. Those who meet all inclusion criteria will be randomised to either post discharge care coordination follow up, or standard care. Randomisation and allocation concealment will be done by computer using a remote secure web based program. It will not be possible to know which group the patient is randomised to until after consent and enrolment.</concealment>
+    <sequence>Web based random number sequence</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/10/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>Stirling Hwy
+Crawley
+WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>State Health Research Advisory Council</fundingname>
+      <fundingaddress>Research Development Unit
+Health Department of Western Australia
+189 Royal St
+East Perth
+WA 6004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Royal Perth Hospital</othercollaboratorname>
+      <othercollaboratoraddress>Wellington St
+Perth
+WA 6000</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>At least 20% of older people that are seen in a hospital emergency department and discharged will reattend the ED within 28 days. There are many negative consequences associated with ED reattendance and rehospitalisation soon after discharge. We will conduct a randomised trial to determine whether referral to and intervention by a Complex Needs Coordination Team after discharge can reduce the risk of ED reattendance.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Perth Hospital HREC</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>25/07/2012</ethicsubmitdate>
+      <ethiccountry />
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Glenn Arendts</name>
+      <address>Emergency Medicine 
+
+School of Primary, Aboriginal and Rural Health Care 
+
+Faculty of Medicine, Dentistry and Health Services 
+
+University of Western Australia 
+
+2nd Floor, R Block, QE11 Medical Centre 
+
+NEDLANDS WA 6009</address>
+      <phone>61 8 93464354</phone>
+      <fax />
+      <email>glenn.arendts@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Ms Roz Jaworski</name>
+      <address>Emergency Medicine 
+
+School of Primary, Aboriginal and Rural Health Care 
+
+Faculty of Medicine, Dentistry and Health Services 
+
+University of Western Australia 
+
+2nd Floor, R Block, QE11 Medical Centre 
+
+NEDLANDS WA 6009</address>
+      <phone>61 8 93464354</phone>
+      <fax />
+      <email>roz.jaworski@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Glenn Arendts</name>
+      <address />
+      <phone />
+      <fax />
+      <email>glenn.arendts@uwa.edu.au</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

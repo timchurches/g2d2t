@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368534">
+  <stage>Registered</stage>
+  <submitdate>12/05/2015</submitdate>
+  <approvaldate>28/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000543583</actrnumber>
+  <trial_identification>
+    <studytitle>Identification of biomarkers that correlate with clinical features and outcomes following concussion</studytitle>
+    <scientifictitle>Identification of biomarkers that correlate with clinical features and outcomes following concussion</scientifictitle>
+    <utrn>U1111-1170-1199</utrn>
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Concussion</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>An observation of concussion for 28 days. Neuropsychological tests, biomarker levels and will be conducted on the day of presentation to the emergency department; MRI imaging will be conducted within the first week after injury where feasible. Neuropsychological tests and biomarker assays will be repeated at day 28; MRI will be repeated at day 28 if the first MRI was abnormal. </interventions>
+    <comparator>age matched controls not concussed</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Biomarkers in plasma will be assessed using commercially available kits. Biomarkers to be assessed include markers of structural damage, oxidative stress and altered metabolism (e.g. glial acidic fibrillary protein, a II-spectrin N-terminal fragment (SNTF), myelin basic protein, S100b, malondialdehyde, 4-hydroxynonenal, 8-hydroxy deoxyguanosine, 3-nitrotyrosine, carboxymethyl lysine, pan and/ or phosphorylated tau).</outcome>
+      <timepoint>Within 48 hours of injury</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Neuropsychological tests. The neuropsychological test battery is a composite outcome that will include measures assessing post-concussion symptoms, attention, learning, memory, executive functioning and effort. Specific tests will include the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), Trail Making Test (TMT), Rey 15 Item memory test and the Rivermead Postconcussion Questionnaire. The Depression, Anxiety and Stress Scale (DASS-21) will also be administered.</outcome>
+      <timepoint>Within 48 hours of injury</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>traumatic brain lesions using MRI, particular diffusion tensor imaging for myelin structure</outcome>
+      <timepoint>Within one week of injury</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biomarkers in plasma will be assessed using commercially available kits. Biomarkers to be assessed include markers of structural damage, oxidative stress and altered metabolism (e.g. glial acidic fibrillary protein, a II-spectrin N-terminal fragment (SNTF), myelin basic protein, S100b, malondialdehyde, 4-hydroxynonenal, 8-hydroxy deoxyguanosine, 3-nitrotyrosine, carboxymethyl lysine, pan and/ or phosphorylated tau).</outcome>
+      <timepoint>28 days after injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neuropsychological tests. The neuropsychological test battery is a composite outcome and will include measures assessing post-concussion symptoms, attention, learning, memory, executive functioning and effort. Specific tests will include the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), Trail Making Test (TMT), Rey 15 Item memory test and the Rivermead Postconcussion Questionnaire. The Depression, Anxiety and Stress Scale (DASS-21) will also be administered.</outcome>
+      <timepoint>28 days after injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>traumatic brain lesions using MRI, particular diffusion tensor imaging for myelin structure</outcome>
+      <timepoint>28 days after injury if 1st MRI abnormal</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>a.	Patients between 14 and less than 50 years of age
+b.	Presenting to ED within 48 hours of head injury with symptoms that may be attributable to that injury
+c.	Cranial CT scan shows no intracranial injury, or CT was not performed
+
+Age and sex matched control subjects will be recruited from healthy volunteers known to the researchers.
+</inclusivecriteria>
+    <inclusiveminage>14</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>50</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>a.	Glasgow Coma Scale (GCS) 13 or less at time of initial assessment.
+b.	Ward of state, prisoner, under mental health treatment order.
+c.	Deemed unlikely to comply with 28 day follow up e.g. homeless.
+d.	Head injury deemed to be entirely due to primary seizure.
+e.	Clinically unstable from other injury or other significant non-TBI injury.
+f.	Non English speaking.
+g.	Known pre-existing cognitive impairment, such as an intellectual disability.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>As an exploratory study to determine the feasibility of our approach, only basic univariate analysis with exact logistic regression is appropriate, due to the sample size. This will assist with determining an indication of effect, ie whether there is an association between the initial biomarkers and the diagnosis of post-concussion syndrome. The biomarker results will be compared to the MRI results and the neurocognitive test results. Comparisons to the healthy controls at baseline will use non-parametric tests (Wilcoxon rank sum or Mann-Whitney U test). Random effects regression will be used to investigate change over time in outcomes measured at baseline and 28 days. Statistical analysis will be performed with Stata version 13 (StataCorp, College Station, Texas). Descriptive statistics and 95% confidence intervals will be reported. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Case control</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/07/2015</anticipatedstartdate>
+    <actualstartdate>26/09/2015</actualstartdate>
+    <anticipatedenddate>30/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>50</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>The University of Western Australia, 35 Stirling Hwy, Crawley WA 6009 Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The University of Western Australia</fundingname>
+      <fundingaddress>The University of Western Australia, 35 Stirling Hwy, Crawley WA 6009 Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Royal Perth Hospital</sponsorname>
+      <sponsoraddress>Box X2213 GPO, 6847
+Perth WA</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Curtin University</sponsorname>
+      <sponsoraddress>Kent Street, Bentley, 6102, Western Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a study of patients presenting to the Emergency Department (ED) with concussion. Clinical data, imaging, neuropsychological testing and blood samples of patients with concussion will be correlated with outcomes. This may lead to the development of improved tools for diagnosis and prognosis, which could be used in future trials of treatment for concussion.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>WA Health</ethicname>
+      <ethicaddress>PO Box 8172, Perth Business Centre WA 6849</ethicaddress>
+      <ethicapprovaldate>11/09/2015</ethicapprovaldate>
+      <hrec>REG 15-062</hrec>
+      <ethicsubmitdate>8/05/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Melinda Fitzgerald</name>
+      <address>c/- Experimental and Regenerative Neurosciences, School of Animal Biology, M317, The University of Western Australia (UWA), 35 Stirling Hwy, Crawley 6009 WA</address>
+      <phone>61 8 6488 2353</phone>
+      <fax />
+      <email>lindy.fitzgerald@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Melinda Fitzgerald</name>
+      <address>c/- Experimental and Regenerative Neurosciences, School of Animal Biology, M317, The University of Western Australia (UWA), 35 Stirling Hwy, Crawley 6009 WA</address>
+      <phone>61 8 6488 2353</phone>
+      <fax />
+      <email>lindy.fitzgerald@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Melinda Fitzgerald</name>
+      <address>c/- Experimental and Regenerative Neurosciences, School of Animal Biology, M317, The University of Western Australia (UWA), 35 Stirling Hwy, Crawley 6009 WA</address>
+      <phone>61 8 6488 2353</phone>
+      <fax />
+      <email>lindy.fitzgerald@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Melinda Fitzgerald</name>
+      <address>c/- Experimental and Regenerative Neurosciences, School of Animal Biology, M317, The University of Western Australia (UWA), 35 Stirling Hwy, Crawley 6009 WA</address>
+      <phone>61 8 6488 2353</phone>
+      <fax />
+      <email>lindy.fitzgerald@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

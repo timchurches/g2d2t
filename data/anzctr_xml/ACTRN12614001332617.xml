@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366720">
+  <stage>Registered</stage>
+  <submitdate>1/12/2014</submitdate>
+  <approvaldate>18/12/2014</approvaldate>
+  <actrnumber>ACTRN12614001332617</actrnumber>
+  <trial_identification>
+    <studytitle>Does the P.A.R.T.Y. program (Prevent Alcohol and Risk-related Trauma in Youth) reduce alcohol-related harms in naval trainees?</studytitle>
+    <scientifictitle>Measuring the effectiveness of the in-hospital and new on-base P.A.R.T.Y. programs (Prevent Alcohol and Risk-related Trauma in Youth) in reducing alcohol-related harms in young naval trainees.</scientifictitle>
+    <utrn>U1111-1159-2906</utrn>
+    <trialacronym>P.A.R.T.Y. Defence</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Alcohol Related Harms
+</healthcondition>
+    <healthcondition>Alcohol related trauma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Epidemiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>P.A.R.T.Y. is an injury awareness and prevention program. Originally established in Canada in 1986, P.A.R.T.Y. now operates at over 100 sites around the world.  At the Alfred Hospital the National Trauma Research Institute operates the P.A.R.T.Y. in hospital intervention and has developed a number of related programs including P.A.R.T.Y. Defence and P.A.R.T.Y. On Base.  
+
+P.A.R.T.Y. in-hospital is a full day, injury awareness and prevention program. ` It aims to provide participants with information about trauma that will enable them to recognise potential injury-producing situations, make prevention-oriented choices, and adopt behaviors that minimise unnecessary risk. The program is designed to engage young people through interaction with emergency services personnel, health professionals, and patients who have experienced trauma and survived - often with significant disabilities. Holding the program within a hospital environment enhances the experience for the participants, and leaves a significant and lasting impression of the consequences of preventable trauma and risk taking behaviors. 
+
+The P.A.R.T.Y. On Base program is an intervention held on base for Australian Defence Force trainees.  P.A.R.T.Y. Defence on-base is a four hour program which aims to provide participants with information about trauma that will enable them to recognise potential injury-producing situations, make prevention-oriented choices, and adopt behaviours that minimise unnecessary risk. The program is designed to engage young people through interaction with emergency services personnel, health professionals, and patients who have experienced trauma and survived - often with significant disabilities. Engagement with health professionals and trauma survivors and their families enhances the experience for the participants, and leaves a significant and lasting impression of the consequences of preventable trauma and risk taking behaviours. 
+
+This is a two arm study comparing an educational intervention.
+
+Arm 1: P.A.R.T.Y. Defence In-Hospital (intervention for naval trainees)
+Arm 2: P.A.R.T.Y. Defence On-Base (Intervention held at HMAS Cerberus for Naval trainees)</interventions>
+    <comparator>No Intervention</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in AUDIT Score at 12mths post intervention</outcome>
+      <timepoint>12mth post intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in disciplinary actions following intervention.  This will be measured through participants personnel records which record all disciplinary actions.</outcome>
+      <timepoint>12mth post intervention </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in MDMQ-R at 12 mths post intervention</outcome>
+      <timepoint>This tool measures the motives of an individual in relation to drinking.  The intent is to monitor this pre and 12 months post intervention.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in P.A.R.T.Y. Defence Attitudes and Behaviours Questionnaire</outcome>
+      <timepoint>This tool looks specifically at cultural and attitudinal aspects of drinking in the ADF.  The intent is to monitor pre and 12 months post intervention. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Trainees in the Royal Australian Navy
+Age 18-25
+Able to attend either the on base of in hospital program
+
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>25</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Age &lt;18 or &gt;25
+Currently under disciplinary action that would result in discharge from the RAN in the next 12 months</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Enrolled from the general population during weeks 3-5 or recruit training.  Random allocation via a sealed opaque envelope
+</concealment>
+    <sequence>Randomisation for this study used Ralloc within the stata 12 software.  Randomisation was further stratified into male and female 
+</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Intention to treat analysis
+Post intervention  AUDIT, MDMQ-R and PARTY A&amp;BQ will be analysed using ANCOVA.  All ANCOVA models will be adjusted for Age, Gender, Faculty and Baseline scores
+Time to incident post intervention (Alcohol related offences etc) cox proportional hazards regression.
+Sample size calculation: 900 total sample with 300 trainees attending P.A.R.T.Y. Defence (in-hospital), calculated at 80% power to detect an 8% reduction in AUDIT score at 12 months, and 300 trainees attending P.A.R.T.Y. Defence (on-base), calculated at 80% power to detect an 8% reduction in AUDIT score at 12 months.  These calculations had a small basis in non published data from the Royal Australian Navy.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/03/2014</anticipatedstartdate>
+    <actualstartdate>31/03/2014</actualstartdate>
+    <anticipatedenddate>31/10/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>900</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Monash University</primarysponsorname>
+    <primarysponsoraddress>99 Commercial Rd
+Melbourne
+Vic 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Defence Health Foundation</fundingname>
+      <fundingaddress>Level 4
+380 St Kilda Rd
+Melbourne
+Vic 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Alfred Health</sponsorname>
+      <sponsoraddress>Commercial Rd
+Melbourne
+Vic 3004</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Royal Australian Navy</sponsorname>
+      <sponsoraddress>HMAS Cerberus
+Crib Point
+Victoria</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The National Trauma Research Institute (NTRI) has delivered the Prevent Alcohol &amp; Risk-related Trauma in Youth program or P.A.R.T.Y. at The Alfred in Melbourne since 2009.  P.A.R.T.Y. is a trauma prevention and health promotion initiative that seeks to build resilience in participants through the lived experience of a major trauma service, aiming to effect a change in the perception that traumatic injury will not happen to them. Through presentations from health professionals, encounters with trauma patients, tours through the critical care areas of the hospital, and hands on rehabilitation activities, P.A.R.T.Y. participants get to experience what trauma really feels like first hand.
+
+The NTRIs P.A.R.T.Y. Defence program for trainees has been operating at The Alfred since 2011.  A retrospective pilot evaluation is underway suggesting a benefit in those at-risk trainees who attended the in-hospital P.A.R.T.Y program. Repeat alcohol-related incidents in the program group are low.  However, in the absence of verified, published data on the numbers of alcohol-related incidents in at-risk trainees, a more robust research project that uses a validated screening tool and control groups is needed. 
+
+This proposed research program involves a randomized controlled trial; focused on new trainees. All participate trainees will complete the validated, World Health Organizations Alcohol Use Disorders Identification Test (AUDIT), which is a screening tool for alcohol-related behavior already used by the RAN in those deemed at risk. Participants will be randomly allocated to attend P.A.R.T.Y. Defence (either at the hospital or on-base at CERBERUS) or to not participate in P.A.R.T.Y. at all.  All participants will be followed up at 12 months to repeat the AUDIT and other measures in order to measure the effectiveness of P.A.R.T.Y. in reducing alcohol-related harms. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Australian Defence Human Research Ethics Committee (ADHREC)</ethicname>
+      <ethicaddress>Joint Health Command
+Department of Defence
+CP3-6-036 Campbell Park 
+PO Box 7912 
+Canberra BC ACT 2610 </ethicaddress>
+      <ethicapprovaldate>4/03/2014</ethicapprovaldate>
+      <hrec>739-13</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Jeffrey V Rosenfeld</name>
+      <address>Monash University
+Level 6
+99 Commercial Rd
+Melbourne
+Vic 3004</address>
+      <phone>+61399030190</phone>
+      <fax />
+      <email>j.rosenfeld@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jason Watterson</name>
+      <address>National Trauma Research Institute (NTRI)
+Level 4
+89 Commercial Rd
+Melbourne
+Vic 3004</address>
+      <phone>+61399030096</phone>
+      <fax />
+      <email>jason.watterson@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jason Watterson</name>
+      <address>National Trauma Research Institute (NTRI)
+Level 5
+99 Commercial Rd
+Melbourne
+Vic 3004</address>
+      <phone>+61399030096</phone>
+      <fax />
+      <email>jason.watterson@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Jason Watterson</name>
+      <address>Level 5
+99 Commercial Rd
+Melbourne
+Vic 3004</address>
+      <phone>+61399030096</phone>
+      <fax />
+      <email>jason.watterson@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

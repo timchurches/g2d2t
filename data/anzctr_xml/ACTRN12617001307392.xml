@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373602">
+  <stage>Registered</stage>
+  <submitdate>6/09/2017</submitdate>
+  <approvaldate>12/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001307392</actrnumber>
+  <trial_identification>
+    <studytitle>Trialing short message service reminders to parents for increasing adolescent Human papillomavirus (HPV) vaccination rates in a council delivered secondary school vaccine program</studytitle>
+    <scientifictitle>Trialing short message service reminders to parents for increasing adolescent Human papillomavirus (HPV) vaccination rates in a council delivered secondary school vaccine program</scientifictitle>
+    <utrn>U1111-1201-7060</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Genital warts</healthcondition>
+    <healthcondition>Cervical cancer</healthcondition>
+    <healthcondition>Human papillomavirus (HPV)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Sexually transmitted infections</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Context: In Victoria, the HPV vaccine is delivered with the Secondary School Vaccine Program. In this program, local government (i.e., councils) visit each participating school three times across the year to offer each dose of the HPV vaccine. Council can also contact parents for the purpose of delivering the program. However, councils do not send reminders to parents about an upcoming school session. We assessed whether sending a Short-Message-Service (SMS) reminder would increase HPV vaccination rates within the program.
+
+Intervention: Participating councils sent a reminder to parents (of students who had consent to receive the HPV vaccine within the Victorian Secondary School Vaccine Program) two working days before the third school visit (unless the school visit fell on a Monday or Tuesday, in which case the reminder was sent one working day before the visit). 
+
+There were two intervention conditions:  Motivational SMS (arm A) vs. Self-regulatory SMS (arm B), and one control condition: No SMS (arm C). The only difference between the intervention conditions was the message content:
+Arm A: Reminder from [council name]: [name of child] has a vaccine appointment at school this [day of week]. Vaccine preventable diseases are still a problem in the community and children most at risk are those that have not been immunised. Please contact [council phone number] if your child cannot attend.
+Arm B: Reminder from [council name]: [name of child] has a vaccine appointment at school this [day of week]. Make a plan now for how [name of child] will get to school on-time on immunisation day. Please contact [council phone number] if your child cannot attend. Thank you.
+The SMS reminders were personalised by including the childs name in the message (previous research shows this can increase the effect of communication).  
+</interventions>
+    <comparator>The control group (arm C) did not receive an SMS reminder. Their experience was the same as it would have been if they had not been involved in this research.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of participants who received a dose of the HPV vaccine on the day of the third school visit. Councils keep record of this data as part of their routine delivery of the school vaccine program.</outcome>
+      <timepoint>On the day of the third school visit (schools had their third school visit anytime from September to November (2016)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of participants who received a dose of the HPV vaccine from, and including, the day of the third school visit till the end of the year. Council collect this information as part of their routine delivery of the school vaccine program. This extended follow-up period was also assessed because some students may attend a council catch-up session after the third school visit. We wanted to account for this, to see if the interventions had a lasting effect. </outcome>
+      <timepoint>On the day of the third school visit up until the end of the year (2016). Note: schools had their third school visit anytime from September to November (2016).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>From the 79 councils in Victoria, the research team identified 12 with a sufficient number of schools in their catchment to participate in the study. The Victorian Department of Health and Human Services then invited these councils to participate in the study on behalf of the research team. Seven councils, representing 108 schools, agreed to participate in the research. From these schools, the research team identified eligible schools to participate in the study according to the following criteria: 1 ) equal to or greater than 20 students enrolled in year 7 to ensure the anonymity of the participating students, 2) the school had provided a class list with parental/guardian mobile phone numbers to enable intervention delivery, 3) the school had not already completed the third and final school visit (in 2016 the HPV vaccine was delivered over three school visits in Victoria), 4) the school did not have a grade 6 cohort  to reduce the risk of contamination, based on the assumption that parents are more likely to communicate with each other when they share a longer history at the school.. This resulted in 31 (28.70%) of the 108 schools being included in the study.
+
+Of the 5,479 year 7 students enrolled in these schools 4,386 (80.05%) had consent to receive the HPV vaccine within the secondary school vaccine program and were therefore included in the study.</inclusivecriteria>
+    <inclusiveminage>10</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>14</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Students who do not have consent to receive the HPV vaccine within the secondary school vaccine program.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Excel's RANDBETWEEN function was used to randomly allocate students into the trial arms.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Previous research using reminders to increase vaccination rates in adolescent populations have shown to have a small (i.e., ~ 3% point increase) but statistically significant effect (i.e., p&lt;.05). Using these estimates, along with an expected baseline line level of 90% (i.e., 90% of participants in the control condition will receive a dose of the vaccine at the third school visit) and standard levels of power (0.8) and standard two-sided significance testing, the current trial required at least n = 1,422 participants in each group. With three study conditions this bring the total required sample size to N = 4,266 participants.
+
+Prior to analysing the results of the trial, a series of randomisation checks were conducted. The aim of these was to determine whether the randomisation process was effective at creating three equivalent groups. This was done using chi-square (categorical factors) and ANOVA (continuous factors). None of the randomisation checks showed a significant difference between the study conditions,
+
+Data analysis: Chi-square analysis of independence (Bonferroni method) was conducted to assess whether the intervention conditions increased the likelihood of a student receiving the HPV vaccine, and if so, which message was most effective.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/08/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>31/08/2016</actualenddate>
+    <samplesize>4266</samplesize>
+    <actualsamplesize>4386</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>27/01/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Monash University</primarysponsorname>
+    <primarysponsoraddress>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton VIC 3800
+Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Public Sector Innovation, Department of Premier and Cabinet, Victorian State Government</fundingname>
+      <fundingaddress>Public Sector Innovation
+Department of Premier and Cabinet
+Level 29, 35 Collins Street, 
+Melbourne VIC 3000
+Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Department of Health and Human Services</sponsorname>
+      <sponsoraddress>Immunisation Section,
+Health Protection Branch 
+Regulation, Health Protection &amp; Emergency Management Division 
+Department of Health &amp; Human Services
+50 Lonsdale Street
+Melbourne, VIC, 3000 </sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Like many countries around the world, Australia is committed to vaccination as evidenced by programs and regulations at all levels of government. However, these initiatives have generally not drawn upon behavioural science to influence vaccination rates. The Gardasil quadrivalent 3-dose human papillomavirus (HPV) vaccine, which protects against genital warts and most cervical cancers, is provided in Victoria through a secondary school program, administered by local government (i.e., councils). This study aimed to test the hypothesis that sending an SMS reminder to parents/guardians who had consented to their child receiving the HPV vaccine would lead to greater HPV vaccine uptake within the council delivered school vaccination program. The secondary aim was to assess the effect of self-regulatory versus motivational message content in the SMS.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Monash University Human Research Ethics Committee </ethicname>
+      <ethicaddress>Monash University
+Room 111, Chancellery Building E
+24 Sports Walk
+Clayton Campus
+Wellington Rd
+Clayton VIC 3800, Australia</ethicaddress>
+      <ethicapprovaldate>6/05/2016</ethicapprovaldate>
+      <hrec>CF16/1385 - 2016000753</hrec>
+      <ethicsubmitdate>27/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373602-Monash Ethics Approval DHHS Trial 1.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter Bragge</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton VIC 3800
+Australia</address>
+      <phone>+61 3 9905 9664</phone>
+      <fax />
+      <email>peter.bragge@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton VIC 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton VIC 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton VIC 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

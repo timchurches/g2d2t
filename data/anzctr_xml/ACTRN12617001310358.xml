@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373603">
+  <stage>Registered</stage>
+  <submitdate>7/09/2017</submitdate>
+  <approvaldate>12/09/2017</approvaldate>
+  <actrnumber>ACTRN12617001310358</actrnumber>
+  <trial_identification>
+    <studytitle>Trialling a modified consent card and school package for improving outcomes in the secondary school vaccine program</studytitle>
+    <scientifictitle>Trialling a modified consent card and school package to increase consent card return rates, vaccination rates, and improve data quality within the secondary school vaccine program</scientifictitle>
+    <utrn>U1111-1201-7581</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Genital warts</healthcondition>
+    <healthcondition>Cervical cancer</healthcondition>
+    <healthcondition>Human papillomavirus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Sexually transmitted infections</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Background: In order for a student to be immunised within the secondary school vaccine program, their parent or guardian must complete and return a vaccine consent card. Unfortunately, approximately 9% of students do not return a consent card, and without further contact from council are prevented from receiving vaccines within the school program. This also occurs when parents/guardians return the consent card with missing or incorrect information leaving follow-up actions necessary for a valid consent. With this backdrop, efforts to improve consent card return rates and data quality have the potential to increase vaccination rates.
+
+Within the school vaccine program, state government (i.e., Department of Health and Human Services (DHHS)) distribute the consent card to local government (i.e., councils). Each council then distributes the consent cards to the schools in their area. The school immunisation coordinator (i.e., person at the school responsible for managing the vaccine program at the school) distributes and collects the consent cards from parents/students and then council come back to the school to collect the returned cards.
+
+Intervention (arm A): A new consent card was trialled (card incorporated plain language and social norming principles) alongside a new mode of card delivery. Specifically, DHHS distributed the consent cards directly to schools along with a letter to the school Principal and the school immunisation coordinator (the letters also incorporated social norming principles). They did this during December 2016. They also distributed a smaller batch of cards early in the school year (February 2017) so schools could re-distribute the consent card to any students who had not returned a consent card. The letters were personalized (i.e., the name of the school Principal / school immunization coordinator). 
+
+Please find the new consent card and letters attached to the original ANZCTR registration record.</interventions>
+    <comparator>Control (arm B). The control group did not receive the intervention. They continued to receive the older card from council as per normal.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of year 7 students who returned a consent card.
+
+Councils keep track of this information as part of their usual delivery/management of the school vaccine program (i.e., number of students enrolled in year 7 and number of cards returned).</outcome>
+      <timepoint>Within one week of the first school visit of the 2017 secondary school vaccine program</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of returned cards that had missing or incorrect information.
+
+Council do not routinely collect this information, however, they do routinely check each card for this information. Hence, the researchers simply asked them to keep a tally of how many of the returned cards at each school had missing or incorrect information. </outcome>
+      <timepoint>Councils were asked to provide this information within one week of each school having their first school visit. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of all year 7 students who had a dose of the HPV vaccine at the first school visit.
+
+Councils routinely collect this information (number of students enrolled in year 7 and number of students who received a dose of the vaccine at the first school session).</outcome>
+      <timepoint>Councils were asked to provide this information within one week of each school having their first school visit. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>From the 79 councils across Victoria, only councils that have at least two schools who:
+1) had not received their 2017 consent cards
+2) were expected to have more than 20 students enrolled in year 7 in 2017.
+
+Schools that fit within this description (within participating councils) were included in the study.</inclusivecriteria>
+    <inclusiveminage>10</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>14</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>There were no unique exclusion criteria for any participant group (i.e., school Principals, school immunization coordinators, students) beyond that outline above in the key inclusion criteria section. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed.</concealment>
+    <sequence>Excel's RANDBETWEEN function (with condition that each council has similar number of schools allocated to the intervention condition and the control condition).</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Councils provide the data in aggregate format (i.e., for each school in their area they list 1) number of year 7 students enrolled, number of cards returned, number of cards with missing or incorrect information, number of HPV encounters at first school visit). The research team then turned this into individual level data to use for analysis.
+
+Analysis: Multilevel Modeling where the outcome is regressed onto study condition whilst accounting for the nested structure of the data (i.e, students nested within schools which are nested within councils).
+
+Prior to this a series of randomization checks will be performed (to ensure randomization lead to equivalent groups). The factors assessed include: School type (e.g., secondary vs. P-12 vs. special/language), school sector (e.g., state vs. independent vs. catholic), region (e.g., metro vs. regional).</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>5/12/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>28/02/2017</actualenddate>
+    <samplesize>10000</samplesize>
+    <actualsamplesize>14898</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>30/06/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Monash University</primarysponsorname>
+    <primarysponsoraddress>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton, VIC, 3800
+Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Public Sector Innovation, Department of Premier and Cabinet, Victorian State Government</fundingname>
+      <fundingaddress>Public Sector Innovation
+Department of Premier and Cabinet
+Level 29, 35 Collins Street
+Melbourne VIC 3000
+Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>Department of Health and Human Services</sponsorname>
+      <sponsoraddress>Immunisation Section
+Health Protection Branch
+Regulation, Health Protection &amp; Emergency Management Division
+50 Lonsdale Street
+Melbourne, VIC, 3000
+Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Gardasil quadrivalent 3-dose human papillomavirus (HPV) vaccine, which protects against genital warts and most cervical cancers, is provided in Victoria through a secondary school program, administered by local government (i.e., councils). In order for a student to be immunised within this program, their parent or guardian must complete and return a vaccine consent card. Unfortunately, approximately 9% of students do not return a consent card, and without further contact from council are prevented from receiving vaccines within the school program. This also occurs when parents/guardians return the consent card with missing or incorrect information leaving follow-up actions necessary for a valid consent. With this backdrop, efforts to improve consent card return rates and data quality have the potential to increase vaccination rates. 
+
+The aim of this trial was to assess whether these outcomes could be improved by modifying using a new consent card (card incorporated plain language and social norming principles) alongside a new mode of card delivery. Specifically, DHHS distributed the consent cards directly to schools along with a letter to the school Principal and the school immunisation coordinator (the letters also incorporated social norming principles). They did this during December 2016. They also distributed a smaller batch of cards early in the school year (February 2017) so schools could re-distribute the consent card to any students who had not returned a consent card. 
+
+It was hypothesized that this intervention (i.e., new and card and mode of delivery) would 1) increase the likelihood that a parent would complete and return the consent card, 2) the parent would be more likely to complete the card with no missing or incorrect information, and 3) more students would receive the HPV vaccine at the first school visit.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Monash University Human Research Ethics Commettee</ethicname>
+      <ethicaddress>Monash University
+Room 111, Chancellery Building E
+24 Sports Walk
+Clayton Campus
+Wellington Rd
+Clayton VIC 3800
+Australia</ethicaddress>
+      <ethicapprovaldate>7/11/2016</ethicapprovaldate>
+      <hrec>2016-1081-1027</hrec>
+      <ethicsubmitdate>19/10/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373603-Monash University HREC Approval.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373603-New Card_OUTSIDE PRINT.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373603-Letter to good performing school_FINAL.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373603-Letter to poor performing school_FINAL.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Peter Bragge</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton, VIC, 3800
+Australia</address>
+      <phone>+61 3 9905 9664</phone>
+      <fax />
+      <email>peter.bragge@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton, VIC, 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton, VIC, 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Fraser Tull</name>
+      <address>BehaviourWorks Australia
+Monash Sustainable Development Institute
+Monash University
+8 Scenic Boulevard, Clayton Campus
+Clayton, VIC, 3800
+Australia</address>
+      <phone>+61 (0)407 965 196</phone>
+      <fax />
+      <email>fraser.tull@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

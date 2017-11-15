@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366810">
+  <stage>Registered</stage>
+  <submitdate>29/07/2014</submitdate>
+  <approvaldate>14/08/2014</approvaldate>
+  <actrnumber>ACTRN12614000875606</actrnumber>
+  <trial_identification>
+    <studytitle>Novel feeding system to promote the establishment of breastfeeding after preterm birth a randomised controlled trial.</studytitle>
+    <scientifictitle>Effect of a novel teat feeding system on breast feeding and length of hospital stay in preterm infants.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>prematurity</healthcondition>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Breast feeding</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>novel teat that releases milk only when the infant sucks with sufficient vacuum to release valve. The teat was offered only when mother was not available to breastfeed and when a bottle feed was scheduled, until discharge from hospital. Mother's expressed breastmilk was the feed of choice. Pastuerised donor human milk was available for those infants &lt; 34 weeks gestation as an alternative and for those &gt; 34 weeks, gestation, preterm formula was used when mother's expressed breastmilk was not available.</interventions>
+    <comparator>routine care using standard teat that allows milk flow with gravity and compression of teat.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome> rates of breastfeeding (any breast-feeding)</outcome>
+      <timepoint>discharge from hospital</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>length of stay in hospital
+</outcome>
+      <timepoint>discharge home</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>transition from first suck feed (when bottle or breastfeed offered and any sucked e some or all of feed) to full breastfeeds (all breastfeeds). Clinical staff and mothers determined when suck feed either bottle or breast was offered.</outcome>
+      <timepoint>when full breastfeeding established</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>sucking vacuum and tongue movements during suck feeds and measured by ultrasound.
+</outcome>
+      <timepoint>during a suck feed using novel teat and during a breastfeed at a time convenient to mothers and usually in the week before discharge,</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>frequency of bottle feeding was ascertained by telephone call to mothers.</outcome>
+      <timepoint>3, 6 and 12 weeks post discharge from hospital</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>preterm infants born at 25-34 weeks gestation at King Edward Hospital, Perth, and whose mothers intended to breastfeed</inclusivecriteria>
+    <inclusiveminage>3</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>2</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>congenital anomalies, grade 4 intraventricular haemorrhage or preiventricular malacia, oral anomaliess(tongue tie, cleft palate).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>infants randomised once full enteral feeds established</concealment>
+    <sequence>sealed opaque coded envelopes containing computer generated treatment allocation were sequentially numbered and used for randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>R 2.9.0 for Mac OS X with additional packages nlme and lattice. analysis on intention to treat basis.
+Sample size of at least 60 infants was determined based on the ability to determine a 3-day difference in length of hospital stay, p value&lt;0.05.
+As per our ethics approval initially, we enrolled 30 infants (15 in each
+arm) as an internal pilot study in the first 3 months of the study period.
+ This data was be used to determine final sample size.  Pragmatically, we endeavoured to enrol all eligible infants admitted to the NICU to achieve a statistical power to detect a decrease in length of stay in hospital (primary endpoint) of at least 3 days for each infant.  Given that a total of 187 infants of &lt;33 wks GA were admitted during July-Dec 2010, we expected recruitment will be complete within 6 months.
+
+Following the pilot study a sample size of 30 in each group, as determined by a power calculation, was required to show a difference in length of stay of 3 days.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/08/2011</anticipatedstartdate>
+    <actualstartdate>3/08/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>16/03/2012</actualenddate>
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>King Edward Memorial Hospital - Subiaco</hospital>
+    <postcode>6008 - Subiaco</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Women's and Newborns' health service, WA</primarysponsorname>
+    <primarysponsoraddress>King Edward Hospital,
+ 374 Bagot RD,
+ Subiaco 6008, WA, Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Medela </fundingname>
+      <fundingaddress>Medela AG, 
+Lattichstrasse 4b,
+6341 Baar, Switzerland</fundingaddress>
+      <fundingcountry>Switzerland</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>Medela</sponsorname>
+      <sponsoraddress>Medela AG, 
+Lattichstrasse 4b,
+6341 Baar, Switzerland</sponsoraddress>
+      <sponsorcountry>Switzerland</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The use of the novel teat to feed expressed breastmilk when mother not available to breastfeed preterm baby resulted in a shorter length of stay in hospital (2.5 days corrected for gestational age at discharge (p=0.026) and weight (p=0.006). Infants in the novel teat group had less formula feeding a discharge (novel 35%, control 16%, p=0.036) but otherwise did not differ in respect to feeding.</summary>
+    <trialwebsite />
+    <publication>The trial results were presented at the scientific meetings of the Perinatal Society of Australia and New Zealand  in Adelaide 2013 (Improving transition time from tube to sucking feeds in breastfed preterm infants - novel teat study. K Simmer, Y Kok, K Nancarrow, A Hepworth) and at the Pediatric Academic Societies inVancouver 2014(Novel feeding system to promote establishment of breastfeeding after preterm birth - randomised clinical trial. K Simmer, Y Kok, K Nancarrow, A Hepworth, D Geddes).</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Women's and Newborns Health Service Ethics Committee</ethicname>
+      <ethicaddress>King Edward Hospital
+374 Bagot Rd,
+ Subiaco 6008, WA.</ethicaddress>
+      <ethicapprovaldate>5/07/2011</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Karen Simmer</name>
+      <address> Centre for Neonatal Research and Education,
+ M551 University of Western Australia,
+35 Stirling Highway,
+Crawley, Perth 6009.</address>
+      <phone>+61 8 93401262</phone>
+      <fax />
+      <email>karen.simmer@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Karen Simmer</name>
+      <address> Centre for Neonatal Research and Education,
+ M551 University of Western Australia,
+35 Stirling Highway,
+Crawley, Perth 6009.</address>
+      <phone>+61 8 93401262</phone>
+      <fax />
+      <email>Karen.simmer@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Karen Simmer</name>
+      <address> Centre for Neonatal Research and Education,
+ M551 University of Western Australia,
+35 Stirling Highway,
+Crawley, Perth 6009.</address>
+      <phone>+61 8 93401262</phone>
+      <fax />
+      <email>karen.simmer@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Karen Simmer</name>
+      <address> Centre for Neonatal Research and Education,
+ M551 University of Western Australia,
+35 Stirling highway,
+Crawley, Perth 6009.</address>
+      <phone>+61 8 93401262</phone>
+      <fax />
+      <email>Karen.simmer@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

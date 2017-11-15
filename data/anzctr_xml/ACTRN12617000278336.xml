@@ -1,0 +1,222 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369073">
+  <stage>Registered</stage>
+  <submitdate>25/08/2015</submitdate>
+  <approvaldate>23/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000278336</actrnumber>
+  <trial_identification>
+    <studytitle>Induction of Macrolide Resistance Post Azithromycin or Erythromcyin Treatment</studytitle>
+    <scientifictitle>intensity of induction of Macrolide Resistance Post Azithromycin or Erythromcyin Treatment in healthy participants</scientifictitle>
+    <utrn />
+    <trialacronym>The IMPACT trial</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>macrolide resistance</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>60 participants will be recruited and randomly assigned to receive either azithromycin (125mg) twice per day or Erythromycin ethylsuccinate 400mg twice per day for 4 weeks orally. adherence to therapy will be monitored by counting the number of tablets retuned after one week and 4 weeks.  80% adherence to therapy will be considered compliant.</interventions>
+    <comparator>Erythromcyin vs azithromycin </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To determine whether erythromycin and azithromycin differ in their respective propensities to induce macrolide resistance within commensal oropharyngeal flora in healthy participants (index case). Throat swabs will be assessed by PCR and sequencing of the resident streptococcal species.  Genetic determinants of macrolide resistance will be assessed before starting the drug, at weeks one and 4 after starting the drug and 30 days after finishing the drug. comparisons to baseline and between each group will be assessed to determine whether there is an increase in macrolide resistance, </outcome>
+      <timepoint>week 1, week 4 after starting study treatment and 30 days post end of intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine whether macrolide resistance also develops in the commensal oropharyngeal flora of close household contacts of the index case, who is consuming macrolides in the short-term (within 4 weeks).  Throat swabs will be assessed by PCR and sequencing of the resident streptococcal species. Genetic determinants of macrolide resistance will be assessed before starting the drug, at weeks one and 4, and 30 days after finishing the study. comparisons between treated subjects and their household contacts will be assessed to determine whether there is an increase in macrolide resistance in the untreated group also, </outcome>
+      <timepoint>week 1, week 4 after starting study treatment and 30 days post end of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine the effect of macrolide antibiotics upon oropharyngeal microbiota composition. Throat swabs will be assessed by PCR and sequencing of the resident streptococcal species.  Genetic determinants of macrolide resistance will be assessed before starting the drug, at weeks one and 4 after starting the drug and 30 days after finishing the drug. comparisons to baseline and between each group will be assessed to determine whether there is a difference in macrolide resistance induction between the two drugs, </outcome>
+      <timepoint>week 1, week 4 after starting study treatment and 30 days post end of intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine changes in resistance gene profiles in oropharyngeal flora in response to macrolide antibiotic therapy.  Throat swabs will be assessed by PCR and sequencing of the resident streptococcal species. Genetic determinants of macrolide resistance will be assessed before starting the drug, at weeks one and 4 after starting the drug and 30 days after finishing the drug. comparisons to baseline and between each treatment group, </outcome>
+      <timepoint>week 1, week 4 after starting study treatment and 30 days post end of intervention</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Consenting individual
+Non-smoker
+Nil antibiotics for 3 months prior to study enrolment; no macrolide antibiotic for 12 months
+Nil current illness
+Ability to provide a consenting close cohabitant
+
+Cohabitant defined as someone who has more than 4 hours of interaction with the index case on at least 5 days per week
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Smoking
+Chronic lung disease including asthma if on corticosteroids
+Use of any antibiotic within the preceding 3 months
+Use of any Macrolide antibiotic within the preceding 12 months
+Current use of any antibiotic
+Respiratory tract illness within the preceding 1 month
+current respiratory tract illness
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>patients will be recruited from the general community and randomised using a computer-generated randomisation sequence by the pharmacist.  The patient and the investigating team are blinded to drug allocation. Both drugs look the same.</concealment>
+    <sequence>Computer-generated randomisation sequences, will be generated and held by the Mater Health services pharmacy department</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Multiplex endpoint PCR assay will be used to determine the presence of a panel of resistance genes as described in Malhotra Kumar
+Quantification of bacterial resistance genes 
+Multiplex endpoint PCR assay will be used to determine the presence of a panel of resistance genes (erm(A), erm(B), mef, tet(M), tet(O), tet(K), tet(L) as described in Malhotra-Kumar.
+Where resistant genes are detected; gene specific qPCR assays will be used to determine their abundance relative to total bacterial load. This will be determined by 16srRNA gene qPCR as previously detailed in Rogers GB et al
+Microbiota composition analysis
+Oropharyngeal swabs will undergo DNA extraction, followed by paired-read 16S-rRNA gene V1-V3 amplicon sequencing, using the illumine MISeq platform as per Rogers GB et al 
+Subsequent data analysis will utilize the following principles: Bray Curtis dissimilarity matrices will be generated based on microbiota profiles from visit 1, 2 and 3 samples. Distribution of microbiota similarity will be visualized by nonmetric multidimensional scaling (NMS) and the existence of significant between group differences tested by PERMANOVA test. Specifically assessment will be made on whether significant differences exist in microbiota composition between azithromycin or erythromycin groups at each timepoint. Where significant variances occur, SIMPER analysis will be used to determine the contribution to observed subgroup differences in microbiota composition by determining individual bacterial taxa as described in Rogers GB et al. . Significance of these taxon-level differences will be tested based on relative abundance variation (Mann Whitney U Test).
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>31/03/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/03/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Mater Adult Hospital - South Brisbane</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Mater misericordiae Ltd, South Brisbane</primarysponsorname>
+    <primarysponsoraddress>Raymond Terrace
+Aubigny Place
+South Brisbane QLD 4101</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Mater misericordiae Ltd</fundingname>
+      <fundingaddress>Respiratory Research Department
+Raymond Terrace
+Aubigny Place
+South Brisbane QLD 4101
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>to determine whether in normal healthy volunteers without recent antibiotic exposure, one month of daily erythromycin treatment will induce lower rates of macrolide resistance in commensal oropharyngeal flora than one month of daily azithromycin</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Misericordiae Ltd. Human Research Committee</ethicname>
+      <ethicaddress>Level 2, Aubigny Place
+Raymond Terrace
+South Brisbane, QLD 4101</ethicaddress>
+      <ethicapprovaldate>21/05/2015</ethicapprovaldate>
+      <hrec>HREC/15/MHS/41</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Lucy Burr</name>
+      <address>Mater Research
+Respiratory Research Unit
+Level 3, Aubigny Place
+Raymond Terrace
+South Brisbane QLD 4101</address>
+      <phone>+61 7 3163 2128</phone>
+      <fax>+61 7 3163 8519</fax>
+      <email>lucy.burr@mater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Megan Martin</name>
+      <address>Mater Research
+Respiratory Research Unit
+level 3, Aubigny Place
+Raymond Terrace
+South Brisbane QLD 4101</address>
+      <phone>+61 7 3163 2128</phone>
+      <fax>+61 7 3163 8519</fax>
+      <email>megan.martin@mater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lucy Burr</name>
+      <address>Mater Research
+Respiratory Research Unit
+Level 3, Aubigny place
+raymond Terrace
+South Brisbane QLD 4101</address>
+      <phone>+61 7 3163 2128</phone>
+      <fax>+61 7 3163 8519</fax>
+      <email>lucy.burr@mater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Megan Martin</name>
+      <address>Mater Research
+Respiratory Research Unit
+Level 3, Aubigny place
+raymond Terrace
+South Brisbane QLD 4101</address>
+      <phone>+61 7 3163 2128</phone>
+      <fax>+61 7 3163 8519</fax>
+      <email>megan.martin@mater.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,367 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2590">
+  <stage>Registered</stage>
+  <submitdate>25/11/2009</submitdate>
+  <approvaldate>25/11/2009</approvaldate>
+  <nctid>NCT01020916</nctid>
+  <trial_identification>
+    <studytitle>Target Temperature Management After Cardiac Arrest</studytitle>
+    <scientifictitle>Target Temperature Management 33°C Versus 36°C After Out-of-hospital Cardiac Arrest, a Randomised, Parallel Groups, Assessor Blinded Clinical Trial</scientifictitle>
+    <utrn />
+    <trialacronym>TTM</trialacronym>
+    <secondaryid>TTM-1</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Out-of-hospital Cardiac Arrest</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: surgery - Target temperature 36°C
+Treatment: surgery - Target Temperature 33°C
+
+Experimental: Target Temperature 33°C - 
+
+Active Comparator: Target Temperature 36°C - 
+
+
+Treatment: surgery: Target temperature 36°C
+In hospital target temperature management to achieve a core body temperature of 36°C for 24 hours
+
+Treatment: surgery: Target Temperature 33°C
+In hospital target temperature management to achieve a core body temperature of 33°C for 24 hours
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>All-cause mortality</outcome>
+      <timepoint>Maximum follow-up with a minimum of 180 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite outcome of all-cause mortality and poor neurological function (CPC 3 and 4) and composite outcome of all-cause mortality and poor neurological function (modified Rankin Scale 4 and 5)</outcome>
+      <timepoint>180 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bleeding</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neurological function - Cerebral Performance Category, Modified Rankin Scale</outcome>
+      <timepoint>180 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pneumonia</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Electrolyte disorders</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hyperglycaemia &gt; 10 mmol/l</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hypoglycemia &lt; 3mmol/l</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cardiac arrhythmia</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The need for renal replacement therapy</outcome>
+      <timepoint>During day 1-7 of intensive care treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Landmark all-cause mortality</outcome>
+      <timepoint>180 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cerebral Performance Category (CPC) - CPC 1,2,3,4,5</outcome>
+      <timepoint>180 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Rankin Scale (mRS) - mRS 1,2,3,4,5,6</outcome>
+      <timepoint>180 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Age = 18 years old
+
+          -  Out-of-hospital cardiac arrest (OHCA) of presumed cardiac cause
+
+          -  Return of spontaneous circulation (ROSC)
+
+          -  Unconsciousness (Glasgow Coma Score &lt; 8) (patients not able to obey verbal
+             commands)after sustained ROSC</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  In-hospital cardiac arrest
+
+          -  OHCA of presumed non-cardiac cause, e.g. after trauma or dissection/rupture of major
+             artery OR Cardiac arrest caused by initial hypoxia (i.e. drowning, suffocation,
+             hanging).
+
+          -  Known bleeding diathesis (medically induced coagulopathy (e.g warfarin, clopidogrel)
+             does not exclude the patient).
+
+          -  Suspected or confirmed acute intracranial bleeding
+
+          -  Suspected or confirmed acute stroke
+
+          -  Unwitnessed asystole
+
+          -  Known limitations in therapy and Do Not Resuscitate-order
+
+          -  Known disease making 180 days survival unlikely
+
+          -  Known pre-arrest CPC 3 or 4
+
+          -  Temperature &lt; 30°C on admission
+
+          -  &gt; 4 hours (240 minutes) from ROSC to screening
+
+          -  Systolic blood pressure &lt; 80 mm Hg in spite of fluid loading/vasopressor and/or
+             inotropic medication/intra aortic balloon pump#
+
+               -  If the systolic blood pressure (SBP) is recovering during the inclusion window
+                  (220 minutes) the patient can be included.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>950</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/07/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Liverpool Hospital - Sydney</hospital>
+    <hospital>North Shore Hospital - Sydney</hospital>
+    <hospital>St George Hospital - Sydney</hospital>
+    <postcode> - Sydney</postcode>
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state>Prague</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pordenone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Trieste</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Luxembourg</country>
+      <state>Luxembourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Arnhem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Leeuwarden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Bergen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Gothenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Helsingborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Karlstad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Kungälv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Linköping</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Malmö</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Norrköping</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Trollhättan/Vänersborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Örebro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Geneva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bournemouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cardiff</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Reading</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Niklas Nielsen</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Scandinavian Critical Care Trials Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Copenhagen Trial Unit, Center for Clinical Intervention Research</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Lund University</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>The George Institute for Global Health, Australia</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Experimental studies and previous clinical trials suggest an improvement in mortality and
+      neurological function with hypothermia after cardiac arrest. However, the accrued evidence is
+      inconclusive and associated with risks of systematic error, design error and random error.
+      Elevated body temperature after cardiac arrest is associated with a worse outcome. Previous
+      trials did not treat elevated body temperature in the control groups. The optimal target
+      temperature for post-resuscitation care is not known. The primary purpose with the TTM-trial
+      is to evaluate if there are differences in all-cause mortality, neurological function and
+      adverse events between a target temperature management at 33°C and 36°C for 24 hours
+      following return of spontaneous circulation after cardiac arrest.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01020916</trialwebsite>
+    <publication>Nielsen N, Friberg H, Gluud C, Herlitz J, Wetterslev J. Hypothermia after cardiac arrest should be further evaluated--a systematic review of randomised trials with meta-analysis and trial sequential analysis. Int J Cardiol. 2011 Sep 15;151(3):333-41. doi: 10.1016/j.ijcard.2010.06.008. Epub 2010 Jul 1. Review.
+Nielsen N, Hovdenes J, Nilsson F, Rubertsson S, Stammet P, Sunde K, Valsson F, Wanscher M, Friberg H; Hypothermia Network. Outcome, timing and adverse events in therapeutic hypothermia after out-of-hospital cardiac arrest. Acta Anaesthesiol Scand. 2009 Aug;53(7):926-34. doi: 10.1111/j.1399-6576.2009.02021.x. Epub 2009 Jun 22.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Niklas Nielsen, MD, PhD</name>
+      <address>Helsingborgs lasarett, Region Skåne, Sweden</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

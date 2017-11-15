@@ -1,0 +1,339 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1755">
+  <stage>Registered</stage>
+  <submitdate>15/11/2007</submitdate>
+  <approvaldate>15/11/2007</approvaldate>
+  <nctid>NCT00559988</nctid>
+  <trial_identification>
+    <studytitle>Combined Use of BIOTRONIK Home Monitoring and Predefined Anticoagulation to Reduce Stroke Risk</studytitle>
+    <scientifictitle>The IMPACT of BIOTRONIK Home Monitoring Guided Anticoagulation on Stroke Risk in Patients With ICD and CRT-D Devices</scientifictitle>
+    <utrn />
+    <trialacronym>IMPACT</trialacronym>
+    <secondaryid>IMPACT</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Atrial Fibrillation</healthcondition>
+    <healthcondition>Atrial Flutter</healthcondition>
+    <healthcondition>Stroke</healthcondition>
+    <healthcondition>Embolism, Systemic Arterial</healthcondition>
+    <healthcondition>Major Bleeding</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Blood </conditioncode1>
+      <conditioncode2>Clotting disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Home Monitoring Guided OAC
+Treatment: drugs - Physician-Directed OAC
+
+Experimental: Home Monitoring Guided OAC - Home Monitoring is fully enabled and continuous remote surveillance data is available to investigators. Patients will be treated according to a predefined anticoagulation plan, which uses the total duration of AF/AFL combined with patients' CHADS2 score to determine the start, stop, and restart of OAC.
+
+Active Comparator: Physician-Directed OAC - In Control (Group 2), Home Monitoring is active for Safety Net alerts, but the remote AF/AFL data is not revealed to the patient or treating physician. These patients receive physician-directed OAC consistent with current standards of care.
+Safety Net data include:
+ERI/EOS
+Special Implant Status
+Implant in Backup Mode (ROM)
+VT/ VF Detection Inactive
+Emergency Pacing
+250 O &gt; RV Pacing Impedance &gt; 1500 O
+Symptomatic VT/VF therapies including both ATP and shock
+VT/VF storm
+HM transmission failure &gt;3 days
+
+
+Treatment: drugs: Home Monitoring Guided OAC
+Active monitoring for atrial episodes through the automatic HM notifications (email, fax, short message service) is required. If the total duration over 48 consecutive hours reaches the predefined anticoagulation condition, and AF/AFL diagnosis is confirmed using the IEGM online, the site instructs the patient by telephone to start OAC. Clinicians continue to monitor patients using HM, and if freedom from AF/AFL reaches the predefined interval, stop of OAC therapy is requested over the telephone. Following stop of anticoagulation, any recurrence of AF/AFL requires restart of OAC therapy.
+OAC drugs used: Dabigatran etexilate, Rivaroxaban, Warfarin, other approved VKA
+
+Treatment: drugs: Physician-Directed OAC
+Patients will receive physician-directed anticoagulation therapy based on conventional criteria.
+OAC drugs used: Dabigatran etexilate, Rivaroxaban, Warfarin, other approved VKA
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Composite Primary Endpoint: Kaplan-Meier Estimate of Patients Without a Stroke, Systemic Embolism, or Major Bleed - The primary endpoint is to demonstrate whether early detection of atrial arrhythmias based on BIOTRONIK Home Monitoring technology combined with a predefined anticoagulation plan in the Home Monitoring Guided OAC group is superior to the Physician-Directed OAC group reflecting conventional care and physician directed treatment of AF in terms of risk reduction of the primary composite endpoint including stroke, systemic embolism, and major bleeding events.</outcome>
+      <timepoint>From date of enrollment until date of primary endpoint event, assessed up to study exit, with a mean treatment duration of 2.0 years</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rates of All-cause Mortality, Stroke (Ischemic and Hemorrhagic, Disabling and Non-disabling, Cardioembolic and Non-cardioembolic), and Major Bleeding, as Well as the AF Burden, Quality of Life, and Mean Heart Rate Reduction. - Secondary endpoints will be evaluated in a hierachical closed test procedure. If at the termination of the study, the result for the primary endpoint is found to have reached statistical significance, then Secondary Endpoints will be tested in turn for statistical significance at a 0.05 significance level. If at any stage, however, a non-significant result is found, no further testing of remaining secondary endpoints for statistical analysis will occur.</outcome>
+      <timepoint>3 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Key 
+
+          -  Candidates for implantation of, or already implanted with, a BIOTRONIK Lumax HF-T or
+             DR-T device
+
+          -  Documented P wave mean amplitude = 1.0 mV (sinus rhythm) or = 0.5 mV (AF) at
+             enrollment, if previously implanted
+
+          -  CHADS2 risk score = 1
+
+          -  Able and willing to follow OAC therapy if the indication develops during the course of
+             the trial
+
+          -  Able to utilize the HM throughout the study
+
+        Key</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Permanent AF
+
+          -  History of stroke, transient ischemic attack (TIA) or systemic embolism and documented
+             AF or AFL
+
+          -  Currently requiring OAC therapy for any indication
+
+          -  Patients who underwent successful AF ablation (sinus rhythm restored) and have not
+             completed a minimum of 3 months of OAC therapy
+
+          -  Known, current contraindication to use of eligible OAC
+
+          -  Long QT or Brugada syndrome as the sole indication for device implantation
+
+          -  Life expectancy less than the expected term of the study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/02/2008</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>2718</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/06/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Wahroonga</hospital>
+    <postcode> - Wahroonga</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Mississippi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Tubingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Villingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Biotronik, Inc.</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The IMPACT Study will investigate the potential clinical benefit of the combined use of
+      BIOTRONIK Home Monitoring (HM) technology and a predefined anticoagulation plan compared to
+      conventional device evaluation and physician-directed anticoagulation in patients with
+      implanted dual-chamber defibrillators or cardiac resynchronization therapy devices.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00559988</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Jonathan L Halperin, M.D.</name>
+      <address>Mount Sinai Medical Center, New York, NY</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

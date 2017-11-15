@@ -1,0 +1,300 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366466">
+  <stage>Registered</stage>
+  <submitdate>3/06/2014</submitdate>
+  <approvaldate>10/06/2014</approvaldate>
+  <actrnumber>ACTRN12614000615684</actrnumber>
+  <trial_identification>
+    <studytitle>A night-lighting intervention to reduce inpatient falls: A stepped-wedge cluster randomised controlled trial</studytitle>
+    <scientifictitle>A single site, stepped-wedge cluster randomised controlled trial among hospitalised patients to determine the effect of a novel night lighting solution compared to usual care on ward level rates of patient falls.</scientifictitle>
+    <utrn>U1111-1157-6331 </utrn>
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Accidental Falls</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention in this study is a modified night-lighting solution that will be installed in all patient rooms (both shared rooms and single rooms) across trial wards. We will use low-output LED strip lighting with an output wavelength of 670 nm (orange colour), which will be housed in aluminium tracks with diffuser cover strips. The spectral characteristics of the light have been determined in line with prior research on relationships between blue wavelength lighting and alertness (an unwanted effect for night lighting) [1]. The lights will be installed in multiple locations within each patient environment; the orientation and illumination characteristics are based on prior published research and on findings of a preliminary clinical acceptability study conducted by this team.
+
+LED luminaires will be installed in the following three locations:
+
+i.	Around the exterior ensuite door-frame: To provide a visual reference point for patients attempting to mobilise to the toilet at night, we will install a continuous length of strip lighting around the exterior perimeter of the toilet door-frame. 
+ii.	Above the washbasin in the ensuite toilet: In a horizontal section below the mirror and above the wash basin.
+iii.	Behind the toilet and adjacent to the toilet: To facilitate easy visualisation of the immediate area around the toilet we will install one section of lighting behind to the toilet (above the cistern) and in a second section over the grab rail (where a wall-mounted grab rail is installed along the closest adjacent wall). Due to known inter-ward variability in location of toilets, type and location of grab-rails within ensuite bathrooms, it might not be feasible to install grab rail lighting in all locations (such as when the toilet is located equidistance from both adjacent walls and bilateral fold-back grab-rails are installed on the posterior wall on either side of the toilet). In such instances, we will make pragmatic decisions on implementation feasibility and variation, which will be comprehensively catalogued by the PI in a study journal.
+
+The lighting will be installed by hospital building and engineering service electricians such that 12 volt power-supply units and all wiring will be housed behind wall panels. While 24 hour operation of the lights is acceptable, we intend to automate the lights to gradually turn on at 5 PM and fade out at 7 AM by linking them with the hospital central timer. This will help maximise service life, reduce power consumption and eliminate the need for staff input. The on/off times have been selected to ensure that seasonal variations of sunrise and sunset times in Brisbane, Queensland are accounted for. Importantly, none of the existing lighting will be altered in any way, and staff and patients will have full use of existing lightings in patient rooms and toilets if the installed night lighting was considered inadequate or required supplementation, for example if additional light is required for patients with severe visual impairment, or if a medical emergency occurs. 
+
+The duration of the intervention period is 14 months from commencement. However, participating wards will be given the option to retain the modified night lighting at the end of the trial. I wards chose to retain the lighting, it will become part of ward infrastructure. If requested for removal, the lights will be deactivated upon trial completion and removed by RBWH building and engineering services subsequently.
+
+1. Cajochen, C (2007). "Alerting effects of light." Sleep medicine reviews 11.6: 453-464.
+</interventions>
+    <comparator>Control participants in this study will receive standard care from the multidisciplinary team involved in the management of patients in their ward. This will include the full range of assessments, interventions and level of care appropriate to their condition as per applicable guidelines and protocols. No treatments will be withheld or modified.</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Ward level 'rate of falls'. This will be compiled from:
+(1)  Incident reports routinely completed after inpatient falls and recorded on the Queensland Health clinical incident reporting system.
+(2) Contact with ward Nurse Unit Managers (NUMs) to identify unreported falls.
+(3) Extraction of relevant fall codes from the hospital admitted patient data collection (coded from medical charts).
+
+Data on occupied bed days (OBDs) will be extracted from the RBWH Decision Support System (DSS).
+</outcome>
+      <timepoint>Monthly data extraction across the 14 month trial period</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The proportion of patients who become 'fallers' in trial wards. As with falls rates, this data will be compiled from:
+
+(1)  Incident reports routinely completed after inpatient falls and recorded on the Queensland Health clinical incident reporting system.
+(2) Contact with ward Nurse Unit Managers (NUMs) to identify unreported falls.
+(3) Extraction of relevant fall codes from the hospital admitted patient data collection (coded from medical charts).</outcome>
+      <timepoint>Monthly data extraction across the 14 month trial period</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients admitted in study wards during the 14 month trial period will be included.</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Nil patient level exclusion criteria will apply. 
+
+As the unit of recruitment for the cluster RCT is a hospital ward, data pertaining to all patients admitted to trial wards will be included in analysis.
+
+Exclusion criteria applies to ward selection. All on-campus Royal Brisbane and Women's Hospital wards were placed on a list in descending order based on reported rates of falls over the preceding two years. Wards that were planned for refurbishment during the trial period were excluded. The top six remaining wards were approached for inclusion in this study.
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>We are pursuing a cluster RCT of stepped-wedge design and as a result no patient level randomisation will occur. 
+
+We will include six hospital wards in our study.
+An independent statistician will generate an implementation sequence across study wards using computer randomisation software. The sequence of transition from control to intervention phase will not be revealed en bloc and but rather one ward at a time and two months prior to the date of transition. This would mean that the first ward to transition to intervention will be revealed to the study team at baseline (month ‘0’), with the transition to occur at the start of month ‘2’. Similarly, the second ward to cross over will be revealed at the start of month ‘2’ and cross over at the start of month ‘4’. This advance notification of wards due for transitioning to the intervention phase is necessary to allow adequate time for the hospital building and engineering  services to complete and test the installations across all rooms in the ward (shared and single) in time for commencement of the intervention phase. </concealment>
+    <sequence>The sequence in which wards receiving the intervention will be selected randomly using the “sample” function in R (version 3.0.2). This selection will be made by an off-site statistician who is not involved in study conduct or data collection (Adrian Barnett). He will e-mail ward names to the chief investigator every two months.
+
+All wards will receive the intervention by the end of the trial period.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>This trial of  a roll-in stepped wedge cluster randomised controlled design as described by Hill, A. M., Waldron, N., Etherton-Beer, C., McPhail, S. M., Ingram, K., Flicker, L., &amp; Haines, T. P. (2014). A stepped-wedge cluster randomised controlled trial for evaluating rates of falls among inpatients in aged care rehabilitation units receiving tailored multimedia education in addition to usual care: a trial protocol. BMJ open, 4(1), e004195.
+
+</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Primary outcomes for the stepped wedge will be ward level rate of falls and the proportion of patients who become fallers. The analysis of these primary outcomes will be with multi-level mixed effects generalised linear models using a Bernoulli family and logit link for the proportion of patients who become fallers" outcome and a negative binomial family and log link for the "rate of falls" outcome. In these analyses, patient admissions will be nested within ward in the random effects part of the equation to take account of clustering of data by ward. The fixed part of the equation will examine group (intervention vs control) and adjust for time period.  We will also adjust for seasonal effects on fall rates (that is, we will enter a covariate based on how many falls there were on each ward over the same time period over the previous two years).
+
+We are limited in this study by practicality and resourcing constraints as to the number of wards available (six) and time over which we can conduct the study (14 months), and hence the overall anticipated sample is estimated to be 7,500 patients.  With these sample constraints, it is appropriate to directly calculate the likely effect size that we can detect with 80% power. Power for parallel cluster randomised trial designs can be calculated by using a conventional power analysis approach and then multiplying by a design effect [1+(n-1)*p where n = the number of subjects per cluster and p = the intra-cluster correlation coefficient] to take into account the dependency of observations within clusters [Campbell, M., Grimshaw, J., &amp; Steen, N. (2000). Sample size calculations for cluster randomised trials. Journal of health services research &amp; policy, 5(1), 12-16.].  The stepped-wedge design also has a within-cluster element (ie. all clusters provide intervention and control data), which provides power advantages to a parallel cluster RCT in a similar way to comparison of paired with unpaired t-tests. Hence a power calculation specific to stepped wedge designs is required.  One approach previously described highlights that stepped wedge designs could reduce the required sample size in cluster randomized trials [Woertman, W., de Hoop, E., Moerbeek, M., Zuidema, S. U., Gerritsen, D. L., &amp; Teerenstra, S. (2013). Stepped wedge designs could reduce the required sample size in cluster randomized trials. Journal of clinical epidemiology, 66(7), 752-758.] but is based upon the cohort style of stepped wedge design where individual participants are repeatedly measured across the length of the study.  This is not consistent with our planned study, which reflects more a cross-sectional style of stepped-wedge where individual participants are likely to only have one measurement for their involvement in the study. Fortunately, another power analysis approach based on the cross-sectional style of stepped-wedge trial examining a dichotomous outcome has been developed [Hussey, M. A., &amp; Hughes, J. P. (2007). Design and analysis of stepped wedge cluster randomized trials. Contemporary clinical trials, 28(2), 182-191].  
+
+Using this approach, our study has 83% power to detect an absolute reduction in the proportion of patients who are fallers (experience one or more falls) from 5% (in control) to 4% (in intervention) assuming 1071 patients per time period (total n=7500), a coefficient of variation of 0.4, and using 6 clusters (wards), 7 time periods (6 steps plus baseline), and a two-tailed alpha of 0.05.
+
+We aim  to evaluate likely cost-effectiveness of the intervention and this will be achieved through cost-utility modelling and concurrent break-even and return-on-investment analysis.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>11/06/2014</anticipatedstartdate>
+    <actualstartdate>12/06/2014</actualstartdate>
+    <anticipatedenddate>3/09/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>7500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <postcode>4029 - Royal Brisbane Hospital</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Brisbane and Women's Hospital, Queensland Health, Australia</primarysponsorname>
+    <primarysponsoraddress>Royal Brisbane and Womens Hospital
+Cnr Butterfield St and Bowen Bridge Rd
+Herston
+Queensland 4029</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Australian Centre for Health Services Innovation (AusHSI)</fundingname>
+      <fundingaddress>Postal Address 
+
+AusHSI Centre Manager
+C/- Institute of Health and Biomedical Innovation
+Queensland University of Technology
+GPO Box 2434
+BRISBANE QLD 4001
+
+Physical Address 
+
+Institute of Health and Biomedical Innovation
+Queensland University of Technology
+60 Musk Avenue
+Kelvin Grove 
+Queensland 4059</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>BACKGROUND
+
+Falls among older hospital patients are a concerning and costly problem. While most falls occur during the day, nearly 40% happen outside normal hours; potentially while patients attempt to mobilise to and from the toilet in poorly lit environments.  A practical solution for these problems is the installation of targeted low-intensity lighting around key room features without disrupting the dark sleep environment. Previous laboratory research has demonstrated improved postural stability and gait among older people with such lighting. Subsequent evaluations in aged care facilities have confirmed high levels of acceptance among staff and residents.  
+
+In order to test the clinical acceptability of this solution the investigative team recently completed a multi-site user acceptance study (unpublished). Formal patient and staff feedback after ward demonstrations of the novel lighting confirmed both acceptability and the likelihood of sleep and safety improvements. User feedback has been incorporated into the final intervention design for the present trial.
+
+AIM
+
+We aim to test the effect of the night lighting intervention on ward level patient fall rates. 
+
+METHODS
+ 
+The effect of our intervention on the primary outcome will be evaluated through a stepped-wedge cluster randomised controlled trial (RCT) across six inpatient wards at the Royal Brisbane and Women's Hospital over fourteen months. A stepped-wedge cluster RCT design describes a staggered roll-out of the intervention across participating wards such that the order of roll-out is randomly generated. Therefore, participating wards provide control data prior to implementation and intervention data after implementation.  
+ 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>Falls are among the most frequently reported adverse events among hospital patients [1]  and can result in serious injuries [2] that require costly care and increased hospital stays. Consequently, preventative strategies are are a priority [3]. 
+
+Falls in hospitalised patients are a multi-factorial issue [4] and while patient-related factors would be implicated in nearly all reported falls, many do involve environmental factors [5]. However, environmental factors have rarely been targeted through intervention trials,  with only one such trial reported which considered the effects of modified flooring in reducing falls in a sub-acute setting [6].
+
+Like flooring, night-time ward lighting is another environmental factor that may contribute to falls in inpatient settings. While poor lighting has been strongly implicated in the literature as an important cause of in-home falls, there are far fewer studies on lighting in hospital environments [7]. Nevertheless, a large proportion of all reported falls among admitted patients occur overnight (in excess of 50% by some estimates) [8] and many overnight falls are likely to be associated with patients attempting to mobilise independently to and from the bathroom. Considering that at least half of all admitted older patients will experience some degree of visual impairment [9] and that inadequate lighting is a significant contributor to unsteadiness and poor gait among certain older people [10], improved ward lighting should be viewed as a promising target for fall prevention interventions. 
+ 
+A relatively recent and novel approach to the illumination of dark environments for older people involves the use of low-output Light-Emitting Diode (LED) strip lighting. Laboratory studies with healthy older adults found that highlighting familiar architectural features (such as the toilet door) using such LED lighting improved postural control in critical early phases of sit to stand tasks [11] while still allowing the maintenance of an overall dark environment. These improvements were attributed to the availability of horizontal and vertical cues that facilitated better optical correction of posture. A subsequent study with the same lighting design solution reported improvements in dynamic balance during walking tasks among older people at risk of falls  [12]. A modest pilot trial undertook installations of low-output LED lighting in the residential aged care environment around the exteriors of toilet doorframes and in locations within the bathroom (over the wash basin and above the toilet) [13]. Qualitative feedback from residents and staff was uniformly positive over a number of questions spanning acceptability and subjective perception of lighting improvement. Clinical staff also indicated that they would be less likely to switch on overhead lights to conduct patient observations due to the presence of the night-lights. This has bearing on the hospital setting, as clinical staff also undertake frequent patient observations at night. This preliminary research and subsequent local clinical acceptability and feasiblity trials of LED based lighting have informed the final intervention design for the present study.
+
+1.Shaw R, Drever F, Hughes H et al. Adverse events and near miss reporting
+in the NHS. Qual Saf Health Care 2005;14:279283
+
+2.Krauss, M.J., et al (2005) A case-control study of patient, medication, and care-related risk factors for inpatient falls. J Gen Intern Med. 20( 2): 116122.
+
+3.Cameron, I. D., et al (2010) Interventions for preventing falls in older people in nursing care facilities and hospitals. Cochrane Database Syst Rev, 1
+
+4.Oliver, D, et al. (2004) Risk factors and risk assessment tools for falls in hospital in-patients: a systematic review. Age and ageing 33.2: 122-130.
+
+5.Tzeng, H-M, Yin C-Y (2008). The extrinsic risk factors for inpatient falls in hospital patient rooms. Journal of Nursing Care Quality 23.3: 233-241.
+
+6.Drahota, A et al. Pilot cluster randomised controlled trial of flooring to reduce injuries from falls in wards for older people. Age and ageing 42.5 (2013): 633-640.
+
+7.Hignett, S., Masud, T., (2006). A review of environmental hazards associated with in-patient falls. Ergonomics 49.5-6 605-616.
+
+8. Hitcho, E. B., et al. (2004). Characteristics and circumstances of falls in a hospital setting. Journal of General Internal Medicine, 19(7), 732-739.
+
+9.Kesler, et al. (2005). Shedding light on walking in the dark: the effects of reduced lighting on the gait of older adults with a higher-level gait disorder and controls. Journal of Neuro Engineering and Rehabilitation 2(1): 27.
+
+10.Jack, C. I. A., et al. (1995) Prevalence of low vision in elderly patients admitted to an acute geriatric unit in Liverpool: elderly people who fall are more likely to have low vision. Gerontology 41.5: 280-285.
+
+11. Figueiro, M. G., et al. (2008) A novel night lighting system for postural control and stability in seniors. Lighting Research and Technology 40.2: 111-126.
+
+12. Figueiro, Mariana G., et al. (2012) Lighting for improving balance in older adults with and without risk for falls. Age and ageing 41.3: 392-395.
+
+13. Taylor, J (2005) Hot Technologies: Advanced Lighting Technologies Enhance Resident Care. Retrieved 24 August 2013 from https://www.google.com.au/search?q=led+lighting+figueiro+nursing&amp;hl=en&amp;safe=active
+</publicnotes>
+    <ethicscommitee>
+      <ethicname>Royal Brisbane and Women's Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>RBWH HREC
+Level 7 Block 7
+Royal Brisbane and Women's Hospital
+Metro North Hospital and Health Service
+Herston 
+Queensland 4029
+</ethicaddress>
+      <ethicapprovaldate>14/02/2014</ethicapprovaldate>
+      <hrec>HREC/13/QRBW/450 </hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Satyan Chari</name>
+      <address>Safety and Quality Unit
+Level 7 Block 7
+Royal Brisbane and Women's Hospital
+Metro North Hospital and Health Service
+Herston
+Queensland 4029</address>
+      <phone>+61 7 3646 5375</phone>
+      <fax>+61 7 3646 1406</fax>
+      <email>satyan.chari@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Satyan Chari</name>
+      <address>Safety and Quality Unit
+Level 7 Block 7
+Royal Brisbane and Women's Hospital
+Metro North Hospital and Health Service
+Herston 
+Queensland 4029</address>
+      <phone>+61 7 3646 5375</phone>
+      <fax>+61 7 3646 1406</fax>
+      <email>satyan.chari@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Satyan Chari</name>
+      <address>Safety and Quality Unit
+Level 7 Block 7
+Royal Brisbane and Women's Hospital
+Metro North Hospital and Health Service
+Herston
+Queensland 4029</address>
+      <phone>+61 7 3646 5375</phone>
+      <fax>+61 7 3646 1406</fax>
+      <email>satyan.chari@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Satyan Chari</name>
+      <address>Safety and Quality Unit
+Level 7 Block 7
+Royal Brisbane and Women's Hospital
+Metro North Hospital and Health Service
+Herston 
+Queensland 4029</address>
+      <phone>+617 36465375</phone>
+      <fax>+617 36461406</fax>
+      <email>satyan.chari@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

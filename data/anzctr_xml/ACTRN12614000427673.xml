@@ -1,0 +1,212 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365963">
+  <stage>Registered</stage>
+  <submitdate>14/03/2014</submitdate>
+  <approvaldate>17/04/2014</approvaldate>
+  <actrnumber>ACTRN12614000427673</actrnumber>
+  <trial_identification>
+    <studytitle>Feasibility of INteractive Digital Technology (FIND) Technology</studytitle>
+    <scientifictitle>A randomised controlled trial on the feasibility and effect on physical activity and functional mobility of the additional use of Interactive Digital Technology compared to usual care in stroke survivors undergoing rehabilitation</scientifictitle>
+    <utrn />
+    <trialacronym>FIND Technology</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention will be participation in interactive computer based activities using the kinect system and software designed for stroke rehabilitation for up to 50 minutes up to 5 times per week during inpatient rehabilitation stay (2-8 weeks). Sessions will be supervised by a physiotherapist or occupational therapist, and attendance recorded. The software records duration and activities particpated in. 	This will be in addition to usual care 1;1 treatment on the ward by the ward physiotherapist</interventions>
+    <comparator>Participants allocated to the control condition will recieve usual care 1;1 treatment on the ward by the ward physiotherapist and participate in a circuit style physical activity program that currently runs on the ward, so that the two groups will be matched for activity level.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Feasability will be determined using a suite of scales for enjoyment, pain, fatigue, exertion and benefit
+1. PAES
+2. VAS pain
+3. VAS fatigue
+4. RPE (borg)
+5. Perceived benefit scale</outcome>
+      <timepoint>Monitored on a daily basis throughout the 8 week duration of therapy.  as well at the end of the trial the SUS (System Usability Scale) will be administered</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Activity using an actipal accelerometer worn on the thigh for one week</outcome>
+      <timepoint>one week at the start of therapy</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Improved Physical functioning using a suite of tests;
+1. upper limb function using the MAS and box and block test
+2. balance using sitting balance test, functional reach (in sitting if required), lateral reach, postural sway and step test
+3. mobility using timed up and go and 10 meter walk</outcome>
+      <timepoint>at discharge from in-patient trial</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inpatients on the Rehabiliation ward at the local hospital
+
+Stroke&lt;6 months ago
+Reduced mobility
+Clinician assessed capacity to improve
+Life expectancy &gt;12 months</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cognitive impairment (for example MMSE,21)
+Insufficient English 
+Medical condition precluding exercise (eg unstable cardiac disease, uncontrolled metabolic disease or weight bearing restriction)
+Receptive Aphasia </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All patients admitted to the rehabilitation ward a during the trial period will be screened for inclusion by a senior neurological physiotherapist. Eligible patients will be given information about the project and if they are interested, a research assistant (physiotherapist) will be contacted to provide further information.  Written consent will be obtained before participation in the project. A physiotherapist or occupational therapist from another ward will perform the pre- testing before randomisation and in post testing will not be provided with information regarding group allocation. Group allocation will be concealed using consecutively-numbered opaque envelopes, opened after completion of assessment in the presence of the participant</concealment>
+    <sequence>Allocation into intervention or control group will occur using a computer-generated random number schedule with variable block sizes. Generation of the randomization sequence will be generated by a researcher not involved in recruitment or assessment. Group allocation will be concealed using consecutively-numbered opaque envelopes, opened after completion of assessment in the presence of the participant. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Feasability will be described using qualitative methods and report on the outcome measures of enjoyment, perceived benefit, fatigue and exertion and system usability.
+For the outcome measures of activity and the functional measures collected during the RCT we will describe the participants changes in balance and mobility using  t-tests or Mann-Whitney U tests to compare normally and non-normally distributed data respectively. Repeated measures analysis of variance (ANOVA) will be used to compare changes over time and between group changes in data for the outcome measures. The level of significance will be set at 0.05.
+
+A previous Pilot study on feasibility for technology in stroke rehabilitation has used a sample size of 40 participants (Bower, ANZCTR). Data for sub-acute stroke population is available for Forward Functional Reach Test mean (SD) data 25.6 (7.4)cm from Outermans (2010).   A clinically relevant difference of 3.7cm would require a sample size of 63 (p less than 0.05, power 80%).   74 will be recruited to allow for a 15% drop out rate.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>5/10/2014</anticipatedstartdate>
+    <actualstartdate>4/11/2014</actualstartdate>
+    <anticipatedenddate>30/07/2016</anticipatedenddate>
+    <actualenddate>21/07/2016</actualenddate>
+    <samplesize>74</samplesize>
+    <actualsamplesize>79</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>5/08/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>TAS</recruitmentstate>
+    <hospital>Launceston General Hospital - Launceston</hospital>
+    <postcode>7250 - Launceston</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Tasmania</primarysponsorname>
+    <primarysponsoraddress>The School of Health Science,
+Locked Bag 1320,
+Launceston, 7250
+TASMANIA</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Stroke Foundation, Australia</fundingname>
+      <fundingaddress>Level 7, 461 Bourke Street
+Melbourne VIC 3000
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose is to investigate whether interactive digital technology (using the Xbox Kinect system) is feasable to use to improve the volume of activity that stroke survivors can undertake, and to determine if there are benefits to upper limb function or mobility using this technology</summary>
+    <trialwebsite />
+    <publication>Conference: Bird M, Cannell J, Callisaya M, Moles E, Rathien A, Lane K, et al., editors. Study Protocol of Find Technology: a randomised control trial investigating the feasibility and efficacy of controller-free interactive digital technology in an inpatient stroke population. European Stroke Organisation Conference; 2016.
+Paper: Bird ML, Cannell J, Callisaya ML, Moles E, Rathjen A, Lane K, et al. "FIND Technology": investigating the feasibility, efficacy and safety of controller-free interactive digital rehabilitation technology in an inpatient stroke population: study protocol for a randomized controlled trial'. Trials 2016;16(17).</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Tasmanian Health and Medical Research Ethics Committee</ethicname>
+      <ethicaddress>University of Tasmania
+Private Bag  01 Hobart Tas 7001 
+</ethicaddress>
+      <ethicapprovaldate>27/02/2014</ethicapprovaldate>
+      <hrec>H0013769 </hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+University of Tasmania
+Locked Bag 1320
+Launceston 7250</address>
+      <phone>+61 3 63245497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+University of Tasmania
+Locked Bag 1320
+Launceston 7250</address>
+      <phone>+61 3 63245497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+University of Tasmania
+Locked Bag 1320
+Launceston 7250</address>
+      <phone>+61 3 63245497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Marie-Louise Bird</name>
+      <address>The School of Health Science
+University of Tasmania
+Locked Bag 1320
+Launceston 7250</address>
+      <phone>+61 3 63245497</phone>
+      <fax />
+      <email>birdm@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

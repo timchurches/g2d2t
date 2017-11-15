@@ -1,0 +1,211 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366955">
+  <stage>Registered</stage>
+  <submitdate>27/11/2015</submitdate>
+  <approvaldate>16/03/2016</approvaldate>
+  <actrnumber>ACTRN12616000341426</actrnumber>
+  <trial_identification>
+    <studytitle>Childcare based intervention to reduce sitting time in preschoolers</studytitle>
+    <scientifictitle>The feasibility, acceptability, and potential efficacy of a reduced sitting day on physical activity and executive function among pre-school-aged children       </scientifictitle>
+    <utrn>U1111-1176-0818</utrn>
+    <trialacronym>N/A</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Physical activity</healthcondition>
+    <healthcondition>Sitting time</healthcondition>
+    <healthcondition>Cognition</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Studies of normal psychology, cognitive function and behaviour</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Four childcare services (approx. 120 children) will be randomised to either modifying their service to reduce sitting (Stand more-Sit less environment) or keeping it as it currently is (typical environment). 
+
+The results of the calorimeter study (ACTRN12614001028695) will inform the intervention as to activities constituting a typical school day with around 50% of time spent sitting and a stand and move more, sit less school day with around 25% of time spent sitting; i.e., a 25% reduction in total sitting time which should also result in a 25% increase in light-intensity activity. The intervention strategy will include measures to break up sitting time and reduce sitting time such as the use of standing desks and active energy breaks. 
+Research staff will meet with staff involved in the study at baseline during a staff meeting (approx 1  hr) to explain the intervention. The childcare educators will be provided with a preschool routine and encouraged to modify them to suit there routine and teaching style. They further provide them with ideas to encourage standing time, eg: taking away chairs during drawing. We will use an observation checklist to examine the process of the intervention once every 3 weeks by the research student. 
+Centres randomised to the control group will continue with their usual activities. The intervention strategies will be offered to these schools at the end of the intervention period (3 months). 
+
+This intervention will be guided by the Social Cognitive Theory which is based on the four key processes for learning and adapting new behaviours: attention, retention, production, and motivation. 
+</interventions>
+    <comparator>Childcare services randomised to the control group will continue with their usual activities. The intervention strategies will be offered to these services at the end of the intervention period (after 3 months).</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Sitting time (activPal), the activPAL will be worn at least one day during their time at Childcare.</outcome>
+      <timepoint>Baseline and 3-month follow-up</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Executive function will be measured using three iPad games: Fish and shark (Go No Go test), Mr Ant (testing working memory) and Card Sorting game (the ability to switch tasks)</outcome>
+      <timepoint>Baseline and 3-month follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Standing time (activPal), the activPAL will be worn at least one day during their time at Childcare.</outcome>
+      <timepoint>Baseline and 3-month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intervention implementation (fidelity of implementation, consistency of implementation and barriers to implementation). Measured using observations and interviews with the educators. </outcome>
+      <timepoint>Observations during the intervention and interviews at follow-up (12 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sitting bouts and the number of interruptions (breaks - defined as the number of transitions recorded from sit/lie posture to stand)  (measured using the activPAL)</outcome>
+      <timepoint>Baseline and Follow-up (12 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stepping time (activPal), the activPAL will be worn at least one day during their time at Childcare.</outcome>
+      <timepoint>Baseline and Follow-up (after 12 weeks)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Preschoolers attending childcare</inclusivecriteria>
+    <inclusiveminage>3</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>5</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Children who were physically unable to participate in standing intervention activities</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Based on a Cohens d effect size of 0.4 (i.e. a moderate effect size) and a two-tailed, 5% alpha level test, a total sample size of approximately 104 children (52 in each group) would provide 80% power to detect an effect of at least this size. This calculation is based on estimating the effect of the F statistic of the interaction term in a repeated measures design, and is inflated to account for a mild intra-class correlation coefficient (ICC; 0.01) to reflect the group randomised design. As some attrition may occur, we will increase the sample by 15% for a total of 120 children (60 in each group or 30 per childcare center). This will require four childcare services to be recruited. Sample size calculations were done using G*Power and the adjustment for the ICC using the Killip formula. 
+Each matching pair of centres will be randomised to a treatment or control group using the biased-coin method. As participants are treated within one group it is likely that, over time, their outcomes will be correlated and ignoring this correlation may result in an inflated type I error. Post hoc the ICC for the treatment arm will be estimated, however, a priori the results of the primary outcomes will be analysed using a mixed model approach where the group is included as a nested random effect and the degrees of freedom are altered based on the number of groups. Baseline measures and relevant covariates will be included with the treatment term in the model. The analysis will be conducted using PROC MIXED in SAS</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>15/04/2016</anticipatedstartdate>
+    <actualstartdate>15/04/2016</actualstartdate>
+    <anticipatedenddate>22/04/2016</anticipatedenddate>
+    <actualenddate>22/05/2016</actualenddate>
+    <samplesize>120</samplesize>
+    <actualsamplesize>126</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>10/11/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Wollongong</primarysponsorname>
+    <primarysponsoraddress>Northfields Avenue
+Keiraville
+2522 NSW</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Wollongong</fundingname>
+      <fundingaddress>Northfields Avenue
+Keiraville
+2522 NSW</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>N/A</sponsorname>
+      <sponsoraddress>N/A</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of the study is to investigate whether an intervention to reduce sitting time in the childcare setting will result in less sitting time for preschoolers aged 3-5 years and to assess whether a reduction in sedentary time has a positive effect on childrens' executive function.  Childcare services will be randomised to either a control or intervention after baseline data is collected. The three-month intervention will introduce a number of strategies to encourage preschoolers to sit less  or stand more during the school day by breaking up or reducing sitting time.</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication>No related presentations or publications</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>N/A</publicnotes>
+    <ethicscommitee>
+      <ethicname>University of Wollongong Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Services Office
+Building 20, Level 1
+University of Wollongong,
+Northfields Ave
+Wollongong NSW 2522</ethicaddress>
+      <ethicapprovaldate>16/03/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>14/03/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Tony Okely</name>
+      <address>Early Start Research Institute Building 21, room 110. Northfields Avenue, University of Wollongong. NSW 2533</address>
+      <phone>+61 02 42214641</phone>
+      <fax />
+      <email>tokely@uow.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Yvonne Ellis</name>
+      <address>Early Start Research Institute 
+Building 21, room 110.
+Northfields Avenue, University of Wollongong. 
+NSW 2533</address>
+      <phone>+61 02 42215486</phone>
+      <fax />
+      <email>yge019@uowmail.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Yvonne Ellis</name>
+      <address>Early Start Research Institute 
+Building 21, room 110.
+Northfields Avenue, University of Wollongong. 
+NSW 2533</address>
+      <phone>+61 02 42215486</phone>
+      <fax />
+      <email>yge019@uowmail.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Yvonne Ellis</name>
+      <address>Early Start Research Institute 
+Building 21, room 110.
+Northfields Avenue, University of Wollongong. 
+NSW 2533</address>
+      <phone />
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

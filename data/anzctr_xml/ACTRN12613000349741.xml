@@ -1,0 +1,226 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363940">
+  <stage>Registered</stage>
+  <submitdate>28/03/2013</submitdate>
+  <approvaldate>2/04/2013</approvaldate>
+  <actrnumber>ACTRN12613000349741</actrnumber>
+  <trial_identification>
+    <studytitle>AspiriN To Inhibit SEPSIS (ANTISEPSIS) trial</studytitle>
+    <scientifictitle>The AspiriN To Inhibit SEPSIS (ANTISEPSIS) trial; an ASPirin in Preventing Events in the Elderly, (ASPREE) Substudy to measure the benefit of low dose aspirin in the prevention of severe sepsis in the elderly.</scientifictitle>
+    <utrn>U1111-1141-1933</utrn>
+    <trialacronym>ANTISEPSIS</trialacronym>
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>sepsis
+</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Aspirin 100mg taken orally once daily. The study drugs, aspirin or placebo, will be taken for a minimum of 5 years and maximum of 7 years according to the timing of entry to study in the enrollment period. 
+
+One Study Drug Accountability Log will be provided for each study participant. These Drug Accountability Logs record the drug dispensed to the participant and drug returned from the participant.
+The Study Drug Accountability log will record, at minimum, the following information:
+Date dispensed (initials of dispenser)
+Date of medication return (initialed by research staff)
+Number of tablets returned
+Date of medication destruction
+  </interventions>
+    <comparator>Enteric coated un-scored white tablet with identical appearance to aspirin. Study medications are provided by Bayer HealthCare. The enteric coating will ensure that both active and placebo medication have an identical taste. One placebo tablet is taken daily and will be taken for a minimum of 5 years and maximum of 7 years according to the timing of entry to study in the enrollment period.   </comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>mortality due to sepsis</outcome>
+      <timepoint>Intention to treat; on treatment/placebo. The primary outcome will be measured at the end of the study as multiple events may be recorded in study participants.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>admission to ICU for sepsis</outcome>
+      <timepoint>Intention to treat; on treatment/placebo. The secondary outcomes will be measured at the end of the study as multiple events may be recorded in study participants.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>admission to hospital for sepsis</outcome>
+      <timepoint>Intention to treat; on treatment/placebo. The secondary outcomes will be measured at the end of the study as multiple events may be recorded in study participants.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>AS PER ASPREE STUDY
+Non-institutionalised
+Willing and able to provide informed consent, and willing to accept the study
+requirements
+Physically capable of regularly attending his/her family physician.
+Without major cardiovascular disease, dementia or other exclusion criteria, as
+listed below.
+</inclusivecriteria>
+    <inclusiveminage>70</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>AS PER ASPREE STUDY
+A history of a diagnosed cardiovascular event defined as MI, heart failure, peripheral arterial disease, angina pectoris, stroke, transient ischemic attack, &gt;50% carotid stenosis or previous carotid endarterectomy or stenting, coronary artery angioplasty or stenting, coronary artery bypass grafting, or abdominal aortic aneurysm.
+A serious intercurrent illness likely to cause death within the next 5 years, such as terminal cancer or obstructive airways disease.
+A current or recurrent condition with a high risk of major bleeding, e.g. cerebral aneurysm or cerebral AV malformation, any bleeding diathesis, gastrointestinal malignancy, recent peptic ulcer, liver disease, oesophageal varicosities, uremia, aortic aneurysm or any other condition known to be associated with a high risk of serious bleeding.
+Anaemia, i.e. haemoglobin level below the normal value for the gender of the participant (males: 13g/L, females: 11.5 g/L).
+Absolute contraindication or allergy to aspirin.
+Current participation in a clinical trial.
+Current continuous use of aspirin or other anti-platelet drug or anticoagulant.
+Participants with previous use may enter the trial, provided they have been off the medication for 3 months. (Concurrent use of a NSAID is not an exclusion criterion but subjects are requested to take their trial medication 30 minutes prior to other medications.)
+A systolic blood pressure 180 mmHg and or a diastolic blood pressure 105mmHg
+A history of a clinical diagnosis of diabetes (glucose 7.0 mmol/L (fasting) or 11.1 mmol/L (non fasting) )
+A history of dementia or a Modified Mini-Mental State Examination (3MS) score 77 as measured at Visit 1: Lifestyle Profile and Screening.
+An inability to perform independently, or more than A little difficulty reported in performing, any one of the 6 Katz ADLs.
+Pill-taking compliance outside the range of 80-120% during the placebo run-in phase.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Following the completion of the randomisation
+process by the RN / research assistant, a study medication number will be provided. All staff remain blinded to treatment allocation through the randomisation procedure. The RN or research assistant is required to immediately confirm the study medication number through the Interactive Voice
+Response System / web portal system.</concealment>
+    <sequence>Computer-generated medication numbers will be provided to trial sites through the IVRS or the web portal. The randomisation list will be generated by an independent statistician. This arrangement will ensure that the randomisation code remains inaccessible to all study staff and senior investigators.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>We will analyse our three end-points (primary endpoint, sepsis death: secondary endpoints; severe infection episodes and ICU admission due to sepsis) without Bonferroni correction using a survival time method and the proportional hazards assumption (which will be tested). We will adjust for a number of covariates including; diabetes, age at recruitment, malignancy, alcohol intake and smoking or chronic lung disease. This will allow for any imbalance of baseline variables and therefore increase the efficiency of the analysis. We will also perform an unadjusted log-rank test on the final results.
+
+
+Available data in ICU patients show that there is an effect size on mortality from sepsis of the order of 40 to 80% associated with patients treated with aspirin prior to ICU admission. Using a hazard ratio of 0.63 to examine the sample size required to power our ANTISEPSIS study for the outcome of sepsis-related mortality is a conservative approach. The ASPREE trial will observe approximately 47500 patient years in each of the aspirin and non-aspirin group from Australian and US participants. Overall, the ASPREE study rate of death is estimated as being 17.6 per 1000 participant year. Approximately 4.75 years average follow-up time per participant will be available in an analysis of time to death. If we assume that 20% of the deaths in ASPREE participants will be contributed to by sepsis, this provides an event rate for the primary endpoint of ANTISEPSIS of 3.5 per 1000 participant years. With a minimum of 16,000 Australian ASPREE participants, 4.75 years average follow-up (accounting for expected drop-out), and an event rate of 3.5 per 1000 participant year, we would expect a total of 133 primary endpoint events (deaths) in the control group. With this number of sepsis-related deaths, we would have 80% power to detect a hazard ratio of 0.77 for aspirin users vs. non-users. If only 15% of ASPREE deaths are contributed to by sepsis, we would instead expect 100 primary end point events in the control group and still have 80% power to detect a hazard ratio of 0.74. Finally, if only 10% of ASPREE deaths are contributed to by sepsis, we would expect 66 ANTISEPSIS primary endpoint events in the control group and have 80% power to detect a hazard ratio of 0.68. In all of these scenarios, the ANTISEPSIS study is powered to detect an effect less than that measured in our study of sepsis mortality where the hazard ratio for mortality associated with aspirin administration was 0.63. The two secondary endpoints, admission to hospital for sepsis and admission to ICU for sepsis are more common than death due to sepsis, so they will also be adequately powered by the ASPREE sample.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>10/01/2011</anticipatedstartdate>
+    <actualstartdate>10/01/2011</actualstartdate>
+    <anticipatedenddate>21/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>17000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,SA,TAS,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>National Health and Medical Research Council</primarysponsorname>
+    <primarysponsoraddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>Level 1
+16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>National Institute on Aging </sponsorname>
+      <sponsoraddress>Building 31, Room 5C27
+31 Center Drive, MSC 2292
+Bethesda, MD 20892</sponsoraddress>
+      <sponsorcountry>United States of America</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The ANTISEPSIS study will investigate whether the low doses of aspirin being trialled in the randomised controlled ASPREE study work to reduce the severity of infection in the patients who have been taking aspirin. There are numerous pieces of information from test tube and laboratory animal studies that show us that low dose aspirin helps to reduce inflammation which contributes to the disease caused by severe infection. If we can show that low dose aspirin safely reduces the severity of infection in elderly patients we will be able to recommend that it should be taken in all patients who are not at high risk of side effects of this drug.
+
+We hypothesise that severe outcomes relating to sepsis in the elderly may be prevented by daily low-dose aspirin. We have the opportunity to test this hypothesis through a substudy of the ASPirin in Preventing Events in the Elderly (ASPREE) trial. ASPREE is a major, Australian/US randomised controlled primary prevention trial of low dose aspirin in the elderly. Our aims are to use the ASPREE randomised controlled trial (RCT) framework and extend data collection relating to sepsis events in its participants to assess our primary endpoint:
+reduction of deaths contributed to by sepsis in participants receiving aspirin versus placebo.
+We will also conduct an analysis of two secondary endpoints:
+reduction of severe infection episodes requiring hospital admissions 
+reduction of ICU admissions among patients hospitalised for severe sepsis 
+The ASPREE study, which will provide a sufficient sample size to assess our primary outcome, represents an ideal chance to assess the impact of aspirin on outcomes of sepsis in the trial population of elderly participants.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Monash Universtiy Human Research Ethics Commitee</ethicname>
+      <ethicaddress>Monash Research Office
+Building 3d
+Monash University
+Victoria 3800</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>CF13/466 - 2013000204</hrec>
+      <ethicsubmitdate>19/03/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Damon Eisen</name>
+      <address>Victorian Infectious Diseases Service
+Royal Melbourne Hospital
+Grattan St
+Parkville 3050
+Victoria</address>
+      <phone>+61 3 9342 7212</phone>
+      <fax>+61 3 9342 7277</fax>
+      <email>damon.eisen@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>damon eisen</name>
+      <address>Victorian Infectious Diseases Service
+Royal Melbourne Hospital
+Grattan St
+Parkville 3050
+Victoria</address>
+      <phone>+61 3 9342 7212</phone>
+      <fax>+61 3 9342 7277</fax>
+      <email>damon.eisen@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>damon eisen</name>
+      <address>Victorian Infectious Diseases Service
+Royal Melbourne Hospital
+Grattan St
+Parkville 3050
+Victoria</address>
+      <phone>+61 3 9342 7212</phone>
+      <fax>+61 3 9342 7277</fax>
+      <email>damon.eisen@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>damon eisen</name>
+      <address />
+      <phone />
+      <fax>+61 3 9342 7277</fax>
+      <email>damon.eisen@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

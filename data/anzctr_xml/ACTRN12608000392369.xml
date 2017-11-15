@@ -1,0 +1,185 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83001">
+  <stage>Registered</stage>
+  <submitdate>22/07/2008</submitdate>
+  <approvaldate>4/08/2008</approvaldate>
+  <actrnumber>ACTRN12608000392369</actrnumber>
+  <trial_identification>
+    <studytitle>The REGISTER Study: A multicentre phase II study of risk evaluation in gastrointestinal stromal tumours (GIST) with selective therapy escalation for response</studytitle>
+    <scientifictitle>The REGISTER Study: A multicentre phase II study of risk evaluation in gastrointestinal stromal tumours (GIST) with selective therapy escalation for response including treatment with imatinib (400 - 800mg/day) followed by nilotinib (800mg/day)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>REGISTER</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Gastrointestinal Stromal Tumour (GIST)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Stomach</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patient treatment regimen will be determined by KIT mutational status. For patients recieving less than or equal to 6 weeks of Imatinib will be classified as either exon 9/WT or exon 11. Patients will initially receive 400mg/day of imatinib (also known as Glivec) administered orally in tablet form. Patients will then receive an escalated dose up to 800mg/day imatinib. The timing of dose escalation will depend on the patient KIT mutational status (exon 9/WT or exon 11) and their early response to treatment. For patients who have received more than 6 weeks of imatinib they will continue on at a dose of 400mg/day until RECIST-defined progression where the dose will be escalated up to 800mg/day depending on the patient's response to treatment. The rest of the regime will be the same as patients who have received less than or equal to 6 weeks of imatinib treatment.</interventions>
+    <comparator>No control group.</comparator>
+    <control>Historical</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to ultimate disease progression on study treatment (using Response Evaluation Criteria in Solid Tumors (RECIST criteria)) for the exon 9/WT subgroup of patients</outcome>
+      <timepoint>Every 3 months while on study treatment. Study treatment will continue until disease progression on nilotinib.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to ultimate disease progression on study treatment (using Response Evaluation Criteria in Solid Tumors (RECIST criteria)) for the exon 11 subgroup of patients</outcome>
+      <timepoint>Every 3 months while on study treatment. Study treatment will continue until disease progression.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety and tolerability of imatinib and nilotinib. Safety and tolerability will be assessed and monitored by the study nurse or doctor at each patient visit and graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 3.0 (NCICTCAEv3.0).</outcome>
+      <timepoint>Every 2 weeks when commencing new treatment regime. Every 3 months when treatment regimen is established. Assessments will continue until the patient leaves the trial or the patient experiences progressive disease.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Correlation between pharmacokinetic (serum imatinib levels) and pharmacodynamic (Fluorodeoxyglucose Positron Emission Tomography (FDG PET)scan) measures.</outcome>
+      <timepoint>At 6 weeks and then every 3 months until treatment with imatinib is ceased.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with metastatic or unresectable GIST. Patients with no prior systemic therapy except 6 weeks or less treatment with imatinib or who have been previously treated with Imatinib but who have had at least 6 months cessation and relapse. Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2. Adequate renal and hepatic function. Patients who have received &gt; 6 weeks of imatinib treatment must be stable for at least 4 weeks at 400mg/day of Imatinib and be evaluable for assessment of objective response according to RECIST criteria.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Current gastroinestinal disease that may affect ability to absorb imatinib.
+Pregnant or breastfeeding.
+Impaired cardiac function.
+Use of warfarin.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>9/12/2008</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up continuing</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC,QLD,SA,TAS</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>AGITG</primarysponsorname>
+    <primarysponsoraddress>Locked Bag 77, 
+Camperdown 1450</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Australiasian Gastrointestinal Trials Group (AGITG)</fundingname>
+      <fundingaddress>Locked Bag 77, 
+Camperdown 1450</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The REGISTER study aims to maximise the treatment potential of Glivec (Registered trade mark) (also known as imatinib) in patients with metastatic or unresectable Gastro-intestinal Stromal Tumour (GIST) by individualising treatment. Treatment for each patient will be determined according to the biological features of their tumour when examined in the laboratory. We know that tumours with certain findings are less likely to do well on standard treatment. Patients with these types of tumours will be treated with an increased dose of Glivec (Registered trade mark). Patients with tumours that we know are more likely to do well will be treated with a standard dose of Glivec (Registered trade mark) but will move on to an increased dose when the standard dose stops being effective. The response to treatment will be measured using Computerized axial Tomography (CT) scans. Early response will be measured using Fluorodeoxyglucose Positron Emission Tomography (FDG PET) scans.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>SSWSAHS Ethics Committee (RPAH zone)</ethicname>
+      <ethicaddress>c/- Research Development Office
+Level 3, Building 92
+Royal Prince Alfred Hospital
+Missenden Road
+CAMPERDOWN NSW 2050</ethicaddress>
+      <ethicapprovaldate>10/07/2008</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>16/05/2008</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>REGISTER Trial Coordinator</name>
+      <address>NHMRC CTC
+Locked Bag 77
+Camperdown NSW 1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>registerstudy@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>REGISTER Trial Coordinator</name>
+      <address>NHMRC CTC
+Locked Bag 77
+Camperdown NSW 1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>registerstudy@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>REGISTER Trial Coordinator</name>
+      <address>NHMRC CTC
+Locked Bag 77
+Camperdown NSW 1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>registerstudy@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

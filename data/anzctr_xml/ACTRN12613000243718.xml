@@ -1,0 +1,340 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363714">
+  <stage>Registered</stage>
+  <submitdate>22/02/2013</submitdate>
+  <approvaldate>28/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000243718</actrnumber>
+  <trial_identification>
+    <studytitle>Tenecteplase versus Alteplase for Stroke Thrombolysis Evaluation (TASTE) Trial</studytitle>
+    <scientifictitle>Multicentre, prospective, randomised open-label blinded endpoint (PROBE) phase III study in stroke thrombolysis patients to compare tenecteplase and alteplase for an outcome of less disability at 3 months.</scientifictitle>
+    <utrn />
+    <trialacronym>TASTE</trialacronym>
+    <secondaryid>HMRI2012101</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute ischaemic stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Tenecteplase (TNK)
+Dose: 0.25 mg/kg
+Route: IV bolus injection
+Frequency: once only, within 4.5 hours of stroke onset</interventions>
+    <comparator>Alteplase (tPA)
+Dose: 0.9 mg/kg
+Route: Intravenous (IV) infusion (10% as bolus and the remainder over 60 minutes)
+Frequency: once only, within 4.5 hours of stroke onset</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Modified Rankin Scale (mRS) 0-1 at 3 months (no disability).</outcome>
+      <timepoint>3 months </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Reperfusion at 24 hours post stroke. All patients will have a CT or MRI at 24 hours post treatment to assess for reperfusion.</outcome>
+      <timepoint>24 hours post stroke</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Early clinical improvement (reduction in acute  24 hour NIHSS score)</outcome>
+      <timepoint>24 hours post stroke</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Rankin Scale (mRS) 0-1 at 3 months (adjusted for baseline age and NIHSS) </outcome>
+      <timepoint>3 months </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Rankin Scale 0-2 </outcome>
+      <timepoint>3 months </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Categorical shift in mRS </outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Infarct growth. All patients will have CT or MRI at 24 hours post treatment to assess for infarct growth.</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Recanalisation. All patients will have CT or MRI at 24 hours post treatment to assess for recanalisation.</outcome>
+      <timepoint>24 hours post stroke</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Symptomatic intra-cerebral haemorrhage (sICH). All patients will have CT or MRI at 24 hours post treatment to assess for ICH.</outcome>
+      <timepoint>During time on study (3 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death due to any cause</outcome>
+      <timepoint>During time on study (3 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Modified Rankin Scale (mRS) 5-6 (severe disability or death).</outcome>
+      <timepoint>3 months </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Patients presenting with acute hemispheric ischaemic stroke eligible using standard criteria to receive IV tPA within 4.5 hours of stroke onset.
+2. Patient, family member or legally responsible person depending on local ethics requirements has given informed consent.
+
+Imaging inclusion criteria:
+1. Presence of penumbra - Using CTP or perfusion MR mismatch between the Tmax &gt; 6 seconds delay perfusion volume and CTP relative cerebral blood flow (relCBF) or diffusion MR lesion infarct core volume 
+a) Mismatch ratio between Tmax perfusion lesion volume and infarct core lesion volume of &gt; 1.8 
+b) Penumbra volume &gt; 15 mL (Tmax lesion volume infarct core lesion volume), and
+2. Infarct core lesion volume &lt; 70 mL. Note minimum slice coverage required for CTP will be 80 mm to prevent underestimation of infarct core volume with this modality. 
+3. Volume of severely hypoperfused tissue &lt; 100mL (Tmax &gt; 10 seconds delay or Delay Time &gt; 8 seconds) indicative of poor response to reperfusion.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Intracranial haemorrhage (ICH) identified by CT or MRI.
+2. Rapidly improving symptoms at the discretion of the investigator.
+3. Pre-stroke mRS score of greater than or equal to 2 (indicating previous disability).
+4. Participation in any investigational study in the previous 30 days.
+5. Any terminal illness such that patient would not be expected to survive more than 1 year.
+6. Any condition that, in the judgment of the investigator could impose hazards to the patient if study therapy is initiated or affect the participation of the patient in the study. 
+7. Pregnant women.
+8. Previous stroke within last three months.
+9. Recent past history or clinical presentation of ICH, subarachnoid haemorrhage (SAH), arterio-venous (AV) malformation, aneurysm, or cerebral neoplasm. At the discretion of each Investigator.
+10. Current use of vitamin K based oral anticoagulants (e.g. warfarin) and a prolonged prothrombin time (INR &gt; 1.5).
+11. Current use of novel oral anticoagulants (NOACs) (i.e. dabigatran, rivaroxaban, or apixiban).
+12. Use of heparin, except for low dose subcutaneous heparin, in the previous 48 hours and a prolonged activated partial thromboplastin time exceeding the upper limit of the local laboratory normal range. 
+13. Use of glycoprotein IIb - IIIa inhibitors within the past 72 hours. Use of single or dual agent oral platelet inhibitors (clopidogrel and/or or low-dose aspirin) prior to study entry is permitted.
+14. Clinically significant hypoglycaemia.
+15. Uncontrolled hypertension defined by a blood pressure &gt; 185 mmHg systolic or &gt; 110 mmHg diastolic on at least 2 separate occasions at least 10 minutes apart, or requiring aggressive treatment to reduce the blood pressure to within these limits. The definition of aggressive treatment is left to the discretion of the responsible Investigator.
+16. Hereditary or acquired haemorrhagic diathesis. 
+17. Gastrointestinal or urinary bleeding within the preceding 21 days.
+18. Major surgery within the preceding 14 days which poses risk in the opinion of the investigator.
+19. Exposure to a thrombolytic agent within the previous 72 hours.
+20. An extracranial or intracranial internal carotid artery occlusion or a proximal M1 middle cerebral artery occlusion which, in the judgment of the investigator, would be more appropriately treated with combined intravenous intra-arterial therapy, where the intra-arterial therapy can be accessed and delivered within a rapid time frame.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients presenting in the emergency department with acute ischemic stroke and are eligible for tPA therapy will be approached by a member of the research team and provided with a PIS/ICF. If consent is obtained, an online randomisation will occur and a treatment arm allocated. Allocation is not concealed.</concealment>
+    <sequence>A block randomisation design will be used with stratifications for the size of baseline infarct core (less than or greater than 25 mL), and for the presence or absence of ICA occlusion.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Multicentre, prospective, randomised open-label blinded endpoint (PROBE) phase III study. 
+Patients will be randomised 1:1 to standard dose tPA (0.9 mg/kg) or TNK (0.25 mg/kg). There will be two randomisation strata: first, randomisation will be stratified by the presence or absence of internal carotid artery occlusion (ICAO) on baseline CT or MR angiography; second, randomisation will be stratified by size of infarct core (above or below 25 mL) on baseline CTP or diffusion-weighted MRI (DWI). Patients with ICAO will be capped at a maximum of 25% of the sample size.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The primary efficacy analyses will be based on an intention-to-treat basis. The primary outcome will be compared using a two-sided significance test with alpha set at p = 0.05 (unadjusted). 
+
+For the secondary outcomes analysis, the proportions of mRS 0-1 outcomes will be compared between TNK and tPA arms adjusted for age and baseline NIHSS score using a binary logistic regression model. Analysis of the categorical shift in mRS will also be undertaken on the full range (0-6) of the mRS using Cochran-Mantel-Haenszel shift test and proportional odds logistic regression subject to the validity of shift analysis model assumptions. Other secondary outcome analyses will be carried out according to standard statistical principles for comparison of parametric or non-parametric distributions as appropriate.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/05/2013</anticipatedstartdate>
+    <actualstartdate>21/03/2014</actualstartdate>
+    <anticipatedenddate>31/07/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1024</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>186</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD,SA,VIC</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Gosford Hospital - Gosford</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <hospital>Gold Coast Hospital - Southport</hospital>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Barwon Health - Geelong Hospital campus - Geelong</hospital>
+    <hospital>Sunshine Coast University Hospital - Birtinya</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <hospital>Calvary Public Hospital ACT - Bruce</hospital>
+    <postcode>2250 - Gosford</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>4006 - Herston</postcode>
+    <postcode>4215 - Southport</postcode>
+    <postcode>3052 - Parkville</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>3220 - Geelong</postcode>
+    <postcode>4575 - Birtinya</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <postcode>2617 - Bruce</postcode>
+    <countryoutsideaustralia>
+      <country>Taiwan, Province Of China</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>England</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Flemish Brabant</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Acute Stroke Service</primarysponsorname>
+    <primarysponsoraddress>Department of Neurology
+John Hunter Hospital 
+Locked Bag 1
+HRMC  NSW  2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHMRC) </fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Greater Charitable Foundation</fundingname>
+      <fundingaddress>PO Box 173
+Hamilton NSW 2303</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>National Heart Foundation of Australia</fundingname>
+      <fundingaddress>Unit 1, 
+Level 1, 
+17-23 Townshend St,
+Phillip ACT 2606</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Newcastle</sponsorname>
+      <sponsoraddress>University Drive
+Callaghan NSW 2308
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This research is comparing two clot dissolving medications tenecteplase and alteplase. Tenecteplase is not currently licensed and approved for use in acute stroke care, but has shown very promising results in recent stroke studies. Alteplase is the approved medication for ischaemic stroke. Despite the clear benefits of alteplase at reducing brain damage and disability, we would like to find a medication that has similar clot-dissolving effects with a lower risk of brain bleeding. This would result in an even greater reduction in long-term stroke disability.
+
+The aim of this study is to compare alteplase with tenecteplase for stroke treatment to determine which will help more patients have less disability at 3 months following their stroke. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton  NSW  2305</ethicaddress>
+      <ethicapprovaldate>11/04/2013</ethicapprovaldate>
+      <hrec>HREC/13/HNE/23</hrec>
+      <ethicsubmitdate>31/01/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee (TQEH/LMH/MH)</ethicname>
+      <ethicaddress>Basil Hetzel Institute DX465101
+The Queen Elizabeth Hospital
+28 Woodville Road
+Woodville South SA 5011</ethicaddress>
+      <ethicapprovaldate>2/04/2014</ethicapprovaldate>
+      <hrec>HREC/13/TQEHLMH/303</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/363714-TASTE Lead HREC Approval letter 110413.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/363714-HREC13TQEHLMH303Approval.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Neil Spratt</name>
+      <address>Department of Neurology
+John Hunter Hospital
+Locked Bag 1
+HRMC  NSW  2310</address>
+      <phone>61 2 4921 3490</phone>
+      <fax />
+      <email>neil.spratt@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Michelle Russell</name>
+      <address>Department of Neurology
+John Hunter Hospital
+Locked Bag 1
+HRMC  NSW  2310</address>
+      <phone>+61 2 4921 3450</phone>
+      <fax>+61 2 4921 3488</fax>
+      <email>michelle.russell@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Chris Levi</name>
+      <address>Department of Neurology
+John Hunter Hospital
+Locked Bag 1
+HRMC  NSW  2310</address>
+      <phone>+61 2 4921 3487</phone>
+      <fax />
+      <email>christopher.levi@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Malcolm Evans</name>
+      <address>Department of Neurology
+John Hunter Hospital
+Locked Bag 1
+HRMC  NSW  2310</address>
+      <phone>+61 2 4921 4823</phone>
+      <fax>+61 2 4921 3488</fax>
+      <email>malcolm.evans@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

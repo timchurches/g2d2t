@@ -1,0 +1,170 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="81656">
+  <stage>Registered</stage>
+  <submitdate>19/10/2006</submitdate>
+  <approvaldate>27/04/2007</approvaldate>
+  <actrnumber>ACTRN12607000224426</actrnumber>
+  <trial_identification>
+    <studytitle>A trial of donor-derived cytotoxic T lymphocytes stimulated with an adenoviral vector containing the pp65 gene to prevent reactivation of cytomegalovirus following allogeneic stem cell transplantation for haematological malignancy</studytitle>
+    <scientifictitle>Infusion of Ad5f35pp65 stimulated donor-derived cytotoxic T lymphocytes for the prevention of cytomegalovirus reactivation following allogeneic stem cell transplantation for haematological malignancy</scientifictitle>
+    <utrn />
+    <trialacronym>WM-CMV Adpp65-01</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Immunosuppression post stem cell transplant for haematological malignancy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Haematological diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Infusion of a single dose of in vitro stimulated lymphocytes at a dose of 2 x10^7/m2 over 5 minutes at 28 days post allogeneic stem cell transplant or beyond 28 days post allogeneic stem cell transplant if exclusion criteria prevent infusion on day 28. Infusion can be given up to 12 months post-transplant according to trial inclusion and exclusion criteria.</interventions>
+    <comparator />
+    <control>Historical</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Incidence of cytomegalovirus reactivation as measured by polymerase chain reaction positivity for the cytomegalovirus pp65 protein in peripheral blood</outcome>
+      <timepoint>Assessed regularly (measured weekly for the first month, fortnightly from 1 to 3 months, monthly from 3 to 6 months, 3 monthly thereafter until 12 months) during the first 12 months post-transplant. </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Use of the anti-cytomegalovirus antibiotics ganciclovir, foscarnet or cidofivir in the first 12 months after allogeneic stem cell transplant performed for haematological malignancy. Pharmacological therapy will be given if a single blood sample reveals a CMV copy number over 3000 copies/ml or there is a doubling or greater of copy number over one week with the second and higher reading exceeding 2000 copies/ml.</outcome>
+      <timepoint>Measured weekly for the first month, fortnightly from 1 to 3 months, monthly from 3 to 6 months, 3 monthly thereafter until 12 months.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety as determined by the incidence of adverse events occurring within 24 hours of cell infusion.</outcome>
+      <timepoint />
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Effect on CMV specific immune reconstitution as measured by pp65 tetramer positivity, intracellular cytokine secretion and ELISPOT assay. </outcome>
+      <timepoint>Measured weekly for the first month, fortnightly from 1 to 3 months, monthly from 3 to 6 months, 3 monthly thereafter until 12 months.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>myeloablative or non-myeloablative allogeneic stem cell transplant recipients receiving stem cells from an HLA identical or 1 antigen mismatched CMV seropositive donor. Adult patients judged eligible to undergo allogeneic stem cell transplant are eligible.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>CMV seronegative donor, current grade II-IV graft versus host disease, receiving prednisone or equivalent &gt;1mg/kg/day.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>Safety</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>23/10/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Sydney West Area Health Service</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Sydney West Area Health Service</fundingname>
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>nil</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Stem cell transplant recipients will receive an infusion of donor cells at least one month post transplant. Cells will have been stimulated in the laboratory so that they specifically recognise and kill parts of the viruses known as cytomegalovirus and adenovirus.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Westmead Hospital</ethicname>
+      <ethicaddress>Sydney</ethicaddress>
+      <ethicapprovaldate>30/07/2006</ethicapprovaldate>
+      <hrec>2006/5/3.5(1223)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Mr. Leighton Clancy</name>
+      <address>Sydney Cellular Therapies Laboratory
+Institute of Clinical Pathology and Medical Research
+Westmead Hospital
+Westmead NSW 2145</address>
+      <phone>+61 2 98456212</phone>
+      <fax />
+      <email>leighton_clancy@wmi.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Professor David Gottlieb</name>
+      <address>Department of Medicine
+Westmead Hospital
+Westmead NSW 2145</address>
+      <phone>+61 2 98456033</phone>
+      <fax>+61 2 96872331</fax>
+      <email>david_gottlieb@wmi.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,454 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3016">
+  <stage>Registered</stage>
+  <submitdate>2/12/2010</submitdate>
+  <approvaldate>2/12/2010</approvaldate>
+  <nctid>NCT01254188</nctid>
+  <trial_identification>
+    <studytitle>Safety and Efficacy of Nilotinib in Newly Diagnosed Chronic Myeloid Leukemia Patients</studytitle>
+    <scientifictitle>Extending Molecular Responses With Nilotinib in Newly Diagnosed Chronic Myeloid Leukemia (CML) Patients in Chronic Phase</scientifictitle>
+    <utrn />
+    <trialacronym>ENESTxtnd</trialacronym>
+    <secondaryid>CAMN107E2401</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Myeloid Leukemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Nilotinib
+
+Experimental: Nilotinib - 300 mg BID
+
+
+Treatment: drugs: Nilotinib
+This was an open-label, single-arm, prospective, multi-center, Phase IIIb clinical study with nilotinib 300 mg bid treatment in newly diagnosed CML-CP patients not previously treated with imatinib therapy and diagnosed within 6 months of study entry. For patients insufficiently responding to nilotinib 300 mg bid, the dose may have been increased to 400 mg bid. Among patients with adverse events who had dose reduction, this study also allowed a possible re-escalation to 300 mg bid.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The Percentage of Patients Achieving MMR by 12 Months - MMR is defined as BCR-ABL ratio (%) on IS &lt;= 0.1% (corresponds to &gt;=3 log reduction of BCR-ABL transcripts from standardized baseline value). Clopper-Pearson method</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Molecular Response at 24 Months - Estimated median time to first MMR by Kaplan-Meier method</outcome>
+      <timepoint>24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Major Molecular Response - Kaplan-Meier estimates of duration of first MMR among patients who achieved MMR (FAS) Duration of first MMR (months) = (Minimum date of (loss of first MMR , CML-related death, progression to AP/BC during study treatment, censoring) - date of first MMR + 1) / 30.4375</outcome>
+      <timepoint>3, 6, 9, 12, 15, 18, 21, 24 Months after MMR was detected</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Complete Cytogenetic Response - Complete cytogenetic response (CCyR) is defined as a value of 0% Ph+ metaphases in bone marrow.</outcome>
+      <timepoint>6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Estimated to Maintain Their First CCyR for 6, 12, 18, and 24 Months After the First CCyR Was Achieved as Determined by Kaplan Meier Estimatation. - * CCyR = 0% Ph+ metaphases based on at least 20 metaphases from bone marrow cytogenetics.
+Duration of first CCyR (months) = (date of CCyR loss or censoring - date of first CCyR +1) / 30.4375</outcome>
+      <timepoint>6,12,18 and 24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival - OS was defined as the time between date of study entry and date of death due to any cause at any time during the study, including the follow-up period after discontinuation of treatment.</outcome>
+      <timepoint>3, 6, 9, 12, 15, 18, 21, 24 Months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kaplan-Meier Estimates of Progression-free Survival - PFS was defined as the time from the date of study entry to the date of event defined as the first documented disease progression to AP/BC or the date of death from any cause occurring on treatment.</outcome>
+      <timepoint>3,6,9,12,15,18,21,and 24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Kaplan-Meier Estimates of Failure-free Survival - Time to event (months) = (date of event or censoring - date of study entry + 1) / 30.4375. Date of event is the earliest date of the following events during treatment : discontinuation of nilotinib for nilotinib-related adverse events, death due to any cause, progression to AP or BC, loss of PCyR, loss of CCyR, loss of CHR. Time is censored at the date of last assessment in the trial for patients without event.</outcome>
+      <timepoint>3,6,9,12,15,18,21,and 24 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Patients with chronic myeloid leukemia in the chronic phase diagnosed within 6 months of
+        study entry</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Treatment with tyrosine kinase inhibitor or other antileukemic agents or treatments
+             (including HSCT) for longer than 2 weeks, with exception of hydroxyurea and/or
+             anagrelide
+
+          -  Uncontrolled congestive heart failure or hypertension
+
+          -  Myocardial infarction or unstable angina pectoris within past 12 months
+
+          -  Known T315I mutations
+
+          -  QTcF &gt;450 msec
+
+          -  Significant arrhythmias
+
+        Other protocol-defined inclusion/exclusion criteria may apply</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>421</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/11/2014</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD,SA,TAS,VIC,WA</recruitmentstate>
+    <hospital>Novartis Investigative Site - Canberra</hospital>
+    <hospital>Novartis Investigative Site - Concord NSW</hospital>
+    <hospital>Novartis Investigative Site - Gosford</hospital>
+    <hospital>Novartis Investigative Site - Kingswood</hospital>
+    <hospital>Novartis Investigative Site - Kogarah</hospital>
+    <hospital>Novartis Investigative Site - Liverpool</hospital>
+    <hospital>Novartis Investigative Site - St. Leonards</hospital>
+    <hospital>Novartis Investigative Site - Westmead</hospital>
+    <hospital>Novartis Investigative Site - Douglas</hospital>
+    <hospital>Novartis Investigative Site - Woolloongabba</hospital>
+    <hospital>Novartis Investigative Site - Adelaide</hospital>
+    <hospital>Novartis Investigative Site - Bedford Park</hospital>
+    <hospital>Novartis Investigative Site - Hobart</hospital>
+    <hospital>Novartis Investigative Site - Box Hill</hospital>
+    <hospital>Novartis Investigative Site - Clayton</hospital>
+    <hospital>Novartis Investigative Site - Fitzroy</hospital>
+    <hospital>Novartis Investigative Site - Heidelberg</hospital>
+    <hospital>Novartis Investigative Site - Parkville</hospital>
+    <hospital>Novartis Investigative Site - Wodonga</hospital>
+    <hospital>Novartis Investigative Site - Nedlands</hospital>
+    <hospital>Novartis Investigative Site - Perth</hospital>
+    <postcode>2605 - Canberra</postcode>
+    <postcode>2139 - Concord NSW</postcode>
+    <postcode>2250 - Gosford</postcode>
+    <postcode>2747 - Kingswood</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>2065 - St. Leonards</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>4810 - Douglas</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>3050 - Parkville</postcode>
+    <postcode>3690 - Wodonga</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>6000 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>Algeria</country>
+      <state>Bouzareah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Algeria</country>
+      <state>Oran</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Entre Rios</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>BA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>GO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>PR</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>RS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>New Brunswick</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Newfoundland and Labrador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Nova Scotia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Egypt</country>
+      <state>Alexandria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Egypt</country>
+      <state>Cairo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Egypt</country>
+      <state>Mansoura</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Chennai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Maharashtra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Tamil Nadu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petach Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lebanon</country>
+      <state>Beirut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lebanon</country>
+      <state>Saida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Pulau Pinang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Selangor</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Sonora</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>San Luis Potosi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Oman</country>
+      <state>Muscat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Russia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ekaterinburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Irkutsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Nizhnii Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-on-Don</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Tula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state>Dammam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state>Jeddah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state>Riyadh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Gauteng</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Bloemfontein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Observatory</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Parktown</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Pretoria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taiwan, ROC</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Lin-Kou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Niaosong Township</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Chiang Mai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Muang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Tunisie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Tunis</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Arab Emirates</country>
+      <state>Dubai</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Novartis Pharmaceuticals</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will further investigate the safety and efficacy of nilotinib in newly diagnosed
+      chronic myeloid leukemia patients in the chronic phase</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01254188</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Novartis Pharmaceuticals</name>
+      <address>Novartis Pharmaceuticals</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

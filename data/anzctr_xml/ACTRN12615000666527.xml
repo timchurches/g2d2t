@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368763">
+  <stage>Registered</stage>
+  <submitdate>16/06/2015</submitdate>
+  <approvaldate>26/06/2015</approvaldate>
+  <actrnumber>ACTRN12615000666527</actrnumber>
+  <trial_identification>
+    <studytitle>In people with type 1 diabetes, can an artificial pancreas algorithm improve postprandial glycaemic control following an unannounced meal compared with traditional carbohydrate counting?</studytitle>
+    <scientifictitle>In people with type 1 diabetes, can an artificial pancreas algorithm improve postprandial glycaemic control following an unannounced meal compared with traditional carbohydrate counting?</scientifictitle>
+    <utrn />
+    <trialacronym>SCENIC</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type 1 diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The Hunter New England Diabetes Research Network (HNEHRN) has developed a novel artificial pancreas algorithm with multiple future food and exercise scenarios called scenario based moving horizon stochastic dynamic programming (SCENIC). SCENIC will allow the integration of multiple inputs, learnt responses and patterning data so the system can cope with events such as food and exercise without hypoglycaemia. This study will determine if SCENIC is capable of maintaining glycaemic control during a meal. 
+Participants will attend the Hunter Medical Research Institute for 5 consecutive evenings at 4pm, having fasted and not adjusted their insulin since 1pm.  Participants will have their blood glucose levels monitored using capillary blood sampling and a glucometer at 15 min intervals from 4-5pm.  At 5pm, participants will be given the standardised test meal and their blood glucose levels will continue to be monitored at 15 min intervals until 9pm.
+On the first night, no mealtime insulin dose will be administered. On the second night, the usual mealtime insulin bolus will be administered according the the participant's usual clinical care. On nights 3-5, the insulin dose will be determined using SCENIC.
+In the event of hypoglycaemia prior to the session, the session will be rescheduled. In the event of hypoglycaemia during a session, the session will be terminated and the participant treated according to their routine clinical care.</interventions>
+    <comparator>The comparator is usual care for mealtime insulin dosing in type 1 diabetes.  This consists of the individualised insulin: carbohydrate ratio with a correction bolus for pre-meal hyperglycaemia.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean blood glucose level</outcome>
+      <timepoint>30 minute intervals for 4 hours commencing at the time of the meal</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of hypoglycaemia (&lt;4 mmol/L) measured through capillary blood sampling and a glucometer. </outcome>
+      <timepoint>30 minutes intervals for 4 hours commencing at the time of the meal</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Peak blood glucose level</outcome>
+      <timepoint>30 minute intervals over 4 hours commencing at the time of the meal</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to peak blood glucose level</outcome>
+      <timepoint>30 minute intervals over 4 hours commencing at the time of the meal</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incremental area under the curve above the target blood glucose level (10 mmol/L)</outcome>
+      <timepoint>30 minute intervals over 4 hours commencing at the time of the meal</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incremental area under the curve below the target blood glucose level (4 mmol/L)</outcome>
+      <timepoint>30 minute intervals over 4 hours commencing at the time of the meal</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood glucose level at conclusion of trial</outcome>
+      <timepoint>4 hours postprandially (i.e. 9pm)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Type 1 diabetes mellitus for over 1 year
+2.	HbA1c less than or equal to 69 mmol/mol (8.5%)
+3.	Age 12y to 45yo
+4.	Body mass index less than or equal to 97th percentile
+5.	No other medical conditions
+6.	No diabetes complications 
+</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>45</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Unwilling/unable to comply with study protocol
+2.	HbA1c &gt; 69 mmol/mol (&gt; 8.5%)
+3.	Any medical condition other than type 1 diabetes
+4.	Diabetes complications including gastroparesis
+5.	Medications that would alter glycaemic response</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Eligible subjects and their families will be approached by the research nurse and/or principal investigator and they will be provided with a verbal explanation of the study as well as written information sheets. Once they have been given sufficient time to consider their participation in the trial (more than 24 hours), the parents/guardians will be asked to provide written informed consent and children to provide evidence of their assent to the study procedures. Adult participants will sign a consent form. Written consent will be obtained at or before Visit 1.  </concealment>
+    <sequence>This is a repeated measures trial - all participants will complete all test sessions in the required order (1. No insulin dose, 2. Insulin dose as per usual clinical care, 3-5. Insulin dose as per SCENIC algorithm)</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>This is a repeated measures trial - all participants will complete all test sessions in the required order (1. No insulin dose, 2. Insulin dose as per usual clinical care, 3-5. Insulin dose as per SCENIC algorithm).  Each subject acts as their own control.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Nine participants are required to provide 80% power to detect a 50% improvement in the proportion of time spent in the normal blood glucose range (4-10mmol/L), allowing for a standard deviation of 0.3. A final sample size of 10 participants will be recruited to allow for a 10% drop-out rate (based on previous studies).
+Analysis of the primary and secondary outcome measures will be done using a paired t-test for the analysis.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>29/06/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>10</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Children's Hospital - New Lambton</hospital>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>John Hunter Children's Hospital</primarysponsorname>
+    <primarysponsoraddress>John Hunter Hospital
+Locked Bag 1, Hunter Region Mail Centre
+New Lambton, NSW 2305</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>John Hunter Charitable Trust</fundingname>
+      <fundingaddress>John Hunter Hospital
+Locked Bag 1, Hunter Region Mail Centre
+New Lambton, NSW, 2305</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The research team have developed a novel artificial pancreas algorithm named SCENIC. The SCENIC algorithm has been shown to control insulin delivery and maintain good glycaemic control, including following exercise and food, on a diabetes simulator. 
+In order to advance this technology, the next stage is to test the algorithm in people with type 1 diabetes. Therefore, this study aims to compare the SCENIC algorithm with standard insulin. Adults and children with type 1 diabetes will be given a meal and either standard insulin or SCENIC controlled insulin and the blood glucose will be monitored for 4 hours after the meal.
+To achieve this aim, we will recruit 10 children and adults with type 1 diabetes using insulin pump therapy (a small, programmable device that gives insulin).  Participants will attend HMRI on 5 consecutive evenings, during which they will be given a test meal with the insulin dose determined using either standard clinical practice or the SCENIC algorithm.  Their blood glucose levels will be monitored for 4 hours following the meal to determine whether the SCENIC algorithm can improve their blood glucose control without causing hypoglycaemia.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Hunter New England Research Ethics &amp; Governance Unit
+Locked Bag 1 New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>20/04/2015</ethicapprovaldate>
+      <hrec>15/02/18/4.05</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bruce King</name>
+      <address>John Hunter Children's Hospital
+Locked Bag 1
+Hunter Region Mail Centre
+New Lambton Heights, NSW, 2305</address>
+      <phone>+61 2 4985 5634</phone>
+      <fax />
+      <email>Bruce.King@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bruce King</name>
+      <address>John Hunter Children's Hospital
+Locked Bag 1
+Hunter Region Mail Centre
+New Lambton Heights, NSW, 2305</address>
+      <phone>+61 2 4985 5634</phone>
+      <fax />
+      <email>Bruce.King@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bruce King</name>
+      <address>John Hunter Children's Hospital
+Locked Bag 1
+Hunter Region Mail Centre
+New Lambton Heights, NSW, 2305</address>
+      <phone>+61 2 4985 5634</phone>
+      <fax />
+      <email>Bruce.King@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bruce King</name>
+      <address>John Hunter Children's Hospital
+Locked Bag 1
+Hunter Region Mail Centre
+New Lambton Heights, NSW, 2305</address>
+      <phone>+61 2 4985 5634</phone>
+      <fax />
+      <email>Bruce.King@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,212 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371320">
+  <stage>Registered</stage>
+  <submitdate>18/08/2016</submitdate>
+  <approvaldate>19/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001136493</actrnumber>
+  <trial_identification>
+    <studytitle>Ventilation status of sedated patients in the cardiac catheterisation laboratory</studytitle>
+    <scientifictitle>Ventilation status of sedated patients in the cardiac catheterisation laboratory</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Sedation-induced respiratory depression</healthcondition>
+    <healthcondition>Respiratory</healthcondition>
+    <healthcondition>Cardiac</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Continuous transcutaneous carbon dioxide measurements will be recorded from patients undergoing procedures with conscious sedation, starting before conscious sedation is induced (for measurement of baseline transcutaneous carbon dioxide) and ceasing at the end of the procedure. These measurement will not be available for clinicians monitoring patients (nurses and cardiologists) and will be used purely for analysis.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Transcutaneous carbon dioxide level during sedation (OAA/S level 4 or less)  using the Sentec Digital Monitoring System with VSign 2 sensor.</outcome>
+      <timepoint>Continuous measurements taken every second, which commence approximately 10 minutes prior to the start of the procedure and are ceased at the end of the procedure.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change in transcutaneous carbon dioxide level from baseline whilst sedated (defined as OAA/S 4 or less) using the Sentec Digital Monitoring System with VSign 2 sensor.</outcome>
+      <timepoint>Continuous measurements taken every second, which commence approximately 10 minutes prior to the start of the procedure and are ceased at the end of the procedure</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Peak transcutaneous carbon dioxide level whilst sedated (defined as OAA/S 4 or less) using the Sentec Digital Monitoring System with VSign 2 sensor.</outcome>
+      <timepoint>Continuous measurements taken every second, which commence approximately 10 minutes prior to the start of the procedure and are ceased at the end of the procedure</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence of transcutaneous carbon dioxide level &gt;50mmHg whilst sedated (defined as OAA/S 4 or less) using the Sentec Digital Monitoring System with VSign 2 sensor.</outcome>
+      <timepoint>Continuous measurements taken every second, which commence approximately 10 minutes prior to the start of the procedure and are ceased at the end of the procedure.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of transcutaneous carbon dioxide level &gt;50mmHg whilst sedated (defined as OAA/S 4 or less) using the Sentec Digital Monitoring System with VSign 2 sensor.</outcome>
+      <timepoint>Continuous measurements taken every second, which commence approximately 10 minutes prior to the start of the procedure and are ceased at the end of the procedure.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing an elective procedure with conscious sedation (intravenous midazolam or midazolam and fentanyl) without an anaesthetist present in a cardiac catheterisation laboratory</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. less than 18 years of age
+2. cognitively impaired (due to inability to provide informed consent); or
+3. unable to understand and speak English (due to inability to provide written informed consent).
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Descriptive statistics will be used to calculate mean, standard deviation (or median and interquartile range) and 95% confidence intervals of pre-sedation TcCO2 as well as changes in TcCO2 that occur after sedation is administered. Multiple regression will be used to identify associations between ventilation status (measured as the mean tcCO2 whilst OAA/S score 4 or less) and participant and procedural characteristics.
+Sample size considerations
+A formal sample size calculation is not required for the primary outcome of this study, which is to describe changes in TcCO2 during sedation. It is generally recommended that 10 observations per variable are required for multivariate statistical analysis. We plan to recruit a sample of at least 100 participants in order to examine associations between ten pre-selected variables and post-sedation mean TcCO2 levels. The variables include: age, gender, BMI, sleep apnoea/obesity hypoventilation syndrome status, presence of COPD, smoking status, history of benzodiazepine/opiod use, total dose of opioids and total dose of midazolam, supplemental oxygen use and clinician interventions to support ventilation (realigning airway, verbal/physical stimulation to increase level of consciousness).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Convenience sample</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>17/08/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>John Flynn - Gold Coast Private Hospital - Tugun</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <postcode>4224 - Tugun</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Queensland University of Technology</primarysponsorname>
+    <primarysponsoraddress>Queensland University of Technology
+60 Musk Ave
+Kelvin Grove QLD 4059</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>QUT School of Nursing Seeding Grant</fundingname>
+      <fundingaddress>QUT
+60 Musk Ave
+Kelvin Grove QLD 4059</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Respiratory depression is more likely to be detected during sedation when capnography is used. However, sedation-induced respiratory depression is commonly transient and does not always cause patient harm. Randomised controlled trials have produced conflicting results regarding whether capnography improves patient safety when used during sedation. Further research is required to determine whether applying capnography to the conscious sedation context is warranted. One considerable difficulty in designing a trial to determine whether a specific intervention improves the safety of conscious sedation is that adverse sedation events that pose potential risks to patient safety, such as hypoxaemia, should be so rare that it would not be feasible to recruit the required number of participants. In contrast, the number of participants required to detect a clinically significant difference in ventilation status during conscious sedation, as measured by transcutaneous carbon dioxide concentration (TcCO2), would be feasible to recruit in the context of a clinical trial. However, in order to calculate a sample size for such a trial, the expected control group TcCO2 needs to be identified. In this study, continuous TcCO2 measurements will be recorded from patients undergoing procedures with conscious sedation, starting before conscious sedation is induced (for measurement of baseline TcC02) and ceasing at the end of the procedure. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Greenslopes Research and Ethics Committee</ethicname>
+      <ethicaddress>Greenslopes Private Hospital
+Newdegate St
+Greenslopes QLD 4120</ethicaddress>
+      <ethicapprovaldate>14/06/2016</ethicapprovaldate>
+      <hrec>16/35</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Aaron Conway</name>
+      <address>Institute of Health and Biomedical Innovation
+Queensland University of Technology
+60 Musk Ave
+Kelvin Grove QLD 4059</address>
+      <phone>+61731386124</phone>
+      <fax />
+      <email>aaron.conway@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Aaron Conway</name>
+      <address>Institute of Health and Biomedical Innovation
+Queensland University of Technology
+60 Musk Ave
+Kelvin Grove QLD 4059</address>
+      <phone>+61731386124</phone>
+      <fax />
+      <email>aaron.conway@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Aaron Conway</name>
+      <address>Institute of Health and Biomedical Innovation
+Queensland University of Technology
+60 Musk Ave
+Kelvin Grove QLD 4059</address>
+      <phone>+61731386124</phone>
+      <fax />
+      <email>aaron.conway@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Aaron Conway</name>
+      <address>Institute of Health and Biomedical Innovation
+Queensland University of Technology
+60 Musk Ave
+Kelvin Grove QLD 4059</address>
+      <phone>+61731386124</phone>
+      <fax />
+      <email>aaron.conway@qut.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

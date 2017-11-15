@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367700">
+  <stage>Registered</stage>
+  <submitdate>8/01/2015</submitdate>
+  <approvaldate>30/01/2015</approvaldate>
+  <actrnumber>ACTRN12615000081516</actrnumber>
+  <trial_identification>
+    <studytitle>Cuffed Versus Uncuffed Endotracheal Tubes for Ventilation of Neonates and Infants in the Neonatal and Paediatric Intensive Care Unit: A Pilot study</studytitle>
+    <scientifictitle>Cuffed Versus Uncuffed Endotracheal Tubes for Ventilation of Neonates and Infants in the Neonatal and Paediatric Intensive Care Unit: A Pilot study to show the efficacy of cuffed endotracheal tubes for longer term ventilation</scientifictitle>
+    <utrn>U1111-1165-8549 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Artificial ventilation in neonates and infants</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Comparing cuffed endotracheal tubes (Microcuff (registered trademark) tube) versus traditional tubes for longer term artificial ventilation in neonates and infants in the neonatal/ paediatric intensive care setting.
+The Microcuff (registered trademark) 3.0mm tube has a cuff made of ultrathin polyurethane, which when inflated makes it's seal in the trachea. The tube will be in place until the patient is ready for extubation.</interventions>
+    <comparator>Standard uncuffed endotracheal tube. Portex (registered trademark) siliconised 3.0-3.5mm endotracheal tube which makes it's seal in the cricoid. The tube will be in place until the patient is ready for extubation.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Ability to sustain the ETT leak within the desirable range of 5-20% when using the Microcuff (registered trademark) ETT compared to the use of uncuffed ETTs.
+The ETT leak is measured as a ventilator readout.</outcome>
+      <timepoint>The outcome will be assessed from initial intubation and artificial ventilation to the time of successful extubation. Successful extubation is defined as 12 hours post extubation where the patient is free of symptoms of upper airway swelling or lung disease requiring re-intubation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Airway swelling/ damage.
+Measured by extubation laryngoscopy, need for dexamethasone/ nebulised adrenaline and reintubation.</outcome>
+      <timepoint>From time of extubation to 12 hours symptom free.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Efficacy of ventilation.</outcome>
+      <timepoint>Measured by FiO2 requirement, PIP/ MAP/ PEEP requirements, oxygenation index, whether VG/ VC ventilation was ceased due to large air leak, days ventilated, episodes of atelectasis radiographically, episodes of pneumonia, episodes of tube blockage, re-intubations.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Neonates &gt;35/40 gestation and &gt;3kg in weight and infants &lt;3 months of age.
+Medical and surgical patients.
+Expected to require ventilation for &gt;12 hours.
+</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Hours</inclusiveminagetype>
+    <inclusivemaxage>3</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Ex-preterm infants (&lt;32/40 at birth) who received an ETT in that first admission in the NICU. 
+Known or suspected airway abnormality.
+Intubation happening in neonates on non-metropolitan retrievals via RFDS.
+Parents refused consent.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Parents of all eligible patients who may require intubation in the near future and are to be admitted or are already admitted to NICU and PICU and who fulfil the inclusion/ exclusion criteria will be approached for consent if practical to do so. This ideally will happen on transport retrieval for those whose parents are not travelling with their children or on admission to the unit. Those going for routine surgery will be approached well in advance of going to theatre. Written informed consent will be obtained. 
+
+In the case of an emergency intubation in a neonate or infant who is eligible for the trial, they will be enrolled in the trial and randomised, with delayed consent from the parents following the procedure. If the parents do not wish to continue in the trial, no data will be collected on their child. The same tube will continue to be used unless there is a clinical reason to change the tube as changing the tube confers an unnecessary risk to the patient. 
+</concealment>
+    <sequence>Randomisation sequence will be generated using computer generated random numbers by MinimPy. Study population will be stratified as NICU and PICU patients by using a location variable with the MinimPy program. This should reduce both bias in age, type of ventilator used and normal protocols/ care for the different units. Stratification will also be done based on whether the patient has a medical or a surgical condition requiring ventilation. The allocation to either Cuffed or un-Cuffed produced by MinimPy program will be sealed in a opaque envelope. The sealed opaque envelopes containing the allocation type will be opened only immediately prior to the procedure of endotracheal intubation.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>When analysing the data, intention to treat method will be followed.
+
+Statistical analysis will be done using the Stata 13.0 software (StataCorp LP, 4905 Lakeway Drive, College Station, Texas 77845-4512 USA). Continuous variables with normal distribution will be summarised using the mean (SD). Data with skewed distribution will be summarised using the median and IQR. For comparing normative data, the student t test will be used. For comparing non-normative data (skewed distribution), MannWhitney rank-sum test will be used. Differences for categorical variables will be tested by using chi-squared analysis or Fisher-exact test as appropriate. Relative risk and 95% confidence intervals will also be calculated for binary outcomes (eg. stridor or no stridor). For all statistical inference, a p value of &lt;0.05 will be considered as significant. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>16/02/2015</anticipatedstartdate>
+    <actualstartdate>25/02/2015</actualstartdate>
+    <anticipatedenddate>14/02/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>74</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Princess Margaret Hospital - Subiaco</hospital>
+    <postcode>6008 - Subiaco</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Princess Margaret Hospital</primarysponsorname>
+    <primarysponsoraddress>Roberts Road, Subiaco, WA 6008</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Channel 7 Telethon</fundingname>
+      <fundingaddress>PO Box 50, Tuart Hill WA 6939
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Princess Margaret Hospital</fundingname>
+      <fundingaddress>Roberts Road, Subiaco, WA 6008</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this pilot study is to show the efficacy of using cuffed endotracheal tubes (ETT) for longer term ventilation in neonates &gt;3kg and infants &lt;3 months in the neonatal and paediatric intensive care setting. 
+
+Cuffed ETTs potentially offer the advantage of a less or more manageable air leak and therefore improved ventilation. This is extremely relevant in theatre and in the intensive care unit (ICU) where inflammation, fluid shifts and changes in lung compliance result in dynamic changes.
+
+There has been much debate in recent years over the use of cuffed versus uncuffed ETTs for the ventilation of neonates, infants and children. Traditionally, uncuffed ETTs have been used due to historical, unsubstantiated concerns over the safety of using cuffed ETTs in small children. However, over the last few years with the advent of the newer high-volume low-pressure cuffed tubes (HVLP), there has been an increase in the use of cuffed tubes in children from birth (&gt;3kg) particularly during anaesthesia for surgical procedures. There has also been an increase in use for longer term ventilation in the PICU.
+
+Our hospital is now using cuffed ETTs in small children from birth for anaesthesia in theatre and they are also commonly used in PICU. They are sometimes being used in term neonates in the NICU when they come back from theatre with one in place.
+
+Most of the data available in the literature concerns short term use of cuffed ETTs in the anaesthetic setting, but data supporting the use of cuffed or uncuffed tubes for longer term ventilation in neonates and infants is poorly studied. 
+
+It is an important question as complications with regard to inadequate ventilation contribute to prolonged hospital stay and inappropriate tube selection and multiple tube changes contribute to airway trauma potentially requiring airway reconstruction inferring a high cost to the patient and health care system.
+
+This is a pilot RCT to begin the process of bringing some proper scientific rigor to the subject. It will take place at PMH in 6B (NICU) and PICU with the involvement of anaesthetics when the tube is placed in theatre. It will include neonates &gt;3kg and infants up to 3 months of age.
+
+Patients will be randomised to receive a cuffed or uncuffed ETT and then data will be collected to look at the primary outcome of tube leak. The secondary objective is to show comparable or improved safety and improvement in the ability to ventilate with cuffed ETTs when compared with uncuffed ETTs.
+
+With this initial study, we hope to show that safety and efficacy is at least on a par with the traditional uncuffed ETTs and maybe a trend towards improved ventilation. With these initial results, we will go on to set up a larger multi-centre RCT to look at the outcomes in more detail.
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee (HREC), Princess Margaret Hospital</ethicname>
+      <ethicaddress>Roberts Road,
+Subiaco,
+WA 6008</ethicaddress>
+      <ethicapprovaldate>23/12/2014</ethicapprovaldate>
+      <hrec>2014111EP</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Rebecca Thomas</name>
+      <address>Neonatal Intensive Care Unit,
+Princess Margaret Hospital,
+Roberts Road,
+Subiaco,
+WA 6008</address>
+      <phone>+64 8 93408222</phone>
+      <fax />
+      <email>Rebecca.Thomas2@health.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rebecca Thomas</name>
+      <address>Neonatal Intensive Care Unit,
+Princess Margaret Hospital,
+Roberts Road,
+Subiaco,
+WA 6008</address>
+      <phone>+64 8 93408222</phone>
+      <fax />
+      <email>Rebecca.Thomas2@health.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rebecca Thomas</name>
+      <address>Neonatal Intensive Care Unit,
+Princess Margaret Hospital,
+Roberts Road,
+Subiaco,
+WA 6008</address>
+      <phone>+64 8 93408222</phone>
+      <fax />
+      <email>Rebecca.Thomas2@health.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rebecca Thomas</name>
+      <address>Neonatal Intensive Care Unit,
+Princess Margaret Hospital,
+Roberts Road,
+Subiaco,
+WA 6008</address>
+      <phone>+64 8 93408222</phone>
+      <fax />
+      <email>Rebecca.Thomas2@health.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

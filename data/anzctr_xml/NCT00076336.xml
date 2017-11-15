@@ -1,0 +1,297 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="423">
+  <stage>Registered</stage>
+  <submitdate>20/01/2004</submitdate>
+  <approvaldate>20/01/2004</approvaldate>
+  <nctid>NCT00076336</nctid>
+  <trial_identification>
+    <studytitle>Telbivudine Versus Lamivudine in Adults With Decompensated Chronic Hepatitis B and Evidence of Cirrhosis</studytitle>
+    <scientifictitle>Randomized, Double-Blind Trial of Telbivudine Versus Lamivudine in Adults With Decompensated Chronic Hepatitis B and Evidence of Cirrhosis</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>CLDT600A2301</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Hepatitis</healthcondition>
+    <healthcondition>Hepatitis B, Chronic</healthcondition>
+    <healthcondition>Cirrhosis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Connective tissue diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Telbivudine
+Treatment: drugs - Lamivudine
+Treatment: drugs - Placebo
+
+Experimental: Telbivudine 600 mg - Participants received Telbivudine 600 mg and a matching lamivudine placebo orally once a day for up to 104 weeks. Participants were followed-up for 16 weeks post-treatment.
+
+Active Comparator: Lamivudine 100 mg - Lamivudine 100 mg and a Telbivudine matching placebo orally once a day for up to 104 weeks. Participants were followed-up for 16 weeks post-treatment.
+
+
+Treatment: drugs: Telbivudine
+600mg/day oral tablet for 104 weeks
+
+Treatment: drugs: Lamivudine
+100mg/day oral tablet for 104 weeks
+
+Treatment: drugs: Placebo
+Telbivudine matching placebo or lamivudine matching placebo tablet.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of Participants With Clinical Response - Clinical response defined as achieving all of the following 3 criteria on at least 2 consecutive visits or at the last on-treatment visit: Serum hepatitis B virus (HBV) DNA &lt; 4 log10 copies/mL, normal Alanine transaminase (ALT) level (ALT = Upper Limit of Normal (ULN)), and improvement (a 2- point or greater reduction in Child-Turcotte-Pugh (CTP) score) or stabilization (not more than a 1-point change in CTP score), compared to the baseline value. CTP scores range from 5-15, higher scores indicate more liver impairment. For Improvement/Stabilization, either of the individual criteria were met.</outcome>
+      <timepoint>From Baseline to Week 52</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Initial Clinical Response - Time to Clinical Response defined as the number of days elapsed from the baseline visit to achieving initial Clinical Response.</outcome>
+      <timepoint>From Baseline to Week 104</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Initial Clinical Response - Kaplan-Meier method was used. The duration was calculated as: date of last visit before initial loss of clinical response - date of initial clinical response occurred+1. If a patient did not lose clinical response, it was then censored at the efficacy overall censoring date.</outcome>
+      <timepoint>Baseline to Week 104</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Improvement, Stabilization, and Worsening in Child-Turcotte-Pugh (CTP) Score at Week 52 and Week 104 - Child-Turcotte-Pugh (CTP) uses 2 clinical variables, ascites and encephalopathy, and 3 laboratory parameters, serum bilirubin, albumin, and prothrombin time. Each variable is assigned a score from 1 to 3, with the combined score comprising the CTP score range of 5 to 15 points. Higher scores indicate more impaired liver function. "Worsening" of CTP score was defined as a 2-point or greater increase from baseline, "improvement" in CTP score was defined as a 2-point or greater reduction from baseline, and "stabilization" of CTP score was defined as a change of 1-point or less from baseline.</outcome>
+      <timepoint>From Baseline to weeks 52 and 104</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Improvement, Stabilization, and Worsening in a Modified (3-component) CTP Score - Modified CTP was calculated using the 3 biochemical-components (serum bilirubin, albumin, and prothrombin). Total scores range from 3-9; higher scores indicate more liver impairment. Improvement was defined as 2-point or greater reduction in score from baseline. Stabilization comprises a score change of 1-point or less from baseline. Worsening of CTP score was defined as a 2-point or greater increase from baseline. The rationale for assessing changes in this modified (3-component) CTP score is that this maneuver removed the two subjective components of CTP scoring (ascites and encephalopathy).</outcome>
+      <timepoint>Baseline and Week 104</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Documented decompensated chronic hepatitis B defined by all of the following: 1.
+             Clinical history compatible with decompensated chronic hepatitis B related cirrhosis;
+             2. Child-Turcotte-Pugh score &gt; 7 points.
+
+          -  Evidence of hepatic cirrhosis or portal hypertension.
+
+        Other protocol-defined inclusion criteria may apply.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>70</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Patient is pregnant or breastfeeding.
+
+          -  Patient is coinfected with hepatitis C virus (HCV), hepatitis D virus (HDV), or Human
+             immunodeficiency virus (HIV).
+
+          -  Patient previously received lamivudine, adefovir, or an investigational anti-hepatitis
+             B virus (HBV) nucleoside or nucleotide analog at any time
+
+          -  Patient has received interferon or other immunomodulatory treatment for HBV infection
+             in the 12 months before Screening for this study.
+
+        Other protocol-defined exclusion criteria may apply.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2003</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>232</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Heidelburg</hospital>
+    <postcode> - Heidelburg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Winnipeg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hannover</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>New Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Latvia</country>
+      <state>Riga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Malaysia</country>
+      <state>Kuala Lumpur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Hanoi</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Novartis Pharmaceuticals</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This research study was conducted to compare the safety and effectiveness of the
+      investigational medication, LdT (Telbivudine) versus Lamivudine, a drug currently approved by
+      the US, European and Asian Health Authorities for the treatment of Hepatitis B infection. The
+      results for patients taking LdT will be compared to results for patients taking lamivudine.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00076336</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

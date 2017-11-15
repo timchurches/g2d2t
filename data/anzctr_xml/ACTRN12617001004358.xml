@@ -1,0 +1,240 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373277">
+  <stage>Registered</stage>
+  <submitdate>10/07/2017</submitdate>
+  <approvaldate>12/07/2017</approvaldate>
+  <actrnumber>ACTRN12617001004358p</actrnumber>
+  <trial_identification>
+    <studytitle>ReCHARGE - Online self-management of cancer-related fatigue: a multimodal approach</studytitle>
+    <scientifictitle>ReCHARGE - an online multimodal self-management program evaluating the impact of 12 weeks participation on cancer-related fatigue as measured by change in fatigue score from baseline to 12 weeks </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cancer-related fatigue</healthcondition>
+    <healthcondition>Leukemia</healthcondition>
+    <healthcondition>Lymphoma</healthcondition>
+    <healthcondition>Myeloma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Myeloma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The 12-week web-based program was developed based on best evidence reflecting the recommendations of the recent American Society of Clinical Oncology guidelines for the non-pharmacological management of cancer-related fatigue. The intervention is delivered as an online program via the internet for individual participation. It is intended for use in the participants home, however can be accessed from any computer with internet capabilities.
+The program consists of three components.
+1.Education about cancer-related fatigue
+2.Toolkit Modules covering: sleep therapy, energy management, physical activity and mind-body interventions (cognitive-behavioural therapy and mindfulness-based interventions)
+3.Online self-assessments, tracking and progress monitoring 
+Materials and procedures: Each module includes educational content, interactive exercises, self-assessment and tracking. Educational content is provided by material written specifically for the program by recognised experts in the field. It includes a combination of text, images, audio and videos. The education sections will also be portals to existing curated high quality information. Interactive exercises check the participants understanding of information that is provided and ensures their ability to apply the information to their individual situation. Self-assessment and tracking capabilities of the program allow participants to monitor and track their individual progress over time in relation to level of cancer-related fatigue. Motivation and reinforcement is facilitated by these functions with direct visualisation of improvements using individualised tables and graphs for easy interpretation of progress. 
+The online program is self-paced with unlimited access during the intervention period of 12 weeks. Weekly motivational emails are sent to participants with a progress summary and a reminder to complete modules and activities that are still incomplete.
+Participants will initially be directed to general information about cancer-related fatigue. They subsequently can choose the modules that they further participate in to allow for an individually tailored approach. They are provided with a suggested weekly schedule. Prompts and encouragement to ongoing participation are forwarded via email and the program is able to place reminders in an electronic calendar.
+The program includes an administrator interface for access to usage analytics by authorised members of the research team.  Adherence to intervention will be assessed using:	
+Number of website visits
+Number of log-ins
+Number of modules completed
+Length of time logged in
+Total length of intervention exposure
+
+
+</interventions>
+    <comparator>Wait-list control group will receive usual care i.e. routine care with no access to the intervention
+After a period of 12 weeks, the wait-list control group will be given access to the intervention. </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The impact of participating in the web-based program for 12 weeks on cancer-related fatigue as measured by change in fatigue score from baseline to 12 weeks on the Functional Assessment of Chronic Illness Therapy Fatigue (FACIT-F) Scale.</outcome>
+      <timepoint>12 weeks post-intervention commencement</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health-related quality of life and its individual domains as measured by the Funcitonal Assessment of cancer Therapy (FACT)-general questionnaire.</outcome>
+      <timepoint>12 weeks post-intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physical activity levels as measured by the Godin Leisure-time activity score</outcome>
+      <timepoint>12 weeks post-intervention commencement</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>General distress as measured by the DASS-21 questionnaire</outcome>
+      <timepoint>12 weeks post-intervention commencement</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age greater than or equal to 18 years
+Fatigue score greater than or equal to 4 on a 0-10 numeric rating scale
+Diagnosis of haematological malignancy including acute leukaemia, lymphoma and
+multiple myeloma
+Completed cancer treatment delivered with intent to cure or induce long-term remission within 3 to 24 months
+Comprehensive, focused clinical and laboratory assessment by medical team has failed to identify a medically reversible cause for fatigue
+Life expectancy &gt;6 months
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Non-English speaking or reading
+Planned radiotherapy or chemotherapy
+Physical activity contraindicated
+Physiological reason for fatigue
+Severe psychiatric disorder e.g. severe depression
+Do not use or have access to the internet
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation using a randomisation table from a statistic book</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Power calculations show that 99 patients are needed in each study arm assuming a significance of 5% (two tailed), with power of 80% to detect a clinically relevant change of 4 points on the primary outcome variable (FACIT-Fatigue).
+Primary analysis will be based on intention to treat using Linear Mixed Effect Modelling to assess for between group differences at the various time points for the primary and secondary outcome measures. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/10/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/04/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/07/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Latrobe Regional Hospital - Traralgon</hospital>
+    <hospital>Peninsula Oncology Centre - Frankston</hospital>
+    <postcode>3004 - Prahran </postcode>
+    <postcode>3844 - Traralgon</postcode>
+    <postcode>3199 - Frankston</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Sharon Avery</primarysponsorname>
+    <primarysponsoraddress>Alfred Hospital
+Commercial Road
+Melbourne VIC 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Victoria Department of Health and Human Services</fundingname>
+      <fundingaddress>Victorian Cancer Survivorship Program
+50 Lonsdale Street
+Melbourne VIC 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this study is to determine the effectiveness of an online self-management program on cancer-related fatigue in cancer survivors. 
+
+Who is it for?
+You may be eligible to join this study if you are aged 18 years or above, have been diagnosed with a haematological malignancy, completed cancer treatment, and experience cancer-related fatigue. 
+
+Study details
+Participants in this study are randomly allocated (by chance) to one of two groups. Participants in one group will receive a 12-week web-based interactive self-management program, whilst participants in the other group will receive usual care. The self-management program provides comprehensive information and multimodal fatigue management strategies based on best evidence reflecting the recommendations of the recent American Society of Clinical Oncology guidelines for the non-pharmacological management of cancer-related fatigue. Participants will be followed-up at the end of the 12 week period to assess the impact of the program on fatigue.  After waiting for a period of 12 weeks, the group who received usual care will be invited to participate in the online program for a total of 12 weeks.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Hospital Ethics Committee</ethicname>
+      <ethicaddress>Alfred Hospital
+Commercial Road
+Melbourne VIC .3004</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>21/08/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Avery</name>
+      <address>Alfred Hospital
+Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61 (0)3 9076 2000</phone>
+      <fax>+61 (0)3 9076 2298</fax>
+      <email>s.avery@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Stella Neale</name>
+      <address>Alfred Hospital
+Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61 0407 589 284 </phone>
+      <fax>+61 (0)3 9076 2298</fax>
+      <email>s.neale@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Avery</name>
+      <address>Alfred Hospital
+Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61 (0)3 9076 2000</phone>
+      <fax>+61 (0)3 9076 2298</fax>
+      <email>s.avery@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sharon Avery</name>
+      <address>Alfred Hospital
+Commercial Road
+Melbourne VIC 3004</address>
+      <phone>+61 (0)3 9076 2000</phone>
+      <fax>+61 (0)3 9076 2298</fax>
+      <email>s.avery@alfred.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

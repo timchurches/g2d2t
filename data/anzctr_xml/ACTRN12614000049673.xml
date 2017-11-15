@@ -1,0 +1,213 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365569">
+  <stage>Registered</stage>
+  <submitdate>6/01/2014</submitdate>
+  <approvaldate>17/01/2014</approvaldate>
+  <actrnumber>ACTRN12614000049673</actrnumber>
+  <trial_identification>
+    <studytitle>Nitrates for bone protection in chronic kidney disease</studytitle>
+    <scientifictitle>Nitrates as a potential therapeutic option for bone fragility in chronic kidney disease - a randomised, double blind placebo controlled trial</scientifictitle>
+    <utrn />
+    <trialacronym>NITRACKD</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic kidney disease</healthcondition>
+    <healthcondition>Osteopenia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Osteoporosis</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Isosorbide dinitrate 20 mg or matching placebo once daily for 12 months as an oral tablet. Adherence will be monitored by counting of drug tablet returned.</interventions>
+    <comparator>Placebo (matching microcellulose tablet)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Spinal bone mineral density (BMD), measured by dual energy x-ray absorptiometry (DXA).</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Serum alkaline phosphatase.</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Femoral neck, total hip and distal radius BMD, measured by dual energy x-ray absorptiometry (DXA).</outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum bone turnover markers (PINP and CTX)</outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants willl have both stage 3 or 4 CKD and either
+osteopenia or osteoporosis</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Minimal trauma fractures
+Uncorrected vitamin D deficiency (&lt; 50 nmol/L)
+PTH &gt; 15 pmols/L
+Metabolic bone diseases
+Prednisolone &gt; 5 mgs/d
+Unexplained elevation of serum alkaline phosphatase</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be randomised to active or placebo groups with stratification for sex. Recruitment into mild CKD will be limited to 20 (one third) using allocation concealment. The person who will determine if a subject is eligible for inclusion in the trial will be unaware, when this decision is made, to which group the subject will be allocated. Allocation will involve contacting the holder of the allocation schedule who will be “off-site” at a central administration site.</concealment>
+    <sequence>Stratified, block randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/10/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Western Hospital - Footscray</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <postcode>3011 - Footscray</postcode>
+    <postcode>3021 - St Albans</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>NorthWest Academic Centre.
+176 Furlong Road
+St. Albans
+VIC 3021
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Kidney Health Australia</fundingname>
+      <fundingaddress>125 Cecil Street, South Melbourne VIC 3205</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Studies have consistently shown that low trauma fractures are widely prevalent among patients with chronic kidney disease (CKD). However, the management of this condition remains controversial because the safety and efficacy of most currently available treatments for the prevention of fractures have not been adequately tested in patients with CKD. Further, many of these treatments are potentially toxic to kidneys and may also have deleterious effects in certain types renal bone disease. Therefore, there is a need for investigating new therapies for bone protection in CKD, using drugs that are safe and effective in patients with CKD. Recent evidence suggests that nitrates have all the attributes to be a potential candidate for bone protection in CKD. They  have been shown to have bone protective properties in postmenopausal women, although not specifically in patients with CKD, and their safety in CKD, including in patients with advanced CKD,  is well established. The current study is arandomised, placebo-controlled trail designed to assess the efficacy of isosorbide dinitrate, a commonly available oral nitrate preparation in Australia, versus placebo in the prevention of spinal bone loss in patients with moderately severe kidney disease (CKD stage 3 and 4). </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Royal Melbourne Hospital
+Grattan Street
+Parkville
+VIC 3050</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>29/01/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter R Ebeling</name>
+      <address>The University of Melbourne
+Room 5.017, Level 3
+Western Centre for Health Research and Education
+Western Health
+PO Box 294
+176 Furlong Road
+St Albans
+Vic 3021</address>
+      <phone>+61383958065</phone>
+      <fax>+61383958258 </fax>
+      <email>peterre@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter R Ebeling</name>
+      <address>Room 5.017, Level 3
+Western Centre for Health Research and Education
+Western Health
+PO Box 294
+176 Furlong Road
+St Albans
+Vic 3021</address>
+      <phone>+61383958065</phone>
+      <fax>+61383958258 </fax>
+      <email>peterre@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter R Ebeling</name>
+      <address>Room 5.017, Level 3
+Western Centre for Health Research and Education
+Western Health
+PO Box 294
+176 Furlong Road
+St Albans
+Vic 3021</address>
+      <phone>+61383958065</phone>
+      <fax>+61383958258 </fax>
+      <email>peterre@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter R Ebeling</name>
+      <address>Room 5.017, Level 3
+Western Centre for Health Research and Education
+Western Health
+PO Box 294
+176 Furlong Road
+St Albans
+Vic 3021</address>
+      <phone>+61383958065</phone>
+      <fax>+61383958258 </fax>
+      <email>peterre@unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

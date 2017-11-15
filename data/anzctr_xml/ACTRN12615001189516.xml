@@ -1,0 +1,228 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369445">
+  <stage>Registered</stage>
+  <submitdate>11/10/2015</submitdate>
+  <approvaldate>4/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001189516</actrnumber>
+  <trial_identification>
+    <studytitle>Breaking Up Sitting Time after Stroke (BUST-Stroke)</studytitle>
+    <scientifictitle>Breaking up Sitting Time after Stroke (BUST-Stroke): A randomised within-participant cross-over study to determine the metabolic effects of breaking up uninterrupted sitting time in stroke survivors.</scientifictitle>
+    <utrn />
+    <trialacronym>BUST Stroke</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Haemorrhagic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Two different experimental conditions:
+1. Prolonged sitting (8 hours) during which every 30mins participants will perform exercises in standing for 3 minutes (ie. calf raises, knee lifts semi-squats).
+2. Prolonged sitting (8 hours) during which every 30mins participants will walk for 3 minutes.
+Activities, time on task during the activity bouts, toilet breaks and any deviations from protocol for each condition will be recorded in the participant's Case Report Form by the research assistant.
+
+There will be a 6 day wash out period between each conditions.
+
+Breakfast will be provided for each participant at approx 8.30am and lunch approx 4 hours later. Each meal provided will contain approximately one third of the participants energy requirements and the full days meals combined will have a macronutrient profile in line with the Acceptable Macronutrient Distribution Ranges as recommended by the Nutrient Reference Values for Australians and New Zealanders. Carbohydrate contribution will constitute approximately 55% of energy in order to elicit an adequate glucose and insulin response. 
+</interventions>
+    <comparator>Prolonged sitting (8 hours) without interruption</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Within-participant, between condition differences in post-prandial glucose (incremental area under the curve) by blood sample.</outcome>
+      <timepoint>Every hour during each 8 hour condition.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Insulin control by blood sample.</outcome>
+      <timepoint>Every hour during each 8 hour condition.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Within-participant, between condition differences in systolic and diastolic blood pressure as measured using a sphygmomanometer.</outcome>
+      <timepoint>Every half hour during each 8 hour condition.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma fibrinogen assessed by blood sample </outcome>
+      <timepoint>Begin and end of each 8 hour condition.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Feasibility (adherence to protocol) by 1. number of participants completing each condition with few deviations from protocol within each condition and throughout the duration of the study and 2. low scores on the Degree of Difficulty Scale completed by each participant after each testing day.</outcome>
+      <timepoint>Continuous monitoring of adherence throughout each testing day and the overall duration of the study.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Stroke survivors who are:
+*Greater than or equal to 6 months post-stroke with moderate walking disability as defined as
+*score of =2 on the Functional Ambulation Classification (ie. require the assistance of less than or equal to 1 person to safely walk) AND
+*walking speed between 0.4 to 0.8m/s
+*able to toilet independently and 
+*able to stand from sitting from a lounge chair independently or with minimal assistance of less than or equal to 1 person
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>*employment in a non-sedentary occupation (ie. non-office based occupation), 
+*self-reported &lt; 4 hours/day sitting 
+*regularly engaged in physical activity (ie. greater than or equal to 150min/week) as assessed by self-report
+*BMI &gt; 45kg/m2 
+*current smoker
+*pregnant
+*clinically diagnosed with acute/chronic illness or other condition which has known physical activity contraindications or limits their ability to complete the each experimental condition (ie. chronic low back pain aggravated by prolonged sitting)
+*urinary frequency and or urinary urgency or requiring assistance with toileting (other than to mobilise to the toilet) and
+*insulin dependent diabetes or who are taking diabetes medication other than metformin. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Yes, via sequentially numbered sealed opaque envelopes.</concealment>
+    <sequence>The order of the experimental conditions will be randomised for each participant. Permuted block randomisation will be used. A person independent to the trial will prepare a set of sequentially numbered, sealed, numbered opaque envelopes which contain the experimental condition sequence. At the end of each participation’s familiarisation visit the research assistant will open the next envelope in the sequence to reveal the randomisation schedule. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>Note: blinding will only be possible for the analyses of blood samples. This will occur by creating codes for the conditions which will be unknown to the person conducting the assays.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>The study is powered to detect clinically meaningful differences in post-prandial glucose and insulin incremental area under the curve. Based on previous mean changes (10% for glucose and 60% for insulin, Dunstan 2012b), estimates of population variability (SD 1% glucose and 30% insulin) and assuming a correlation coefficient of 0.5 between repeated measures, 19 paired observations (ie participants) will achieve a power of 0.9 to detect smallest worthwhile effect (two tailed testing, a=0.05).
+Differential effects of the experimental conditions on cardio-metabolic biomarkers will be assessed using generalised linear mixed models with random intercepts (recommended best practice for cross-over trials). Safety and feasibility outcomes will be analysed descriptively, and by comparing odds of adverse events across experimental conditions.
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>8/12/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>12/09/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>19</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>2300 - Newcastle</postcode>
+    <postcode>2327 - Kurri Kurri</postcode>
+    <postcode>2283 - Toronto</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Newcastle</primarysponsorname>
+    <primarysponsoraddress>University Drive
+Callaghan NSW 2308</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>National Stroke Foundation</fundingname>
+      <fundingaddress>LEVEL 7 461 BOURKE STREET, Melbourne Victoria 3000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>National Stroke Foundation</sponsorname>
+      <sponsoraddress>LEVEL 7 461 BOURKE STREET, Melbourne Victoria 3000</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Hunter Medical Research Institute</othercollaboratorname>
+      <othercollaboratoraddress>Kookaburra Crt
+New Lambton Heights
+NSW 2305</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Baker Institute of Diabetes International</othercollaboratorname>
+      <othercollaboratoraddress>Level 4, 99 Commercial Rd, Melbourne, VIC, 3004 Australia</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Florey Neuroscience Institutes</othercollaboratorname>
+      <othercollaboratoraddress>Level 1, Melbourne Brain Centre, Austin Hospital, 245 Burgundy St, Heidelberg VIC 3084 Australia.</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>People who have had a stroke and are living at home spend 75% of their waking hours sitting down, which is much higher than people of a similar age without stroke. Spending long periods of time sitting down each day increases the risk of cardiovascular disease, including stroke, putting this population at particularly high risk. About a third of people who have had one stroke will have a second or third stroke, so it is important that we look for ways to reduce this risk. In studies of people without stroke, breaking up prolonged sitting time with regular activity breaks (walking or simple strengthening exercises) leads to significant reductions in cardiovascular disease risk factors such as glucose metabolism and blood pressure. The effects of breaking up sitting time in people with stroke, and the optimal type of activity break for this group is not known. Not getting enough physical activity is the second highest risk factor for stroke, but achieving the recommended amount of daily physical activity, particularly for those people who find it difficult to walk, is near impossible for many stroke survivors. Therefore, reducing sitting time is a promising, innovative, low cost intervention to reduce the risk of having another stroke. We will conduct a study that will help us to understand the impact of prolonged sitting time on stroke risk factors, and will assess the effectiveness of two ways of regularly breaking up sitting time in people with stroke. We will recruit 19 stroke survivors who have difficulty walking. Each survivor will complete all 3 experimental conditions in a random order, under the direct supervision of research staff at HMRI. The 3 conditions will be (1) prolonged sitting without breaks (control), (2) breaking up sitting time by walking at a comfortable speed overground (ie not on a treadmill) for 3 minutes every 30 minutes, and (3) breaking up sitting time with 3 minutes of simple exercises in standing every 30 minutes. Participating stroke survivors will have blood samples taken at regular intervals throughout the duration of the study, and will have their blood pressure continually monitored. Our study outcome measures will include glucose and insulin measures (primary), blood pressure, plasma fibrinogen (secondary) as well as safety and feasibility indicators. 
+This study will be first to assess the effects of breaking up prolonged sitting time in people with stroke. We aim to build on this work in the future by testing different types of activity breaks (eg standing only, seated exercises) at varying frequencies and durations in different sub-groups of stroke survivors (eg people who walk well, and those that cannot walk at all). BUST-Stroke will also inform future research to assess the effect of reducing daily sitting time in people both early (in hospital) and later after stroke.
+</summary>
+    <trialwebsite>N/A</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>None</publicnotes>
+    <ethicscommitee>
+      <ethicname>Hunter New England Health Human Research Ethics Committee </ethicname>
+      <ethicaddress>District Headquarters, Administration Building
+Lookout Road,
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>13/11/2015</ethicapprovaldate>
+      <hrec>15/10/21/4.05</hrec>
+      <ethicsubmitdate>29/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Coralie English</name>
+      <address>Hunter Medical Research Institute, Stroke Research Team Level 3 East, Lot 1, Kookaburra Circuit, New Lambton Heights, NSW, 2305 Australia</address>
+      <phone>+61 2 4913 8102</phone>
+      <fax />
+      <email>coralie.english@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Coralie English</name>
+      <address>Hunter Medical Research Institute, Stroke Research Team Level 3 East, Lot 1, Kookaburra Circuit, New Lambton Heights, NSW, 2305 Australia</address>
+      <phone>+61 2 4913 8102</phone>
+      <fax />
+      <email>Coralie.English@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Coralie English</name>
+      <address>Hunter Medical Research Institute, Stroke Research Team Level 3 East, Lot 1, Kookaburra Circuit, New Lambton Heights, NSW, 2305 Australia</address>
+      <phone>+61 2 4913 8102</phone>
+      <fax />
+      <email>Coralie.English@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Heidi Janssen</name>
+      <address>Hunter Medical Research Institute, Stroke Research Team Level 3 East, Lot 1, Kookaburra Circuit, New Lambton Heights, NSW, 2305 Australia</address>
+      <phone>+61240420417</phone>
+      <fax />
+      <email>Heidi.Janssen@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

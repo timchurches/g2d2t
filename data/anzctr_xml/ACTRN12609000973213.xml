@@ -1,0 +1,256 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="320811">
+  <stage>Registered</stage>
+  <submitdate>10/11/2009</submitdate>
+  <approvaldate>11/11/2009</approvaldate>
+  <actrnumber>ACTRN12609000973213</actrnumber>
+  <trial_identification>
+    <studytitle>Do additional allied health services for rehabilitation reduce length of stay without compromising patient outcomes?</studytitle>
+    <scientifictitle>Does providing additional allied health services for inpatients receiving rehabilitation result in a reduced lenth of stay without compromising patient outcomes compared with inpatients receiving standard rehabilitation services?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>ID2</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Health conditions will include conditions of patients admitted for rehabilitation.  From our pilot data we expect the most common health conditions to be stroke and hip fracture.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Occupational therapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The experimental group will receive standard rehabilitation from Monday to Friday, plus an additional one hour of physiotherapy and one hour of occupational therapy on Saturday, until discharge from hospital.</interventions>
+    <comparator>The control group will receive usual care physiotherapy and occupational therapy from Monday to Friday, until discharge from hospital.</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patient length of stay defined as the number of overnight stays in the rehabilitation unit from the day of admission until the day of discharge from the unit.</outcome>
+      <timepoint>At discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Quality of life assessed with the EuroQol questionnaire</outcome>
+      <timepoint>Admission, Discharge, 6 months post discharge, 12 months post discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Functional status will be assessed with the Functional Independence Measure (FIM)</outcome>
+      <timepoint>Admission, Discharge, 6 months post discharge, 12 months post discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Health service utilisation and costs will be assessed with a health service utilisation questionnaire, and accessing cost data from the rehabilitation facility and Medicare Australia</outcome>
+      <timepoint>Admission, Discharge, 6 months post discharge, 12 months post discharge</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Activity levels will be assessed with the ActivPAL (uniaxial accelerometer based activity monitor) for steps, energy expenditure and time upright on a subgroup of rehabilitation patients admitted with a lower limb orthopaedic diagnosis</outcome>
+      <timepoint>Prior to discharge from rehabilitation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Walking speed will be assessed with the 10 metre walk test</outcome>
+      <timepoint>Admission, Discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mobility will be assessed with the timed up and go test</outcome>
+      <timepoint>Admission, Discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Personal Care Participation Assessment  and Resource Tool (PC-PART)</outcome>
+      <timepoint>Admission, discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Movement, arm function, hand function, walking, and sitting balance in patients with a neurological diagnosis will be assessed with The Modified Motor Assessment scale</outcome>
+      <timepoint>Admission, discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Discharge destination, either home, low level residential care, high level residential care, acute hospital transfer</outcome>
+      <timepoint>Discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Aged 18 years or older
+2. Have been admitted for rehabilitation at The Angliss Hospital or Peter James Centre</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. If admitted for geriatric evaluation and management
+2. If they or their next of kin do not give informed consent to participate</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sequentially numbered opaque envelopes</concealment>
+    <sequence>Permuted block randomisation stratified for site and casemix (neurological and other) generated by computerised sequence generation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/05/2010</anticipatedstartdate>
+    <actualstartdate>1/07/2010</actualstartdate>
+    <anticipatedenddate>30/12/2011</anticipatedenddate>
+    <actualenddate>30/06/2011</actualenddate>
+    <samplesize>712</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>3128</postcode>
+    <postcode>3156</postcode>
+    <postcode>3131</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Nicholas Taylor</primarysponsorname>
+    <primarysponsoraddress>School of Physiotherapy
+La Trobe University
+Bundoora
+Victoria 
+3086</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>GPO Box 1421
+Canberra
+ACT
+2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Natasha Brusco</sponsorname>
+      <sponsoraddress>Angliss Hospital
+Albert Street
+Upper Ferntree Gully
+Victoria
+3156</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This trial will examine if providing additional therapy services on a Saturday reduces health care costs, and improves the health of hospital inpatients receiving rehabilitation compared to the usual Monday to Friday service.</summary>
+    <trialwebsite />
+    <publication>Taylor NF, Brusco NK, Watts JW, Shields N, Peiris C, Sullivan N, Kennedy G, Teo CK, Farley A, Lockwood K, Radia-George C. 2010. A study protocol of a randomised controlled trial incorporating a health economic analysis to investigate if additional allied health services for rehabilitation reduce length of stay without compromising patient outcomes. BMC Health Services Research 10(1): 308. 
+
+Peiris CL, Shields N, Brusco NK, Watts JJ, Taylor NF. 2013. Additional Saturday rehabilitation improves functional independence and quality of life and reduces length of stay: a randomized controlled trial. BMC Medicine 11:198. 
+
+Peiris CL, Taylor NF, Shields N. 2013. Patients receiving inpatient rehabilitation for lower limb orthopaedic conditions do much less physical activity than recommended in guidelines for healthy older adults: an observational study. Journal of Physiotherapy 59:39-44.
+
+Peiris CL, Taylor NF, Shields N. 2012. Patients value patient-therapist interactions more than the amount or content of therapy during inpatient rehabilitation: a qualitative study.  Journal of Physiotherapy 58:261-268.
+
+Peiris CL, Taylor NF, Shields N. 2012. Additional Saturday allied health services increase habitual physical activity among patients receiving inpatient rehabilitation for lower limb orthopedic conditions: a randomized controlled trial. Archives of Physical Medicine and Rehabilitation 93: 1365-1370. 
+
+Peiris CL, Taylor NF, Shields N. 2011.  Extra physical therapy reduces patient length of stay and improves functional outcomes and quality of life in people with acute or sub-acute conditions: a systematic review. Archives of Physical Medicine and Rehabilitation 92(9): 1490-1500.
+
+ (updated 11/12/2013)</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>La Trobe University Human Ethics Committee</ethicname>
+      <ethicaddress>Human Ethics Committee
+La Trobe University
+Bundoora
+Victoria
+3086</ethicaddress>
+      <ethicapprovaldate>16/06/2010</ethicapprovaldate>
+      <hrec>FHEC 10/14</hrec>
+      <ethicsubmitdate>1/12/2009</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Eastern Health Research and Ethics</ethicname>
+      <ethicaddress>Level 3/5 Arnold Street
+Box Hill
+Victoria
+3128</ethicaddress>
+      <ethicapprovaldate>8/06/2010</ethicapprovaldate>
+      <hrec>E58/0910</hrec>
+      <ethicsubmitdate>23/11/2009</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Nicholas Taylor</name>
+      <address>School of Physiotherapy
+La Trobe University
+Bundoora
+Victoria
+3086</address>
+      <phone>61 3 94795860</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Nicholas Taylor</name>
+      <address>School of Physiotherapy
+La Trobe University
+Bundoora
+Victoria
+3086</address>
+      <phone>61 3 94795860</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Nicholas Taylor</name>
+      <address>School of Physiotherapy
+La Trobe University
+Bundoora
+Victoria
+3086</address>
+      <phone>61 3 94795860</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Nicholas Taylor</name>
+      <address>Department of Physiotherapy
+La Trobe University
+Bundoora
+Victoria 3086</address>
+      <phone>61 3 9479 5860</phone>
+      <fax />
+      <email>N.Taylor@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

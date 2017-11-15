@@ -1,0 +1,175 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368392">
+  <stage>Registered</stage>
+  <submitdate>23/04/2015</submitdate>
+  <approvaldate>12/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000462583</actrnumber>
+  <trial_identification>
+    <studytitle>Insulin-induced weight gain in type 2 diabetes</studytitle>
+    <scientifictitle>Weight gain one year after insulin initiation for type 2 diabetes</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>type 2 diabetes</healthcondition>
+    <healthcondition>Weight gain</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients with type 2 diabetes who are commenced on insulin while attending the Royal Melbourne Hospital Diabetes Clinic. Observation from 6 months before insulin initiation up to 18 months after. Patients included if there was weight data available within this time period, from 1998 to 2014. </interventions>
+    <comparator>Compared with baseline characteristics (no controls)</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Weight gain. Assessed by clinic scales and then obtained from the Royal Melbourne Hospital Diabetes Database</outcome>
+      <timepoint>From baseline (183 days before to 60 days after insulin administration), up to 335 to 548 days post insulin initiation (up to data point available within this time frame closest to 1 year mark) </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>HbA1c from pathology ordered during routine clinical care. Data from The Royal Melbourne Hospital Diabetes Database. </outcome>
+      <timepoint>Assessed at baseline (from 183 days before insulin initiation, up to 45 days after) and 1 year (the outcome closest to the one year time point within the rang 305 days to 548 days post insulin initiation)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lipid studies from pathology ordered during routine clinical care. Data from The Royal Melbourne Hospital Diabetes Database. </outcome>
+      <timepoint>Assessed from 365 days before insulin initiation to 720 days after.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood pressure. Assessed in diabetes clinic during routine clinical practice by manual sphygmomanometry, values obtained from The Royal Melbourne Hospital Diabetes Database</outcome>
+      <timepoint>From baseline (183 days before to 60 days after insulin administration), up to 335 to 548 days post insulin initiation (up to data point available within this time frame closest to 1 year mark) </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with type 2 diabetes who started insulin while attending Royal Melbourne Hospital (RMH) Diabetes clinic, with a baseline weight at insulin initiation defined as up 6 months before to 2 months after and a 1 year weight (at 11 to 18 months)</inclusivecriteria>
+    <inclusiveminage>29</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>type 1 diabetes, gestational diabetes, secondary diabetes, no weight data in specified times, insulin commenced before attending clinic at RMH</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Weight gain tertiles will be compared by non-parametric ANOVA
+Baseline correlates of weight gain will be identified by multiple regression analysis</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>1</followup>
+    <followuptype>Years</followuptype>
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>2/02/2015</actualenddate>
+    <samplesize>340</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Melbourne Health</primarysponsorname>
+    <primarysponsoraddress>300 Grattan Street, Parkville VIC 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Melbourne Hospital</fundingname>
+      <fundingaddress>300 Grattan Street, Parkville VIC 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>none</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This project aims to determine: 1. the prevalence of weight gain in patients with T2DM who are treated with insulin at RMH; 2. the impact of weight gain on clinical variables such as blood pressure and lipid levels; and 3. to find factors that predict the occurrence of weight gain in people with type-2 diabetes treated with insulin. 
+Hypothesis:Weight gain prevalence will be greater than 60% in the studied population of type 2 diabetics treated with insulin. This weight gain will be variable depending on baseline characteristics such as starting weight, insulin characteristics and use of oral hypoglycaemics. Patients who gain weight will show a worsening of their cardiovascular risk profile when compared to those who do not.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health Office for Research</ethicname>
+      <ethicaddress>6 East, Main Building, Royal Melbourne Hospital, 300 Grattan Street Parkville VIC 3050</ethicaddress>
+      <ethicapprovaldate>19/08/2014</ethicapprovaldate>
+      <hrec>QA2014142</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Miss</title>
+      <name>Ramina Yadgar-Yalda</name>
+      <address> Royal Melbourne Hospital, 300 Grattan Street Parkville VIC 3050</address>
+      <phone>+61439367496</phone>
+      <fax />
+      <email>raminay@student.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Ramina Yadgar-Yalda</name>
+      <address> Royal Melbourne Hospital, 300 Grattan Street Parkville VIC 3050</address>
+      <phone>+61439367496</phone>
+      <fax />
+      <email>raminay@student.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Ramina Yadgar-Yalda</name>
+      <address> Royal Melbourne Hospital, 300 Grattan Street Parkville VIC 3050</address>
+      <phone>+61439367496</phone>
+      <fax />
+      <email>raminay@student.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Ramina Yadgar-Yalda</name>
+      <address> Royal Melbourne Hospital, 300 Grattan Street Parkville VIC 3050</address>
+      <phone>+61439367496</phone>
+      <fax />
+      <email>raminay@student.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,284 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371426">
+  <stage>Registered</stage>
+  <submitdate>20/04/2017</submitdate>
+  <approvaldate>28/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000609358</actrnumber>
+  <trial_identification>
+    <studytitle>Normal saline instillation and lung recruitment with paediatric endotracheal suction</studytitle>
+    <scientifictitle>Feasibility of normal saline instillation and lung recruitment with paediatric endotracheal suction: A pilot, factorial, randomised controlled trial</scientifictitle>
+    <utrn>U1111-1187-1340</utrn>
+    <trialacronym>NARES</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>endotracheal suction</healthcondition>
+    <healthcondition>mechanically ventilated children</healthcondition>
+    <healthcondition>ventilator associated pneumonia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Normal saline instillation - 0.1ml per kg
+Lung recruitment manoeuvre - 2x baseline PEEP setting (max 18) for 2 minutes
+
+Endotracheal suction will be performed when clinically indicated and as per standard practice.  Patients will be mechanically ventilated using a pressure regulated volume control mode.
+
+Group 1 (No NSI and No LR): ETS will be performed by the PICU clinician as clinically indicated and as per standard practice.  No NSI and no LR is to be used.  
+
+Group 2 (No NSI and LR):  ETS will be performed by the PICU clinician as clinically indicated and as per standard practice.  No normal saline is to be instilled during the ETS episode.  For LR - at the completion of the ETS episode, the patient will be reconnected to the ventilator and the baseline PEEP setting will be doubled (to a maximum of 18 cmH2O for two minutes.          
+
+Group 3 (NSI and No LR):  ETS will be performed by the PICU clinician as clinically indicated and as per standard practice.  Upon disconnection of the patient from 0.1ml/kg of normal saline will be instilled directly into the ETT before connecting the anaesthetic bag and proceeding with the ETS procedure.  On completion of the ETS procedure the patient will be reconnected to the ventilator.  Ventilator settings will not change from baseline.   
+
+Group 4 (NSI and LR):  ETS will be performed by the PICU clinician as clinically indicated and as per standard practice.  Upon disconnection of the patient from the ventilator 0.1ml/kg of normal saline will be instilled directly into the ETT before connecting the anaesthetic bag and proceeding with the ETS procedure.  For LR at the completion of the ETS episode, the patient will be reconnected to the ventilator and the baseline PEEP setting will be doubled (to a maximum of 18 cmH2O) for two minutes.     
+
+Strategies to promote intervention fidelity 
+    Study Design	
+1. Standardised treatment dose for all patients (0.1ml/kg/ double PEEP)
+2. Experiment timeframe 48hrs only
+
+Training providers	
+3. Standardised interventionist training
+4. Study education manual 
+5. Education resources on PICU data sharing site for bedside clinicians to refer to
+6. Face to face education sessions 
+
+   Monitoring intervention fidelity	
+7. Work reminders will appear on a worklist on the PICU clinical information system.  Clinicians have to sign the task on completion.  .
+8. CI or a Clinical Research Nurse will be visible on the clinical floor and visit nurses, patients and families who are enrolled.  
+9.  The CI will conduct monthly reviews of protocol adherence and feed back to clinicians in monthly leadership meetings and via staff emails. </interventions>
+    <comparator>No normal saline instillation
+No lung recruitment manoeuvre
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Feasibility
+Composite primary outcome
+Feasibility assessment will include:
+a) Eligibility: 75% of patients screened are eligible
+b) Recruitment: 70% of eligible patients are recruited
+c) Retention:  Less than 15% of patients withdraw or are lost to follow-up 
+d) Protocol Adherence: 80% of participants will receive their allocated treatment throughout their study participation 
+e) Missing data:  There will be less than 10% missing data 
+</outcome>
+      <timepoint>End of trial</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sp02/Fi02 </outcome>
+      <timepoint>Sp02 will be collected and stored on the bedside monitor (Phillips) and clinical information system MetaVision (iMDsoft). 
+
+Fi02 will be recorded and stored on a breath to breath basis with a bellavista 1000 (imtmedical) mechanical ventilator
+
+Data will be collected in all patients at the same time points including: Baseline (pre-endotracheal suction), post endotracheal suction, 2 minutes post ETS (post LR if applicable) and 10 minutes post endotracheal suction </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lung compliance </outcome>
+      <timepoint>Dynamic lung compliance will be measured and stored on a breath to breath basis with a bellavista 1000  (imtmedical) mechanical ventilator.
+
+Data will be collected in all patients at the same time points including: baseline (pre-endotracheal suction), post endotracheal suction, 2 minutes post ETS (post LR if applicable), 10 minutes post endotracheal suction and hourly for 48 hours    </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Airway resistance</outcome>
+      <timepoint>Airway resistance will be measured and stored on a breath to breath basis with a bellavista 1000 mechanical ventilator (imtmedical).
+
+Data will be collected in all patients at the same time points including: baseline (pre-endotracheal suction), post endotracheal suction, 2 minutes post ETS (post LR if applicable), 10 minutes post endotracheal suction and hourly for 48 hours    </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ventilator associated pneumonia 
+Review of medical record.  Clinically defined pneumonia will be confirmed using the United States Centres for Disease Control and Prevention algorithm for clinically defined pneumonia.  For VAP referred to as clinically defined pneumonia (PNU) (three categories PNU1, PNU2 and PNU 3) to be confirmed both clinical and radiology criteria need to be fulfilled. </outcome>
+      <timepoint>Diagnosis during ICU admission.
+Incidence per 1000 ventilator days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>End expiratory level (EEL)</outcome>
+      <timepoint>End expiratory level will be measured continuously during the endotracheal suction episode using electrical impedance tomography (EIT).  
+
+EIT measurements will be performed once per day during study enrollment.  All measurements will be performed in all patients at the same time points including: baseline (pre-endotracheal suction), post-endotracheal suction, 2 minutes post ETS (post LR if applicable) and 10 minutes post endotracheal suction.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Regional tidal volume</outcome>
+      <timepoint>Regional tidal volume will be measured continuously during the endotracheal suction episode using electrical impedance tomography (EIT).  
+
+EIT measurements will be performed once per day during study enrollment.  All measurements will be performed in all patients at the same time points including: baseline (pre-endotracheal suction), post endotracheal suction, 2 minutes post ETS (post LR if applicable) and 10 minutes post endotracheal suction, </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. 0 (&gt;37weeks gestation)  16 years of age (15 years + 364 days)
+2. Oral or nasal endotracheal tube
+3. Conventional mechanical ventilation using volume control mode (PRVC)
+4. Likely to be ventilated for &gt;24hours
+
+</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>16</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Likely to be ventilated for less than &lt;24hours
+2. Cardiac surgery in this admission
+3. Air leak syndrome*
+4. Ventilated for &gt;48hrs prior to screening  
+5. Previous study enrolment in this hospital admission
+6. Current diagnosis of ventilator associated pneumonia	 
+7. Tracheal reconstruction
+8. Cystic fibrosis
+
+*Note: In the presence of an air leak syndrome it is at the discretion of the treating physician to include or exclude patient in the trial.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Web based randomisation service</concealment>
+    <sequence>Randomisation will be stratified by diagnosis (pulmonary vs non pulmonary) with randomly varied block sizes within each stratum.  An allocation of 1:1:1;1 per treatment combination will be as per a computer generated randomisation schedule.   </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures>To promote protocol adherence, the experiment time frame for the both interventions will be 48hrs after enrolment into the study.    
+
+Lung recruitment will be assessed using electrical impedance tomography.  </designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>As the pilot trial is not powered to detect statistical significance, statistical analysis will be used for piloting purposes only.  Analysis will be intention to treat with patients the unit of measurement.  Trial feasibility will be reported descriptively, against predefined criteria.  Comparability of groups at baseline will be assessed using clinical parameters.  A subgroup analysis of primary lung disease and non-lung disease will be conducted.  Mean and standard deviation will be used to report normally distributed continuous data, median and interquartile range will be used for non-parametric data.  For the dependent variables oxygen saturation, AR and lung compliance, linear regressions will be run in a pairwise sequential manner to compare NSI vs no NSI; and for LR vs no LR,  Cox proportional hazard models (univariable and multivariable) will be fitted and hazard ratios (HRs) calculated.  Possible interaction between normal saline instillation and lung recruitment will be assessed.  Kaplan-Meier survival curves and log rank test will be used to compare rates of VAP per 1000 ventilator days and 95% confidence intervals will be calculated.  
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>26/06/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>2/07/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>100</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Lady Cilento Children's Hospital - South Brisbane</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Griffith University</primarysponsorname>
+    <primarysponsoraddress>170 Kessels Rd, Nathan QLD 4111</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Children's Health Queensland Study, Education and Trust Account Committee</fundingname>
+      <fundingaddress>Lady Cilento CHildren's Hospital
+Children's Health Queensland Hospital and Health Service
+501 Stanley Street 
+South Brisbane, QLD, 4101</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Lady Cilento Children's Hospital</sponsorname>
+      <sponsoraddress>501 Stanley Street South Brisbane, Queensland 4101</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In the presence of a critical illness a child may require mechanical ventilation to support their breathing.  In the intensive care unit this is achieved through the insertion of an endotracheal tube.  This tube serves as the childs airway and is cared for by a nurse.  The nurse removes mucous from the tube by performing an endotracheal suction (ETS).  Saline is often used with ETS.  Saline use is thought to help loosen dried mucous and prevent it from blocking the tube.  Researchers have shown suction is important to prevent complications which arise from retained airway mucous, however, there is no quality research regarding saline use with suction to help guide nurses ETS practice.  
+
+ETS is associated with a number of complications including pulmonary derecruitment.  Collapsed alveolar negatively impair gas exchange and may be colonised by bacteria leading to nosocomial infection and ventilator associated pneumonia.   The use of lung recruitment following ETS may help to restore pulmonary volumes and prevent harmful,  accumulative atelectasis.  
+
+We will compare ETS in mechanically ventilated children with i) normal saline instillation (NSI) and no NSI and ii) lung recruitment (LR) and no LR.  The primary outcome is trial feasibility as determined by a composite analysis of recruitment, retention, protocol adherance and missing data.  Secondary outcomes include measures of gas exchange, respiratory mechanics and ventilator associated pneumonia.  
+
+Research examining ETS best nursing practice is lacking. Leaving nurses to make ETS related decisions in a vacuum of evidence.  These decisions can influence the outcomes of critically ill children.  Conducting research in paediatric populations is challenging and piloting trial protocols prior to committing the resources needed for a definitive trial helps maximise the efficiency of the trial and processes.  </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Childrens Health Queensland Human Research Ethics Committee</ethicname>
+      <ethicaddress>Human Research Ethics Committee
+Level 7, Centre for Childrens Health Research
+Lady Cilento Childrens Hospital Precinct
+62 Graham Street
+South Brisbane QLD 4101</ethicaddress>
+      <ethicapprovaldate>22/12/2016</ethicapprovaldate>
+      <hrec>HREC/16/GRCH/374</hrec>
+      <ethicsubmitdate>27/11/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Griffith University Human Research Ethics Committee</ethicname>
+      <ethicaddress>170 Kessels Rd, Nathan QLD 4111</ethicaddress>
+      <ethicapprovaldate>1/02/2017</ethicapprovaldate>
+      <hrec>2017/065</hrec>
+      <ethicsubmitdate>1/01/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Mrs</title>
+      <name>Jessica O'Leary</name>
+      <address>Lady Cilento Children's Hospital
+Level 4a Paediatric Intensive Care Unit
+501 Stanley Street South Brisbane, QLD 4101</address>
+      <phone>+61 7 3069 7563</phone>
+      <fax />
+      <email>Jessica.OLeary@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Jessica O'Leary</name>
+      <address>Lady Cilento Children's Hospital
+Level 4a Paediatric Intensive Care Unit
+501 Stanley Street South Brisbane, QLD 4101</address>
+      <phone>+61 7 3069 7563</phone>
+      <fax />
+      <email>Jessica.OLeary@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Jessica O'Leary</name>
+      <address>Lady Cilento Children's Hospital
+Level 4a Paediatric Intensive Care Unit
+501 Stanley Street South Brisbane, QLD 4101</address>
+      <phone>+61 7 3069 7563</phone>
+      <fax />
+      <email>Jessica.OLeary@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Jessica O'Leary</name>
+      <address />
+      <phone>+61 7 3069 7563</phone>
+      <fax />
+      <email>Jessica.OLeary@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

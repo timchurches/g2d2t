@@ -1,0 +1,266 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343328">
+  <stage>Registered</stage>
+  <submitdate>18/10/2011</submitdate>
+  <approvaldate>21/10/2011</approvaldate>
+  <actrnumber>ACTRN12611001098921</actrnumber>
+  <trial_identification>
+    <studytitle>Is ballistic strength training more effective than usual care for improving mobility following traumatic brain injury (TBI)? </studytitle>
+    <scientifictitle>Is ballistic strength training more effective than usual care for improving mobility following traumatic brain injury (TBI)? </scientifictitle>
+    <utrn>U1111-1123-6619</utrn>
+    <trialacronym>TBStrong</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Traumatic Brain Injury</healthcondition>
+    <healthcondition>Mobility Limitations</healthcondition>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Physiotherapy</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention group will perform ballistic strength training  exercises in a context specific manner according to the American College of Sports Medicine (ACSM) guidelines to ensure an optimal training stimulus and transfer of training gains. Participants will perform ballistic strength training exercises tailored to the severity of their strength deficits. The major muscle groups of the lower limbs responsible for mobility will be targeted ballistically in functional positions. They include the hip flexors and extensors, knee flexors and extensors, and ankle plantarflexors. Strength training is a relatively safe intervention with very few adverse events reported for people with neurological conditions. In order to ensure the exercises are conducted in a ballistic manner, a physiotherapist will supervise each session. The supervising physiotherapists will be responsible for ensuring that exercises are completed according to four key criteria. These are 1) Type of muscle contraction (concentric/isometric/eccentric), 2) Targeted range of motion (ROM), 3) Speed and 4) Load. Participants will have 3 one-hour sessions/week for 12 weeks in a 1:1 format supervised by a physiotherapist.</interventions>
+    <comparator>Participants randomized to the control group will perform a range of exercises that represent usual care. In order to define usual care, a two stage process was performed. Firstly, the TBI literature was reviewed in relation to which types of therapy people receive for mobility limitations, and an audit of usual care was conducted. The main therapies reported for mobility limitations were balance exercises, lower limb stretching and strengthening exercises, and cardiovascular fitness training. 
+The audit of usual care was used to determine the proportion of time that participants in the usual care group should spend on each type of therapy. The results showed that in a standard one-hour session, people with TBI usually spend the majority of their time on balance exercises, strengthening, stretching and cardiovascular fitness. 
+
+Participants in the usual care group will perform a range of static and dynamic balance activities with a protocol for progression built in.  They will also stretch the main muscle groups of the lower limbs, and perform cardiovascular exercise (exercise bike or arm ergometer) under constant heart rate monitoring to ensure that participants exercise in their predetermined training zone.  
+Participants will have 3 one-hour sessions/week for 12 weeks in a 1:1 format supervised by a physiotherapist. </comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>High-Level Mobility Assessment Tool (HiMAT)</outcome>
+      <timepoint>End of 12 week intervention phase
+3 month follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Self-selected walking speed</outcome>
+      <timepoint>End of 12 week intervention phase
+3 month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Balance - Single limb support time (left and right legs, eyes open and eyes closed)</outcome>
+      <timepoint>End of 12 week intervention phase
+3 month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Strength - 6RM seated leg press</outcome>
+      <timepoint>End of 12 week intervention phase
+3 month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life (AQoL-6D)</outcome>
+      <timepoint>End of 12 week intervention phase
+3 month follow-up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Muscle Power Generation
+
+Participants will be asked to perform a one-legged jump on their more-affected leg whilst lying on a reclined leg sled (LS). Participants will complete a series of five jumps at 50% of 1RM (as calculated during the muscle strength testing). The displacement occurring during each repetition will be recorded using a string potentiometer sampling at 200Hz, with data acquired via a customized LabVIEW software program (National Instruments, USA). </outcome>
+      <timepoint>End of 12 week intervention phase and 3 month follow up </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants must have a neurologically based movement disorder affecting mobility as a result of TBI and be less than 12 months post injury.</inclusivecriteria>
+    <inclusiveminage>15</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- were unwilling or unable to provide informed consent 
+- have a previously diagnosed central nervous system disorder
+- have severe cognitive or behavioural problems that prevent assessment
+- have orthopaedic injuries restricting mobility</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The random sequence of group allocation will be concealed from the person recruiting patients. Group allocation will be concealed using consecutively-numbered opaque envelopes. The opaque envelope will be opened after completion of the assessment in the presence of the participant.</concealment>
+    <sequence>The randomisation schedule has been prepared by the trial biostatistician who is not involved in recruitment or assessment. In addition, participants will be stratified according to initial level of gait disability. Within each of the two strata (moderate level of disability - HiMAT score greater than or equal to 27; severe level of disability- HiMAT score &lt;27), patients will be allocated randomly to either group. Random permuted blocks will be used so that after every block the two groups will contain approximately equal numbers.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/12/2011</anticipatedstartdate>
+    <actualstartdate>9/03/2012</actualstartdate>
+    <anticipatedenddate>30/11/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>132</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>Caulfield Hospital - Caulfield</hospital>
+    <hospital>Liverpool Hospital - Liverpool</hospital>
+    <hospital>Royal Rehabilitation Hospital - Coorabel/Moorong - Ryde</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Epworth Hospital</primarysponsorname>
+    <primarysponsoraddress>89 Bridge Rd
+Richmond 3121
+Victoria</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Epworth Hospital</fundingname>
+      <fundingaddress>89 Bridge Rd
+Richmond 3121
+Victoria</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC Project Grant APP1104237</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>The University of Melbourne</sponsorname>
+      <sponsoraddress>Carlton 3010
+Victoria</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Traumatic brain injury (TBI) is the leading cause of death and disability amongst adolescents and young adults. The incidence of TBI in Australia is 300 per 100,000, of which 20% are classified moderate to severe. The prevalence of TBI in the community is high because of the survival rate and the demographic groups at most risk are adolescents and young adults. Although a minority of people who sustain a moderate to severe TBI can expect to make a full recovery, over 75% of victims never return to full independence and function. In contrast to the vast literature on neuropsychological impairments following TBI, surprisingly little information is known about the effect of the brain injury on gait. My recent systematic review found the key biomechanical abnormalities of gait were yet to be determined. Further, the key physical impairments contributing to mobility limitations have not been established. Several studies have suggested balance may be primarily responsible. Although balance, spasticity, contracture, muscle weakness and inco-ordination may all contribute to mobility limitations, my research has identified that balance and strength deficits are most prevalent, but the primary cause of mobility limitations was muscle weakness. Physiotherapy is routinely provided to treat the physical impairments that contribute to mobility limitations in order to optimize rehabilitation outcomes for people with TBI. Balance training and muscle strengthening programs are widely used. Strong evidence exists indicating balance training improves balance disorders and strength training improves muscle weakness in neurological populations, yet little evidence exists supporting the impact of either intervention on mobility limitations. Further, a recent international symposium on research priorities for TBI highlighted the urgent need for rehabilitative therapy research as virtually no level 1 evidence exists. The primary aim of this research program is to investigate whether ballistic strength training is more effective than usual carer for improving mobility following TBI. The research program constitutes a randomised controlled trial (RCT) comparing ballistic strength training and usual care for improving mobility following TBI. </summary>
+    <trialwebsite />
+    <publication>Williams G, Ada L, Hassett L, Morris M E, Clark R, Bryant A L, Olver J. Ballistic strength training compared with usual care for improving mobility following traumatic brain injury: protocol for a randomised controlled trial. Journal of Physiotherapy. 2016;62(3):164.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Epworth Hospital HREC</ethicname>
+      <ethicaddress>c/o Epworth Hospital 
+89 Bridge Rd
+Richmond 3121
+Victoria</ethicaddress>
+      <ethicapprovaldate>26/10/2011</ethicapprovaldate>
+      <hrec>53211</hrec>
+      <ethicsubmitdate>5/10/2011</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Alfred Health</ethicname>
+      <ethicaddress>55 Commercial Rd, 
+Melbourne 
+VIC 3004</ethicaddress>
+      <ethicapprovaldate>9/05/2016</ethicapprovaldate>
+      <hrec>HREC/16/Alfred/31 (Local Reference: Project 144/16)</hrec>
+      <ethicsubmitdate>28/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Liverpool Hospital </ethicname>
+      <ethicaddress>South Western Sydney Local Health District
+Locked Bag 7103, 
+LIVERPOOL BC, 
+NSW, 1871</ethicaddress>
+      <ethicapprovaldate>7/12/2017</ethicapprovaldate>
+      <hrec>SSA/16/LPOOL/342; HE16/177</hrec>
+      <ethicsubmitdate>30/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Rehab</ethicname>
+      <ethicaddress>235 Morrison Rd
+Ryde 
+NSW 1680</ethicaddress>
+      <ethicapprovaldate>16/01/2017</ethicapprovaldate>
+      <hrec>16SSA10: Research Project: HREC/16/Alfred/31; SSA-AU/2/32DA28</hrec>
+      <ethicsubmitdate>11/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/343328-RCT protocol.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin Williams</name>
+      <address>c/o Physiotherapy Department
+Epworth Hospital 
+89 Bridge Rd
+Richmond 3121
+Victoria</address>
+      <phone>+613 9426 8727</phone>
+      <fax>+613 9426 8734</fax>
+      <email>gavin.williams@epworth.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin Williams</name>
+      <address>c/o Physiotherapy Department
+Epworth Hospital 
+89 Bridge Rd
+Richmond 3121
+Victoria</address>
+      <phone>+613 9426 8727</phone>
+      <fax>+613 9426 8734</fax>
+      <email>gavin.williams@epworth.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Gavin Williams</name>
+      <address>c/o Physiotherapy Department
+Epworth Hospital 
+89 Bridge Rd
+Richmond 3121
+Victoria</address>
+      <phone>+613 9426 8727</phone>
+      <fax>+613 9426 8734</fax>
+      <email>gavin.williams@epworth.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Gavin Williams</name>
+      <address>c/o Physiotherapy Department Epworth Hospital 89 Bridge Rd Richmond 3121 Victoria </address>
+      <phone> +613 9426 8727  </phone>
+      <fax />
+      <email>gavin.williams@epworth.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

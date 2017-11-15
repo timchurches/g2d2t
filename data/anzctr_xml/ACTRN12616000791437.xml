@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370497">
+  <stage>Registered</stage>
+  <submitdate>11/04/2016</submitdate>
+  <approvaldate>17/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000791437</actrnumber>
+  <trial_identification>
+    <studytitle>The effects of a chiropractic care in recent stroke patients - Study 1/2</studytitle>
+    <scientifictitle>The effects of a chiropractic care on functional outcomes,  somatosensory processing and motor control in patients who have suffered from a recent stroke - Study 1/2</scientifictitle>
+    <utrn>U1111-1181-7292</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is a single session of chiropractic care for the intervention group. The session will take approximately ten minutes. The entire spine and both sacroiliac joints will be assessed for vertebral subluxation, and adjusted where deemed necessary, by a registered chiropractor. The clinical indicators that will be used to assess the function of the spine prior to and after each chiropractic adjustment session include assessing for tenderness to palpation of the relevant joints, manually palpating for restricted intersegmental range of motion, assessing for palpable asymmetric intervertebral muscle tension, and any abnormal or blocked joint play and end-feel of the joints. All of these biomechanical characteristics are used by the chiropractors as clinical indicators of vertebral subluxations. All of the spinal adjustments carried out in this study will be high-velocity, low-amplitude thrusts to the spine or pelvic joints. These are standard adjustment techniques used by chiropractors. The mechanical properties of this intervention has been investigated; and although the actual force applied to the subject's spine depends on the chiropractor, the patient, and the spinal location of the adjustment, the general shape of the force-time history of spinal adjustments is very consistent and the duration of the thrust is always less than 200 milliseconds. The high velocity type of adjustments chosen specifically because previous research has shown that reflex electromyographic activation observed after adjustments only occurred after high velocity, low amplitude adjustments (as compared with lower velocity mobilizations). This adjustment technique has also been previously used in studies that have investigated the neurophysiological effects of chiropractic care. Within 30 minutes of receiving the intervention the participant will be reassessed using the same outcome measurement procedures. The participants will then be reassessed after a 7 day washout period with the alternate intervention applied between pre/post assessments. </interventions>
+    <comparator>The control is a single session. The subjects head and/or spine will be moved in ways that include passive and active movements, similar to what is done by the chiropractor that provide actual chiropractic care during the experimental intervention. Thus this control intervention involves the subject being moved into the adjustment setup positions similar to how the chiropractor would normally setup a subject prior to applying the thrust to the spine to achieve the adjustment. No spinal adjustments will be performed during any control intervention. This control intervention is intended to act as a sham treatment session as well as to act as a physiological control for possible changes occurring due to the cutaneous, muscular or vestibular input that would occur with the type of passive and active movements involved in preparing a subject/patient for an adjustment.
+</comparator>
+    <control>Active</control>
+    <interventioncode>Rehabilitation</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome> The primary outcome measure will be changes in absolute maximum force of contraction (strength). Muscle force will be measured using an isometric strain gauge (Model MLP100 transducer Techniques Tennecula California USA) mounted on a custom-built platform. This device will be used to record maximum isometric plantarflexion force. The subjects will perform three progressive maximum voluntary contractions (MVCs) of the ankle plantar flexors of 5 s duration each, separated by a minimum of 2-min rest. Subjects will be verbally encouraged to produce maximal force. The highest plantar flexor EMG activity during MVC and absolute force measured in each experimental or control session will be used for analysis and to compute the submaximal target contraction levels for H and M-recruitment curve recordings.</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>- TUG (including 5times sit to stand test (5XSST) and 10m walk)
+The TUG is a widely used test of basic functional mobility that is sensitive to change and is suitable for the assessment of stroke patients. The TUG involves participants standing from a seated position, walking 3 meters, turning around and returning to sit in the chair. The time to complete this task is recorded using a stopwatch</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>- Rate of change of force (power), Measured with isometric strain gauge
+Explosive strength has been quantified as the contractile rate of force development (RFD), and contractile impulse (CI), during a maximal isometric contraction. Contractile RFD is quantified from the slope of the force- (or torque) time curve. CI is quantified from the integral of the force- (or torque) time curve. CI is identical to the kinetic impulse, or angular momentum, reached during limb movement and therefore directly determines the rotational angular velocity of the distal segment at a given time point. RFD and CI will be calculated based on the slope of the force-time curve and integral of the force-time curve associated with the MVCs that are performed during the strength assessment.</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>- Change in median frequency of power (fatigue)
+The development of fatigue in a muscle can be observed either by amplitude and spectral analysis of EMG recordings or absolute force values. We will measure both in our proposed study. The time-dependent shift in mean power frequency (MPF) of electromyographic (EMG) signals to lower frequencies during the fatigue process is a well-established phenomenon. To measure fatigue in this project EMG recorded during the MVC pre and post manipulation session or control intervention will be used. MVC data segments will be epoched offline and processed in Matlab using purpose written scripts. A fast Fourier transformation (FFT) will be performed and the mean power frequency (MPF) calculated as the frequency (Hz) center of the spectrum.</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>- Change in h-reflex and M-wave (spinal changes), measured with EMG
+While the subject is performing a low-level tonic contraction of the plantar flexors (10% MVC) the direct motor response (M wave) and H reflex of the soleus muscle (SOL) will be elicited. Subjects will be provided with online feedback of the contraction level exerted, which will be displayed on a computer monitor which can be clearly seen by the subject. To get the maximum peak-to-peak amplitude of the M wave, subjects will be stimulated progressively by increasing the current intensity in 5­mA increments. A total of three trials at each current intensity will be recorded. Then, at each current intensity, the preceding M-wave peak-to-peak amplitude will be compared with the new M-wave peak-to-peak amplitude. Once the preceding M-wave peak-to-peak amplitude and new M-wave peak-to-peak amplitude has reached a plateau over the three trials, the current intensity of the previous stimulation will be considered the maximum current intensity. To construct the M and H recruitment curves, the maximum intensity will be divided into 16 segments that will be equally separated. For each current intensity, a total of 5 stimuli will be delivered at random time intervals between 2 and 3 s. The subjects will also be given the opportunity to   pause   the experiment at   any   time if they report   fatigue.</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>- Change in v-wave (cortical), measured with EMG
+The subjects will be asked to perform 5 MVCs of 5 s duration, with 2 min of rest in between prior to and post spinal adjustments or control interventions. During the progressive contraction, 5 supramaximal stimulus (130% of the current needed to evoke maximal M wave; 1-ms square pulse) will be applied to the tibial nerve at the instant that the force exceeded 90% of the MVC.</outcome>
+      <timepoint>Immediately pre and post spinal manipulation session and immediately pre and post control intervention.
+</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>15-20 participants will be recruited to participate in each of these studies. Participants will be inpatients or outpatients at Shifa International Hospital, in Islamabad or Railway Hospital, Rawalpindi, Pakistan. To be eligible to participate volunteers must have suffered from a stroke at least 8 weeks prior to their involvement in the trial and have some ongoing neurological deficit. For study 1 they must have a neurological deficit in at least 1 lower limb but have the ability to contract their soleus muscle on command. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Volunteers will be ineligible to participate if they exhibit no evidence of spinal dysfunction, have absolute contraindications to spinal manipulation, have experienced previous significant adverse reactions to chiropractic care, or if they are deemed unsuitable to receive chiropractic care by their treating physicians. </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>7/04/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>5/05/2016</actualenddate>
+    <samplesize>15</samplesize>
+    <actualsamplesize>12</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Pakistan</country>
+      <state>Islamabad, Pawalpindi</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>New Zealand College of Chiropractic</primarysponsorname>
+    <primarysponsoraddress>New Zealand College of Chiropractic
+6 Harrison Road 
+Mount Wellington 
+Auckland 1060</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other</fundingtype>
+      <fundingname>New Zealand College of Chiropractic</fundingname>
+      <fundingaddress>New Zealand College of Chiropractic
+6 Harrison Road 
+Mount Wellington 
+Auckland 1060</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Stroke is one of the leading causes of death and disability in the world.  It is estimated that worldwide 17 million people per year suffer from a significant stroke with 5 million of those people experiencing long term physical disability following the stroke. The long term impaired nervous system function that accompanies many strokes means millions of stroke survivors around the world are reliant on care-givers to assist them with rudimentary activities of daily living such as bathing, dressing, and toileting. The burden of care is immense and has a significant impact on modern society.
+Numerous rehabilitative approaches have been shown to promote motor recovery after a stroke, but advanced strategies are constantly being developed and tested in an attempt to improve long term outcomes for stroke survivors. One possible intervention that may improve post-stroke motor recovery, but has to date not been adequately tested, is chiropractic care. 
+
+Over the past two decades numerous research studies have shown that chiropractic care can significantly influence central neural function. Studies have shown changes in somatosensory processing, sensorimotor integration and motor control following as little as a single session of chiropractic adjustments. Sensorimotor integration is the ability of the central nervous system (CNS) to integrate sensory information from different body parts and formulate appropriate motor outputs to muscles. Effective sensorimotor integration is essential when learning new motor skills, or recovering from an injury. Another essential component for accurately movement, learning new motor skills, and/or recovering from an injury is the accuracy of internal representation of our body map, or body schema. It is essential for your brain to be accurately aware of the location of our limbs and core body in 3D space. The spine is linked biomechanically and neurologically to the limbs and yet, we know very little about how altered sensory feedback from the spine affects limb sensorimotor integration and motor performance. However, there is emerging evidence that altered spinal sensory input can alter central neural processing, possibly by impacting the brains inner body schema. There is also emerging evidence that improving spinal function with chiropractic care can rapidly alter central neural function in a variety of ways, and that these changes outlast the altered changes of input, i.e. that they are neural plastic changes. Neural plasticity is the name given by neuroscientists to any lasting change in structure or function within the CNS due to alterations in sensory input, basically the brains ability to learn and adapt to an ever-changing environment. The addition of chiropractic care to the treatment program for a variety of central nervous system disorders, such as stroke victims, may have a profound impact on these peoples ability to heal and recover central neural function. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Riphah International University in Islamabad</ethicname>
+      <ethicaddress>7th Ave
+Islamabad - Pakistan</ethicaddress>
+      <ethicapprovaldate>5/04/2016</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>28/03/2016</ethicsubmitdate>
+      <ethiccountry>Pakistan</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Imran Niazi</name>
+      <address>New Zealand College of Chiropractic
+6 Harrison Road Mount Wellington Auckland 1060</address>
+      <phone>+6495266789</phone>
+      <fax />
+      <email>imran.niazi@nzchiro.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Holt</name>
+      <address>New Zealand College of Chiropractic
+6 Harrison Road Mount Wellington Auckland 1060</address>
+      <phone>+6495266789</phone>
+      <fax />
+      <email>kelly.holt@nzchiro.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kelly Holt</name>
+      <address>New Zealand College of Chiropractic
+6 Harrison Road Mount Wellington Auckland 1060</address>
+      <phone>+6495266789</phone>
+      <fax />
+      <email>kelly.holt@nzchiro.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Melanie Freiwald</name>
+      <address>New Zealand College of Chiropractic
+6 Harrison Road Mount Wellington Auckland 1060</address>
+      <phone />
+      <fax />
+      <email>melanie.freiwald@gmail.com</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

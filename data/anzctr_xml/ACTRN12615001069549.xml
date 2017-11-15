@@ -1,0 +1,250 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369196">
+  <stage>Registered</stage>
+  <submitdate>26/08/2015</submitdate>
+  <approvaldate>13/10/2015</approvaldate>
+  <actrnumber>ACTRN12615001069549</actrnumber>
+  <trial_identification>
+    <studytitle>High Flow Nasal Cannula Dose Finding Study in Neonatal Intensive Care</studytitle>
+    <scientifictitle>What is the effect of different delivered flow rates on the work of breathing in infants requiring respiratory support? </scientifictitle>
+    <utrn>U1111-1173-6647</utrn>
+    <trialacronym>HiFiDo</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory distress</healthcondition>
+    <healthcondition>premature birth </healthcondition>
+    <healthcondition>bronchiolitis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>High flow nasal cannula will be delivered to infants with flow rates randomly applied. For preterm infants the flow rates will be between 2L/min and 8L/min in 2L steps. For infants with bronchiolitis, flow rates between 0.5 L/kg/min and 2 L/kg/min will be randomly applied in 0.5 L/Kg/min steps. After each flow rate change an equilibration phase of 10 minutes will be allowed before undertaking a 5 minute measurement. Each of the 4 flow rates will be applied for 15 minutes. The total study duration will be 2 hours.</interventions>
+    <comparator>Participants act as their own controls</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Work of breathing will be measured with diaphragmatic electrical activity (Edi) and respiratory inductance plethysmography (RIP) as a standard measurement technique.</outcome>
+      <timepoint>10 minutes after each flow rate change</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Physiological outcomes - Respiratory rate (RR) assessed using bedside monitor</outcome>
+      <timepoint>10 minutes after each flow rate change</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>SpO2/FiO2 - calculated using the values for oxygen saturation assessed from the bedside monitor and inspired oxygen as delivered by the oxygen blender</outcome>
+      <timepoint>10 minutes after each flow rate change</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heart rate (HR) assessed using bedside monitor</outcome>
+      <timepoint>10 minutes after each flow rate change.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Oxygen saturation (SpO2) assessed using bedside monitor</outcome>
+      <timepoint>10 minutes after each flow rate change.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Preterm group	
+Infants at 28  36 weeks corrected gestational age
+Are currently treated with nCPAP 
+Are currently deemed stable enough by the treating medical and nursing staff to go onto HFNC
+Have an FiO2 requirement less than or equal to 0.40
+Nasogastric (ng) feeding tube in place
+Parent(s) or guardian able and willing to provide informed consent 
+
+Bronchiolitis group
+Clinical diagnosis of bronchiolitis with increased WOB (retraction, auxiliary respiratory muscle use) and respiratory distress due to viral infection
+An oxygen requirement treated with high flow in ICU
+Aged 0-12 months
+Nasogastric (ng) feeding tube in place
+Parent(s) or guardian able and willing to provide informed consent 
+</inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>12</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Lung or cardiovascular anomaly that would substantially affect oxygenation, lung recruitment or regional ventilation, e.g.;
+Cyanotic or other major congenital heart disease (not including Patent Ductus Arteriosus)
+Craniofacial malformations or congenital disease affecting the respiratory system
+More than 2 episodes within the last hour of apnoea and/or bradycardia requiring moderate or vigorous stimulation and an increase in FiO2 or change in CPAP pressure
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Flow rates will be randomly applied. </concealment>
+    <sequence>Randomisation will be undertaken by study personnel using a computer generated randomisation with allocation concealment by sequentially numbered sealed opaque envelopes</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Data will be described using means and 95% confidence intervals. Standard deviation scores (SDS) will be used to describe changes from baseline, with a twofold sustained increase in SDS considered significant. ANOVA with Bonferoni correction for repeated measurements will also be used. A p-value of &lt;0.05 will be considered statistically significant. A convenience sample of 16 premature infants will be used and 30 infants with bronchiolitis. Based on our previous studies, we can expect that 2 L/kg/min air flow causes an increase of continuous distending pressure by 4.5 cmH2O (SD 2.7, n = 13). We expect a similar effect in the current study on Edi. Using a power of 90% and a P-value of &lt; 0.05 we need to enrol approximately 12-15 patients</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>2/11/2015</anticipatedstartdate>
+    <actualstartdate>29/05/2016</actualstartdate>
+    <anticipatedenddate>30/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>46</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>16</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Mater Mother's Hospital - South Brisbane</hospital>
+    <hospital>Lady Cilento Children's Hospital - South Brisbane</hospital>
+    <postcode>4101 - South Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Mater Health Services</primarysponsorname>
+    <primarysponsoraddress>Mater Health Services, 
+Raymond Terrace
+South Brisbane, QLD 4101
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Betty McGrath Research Fellowship, Mater Health Services and Mater Research </fundingname>
+      <fundingaddress>Mater Health Services, 
+Raymond Terrace
+South Brisbane, QLD 4101
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Australian Catholic University</fundingname>
+      <fundingaddress>1100 Nudgee Rd
+Banyo
+Qld 4014</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Lady Cilento Children's Hospital</sponsorname>
+      <sponsoraddress>501 Stanley St
+South Brisbane
+Qld 4101
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Delivery of air flow by high flow nasal cannula (HFNC) has become increasingly popular in neonatal and paediatric intensive care units throughout Australia and the world. Despite this, there is limited knowledge on how to determine the most appropriate flow rate for the infant. This study will measure the electrical activity of the diaphragm to determine when the work of breathing is optimal and then examine what other physiological measures correlate with this. The aim of this study is to demonstrate the physiological effect of randomly applied levels of high flow on the work of breathing (WOB) indirectly measured with electric diaphragmatic activity. 
+Methods: This is a prospective interventional study of premature infants with respiratory distress admitted to the Neonatal Critical Care Unit (NCCU), Mater Mothers Hospital, South Brisbane and infants with bronchiolitis admitted to Lady Cilento Childrens Hospital (LCCH).  
+Work of breathing (WOB) will be measured with diaphragmatic electrical activity - measured transoesophageal (Edi)and transdermal (Tdi), and respiratory inductance plethysmography (RIP).  Using the Edi signals we will measure the WOB during HFNC treatment and assess its impact on patients with respiratory distress. Edi requires inserting a specially designed sensing nasogastric tube into the infants nose, Tdi involves placing five regular skin elecrodes on the chest, and RIP consists of two stretch bands placed around the chest and abdomen. Both Edi and RIP signal can be recorded continuously during the entire study period and recorded on a dedicated computer and further analysed.
+Physiological variables of respiratory rate (RR), heart rate (HR), and oxygen saturations (SpO2) will also be monitored throughout the study. From the collected data the SpO2/FiO2 ratio will be calculated.
+Study Procedure: Infants recruited into the trial will be on HFNC oxygen therapy using the Fisher &amp; Paykel 850 humidifier. The in situ nasogastric tube will be replaced by the Edi probe. The first measurement will be done when the infant is settled but within the first 24 hours of HFNC administration. Thereafter, flow rates between 2 and 8 L /min will be randomly applied for the preterm infant and between 0.5 L/kg/min and 2 L/kg/min for the infants with bronchiolitis. At the conclusion, initial HFNC settings will be reinstituted.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Mater Health Services</ethicname>
+      <ethicaddress>Raymond Terrace
+South Brisbane, Qld 4101
+</ethicaddress>
+      <ethicapprovaldate>15/09/2015</ethicapprovaldate>
+      <hrec>HREC/15/MHS/68</hrec>
+      <ethicsubmitdate>28/07/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/369196-HF_dose finding_Research Proposal_V2_150728.docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Judy Hough</name>
+      <address>Physiotherapy Department
+Mater Health Services
+Raymond Terrace
+South Brisbane
+Qld 4101
+</address>
+      <phone>+61 422404369</phone>
+      <fax />
+      <email>judith.hough@mater.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Judy Hough</name>
+      <address>Physiotherapy Department
+Mater Health Services
+Raymond Terrace
+South Brisbane
+Qld 4101
+</address>
+      <phone>+61 422404369</phone>
+      <fax />
+      <email>judith.hough@mater.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Judy Hough</name>
+      <address>Physiotherapy Department
+Mater Health Services
+Raymond Terrace
+South Brisbane
+Qld 4101
+</address>
+      <phone>+61 422404369</phone>
+      <fax />
+      <email>judith.hough@mater.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Judy Hough</name>
+      <address>Physiotherapy Department
+Mater Health Services
+Raymond Terrace
+South Brisbane
+Qld 4101
+</address>
+      <phone>+61 422404369</phone>
+      <fax />
+      <email>judith.hough@mater.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

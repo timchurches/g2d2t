@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="256">
+  <stage>Registered</stage>
+  <submitdate>23/08/2005</submitdate>
+  <approvaldate>2/09/2005</approvaldate>
+  <actrnumber>ACTRN12605000272695</actrnumber>
+  <trial_identification>
+    <studytitle>Point of CARE testing in a general practice setting trial</studytitle>
+    <scientifictitle>A randomised controlled trial to evaluate the safety, clinical effectiveness and cost effectiveness of Point of Care testing in a general practice setting on the management of diabetes, anticoagulant therapy and hyperlipidaemia.</scientifictitle>
+    <utrn />
+    <trialacronym>PoCT trial in General Practice</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Diabetes</healthcondition>
+    <healthcondition>Hyperlipidaemia and anticoagulantm therapy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The primary purpose of the trial is to evaluate the clinical effectiveness, cost effectiveness and safety of PoCT in a general practice setting. There are two phases to the trial. In the first phase, patients in practices from the experimental group will have their testing performed both by pathology laboratories in the usual manner and by PoCT in general practice. In phase 2 of the trial, patients in the experimental group will be tested using only PoCT in their usual general practice. </interventions>
+    <comparator>The control group will undertake testing by pathology laboratories in accordance with the protocol of the trial. Phase 1 will go for 6 months. 
+Patients in the control group will continue to be tested as for phase 1. Phase 2 will go for 12 months.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>improved control for patients with lipids, diabetes and INR</outcome>
+      <timepoint>At 18 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>1) safety (competency, quality asurance, quality control and precision and accuracy)</outcome>
+      <timepoint>6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>2) Cost effectiveness of PoCT</outcome>
+      <timepoint>18 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>3) Satisfaction with PoCT (GPs, patients, practice staff, other stakeholders).</outcome>
+      <timepoint>17 month</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Have an established disease. The criteria for categorising a patient as having established disease are: 1. Anticoagulant therapy patient has been prescribed warfarin and has had INR test results within the therapeutic range for at least one month (i.e. is stabilised). 2. Diabetes patient has had a fasting plasma glucose &gt; = 7.0 mmol/L or 2-hour post glucose load &gt;=11.1 mmol/L.  3. Hyperlipidaemia patient is, or has been, eligible for pharmaceutical benefits for lipid lowering drugs (statins).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients who have significant cognitive impairment (eg dementia), and/or Patients unable to understand the instructions written in English, and/or patients who have poor insight into their disease process or physical disabilities.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by phone/email after consent was obtained (recruiters did not know the sequence).</concealment>
+    <sequence>The random allocation sequence was generated using Ralloc.ado version 3.2.5 in Stata 9.0. Randomisation was stratified by geographic area (urban, rural and remote) and used randomly permuted blocks of various sizes.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/09/2005</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>6836</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Department of General Practice, The University of Adelaide</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Australian Government Department of Health and Ageing</fundingname>
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The University of Adelaide, with funding from the Australian Government, Department of Health and Ageing (DoHA) is currently conducting a large research Trial investigating and evaluating the clinical effectiveness, cost effectiveness and safety of point of care testing (PoCT) in general practice. The Trial is of considerable national significance. In 2002, DoHA commissioned a review for the Medical Services Advisory Committee (MSAC) on the role and value of point of care testing in Australia. This report highlighted the potential advantages of PoCT, particularly in rural and remote practices, but concluded that further evidence needed to be collected concerning the clinical and economic benefits as well as the analytical performance of PoCT in the community setting.
+
+The Point of Care Testing Trial will occur in three settings: urban, rural and remote. It will aim to demonstrate whether or not local pathology testing will improve and create more efficient care and be acceptable to both general practitioners (GPs) and their patients. It will also test whether these innovative models can be sustainable and safely implemented in general practice.
+
+Approximately 6,000 patients of 60 general practices will participate in this Trial. Patients from half the practices will participate fully in the Trial and have their pathology tests conducted at the GP`s surgery;  these will be known as the intervention group, while the other half will act as the control group and have their pathology testing done by the usual pathology group selected by their surgery.
+
+Patients eligible to participate in the Trial are those 18 years and over and who have established diabetes, cardiovascular disease or who are taking anticoagulant medicine such as Warfarin.
+
+There will be four tests used for the Trial. These four tests are:
+
+Haemoglobin A1c (HbA1c): a blood test for monitoring the control of diabetes in patients with established diabetes.
+
+Urine Albumin:Creatinine ratio (ACR): a urine test for detecting and, in this Trial, monitoring microalbuminuria (early renal disease) in patients with established diabetes.
+
+Lipids: a blood test that measures different blood fats (total cholesterol [TC], high density lipoprotein [HDL] cholesterol, and triglyceride [TGL] in patients in this Trial who have hyperlipidaemia and who are taking lipid lowering drugs.
+
+International Normalised Ratio (INR): a blood test that measures clotting time in patients receiving oral anticoagulant therapy (such as Warfarin).
+
+Three different testing devices will be used in this Trial. These are the DCA 2000 (HbA1c and urine ACR [micralbuminuria]); the Cholestech LDX  (blood lipids); and the CoagChek S (INR).  All devices and consumables will be supplied to practices for the life of the Trial.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The University of Adelaide Human Research Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>31/12/2005</ethicapprovaldate>
+      <hrec>H-132-2004</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Royal College of General Practitioners National Research and Evaluation Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>7/02/2005</ethicapprovaldate>
+      <hrec>NREEC 05-01</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Departmental Ethics Committee of the Australian Government Department of Health and Ageing</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>28/05/2004</ethicapprovaldate>
+      <hrec>3/2004</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The Monash University Standing Committee on Ethics in Research Involving Humans.</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The University of Sydney Human Research Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Ms Caroline Laurence</name>
+      <address>Evaluation Manager
+Department of General Practice
+University of Adelaide
+North Terrace SA 5005</address>
+      <phone>+61 8 83034951</phone>
+      <fax>+61 8 83036271</fax>
+      <email>caroline.laurence@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Ms Briony Glastonbury</name>
+      <address>PoCT Trial Manager
+Department of General Practice
+University of Adelaide
+North Terrace SA 5005</address>
+      <phone>+61 8 83033535</phone>
+      <fax>+61 8 83036271</fax>
+      <email>briony.glastonbury@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

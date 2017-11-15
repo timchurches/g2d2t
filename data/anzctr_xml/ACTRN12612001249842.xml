@@ -1,0 +1,309 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363305">
+  <stage>Registered</stage>
+  <submitdate>26/11/2012</submitdate>
+  <approvaldate>26/11/2012</approvaldate>
+  <actrnumber>ACTRN12612001249842</actrnumber>
+  <trial_identification>
+    <studytitle>Intravenous iRon or placebO for aNaeMiA in iNtensive care: The Ironman Randomised Controlled Trial</studytitle>
+    <scientifictitle>For patients with anaemia admitted to the Intensive Care Unit, does intravenous iron compared with placebo reduce red blood cell transfusion requirement?</scientifictitle>
+    <utrn />
+    <trialacronym>The IRONMAN Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Anaemia in critical illness</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood</conditioncode1>
+      <conditioncode2>Anaemia</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>intravenous iron 500mg ferric carboxymaltose. Participants in the intervention arm will be redosed with 500mg of ferric carboxymaltose after a minimum of 5 days from the previous dose if they remain in the ICU with a Haemaglobin &lt;100g/L and have no exclusion criteria. The maximum total number of doses will be four doses within thirty days.</interventions>
+    <comparator>placebo in the form of intravenous 0.9% saline in equal volume to the intervention group (100ml). Participants in the placebo arm will be redosed with 100ml 0.9% saline after a minimum of 5 days from the previous dose if they remain in the ICU with a Haemaglobin &lt;100g/L and have no exclusion criteria. The maximum total number of doses will be four doses within thirty days.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>mean number of packed red blood cell units transfused from study enrolment to discharge from hospital. This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>hospital discharge</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients who receive red blood cell transfusion from enrolment to ICU discharge.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who develop nosocomial infection in ICU including confirmed blood stream infection, ventilator-associated pneumonia, and other infections.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record and clinical assessment and laboratory results.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time-weighted Hb on routine morning blood tests from enrolment to ICU discharge.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean number of RBC units transfused from study enrolment to discharge from the ICU.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who die prior to discharge from hospital.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of admission to ICU.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of admission to hospital.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration from enrolment to time of first RBC transfusion.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Organ failure support-free days between enrolment and ICU discharge.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record.</outcome>
+      <timepoint>ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Hb, ferritin, transferrin saturation and absolute reticulocyte count fifth daily after study enrolment and on discharge from ICU and hospital.
+
+This will be assessed by the site investigators and research coordinators prospectively using the participant medical record and laboratory results.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost difference between study arms.
+
+This will be assessed by the site investigators and research coordinators retrospectively using the participant medical record, imaging, laboratory results and discharge data.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost-effectiveness of IV iron.
+
+This will be assessed by the site investigators and research coordinators retrospectively using the participant medical record, imaging, laboratory results and discharge data.</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Admitted to an ICU for less than 48 hours
+2.	Anticipated to require ICU care beyond the next calendar day
+3.	Hb less than 100 g/L at any time during the preceding 24 hours
+4.	Age 18 years or greater</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Suspected or confirmed severe sepsis (two or more Systemic Inflammatory Response Syndrome (SIRS) criteria, suspected or confirmed infection, and one or more organ system failure)
+2.	Serum ferritin greater than 1200ng/ml or transferrin saturation greater than 50%
+3.	History of haemochromatosis or aceruloplasminaemia 
+4.	Known prior administration of IV iron in the preceding 3 months
+5.	Jehovahs Witness or other documented exclusion to receiving blood products
+6.	Receiving ESA (e.g. epoetin or darbepoeitin) in the 3 months prior to ICU admission
+7.	Known hypersensitivity to intravenous iron
+8.	Pregnancy
+9.	Treatment intent is palliative
+10.	Death is deemed imminent and inevitable
+11.	Weight less than 40kg
+12.	Participating in competing study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be randomised using a variable box size randomly-derived sequence that is stratified by site. Allocation concealment will be maintained by using sequentially numbered, sealed, opaque envelopes containing the numeric code of the study arm to which the participant has been randomised.</concealment>
+    <sequence>The randomisation code will be generated by STATA, a statistical package. Stratification by site only.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/03/2013</anticipatedstartdate>
+    <actualstartdate>17/06/2013</actualstartdate>
+    <anticipatedenddate>31/12/2015</anticipatedenddate>
+    <actualenddate>4/06/2015</actualenddate>
+    <samplesize>140</samplesize>
+    <actualsamplesize>140</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>4/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <hospital>Joondalup Health Campus - Joondalup</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <postcode>6000</postcode>
+    <postcode>6160 - Fremantle</postcode>
+    <postcode>6919 - Joondalup</postcode>
+    <postcode>6009 - Crawley</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Edward Litton</primarysponsorname>
+    <primarysponsoraddress>Department of Intensive Care Medicine
+Royal Perth Hospital
+Wellington Street
+Perth, WA, 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>State Health Research Advisory Council, Department of Health, Western Autralia</fundingname>
+      <fundingaddress>Level 2, C Block
+189 Royal Street
+East Perth
+WA 6004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Vifor Pharma Pty Ltd</fundingname>
+      <fundingaddress>Level 8, 80 Dorcas Street, Southbank
+Melbourne VIC 3006</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>ANZICS CTG</sponsorname>
+      <sponsoraddress>10 Levers Tce,
+Carlton South
+Melbourne VIC 3053</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background
+Between 17 and 45% of patients admitted to an Intensive Care Unit (ICU) are reported to receive a red blood cell (RBC) transfusion and these transfusions comprise almost 20% of all RBC use in Australia. Although RBC transfusion may be life-saving in patients with major haemorrhage, the majority of patients transfused in the ICU receive RBCs for other indications including minor haemorrhage, anaemia and augmentation of cardiac output. Observational studies in critical illness identify RBC transfusion as an independent and dose-dependent risk factor for mortality and serious morbidity including transfusion-related lung injury, transfusion-associated circulatory overload, transfusion-related immunomodulation and infection. In addition to the associated risks, transfusion is also costly. The product cost of transfusing a single RBC unit in Western Australia (WA) is $370 and the total cost is $875 and increasing. 
+There is evidence that current ICU clinical practice complies with the National Health and Medical Research Council (NHMRC) Guidelines on restrictive RBC transfusion thresholds. As such, there is little scope to reduce transfusion through better compliance with existing evidence. Novel interventions to reduce transfusion requirement in critically ill patients are therefore required urgently. 
+
+Intravenous (IV) iron has been shown to be effective for the management of iron-restricted erythropoiesis, reducing RBC transfusion, in multiple well conducted RCTs in a number of patient groups. If IV iron reduces transfusion requirement in patients admitted to the ICU it will represent a promising candidate intervention to also reduce mortality and serious morbidity. However, its clinical and cost-effectiveness in patients who are critically ill in the ICU is uncertain.
+
+Aim
+The primary aim of the study is to determine if the administration of IV iron compared with placebo to patients admitted to an ICU and who are anaemic reduces RBC transfusion prior to hospital discharge.  
+The secondary aim is to determine if a phase III RCT of IV iron is warranted with such a trial having the aim of determining whether IV iron, compared to placebo, results in improved patient-centred outcomes.
+
+Objectives
+To determine whether the administration of IV iron in patients who are admitted to an ICU and are anaemic will:
+1.	Reduce the mean number of transfused RBC units 
+2.	Improve clinical outcomes including mortality at hospital discharge and duration of admission to hospital and ICU
+3.	Be cost-effective
+
+Methods 
+The proposed study will be a blinded, parallel group, phase II randomised trial comparing IV iron with placebo in patients admitted to the ICU and who are anaemic. Participants will be eligible if they are within 48 hours of admission to the ICU, have had one or more measurements of Hb &lt;100g/L within the preceding 24 hours, are expected to require ICU care beyond the next calendar day, and fulfil none of the exclusion criteria. Participants will be randomised in a 1:1 ratio to the intervention or placebo group. Participants randomised to the IV iron group will receive 500mg of ferric carboxymaltose. Participants who are randomised to the control group will receive an equivalent volume of IV 0.9% saline. The intervention will be blinded to study staff and clinical staff caring for the patient. The study will be conducted in 4 metropolitan ICUs in Perth WA comprising Fremantle Hospital, Joondalup Hospital, Royal Perth Hospital, and Sir Charles Gairdner Hospital. 
+
+Outcomes
+The primary end-point is the mean number of RBC units transfused. The study will also investigate the effect of intravenous iron on mortality and major morbidity as well as the costs and cost-effectiveness of IV iron.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>South Metropolitan Health Service Human Research Ethics Committee
+Fremantle Hospital
+Alma Street
+Fremantle 
+WA 6160</ethicaddress>
+      <ethicapprovaldate>7/03/2013</ethicapprovaldate>
+      <hrec>1/12/0347</hrec>
+      <ethicsubmitdate>4/12/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/363305-CV 2014 IRONMAN Protocol CC&amp;R.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Ed Litton</name>
+      <address>Department of Intensive Care Medicine
+Royal Perth Hospital
+Wellington Street
+Perth, WA, 6000</address>
+      <phone>+61892242244</phone>
+      <fax />
+      <email>ed_litton@hotmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Ed Litton</name>
+      <address>Department of Intensive Care Medicine
+Royal Perth Hospital
+Wellington Street
+Perth WA, 6000</address>
+      <phone>+61892242244</phone>
+      <fax />
+      <email>ed_litton@hotmail.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Ed Litton</name>
+      <address>Department of Intensive Care Medicine
+Fiona Stanley Hospital
+Murdoch Drive
+Murdoch
+WA 6065</address>
+      <phone>+61892242244</phone>
+      <fax />
+      <email>ed_litton@hotmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Edward Litton</name>
+      <address>Intensive Care Unit
+Royal Perth Hospital
+Wellington St
+Perth
+WA
+6000</address>
+      <phone>+61892242244</phone>
+      <fax />
+      <email>ed_litton@hotmail.com</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365947">
+  <stage>Registered</stage>
+  <submitdate>12/03/2014</submitdate>
+  <approvaldate>27/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000329662</actrnumber>
+  <trial_identification>
+    <studytitle>Examination of mechanism of action of pre-quit use of nicotine patch and varenicline  for smoking cessation</studytitle>
+    <scientifictitle>Effect of treatment with pre-quit nicotine patch or pre-quit varenicline  or  standard nicotine patch for regular daily smokers aged over 18 on abstinence at four weeks</scientifictitle>
+    <utrn />
+    <trialacronym>PQT</trialacronym>
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>smoking cessation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Addiction</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Varenicline 6 weeks, including  2 weeks prior to a set quit date; oral dose 0.5 mg once daily for 3 days, 0.5 mg twice daily for 4 days, 1 mg twice daily for weeks 2-6.
+or
+Nicotine patch 21mg/24 hours  6 weeks, including  2 weeks prior to a set quit date.
+Daily monitoring adherence via participant study phone device</interventions>
+    <comparator>Nicotine patch 21mg/24 hours  4 weeks commencing on a  set quit date</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Smoking reduction (cigarettes per day) from daily log of cigarettes on study smartphone device</outcome>
+      <timepoint>During 2 weeks prior to quit date</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Cigarette craving via visual analogue scale on study smartphone device</outcome>
+      <timepoint>During 2 weeks prior to quit date at random daily time points and at selected logged cigarettes each day.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Satisfaction with cigarette smoking via visual analogue scale on study smartphone device</outcome>
+      <timepoint>During 2 weeks prior to quit date at random daily time points and at selected logged cigarettes each day.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Biochemically-verified abstinence from smoking using Carbon monoxide in expired air</outcome>
+      <timepoint>28 days post quit date</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>a) greater than or equal to 18 years old; b) smoke greater than or equal to 15 cigarettes per day for the past three years; c) have high motivation to quit smoking (75/100); d) be willing and able to use either patches or varenicline as part of a quit attempt.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>a) are currently enrolled in a smoking cessation trial, or have been within the past three months; b) are unsuitable for treatment with either patches or varenicline (per prescribing guidelines). </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sequential allocation to  allocation sequence pre-prepared by third party</concealment>
+    <sequence>Participants will be randomised to study groups using a computer generated block randomisation scheme.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Cigarette craving and smoking satisfaction will be used to predict smoking reduction using multilevel structural equation models, with treatment group included as a variable. Smoking reduction during the pre-quit phase will be used in a logistic regression model to predict 4 week abstinence with treatment group as a covariate. Abstinence analysis will be conducted as intent-to-treat, dropouts will be counted as treatment failures.
+The proposed sample size (n=216; 72 participants per group) was determined by the requirements of the primary research questions  detecting reductions in satisfaction (H1) and craving (H2) scores, and smoking rate (H3), between the SP and the two pre-quit treatment groups (PQP and VAR) at the end of the pre-quit treatment period (Visit 3). In a pilot study we observed moderate-to-large effects of pre-quit patch treatment on self-reported satisfaction with smoking, craving, and smoking rate during the pre-quit treatment period. Using these reductions as a proxy for between-group differences (assuming that these measures will not decrease during the pre-quit period for participants in the SP group), a conservative estimate of within-subject correlation of measures (0.5), our proposed sample will afford &gt;90% power to detect a difference in these measures. Our proposed sample size will also afford &gt;80% power to detect an effect of smoking reduction during the pre-quit phase on treatment outcomes.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>25/03/2014</anticipatedstartdate>
+    <actualstartdate>27/03/2014</actualstartdate>
+    <anticipatedenddate>27/11/2015</anticipatedenddate>
+    <actualenddate>19/05/2016</actualenddate>
+    <samplesize>216</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>20/07/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>TAS</recruitmentstate>
+    <postcode>7005 - University Of Tasmania</postcode>
+    <postcode>7001 - Hobart</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Stuart Ferguson</primarysponsorname>
+    <primarysponsoraddress>Private Bag 68, School of Medicine, University of Tasmania, Hobart, Tasmania, 7001</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Global Research Awards for Nicotine Dependence (GRAND) Program 2013 funded by Pfizer</fundingname>
+      <fundingaddress>Pfizer, 
+235 East 42nd Street
+NY, NY 10017</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Julia Walters</othercollaboratorname>
+      <othercollaboratoraddress>Private Bag 68, School of Medicine, University of Tasmania, Hobart, Tasmania, 7001
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary> The primary objective of the proposed study  is to test the mechanism of action of two pre-quit smoking cessation medications - varenicline and nicotine patch  in order to learn how best to optimize these pre-quit treatments. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Tasmania Health &amp; Medical Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office of Research Services, University of Tasmania, 
+Private Bag 1
+Hobart
+Tasmania 7001</ethicaddress>
+      <ethicapprovaldate>13/01/2014</ethicapprovaldate>
+      <hrec>H0013619</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Stuart Ferguson</name>
+      <address>Private Bag 68, School of Medicine, University of Tasmania, Hobart TAS 7001</address>
+      <phone>+61 3 6226 4295</phone>
+      <fax />
+      <email>Stuart.Ferguson@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stuart Ferguson</name>
+      <address>Private bag 68, University of Tasmania, Hobart TAS 7001</address>
+      <phone> +61 3 6226 1093</phone>
+      <fax />
+      <email>bsrg.utas@gmail.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stuart Ferguson</name>
+      <address>Private Bag 68, School of Medicine, University of Tasmania, Hobart TAS 7001</address>
+      <phone>+61 3 6226 4295</phone>
+      <fax />
+      <email>Stuart.Ferguson@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Stuart Ferguson</name>
+      <address>Private Bag 68, School of Medicine,University of Tasmania, Hobart TAS 7001</address>
+      <phone>+61 3 6226 8536	</phone>
+      <fax />
+      <email>Stuart.Ferguson@utas.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

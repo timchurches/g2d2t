@@ -1,0 +1,311 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336957">
+  <stage>Registered</stage>
+  <submitdate>20/05/2011</submitdate>
+  <approvaldate>2/06/2011</approvaldate>
+  <actrnumber>ACTRN12611000567921</actrnumber>
+  <trial_identification>
+    <studytitle>A Multicentre Randomized Study Comparing 
+Indwelling Pleural Catheter vs Talc Pleurodesis in Patients with a Malignant Pleural Effusion</studytitle>
+    <scientifictitle>A Multicentre Randomized Study Comparing Days in Hospital with Indwelling Pleural Catheter vs Talc Pleurodesis in Patients with a Malignant Pleural Effusion</scientifictitle>
+    <utrn />
+    <trialacronym>AMPLE (Australasian Malignant PLeural Effusion trial)</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Malignant Pleural Effusion</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Any cancer</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Indwelling Pleural Catheter (IPC):
+
+A soft flexible silicon catheter placed in the pleural space and tunnelled through the subcutaneous tissues. It is anchored by a cuff in the subcutaneous segment into which fibroblasts grow. 
+
+IPCs are inserted under light sedation and local anaesthesia, often in a Day Procedure Unit being discharged home after just a few hours. They allow simple, painless ambulatory drainage of effusions, averting hospital attendances. 
+
+They are designed to remain in situ for the remainder of the patient's life, but around 40% of patients are able to have the IPC removed because of spontaneous pleurodesis (a benefit of the IPC treatment keeping the pleural space dry).</interventions>
+    <comparator>Talc Pleurodesis:
+
+Talc pleurodesis is the conventional treatment of malignant pleural effusions and involves iatrogenic induction of pleural fibrosis to obliterate the pleural cavity. It is an inpatient procedure performed at the bedside by inserting a small bore chest drain (&lt;16 Fr), draining the fluid to dryness and (if the lung reexpands) injecting talc slurry into the pleural space. 
+
+If the lung reexpands pleurodesis has a 60-80% chance of successfully preventing the need for further pleural drainage. 
+
+If the lung does not reexpand to the point where &gt;75% of the visceral and parietal pleura are touching on chest radiograph (trapped lung), then 10-20cm H2O suction will applied until this occurs, or if this fails then talc will not be administered and the patient will be offered other treatments (including IPC) by their treating physician.
+
+Pleurodesis will be deemed to have failed if fluid recurs and the patient is symptomatic enough to warrant further drainage procedures. In this event, further treatments (simple drainage, repeat pleurodesis, IPC) will be chosen by the patient and their treating physician.
+
+All patient outcomes will be analysed on an intention to treat basis.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of days spent in hospital (bed days):
+
+This includes all hospital admissions following intervention, until death or the end of the study (1 year). The primary endpoint is chosen as it the most meaningful outcome for cancer patients and their clinicians.
+
+The patients will be asked at each follow up whether they have spent any time in hospital in the intervening period. Their medical records (both electronic admissions data and written records) will also be reviewed at every follow up, and the number of days will be counted at each vist and stored in the confidential database.
+
+Given the impossibility of blinding, hospital admissions will be decided by the independent treating physicians, not by the investigators wherever possible. The reason(s) for admission must be documented and satisfy at least one of the following criteria: 
+
+-Any procedure required that cannot be performed in the outpatient setting because of the need for &gt;4 hours of close nursing or medical attention.
+
+-A coexisting or new medical problem requires inpatient therapy.
+
+-Cancer or effusion-related symptoms that cannot be adequately controlled at home with community nursing and GP support.
+
+Incomplete days, eg day procedure admission for IPC-insertion, will be rounded up to 1. Day-case chemotherapy administration will not be included as admissions. The validity of all investigator-initiated admissions will be independently assessed by a preapproved assessor within one month of the event occurring.</outcome>
+      <timepoint>All follow up appointments until death or 1 year.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life:
+
+This will be assessed by visual analogue score (VAS) immediately prior to and daily for 1 week after any pleural procedure/intervention, and at every follow up subsequently.</outcome>
+      <timepoint>Follow up is fortnightly for 2 months then monthly to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Breathlessness: 
+
+VAS. As above</outcome>
+      <timepoint>Fortnightly for 2 months then monthly to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health cost assessment: 
+
+direct clinical costs from WA Health Dept coding data and other estimated community-based costs will be captured from patient diary records.</outcome>
+      <timepoint>At the end of the study</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Symptomatic Malignant Pleural Effusion</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age &lt;18 years; an effusion &lt;2cm at maximum depth; expected survival &lt;3 months; chylothorax; previous ipsilateral lobectomy or pneumonectomy; previous attempted pleurodesis; pleural infection; leukocytopenia (&lt;1.0x109/L); pregnant or lactating patients; uncorrectable bleeding diathesis; inability to give informed consent or comply with the protocol.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>All patients with Malignant Pleural Effusions (MPE) presenting to participating centres, who meet the inclusion criteria and not exclusion criteria, will be offered entry to the study.
+
+When informed consent to participate is obtained patients will be randomly assigned (1:1) to either an IPC or talc pleurodesis for their malignant pleural effusion. This randomisation will be performed off site by an independent statistician. The allocation will not be concealed form either the investigator, the treating physician or the patient, as it is impossible to hide which procedure is being employed. 
+
+(IPC - a tube is tunneled and left in place and the patient is discharged; or Pleurodesis - the patient is admitted, a simple chest drain is inserted, and talc is then infiltrated before removing the tube).</concealment>
+    <sequence>A statistician, not involved in the trial, will manage the allocation sequence. Computer-derived allocation will be delivered and randomization will include minimization for 
+1) histological type (mesothelioma vs non-mesothelioma) as median survival is longer in mesothelioma (12 vs 4 months), and the risk of catheter-track metastases may be higher with mesothelioma; and 
+2) the presence of trapped lung, as this has been postulated to reduce the likelihood of a successful pleurodesis.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2012</anticipatedstartdate>
+    <actualstartdate>2/07/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>16/10/2014</actualenddate>
+    <samplesize>146</samplesize>
+    <actualsamplesize>146</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up continuing</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Swan Districts Hospital - Middle Swan</hospital>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <hospital>St John of God Hospital, Bunbury - Bunbury</hospital>
+    <hospital>Holy Spirit Northside - Chermside</hospital>
+    <hospital>Nambour General Hospital - Nambour</hospital>
+    <hospital>St George Hospital - Kogarah</hospital>
+    <hospital>The Sutherland Hospital - Caringbah</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state />
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof YC Gary Lee</primarysponsorname>
+    <primarysponsoraddress>School of Medicine and Pharmacology
+4th Floor G Block
+Sir Charles Gairdner Hospital
+Nedlands
+Perth
+WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Dust Diseases Board</fundingname>
+      <fundingaddress>82 Elizabeth Street, Sydney NSW 2000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Cancer Council of Western Australia</fundingname>
+      <fundingaddress>46 Ventnor Ave, West Perth 6005</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Sir Charles Gairdner Hospital</sponsorname>
+      <sponsoraddress>Hospital Avenue
+Nedlands
+Perth 
+WA 6009</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Edward T.H. Fysh</othercollaboratorname>
+      <othercollaboratoraddress>Respiratory Medicine
+B Block, 
+Sir Charles Gairdner Hospital
+Nedlands
+Perth
+WA 6009</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Grant Waterer</othercollaboratorname>
+      <othercollaboratoraddress>University of Western Australia
+Royal Perth Hospital
+Wellington St
+Perth
+WA 6001</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Peter Kendall</othercollaboratorname>
+      <othercollaboratoraddress>Head Respiratory Department
+Fremantle Hospital
+Alma St
+Fremantle
+WA 6959</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is a multicentre randomized clinical trial aiming to evaluate the potential benefits of employing indwelling small-bore pleural catheters (IPCs) as first-line management of malignant pleural effusion, especially in reducing the need of inpatient hospital care for these patients. The study also evaluates the adverse event rates, health costs and acceptability of this new management option to patients and clinicians. 
+
+Who is it for? 
+
+You may be eligible for this study if you are over 18 years of age and have been diagnosed with a Symptomatic Malignant Pleural Effusion 
+
+Trial Details: 
+
+Participants in this study will be randomized to one of two treatment arms: either Indwelling Pleural Catheter (IPC) or Talc Pleurodesis. 
+
+IPC involves a soft, flexible, silicon catheter placed in the pleural space and tunnelled through the subcutaneous tissues, administered under light sedation and local anaesthesia - often in a Day Procedure Unit with you being discharged home after just a few hours. The insertion of the catheter will allow simple, painless drainage of effusions which may end up with you needing to visit hospital less often. They are designed to remain in your chest for the rest of your life, but around 40% of patients are able to have the IPC removed because of spontaneous pleurodesis (a benefit of the IPC treatment in keeping the pleural space dry). 
+
+Talc pleurodesis is a conventional, inpatient procedure performed at the bedside. It takes an average of 6 days in hospital. A small bore chest drain is inserted, the fluid is completely drained away, and then talc is injected into the pleural space. Pleurodesis has a 60-80% chance of successfully preventing the need for further pleural drainage.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Group Human Research and Ethics Committee</ethicname>
+      <ethicaddress>Sir Charles Gairdner Hospital
+Hospital Ave
+Nedlands
+WA 6009</ethicaddress>
+      <ethicapprovaldate>19/04/2012</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>31/01/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Gary Lee</name>
+      <address>B Block
+Respiratory Department
+Hospital Avenue
+Sir Charles Gairdner Hospital
+Nedlands
+WA 6009</address>
+      <phone>+61893464968</phone>
+      <fax />
+      <email>gary.lee@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Prof YC Gary Lee</name>
+      <address>University of Western Australia
+School of Medicine and Pharmacology
+4th Floor G Block
+Sir Charles Gairdner Hospital
+Hospital Ave
+Nedlands
+Perth
+WA 6009</address>
+      <phone>+61893464968</phone>
+      <fax />
+      <email>gary.lee@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Edward TH Fysh</name>
+      <address>as above</address>
+      <phone>+61421253918</phone>
+      <fax />
+      <email>edward.fysh@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>YC Gary Lee</name>
+      <address>B Block
+Respiratory Department
+Hospital Avenue
+Sir Charles Gairdner Hospital
+Nedlands
+WA 6009</address>
+      <phone>+61 8 61510892</phone>
+      <fax />
+      <email>gary.lee@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

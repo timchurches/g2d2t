@@ -1,0 +1,239 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="320641">
+  <stage>Registered</stage>
+  <submitdate>22/09/2009</submitdate>
+  <approvaldate>22/09/2009</approvaldate>
+  <actrnumber>ACTRN12609000827235</actrnumber>
+  <trial_identification>
+    <studytitle>Erythropoietin in Traumatic Brain Injury (EPO-TBI)</studytitle>
+    <scientifictitle>A randomised, placebo-controlled trial evaluating the effect of erythropoietin on neurological function in intensive care unit (ICU) patients with traumatic brain injury</scientifictitle>
+    <utrn>None</utrn>
+    <trialacronym>EPO-TBI = erythropoietin in traumatic brain injury</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Moderate traumatic brain injury</healthcondition>
+    <healthcondition>Severe traumatic brain injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Epoetin alfa (rch) 40,000 units, volume of 1mililitre, given as a subcutaneous injection weekly for up to 3 doses. </interventions>
+    <comparator>Sodium Chloride 0.9%, 1 mililitre, will be given as a subcutaneous injection weekly for up to 3 doses. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Combined proportion of unfavourable neurological outcomes at 6 months: severe disability (defined as Glasgow Outcome Scale - Extended [GOSE] scores 2-4) or death (GOSE score 1).</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Probability of an equal or greater GOSE level at 6 months compared to the probability of a lesser GOSE level, using a proportional odds model</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of surviving patients with unfavourable neurological outcome (GOSE 2-4) at 6 months</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life assessment (SF-12 and EQ-5D) at 6 months</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All-cause mortality assessed via clinical database.</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of proximal deep venous thrombosis (DVT) detected during screening by compression Doppler ultrasound</outcome>
+      <timepoint>Up to ICU discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients with composite thrombotic vascular events (DVT, Pulmonary Embolism (PE), myocardial infarction, cardiac arrest and cerebrovascular events) at 6 months</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost-effectiveness analysis for patients enrolled in the study based on the questionnaire EQ-5D.</outcome>
+      <timepoint>6 months after traumatic brain injury</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Admitted to ICU with non-penetrating traumatic brain injury
+15 to 65 years of age
+Less than 24 hours since primary traumatic injury
+Expected to stay greater than or equal to 48 hours
+Have a haemoglobin not exceeding the upper limit of the applicable normal (ULN) reference range in clinical use at the treating institution
+Written informed consent from legal surrogate</inclusivecriteria>
+    <inclusiveminage>15</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Glasgow Coma Score (GCS) is 3 and pupils are fixed and dilated; History of DVT, PE or other thromboembolic event; A chronic hypercoagulable disorder, including known malignancy; Treatment with EPO in the last 30 days; First dose of study drug unable to be given within 24 hours of primary injury; Pregnancy or lactation or 3 months post partum; Uncontrolled hypertension (systolic blood pressure of greater than 200 mm Hg or diastolic blood pressure of greater than 110 mm Hg); Acute myocardial infarct; Expected to die imminently (within 24 hours); Inability to perform lower limb ultrasounds; Known sensitivity to mammalian cell derived products; Hypersensitivity to the active substance or to any of the additives; Pure red cell aplasia (PRCA);  End stage renal failure (receives chronic dialysis); Severe pre-existing physical or mental disability or severe co-morbidity that may interfere with the assessment of outcome Spinal cord injury; Treatment with any investigational drug within 30 days before enrolment; The treating physician believes it is not in the best interest of the patient to be randomised to this trial.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation via computer</concealment>
+    <sequence>Computerised sequence generation using block randomisation.  Randomisation will be stratified by site and by Glasgow Coma Score; severe TBI (GCS 3-8) or moderate TBI (GCS 9-12)</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/02/2010</anticipatedstartdate>
+    <actualstartdate>18/05/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/11/2014</actualenddate>
+    <samplesize>606</samplesize>
+    <actualsamplesize>606</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>2605</postcode>
+    <postcode>2750</postcode>
+    <postcode>2065</postcode>
+    <postcode>2010</postcode>
+    <postcode>2050</postcode>
+    <postcode>2145</postcode>
+    <postcode>2170</postcode>
+    <postcode>4215</postcode>
+    <postcode>4814</postcode>
+    <postcode>3050</postcode>
+    <postcode>3181</postcode>
+    <postcode>5000</postcode>
+    <postcode>7000</postcode>
+    <postcode>6000 - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Christchurch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state>Riyadh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Dunedin</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Australian and New Zealand Intensive Care Research Centre</primarysponsorname>
+    <primarysponsoraddress>Department of Epidemiology and Preventive Medicine Monash University, Level 6 The Alfred Centre 99 Commercial Road Melbourne Vic 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and medical Research Council</fundingname>
+      <fundingaddress>Level 5, 20 Allara Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Government body</othercollaboratortype>
+      <othercollaboratorname>Victorian Neurotrauma Initiative (VNI)</othercollaboratorname>
+      <othercollaboratoraddress>Level 6, 60 Brougham Street
+Geelong Vic 3220</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Many people who have a traumatic brain injury (TBI) - usually from a blow to the head such as in a vehicle collision or in a fall do not survive or, if they do, suffer from long-term disability. Previous studies have shown that about 1,000 people in Australia and New Zealand suffer a moderate or severe TBI every year.  With current best available treatment and therapies many of these patients sustain loss of brain function and long term disability in varying degrees.
+When a patient sustains a traumatic brain injury there are two phases to the injury. First, the head-impact causes immediate damage to the brain. The secondary injury, which can evolve over hours or weeks, is a very complicated process. It involves many, linked, changes to the cells, brain chemistry, tissues or blood vessels that can destroy brain tissue. The treatment of brain injury focuses on trying to minimize the secondary injury and there is much research being done to try to find treatments that will prevent it.
+Erythropoietin (EPO) has recently emerged as a drug that may help reduce secondary injury and improve brain function. It has been found to offer some protection to the brain when brain cells are deprived of their normal oxygen supply causing cells to die or be impaired.
+The aim of this study is to determine if EPO reduces secondary brain injury and helps patients make a better recovery after traumatic brain injury. The investigators also plan to monitor the effect of EPO on the rate of deep vein thrombosis (DVT - blood clots in the large veins in lower extremity) in patients with moderate or severe TBI in the intensive care unit (ICU).</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred Hospital Ethics Committee</ethicname>
+      <ethicaddress>Research &amp; Ethics Unit
+2nd Fl, East Block
+The Alfred Hospital
+Commercial Road
+Melbourne Vic 3004</ethicaddress>
+      <ethicapprovaldate>10/06/2009</ethicapprovaldate>
+      <hrec>09/156</hrec>
+      <ethicsubmitdate>6/05/2009</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Professor Rinaldo Bellomo</name>
+      <address>Austin Hospital
+145 Studley Road
+Heidelberg Vic 3084</address>
+      <phone>+61 3 9496 5992</phone>
+      <fax>+61 3 9496 3932</fax>
+      <email>Rinaldo.BELLOMO@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Lorraine Little</name>
+      <address>Department of Epidemiology and Preventive Medicine, Monash University Level 6, The Alfred Centre, 99 Commercial Road Melbourne Vic 3004</address>
+      <phone>+61 3 9903 0513</phone>
+      <fax>+61 3 9903 0071</fax>
+      <email>lorraine.little@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Lorraine Little</name>
+      <address>Department of Epidemiology and Preventive Medicine, Monash University Level 6 The Alfred Centre 99 Commercial Road Melbourne Vic 3004</address>
+      <phone>+61 3 9903 0513</phone>
+      <fax>+61 3 9903 0071</fax>
+      <email>lorraine.little@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Austin Hospital, 145 Studley Road, Heidelberg Vic 3084</address>
+      <phone>+61 3 94965992</phone>
+      <fax />
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

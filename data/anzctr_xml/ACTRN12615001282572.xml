@@ -1,0 +1,234 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369658">
+  <stage>Registered</stage>
+  <submitdate>19/11/2015</submitdate>
+  <approvaldate>25/11/2015</approvaldate>
+  <actrnumber>ACTRN12615001282572</actrnumber>
+  <trial_identification>
+    <studytitle>Induced hypernatremia - a therapy for acute lung injury?</studytitle>
+    <scientifictitle>Effect of induced hypernatremia in patients with ARDS in addition to lung protective ventilation and conservative fluid management therapy, compared to lung protective ventilation and conservative fluid management therapy only, on lung injury score (LIS) and successful extubation</scientifictitle>
+    <utrn />
+    <trialacronym>HALT study</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>acute respiratory distress syndrome (ARDS) patient</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Administration of intravenous 20% saline to maintain serum sodium between 145 - 150 mmol /l for 7 days in addition to lung protective ventilation (in accordance with LOVS study; JAMA 2008;299:637-45 ie  target tidal volumes of 6 mL/kg of predicted body weight, plateau airway pressures not exceeding 30 cm H2O- examined with by recording the tidal volume and plateau pressure every day,) and conservative fluid management therapy (in accordance with the conservative arm of the FACTT trial (N Engl J Med 2006; 354:2564-2575; with use of frusemide, restriction of fluid boluses aiming for a negative fluid balance- examined by recording the fluid balance every day )
+</interventions>
+    <comparator>ARDS patient -Lung protective ventilation and use of conservative fluid management therapy
+
+lung protective ventilation (in accordance with LOVS study; JAMA 2008;299:637-45 ie  target tidal volumes of 6 mL/kg of predicted body weight, plateau airway pressures not exceeding 30 cm H2O- examined with by recording the tidal volume and plateau pressure every day,) and conservative fluid management therapy (in accordance with the conservative arm of the FACTT trial (N Engl J Med 2006; 354:2564-2575; with use of frusemide, restriction of fluid boluses aiming for a negative fluid balance- examined by recording the fluid balance every day )
+
+</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of patients with a 1-point reduction in lung injury score (LIS), or successful extubation by day 7. as a composite outcome </outcome>
+      <timepoint>7 days </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Oxygenation index (OI) (OI= FiO2 X mean airway pressure/PaO2 
+Mean airway pressure - Lung ventilator data 
+PaO2 and FiO2 by recording the blood gases </outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inflammatory biomarkers (plasma and BAL)  (CRP, TNF alpha, IL6, IL8, Ang 2, PLA2, TGF beta)</outcome>
+      <timepoint>Baseline , day 3 and day 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plateau pressure - Lung ventilator data </outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Static lung compliance- Lung ventilator data </outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PaO2/FiO2 ratio
+Data from the blood gases</outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sequential organ failure assessment (SOFA)score  </outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ventilator free days 
+Outcome assessed by examining patient medical records </outcome>
+      <timepoint>Day 28</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Use of rescue therapy such as inhlaed NO,ECMO, Prone positioning
+Outcome assessed by examining patient medical records </outcome>
+      <timepoint>Every day till extubation (if earlier than 7 days) for the maximum of 7 days </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU and hospital length of stay
+Outcome assessed by examining patient medical records </outcome>
+      <timepoint>at discharge from ICU and at hospital discharge.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU and hospital mortality 
+Outcome assessed by examining patient medical records 
+</outcome>
+      <timepoint>up to hospital discharge.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>ICU Patients more than equal to 16 years of age who are i) intubated, ii) within 48 hours of a diagnosis of ARDS (PaO2/FiO2 less than equal to 200 mmHg, PEEP = 5 cm H2O, bilateral opacities on chest Xray and respiratory failure not fully explained by cardiac failure or fluid overload) with a known respiratory risk factor for ARDS. </inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Active bronchospasm or a history of significant chronic obstructive airway disease or asthma, moderate and severe traumatic brain injury, the presence of an intracranial pressure monitor, or any medical condition associated with a clinical suspicion of raised intracranial pressure, lack of consent (treating physician or next of kin), inevitable and imminent death,  pregnancy,receiving ECMO, invlovement in other prospective clinical studies.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>sealed opaque envelopes</concealment>
+    <sequence>Block randomisation with variable block size, stratified by site.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Statistical justification : We do not have any previous data for sample size calculation. This is a pilot study and our primary end point is similar to that used by Meduri et al (Chest. 2007;131:954-63); if we achieve similar kind of separation between the groups, with a power of 80% and  alpha of less than 0.05 we will require 18 patients per group. To allow for contingencies, we aim to enrol 20 subjects per group.
+
+
+
+
+
+Baseline and outcome variables will be compared using Chi-square tests for equal proportion, Students t-test for normally distributed outcomes and Wilcoxon rank-sum tests otherwise. Multivariate models adjusting for baseline imbalances and known covariates will be performed using logistic regression. In order to account for the longitudinal correlated nature of variables Generalized linear and repeated measures modelling will used to analyse each of the outcomes (primary and secondary). Multiple imputations and mixed modelling will be utilised if there is missing data.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1 / Phase 2</phase>
+    <anticipatedstartdate>1/06/2016</anticipatedstartdate>
+    <actualstartdate>5/10/2016</actualstartdate>
+    <anticipatedenddate>1/09/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>10</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,SA</recruitmentstate>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <postcode>5042 - Flinders University</postcode>
+    <postcode>2605 - Garran</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Shailesh Bihari</primarysponsorname>
+    <primarysponsoraddress>Dept of ICCU, Flinders Medical Centre , Flinders Lane, Bedford Park SA 5042</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Intensive Care Foundation</fundingname>
+      <fundingaddress>level 2,10 Ievers Terrace, Carlton VIC 3053
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>NONE</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Acute Respiratory Distress Syndrome (ARDS) is a severe form of lung damage that follows a variety of insults, most commonly infection. This is characterized by lung inflammation and flooding of airspaces within the lung by fluid leaking from the blood vessels. Patients with ARDS usually require life support from a breathing machine (ventilator). 
+About 34% of patients suffering from ARDS die despite best care. At any given point about 6% of patients in all Australian ICUs are suffering from this disease. 
+There is growing evidence to suggest that higher salt levels in the blood may have protective effect on lungs in ARDS. Higher salt concentrations in blood have been shown to reduce inflammatory damage to the lungs, less flooding of airspaces and improved function. However, these data are from isolated cell studies or experiments in non-human lungs. There is an urgent need to explore the beneficial effects of high salt concentration in blood in a controlled study in humans.
+As a first step towards investigating the beneficial effect of a high blood salt concentration, we will randomize 40 patients with ARDS to either receive usual care or usual care with additional treatment to increase the salt concentration in blood. Higher salt concentrations in blood will be achieved by administering fluids with higher salt content and will be maintained up to 7 days. Daily assessments of lung function and severity of illness will be performed along with close monitoring of any adverse effects of high salt concentrations.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee </ethicname>
+      <ethicaddress>Flinders Medical
+Centre
+The Flats G5 
+Rooms 3 and 4
+Flinders Drive,
+Bedford Park
+SA 5042</ethicaddress>
+      <ethicapprovaldate>30/04/2015</ethicapprovaldate>
+      <hrec>55.15 - HREC/15/SAC/50</hrec>
+      <ethicsubmitdate>5/02/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Shailesh Bihari</name>
+      <address>Dept of ICCU, Flinders Medical Centre , Flinders Lane, Bedford Park SA 5042</address>
+      <phone>+618 82044247</phone>
+      <fax>+ 61 8 82045751</fax>
+      <email>biharishailesh@gmail.com</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Shivesh Prakash</name>
+      <address>Dept of ICCU, Flinders Medical Centre , Flinders Lane, Bedford Park SA 5042</address>
+      <phone>+618 82044247</phone>
+      <fax>+ 61 8 82045751</fax>
+      <email>shivesh_18@yahoo.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Shailesh Bihari</name>
+      <address>Dept of ICCU, Flinders Medical Centre , Flinders Lane, Bedford Park SA 5042</address>
+      <phone>+618 82044247</phone>
+      <fax>+ 61 8 82045751</fax>
+      <email>biharishailesh@gmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Shailesh Bihari</name>
+      <address>Dept of ICCU, Flinders Medical Centre , SA 5042</address>
+      <phone>+61 8 82044247</phone>
+      <fax>+ 61 8 82045751</fax>
+      <email>biharishailesh@gmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

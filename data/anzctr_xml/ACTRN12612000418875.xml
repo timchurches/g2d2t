@@ -1,0 +1,215 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362354">
+  <stage>Registered</stage>
+  <submitdate>6/04/2012</submitdate>
+  <approvaldate>13/04/2012</approvaldate>
+  <actrnumber>ACTRN12612000418875</actrnumber>
+  <trial_identification>
+    <studytitle>Nebulised heparin for lung injury</studytitle>
+    <scientifictitle>A multi-centre randomised, placebo controlled trial of nebulised heparin in patients with or at risk of developing Acute Respiratory Distress Syndrome, to determine if nebulised heparin improves long term physical function.</scientifictitle>
+    <utrn>U1111-1129-8276</utrn>
+    <trialacronym>CHARLI - Can Heparin Administration Reduce Lung Injury</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patients with or at risk of developing Acute Respiratory Distress Syndrome.</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomised to nebulised liquid heparin (25,000 IU in 5 ml) versus placebo (5 ml of nebulised liquid 0.9% sodium chloride). The study medication is given every six hours for up to 10 days while the patient requires ventilation.</interventions>
+    <comparator>placebo is 5 ml of nebulised 0.9% sodium chloride</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Physical function assessed using the physical function component of the SF-36 health survey.</outcome>
+      <timepoint>Assessed 60 days after randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>mortality assessed by review of medical records and contact with patient or next of kin</outcome>
+      <timepoint>Intensive care discharge, hospital discharge and 60-days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life assessed by contact with patient or next of kin and undertaking EQ5D survey</outcome>
+      <timepoint>assessed 60 days and six months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mechanical ventilation-free days assessed by review of medical records</outcome>
+      <timepoint>assessed 28 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in Murray Lung Injury Score assessed by review of medical records</outcome>
+      <timepoint>assessed 5 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Development of ALI or ARDS assessed by review of medical records</outcome>
+      <timepoint>assessed 5 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lung rescue therapies  assessed by review of medical records</outcome>
+      <timepoint>assessed 28 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Healthcare utilisation assessed by review of medical records</outcome>
+      <timepoint>assessed 6 months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in plasma thrombin time, D-Dimer, antithrombin thrombin levels and serum cytokines assessed by blood analysis</outcome>
+      <timepoint>assessed 3 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital stay duration assessed by review of medical records</outcome>
+      <timepoint>assessed at hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU stay duration assessed by review of medical records</outcome>
+      <timepoint>assessed 28 days after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Major bleeding or other complications  assessed by review of medical records</outcome>
+      <timepoint>assessed 28 days after randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Receiving ventilation via an endotracheal tube
+Started ventilation via an endotracheal tube yesterday or today
+Expected to require invasive ventilation for at least all of today and all of tomorrow
+PaO2 to FiO2 ratio less than 300
+Active ventilator circuit humidification</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Allergy to heparin; any history of heparin induced thrombocytopenia
+Platelet count less than 50 x 109/L; activated partial thromboplastin time (APTT) is prolonged to greater than 80 seconds and this is not due to anticoagulant therapy
+Uncontrolled bleeding; pulmonary bleeding during this hospital admission; any history of intracranial, spinal or epidural haemorrhage
+Neurosurgical procedures during this hospital admission or such procedures are planned; an epidural catheter is in place
+Hepatic encephalopathy or any history of gastrointestinal bleeding due to portal hypertension or biopsy proven cirrhosis with documented portal hypertension 
+Tracheostomy in place; usually receives home oxygen; usually receives any type of assisted ventilation at home e.g. continuous positive airway pressure for obstructive sleep apnoea
+Cervical spinal cord injury associated with reduced long-term ability to breathe independently; spinal or peripheral nerve disease with a likely prolonged reduction in the ability to breathe independently e.g. Guillain-Barre syndrome, motor neurone disease
+Receiving high frequency oscillation ventilation or extra corporeal membrane oxygenation 
+Pregnant or might be pregnant
+Treatment limits restrict the provision of renal replacement therapy, inotropes, vasopressors or prolonged invasive ventilation; usually treated with haemodialysis or peritoneal dialysis for end-stage renal failure; dementia; death is deemed imminent or inevitable or there is underlying disease with a life expectancy of less than 90 days</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment will be maintained throughout by the use of central, secure web randomisation process hosted at the University of Sydney’s Northern Clinical School Intensive Care Research Unit (NCS ICRU).</concealment>
+    <sequence>SAS software statistical system, stratified by center. Blocks of variable size and a random seed will be used to ensure allocation concealment cannot be violated by deciphering the sequence near the end of each block. To further protect from deciphering, block size will not be revealed to site Investigators.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/08/2012</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>256</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>St.Vincents Hospital/Institute</primarysponsorname>
+    <primarysponsoraddress>Fitzroy, Melbourne, Victoria, Australia, PO Box 2900, 3065</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>St.Vincents Hospital/Institute</fundingname>
+      <fundingaddress>Fitzroy, Melbourne, Victoria, Australia
+PO Box 2900, 3065</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will test the primary hypothesis that nebulised heparin ameliorates the severity of lung damage resulting in faster recovery of physical function in critically ill patients with, or at risk of developing, ARDS. Other aims of the study include determining if nebulised heparin improves quality of life, shortens intensive care and hospital lengths of stay and is cost-effective.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St.Vincent's Hospital</ethicname>
+      <ethicaddress>41 Victoria Pde, Fitzroy, Melbourne, PO Box 2900, 3065</ethicaddress>
+      <ethicapprovaldate>16/03/2012</ethicapprovaldate>
+      <hrec>12/SVHM/6</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Barry Dixon</name>
+      <address>St.Vincents Hospital Intensive Care, Victoria
+Fitzroy, PO Box 2900, 3065</address>
+      <phone>610392884488</phone>
+      <fax>610392884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Barry Dixon</name>
+      <address>St.Vincents Hospital Intensive Care, Victoria
+Fitzroy, PO Box 2900, 3065</address>
+      <phone>610392884488</phone>
+      <fax>610392884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Barry Dixon</name>
+      <address>St.Vincents Hospital Intensive Care, Victoria
+Fitzroy, PO Box 2900, 3065</address>
+      <phone>610392884488</phone>
+      <fax>610392884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

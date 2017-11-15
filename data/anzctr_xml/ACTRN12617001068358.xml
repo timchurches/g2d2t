@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373199">
+  <stage>Registered</stage>
+  <submitdate>26/06/2017</submitdate>
+  <approvaldate>21/07/2017</approvaldate>
+  <actrnumber>ACTRN12617001068358</actrnumber>
+  <trial_identification>
+    <studytitle>Step initation in children with typical development and children with faulty posture</studytitle>
+    <scientifictitle>Posturographic assessment of step initation in children with typical development and children with faulty posture</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>children with faulty posture</healthcondition>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Other neurological disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The main aim of the study is posturographic assessment of step initiation in children aged 5-6 years. Step initiation will be studied in children with faulty posture who had been diagnosed with neurodevelopmental disorders during infancy (experimental group) and in healthy children with no history of postural control or movement deficits. 
+All children will undergo a three-stage postural assessment including neurological examination by a child neurologist and physiotherapy examination by a neurodevelopmental physiotherapist. Based on these examinations the children will be allocated to the experimental (children with faulty posture) or control group (healthy children). 
+The third stage will be step initiation assessment in both groups. The measurement station will consist of two (A and B) force AMTI platforms (AccuGait), charge amplifier and computer. Digital output from the platform will be recorded using AMTI's NetForce software with recording frequency of 100 Hz. 
+Quiet standing will be the starting position in all trials with feet comfortably aligned, arms along the trunk and eyes looking straight ahead.
+Assessment of step initiation will comprise four trials: 
+1.	Three repetitions: quiet standing on platform A for 15 seconds, then changing to Platform B (1 step) followed by quiet standing for another 15 seconds. The distance between platforms: 10cm.
+2.  Three repetitions: quiet standing on Platform A for 15 seconds, then changing to Platform B (1 step) followed by quiet standing for another 15 seconds. A 15-cm obstacle over the edge of the platforms; the distance between platforms: 10 cm. 
+3.  Three repetitions  quiet standing on Platform A for 15 seconds, then changing to Platform B (1 step up) followed by quiet standing for another 15 seconds. Platform B is placed on a 17-cm base directly at the edge of Platform A.
+4. Three repetitions  quiet standing on Platform B for 15 seconds, then changing to Platform A (1 step down) followed by quiet standing for another 15 seconds. Platform B is placed on a 17-cm base directly at the edge of Platform A.
+Platform changing will each time start at a sound signal.
+
+The recording of center of foot pressure (COP) displacements will be divided into three phases:
+Phase 1  quiet standing before step initiation
+Phase 2  transit
+Phase 3  quiet standing until measurement completion.
+The recording will be divided into phases using an algorithm whose main elements will be foot contact with the platform and the limit of momentary COP displacement; beyond that point exit from stability or stability gain will be observed. Stability is defined as body sway where momentary COP displacement does not exceed average COP displacement plus three standard deviations. For Phase 1, average COP and SD will be calculated based on measurements made within the first 5 sec of the test. For Phase 3  based on the last 5 sec of the test. 
+
+The assessment will comprise two sessions: neurological and physiotherapy examinations on one day - the approximate duration of this session is 45 minutes (Stages 1 and 2);  step initiation assessment on another day - the approximate duration of this session is  20 minutes (Stage 3).</interventions>
+    <comparator>The control group participants will undergo the same three-stage procedure (neurological examination, physiotherapy examination measurements on force platforms) as children with faulty postures. </comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>This is a composite outcome. The following will be determined:
+-D1  time from exit from stability state until the foot resting on the other platform
+-D2 time from raising the foot from the first platform until gaining stability on the other platform
+-double-support period (DSP)  foot contact with both platforms
+-Transit time (Phase 2)  time from exit from stability state until gaining post-transit stability; the sum of D1 + DSP + D2
+-Step length  distance between double-support site on each platform
+This outcome will be assessed using AMTI platform and Matlab software.</outcome>
+      <timepoint>the day of examination</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>-Center of Pressure (COP) displacement, ie., mean COP, path and velocity of COP signal
+This outcome will be assessed using AMTI platform and Matlab software.</outcome>
+      <timepoint>the day of examination</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>The experimental group will comprise children with faulty posture identified on neurological and physiotherapy examinations, who were diagnosed with neurodevelopmental disorders during infancy and were given physiotherapy in the first year of their lives.
+The following postural deformities will be included in the experimental group: shoulder and scapular asymmetry, abnormal curvatures of the spine, incorrect knee alignment, foot arch deformity, foot deformity and abnormalities in the antigravity mechanism (low muscle tone, muscle tone asymmetry).
+The control group will comprise nursery school children aged 5 to 6 years with no postural defects on neurological and physiotherapy examinations, no history of postural control or movement deficits and  no physiotherapy interventions in the first year of their lives.</inclusivecriteria>
+    <inclusiveminage>5</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>6</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>- genetic disorders
+- progressive encephalopathy
+- congenital abnormalities of the central nervous system
+-  infantile cerebral palsy
+-  no consent of the child and / or parents / guardians to participate in the study.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Determination of sample size
+
+We assum the probability of a type I error a = 0.05, target power of 1-beta = 0.80 and a 25% minimum significant difference between the means of parameters studied. The resultant minimum sample size is 18 patients. The target sample size is 36; 2 additional participants will be recruited to account for dropouts. The study participants will be randomly assigned to 2 groups. Data analysis will be performed with Statistica, version 10. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Case control</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>24/07/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/07/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>36</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/07/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Medical University of Silesia</primarysponsorname>
+    <primarysponsoraddress>18 Medyków street 
+40-752 Katowice
+</primarysponsoraddress>
+    <primarysponsorcountry>Poland</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>The Jerzy Kukuczka Academy of Physical Education</fundingname>
+      <fundingaddress>72a Mikolowska Street
+40-065 Katowice
+</fundingaddress>
+      <fundingcountry>Poland</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Medical University of Silesia</fundingname>
+      <fundingaddress>18 Medyków Street
+40-752 Katowice</fundingaddress>
+      <fundingcountry>Poland</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Jerzy Kukuczka Academy of Physical Education</sponsorname>
+      <sponsoraddress> 72A Mikolowska Street 
+40-001 Katowice</sponsoraddress>
+      <sponsorcountry>Poland</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Postural control plays a fundamental role in motor behaviour. Hence it is important to identify all movement deficits that could have a negative impact on  further motor development of a child. Early detection of movement deficits during step initiation will facilitate the selection of the optimal physiotherapy management strategy.
+The main aim of the study is an assessment of step initiation in children aged 5-6 years with faulty posture who had been diagnosed with neurodevelopmental disorders during infancy, and in healthy children. Candidates will be qualified to participate in the study based on neurological and physiotherapy examinations. Step initiation will be performed on force platforms under various conditions, ie., with and without an obstacle, stepping up onto a platform  situated at a higher level, stepping down onto a platform  situated on a lower level. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Ethics Committee of Medical University of Silesia</ethicname>
+      <ethicaddress>18 Medyków Street
+ 40-752 Katowice</ethicaddress>
+      <ethicapprovaldate>24/05/2016</ethicapprovaldate>
+      <hrec>KNW/0022/KB1/54/16</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Poland</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Juras Grzegorz</name>
+      <address>The Jerzy Kukuczka Academy of Physical Education
+Department of Human Motor Behaviour
+72A Mikolowska Street
+ 40-001 Katowice</address>
+      <phone>+322075447</phone>
+      <fax />
+      <email>g.juras@awf.katowice.pl</email>
+      <country>Poland</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Alina Sarat-Spek</name>
+      <address>The Independent Public Clinical Hospital no. 6 of the Medical University of Silesia in Katowice
+John Paul II Upper Silesian Child Health Centre
+40-752 Katowice
+16 Medyków Street
+</address>
+      <phone>+48609792267</phone>
+      <fax />
+      <email>alutka.sarat@gmail.com</email>
+      <country>Poland</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Stania Magdalena</name>
+      <address>Department of Physical Therapy, The Jerzy Kukuczka Academy of Physical Education, Mikolowska 72, 40-065 Katowice, Poland</address>
+      <phone>+48694979640</phone>
+      <fax />
+      <email>alutka.sarat@gmail.com</email>
+      <country>Poland</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Stania Magdalena</name>
+      <address>Department of Physical Therapy, The Jerzy Kukuczka Academy of Physical Education, Mikolowska 72, 40-065 Katowice, Poland</address>
+      <phone>+48694979640</phone>
+      <fax />
+      <email>m.stania@awf.katowice.pl</email>
+      <country>Poland</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

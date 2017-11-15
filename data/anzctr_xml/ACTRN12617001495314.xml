@@ -1,0 +1,233 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373621">
+  <stage>Registered</stage>
+  <submitdate>10/09/2017</submitdate>
+  <approvaldate>23/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001495314p</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating an online intervention for General Practitioners (GPs) to use delayed prescribing for acute respiratory infections in general practice</studytitle>
+    <scientifictitle>Evaluating an online intervention for General Practitioners to use delayed prescribing for acute respiratory infections in general practice</scientifictitle>
+    <utrn>Not applicable</utrn>
+    <trialacronym>The GP4DP Trial</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Respiratory Tract Infections</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Brief name: The GP4DP Trial
+Purpose: The online intervention aims to facilitate delayed prescribing so if doctors and patients decide antibiotics are necessary, delayed prescribing is the first option and that it is carried out appropriately. Delayed prescribing, also called 'wait-and-see' prescribing, is when a General Practitioner (GP) makes an antibiotic prescription available during the consultation but asks the patient to delay its use to see if symptoms will resolve first. 
+Procedures: GPs will be given access to the online intervention
+Materials: The intervention is an online space where GPs can access information on how to do delayed prescribing (short video), evidence of success and resources to give to the patient to take home. Resources will include an information sheet for patients to take home explaining what infection they have, how long it usually lasts, how they can manage their symptoms and what to look for if it worsens. 
+Who provides the intervention: The intervention is online.
+When and how much: After recruitment, GPs will be given access to the website. It can be accessed at any time including the consultation. No face-to-face training will be provided. It is intended the website can be used on an ongoing basis, however, the duration of the intervention for this study will be 3 months during the study. The researchers will also be examining the GPs prescribing during the same three months the year before.  
+Tailoring: The intervention is not planned to be tailored in anyway, although the participants may contact and ask the research team questions about delayed prescribing. 
+Fidelity: The online intervention will be piloted and feedback will used for amendments before trial. 
+ </interventions>
+    <comparator>Usual care. GPs at the control practices will not receive access to the online intervention until completion of trial when it will be offered gratis. </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Rate of antibiotic dispensing of the target antibiotics for each GP (number of consultations for which one of the target antibiotics was dispensed per year).
+Target antibiotics are those routinely used for ARIs (amoxicillin, roxithromycin, amoxy-clav, cefaclor, and cephalexin).
+Antibiotic dispensing data for the target antibiotics will be collected from the Pharmaceutical Benefits Scheme, by prescriber number. Medicare Benefits Scheme -recorded consultations will be collected by provider number. 
+</outcome>
+      <timepoint>Baseline: the same three months of the trial the previous year (June, July and Aug 2017) and, the three months during the trial (June, July and Aug 2018) </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>There is no secondary outcome </outcome>
+      <timepoint>There is not secondary outcome timepoint.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>General practitioners in Australia; practising GPs</inclusivecriteria>
+    <inclusiveminage>25</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Is not practicing as a GP currently; 
+Has participated in a research study aimed at reducing antibiotic prescribing in the last 2 years.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Practice will be randomised using a block-permuted design. The randomisation sequence will be produced by the trial statistician who will have no role in recruiting practices or consenting GPs. She will also provide allocation concealment by keeping the randomisation lists secure and only randomising practices when completed consent forms are received. The researchers responsible for recruitment will contact the statistician to randomise a practice. </concealment>
+    <sequence>The randomisation sequence will be produced using the computer generated random numbers by the trial statistician.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Power calculation: 
+From the Cochrane review of Delayed antibiotics for respiratory infections the reduction in antibiotics used by patients was a 61% absolute decrease (Delayed prescribing resulted in 32% of patients using antibiotics compared to 93% of patients in the immediate prescription group). As the 10 studies in the review were more complex than this one we propose a reduction in absolute prescribing by 20%. For the primary outcome measure of antibiotic dispensing, power calculations suggest a required sample size of 10 practices (5 intervention, 5 control, a total of about 50 GPs, assuming an average of 5 consenting GPs per practice). With 80% power, a significance level of 5% and an intra-class correlation coefficient for the effect of clustering of 0.05, we will require 10 practices (or about 50 GPs) to detect a relative reduction in the rate of prescribing. 
+Statistical analysis:
+The analysis will use Poisson regression with the mean rate of dispensing over 3 months, for each GP as the outcome, adjusted for previous prescribing rate (12 months prior to randomised action and 3 months during the trial). Using multi-level model that accounts for nesting of monthly rates within GP, and GPs within practices. We will also collect the total number of MBS-recorded consultations for each GP for the same periods so that adjustment can be made based on the number of billed consultations for each GP. All practices will be included in the analysis, on the intent-to-treat basis, even if GPs did not use the intervention or discontinued use during the 3 months period. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/03/2018</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/05/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/08/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of the Sunshine Coast </primarysponsorname>
+    <primarysponsoraddress>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of the Sunshine Coast</fundingname>
+      <fundingaddress>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Bond University</fundingname>
+      <fundingaddress>Faculty of Health Science and Medicine
+Bond University
+University Drive
+Robina, QLD 4229
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Bond University</sponsorname>
+      <sponsoraddress>Faculty of Health Science and Medicine
+Bond University
+University Drive
+Robina, QLD 4229
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Antibiotics treat infections by killing bacteria. Antibiotic resistance occurs when an antibiotic has lost its ability to kill the bacteria; the bacteria has become resistant to the antibiotic and continues to multiply. One of the main reasons antibiotics lose their effectiveness is we take antibiotics when we dont need them. Most antibiotics are prescribed for respiratory tract infections, in the community, that often get better without the need for medical intervention. There are many strategies to help doctors and patients to reduce antibiotic use in the community. One of these strategies is called delayed prescribing. Delayed prescribing, also called wait-and-see prescribing, is the process whereby a general practitioner (GP) makes available an antibiotic prescription during the consultation, but asks the patient to delay its use to see if symptoms will resolve first. This has been used in other countries very successfully but has never been trialed in Australia. The GP4DP trial wants to test if delayed prescribing can help reduce antibiotic use in community for people who present to their GP with respiratory tract infections. This trial will ask GPs not to prescribe antibiotics unnecessarily and if they do think it might be necessary, to ask the patient to wait and see if the illness will get better on its own before taking the antibiotic. Other studies have shown that most people do wait before taking the antibiotics, complications are extremely rare and the amount of people who present to the Emergency Department does not increase. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee of the University of the Sunshine Coast </ethicname>
+      <ethicaddress>Research Ethics
+Block B
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>31/10/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373621(v10-09-2017-13-03-18)-Participation Information Sheet.docx</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373621(v10-09-2017-13-03-31)-Provider Consent form.doc</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373621(v10-09-2017-13-03-41)-AFP-Profesional-Sargent-Delayed antibiotic prescribing.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373621(v10-09-2017-13-03-52)-BMCFP Research-Using theory to explore delayed prescribing.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>Lucy Sargent</name>
+      <address>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556
+</address>
+      <phone>+61 400 447335 (m)</phone>
+      <fax />
+      <email>lsargent@usc.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Lucy Sargent</name>
+      <address>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556</address>
+      <phone> +61 7 5430 2823</phone>
+      <fax />
+      <email>lsargent@usc.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Lucy Sargent</name>
+      <address>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556</address>
+      <phone>+61 400 447335</phone>
+      <fax />
+      <email>lsargent@usc.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Lucy Sargent</name>
+      <address>Faculty of Science, Health, Education and Engineering
+University of the Sunshine Coast 
+90 Sippy Downs Dr
+Sippy Downs
+QLD 4556</address>
+      <phone>+ 61 400 447335</phone>
+      <fax />
+      <email>lsargent@usc.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,220 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365221">
+  <stage>Registered</stage>
+  <submitdate>10/12/2013</submitdate>
+  <approvaldate>2/01/2014</approvaldate>
+  <actrnumber>ACTRN12614000002684</actrnumber>
+  <trial_identification>
+    <studytitle>A single-blind randomised controlled trial of topical Kanuka honey for the treatment of Nappy Rash</studytitle>
+    <scientifictitle>In children less than 5 years old with nappy rash will topical medical grade Kanuka honey reduce nappy rash severity compared with Bepanthen Nappy Rash Ointment, and is it acceptable to parents/caregivers.</scientifictitle>
+    <utrn>U1111-1146-7495</utrn>
+    <trialacronym>KH08</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Nappy Rash</healthcondition>
+    <conditioncode>
+      <conditioncode1>Skin</conditioncode1>
+      <conditioncode2>Dermatological conditions</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Topical medical grade kanuka honey with 10% glycerin content applied to the affected area at each nappy change for two weeks.  There is no protocol-defined time for how long honey is applied at each nappy change.  The applied honey will remain in place until the next nappy change.  A patient diary will record applications during the treatment period.</interventions>
+    <comparator>The control cream Bepanthen Nappy Rash Ointment applied to the affected area at each nappy change for two weeks.  Kanuka honey will not be used by the control group. Bepanthen Nappy Rash Ointment contains dexpanthenol (Vitamin B5) 50mg/g</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Nappy rash severity score (NRSS) of 1 or greater</outcome>
+      <timepoint>Week 2 visit</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean NRSS </outcome>
+      <timepoint>At baseline and Week 2 visits</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean parent/caregiver-rated severity using Visual Analogue Score (VAS) </outcome>
+      <timepoint>At baseline and Week 2 visits</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Parent/caregiver-rated acceptability using Visual Analogue Score (VAS)
+</outcome>
+      <timepoint>Week 2 visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Parent/Caregiver reported use (mean applications per day)
+</outcome>
+      <timepoint>Daily for 2 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Daily parent/caregiver reported severity (VAS)
+</outcome>
+      <timepoint>Daily for 2 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Aged less than 5 years old at the time of enrolment
+Doctors diagnosis of nappy rash
+Nappy Rash Severity Score of 2 or greater</inclusivecriteria>
+    <inclusiveminage>0</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>4</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Current requirement for systemic corticosteroid, systemic anti-fungal or systemic antibiotic treatment, or has had systemic corticosteroid, systemic anti-fungal or systemic antibiotic treatment within 4 weeks prior to Visit 1
+Current requirement for topical corticosteroid, topical anti-fungal or topical antibiotic treatment for Nappy Rash
+Known or suspected allergy to honey or Bepanthen Nappy Rash Ointment
+Any other condition which, at the investigators discretion, it is believed may present a safety risk or impact on the feasibility of the study or the study results
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Eligible patients will be randomised into the study.  Treatment allocation will be randomised in a 1:1 ratio to receive either application of topical Kanuka honey at each nappy change or application of topical Bepanthen Nappy Rash Ointment at each nappy change.  Randomisation envelopes will contain details of treatment allocation per patient.</concealment>
+    <sequence>Biostatistitian to generate randomisation schedule.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Subjects, parents/caregivers, and study site staff will not be blinded to the treatment allocation.  An independent investigator at each site will remain blinded to the treatment allocation throughout the study and perform the NRSS assessment.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>We anticipate the proportion of participants in the control group who respond will be between 25 and 50%.  A total of 124 participants (62 in each group) has 80% power at 5% significance to detect an absolute difference of 25% responders.  Recruitment of 138 participants allows for a 10% drop-out rate. 
+
+Logistic regression will be used to test for the difference in response rates defined as the proportion of participants who have a Nappy Rash severity score of less than or equal to one at week 2 compared to baseline.
+
+The continuous secondary outcome variables will be analysed using ANOVA with baseline readings as a continuous co-variate. Daily parent/caregiver-reported use will be analysed by Poisson regression. 
+</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>3/02/2014</anticipatedstartdate>
+    <actualstartdate>28/02/2014</actualstartdate>
+    <anticipatedenddate>3/02/2015</anticipatedenddate>
+    <actualenddate>29/07/2014</actualenddate>
+    <samplesize>138</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Honeylab Ltd</primarysponsorname>
+    <primarysponsoraddress>Honeylab Ltd
+305 Karaka Bay Road
+Wellington 6022</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Honeylab Ltd</fundingname>
+      <fundingaddress>Honeylab Ltd
+305 Karaka Bay Road
+Wellington 6022</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Charities/Societies/Foundations</othercollaboratortype>
+      <othercollaboratorname>Medical Research Institute of New Zealand</othercollaboratorname>
+      <othercollaboratoraddress>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A recent non-controlled pilot study of the acceptability and feasibility of topical medical grade Kanuka honey for the treatment of Nappy Rash has shown the honey to be an acceptable and potentially effective treatment with a reduction in investigator-rated severity in 60% of participants, therefore this study treatment has the potential to be an effective treatment for Nappy Rash symptoms.  In this study 138 children under 5 years of age with Nappy Rash will have applied either Kanuka honey or Bepanthen Nappy Rash Ointment to areas of  Nappy Rash at every nappy change for 2 weeks.
+
+At baseline and after 2 weeks the patient's Nappy Rash will be assessed to look at changes in severity.  At Week 2 visit parent/caregiver acceptability will also be assessed. Participants' parents/caregivers will complete a diary for 2 weeks to record the daily treatment applications and daily severity assessment.
+
+This study will investigate the effectiveness of Kanuka honey in treating nappy rash, potentially improving the health outcomes of those with the condition, and will contribute to the knowledge base around the use of honey for the treatment of skin conditions.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>1 The Terrace
+C/- MEDSAFE, Level 6, Deloitte House
+10 Brandon Street
+PO Box 5013
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>16/10/2013</ethicapprovaldate>
+      <hrec>13/CEN/120</hrec>
+      <ethicsubmitdate>15/08/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Beasley</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+64 4 8050147</phone>
+      <fax>+64 4 3895707</fax>
+      <email>richard.beasley@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Anna Hunt</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+64 4 8050147</phone>
+      <fax>+64 4 3895707</fax>
+      <email>anna.hunt@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Anna Hunt</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+64 4 8050147</phone>
+      <fax>+64 4 3895707</fax>
+      <email>anna.hunt@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>Anna Hunt</name>
+      <address>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+64 4 8050147</phone>
+      <fax>+64 4 3895707</fax>
+      <email>anna.hunt@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

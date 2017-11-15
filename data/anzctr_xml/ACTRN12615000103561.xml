@@ -1,0 +1,190 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367748">
+  <stage>Registered</stage>
+  <submitdate>14/01/2015</submitdate>
+  <approvaldate>5/02/2015</approvaldate>
+  <actrnumber>ACTRN12615000103561</actrnumber>
+  <trial_identification>
+    <studytitle>The impact of neuromuscular blocking agents on traction forces during total hip replacement surgery</studytitle>
+    <scientifictitle>Patients undergoing hip replacement surgery: impact of neuromuscular blockade on the forces required for visualization of the femoral neck.</scientifictitle>
+    <utrn>U1111-1166-0962 </utrn>
+    <trialacronym />
+    <secondaryid>none</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>pulling force in Newton reqired to visualize the femoral neck during hip replacement surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients scheduled for elective hip replacement surgery under general anaesthesia will be included. At the start of surgery, at the time the surgeon request a pulling force (via traction table) on a patients leg to expose the femoral neck, the previously non-paralysed patient will receive rocuronium 0.6 mg/kg intravenously. Traction forces will be measured in Newton via an electronic strain gauge build into the traction system and connected to a laptop pc. </interventions>
+    <comparator>Traction forces required for visualization of the femoral neck before vs. after intravenous administration of rocuronium 0.6 mg/kg.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change of traction forces required to visualize the femoral neck before and after paralysis with rocuronium.
+Assessment via a custom-made strain gauge inserted between the "shoe"-part (fixation of patient foot) and the "handle"-part (tractioning device applying force to leg). Strain gauge conected via 2 input cables to laptop PC showing and recording all changes in force (N) "online".</outcome>
+      <timepoint>Start of surgery, at time of initial approach to the femoral neck.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change of traction forces with onset of paralysis after rocuronium administration (from no to full paralysis)
+Assessment via a custom-made strain gauge inserted between the "shoe"-part (fixation of patient foot) and the "handle"-part (tractioning device applying force to leg). Strain gauge conected via 2 input cables to laptop PC showing and recording all changes in force (N) "online".
+Assessment of neuromuscular blockade via NMT module for ulnar nerve stimulation (GE Healthcare, Helsinki, Finland).</outcome>
+      <timepoint>As timepoint 1: at the start of surgery at the time of femoral neck approach.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>scheduled for hip replacement surgery under general anaesthesia</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>neuromuscular disease, regional or spinal anaesthesia, paralysis at start of surgery</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Identifying inclusion criteria, written informed consent prior to surgery. No treatment allocation as all subjects willl receive same treatment (control is the pre-treatment traction force).</concealment>
+    <sequence>n/a</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods>The study is planned as pilot project. No formal sample size calculation has been performed.
+
+
+Analysis of data:
+KS-test for normal distribution. Comparison of forces pre- vs post paralysis with either paired t-test or wilcoxon rank sum test. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/11/2014</anticipatedstartdate>
+    <actualstartdate>31/10/2014</actualstartdate>
+    <anticipatedenddate>30/10/2015</anticipatedenddate>
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6000 - City Delivery Centre</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Thomas Ledowski</primarysponsorname>
+    <primarysponsoraddress>University of Western Australia
+35 Stirling HWY
+Crawley
+WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>Thomas Ledowski</fundingname>
+      <fundingaddress>University of Western Australia
+35 Stirling HWY
+Crawley
+WA 6009</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Orthopaedic surgeons frequently claim that the administration of muscle relaxants (NMBA) in patients under general anaesthesia facilitate surgery, especially when significant forces may be required (e.g. dislocation of hip joint, femoral realignment during operation of femoral fractures). However, despite the fact that NMBA are frequently used during general anaesthesia for orthopaedic surgery, no evidence for their benefit on operating conditions exists. Therefore, this trial aims to investigate the influence of NMBA on traction forces during hip replacement surgery.
+20 Patients scheduled for hip replacement surgery under general anaesthesia will be included in this trial. Patients will receive a standard general anaesthetic. Patients for this form of hip replacement surgery are generally operated on a special operating table with the patients feet placed in shoe-like brackets. This allows the application of significant tension and torque to the patients operated leg in order to enable the surgical preparation of the hip joint for the prosthesis. With the help of a measurement instrument (Newton Meter installed within the traction mechanic of the operating table) we will measure the forces required to extend a patient's leg to facilitate surgery. Thereafter, an NMBA (rocuronium = most often used NMBA at RPH) will be slowly administered to finally achieve muscle paralysis. During the time of paralysis development, traction forces on the leg will be measured.
+Aim is to investigate whether NMBA can significantly reduce the forces required during hip replacement surgery.   
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Perth Hospital</ethicname>
+      <ethicaddress>Wellington Street
+Perth WA 6000</ethicaddress>
+      <ethicapprovaldate>15/11/2012</ethicapprovaldate>
+      <hrec>2012-144</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>School of Medicine and Pharmacology
+University of Western Australia
+35 Stirling Hwy
+Crawley WA 6009</address>
+      <phone>+61 8 92240210</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>School of Medicine and Pharmacology
+University of Western Australia
+35 Stirling Hwy
+Crawley WA 6009</address>
+      <phone>+61 8 92240210</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Thomas Ledowski</name>
+      <address>School of Medicine and Pharmacology
+University of Western Australia
+35 Stirling Hwy
+Crawley WA 6009</address>
+      <phone>+61 8 92240210</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

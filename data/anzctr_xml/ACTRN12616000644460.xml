@@ -1,0 +1,231 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370698">
+  <stage>Registered</stage>
+  <submitdate>13/05/2016</submitdate>
+  <approvaldate>18/05/2016</approvaldate>
+  <actrnumber>ACTRN12616000644460</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating decision aids for acute respiratory infections on the use of antibiotics in general practice</studytitle>
+    <scientifictitle>Effect of decision aids for acute respiratory infections on the use of antibiotics in general practice: a cluster randomised controlled trial</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute respiratory infections</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Brief name: Decision aids for ARIs
+Purpose: The decision aids aim to facilitate shared decision making so that doctors and patients have a conversation about the options of using and not using antibiotics for ARIs, and that the benefits and harms of both options are considered before a decision is collaboratively reached. 
+Procedures: GPs will be given copies of three patient decision aids (one each for acute otitis media, sore throat, and acute bronchitis) and a brief training package (to be completed at their convenience).
+Materials: Each decision aid is a two-page (double-sided) document; the training package is a short video (~15 mins) explaining about shared decision making and use of decision aids; a list of frequently asked questions (by GPs) about the decision aids will also be provided.
+Who provides the intervention; The intervention package will be delivered in person by a trial researcher to GPs shortly after randomisation. No training will be provided during that visit. 
+When and how much: Four weeks after receiving the intervention package, a study researcher will make a brief visit (~5-10 minutes) to each practice to check if any questions.  At 6 months, a study newsletter/update will be provided during another brief visit (~5-10 minutes) to answer any queries, or provide further printed copies of the decision aids if needed. After receiving the intervention, it is intended that the decision aids are used, on an ongoing basis, with applicable patients. There will be no further contact with participants following this 6 month contact, unless participants make contact with the researchers.
+Tailoring: The intervention is not planned to be tailored in any way, although participants may contact and ask the research team questions about the decision aids at any time.
+Fidelity: Use of the decision aids will be explored in an interview at the end of the study period. 
+
+
+
+</interventions>
+    <comparator>'Usual care'. GPs at the control practices will not receive access to the training package or the decision aids. 
+The amount of contact from the research team will be the same as for the intervention group (ie brief contact about 4 weeks after randomisation and at 6 months)</comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Rate of antibiotic dispensing of the target antibiotics for each GP (number of consultations for which one of the target antibiotics was dispensed per year). 
+Target antibiotics are those routinely used for ARIs (amoxicillin, roxithromycin, amoxy-clav, cefaclor, and cephalexin)
+Antibiotic dispensing data for the target antibiotics will be collected from the Pharmaceutical Benefits Scheme, by prescriber number. MBS-recorded consultations will be collected by provider number, as these are unique to the GP and the practice </outcome>
+      <timepoint>12 month period after randomisation
+For each GP, we will collect the number of antibiotics dispensed in the 12 months prior to randomisation, and in the 12 month period following randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of the decision-making process.
+This will be measured by audiorecording a sample of consultations and analysing them using the OPTION scale and a subscale of the ACEPP tool.</outcome>
+      <timepoint>Consultations conducting between 1 and 12 months following randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>GPs knowledge about benefits and harms of antibiotics for ARIs.
+This will be assessed using a written survey adapted for this trial from previous studies.</outcome>
+      <timepoint>Baseline and 12 months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse events (patient-initiated re-consultation for the same illness episode, chest x-ray referrals, hospital or emergency room admissions).
+
+This data will be collected by asking GPs to keep a de-identified log of adverse events, and as needed, a review of medical records. </outcome>
+      <timepoint>Collected throughout trial (from randomisation to 12 months after randomisation)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Acceptability, sustainability, and self-reported use of resources for antibiotic prescribing in ARIs.
+
+Thie issues in this composite outcome will be explored in a face-to-face interview with GPs at 12 months after randomisation. </outcome>
+      <timepoint>12 months after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of antibiotic dispensing of the target antibiotics for each GP (for all antibiotics)
+
+Antibiotic dispensing data will be collected from the Pharmaceutical Benefits Scheme.</outcome>
+      <timepoint>12 month period after randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>General practice in the recruitement region</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>General practice is currently, or within the last 2 years, participated in a research study aimed at reducing antibiotic prescribing</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Practices will be randomised using a block-permuted design. The randomisation sequence will be produced by the trial statistician who will have no role in recruiting practices or consenting GPs. She will also provide allocation concealment by keeping the randomisation lists secure and only randomising practices when completed consent forms are received. The researchers responsible for recruitment will contact the statistician to randomise a practice.</concealment>
+    <sequence>Practices will be randomised using a block-permuted design. The randomisation sequence will be produced using computer-generated random numbers, by the trial statistician.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Cluster RCT</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Power calculation: From our Cochrane review of shared decision making for antibiotic prescribing, the mean absolute reduction in prescribing rate across the 10 included studies was 18%, from 47 per 100 consultations for ARIs in the control group to 29 per 100 in the intervention group; a relative rate reduction of approximately 40%. As these interventions were much more intensive and complex than our planned intervention, we have chosen to aim to detect a relative rate reduction in prescribing of 20%. For the primary outcome measure of antibiotic dispensing, power calculations suggest a required sample size of 18 practices (9 intervention, 9 control; a total of about 90 GPs, assuming an average of 5 consenting GPs per practice).  With 80% power, a significance level of 5%, and an intra-class correlation coefficient for the effect of clustering of 0.15, we will require 18 practices to detect a relative 20% reduction in the rate of prescribing.
+
+Statistical analysis: 
+The analysis will use Poisson regression with rate of dispensing in each month for each GP as the outcome, Using a multi-level model that accounts for nesting of monthly rates within GP, and GPs within practices. We will also collect the total number of MBS-recorded consultations for each GP for the same periods so that adjustment can be made based on the number of billed consultations for each GP. Generalised estimating equations will be used to test for the difference in mean prescribing rates (primary Poisson outcome) between intervention and control, adjusting for clustering and previous prescribing rate  (mean dispensing rate in the 12 months prior to randomisation). 
+All practices will be included in the analysis, on an intent-to-treat basis, even if GPs did not use the decision aids, or discontinued use during the 12-month period. </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/06/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>90</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Tammy Hoffmann</primarysponsorname>
+    <primarysponsoraddress>Faculty of Health Sciences and Medicine
+Bond University
+University Drive
+Robina, Qld 4229</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC</fundingname>
+      <fundingaddress>National Health and Medical Research Council GPO Box 1421 Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Chris Del Mar</sponsorname>
+      <sponsoraddress>Faculty of Health Sciences and Medicine
+Bond University
+University Drive
+Robina, Qld 4229</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Antibiotic resistance is an international rapidly growing threat to health care. It is a direct result of antibiotic use and results in not just health resource waste, but significant and avoidable health burdens. Reducing antibiotic use is central to minimising resistance. Primary care is a priority target for reducing use as this is where antibiotics are used most (80% of all human consumption is in the community) AND with least effect, especially for acute respiratory infections (ARI). ARIs are the most common reason for an antibiotic prescription in primary care (&gt;5 million per year in Australia) despite providing minimal benefits and some harms.
+
+We have identified that patients overestimate the benefits of antibiotics and underestimate their harms and patient expectations are a key driver of antibiotic prescriptions. Appropriately managing patient expectations in ARI consultations is crucial to reducing inappropriate  prescribing. Shared decision making (SDM) provides a means of doing this, enabling the general practitioner (GP) and patient to discuss the benefits and harms of using and not using antibiotics and jointly decide on the most appropriate option.
+We have established that patients want more involvement in decision-making about ARI management and that SDM reduces antibiotic prescribing in primary care. However methods of implementing SDM are limited and it rarely occurs. We have systematically developed the first set of brief decision aids about antibiotic use for common ARIs and successfully piloted them. This project is a cluster randomised trial to determine whether these evidence-based decision aids (for acute otitis media, sore throat, bronchitis) and a brief training package reduces GPs antibiotic prescribing rate.  
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Bond University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Bond University
+University Drive
+Robina, Qld 4229</ethicaddress>
+      <ethicapprovaldate>6/05/2016</ethicapprovaldate>
+      <hrec>0000015433</hrec>
+      <ethicsubmitdate>17/03/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Tammy Hoffmann</name>
+      <address>Faculty of Health Sciences and Medicine
+Bond University
+University Drive
+Robina, Qld 4229</address>
+      <phone>+61 7 5595 5522</phone>
+      <fax />
+      <email>thoffmann@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tammy Hoffmann</name>
+      <address>Faculty of Health Sciences and Medicine
+Bond University
+University Drive
+Robina, Qld 4229</address>
+      <phone>+61 7 5595 5522</phone>
+      <fax />
+      <email>thoffmann@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Tammy Hoffmann</name>
+      <address>Faculty of Health Sciences and Medicine
+Bond University
+University Drive
+Robina, Qld 4229</address>
+      <phone>+61 7 5595 5522</phone>
+      <fax />
+      <email>thoffmann@bond.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

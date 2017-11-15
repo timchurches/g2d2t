@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362836">
+  <stage>Registered</stage>
+  <submitdate>1/08/2012</submitdate>
+  <approvaldate>3/08/2012</approvaldate>
+  <actrnumber>ACTRN12612000817842</actrnumber>
+  <trial_identification>
+    <studytitle>Treatment of steroid-induced diabetes in hospitalized patients</studytitle>
+    <scientifictitle>Randomized-controlled study of isophane and aspart insulin versus glargine and aspart insulin to treat prednisolone-induced hyperglycaemia in hospitalized patients</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prednisolone-induced hyperglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Update
+ Isophane insulin once daily and aspart insulin 3 times a day administered subcutaneously for up to 7 days. Subjects not treated with insulin prior to enrolment will initially receive a total daily insulin dose of 0.5 U/kg. Subjects receiving insulin prior to enrolment in the study will receive 130% of their current daily dose of insulin or 0.5 U/kg/day (whichever is greater). Insulin isophane will comprise 50% of the total daily dose and insulin aspart 50% of total daily dose with 20% of this dose administered before breakfast, 40% at lunch and 40% at dinner. 
+
+Insulin dose adjustment will be carried out once daily by the study team using a designated protocol based on finger prick BGLs. Appropriate insulin doses will be increased by 2 units if BGL 10-15 mmol/L, 4 units if BGL 15-20 mmol/L and 6 units if &gt;20 mmol/L. Insulin dose will be reduced by 2 units if the BGL is 2.8-4 mmol/L and 4 units if the BGL is &lt;2.8 mmol/L or there is symptomatic hypoglycaemia. If there is severe hypoglycaemia the study team may either reduce the insulin dose by 50% or cease insulin.
+
+Isophane doses will be adjusted if fasting glucose is not within the target range (4-10 mmol/L). If individual blood glucose concentrations before lunch, dinner or at 21.00 are outside target, then the insulin aspart dose before the previous meal will be adjusted.</interventions>
+    <comparator>Glargine insulin once daily and aspart insulin 3 times a day administered subcutaneously for up to 7 days. Subjects not treated with insulin prior to enrolment will initially receive a total daily insulin dose of 0.5 U/kg. Subjects receiving insulin prior to enrolment in the study will receive 130% of their current daily dose of insulin or 0.5 U/kg/day (whichever is greater). Insulin glargine will comprise 50% of the total daily dose and insulin aspart 50% of total daily dose with one third of this dose administered before each meal. 
+
+Insulin dose adjustment will be carried out once daily by the study team using a designated protocol based on finger prick BGLs. Appropriate insulin doses will be increased by 2 units if BGL 10-15 mmol/L, 4 units if BGL 15-20 mmol/L and 6 units if &gt;20 mmol/L. Insulin dose will be reduced by 2 units if the BGL is 2.8-4 mmol/L and 4 units if the BGL is &lt;2.8 mmol/L or there is symptomatic hypoglycaemia. If there is severe hypoglycaemia the study team may either reduce the insulin dose by 50% or cease insulin.
+
+Insulin glargine dose will be adjusted based on fasting glucose concentration and insulin aspart doses based on the glucose concentration before the previous meal.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time outside glucose concentration target range of 4-10 mmol/L. Glucose concentration will be assessed using a continuous glucose monitoring system (iPro2, Medtronics).</outcome>
+      <timepoint>First 24 hours of insulin treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean glucose concentration. Glucose concentration will be assessed using a continuous glucose monitoring system (iPro2, Medtronics).</outcome>
+      <timepoint>First 24 hours of insulin treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Glucose &lt; 4 mmol/L. Glucose concentration will be assessed using a continuous glucose monitoring system (iPro2, Medtronics).</outcome>
+      <timepoint>First 24 hours of insulin treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Glucose &lt; 2.8 mmol/L. Glucose concentration will be assessed using a continuous glucose monitoring system (iPro2, Medtronics).</outcome>
+      <timepoint>First 24 hours of insulin treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Prednisolone &gt;20 mg/day for acute treatment of an inflammatory or autoimmune disease
+2. Hyperglycaemia requiring institution of insulin therapy or higher insulin doses
+- one finger prick BGL &gt;15 mmol/L
+- two finger prick BGLs &gt;10 mmol/L within 24 hours
+3. Expected to stay in hospital &gt; 48 hours</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Type 1 diabetes mellitus
+2. Patients with an acute psychiatric illness
+3. Patients unable to consent
+4. Patients on existing oral corticosteroids &gt; 5mg prednisolone/day or equivalent
+5. Prolonged fasting
+6. Pregnancy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A member of the study team will screen the diagnoses of new hospital admissions for patients likely to be treated with prednisolone and then check if these subjects have hyperglycaemia. Patients that meet inclusion criteria will be approached by a member of the study team who is not involved in the potential participants usual care and given a patient information sheet. Subjects will be randomized using numbered containers.</concealment>
+    <sequence>Patients previously treated with insulin before admission and non-insulin-treated patients will be block randomized separately using numbered containers to one of two insulin regimens.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>6/08/2012</anticipatedstartdate>
+    <actualstartdate>9/08/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Morton Burt</primarysponsorname>
+    <primarysponsoraddress>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+Daws Rd
+Daw Park SA 5041</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Flinders University</fundingname>
+      <fundingaddress>Sturt Road
+Bedford Park SA 5042</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Flinders University</sponsorname>
+      <sponsoraddress>Sturt Road
+Bedford Park SA 5042</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim is to determine whether an insulin regimen specific for prednisolone-induced hyperglycaemia is safer and more efficacious than basal bolus insulin, the current regimen commonly used in many hospitals. As we have previously showm that prednisolone predominantly increases blood glucose between midday and midnight, we hypothesize that delivering the majority of insulin during this time period and less insulin between midnight and breakfast will reduce nocturnal hypoglycaemia and better treat postprandial hyperglycaemia.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Human Research Ethics Committee</ethicname>
+      <ethicaddress>Flinders Medical Centre
+Flinders Drive
+Bedford Park SA 5042</ethicaddress>
+      <ethicapprovaldate>23/04/2012</ethicapprovaldate>
+      <hrec>18/12/2012</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Dr Morton Burt</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+Daws Rd
+Daw Park SA 5041</address>
+      <phone>+61 8 82751094</phone>
+      <fax />
+      <email>morton.burt@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Dr Morton Burt</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation General Hospital
+Daws Rd
+Daw Park SA 5041</address>
+      <phone>+61 8 82751094</phone>
+      <fax />
+      <email>morton.burt@health.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Morton Burt</name>
+      <address>Southern Adelaide Diabetes and Endocrine Services
+Repatriation general Hospital
+Daws Rd
+Daw Park SA 5041</address>
+      <phone>08 82751094</phone>
+      <fax />
+      <email>morton.burt@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="82332">
+  <stage>Registered</stage>
+  <submitdate>9/10/2007</submitdate>
+  <approvaldate>3/12/2007</approvaldate>
+  <actrnumber>ACTRN12607000620426</actrnumber>
+  <trial_identification>
+    <studytitle>A Randomised Controlled Trial Of Factor Replacement Therapy In Snake Bite Coagulopathy</studytitle>
+    <scientifictitle>A Randomised Controlled Trial Of Fresh Frozen Plasma (FFP) for Venom Induced Consumption Coagulopathy in Australian snakebite</scientifictitle>
+    <utrn />
+    <trialacronym>ASP - FFP</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Venom Induced Consumption Coagulopathy (VICC) from Australian snake envenoming</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Fresh frozen plasma (FFP), 6 units administered within 4 hours of antivenom treatment</interventions>
+    <comparator>No treatment defined as no administration of FFP or other clotting factors within 4 hours of antivenom.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The proportion of patients with a return of coagulation function defined by an International Normalised Ratio (INR) &lt; 2.0 (or PT &lt; 24 seconds where INR is not performed)</outcome>
+      <timepoint>Six hours after antivenom treatment commenced</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pattern of improvement in clotting function and increase in clotting factors: fibrinogen, prothrombin, factor V and factor VIII. Blood samples will be taken prior to antivenom, 3,6 12 and 24 hours after antivenom.</outcome>
+      <timepoint>investigation of improvement of multiple clotting factors over time.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The number of hours after commencing antivenom until discharge from hospital (hours).</outcome>
+      <timepoint>Time from commencing antivenom until discharge from hospital (hours)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Major bleeding, as defined by the International Society on Thrombosis and Haemostasis: Fatal bleeding; Symptomatic bleeding in a critical area or organ, such as intracranial, intraspinal, intraocular, retroperitoneal, intra-articular or pericardial, or intramuscular with compartment syndrome; Bleeding causing a fall in haemoglobin level of 20 g/L or more, or leading to transfusion of two or more units of whole blood or red cells.</outcome>
+      <timepoint>While in hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Death</outcome>
+      <timepoint>While in hospital</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse reactions</outcome>
+      <timepoint>While in hospital</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Venom induced consumption coagulopathy defined as: an INR (or PT) or aPTT more than twice the normal upper limit AND a positive D-dimer;
+2. Antivenom administered for the appropriate snake: brown, tiger or taipan;
+3. 6 units of FFP is available and can be administered to the patient within 4 hours of commencing antivenom, either at the presenting hospital or on arrival at a regional hospital nearby if transfer can be initiated in time;</inclusivecriteria>
+    <inclusiveminage>5</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Known adverse reactions to blood products</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be enrolled from cases of snake envenoming identified to the principal investigators from around Australia. Cases that meet the inclusion criteria will be randomised centrally in a 2:1 schedule to either receive fresh frozen plasma or no treatment following the administration of antivenom. Blinded allocation will be maintained by the investigators and research assistants by using the PDAs to provide the random allocation. A Microsoft Access database form (reduced version for PDAs) will be used to implement this. The investigator must first enter the patient’s baseline characteristics and non-identifiable information which will allow recruitment. If the patient meets criteria to be randomised for FFP treatment then further information will need to be entered (coagulation studies results, consent obtained and FFP available). Once this has been supplied the program will then randomise and allocate the patient for the study. This will mean that the investigator and treating doctor will not be aware of the allocation until the patient is eligible for recruitment and they have consented.</concealment>
+    <sequence>Computer generated random sequence using Microsoft Excel.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>2:1 randomisation because of the chance that patients randomised to fresh frozen plasma may not actually be given fresh frozen plasma within the time frame for logistic reasons.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/01/2008</anticipatedstartdate>
+    <actualstartdate>1/03/2008</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>30/06/2012</actualenddate>
+    <samplesize>102</samplesize>
+    <actualsamplesize>65</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>30/06/2012</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Geoffrey Isbister</primarysponsorname>
+    <primarysponsoraddress>Calvary Mater Newcastle
+Edith St
+Waratah NSW 2298</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHRMC Project Grant</fundingname>
+      <fundingaddress>Canberra</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Simon Brown</sponsorname>
+      <sponsoraddress>Emergency Research Unit
+Fremantle Hospital
+Fremantle</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The study aims to determine if the early administration of clotting factors (ie. FFP) to patients with a procoagulant coagulopathy following snake envenoing will speed the patient recovery of clotting function. A secondary aim to confirm that smaller doses of antivenom are sufficient for the treatment of coagulopathy.</summary>
+    <trialwebsite />
+    <publication>Isbister GK, Buckley NA, Page CB, et al. A randomized controlled trial of fresh frozen plasma for treating venom-induced consumption coagulopathy in cases of Australian snakebite (ASP-18). J Thromb Haemost 2013; 11(7): 1310-8</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname />
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/11/2007</ethicsubmitdate>
+      <ethiccountry />
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Hunter and New England HREC</ethicname>
+      <ethicaddress>Newcastle</ethicaddress>
+      <ethicapprovaldate>29/11/2007</ethicapprovaldate>
+      <hrec>07/11/21/3.06</hrec>
+      <ethicsubmitdate>30/10/2007</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Geoff Isbister</name>
+      <address>Calvary Mater Newcastle
+Edith St
+Waratah NSW 2298</address>
+      <phone>02 49211211</phone>
+      <fax>02 94754893</fax>
+      <email>geoff.isbister@gmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Geoff Isbister</name>
+      <address>Calvary Mater Newcastle
+Edith St
+Waratah NSW 2298</address>
+      <phone>02 49211211</phone>
+      <fax>02 94754893</fax>
+      <email>geoff.isbister@gmail.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Geoff Isbister</name>
+      <address>Calvary Mater Newcastle
+Edith St
+Waratah NSW 2298</address>
+      <phone>02 49211211</phone>
+      <fax>02 94754893</fax>
+      <email>geoff.isbister@gmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Geoffrey Isbister</name>
+      <address>Calvary Mater Newcastle
+Waratah NSW 2298</address>
+      <phone>0438466471</phone>
+      <fax />
+      <email>geoff.isbister@gmail.com</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,238 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370069">
+  <stage>Registered</stage>
+  <submitdate>5/02/2016</submitdate>
+  <approvaldate>10/02/2016</approvaldate>
+  <actrnumber>ACTRN12616000160437</actrnumber>
+  <trial_identification>
+    <studytitle>The effects of feeding on blood flow to the gut in preterm infants receiving red blood cell transfusion</studytitle>
+    <scientifictitle>The effects of enteral feeding during red blood cell transfusion on the cerebro-splanchnic oxygenation ratio (CSOR) in preterm infants with anaemia, as measured by near infrared spectroscopy (NIRS)</scientifictitle>
+    <utrn>U1111-1179-2618 </utrn>
+    <trialacronym>FEEding DURing Red Cell Transfusion (FEEDUR RCT)</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Transfusion associated necrotising enterocolitis</healthcondition>
+    <healthcondition>Preterm birth</healthcondition>
+    <healthcondition>Anaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Reproductive Health and Childbirth</conditioncode1>
+      <conditioncode2>Complications of newborn</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Blood </conditioncode1>
+      <conditioncode2>Anaemia</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>1) Withholding of enteral feeds during red cell transfusion for 12 hours from the start of the transfusion.
+2) Restriction of enteral feed volume to 120 ml/kg/day, maximum calorie concentration 20 kcal/30ml. </interventions>
+    <comparator>Continuing of enteral feeds during red cell transfusion for 24 hours from the start of the transfusion. Enteral feeds will be continued according to the feeding regime prior to the transfusion, which may be continuous feeds or bolus feeds every 1-3 hours.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean CSOR, using near-infrared spectroscopy (NIRS)</outcome>
+      <timepoint>1 hour prior to transfusion, during transfusion, immediately post-transfusion, 12 &amp; 24 hours after transfusion</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Mean mesenteric fractional oxygen extraction, using near-infrared spectroscopy (NIRS)</outcome>
+      <timepoint>1 hour prior to transfusion, during transfusion, immediately post-transfusion, 12 &amp; 24 hours after transfusion</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to return to full feeds, defined as the number of hours after the 24 hour study period until the infant is receiving the same feed volume as prior to the transfusion.</outcome>
+      <timepoint>Post-transfusion</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Feed intolerance, defined as gastric aspirates &gt;30% of feed volume or vomiting </outcome>
+      <timepoint>24 hours after completion of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Abdominal distension, assessed by review of medical and nursing documentation.</outcome>
+      <timepoint>24 hours after completion of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse events including transfusion reactions, suspected or proven sepsis, necrotising enterocolitis, assessed by review of medical records</outcome>
+      <timepoint> 24 hours after completion of study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Necrotising enterocolitis, assessed by data linkage to patient medical records </outcome>
+      <timepoint>At time of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Late onset sepsis, assessed by data linkage to patient medical records </outcome>
+      <timepoint>At time of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality, assessed by data linkage to patient medical records </outcome>
+      <timepoint>At time of disharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Preterm infants &lt;35 weeks gestation
+Receiving red cell transfusion for anaemia
+Enteral feeding of at least 120 ml/kg/day </inclusivecriteria>
+    <inclusiveminage />
+    <inclusiveminagetype>No limit</inclusiveminagetype>
+    <inclusivemaxage>4</inclusivemaxage>
+    <inclusivemaxagetype>Months</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>&lt;28 weeks corrected gestation at time of intervention
+Growth restriction (BW &lt; 3rd centile)
+Major congenital anomalies (including severe cardiac or cerebral disease, any malformation or disease of the gastrointestinal tract)
+Diagnosis of necrotising enterocolitis, spontaneous intestinal perforation or history of abdominal surgery
+Need for vasopressor therapy
+Cutaneous disease not allowing for placement of NIRS sensor </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Based on recently published reference values in preterm neonates, we would expect mean regional cerebral oxygen saturations to be approximately 70% with a standard deviation of approximately 7%. To detect a 10% change in mean cerebral oxygenation, a sample size of at least 16 neonates will be required to achieve 80% power at 0.05 level. We plan to recruit 20 infants per group.
+Assuming normal distribution of data, we will use parametric statistics to analyse our data. We will use paired t-tests to determine any difference in pre-transfusion mean CSOR and post-transfusion CSOR in the two groups of infants. Independent t-tests will be used to evaluate differences in mean CSOR between groups at all time points. Repeated measures ANOVA will be used to analyse changes in CSOR over the four pre-specified time points. Post-hoc tests, such as Tukey's, will be performed to further analyse significant results. Clinical outcome data will be analysed using a combination of chi-squared, ANOVA and Kruskall-Wallis tests as appropriate. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>27/06/2016</anticipatedstartdate>
+    <actualstartdate>6/07/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Hospital for Women - Randwick</hospital>
+    <postcode>2031 - Randwick</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Tim Schindler</primarysponsorname>
+    <primarysponsoraddress>Newborn Care Centre
+Royal Hospital for Women
+Barker St
+Randwick NSW 2031</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Madison Capaldi Research Fund</fundingname>
+      <fundingaddress>C/O Royal Hospital for Women Foundation
+Royal Hospital for Women
+Barker St
+Randwick NSW 2031</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background:
+Development of anaemia in preterm infants is a common occurrence during hospitalisation as a result of iatrogenic blood loss and poor erythropoiesis. A significant proportion of extremely preterm infants are exposed to one or more RBC transfusions during their neonatal intensive care unit (NICU) stay. The association between red blood cell (RBC) transfusions and the development of necrotizing enterocolitis (NEC) in preterm infants was first recognized in the late 1980s and has since been increasingly recognized. This association between RBC transfusion and NEC may coincide as a result of the timing of their occurrence, as most preterm infants will receive transfusions within the first 4 weeks of life, which is the same time frame for the development of NEC.
+Mechanisms related to the development of TANEC are unknown. Several hypotheses have been proposed including the prolonged storage of blood, increased viscosity of blood, perfusion-reperfusion injury and enteral feeding. The effect of enteral feeding during RBC transfusion on the mesenteric perfusion and oxygenation has not been fully elucidated. Due to the association between NEC and feeding practices in the preterm infants, there have been concerns about the effects of feeding during RBC transfusion. As a result, there is a wide variety of feeding practices during RBC transfusion of preterm infants including withholding of feeds to reduce the risk of NEC. 
+Technological advances in near-infrared spectroscopy (NIRS) have allowed for the measurement of oxygenated and deoxygenated haemoglobin within tissue in real time. NIRS is able to measure changes in signals received via the skin sensors and calculate the proportion of haemoglobin in oxygenated and deoxygenated states from a mixed capillary, venous and arterial sample in the tissues approximately 2cm below the sensor placement. This allows for the non-invasive real-time measurement of the balance between oxygen supply and tissue demand. This technology has allowed for the continuous measurement of tissue oxygenation of the cerebral and splanchnic beds and for demonstration of differential tissue perfusion during periods of haemodynamic instability, anaemia and RBC transfusions. Autoregulation of brain perfusion allows for the oxygenation of the brain to be preserved except in the most severe situations. Thus, a ratio of cerebral splanchnic oxygenation has been proposed to be able to measure changes in gut perfusion.
+Aim:
+To assess the effect of feeding and withholding of feeding on gut oxygenation and perfusion in preterm infants receiving RBC transfusions.
+Hypothesis:
+We hypothesize that mean CSOR and mean mesenteric FOE during RBC transfusion will not be different between preterm infants in the withheld group and the full volume group.  </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Eastern Sydney Local Health District - Northern Sector Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Support Office
+G71, East Wing 
+Edmund Blacket Building
+Prince of Wales Hospital
+Randwick NSW 2031</ethicaddress>
+      <ethicapprovaldate>29/05/2015</ethicapprovaldate>
+      <hrec>HREC/14/POWH/624</hrec>
+      <ethicsubmitdate>31/10/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Tim Schindler</name>
+      <address>Newborn Care Centre
+Royal Hospital for Women
+Barker St
+Randwick NSW 2031</address>
+      <phone>+61293826190</phone>
+      <fax>+61293826191</fax>
+      <email>tim.schindler@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tim Schindler</name>
+      <address>Newborn Care Centre
+Royal Hospital for Women
+Barker St
+Randwick NSW 2031</address>
+      <phone>+61293826190</phone>
+      <fax>+61293826191</fax>
+      <email>tim.schindler@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tim Schindler</name>
+      <address>Newborn Care Centre
+Royal Hospital for Women
+Barker St
+Randwick NSW 2031</address>
+      <phone>+61293826190</phone>
+      <fax>+61293826191</fax>
+      <email>tim.schindler@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

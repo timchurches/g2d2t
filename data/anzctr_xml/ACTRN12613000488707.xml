@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364058">
+  <stage>Registered</stage>
+  <submitdate>26/04/2013</submitdate>
+  <approvaldate>1/05/2013</approvaldate>
+  <actrnumber>ACTRN12613000488707</actrnumber>
+  <trial_identification>
+    <studytitle>Examining decision-making using transcranial direct current stimulation</studytitle>
+    <scientifictitle>In healthy participants with no history of mental illness, how does transcranial direct current stimulation to the dorsolateral prefrontal cortex affect playing a risky gamble or accepting an unfair monetary distribution?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Decision-making processes in healthy volunteers</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Studies of normal psychology, cognitive function and behaviour</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Eldith tDCS stimulator device  (DC Stimulator Plus);
+
+
+Participants will be assigned to one of two arms (each participant will undergo two sessions in total).
+
+For both arms, Session 2 will be scheduled at least 3 days after Session 1.
+
+Arm 1:
+Session 1: 20 minutes of transcranial Direct Current Stimulation (tDCS) at 2mA: anodal stimulation to left dorsolateral prefrontal cortex (DLPFC) (electrode placed at F3, based on the international 10-20 system) and cathodal stimulation to right DLPFC (electrode placed at F4).
+
+Session 2: 20 minutes of sham (fake) tDCS (30 seconds of 2 mA tDCS, then current is switched off) to left DLPFC and right DLPFC.
+
+
+Arm 2:
+Session 1: 20 minutes of tDCS at 2mA: anodal stimulation to right DLPFC and cathodal stimulation to left DLPFC
+
+Session 2: 20 minutes of sham (fake) tDCS
+
+
+
+
+</interventions>
+    <comparator>Control treatment is sham (fake) tDCS (30 seconds of 2 mA tDCS, then current is switched off) to left DLPFC and right DLPFC.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Difference in the proportion of risky gamble choices made on a gambling task between active tDCS and sham tDCS
+
+The gambling task is a simplified version of slot-machines or "pokies".  On each trial participants will be given a number of betting options and asked to place a bet. Larger bets associated with larger wins.
+
+Risky gambling choices is defined as the proportion of trials in which participants decide the place the larger bet over the smaller bet.</outcome>
+      <timepoint>Session 1 and Session 2 (Session 2 will occur at least 3 days after Session 1)
+
+Task performance will be assessed during each session immediately following tDCS treatment.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Difference in the proportion of unfair offers accepted (in Ultimatum Game experimental task) between active tDCS and sham tDCS</outcome>
+      <timepoint>Session 1 and Session 2 (Session 2 will occur at least 3 days after Session 1)
+
+Task performance will be assessed during each session during tDCS treatment.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Anhedonia score (as measured by Principal Components Analysis score of Chapman Physical Anhedonia Scale, Chapman Social Anhedonia Scale, Snaith-Hamilton Pleasure Scale, Temporal Experience of Pleasure Scale, Carver and White BIS/BAS scale)</outcome>
+      <timepoint>Session 2
+
+Outcome will be assessed prior to treatment session</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>No history of neurological or psychiatric illness;
+Not taking any psychoactive medications;
+Able to provide informed consent</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Presence of metal anywhere in the head (except the mouth);
+Have had a prior serious head injury, neurological condition, or other serious medical condition;
+Are pregnant.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed.</concealment>
+    <sequence>Randomization to either arm 1 or arm 2 will occur via the generation of a single computer number sequence. Participants will be randomised prior to the commencement of the first session</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Separate logistic regression will be used to analyse the behavioural data from the experimental tasks with choice behaviour (e.g. High/Low risk choice on the Gambling Task; Yes/No choice on the Ultimatum Game) as the dependent variable.  The gamble risk level (for gambling task), fairness level (for ultimatum game task), anhedonia status, and tDCS condition will be used as independent variables.
+
+Electrophysiological data (i.e. Event-Related Potentials) from the Gambling Task only will be analysed using linear regression. ERP amplitude will be the dependent variable, while the independent variables will be gamble risk level, anhedonia status and tDCS treatment condition.
+
+Separate linear regressions will be used to analyse the trial RT data (i.e. time to make decision on each trial), with RT on each trial as the dependent variable, while the independent variables will be gamble risk level, fairness level, anhedonia status and tDCS treatment condition.
+
+
+Fecteau et al.(2007) conducted a tDCS experiment (participants were healthy college students) with a gambling task.  On the key analyses, right anodal/left cathodal vs sham, they observed an OR = 2.5 (95% CI = 1.8-3.3); this can be crudely converted an effect size by dividing ln(OR) by 1.81 (Chinn, 2000), which gives a rough effect size of 0.51; For anodal right/cathodal left vs anodal left/cathodal right, OR = 2.8, which converts to a rough effect size of 0.57.  Based on G*Power (for an average effect size of 0.54), the required sample (80% power), for a one-tailed t-test is 24, which is the proposed sample for this study .  As we expect anhedonia to amplify the effect size, the above calculation can be considered conservative.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/06/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>24</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <postcode>3004 - Melbourne</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Professor Paul Fitzgerald</primarysponsorname>
+    <primarysponsoraddress>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Funding will be obtained from internal research funds at the Monash Alfred Psychiatry Research Centre</fundingname>
+      <fundingaddress>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>One of the main symptoms of Major Depression is Anhedonia, or a reduced ability to experience pleasure.  Anhedonia can reduce ones motivation to engage in pleasurable activities as well reducing the sense of enjoyment they experience from activities that would typically give them pleasure.  As such, it is likely that anhedonia can influence our day-to-day decision-making choices as well.  
+
+Prior research has shown that transcranial direct current stimulation (tDCS; a research tool that involves applying low-voltage electrical stimulation to electrodes placed on the scalp) can alter cognitive processing and decision-making in humans. The goal of the present study is to investigate how tDCS to part of the brain known as the dorsolateral prefrontal cortex (DLPFC) can influence economic and social decision-making behaviour in individuals with anhedonia.
+  
+By comparing the effects of tDCS on healthy people with varying levels of anhedonia, we hope to better understand the role of the DLPFC in decision-making, and how this is modulate by anhedonic symptoms.  The use of electroencephalography (EEG; a research tool that involves recording brain waves from electrodes placed on the scalp), in this study may help us gain a better understanding of the neurological basis of decision-making, and how this is affected by anhedonia.
+
+The hypotheses of the study are that participants receiving tDCS treatment designed to simultaneously increase activity on the right side of their brain and decrease activity on the left side of their brain will  (compared to participants receiving tDCS treatment designed to simultaneously decrease activity on the right side of their brain and increase acitivitry on the left side of their brain), be more willing to accept unfair offers to distribute a sum of money and less willing to place a risky bet when playing a gambling game.  We also hypothesize that variations in participants' anhedonia levels will affect their behaviour in these tasks; individuals with higher anhedonia levels are hypothesised to show increased acceptance of unfair offers and a decreased willingness to play a risky bet.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname> The Alfred Research and Ethics Unit</ethicname>
+      <ethicaddress>The Alfred Hospital, 55 Commercial Road, 
+Melbourne, VIC 3004</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>197/13</hrec>
+      <ethicsubmitdate>1/05/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Paul Fitzgerald</name>
+      <address>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia
+</address>
+      <phone>+61 3 9076 6552</phone>
+      <fax>61 3 9276 6588</fax>
+      <email>paul.fitzgerald@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Phillip Hall</name>
+      <address>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia</address>
+      <phone>+61 3 9076 6564</phone>
+      <fax>+61 3 9276 6588</fax>
+      <email>phillip.hall@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Paul Fitzgerald</name>
+      <address>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia</address>
+      <phone>+61 3 9076 6552</phone>
+      <fax>+61 3 9276 6588</fax>
+      <email>paul.fitzgerald@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Phillip Hall</name>
+      <address>Monash Alfred Psychiatry Research Centre
+Level 4, 607 St Kilda Road
+Melbourne, VIC 3004, Australia</address>
+      <phone>+61 3 9076 6564</phone>
+      <fax>+61 3 9276 6588</fax>
+      <email>phillip.hall@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

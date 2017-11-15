@@ -1,0 +1,839 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4452">
+  <stage>Registered</stage>
+  <submitdate>16/05/2014</submitdate>
+  <approvaldate>16/05/2014</approvaldate>
+  <nctid>NCT02149199</nctid>
+  <trial_identification>
+    <studytitle>A Clinical Study to Evaluate Symbicort Turbuhaler Used 'as Needed' in Adults and Adolescents With Asthma.</studytitle>
+    <scientifictitle>A Clinical Study Comparing Symbicort® 'as Needed' With Terbutaline 'as Needed' and With Pulmicort® Twice Daily Plus Terbutaline 'as Needed' in Adult and Adolescent Patients With Asthma.</scientifictitle>
+    <utrn />
+    <trialacronym>SYGMA1</trialacronym>
+    <secondaryid>2013-004474-96</secondaryid>
+    <secondaryid>D589SC00001</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Asthma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - budesonide/formoterol 'as needed' + budesonide placebo bid
+Treatment: drugs - terbutaline 'as needed' + placebo budesonide bid
+Treatment: drugs - budesonide bid + terbutaline 'as needed'
+
+Experimental: Symbicort 'as needed'+placebo Pulmicort bid - Symbicort (budesonide/formoterol) Turbuhaler 160/4.5 µg 'as needed' + Placebo Pulmicort Turbuhaler 200 µg bid
+
+Active Comparator: terbutaline 'as needed'+placebo Pulmicort bid - terbutaline Turbuhaler 0.4 mg 'as needed' + placebo Pulmicort 200 µg Turbuhaler bid
+
+Active Comparator: Pulmicort bid + terbutaline 'as needed' - Pulmicort 200 µg Turbuhaler bid + terbutaline 0.4 mg Turbuhaler 'as needed'
+
+
+Treatment: drugs: budesonide/formoterol 'as needed' + budesonide placebo bid
+Symbicort (budesonide/ formoterol) 160/4.5 µg powder for inhalation 'as needed' plus Pulmicort placebo 200 µg powder for inhalation, 1 inhalation twice daily (morning and evening), 52-week treatment
+
+Treatment: drugs: terbutaline 'as needed' + placebo budesonide bid
+Terbutaline 0.4 mg powder for inhalation 'as needed' plus placebo Pulmicort (budesonide) 200 µg powder for inhalation, 1 inhalation twice daily (morning and evening), 52-week treatment
+
+Treatment: drugs: budesonide bid + terbutaline 'as needed'
+Pulmicort (budesonide) 200 µg powder for inhalation, 1 inhalation twice daily (morning and evening) plus terbutaline 0.4 mg powder for inhalation 'as needed', 52-week treatment
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>'Well-controlled asthma week' - a derived binary variable (Yes/No) - A well-controlled asthma week is defined as the fulfilment of both conditions A) and B) below: A) Two or more of the following criteria are fulfilled: - No more than 2 days with a daily asthma symptom score &gt;1 - No more than 2 days of 'as needed' medication use, up to a maximum of 4 occasions per week (multiple occasions per day should be regarded as separate occasions) - Morning PEF =80% of Predicted Normal every day B) Both of the following criteria are fulfilled: - No nighttime awakenings due to asthma - No additional inhaled and/or systemic glucocorticosteroid treatment due to asthma.
+For each patient and study week, the binary variable well-controlled asthma week will be derived. In addition, for each week the percent of patients with well-controlled asthma week will also be derived.
+It is required that the eDiary has to be completed on at least 5 days in a week to be a well-controlled asthma week.</outcome>
+      <timepoint>weekly, up to 52 weeks</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first severe asthma exacerbation</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first moderate or severe asthma exacerbation</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in pre-dose FEV1</outcome>
+      <timepoint>Study weeks 0,4,16,28,40,52</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in Morning PEF</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in Evening PEF</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in number of inhalations of 'as needed' medication</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in symptom score</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Nighttime awakenings due to asthma</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Symptom-free days</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of 'As needed' free days</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Asthma control days</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to asthma related discontinuation</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Poorly controlled asthma weeks</outcome>
+      <timepoint>Weekly for up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to additional steroids for asthma</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in Asthma Control Questionnaire (ACQ-5)</outcome>
+      <timepoint>Study weeks 0,4,16,28,40,52</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Average change from baseline in Asthma Quality of Life Questionnaire; standard version (AQLQ(S))</outcome>
+      <timepoint>Study weeks 0,16,28,40,52</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of controller use days</outcome>
+      <timepoint>up to 52 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>INCLUSION CRITERIA 1. Provision of informed consent prior to any study specific procedures.
+        For patients under-age, signed informed consent from both the patient and the patient's
+        parent/legal guardian is required 2. Male or Female, =12 years of age 3. Documented
+        diagnosis of asthma for at least 6 months prior to Visit 1 4. Patients who are in need of
+        Step 2 treatment according to Global Initiative for Asthma guidelines 5. Patients treated
+        with 'as needed' inhaled short-acting bronchodilator(s) only should have pre-bronchodilator
+        Forced Expiratory Volume in one second (FEV1) = 60 % of Predicted Normal (PN) and
+        post-bronchodilator FEV1 = 80 % PN 6. Patients treated with low stable dose of inhaled
+        corticosteroid or leukotriene antagonist in addition to 'as needed' use of inhaled
+        short-acting bronchodilator(s) should have pre-bronchodilator FEV1 =80 % PN 7. Patients
+        should have reversible airway obstruction 8. To be randomized patients must have used
+        Bricanyl Turbuhaler 'as needed' on at least 3 separate days during the last week of the run
+        in period. EXCLUSION CRITERIA 1. Patient has a history of life-threatening asthma including
+        intubation and intensive care unit admission 2. Patient has had an asthma worsening
+        requiring change in treatment other than inhaled short-acting bronchodilator(s) within 30
+        days prior to Visit 1 or between Visits 1 and 2; or a treatment other than Bricanyl
+        Turbuhaler from Visit 2 until randomization 3. Patient has required treatment with oral,
+        rectal or parenteral glucocorticosteroids (GCS) within 30 days and/or depot parenteral GCS
+        within 12 weeks prior to Visit 1 4. Smoker (current or previous) with a smoking history of
+        = 10 pack years 5. Pregnancy, breast-feeding or planned pregnancy during the study.</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>130</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3 />
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>7/07/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>3850</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>2/08/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Research Site - Bedford Park</hospital>
+    <hospital>Research Site - Concord</hospital>
+    <hospital>Research Site - Maroubra</hospital>
+    <hospital>Research Site - Murdoch</hospital>
+    <hospital>Research Site - Wollongong</hospital>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>2139 - Concord</postcode>
+    <postcode>2035 - Maroubra</postcode>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>2522 - Wollongong</postcode>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Alphaville</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Botucatu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Salvador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Santo André</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sorocaba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Dupnitsa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Gotse Delchev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Kozloduy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Pazardzhik</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Plovdiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Razgrad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Roman</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Ruse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sandanski</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sofia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Varna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Velingrad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Vratsa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Newfoundland and Labrador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Quillota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Talcahuano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Changsha</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Chengdu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Guangzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Haikou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Hohhot</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Nanchang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shanghai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shenyang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Wenzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Wuhan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Xi'an</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Xiamen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Xuzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Balassagyarmat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Berettyóújfalu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Edelény</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Hajdúnánás</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Miskolc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Monor</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Mátészalka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Nyírbátor</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Nyíregyháza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Pécs</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szeged</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Bucheon-si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Cheongju-si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>D.f.</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Durango</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Morelia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>México</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Villahermosa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Cusco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Lima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Piura</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Surco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Lipa City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Manila</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Pasig City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Philippines</country>
+      <state>Quezon City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Bialystok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Elblag</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Grodzisk Mazowiecki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Grudziadz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Kielce</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Kraków</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Rzeszów</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Skierniewice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Strzelce Opolskie</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Szczecin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Slupca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Tarnów</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Trzebnica</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Turek</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Zabrze</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lódz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bragadiru</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Brasov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Constanta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Pitesti</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Timisoara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Chelyabinsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ekaterinburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Gatchina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ivanovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kemerovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Krasnoyarsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Nizhny Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Novosibirsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Penza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Perm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Petrozavodsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Pyatigorsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint - Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saratov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St.Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ulyanovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Vladikavkaz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Volgograd</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Voronezh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavl</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Boksburg North</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Durban</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Johannesburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Middelburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Queenswood</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Stanger</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Verulam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Cherkasy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Ivano-Frankivsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kyiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lutsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Odesa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Vinnytsia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Zaporizhzhya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bath</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Coventry</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leamington Spa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Mortimer Reading</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Trowbridge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Dong Nai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Hai Phong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Hanoi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Ho Chi Minh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Vietnam</country>
+      <state>Hochiminh</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>AstraZeneca</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to test if Symbicort® (budesonide/formoterol) Turbuhaler® is
+      effective in treating asthma when used 'as needed' in patients with milder asthma. The
+      efficacy of Symbicort® 'as needed' will be compared with: 1) terbutaline Turbuhaler® 'as
+      needed' and with 2) Pulmicort (budesonide) Turbuhaler® twice daily plus terbutaline
+      Turbuhaler® 'as needed'.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02149199</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

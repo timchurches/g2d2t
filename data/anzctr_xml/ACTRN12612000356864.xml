@@ -1,0 +1,256 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362309">
+  <stage>Registered</stage>
+  <submitdate>28/03/2012</submitdate>
+  <approvaldate>28/03/2012</approvaldate>
+  <actrnumber>ACTRN12612000356864</actrnumber>
+  <trial_identification>
+    <studytitle>High Concentration Oxygen in Bronchiectasis</studytitle>
+    <scientifictitle>Response of Patients with Bronchiectasis to Hyperoxia and Normoxia, as Measured by Carbon Dioxide Levels</scientifictitle>
+    <utrn>U1111-1129-5351</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Bronchiectasis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>50% oxygen administration for 30 minutes via a full-face continuous positive airway pressure mask without positive airway pressure. Followed by a 30 minute washout period.</interventions>
+    <comparator>21% oxygen administration for 30 minutes via a full-face continuous positive airway pressure mask without positive airway pressure. Followed by a 30 minute washout period.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Transcutaneous carbon dioxide level, as measured by a TOSCA monitor.</outcome>
+      <timepoint>30 minutes.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Transcutaneous carbon dioxide level as measured by a TOSCA monitor.</outcome>
+      <timepoint>10 and 20 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minute Ventilation, calculated using data from a flow sensor attached to the expiratory port of the participant's mask.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Volume of dead space to tidal volume, calculated using data from a flow sensor attached to the expiratory port of the participant's mask and volumetric capnography.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in transcutaneous carbon dioxide greater than or equal to 4mmHg, as measured by a TOSCA monitor.</outcome>
+      <timepoint>30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in transcutaneous carbon dioxide greater than or equal to 10mmHg, as measured by a TOSCA monitor.</outcome>
+      <timepoint>30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tidal volume, calculated using data from a flow sensor attached to the expiratory port of the participant's mask and volumetric capnography.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Volume of dead space, calculated using data from a flow sensor attached to the expiratory port of the participant's mask and volumetric capnography.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Alveolar volume, calculated using data from a flow sensor attached to the expiratory port of the participant's mask and volumetric capnography.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Alveolar minute ventilation, calculated using data from a flow sensor attached to the expiratory port of the participant's mask and volumetric capnography.</outcome>
+      <timepoint>10, 20 and 30 minutes.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Oxygen saturations, as recorded on the TOSCA via continuous electronic recording data download.</outcome>
+      <timepoint>Continuously over the timecourse of the intervention and washout period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Effect of baseline transcutaneous carbon dioxide, spirometry and CT findings on all outcomes.</outcome>
+      <timepoint>Values at Baseline.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Heart Rate, measured from the TOSCA</outcome>
+      <timepoint>10, 20 and 30 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Respiratory Rate, measured from capnography equipment</outcome>
+      <timepoint>10, 20 and 30 minutes</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Bronchiectasis diagnosed by a doctor and confirmed on CT scanning.</inclusivecriteria>
+    <inclusiveminage>14</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Diagnosis of infection with Burkholderia
+Baseline transcutaneous carbon dioxide level of greater than or equal to 60 mmHg
+Diagnosis of chronic obstructive pulmonary disease
+Over 10 pack year smoking history
+Obesity (body mass index equal to or greater than 40)
+Any other condition which, at the investigator's discretion, is believed may present a safety risk of impact feasiblity of the study of study results</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Following explaination of the trial and consent, participants will be assessed for eligibility. If eligible, participants will be randomised to the order of interventions (21% oxygen and 50% oxygen). This order will be available to an investigator who is not administering treatment, assessing outcomes or analysing data. Their role is to make available the gas bottles and bags (containing either 21% or 50% oxygen) in the randomised order. The labels on the bottles will be covered to maintain the blinding of other investigators and the participant.</concealment>
+    <sequence>By computer</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>All outcome measures will be adjusted for baseline in the data analysis.</designfeatures>
+    <endpoint>Safety</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>17/04/2012</anticipatedstartdate>
+    <actualstartdate>12/06/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>4/12/2013</actualenddate>
+    <samplesize>24</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Janine Pilcher</primarysponsorname>
+    <primarysponsoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Health Research Council of New Zealand</fundingname>
+      <fundingaddress>Level 3 - ProCARE Building, Grafton Mews, at 110 Stanley Street, Auckland 1010</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Medical Research Institute of New Zealand</fundingname>
+      <fundingaddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Richard Beasley</sponsorname>
+      <sponsoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Kyle Perrin</othercollaboratorname>
+      <othercollaboratoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Pip Shirtcliffe</othercollaboratorname>
+      <othercollaboratoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Mitesh Patel</othercollaboratorname>
+      <othercollaboratoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Mathew Williams</othercollaboratorname>
+      <othercollaboratoraddress>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Mark Weatherall</othercollaboratorname>
+      <othercollaboratoraddress>Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Oxygen therapy has been shown to increase carbon dioxide in the blood of patients with certain respiratory conditions. This study aims to find out if oxygen therapy increases carbon dioxide levels in patients with bronchiectasis and, if so, how.</summary>
+    <trialwebsite>Nil</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee: Central</ethicname>
+      <ethicaddress>1 The Terrace, Wellington 6011</ethicaddress>
+      <ethicapprovaldate>23/03/2012</ethicapprovaldate>
+      <hrec>CEN/11/12/075</hrec>
+      <ethicsubmitdate>18/11/2011</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64  4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64  4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64  4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellinton Regional Hospital, Riddiford Street, Newtown, Wellington 6021  </address>
+      <phone>+64 4 8050241</phone>
+      <fax />
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

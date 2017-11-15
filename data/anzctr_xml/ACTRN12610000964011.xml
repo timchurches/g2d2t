@@ -1,0 +1,244 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336212">
+  <stage>Registered</stage>
+  <submitdate>9/11/2010</submitdate>
+  <approvaldate>9/11/2010</approvaldate>
+  <actrnumber>ACTRN12610000964011</actrnumber>
+  <trial_identification>
+    <studytitle>The HOTER Study: The Effect of Humidified High Flow Oxygen in the Emergency Room in Emergency Department Patients with Respiratory Distress</studytitle>
+    <scientifictitle>A study on the effect of humidified high flow oxygen therapy versus standard oxygen therapy on the need for assisted ventilation in emergency department patients with respiratory distress</scientifictitle>
+    <utrn>U1111-1117-8226</utrn>
+    <trialacronym>HOTER</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute respiratory distress</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Nasal High Flow Oxygen is a technology whereby heated humidified oxygen is delivered via large bore nasal cannulae, enabling high flows of up to 50 L min-1 and a fraction of inspired oxygen (FiO2) which can be titrated from 21% to near 100%. These systems improve oxygenation through various mechanisms including washout of nasopharyngeal dead space, improved work of breathing through attenuation of inspiratory resistance, improved pulmonary compliance and provision of positive pressure. Heating and humidification of oxygen prevents mucosal dehydration, maintains ciliary activity, reduces heat loss and may minimise atelectasis and tracheitis.
+
+Patients will be assessed for the presence of respiratory distress on arrival in the Emergency Department and if randomised to humidified high flow nasal Oxygen, receive 40L/min Oxygen for the duration of their Emergency Department stay. Once they leave the ED they will revert to standard Oxygen therapy at the discretion of the treating clinician</interventions>
+    <comparator>Patients will be assessed for the presence of respiratory distress on arrival in the Emergency Department and if randomised to standard Oxygen therapy, receive Oxygen for the duration of their Emergency Department and hospital stays, at the discretion of the treating clinician. This may be standard nasal prong, Hudson mask or Venturi mask.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Need for Non-invasive or Invasive Ventilatory support Conversion to NIV or IPPV will be recorded as dichotomous data (yes/no). Descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test or Fishers Exact Test as appropriate. All analysis will be intention-to-treat.</outcome>
+      <timepoint>The point in time during the ED stay that the patient is commenced on NIV/IPPV will be measured. If this does not occur during the ED stay, the time of discharge or transfer out of the ED will be recorded.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of Hospital Stay (Days), defined as time of arrival in hospital to time of hospital discharge. This data is routinely recorded in an electronic database by clerical staff. The data is likely to be skewed to the right. Descriptive statistics; median (IQR) will be used to describe the measured parameters for each group. The primary outcome measure (and other non-parametric numerical data) will be analysed using the Mann Whitney U test. All analysis will be intention-to-treat.</outcome>
+      <timepoint>The length of stay will be recorded (electronically time stamped) at the time of patient discharge and this time will be used for the analysis.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality (yes/no). Descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test or Fishers Exact Test  as appropriate. All analysis will be intention-to-treat.</outcome>
+      <timepoint>All outcomes other than length of stay will be measured during the patients time in ED and hospital, apart from mortality which will be assessed at 90 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pneumothorax (yes/no), diagnosed on CxR. Descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test or Fishers Exact Test  as appropriate. All analysis will be intention-to-treat.</outcome>
+      <timepoint>All outcomes other than length of stay will be measured during the patients time in ED and hospital, apart from mortality which will be assessed at 90 days from enrollment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>subcutaneous emphysema (yes/no) recorded in clincical notes or on xRay. Descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test or Fishers Exact Test  as appropriate. All analysis will be intention-to-treat.</outcome>
+      <timepoint>All outcomes other than length of stay will be measured during the patients time in ED and hospital, apart from mortality which will be assessed at 90 days from enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient Satisfaction with treatment will be recorded on a 6 item, 5 point  Likert scale questionnaire. There will be space for additional comments. Descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test. All analysis will be intention-to-treat.</outcome>
+      <timepoint>The questionnaire will be administered as soon as possible after completion of Emergency Department treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Unexpected Adverse Events recorded in clincical notes or reported by the patient. These will be described in the text fo the report and with descriptive statistics; proportions (95% CI), will be used to describe the measured parameters for each group. Categorical data will be analysed with Chi2 test or Fishers Exact Test  as appropriate. All analysis will be intention-to-treat.</outcome>
+      <timepoint>All outcomes other than length of stay will be measured during the patients time in ED and hospital, apart from mortality which will be assessed at 90 days from enrollment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Adult patient (15 years or older) presenting to the Auckland City Hospital Emergency Department (AED).
+2.	Oxygenation impairment or respiratory distress as a presenting feature (defined as transcutaneous oxygen saturations measured at less than or equal to 92% on air (or less than or equal to 90% in the setting of chronic hypercapnia) AND respiratory rate greater than or equal to 22 breaths per minute at any time enroute to hospital or on arrival).
+3.	Oxygen therapy indicated in the opinion of the treating clinician.</inclusivecriteria>
+    <inclusiveminage>15</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>120</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Intubated / NIPPV on arrival to or immediately in AED
+Bullous lung disease		
+Pneumothorax				
+Anatomical abnormality or malformation of the face
+Suspected facial or intracranial trauma		
+Recent episode of epistaxis (less than 2 weeks)	
+Recent facial surgery (less than 6 weeks)
+Prior history of trans-nasal neurosurgery	
+Prior decision that the patient is for palliative care only</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation will be done by study personnel using a locally-developed, purpose-built computer randomisation program in Microsoft Access 2003TM, based on a random number generator. Allocation is not concealed, however the number of patients allocated to each group will be cross referenced with the schedule generated by the randomisation program to check for bias in allocation.</concealment>
+    <sequence>Patients will be recruited and randomised on arrival to AED using a locally-developed, purpose-built computer randomisation program in Microsoft Access 2003TM, based on a random number generator</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>For those patients that are unable to give written informed consent at the time of enrollment due to the severity of their illness, a process of delayed consent will be used (approval for this will be sought from the regional ethics committee prior to commencement of the study)</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/07/2012</anticipatedstartdate>
+    <actualstartdate>6/07/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>5/05/2014</actualenddate>
+    <samplesize>800</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Peter Jones</primarysponsorname>
+    <primarysponsoraddress>Mail:
+c/- Adult Emergency Department
+Auckland City Hospital
+Private Bag 92024
+Victoria St West
+Auckland 1142
+New Zealand
+
+Physical:
+Adult Emergency Department
+Auckland City Hospital
+Park Road
+Grafton
+Auckland</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Green Lane Research and Education Fund</fundingname>
+      <fundingaddress>GLREF Administrator
+Private Bag 92024 Victoria St West Auckland 1142 
+Physical 
+Cardiology Department
+Level 3
+Park Road Grafton Auckland</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Sinan Kamona</othercollaboratorname>
+      <othercollaboratoraddress>Mail:
+c/- Adult Emergency Department
+Auckland City Hospital
+Private Bag 92024
+Victoria St West
+Auckland 1142
+New Zealand
+
+Physical:
+Adult Emergency Department
+Auckland City Hospital
+Park Road
+Grafton
+Auckland</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Humidified High-Flow Oxygen Therapy in the Emergency Room (HOTER) study aims to determine whether using humidified high flow nasal oxygen compared with standard oxygen therapy, for adult patients who present with breathing difficulty to the Emergency Department is associated with improved outcomes for those patients. The outcomes we are interested in are the need for advanced breathing support (non-invasive positive pressure ventilation (NIPPV)/invasive positive pressure ventilation (IPPV)); hospital length of stay (LOS), Emergency Department LOS, improvement in vital signs, survival to hospital discharge and patient experience.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern X Regional Ethics Committee</ethicname>
+      <ethicaddress>Private Bag 92-522, Wellesley St
+Auckland</ethicaddress>
+      <ethicapprovaldate>3/04/2012</ethicapprovaldate>
+      <hrec>NTX/10/12/121</hrec>
+      <ethicsubmitdate>16/11/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Peter Jones</name>
+      <address>Department of Adult Emergency Medicine
+Auckland City Hospital 
+Private Bag 92042
+Victoria St West
+Auckland 1142</address>
+      <phone>+6493074949</phone>
+      <fax />
+      <email>peterj@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Peter Jones</name>
+      <address>Department of Adult Emergency Medicine
+Auckland City Hospital 
+Private Bag 92042
+Victoria St West
+Auckland 1142</address>
+      <phone>+6493074949</phone>
+      <fax />
+      <email>peterj@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Peter Jones</name>
+      <address>Department of Adult Emergency Medicine
+Auckland City Hospital 
+Private Bag 92042
+Victoria St West
+Auckland 1142</address>
+      <phone>+6493074949</phone>
+      <fax />
+      <email>peterj@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Peter Jones</name>
+      <address>Department of Adult Emergency Medicine Auckland City Hospital Private Bag 92042 Victoria St West Auckland 1142  </address>
+      <phone>+64 9 307 4949</phone>
+      <fax />
+      <email>peterj@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

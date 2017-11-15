@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="573">
+  <stage>Registered</stage>
+  <submitdate>12/09/2005</submitdate>
+  <approvaldate>16/09/2005</approvaldate>
+  <actrnumber>ACTRN12605000420640</actrnumber>
+  <trial_identification>
+    <studytitle>Randomised 12 month trial of Non-Invasive Ventilation (NIV) with or without oxygen versus oxygen alone in treatment of sleep disordered breathing in Cystic Fibrosis</studytitle>
+    <scientifictitle>Randomised 12 month trial of Non-Invasive Ventilation (NIV) with or without oxygen versus oxygen alone in treatment of sleep disordered breathing in Cystic Fibrosis</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cystic Fibrosis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Human genetics and inherited disorders</conditioncode1>
+      <conditioncode2>Cystic fibrosis</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients will be randomised to oxygen alone or NIV with or without oxygen, as titrated during polysomnography to maintain oxygen saturation &gt;=90% in all sleep stages. Patients will be followed-up over 12 months. Repeat sleep studies at 3, 6 and 12 months. They will be censored if they undergo lung transplant or die. They cease the trial if defined as a 'treatment failure'</interventions>
+    <comparator>Control group was oxygen alone</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of treatment failures (PaCO2&gt;60 or an increase &gt;10mmHg from baseline; or increase TcCO2&gt;10 from awake to sleep).</outcome>
+      <timepoint>This is time-to-event data, so "treatment failure" will be recorded if it occurs any time from baseline (day 0) within the 12 month time frame of the study.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Change in daytime PaCO2 from baseline to 12 months.</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sleep quality</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lung function</outcome>
+      <timepoint>Baseline, 3 months, 6 months, 12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Days on IV antibiotics</outcome>
+      <timepoint>Total days on IV antibiotics within the 12 month study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Days in hospital (excluding trial measurement days)</outcome>
+      <timepoint>Total days in hospital (excluding trial measurement days) within the 12 month study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Direct medical costs</outcome>
+      <timepoint>Total direct medical costs within the 12 month study</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Stable CF adults with total sleep time minimum average oxygen saturation &lt;=90%</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Acute unstable hypercapnic respiratory failure (PaCO2&gt;60; eligible for randomisation after acute treatment if stable off NIV for a minimum of two weeks); severe co-existing disease; persistent pneumothoraces; sputum colonised with burkolderia cepacia.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Computer-generated randomisation table. Block randomisation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/06/1998</anticipatedstartdate>
+    <actualstartdate>11/06/1998</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>16/04/2010</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize>31</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>SWSAHS</primarysponsorname>
+    <primarysponsoraddress>Level 11, KGV Building
+Missenden Road
+Camperdown NSW 2050
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>NHMRC Progress Grant</fundingname>
+      <fundingaddress>Director, Research Administration Section
+National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Last participant recruited 16/4/2010. Recruitment halted 2015 as no participant recruited in last 5 years. Data analysis ongoing.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Prince Alfred Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>29/05/1998</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Prince Charles Hospital</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>21/11/2002</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Bye</name>
+      <address>Department of Respiratory Medicine
+Royal Prince Alfred Hospital
+11 West
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 95157427</phone>
+      <fax>+61 2 95158196</fax>
+      <email>peter.bye@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tiffany Dwyer</name>
+      <address>Department of Respiratory Medicine
+Royal Prince Alfred Hospital
+11 West
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 95155234</phone>
+      <fax>+61 2 95158196</fax>
+      <email>tiffany.dwyer@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Bye</name>
+      <address>Respiratory Medicine
+Level 11
+RPA Hospital
+Missenden Road
+Camperdown NSW 2050</address>
+      <phone>+61 2 9515 7427</phone>
+      <fax />
+      <email>peter.bye@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,238 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372967">
+  <stage>Registered</stage>
+  <submitdate>17/05/2017</submitdate>
+  <approvaldate>18/05/2017</approvaldate>
+  <actrnumber>ACTRN12617000720314</actrnumber>
+  <trial_identification>
+    <studytitle>Phase 2 trial of alternating osimertinib with gefitinib in patients with EGFR-T790M mutation positive advanced non-small cell lung cancer</studytitle>
+    <scientifictitle>Phase 2 trial to determine the efficacy, safety, and feasibility of alternating osimertinib with gefitinib in patients with EGFR-T790M mutation positive advanced non-small cell lung cancer</scientifictitle>
+    <utrn />
+    <trialacronym>OSCILLATE</trialacronym>
+    <secondaryid>CTC 0152 / ALTG 16/005</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>EGFR-T790M mutation positive advanced non-small cell lung cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Osimertinib 80 mg daily for 8 weeks (Induction Phase).
+
+Gefitinib 250 mg daily for 4 weeks then osimertinib 80 mg daily for 4 weeks, and continue alternating (i.e. alternating 4 weekly cylces of each drug) until disease progression or unacceptable toxicity (Alternating Phase).
+
+Following disease progression and if deemed appropriate by the treating Investigator, Osimertinib 80 mg daily until further progression or unacceptable toxicity (Post-Progression Phase).
+
+Both Osimertinib and Gefitinib will be supplied as tablets for oral administration. Adherence will be monitored by counting returned empty drug packets.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression free survival rate according to RECIST v1.1</outcome>
+      <timepoint>At 12 months from the date of enrollment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Feasibility of alternating osimertinib and gefitinb defined by whether each participant is able to complete 6 months of study treatment without any dose interruption due to grade 3 - 5 adverse events</outcome>
+      <timepoint>At 6 months after starting study treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Progression (TTP) according to RECIST v1.1</outcome>
+      <timepoint>Measured every 8 weeks from time of enrollment to time of disease progression</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective tumour response rate (OTRR) defined as the proportion of participants with a confirmed complete or partial response according to RECIST v1.1, and response confirmed with a subsequent assessment at least 4 weeks later.</outcome>
+      <timepoint>Assessed every 8 weeks from the time of enrollment until disease progression </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival (OS)</outcome>
+      <timepoint>Time from enrollment until date of death</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety assessed by collection of adverse events (AEs) graded as per NCI-CTCAE v4.03</outcome>
+      <timepoint>AEs collected from the time of enrollment every 4  weeks until 30 days after last study dose</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tertiary outcome: Changes in plasma cfDNA levels for activating EGFR mutations and EGFR-T790M mutation over time</outcome>
+      <timepoint>Day 1 of each Cycle, Day 15 of Cycles 3 and 4, and end of alternating treatment phase</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tertiary outcome: Mechanisms of resistance in patients progressing on alternating osimertinib and gefitinb as identified in cfDNA (or where possible tumour biopsy) - Exploratory outcome</outcome>
+      <timepoint>Blood samples collected at Day 1 of each Cycle, Day 15 of Cycles 3 and 4, and end of alternating treatment phase. Optional tumour biopsy sample collected at time of disease progression.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Adults, aged 18 years and older, with histologically or cytologically confirmed metastatic or unresectable locally advanced NSCLC 
+2.	Prior therapy with an EGFR-TKI. Patients may also have received additional lines of treatment 
+3.	Documented evidence of EGFR-T790M mutation on tissue and/or plasma sample following disease progression on the most recent EGFR-TKI therapy (T790M mutation status will need to be re-confirmed in the event of an alternative systemic treatment following progression on the most-recent EGFR-TKI therapy).
+4.		Measurable disease according to RECIST version 1.1. 
+5.	Eastern Cooperative Oncology Group (ECOG) performance status 0-2 </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Previous or current treatment with osimertinib or other drugs that target EGFR-T790M mutations, e.g. CO-1686, HM61713, TAS-121
+2.	Contraindications to investigational product 
+3.	Any unresolved toxicity from prior therapy worse than CTCAE grade 1, except alopecia and grade 2 neuropathy due to prior platinum-based chemotherapy
+4.	Major surgery within 4 weeks, or palliative radiation therapy within 5 days before enrollment
+5.	Treatment with prohibited medications (e.g. concurrent anti-cancer therapy including other chemotherapy, or immunotherapy within 14 days prior to treatment)
+6.	Patients currently receiving (or unable to stop at least 1 week before starting osimertinib) potent inhibitors or inducers of cytochrome P450 (CYP) 3A4
+7.	Patient with symptomatic central nervous system (CNS) metastases who are neurologically unstable, or require increasing doses of steroids to manage CNS symptoms within 2 weeks prior to starting osimertinib. Patients with leptomeningeal carcinomatosis are also excluded 
+8.	Known history of interstitial lung disease from any cause 
+9.	Life expectancy of less than 3 months
+10.	Mean QT interval corrected for heart rate (QTc) &gt;= 470 ms OR any clinically important abnormalities in rhythm, conduction or morphology of resting ECG OR any factors that increases the risk of QTc prolongation or risk of arrhythmic events
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>A total sample size of 45 participants (allowing for 4 ineligible or non-evaluable) will distinguish the observed proportion alive and progression free at 12 months from 45% (not worthy of further research) versus 65% (worthy of further research) using a Simons two-stage minimax design with 90% power with a 1-sided type 1 error rate of 10%.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>31/08/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>45</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Sydney</primarysponsorname>
+    <primarysponsoraddress>NHMRC Clinical Trials Centre
+Lifehouse Level 6
+119143 Missenden Road
+Camperdown NSW 2050
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>AstraZeneca</fundingname>
+      <fundingaddress>47 Talavera Rd, Macquarie Park NSW 2113</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>Australasian Lung Cancer Trials Group</othercollaboratorname>
+      <othercollaboratoraddress>Level 2, 11 Finchley Street Milton QLD 4064</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this trial is to evaluate the efficacy, safety and feasibility of osimertinib and gefitinib for the treatment of EGFR-T790M mutation positive advanced non-small cell lung cancer.
+
+Who is it for?
+You may be eligible to enrol in this trial if you are aged 18 or over and have been diagnosed with EGFR-T790M mutation positive advanced non-small cell lung cancer which has acquired resistance to EGFR tyrosine kinase inhibitors (TKIs).
+
+Study details
+All participants enrolled in this trial will begin with induction therapy which involves taking an osimertinib tablet once per day for eight weeks. Participants will then move onto the alternating phase, which involves alternating four-weekly cycles of treatment with gefitinib and osimertinib (i.e. four weeks gefitinib then four weeks osimertinib) until disease progression or unacceptable side effects. Following progression, some participants may be eligible to continue with osimertinib treatment until further progression, depending on whether your doctor believes that this would be of benefit to you.
+
+All patients will be reviewed up to every four weeks by blood samples, CT scans and side effect assessments.
+
+It is hoped that the findings from this trial will provide information on whether alternating treatment with osimertinib and gefitinib is feasible, safe and effective for the treatment of EGFR-T790M mutation positive advanced non-small cell lung cancer.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Prince Alfred Hospital</ethicname>
+      <ethicaddress>Research Ethics and Governance Office
+Royal Prince Alfred Hospital
+Camperdown NSW 2050</ethicaddress>
+      <ethicapprovaldate>18/05/2017</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>13/03/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Ben Soloman</name>
+      <address>Peter MacCallum Cancer Centre
+305 Grattan Street
+Melbourne VIC 3000</address>
+      <phone>+61 3 8559 5000</phone>
+      <fax />
+      <email>Ben.Solomon@petermac.org</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Uzma Rayani</name>
+      <address>NHMRC Clinical Trials Centre
+Lifehouse Level 6
+119143 Missenden Road
+Camperdown NSW 2050
+</address>
+      <phone> +61 2 9562 5349  </phone>
+      <fax />
+      <email>oscillate@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Uzma Rayani</name>
+      <address>NHMRC Clinical Trials Centre
+Lifehouse Level 6
+119143 Missenden Road
+Camperdown NSW 2050</address>
+      <phone> +61 2 9562 5349  </phone>
+      <fax />
+      <email>oscillate@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371723">
+  <stage>Registered</stage>
+  <submitdate>27/10/2016</submitdate>
+  <approvaldate>31/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001502426</actrnumber>
+  <trial_identification>
+    <studytitle>Exploring a European Food Safety Authority health claim: Effect of Partial Sucrose Replacement with Fructose in sugary beverages on metabolic responses </studytitle>
+    <scientifictitle>Glycaemic, uricaemic and blood pressure effects of partial sucrose replacement with fructose in sugary beverages in young healthy adults</scientifictitle>
+    <utrn>U1111-1189-1340</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Postprandial glycaemic control</healthcondition>
+    <healthcondition>Postprandial uricaemic control</healthcondition>
+    <healthcondition>Postprandial blood pressure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Metabolic disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This will be a randomised crossover study involving five visits on five days. On two days, 12 healthy adults will receive beverages sweetened with 50g sucrose (duplicate control). On three days participants will receive beverages sweetened with 16.7g fructose + 33.3g sucrose; 25g fructose + 25g sucrose; and 33.3g fructose + 16.7g sucrose. Beverages will be consumed on mornings after an overnight fast. The order that the beverages are given will be randomised to each participant. Blood will be sampled via cannula by a registered nurse at intervals over two-hours following consumption of the beverages. The washout will be 2-7 days between treatments. All beverages will be given under supervision to ensure they are fully consumed. The study will be run by a MSc student in Human Nutrition under the supervision of a senior lecturer in the University of Otago Clinic Rooms.</interventions>
+    <comparator>A beverage sweetened with 50g sucrose will be used as the comparator/control.</comparator>
+    <control>Active</control>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Blood glucose response</outcome>
+      <timepoint>Blood glucose concentrations will be measured at baseline (before consumption) and at 15, 30, 45, 60, 75, 90 and 120  minutes thereafter</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Blood uric acid concentration</outcome>
+      <timepoint>Blood uric acid concentrations will be measured at baseline (before consumption) and at 15, 30, 45, 60, 75, 90 and 120 minutes thereafter</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Postprandial blood pressure using a digital automatic blood pressure monitor (OMRON model Hem-907)</outcome>
+      <timepoint>Blood pressure will be measured at baseline (before consumption) and at 15, 30, 45, 60, 75, 90 and 120 minutes thereafter.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants will be normoglycemic male and female adults aged between 18 and 60y inclusive. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Diagnosis of diabetes mellitus, cardiovascular disease, cancer, diseases of the digestive system; pregnant, known food allergies or taking medication that affects glucose absorption and metabolism.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The person who will determine whether a person is eligible for inclusion in the trial will be unaware, when this decision is made, to which order the person will be allocated. Allocation concealment will be achieved with the use of sealed opaque envelopes.</concealment>
+    <sequence>A biostatistician will randomise the order of beverage type using a computerised sequence generation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The study will be powered to detect a 30% difference in incremental area under the curve (iAUC) between the sucrose control and the blended sugar test beverages. A difference of 30% iAUC has been associated with clinical benefit (Wolever et al, 1992).  Using variability data from previous work, a sample size of 11 was adequate to detect a 30% reduction in iAUC with 80% power using the 5% level of significance. A sample of 12 was also sufficient to detect a 50% difference in uric acid AUC between control and test beverages. Blood pressure was a secondary outcome and the study was not powered for this factor.
+
+A mixed effects regression model will be used to determine if there are any significant differences between the sucrose control and the glycemic and uricaemic responses to the test beverages. The model will be adjusted for treatment order. Uric acid concentrations are sex dependent, therefore the uric acid data will also be adjusted for sex. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>25/02/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>19/09/2016</actualenddate>
+    <samplesize>12</samplesize>
+    <actualsamplesize>12</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>5/10/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>Department of Human Nutrition
+PO Box 56
+Dunedin 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago</fundingname>
+      <fundingaddress>Department of Human Nutrition
+PO Box 56
+Dunedin 9054
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>European beverage manufacturers are permitted to use health claims when fructose partially replaces sucrose on the basis that fructose raises blood sugars to a lesser extent when sucrose is fully exchanged for fructose. However, the claim relates to a one-third to two-third ratio of fructose:sucrose as being effective without confirmatory evidence. Additionally, fructose has the potential to acutely raise blood pressure and plasma uric acid, which would be regarded as undesirable effects. Hence the aim of this work is to test the glycaemic, uricaemic and blood pressure raising potential of sweetened beverages containing sucrose and fructose added in various proportions to test beverages. Our hypotheses are that partial replacement of sucrose with fructose will lower postprandial glycemic response and raise uricaemia with no effect on blood pressure.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Otago Human Ethics Committee</ethicname>
+      <ethicaddress>Department of Human Nutrition
+PO Box 56
+Dunedin 9054</ethicaddress>
+      <ethicapprovaldate>2/06/2015</ethicapprovaldate>
+      <hrec>15/075</hrec>
+      <ethicsubmitdate>12/05/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Bernard Venn</name>
+      <address>University of Otago
+Department of Human Nutrition
+PO Box 56
+Dunedin 9054</address>
+      <phone>+6434795068</phone>
+      <fax />
+      <email>bernard.venn@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bernard Venn</name>
+      <address>University of Otago
+Department of Human Nutrition
+PO Box 56
+Dunedin 9054</address>
+      <phone>+643 4795068</phone>
+      <fax />
+      <email>bernard.venn@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bernard Venn</name>
+      <address>University of Otago
+Department of Human Nutrition
+PO Box 56
+Dunedin 9054</address>
+      <phone>+643 4795068</phone>
+      <fax />
+      <email>bernard.venn@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Bernard Venn</name>
+      <address>Department of Human Nutrition
+PO Box 56
+Dunedin 9054</address>
+      <phone>+643 4795068</phone>
+      <fax />
+      <email>bernard.venn@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

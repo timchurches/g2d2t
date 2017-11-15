@@ -1,0 +1,973 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4840">
+  <stage>Registered</stage>
+  <submitdate>12/02/2015</submitdate>
+  <approvaldate>12/02/2015</approvaldate>
+  <nctid>NCT02366143</nctid>
+  <trial_identification>
+    <studytitle>A Study of Atezolizumab in Combination With Carboplatin Plus (+) Paclitaxel With or Without Bevacizumab Compared With Carboplatin+Paclitaxel+Bevacizumab in Participants With Stage IV Non-Squamous Non-Small Cell Lung Cancer (NSCLC)</studytitle>
+    <scientifictitle>A Phase III, Open-Label, Randomized Study of Atezolizumab (MPDL3280A, Anti-PD-L1 Antibody) in Combination With Carboplatin+Paclitaxel With or Without Bevacizumab Compared With Carboplatin + Paclitaxel + Bevacizumab in Chemotherapy-Naïve Patients With Stage IV Non-Squamous Non-Small Cell Lung Cancer</scientifictitle>
+    <utrn />
+    <trialacronym>IMpower150</trialacronym>
+    <secondaryid>2014-003207-30</secondaryid>
+    <secondaryid>GO29436</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Carcinoma, Non-Small-Cell Lung</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody
+Treatment: drugs - Bevacizumab
+Treatment: drugs - Carboplatin
+Treatment: drugs - Paclitaxel
+
+Experimental: Arm A (Atezolizumab+Paclitaxel+Carboplatin) - Participants will receive intravenous (IV) infusion of atezolizumab on Day 1 of each 21-day cycle followed by IV infusion of paclitaxel and carboplatin on Day 1 of each 21-day cycle for 4 or 6 cycles or until loss of clinical benefit whichever occurs first, during induction treatment phase. Participants will receive IV infusion of atezolizumab during maintenance treatment phase until loss of clinical benefit.
+
+Experimental: Arm B (Atezolizumab+Bevacizumab+Paclitaxel + Carboplatin) - Participants will receive IV infusion of atezolizumab and bevacizumab on Day 1 of each 21-day cycle followed by IV infusion of paclitaxel and carboplatin on Day 1 of each 21-day cycle for 4 or 6 cycles or until loss of clinical benefit whichever occurs first, during induction treatment phase. Participants will receive IV infusion of atezolizumab until loss of clinical benefit and bevacizumab until progressive disease, unacceptable toxicity, or death during maintenance treatment phase.
+
+Active Comparator: Arm C (Bevacizumab+Paclitaxel+Carboplatin) - Participants will receive IV infusion of bevacizumab on Day 1 of each 21-day cycle followed by IV infusion of paclitaxel and carboplatin on Day 1 of each 21-day cycle for 4 or 6 cycles or loss of clinical benefit whichever occurs first, during induction treatment phase. Participants will receive IV infusion of bevacizumab during maintenance treatment phase until progressive disease, unacceptable toxicity, or death.
+
+
+Treatment: drugs: Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody
+Atezolizumab will be administered as IV infusion at a dose of 1200 milligrams (mg) on Day 1 of each 21-day cycle until loss of clinical benefit.
+
+Treatment: drugs: Bevacizumab
+Bevacizumab will be administered as IV infusion at a dose of 15 milligrams per kilogram (mg/kg) on Day 1 of each 21-day cycle until progressive disease, unacceptable toxicity, or death.
+
+Treatment: drugs: Carboplatin
+Carboplatin will be administered at area under the concentration-time curve (AUC) 6 milligrams per milliliter per minute (mg/mL/min) on Day 1 of each 21-day cycle for 4 or 6 cycles or until loss of clinical benefit whichever occurs first.
+
+Treatment: drugs: Paclitaxel
+Paclitaxel will be administered as IV infusion at a dose of 200 milligrams per square meter (mg/m^2) on Day 1 of each 21-day cycle for 4 or 6 cycles or until loss of clinical benefit whichever occurs first.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression Free Survival (PFS), as Determined by the Investigator using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1)</outcome>
+      <timepoint>Baseline until disease progression or death, whichever occurs first (up to approximately 32 months)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS)</outcome>
+      <timepoint>Baseline until death (up to approximately 32 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>PFS as Determined by the Independent Review Facility (IRF) Using RECIST v1.1</outcome>
+      <timepoint>Baseline until disease progression or death, whichever occurs first (up to approximately 40 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With an Objective Response (OR) (Complete Response [CR] or Partial Response [PR]) as Determined by the Investigator Using RECIST v1.1</outcome>
+      <timepoint>Baseline until disease progression or death, whichever occurs first (up to approximately 40 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Who are Alive at Years 1 and 2</outcome>
+      <timepoint>Years 1 and 2</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Deterioration (TTD) in Patient-Reported Lung Cancer Symptoms Determined by European Organization for Research and Treatment of Cancer (EORTC) Quality-of-Life Questionnaire-Core 30 (QLQ-C30) Score</outcome>
+      <timepoint>Baseline up to approximately 40 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>TTD in Patient-Reported Lung Cancer Symptoms as Determined by EORTC Quality-of-Life Questionnaire-Core Lung Cancer Module 13 (QLQ-LC13) Score</outcome>
+      <timepoint>Baseline up to approximately 40 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Patient-Reported Lung Cancer Symptoms Score Using the Symptoms in Lung Cancer (SILC) Scale</outcome>
+      <timepoint>Baseline up to approximately 40 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Adverse Events</outcome>
+      <timepoint>Baseline up to approximately 40 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Anti-Therapeutic Antibodies (ATAs) to Atezolizumab</outcome>
+      <timepoint>Arms A and B: Baseline up to approximately 40 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Observed Serum Concentration (Cmax) of Atezolizumab - The predose samples will be collected on the same day of treatment administration. The infusion duration of atezolizumab will be of 30-60 minutes.</outcome>
+      <timepoint>Arms A and B: Predose on Day (D) 1 of Cycle (Cy) 1,2,3,4,8,16 and every 8 cycles thereafter up to end of treatment (EOT) (approximately 40 months), 0.5 hours (h) post-infusion on D1 of Cy1,3, at 120 days after EOT (up to approximately 40 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimum Observed Serum Concentration (Cmin) of Atezolizumab Prior to Infusion</outcome>
+      <timepoint>Arms A and B: Predose on D1 of Cy 1, 2, 3, 4, 8, 16 and every 8 cycles thereafter up to end of treatment (EOT) (approximately 40 months), at 120 days after EOT (up to approximately 40 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma Concentrations for Carboplatin</outcome>
+      <timepoint>Arm A, B and C: Predose (same day of treatment administration), 5-10 minutes before end of carboplatin infusion, 1 h after carboplatin infusion (infusion duration=15 to 30 minutes) on D1 of Cy1,3 (1Cy=21 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma Concentrations for Paclitaxel</outcome>
+      <timepoint>Arm A, B and C: Predose (same day of treatment administration), 5-10 minutes before end of paclitaxel infusion, 1 h after paclitaxel infusion (infusion duration=3 h) on D1 of Cy1,3 (1Cy=21 days)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cmax of Bevacizumab</outcome>
+      <timepoint>Arms A and B: Predose on Day (D) 1 of Cycle (Cy) 1,2,3,4,8,16 and every 8 cycles thereafter up to end of treatment (EOT) (approximately 40 months), 0.5 hours (h) post-infusion on D1 of Cy1,3, at 120 days after EOT (up to approximately 40 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cmin of Bevacizumab</outcome>
+      <timepoint>Arm B and C: Predose (same day of treatment administration) on D1 of Cy1,3 (1 Cy=21 days), at bevacizumab discontinuation (up to approximately 44 months)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Eastern Cooperative Oncology Group performance status 0 or 1
+
+          -  Histologically or cytologically confirmed, Stage IV non-squamous NSCLC
+
+          -  Participants with no prior treatment for Stage IV non-squamous NSCLC
+
+          -  Known PD-L1 status as determined by immunohistochemistry assay performed on previously
+             obtained archival tumor tissue or tissue obtained from a biopsy at screening
+
+          -  Measurable disease as defined by RECIST v1.1
+
+          -  Adequate hematologic and end organ function</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Cancer-Specific Exclusions:
+
+          -  Active or untreated central nervous system metastases
+
+          -  Malignancies other than NSCLC within 5 years prior to randomization, with the
+             exception of those with a negligible risk of metastasis or death treated with expected
+             curative outcome
+
+        General Medical Exclusions:
+
+          -  Pregnant or lactating women
+
+          -  History of autoimmune disease
+
+          -  History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced
+             pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening
+             chest computed tomography scan. History of radiation pneumonitis in the radiation
+             field (fibrosis) is permitted
+
+          -  Positive test for human immunodeficiency virus
+
+          -  Active hepatitis B or hepatitis C
+
+          -  Severe infection within 4 weeks prior to randomization
+
+          -  Significant cardiovascular disease
+
+          -  Illness or condition that interferes with the participant's capacity to understand,
+             follow and/or comply with study procedures
+
+        Exclusion Criteria Related to Medications:
+
+          -  Prior treatment with cluster of differentiation 137 agonists or immune checkpoint
+             blockade therapies, anti-programmed death-1, and anti-PD-L1 therapeutic antibodies</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>31/03/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>1202</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>15/07/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,SA,TAS,VIC,WA</recruitmentstate>
+    <hospital>Chris O'Brien Lifehouse - Camperdown</hospital>
+    <hospital>Concord Repatriation General Hospital - Concord</hospital>
+    <hospital>Prince of Wales Hospital; Oncology - Randwick</hospital>
+    <hospital>Nepean Cancer Care Centre - Sydney</hospital>
+    <hospital>Prince Charles Hospital; Department of Medical Oncology - Chermside</hospital>
+    <hospital>Townsville Hospital - Townsville</hospital>
+    <hospital>Princess Alexandra Hospital - Woolloongabba</hospital>
+    <hospital>Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Adelaide Cancer Centre - Kurralta Park</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Launceston General Hospital - Launceston</hospital>
+    <hospital>Frankston Hospital - Frankston</hospital>
+    <hospital>Austin Health - Heidelberg</hospital>
+    <hospital>Cabrini Hospital Malvern - Malvern</hospital>
+    <hospital>The Alfred Hospital - Prahan</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2139 - Concord</postcode>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>2747 - Sydney</postcode>
+    <postcode>4032 - Chermside</postcode>
+    <postcode>4810 - Townsville</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>5037 - Kurralta Park</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>7250 - Launceston</postcode>
+    <postcode>3199 - Frankston</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <postcode>3144 - Malvern</postcode>
+    <postcode>3181 - Prahan</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Hawaii</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>West Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Caba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Córdoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>La Rioja</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Pergamino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Provincia de Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Rosario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Rosa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Viedma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>MG</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>PR</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>RN</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>RS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Plovdiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Bulgaria</country>
+      <state>Sofia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Temuco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dijon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Mans</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pessac</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Denis Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Quentin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Villejuif</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayreuth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bielefeld</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bochum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt am Main</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Großhansdorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Halle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hemer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Homburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Koln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Loewenstein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Regensburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Rheine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Campania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Liguria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Piemonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sardegna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sicilia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kyoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Miyagi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Niigata-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Wakayama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Latvia</country>
+      <state>Riga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Siauliai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Vilnius</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Queretaro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Toluca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>'S Hertogenbosch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Alkmaar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Blaricum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Breda</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>EDE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Hoofddorp</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Maastricht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nieuwegein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Sittard-Geleen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Utrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Zutphen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Arequipa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Lima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Trujillo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Coimbra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Faro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moskovskaja Oblast</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Pushkin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-na-donu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Volgograd</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Bardejov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Bratislava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Poprad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cantabria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Islas Baleares</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Las Palmas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Orense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cordoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Lugo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bruderholz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Luzern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>St. Gallen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Changhua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Liuying Township</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Putzu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taoyuan City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkiv Governorate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kiev Governorate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Podolia Governorate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Chernivtsi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kharkiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kryvyi Rih</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kyiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lutsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Poltava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Sumy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Uzhhorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Zaporizhzhya</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This randomized, open-label study will evaluate the safety and efficacy of atezolizumab (an
+      engineered anti-programmed death-ligand 1 [PD-L1] antibody) in combination with
+      carboplatin+paclitaxel with or without bevacizumab compared with treatment with
+      carboplatin+paclitaxel+bevacizumab in chemotherapy-naïve participants with Stage IV
+      non-squamous NSCLC. Participants will be randomized in a 1:1:1 ratio to Arm A
+      (Atezolizumab+Carboplatin+Paclitaxel), Arm B
+      (Atezolizumab+Carboplatin+Paclitaxel+Bevacizumab), or Arm C
+      (Carboplatin+Paclitaxel+Bevacizumab).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02366143</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

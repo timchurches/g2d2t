@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371699">
+  <stage>Registered</stage>
+  <submitdate>24/10/2016</submitdate>
+  <approvaldate>28/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001498482</actrnumber>
+  <trial_identification>
+    <studytitle>CRT-OPT- A randomized trial of benefit and cost-effectiveness of Cardiac Resynchronization Therapy (CRT) optimization in heart failure</studytitle>
+    <scientifictitle>CRT-OPT- A randomized trial of benefit and cost-effectiveness of Cardiac Resynchronization Therapy (CRT) optimization in heart failure</scientifictitle>
+    <utrn />
+    <trialacronym>CRT-OPT</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Chronic Heart Failure</healthcondition>
+    <healthcondition>Cardiac resynchronization Therapy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomized, double-blind, cross-over trial to evaluate the utility of echocardiographic optimization of the AV delay in symptomatic (Functional Class [FC] III) CHF patients who have had CRT implanted.
+Optimization is a process undertaken by a pacing technician during echo. Those who are randomized to the optimization group (known only to the study Nurse and the technician) will have their CRT device 'optimized ' by radio frequency. This procedure can take between 15 and 30 minutes and alters the amount of electrical current delivered to the pacing wires of the device in order to produce "optimal' pumping by the heart chambers. It is non-invasive and the procedure is not a new technique. It is not universally used though as its efficacy in producing improved outcomes has yet to be determined.  </interventions>
+    <comparator>Those who are randomized to the control arm of the study (known only to the study nurse and pacing technician) will undergo the same echocardiographic procedures, however their device will not be "optimized' by a radiofrequency device as those in the intervention arm will. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>	Functional capacity as defined by 6-MWT distance.</outcome>
+      <timepoint>6 months post optimization</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Naughton treadmill protocol stress test
+	
+	
+	
+	</outcome>
+      <timepoint>6 months post optimzation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>QoL questionnaires: EQ5D, AQoL and MLHFQ
+</outcome>
+      <timepoint>6 months post optimzation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage days alive and out of hospital score as determined by medical record review</outcome>
+      <timepoint>6 months post optimization</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>B-type natriuretic peptide assessed by serum assay</outcome>
+      <timepoint>6 months post optimization</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>composite secondary outcome- Left ventricular volumes/function[2D/3D]/strain analysis as determined by echocardiographic assessment</outcome>
+      <timepoint>6 months post optimization</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incremental cost effectiveness ratio for CRT optimization (vs non-optimization) from a health care payers perspective as determined by number of in-hospital days identified through medical record review
+</outcome>
+      <timepoint>6 months post optimization</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>*  History of implanted CRT device
+*  Device optimization performed at time of implant [e.g. QuickOpt for St Jude etc.]
+*  In sinus rhythm 
+*  Able to perform a 6-minute walk test 
+*  No more than moderate valvular heart disease
+
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>*  Life expectancy &lt;1 year
+*  In atrial fibrillation
+*  Prosthetic mitral valve replacement. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The information gathered in this study will permit the development of a Markov model to study cost-effectiveness. Requisite parameters will relate to transition probabilities (e.g. frequency of CHF admission, new AF, lead revision), utilities (derived from EQ5D and AQoL before and after treatment in each group) and cost (based on patient self-report) including medication and pathology costs, days of hospitalization, specialist appointments and costs of imaging.
+ Power calculations. In our preliminary data, baseline 6MW was 384m, and there was a 30m increment post-optimization. This matches our meta-analysis, where 5 of 6 studies showed an improvement from 11-75m. A study of 100 patients per group would allow us to identify an 8% improvement of 6MW (SD of 80) at a p=0.05, and cluster-adjusted power of 80% (assuming intra- class correlation 0.01). This will also provide 80% power to show an 8% change in exercise capacity (baseline 3.0 +/- 0.7 METS).
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>28/11/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>29/05/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>28/11/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD,TAS,VIC</recruitmentstate>
+    <hospital>Nambour General Hospital - Nambour</hospital>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <postcode>4560 - Nambour</postcode>
+    <postcode>3004 - Prahran </postcode>
+    <postcode>7000 - Hobart</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>The Baker IDI</primarysponsorname>
+    <primarysponsoraddress>75 Commercial Road, Melbourne Victoria 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Heart Foundation</fundingname>
+      <fundingaddress>155 Hutt Street, Adelaide South Australia 5000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>University of Queensland</sponsorname>
+      <sponsoraddress>UQ school of Medicine
+Princess Alexandra Hospital
+Ipswich Rd
+Woolloongabba Qld 4102</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim is to determine whether sequential optimization of cardiac resynchronization therapy (CRT) can improve outcome in advanced chronic heart failure (CHF). The efficacy of this strategy will be established by assessment of functional capacity using measurement of 6-minute walk test distance (6MWT), B-type natriuretic peptide (BNP), echocardiographic measures and quality of life (QoL, based on a disease specific questionnaire: Minnesota Living with Heart Failure questionnaire, MLHFQ, and the multi-attribute utility indices: EQ-5D and Assessment of Quality of Life (AQoL). The cost- effectiveness of the strategy will also be assessed, relative to non-optimization. The hypotheses are that optimization of atrioventricular delay (AVD) setting will lead to (1) improved exercise capacity (2) improved BNP, LV structure and QoL over the ensuing 6 months, and be (3) cost-effective.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Alfred Ethics Committee</ethicname>
+      <ethicaddress>260 Kooyong Road, Caulfield Victoria 3162</ethicaddress>
+      <ethicapprovaldate>15/03/2016</ethicapprovaldate>
+      <hrec>HREC/16/ALFRED/64 </hrec>
+      <ethicsubmitdate>15/03/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Tony Stanton</name>
+      <address>University of Queensland 
+School of Medicine
+Princess Alexandra Hospital
+Ipswich Rd
+Woolloongabba Q 4102</address>
+      <phone>+61 429117050</phone>
+      <fax />
+      <email>t.stanton@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Sarah McLennan</name>
+      <address>University of Queensland 
+School of Medicine
+Princess Alexandra Hospital
+Ipswich Rd
+Woolloongabba Q 4102</address>
+      <phone>+61 7 3176 7500</phone>
+      <fax />
+      <email>s.mclennan1@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Tony Stanton</name>
+      <address>University of Queensland 
+School of Medicine
+Princess Alexandra Hospital
+Ipswich Rd
+Woolloongabba Q 4102</address>
+      <phone>+61 429117050</phone>
+      <fax />
+      <email>t.stanton@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

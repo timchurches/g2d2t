@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364200">
+  <stage>Registered</stage>
+  <submitdate>7/05/2013</submitdate>
+  <approvaldate>2/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000858796</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of morphine on obstructive sleep apnea</studytitle>
+    <scientifictitle>In men with obstructive sleep apnea, what is the effect of a common clinical dose of oral slow-release morphine, compared to placebo on overnight blood oxygen levels, respiratory control and physiological causes of obstructive sleep apnea during sleep. </scientifictitle>
+    <utrn>U1111-1142-7778 </utrn>
+    <trialacronym>MorphOSA</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Obstructive sleep apnea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Study design: double-blind, placebo-controlled crossover study in male obstructive sleep apnea patients.
+
+Treatment arm: Oral slow-release morphine tablets in capsules (40mg MS Contin) vs. placebo. Each intervention will be taken 4 hours before sleep. Patients will be monitored overnight.
+
+1 week washout between sleep studies (a total of 2-4 nights will be required). 
+
+</interventions>
+    <comparator>Placebo: Oral glucose tablets (40mg) in capsules 4 hours prior to sleep. Participants will be monitored overnight.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Sleep time with SpO2 (oxygen) &lt;90% (T90). This is calculated by measuring the amount of time that the oxygen levels fall below 90% during overnight polysomnography (sleep study)  
+</outcome>
+      <timepoint>Total amount of time (minutes) oxygen levels fall below 90% during each overnight study</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Upper airway muscle responsiveness (Electromyography) </outcome>
+      <timepoint>Monitored throughout participant's sleep in each overnight study on drug vs. placebo </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Plasma morphine, M3G and M6G will be assayed by the LC-MS method. </outcome>
+      <timepoint>Blood draws (5ml) taken at 9:00pm in the evening (3.5 hours post dose) and at 7am the following morning.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Genotyping data (A118G OPRM1 and ABCB1) (Jonckheere-Terpstra Test)</outcome>
+      <timepoint>Blood draws (5ml) taken at 9:00pm in the evening (3.5 hours post dose) and at 7am the following morning.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Upper airway collapsibility (Pcrit) </outcome>
+      <timepoint>Monitored throughout participant's sleep in each overnight study on drug vs. placebo </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Respiratory arousal threshold (negative pharyngeal pressure immediately prior to arousal from sleep using an epiglottic pressure sensor inserted via the nostril)
+
+</outcome>
+      <timepoint>Monitored throughout participant's sleep in each overnight study on drug vs. placebo </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Standard polysomnography measures during overnight sleep studies, including but not limited to apnea-hypopnea index (AHI), oxygen saturation nadir, average oxygen saturation, oxygen desaturation index (ODI) and arousal index (AI). </outcome>
+      <timepoint>Monitored throughout participant's sleep in each overnight study on drug vs. placebo </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>(Physiology): Ventilatory control. Measured using a breathing mask as the ventilatory response (litres per minute) to carbon dioxide (mmHg).</outcome>
+      <timepoint>Awake ventilatory control tests will be evaluated 3.5 hours post morphine/placebo dose; Sleep physiology measurements will be performed 1 hour post sleep onset at various occasions during consolidated sleep</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>- Men aged between 18-65 years; BMI &lt; 40 kg/m2; awake SpO2&gt;90%
+- Screening PSG: OSA patients: AHI &gt;= 5, SpO2 nadir &gt;= 60%.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Do not meet the inclusion criteria listed above or unwilling to follow the study protocol. - Shift workers and/or patients with other significant sleep disorders such as PLMS. - Severe medical and/or psychiatric diseases other than sleep aponea. - History of drug abuse and/or urine drug test positive to narcotic or other illicit drugs and/or history of allergy to morphine. - Subjects with current physical complaints (eg. respiratory infections or rhinitis) will not be included until symptoms are clear for 4 weeks. - Certain concomitant CNS active drug use such as hypno-sedatives  and antipsychotics. Antidepressants will not be a specific exclusion criteria. - Creatinine clearance (Cockroft-Gault) &lt; 60 ml/min; LFTs &gt; 2x ULN. - Patients with a known history of CO2 retention (PCO2&gt;45mmHg during wakefulness).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Treatment assignment will be determined according to a computer generated randomisation list prepared by a research pharmacist not involved with the study procedures. </concealment>
+    <sequence>Stratified random sampling will be used.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>We will recruit 55 patients assuming a dropout of 2 patients to have 53 completing patients.
+
+The Primary outcome measure is the time spent below 90% oxygen saturation as measured by overnight pulse oximetry. The trial has been been powered to detect a 7 minute difference between morphine and placebo based on a 15.4 minute standard deviation observed in our pilot study with 90% power and a false positive rate of 5% (n=53). We will use a mixed model analysis of variance procedure classifying patients as random effects and the drug and treatment order as fixed effects to test this and the secondary variables for statistical significance. 
+
+We also plan to undertake subgroup analyses to test inside a mixed model whether sleep apnea severity changes the effect of morphine on primary and secondary outcomes by classifying patients as mild or moderate-severe (AHI above or below 20). A test of group*drug will be used to to test for effect modification using an alpha of 0.05 for significance. We will also test AHI as a linear effect modifying variable in sensitivity analyses.
+
+Linear regression will be used to test whether the placebo-adjusted effect of morphine on the primary outcome is associated with the following: plasma morphine levels (and genetic markers for morphine metabolism), wake CO2 threshold, Wake slope of ventilatory response to CO2, Basal Ventilation (litres/minute), Body Mass Index and Upper airway physiological variables (loop gain, muscle response, Pcrit, arousal threshold). </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>7/08/2013</anticipatedstartdate>
+    <actualstartdate>21/08/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>21/08/2015</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>60</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>21/08/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Royal Prince Alfred Hospital - Camperdown</hospital>
+    <hospital>Prince of Wales Hospital - Randwick</hospital>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2031 - Randwick</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Woolcock Institute of Medical Research</primarysponsorname>
+    <primarysponsoraddress>431 Glebe Point Rd, Glebe, NSW 2039</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council (NHRMC)</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to investigate the effects of morphine on obstructive sleep apnoea (OSA). Specifically, we will
+measure the effects of a common clinical dose of morphine on sleep, respiratory control, and upper airway physiology.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sydney Local Health District Ethics Review Committee (RPAH Zone)</ethicname>
+      <ethicaddress>c/- Research Development Office
+Royal Prince Alfred Hospital
+Missenden Road
+CAMPERDOWN NSW 2050</ethicaddress>
+      <ethicapprovaldate>2/05/2013</ethicapprovaldate>
+      <hrec>HREC/13/RPAH/64</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>David Wang</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road, Glebe, NSW 2039</address>
+      <phone>+61291140446</phone>
+      <fax />
+      <email>david.wang@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Luke Rowsell</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road, Glebe, NSW 2039</address>
+      <phone>+61291140447</phone>
+      <fax />
+      <email>luke.rowsell@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Luke Rowsell</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road, Glebe, NSW 2039</address>
+      <phone>+61291140447</phone>
+      <fax>+612 9114 0010</fax>
+      <email>luke.rowsell@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Luke Rowsell</name>
+      <address>Woolcock Institute of Medical Research
+431 Glebe Point Road, Glebe, NSW 2039</address>
+      <phone>+61291140447</phone>
+      <fax>+612 9114 0010</fax>
+      <email>luke.rowsell@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

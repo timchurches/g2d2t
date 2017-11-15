@@ -1,0 +1,212 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364774">
+  <stage>Registered</stage>
+  <submitdate>14/08/2013</submitdate>
+  <approvaldate>20/08/2013</approvaldate>
+  <actrnumber>ACTRN12613000918729</actrnumber>
+  <trial_identification>
+    <studytitle>Assessing support needs of carers in palliative care</studytitle>
+    <scientifictitle>Implementing and evaluating the impact of the Carer Support Needs Assessment Tool (CSNAT) in community palliative care</scientifictitle>
+    <utrn />
+    <trialacronym>CSNAT</trialacronym>
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>mental health</healthcondition>
+    <healthcondition>public health</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Studies of normal psychology, cognitive function and behaviour</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health promotion/education</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The CSNAT is used to elicit carer concerns in a systematic way.It has two sets of items administered together on the form and it takes 15 minutes to complete the form. The CSNAT is administered by the nurse face to face during the home visit:
+-	the first set covers support that enables the carer to care for the patient at home, such as understanding the patients illness; knowing what to expect in the future; knowing who to contact; managing symptoms and medicines; providing personal care (dressing and toileting); equipment; talking to care recipient about his or her illness.
+-	the second set covers support for the carer in their caring role, such as looking after own health; dealing with feelings and worries; practical help; emotional support and respite. 
+A stepped wedge design (explained under design section) to assess the impact of the intervention, an intervention group using CSNAT and a control group using standard care, with 220 carers in each group (total 440 carers). Data collection will span over 2 years.</interventions>
+    <comparator>standard treatment means there is no CSNAT form to complete.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>quality of life as measured by SF12</outcome>
+      <timepoint>baseline, at 4 weeks during caring journey and then at 3 months post bereavement.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>caregiver strain and distress as measured by FACQ-PC</outcome>
+      <timepoint>baseline, 4 weeks from baseline </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>grief as measured by TRIG</outcome>
+      <timepoint>3 months post bereavement</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria: Resident carer (co-habiting); patients and carers are adults; carer reads and writes English; carer has no cognitive impairment; patient with cancer and non-cancer diagnoses.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Carer cannot read or write English, Carer has cognitive impairment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A stepped wedge design or multiple baseline methodology is used to trial this intervention, where sites start using the intervention at different time points (stepped sequence). allocation is not concealed.</concealment>
+    <sequence>All bases will initially collect data at all measurement points from carers (control). This data collection before the intervention will provide a ‘baseline’ understanding of the underlying trends i.e. changes in the outcome measures as the patient deteriorates and become more dependent on palliative care and any departmental and cyclical (e.g. seasonal) effects to be estimated. Rather than randomizing individual carers to the intervention group, sites or bases will be randomly selected to commence using the intervention at different time points after collection of control data. 
+stratified allocation by centre or nursing base.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>all participants in the three nursing bases are controls, and then the intervention is introduced one base at a time every three months until all participants in the three bases are in the intervention group.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analysis: Data will be analysed using the SPSS statistical software package. Analyses will include standard descriptive statistics, independent and paired two-tailed Students t-tests, and two-way repeated measures (group x time) analysis of variance. All tests will be two-tailed and an alpha level of 0.05 set as the criterion for statistical significance. 
+Carer outcomes between the two groups (intervention and control) will be compared using univariate analyses. Recruitment bias will be assessed by comparing demographic and clinical variables for participants with those who decline participation using t-tests or Mann-Whitney U tests for continuous variables and chi-squared tests for categorical variables. Possible differential attrition will be assessed by comparing baseline characteristics of those who withdraw with those who remain in the study using t-tests or Mann-Whitney U tests for continuous variables and chi-squared tests for categorical variables.  
+
+Sample Size Requirements and Power calculation:
+Previous research has found that carers who felt psychologically unsupported during caregiving report worse mental health post bereavement (effect size 0.67). Assuming a more modest effect size of 0.41for the primary measure, a sample size of 95 in each group (intervention and control) would give 80% power to demonstrate an effect of the intervention at alpha &lt;0.05, two-tailed test between two independent groups. In order to achieve a total of 190 carers, we will need to recruit 63 carers from each site to complete measurements at all time points (including 3 months post bereavement).  
+
+Traditional statistical methods rely on the assumption of independent observations. Since the intervention is to be delivered by the same staff at each base, independence of carer responses within each site cannot be assumed and ignoring this site-level clustering will result in tests with Type 1 errors greater than a nominal level of 5% and p-values that overstate the significance of the results. Therefore a design effect has been incorporated into our sample size calculation. This effect is calculated as 1+(K-1) ICC, where K=63 average number of carers per site and ICC = 0.01. Thus, the required sample size is 95x1.62=154 carers per group. The required final sample size of 308 carers or about 100 carers per base, as calculated above for the primary outcome measure, will allow us to test for effect sizes of the same magnitude for the secondary outcomes.
+
+We estimate that there will be a 30% attrition rate overall. This implies that 308/0.70 = 440 carers are needed at the pre-intervention measurement data collections or 220 carers in each group (intervention and control). In order to achieve this, each of the three bases will need to recruit about 147 carers over 15 months, this means on average 37 patients per timeband per cluster. These sample sizes are very feasible based on the fact that on average 200 new patient referrals are received per month.    
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>6/03/2012</anticipatedstartdate>
+    <actualstartdate>6/03/2012</actualstartdate>
+    <anticipatedenddate>6/03/2012</anticipatedenddate>
+    <actualenddate />
+    <samplesize>440</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Silver Chain</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Curtin University</primarysponsorname>
+    <primarysponsoraddress>GPO Box U1987
+Perth WA 6845</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Australian Research Council</fundingname>
+      <fundingaddress>GPOBox 2702
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other</sponsortype>
+      <sponsorname>Silver Chain</sponsorname>
+      <sponsoraddress>Silver Chain House
+6 Sundercombe St
+Osborne Park WA 6017</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The overall aim of this project is to investigate the extent to which a carer assessment tool of support needs in end of life home care (CSNAT) improves perceived support, carers psychological and physical wellbeing, carer burden, bereavement outcomes and the likelihood of the patient achieving their preferred place of death. The CSNAT is a brief tool (14 items on two A5 pages), and is used to elicit carer concerns early, in a systematic way to achieve better outcomes pre and post bereavement. The tool has two sets of items which cover:
+1.	support that enables the carer to care for the patient at home
+2.  support for the carer in their caring role
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Curtin University
+GPO Box U1987
+Perth WA 6845</ethicaddress>
+      <ethicapprovaldate>13/05/2011</ethicapprovaldate>
+      <hrec>HR 24/2011</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Silver Chain Research Ethics Committee</ethicname>
+      <ethicaddress>Silver Chain House
+6 Sundercombe St
+Osborne Park WA 6017</ethicaddress>
+      <ethicapprovaldate>27/02/2012</ethicapprovaldate>
+      <hrec>SC 068</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Samar Aoun</name>
+      <address>School of Nursing and Midwifery
+Curtin University
+GPO Box U1987
+Perth WA 6845</address>
+      <phone>+61419911940</phone>
+      <fax />
+      <email>s.aoun@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Samar Aoun</name>
+      <address>School of Nursing and Midwifery
+Curtin University
+GPO Box U1987
+Perth WA 6845</address>
+      <phone>+61419911940</phone>
+      <fax />
+      <email>s.aoun@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Samar Aoun</name>
+      <address>School of Nursing and Midwifery
+Curtin University
+GPO Box U1987
+Perth WA 6845</address>
+      <phone>+61419911940</phone>
+      <fax />
+      <email>s.aoun@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Samar Aoun</name>
+      <address>School of Nursing and Midwifery
+Curtin University
+GPO Box U1987
+Perth WA 6845</address>
+      <phone>+61419911940</phone>
+      <fax />
+      <email>s.aoun@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,587 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3087">
+  <stage>Registered</stage>
+  <submitdate>10/02/2011</submitdate>
+  <approvaldate>10/02/2011</approvaldate>
+  <nctid>NCT01302392</nctid>
+  <trial_identification>
+    <studytitle>A Study of Carfilzomib vs Best Supportive Care in Subjects With Relapsed and Refractory Multiple Myeloma</studytitle>
+    <scientifictitle>A Randomized, Open-label, Phase 3 Study of Carfilzomib vs Best Supportive Care in Subjects With Relapsed and Refractory Multiple Myeloma</scientifictitle>
+    <utrn />
+    <trialacronym>FOCUS</trialacronym>
+    <secondaryid>PX-171-011</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Multiple Myeloma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Carfilzomib
+Treatment: drugs - Best Supportive Care
+
+Active Comparator: Best Supportive Care - 
+
+Experimental: Carfilzomib - 
+
+
+Treatment: drugs: Carfilzomib
+20mg/m² IV on Days 1 and 2 of Cycle 1, escalating to 27 mg/m² IV on Days 8,9,15,and 16 of Cycle 1 and continuing on Days 1,2,8,9,15,and 16 of Cycles 2 through Cycle 9. Cycles 10 and beyond will receive 27 mg/m² IV on Days 1,2,15, and 16 (alternatively, the investigator could choose to continue the dosing frequency on the original dosing days [Days 1, 2, 8, 9, 15, 16] for individual subjects).
+
+Treatment: drugs: Best Supportive Care
+Corticosteroid (either prednisolone 30 mg orally (PO) every other day, dexamethasone 6 mg PO every other day, or other equivalent corticosteroid).
+Optional cyclophosphamide 50 mg PO once daily may be given at the Investigator's discretion (maximum of 1400 mg per 28-day cycle).
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival - Time elapsed between the randomization date and the date of death. Participants who were still alive were censored at date when the subject is last known alive or the data cutoff date, whichever occurs earlier.</outcome>
+      <timepoint>From randomization through the final analysis data cutoff with longest follow-up time of approximately 45 months. Median follow up times were 27.8 months and 29.8 months for Carfilzomib and Best Supportive Care groups, respectively.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-free Survival - Kaplan-Meier estimate of median time from randomization to progressive disease (PD) or all-cause death. PD was assessed using International Myeloma Working Group-Uniform Response Criteria (IMWG-URC). 1 or more conditions were required to meet PD: 2 consecutive rising serum or urine M-protein from central lab; documented new bone lesion(s) or soft tissue plasmacytoma(s) or increased size of existing bone lesion(s) or plasmacytoma(s); or confirmed hypercalcemia due solely to plasma cell proliferative disorder (local lab greater than 11.5 mg/dL on 2 separate occasions). Censoring conditions (censoring dates) were: no post-baseline disease assessment (DA) (randomization date); started non-protocol systemic anticancer treatment before PD or death (last DA date before such treatment); died or had PD after more than 1 missed DA (last DA date without PD before the first missed visit); or were alive and without documentation of PD, including lost to follow-up without PD (last DA date).</outcome>
+      <timepoint>From randomization through the final analysis data cutoff with longest follow-up time of approximately 31 months. Median follow up times were 26.6 months and 23.1 months for Carfilzomib and Best Supportive Care groups, respectively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Response - Number of participants who achieved confirmed stringent complete response (sCR), complete response (CR), very good partial response (VGPR), or partial response (PR) as their best response. Response was determined using the International Myeloma Working Group - Uniform Response Criteria (IMWG-URC).</outcome>
+      <timepoint>From randomization through the final analysis data cutoff with longest follow-up time of approximately 31 months. Median follow up times were 26.6 months and 23.1 months for Carfilzomib and Best Supportive Care groups, respectively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response - Duration of response (DOR) was calculated for subjects who achieved a best response of stringent complete response (sCR), complete response (CR), very good partial response (VGPR), or partial response (PR). Duration of response was defined as the time in months from the initial start of response (PR or better) to the earlier of documented progressive disease (PD) or death due to any cause. Participants who had not progressed or died were censored according to the censoring rules defined previously for progression-free survival.</outcome>
+      <timepoint>From the time achieving response through the final analysis data cutoff with longest follow-up time of approximately 29 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical Benefit Response - Number of participants who achieved confirmed stringent complete response (sCR), complete response (CR), very good partial response (VGPR), partial response (PR), or minimal response (MR) as their best response. Response was determined using the International Myeloma Working Group - Uniform Response Criteria (IMWG-URC). (MR was determined using European Group for Blood and Marrow Transplantation criteria)</outcome>
+      <timepoint>From randomization through the final analysis data cutoff with longest follow-up time of approximately 31 months. Median follow up times were 26.6 months and 23.1 months for Carfilzomib and Best Supportive Care groups, respectively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Clinical Benefit - Duration of Clinical Benefit was calculated for subjects who achieved a best response of stringent complete response (sCR), complete response (CR), very good partial response (VGPR), partial response (PR) or minimal response (MR). Duration of Clinical Benefit was defined as the time in months from the initial start of response (MR or better) to the earlier of documented progressive disease (PD) or death due to any cause. Participants who had not progressed or died were censored according to the censoring rules defined previously for progression-free survival.</outcome>
+      <timepoint>From time of achieving clinical benefit through the final analysis data cutoff with longest follow-up time of approximately 30 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Control - Number of participants who achieved confirmed stringent complete response (sCR), complete response (CR), very good partial response (VGPR), partial response (PR), minimal response (MR), or stable disease (SD) lasting = 8 weeks as their best response. Response was determined using the International Myeloma Working Group - Uniform Response Criteria (IMWG-URC). (MR was determined using European Group for Blood and Marrow Transplantation criteria)</outcome>
+      <timepoint>From randomization through the final analysis data cutoff with longest follow-up time of approximately 31 months. Median follow up times were 26.6 months and 23.1 months for Carfilzomib and Best Supportive Care groups, respectively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Disease Control - Duration of Disease Control was calculated for subjects who achieved disease control. Duration of Disease Control was defined as the time in months from randomization to the earlier of documented progressive disease (PD) or death due to any cause. Participants who had not progressed or died were censored according to the censoring rules defined previously for progression-free survival.</outcome>
+      <timepoint>From time of achieving disease control through the final analysis data cutoff with longest follow-up time of approximately 31 months.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Multiple myeloma
+
+          2. Measurable disease based on central laboratory values, as defined by one or both of
+             the following criteria (assessed within 21 days prior to randomization):
+
+               -  Serum M-protein
+
+                    -  Serum protein electrophoresis (SPEP): = 0.5 g/dL
+
+                    -  For immunoglobulin A (IgA) patients whose disease can only be reliably
+                       measured by serum quantitative immunoglobulin (qIgA): &gt; 750 mg/dL (0.75
+                       g/dL)
+
+               -  Urine Bence Jones protein: = 200 mg/24 h
+
+          3. Responsive (defined as a 25% or greater decrease in M-protein or total protein) to at
+             least one line of prior therapy
+
+          4. Relapsed multiple myeloma, defined as disease progression while on or after at least 1
+             prior treatment regimen
+
+          5. Refractory multiple myeloma, defined as meeting one or more of the following:
+
+               -  Nonresponsive to most recent therapy (eg, stable disease only, or progressive
+                  disease while on treatment)
+
+               -  Disease progression within 60 days of discontinuation from most recent therapy
+
+          6. Received 3 or more prior therapeutic regimens for multiple myeloma
+
+          7. Adequate prior treatment with bortezomib (if less than 4 complete cycles, the reason
+             for discontinuation must be reviewed by the Medical Monitor and the reason documented)
+
+          8. Prior treatment with an immunomodulatory agent (lenalidomide, if available, and/or
+             thalidomide)
+
+          9. Prior treatment with an alkylating agent (standard or high-dose)
+
+         10. Prior treatment with a corticosteroid
+
+         11. Criterion no longer applicable (with Amendment 2, Criterion 11, the requirement of
+             "prior treatment with an anthracycline unless not clinically indicated" is removed.)
+
+         12. Age = 18 years
+
+         13. Life expectancy of at least 1 month
+
+         14. Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+
+         15. Adequate hepatic function, with serum alanine aminotransferase (ALT) &lt; 4 times the
+             upper limit of normal and serum bilirubin &lt; 2.5 mg/dL (42.5 µmol/L). Patients with
+             total bilirubin = 2.5 mg/dL may enrol if their serum direct bilirubin is &lt; 2.5 mg/dL.
+
+         16. Total white blood cell (WBC) count = 1.5 × 10^9/L and absolute neutrophil count (ANC)
+             = 1.0 × 10^9/L (use of colony-stimulating factors to achieve these counts is allowed)
+
+         17. Hemoglobin = 7.5 g/dL (75 g/L)
+
+             -Use of erythropoietic stimulating factors is allowed:
+
+               -  For all patients who receive a red blood cell (RBC) transfusion within 28 days of
+                  obtaining the Screening hemoglobin value. The following information must be
+                  provided for the Medical Monitor's review for assessment for eligibility:
+
+                    -  Pre-transfusion hemoglobin (Hb)
+
+                    -  Number of RBC units administered
+
+                    -  Use of erythropoietic stimulating factors
+
+         18. Platelet count = 30 × 10^9/L
+
+             -There is no restriction on platelet transfusions or thrombopoietic growth factor
+             before or during the screening period
+
+               -  For all patients who receive a platelet transfusion within 7 days of obtaining
+                  the Screening platelet value, the following information must be provided for the
+                  Medical Monitor's review for assessment of eligibility
+
+                    -  Pre-transfusion platelet count
+
+                    -  Number of platelet units administered
+
+                    -  Use of thrombopoietic growth factors
+
+         19. Creatinine clearance (CrCl) = 15 mL/minute (either measured or calculated using a
+             standard formula such as Cockcroft and Gault) and dialysis-independent
+
+         20. Written informed consent in accordance with regulatory guidelines
+
+         21. Female patients of childbearing potential must have a negative serum or urine
+             pregnancy test within 7 days of the first dose of study treatment and agree to use an
+             effective method of contraception during the study and for 3 months following the last
+             dose of study treatment. Post-menopausal females (&gt; 45 years old and without menses
+             for &gt; 1 year) and surgically sterilized females are exempt from these requirements.
+             Male patients must use an effective barrier method of contraception during the study
+             and for 3 months following the last dose if sexually active with a female of
+             childbearing potential.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Waldenström's macroglobulinemia or IgM myeloma
+
+          2. Refractory to all prior therapies
+
+          3. Disease measurable only by serum free light chain assay (SFLC)
+
+          4. POEMS syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, and
+             skin changes)
+
+          5. Plasma cell leukemia (&gt; 2.0 × 10^9/L circulating plasma cells by standard
+             differential)
+
+          6. Prior carfilzomib treatment
+
+          7. Chemotherapy (approved or investigational) within 14 days prior to randomization
+
+          8. Immunotherapy or antibody therapy within 28 days prior to randomization
+
+          9. Corticosteroid therapy at a dose equivalent to dexamethasone &gt; 4 mg/day within 14 days
+             prior to randomization
+
+         10. Radiotherapy within 7 days prior to randomization
+
+         11. Major surgery within 21 days prior to randomization
+
+         12. Congestive heart failure (NYHA Class III or IV) or symptomatic cardiac ischemia,
+             conduction system abnormalities uncontrolled by conventional intervention (conduction
+             abnormalities not clinically warranting intervention are allowed)
+
+         13. Myocardial infarction in the previous 3 months
+
+         14. Acute active infection requiring systemic treatment (antibiotics, antivirals, or
+             antifungals) within 14 days prior to randomization
+
+         15. Known human immunodeficiency virus seropositivity
+
+         16. Active hepatitis A, B, or C infection
+
+         17. Other malignancy within the past 3 years with the exception of a) adequately treated
+             basal cell carcinoma, squamous cell skin cancer, or thyroid cancer; b) carcinoma in
+             situ of the cervix, vulva, or breast; c) prostate cancer of Gleason Score 6 or less
+             with stable prostate-specific antigen levels; or d) cancer considered cured by
+             surgical resection or unlikely to impact survival during the duration of the study,
+             such as localized transitional cell carcinoma of the bladder, carcinoma in situ of the
+             breast, or benign tumors of the adrenal or pancreas
+
+         18. Significant neuropathy (Grades 3-4, or Grade 2 with pain) at the time of randomization
+
+         19. Any other clinically significant medical disease or condition that, in the
+             Investigator's opinion, may interfere with protocol adherence or a patient's ability
+             to give informed consent
+
+         20. Pregnant or lactating females
+
+         21. Contraindication to any of the required concomitant drugs or supportive treatments,
+             including hypersensitivity or known history of allergy to carfilzomib, Captisol® (a
+             cyclodextrin derivative used to solubilize carfilzomib) all anticoagulation and
+             antiplatelet options, antiviral drugs; or intolerance to hydration due to preexisting
+             pulmonary or cardiac impairment</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/09/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>315</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/09/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Nedlands</hospital>
+    <hospital> - Perth</hospital>
+    <postcode> - Nedlands</postcode>
+    <postcode> - Perth</postcode>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Arlon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brugge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brussels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Roeselare</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Brno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Hradec Kralov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Olomouc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Prague</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nimes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Giessen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Koblenz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenchen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Rio Patras</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Gyor</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Gyula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kaposvar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Pecs</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szeged</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Kfar Saba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Nahariva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah-Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Sheba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ancona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Novara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Torino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>North Shore City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Pila</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Torum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warsaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Zamosc</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Serbia</country>
+      <state>Beograd</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Serbia</country>
+      <state>Nis</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Bratislava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Guipuzcoa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Zaragoza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Uppsala</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Oxford</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Amgen</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a Phase 3, randomized, open-label, multicenter study comparing two treatment regimens
+      for subjects with multiple myeloma who have received all available approved treatment options
+      and may therefore be considered candidates for palliative care.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01302392</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>MD</name>
+      <address>Amgen</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

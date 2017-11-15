@@ -1,0 +1,198 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335727">
+  <stage>Registered</stage>
+  <submitdate>20/07/2010</submitdate>
+  <approvaldate>20/07/2010</approvaldate>
+  <actrnumber>ACTRN12610000583044</actrnumber>
+  <trial_identification>
+    <studytitle>Does the type of continuous positive airway pressure interface effect the required therapeutic pressure in patients with obstructive sleep apnoea?</studytitle>
+    <scientifictitle>A comparison of nasal and full-face masks in patients with obstructive sleep apnoea prescribed continuous positive airway pressure therapy: required therapeutic pressure and residual disease.</scientifictitle>
+    <utrn>U1111-1116-1380</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Obstructive sleep apnoea</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Sleep apnoea</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients will be assigned a standard full-face mask and an under-chin full-face mask (two interventions).
+
+Mask interfaces for continuous positive airway pressure (CPAP) for obstructive sleep apnoea (OSA) can cover the patient's nose, mouth or both.  A standard full-face mask forms a seal from the bridge of the nose to just underneath the lower lip.  An under-chin full-face mask is larger, and forms a seal from the bridge of the nose to underneath the lower jaw.
+
+Each mask will be worn for two consecutive nights, for as long as the patient is asleep (at least four hours per night).  
+
+There will be no washout between the three arms.</interventions>
+    <comparator>Patients will be assigned a standard nasal cushion mask as control.
+
+A standard nasal cushion mask forms a seal from the bridge of the nose to the upper lip (i.e. covers the nose only).  For most patients, this type of mask is the first one tried, and a switch to an alternative (full-face) mask will only occur if this mask type does not fit standard criteria for an air-tight, comfortable seal.
+
+This mask will be worn for two consecutive nights, for as long as the patient is asleep (at least four hours per night).</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Therapeutic pressure (measured using an auto-adjusting device) required with each of the three masks.</outcome>
+      <timepoint>Averaged over two nights of each mask.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Residual apnoea-hypopnoea index (AHI) with each of the three masks (delivered using standard CPAP set to manually titrated pressure).</outcome>
+      <timepoint>Averaged over two nights of each mask.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult (greater than or equal to 25 years)
+Moderate/severe OSA at baseline (AHI greater than or equal to 30)
+Compliant with CPAP (using treatment greater than or equal to 4 hours per night on average)
+Currently using a standard nasal cushion mask without chinstrap
+Subjectively report predominant supine sleep</inclusivecriteria>
+    <inclusiveminage>25</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Complete upper and/or lower denture
+Excessive alcohol or caffeine intake
+Significant cardiac, respiratory or sleep co-morbidity
+Unwilling to restrict alcohol intake to less than or equal to 2 standard drinks per day for the trial duration.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be recruited retrospectively, randomly from an established research database.  After giving written informed consent, the patient will be randomised to receive the three mask types. 
+
+Allocation concealment will be carried out using sealed opaque envelopes.</concealment>
+    <sequence>A random number generator will be used to determine the sequence of mask usage.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures>No washout period.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>15/08/2010</anticipatedstartdate>
+    <actualstartdate>9/09/2010</actualstartdate>
+    <anticipatedenddate>17/11/2010</anticipatedenddate>
+    <actualenddate>17/11/2010</actualenddate>
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>Department of Medicine
+PO Box 7343
+Wellington 6242</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago</fundingname>
+      <fundingaddress>Department of Medicine
+PO Box 7343
+Wellington 6242</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>When patients are established on CPAP treatment, they must first undergo a titration study of some description which determines the pressure required to hold the upper airway open.  Most patients are assigned a nasal mask in the first instance, and will be swapped to a full-face mask if the nasal mask is not tolerated or does not form an adequate airtight seal.  We have noted in our laboratory that standard full-face masks require higher therapeutic pressures than nasal masks, and think this may because a standard full-face mask places pressure on the lower jaw, pushing it back and narrowing the upper airway.  We therefore aim to test the hypothesis that masks which seal over the nose only, or full-face masks that seal underneath the chin, require a similar therapeutic pressure which is significantly lower than that required with a standard full-face mask.</summary>
+    <trialwebsite />
+    <publication>Bakker, J.P., Neill, A.M., Campbell, A.J.  Nasal versus oronasal continuous positive airway pressure masks for obstructive sleep apnea: a pilot investigation of pressure requirement, residual disease and leak.  Sleep &amp; Breathing 16(3):709-716 (2012), PubMed ID 21800222;
+
+Bakker, J.P., Neill, A.M., Campbell, A.J.  Nasal versus oronasal continuous positive airway pressure masks for obstructive sleep apnea: Is this really a key point of effectiveness? [letter]. Sleep &amp; Breathing 17(4):1123-1124 (2013), PubMed ID 23572436.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Central Ethics Committee</ethicname>
+      <ethicaddress>1-3 The Terrace
+2nd Floor
+Wellington 5013  </ethicaddress>
+      <ethicapprovaldate>28/07/2010</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>27/05/2010</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jessie Bakker</name>
+      <address>University of Otago
+Department of Medicine
+PO Box 7343
+Wellington 6242</address>
+      <phone>+6449208819</phone>
+      <fax />
+      <email>jessie.bakker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jessie Bakker</name>
+      <address>University of Otago
+Department of Medicine
+PO Box 7343
+Wellington 6242</address>
+      <phone>+6449208819</phone>
+      <fax />
+      <email>jessie.bakker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Jessie Bakker</name>
+      <address>University of Otago
+Department of Medicine
+PO Box 7343
+Wellington 6242</address>
+      <phone>+6449208819</phone>
+      <fax />
+      <email>jessie.bakker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Alister Neill</name>
+      <address>University of Otago Department of Medicine PO Box 7343 Wellington 6242</address>
+      <phone>+6449208819</phone>
+      <fax />
+      <email>alister.neill@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

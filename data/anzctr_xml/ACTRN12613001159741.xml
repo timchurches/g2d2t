@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365082">
+  <stage>Registered</stage>
+  <submitdate>2/10/2013</submitdate>
+  <approvaldate>18/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001159741</actrnumber>
+  <trial_identification>
+    <studytitle>Sprayed Peritoneal Regional Analgesia in Appendicectomy trial   -   SPRAY trial</studytitle>
+    <scientifictitle>In children undergoing laparoscopic appendicectomy for acute appendicitis, does local anaesthetic sprayed onto the peritoneum, compared to saline, reduce post-operative pain.</scientifictitle>
+    <utrn>U1111-1148-7094 </utrn>
+    <trialacronym>SPRAY trial</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute appendicitis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Surgical techniques</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Peritoneal spray of local anaesthetic, bupivacaine, at a concentration of 0.125%, will be sprayed only the peritoneum of the right iliac fossa and pelvis during laparoscopic surgery for suspected appendicitis. </interventions>
+    <comparator>Peritoneal spray of normal saline</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Global pain scores using the Revised Faces Pain Scale (FPS-r), and a novel pain location tool developed by our unit (the Location and Level of Intensity of Postoperative Pain Score - Lolipops).</outcome>
+      <timepoint>Post-operative hours 0-3, 3-6, 6-12, 12-18 and 18-24.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Morphine equivalent daily dose</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who required opiate analgesia</outcome>
+      <timepoint>24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of hospital stay</outcome>
+      <timepoint>30 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Acute appendicitis
+Children aged 8 years and older</inclusivecriteria>
+    <inclusiveminage>8</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>15</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Developmental delay, neuro-muscular impairment, attention-deficit disorder, chronic pain, or psychiatric illness.
+Unable to speak and read English
+Partially sighted or blind
+Presence of any abdominal prostheses such as a gastrostomy or ventriculo-peritoneal shunt 
+Allergy to bupivacaine
+Consent not obtained from both the participating child and a parent or legal guardian
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Children will be enrolled by surgical staff on presentation with acute appendicitis. Allocation will be by sealed opaque envelopes. Two theatre nurses will be aware of the allocation in order to prepare the intervention solution, but will not divulge the allocation to any other staff members or investigators.</concealment>
+    <sequence>The sequence will be generated using an on-line random number generator (random.org) by a research assistant not involved in any other aspect of the trial.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Parametric or nonparametric tests (according to normality of data) comparing two groups.
+A sample size calculation was based on pain score data from a previous study on pain after appendicectomy. To obtain a 30% (3 points on a 0-10 pain scale) reduction in pain, with alpha 0.05 and 1-beta 0.9, 174 participants will be required.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>15/01/2014</anticipatedstartdate>
+    <actualstartdate>21/05/2014</actualstartdate>
+    <anticipatedenddate>21/05/2015</anticipatedenddate>
+    <actualenddate>9/03/2015</actualenddate>
+    <samplesize>174</samplesize>
+    <actualsamplesize>175</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>20/04/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Auckland Department of Surgery</primarysponsorname>
+    <primarysponsoraddress>Department of Surgery
+Faculty of Medicine and Health Sciences
+The University of Auckland
+Private Bag 92019
+Auckland Mail Centre 1142</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>A+ Trust</fundingname>
+      <fundingaddress>A+ Trust, c/- ADHB, Private Bag 92024, Auckand 1142, New Zealand</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Context
+Appendicectomy for acute appendicitis is the most common emergency abdominal operation performed for children. We routinely perform the operation laparoscopically because it is known to reduce pain after surgery; however, post-operative pain can still be severe. We hypothesise that the peritoneum may contribute substantially children's discomfort.
+Objectives
+To test the efficacy of peritoneal local anaesthetic on post-operative pain in laparoscopic appendicectomy for acute appendicitis.
+Methods
+Children and their caregivers will be invited to participate in a randomized blinded placebo controlled clinical trial on peritoneal local anaesthetic in laparoscopic appendicectomy. After obtaining informed consent for both the laparoscopic procedure and the trial, children will be randomized to receive either local anaesthetic (0.125% bupivacaine) or saline (0.9% sodium chloride) sprayed onto the peritoneum of the right iliac fossa and pelvis. The primary outcome will be pain scores, global pain and also localised pain as measured by a novel pain location tool developed and validated by our unit (the Location and Level of Intensity of Post-operative Pain Score - Lolipops).
+Benefits
+Reducing children's pain is patently beneficial. An effect of less pain is lower opiate requirements, benefiting children by avoiding nausea, itch, and other unpleasant side effects. Furthermore, shorter hospital stays and even day case surgery may be possible; the health system could benefit substantially from shorter hospital stays and lower costs.</summary>
+    <trialwebsite />
+    <publication>Hamill JK, Liley A, Hill AG. Intraperitoneal Local Anesthetic for Laparoscopic Appendectomy in Children: A Randomized Controlled Trial. Annals of surgery. 2016 Aug 17.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington 6011
+
+</ethicaddress>
+      <ethicapprovaldate>10/02/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>2/10/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://anzctr.org.au/AnzctrAttachments/365082-Study Protocol v4a.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>James Hamill</name>
+      <address>Starship Children's Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+64 9 3797440</phone>
+      <fax />
+      <email>jamesh@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Hamill</name>
+      <address>Starship Children's Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+64 9 3797440</phone>
+      <fax />
+      <email>jamesh@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Hamill</name>
+      <address>Starship Children's Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+64 9 3797440</phone>
+      <fax />
+      <email>jamesh@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>James Hamill</name>
+      <address>Starship Children's Hospital
+Private Bag 92024
+Auckland 1142</address>
+      <phone>+64 9 3797440</phone>
+      <fax />
+      <email>jamesh@adhb.govt.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

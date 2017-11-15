@@ -1,0 +1,257 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371732">
+  <stage>Registered</stage>
+  <submitdate>31/10/2016</submitdate>
+  <approvaldate>17/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001590459</actrnumber>
+  <trial_identification>
+    <studytitle>A study comparing 2 different systems for surgical fixation of broken wrists</studytitle>
+    <scientifictitle>Effects of the Austofix VRP2 system and the Depuy-Synthes LCP Distal Radius System on outcomes in adult patients undergoing surgery for distal radius fractures : a randomised controlled trial.</scientifictitle>
+    <utrn>U1111-1189-1672 </utrn>
+    <trialacronym>POWIFF</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>distal radius fracture</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Fractures</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention group will have fixation with the Austofix VRP2 distal radius plate.
+Surgery will take place at the routine time and in the routine manner, undertaken by any operating surgeon from the department (at all surgical levels). The VRP2 sytem is lower profile, has more variable locking options for the screws, and is universal (ie no left or right)</interventions>
+    <comparator>The control group will have fixation in the same overall environment, but using the Depuy-Synthes LCP distal radius plate system.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Surgery</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>PRWE Score - includes wrist pain and function</outcome>
+      <timepoint>6 weeks, 3 months, 12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Complications - prospectively recorded at each clinic visit / phone interview.</outcome>
+      <timepoint>Up to 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Delayed union rates, recorded prospectively at clinic visits. Delayed union is defined as fracture not fully healed by 3 months, judged clinically and on radiographs.</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Fracture reduction acheived at surgery and maintained at 1 year - measured against normal values on plain radiographs</outcome>
+      <timepoint>immediate post-op, and 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>DASH Scores - disability / symptoms only</outcome>
+      <timepoint>6 weeks, 3 months, 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>EQ5D - health status score</outcome>
+      <timepoint>3 months, 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Wrist Active ROM, as measured clinically - flexion/extension, rotation, abduction/adduction, compared to the opposite side. If this is not possible (eg pathology affecting opposite side) then standard ranges will be applied for the comparison.</outcome>
+      <timepoint>3 months, 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to resumption of work, recorded at clinic visits.</outcome>
+      <timepoint>6 weeks, 3 months, 1 year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Operative time - from theatre operation record, time knife to skin to dressing applied.</outcome>
+      <timepoint>End of surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of screws used - from operative records</outcome>
+      <timepoint>End of surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Flouroscopy time - from operative records</outcome>
+      <timepoint>End of surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient perceived percentage global return of function, recorded at clinic reviews as a simple question</outcome>
+      <timepoint>3 months, 12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Traumatic Distal radius fracture 
+2.	Closed injury
+4.	Patient medically fit for surgery
+5.	Ability to be followed for up to 12 months
+6.	Presentation within 14 days of injury
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Patients with concomitant injuries affecting treatment and rehabilitation of the affected arm
+2.	Patients with associated neurovascular injuries requiring immediate surgery
+3.	Patients with associated significant carpal injuries, including scaphoid fractures
+4.	Patient unlikely or unhappy to attend for follow up
+5.	Patient with limited English proficiency
+6.	Patient without cognitive capacity to consent and participate
+7.	Patients with impaired upper limb function prior to injury enough to have a DASH score of more than 30 points.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Yes - sealed envelopes</concealment>
+    <sequence>Simple randomisation.
+Stratified by Age group (under or over 60), Gender, and surgical consultant</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Continuous data will be summarised as means with standard deviations and medians with range. Categorical measures will be summarized as percentages. Treatment effects will be assessed using a two way (treatment group by time) repeated measures analysis of variance (ANOVA) and/or a linear mixed effects model as required. Post hoc comparisons will be made using t-tests. An intention-to-treat and a per-protocol analysis will be considered. All tests will be two-tailed and assessed at the 5% alpha level. 
+
+Power calculations:
+Sample size calculations were based on the requirement that effects be assessed at the 5% alpha level with 90% statistical power. It was assumed that the minimum clinically important difference on the PRWE is 11.5 points and the standard deviation would be 20 points. Under these assumptions, a sample of 65 patients per group would be required; following the application of a variance inflation factor of 1.5 to account for repeated measurements over time, a sample of 98 patients per group would be required.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>23/01/2017</anticipatedstartdate>
+    <actualstartdate>1/03/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>196</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Mark Rickman</primarysponsorname>
+    <primarysponsoraddress>Level 4 Bice Building
+Royal Adelaide Hospital
+North Terrace
+Adelaide SA5000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Adelaide Hospital</fundingname>
+      <fundingaddress>North Terrace
+Adelaide SA5000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Wrist fractures in patients are commonly managed using internal fixation. At the Royal Adelaide Hospital last year, 175 distal radius plating procedures were performed. Austofix have designed a new plate, the VRP 2.0, with the following proposed advantages over the current commonly available volar radial plate systems :
+1.	The plate is universal and not sided  this has beneficial effects in simplifying implant choice in theatre, as well as minimising hospital stock / inventory
+2.	The Locking mechanism is unique, and patented
+3.	The plate is lower profile than many on the market
+4.	The available angle for the variable angle screws has a range of 40 degrees, compared to 30 degrees for other systems. This may allow more accurate fragment specific fixation, and thus improve maintenance of fracture reduction, and hence eventual functional outcome.
+5.	The system offers improved instrumentation over currently used systems
+
+To confirm the clinical benefits of the Austofix VRP 2.0 plate system a combined prospective randomised controlled trial is proposed. This trial will compare outcomes of patients managed with the Austofix VRP 2.0 vs those managed with a conventional alternative. The VRP 2.0 plate is TGA registered, and on the approved list of implants with SA Health.
+
+Study Hypothesis:
+Adults with closed distal radius fractures who are managed operatively using the VRP 2.0 plate will perform at least 10 points better on the Patient-rated Wrist Evaluation (PRWE) score than those managed operatively using a conventional distal radius locking plate.
+
+Null hypothesis: 
+There is no difference in clinical outcome up to one year post injury between patients managed with these 2 different plating systems.
+
+Aim:
+
+This study aims to provide high quality evidence for the effectiveness of surgical treatment of distal radius fractures using 2 different plating systems. It is proposed that the study will be conducted using a randomised controlled trial. Results will support and influence the future treatment of this common injury for optimal patient outcome.
+</summary>
+    <trialwebsite>None</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HREC Royal Adelaide Hospital</ethicname>
+      <ethicaddress>North Terrace
+Adelaide SA5000</ethicaddress>
+      <ethicapprovaldate>27/10/2016</ethicapprovaldate>
+      <hrec>R20160909 HREC/16/RAH/373</hrec>
+      <ethicsubmitdate>13/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Mark Rickman</name>
+      <address>Level 4, Bice Building
+Royal Adelaide Hospital
+North Terrace
+Adelaide SA5000</address>
+      <phone>+61 8 82225535</phone>
+      <fax />
+      <email>mark.rickman@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Mark Rickman</name>
+      <address>Level 4, Bice Building
+Royal Adelaide Hospital
+North Terrace
+Adelaide SA5000</address>
+      <phone>+61 8 82225535</phone>
+      <fax />
+      <email>mark.rickman@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Mark Rickman</name>
+      <address>Level 4, Bice Building
+Royal Adelaide Hospital
+North Terrace
+Adelaide SA5000</address>
+      <phone>+61 8 82225535</phone>
+      <fax />
+      <email>mark.rickman@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Mark Rickman</name>
+      <address>Level 4, Bice Building
+Royal Adelaide Hospital
+North Terrace
+Adelaide SA5000</address>
+      <phone>08 82225535</phone>
+      <fax />
+      <email>mark.rickman@sa.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

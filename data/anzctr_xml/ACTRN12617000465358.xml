@@ -1,0 +1,261 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372644">
+  <stage>Registered</stage>
+  <submitdate>28/03/2017</submitdate>
+  <approvaldate>30/03/2017</approvaldate>
+  <actrnumber>ACTRN12617000465358</actrnumber>
+  <trial_identification>
+    <studytitle>The effect of a low fementable oligosaccharide, disaccharide, monosaccharide and polyol (FODMAP) diet on intestinal transit, the intestinal microbiome and metabolome in adults with irritable bowel syndrome..</studytitle>
+    <scientifictitle>An intervention study investigating the effect of a low fermentable oligosaccharide, disaccharide, monosaccharide and polyol (FODMAP) diet on gastrointestinal transit time and diversity of the microbiome and metabolome  in adults with irritable bowel syndrome.</scientifictitle>
+    <utrn>U1111-1186-5261 </utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Irritable bowel syndrome</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>10 participants with diarrhea predominant irritable bowel syndrome [IBS(D)] or [IBS(M)] from study ACTRN12616001162404 who do not have small intestinal bacteria overgrowth will be asked to participate. 
+They will be educated on a low FODMAP diet which is low in fermentable short chain carbohydrates. Foods which participants need to reduce include but are not limited to wheat products, apples, onion and garlic. They will be shown the Monash University low FODMAP app, which includes a traffic light system on which foods are suitable and a video clip on how the diet works as well as recipes. They will be  given additional recipes to use that are low FODMAP. They will be asked to follow this diet strictly. Dietary education will be given by a New Zealand registered dietitian with 10 years experience who is familiar with a low FODMAP diet. These education session with be conducted individually and last for 45 minutes. 
+
+Timeline for the diet and investigations:
+Week 1: participants follow usual diet
+Week 2: participants provide a second urine and stool sample (the first fecal and urine samples were given in the earlier trial ACTRN12616001162404) after which they consume a smart pill while on their usual diet
+Week 3-6: participants follow a strict low FODMAP diet (receiving 45 minutes dietary education at the beginning of week 3)
+Week 7: participants provide a third urine and stool sample after which they consume a smart pill. During this week they remain on a strict low FODMAP diet
+Week 8-12: Participants will be given 30 minutes education on how to reintroduce FODMAP containing foods to tolerance
+
+Adherence to the diet will be measured by 7 telephone diet recalls conducted by two nutrition students (done in weeks 1-7). They will be checking for evidence of high FODMAP food intake and reporting on this.
+
+Each participant will act as their own control therefore 10 participants should be sufficient for this part of the study.
+</interventions>
+    <comparator>Each participant will serve as their own control</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Diversity of the microbiome
+
+DNA will be extracted from the fecal samples and sequenced. The Shannons index of diversity will be used to compare diversity of the samples. The composition of the samples prior to commencing a low FODMAP diet and after following the diet will be compared using techniques designed for the analysis of compositional data under the guidance of Professor Greg Gloor who has extensive experience in analyzing microbiome data sets.</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Intestinal transit time using the smart pill</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>pH (using the smart pill)</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in metabolome
+
+LC/MS and GC/MS will be used to detect the small molecules present in the urine. Data will then be analyzed using techniques designed for the analysis of compositional data
+</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in IBS symptom severity scoring system (IBS SSS)
+
+This is the clinical outcome measure, the subscales within this will also be analyzed individually
+</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in IBS quality of life (IBS QoL)</outcome>
+      <timepoint>Before commencing a low FODMAP diet and after 4 weeks on the diet</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>*Previously enrolled in study ACTRN12616001162404
+*IBS (D) or IBS (M) according to Rome III criteria
+*Fluent in English
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* Organic gastrointestinal disease
+* Diabetes
+* Serious neurological or respiratory conditions
+* Pancreatitis
+* Small intestinal bacteria overgrowth
+* Antibiotics within the last six week
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Statistical analysis will be performed using Stat (Version 13.1 CITY, TX, USA). Data will be presented as mean and standard deviation unless otherwise stated. Students t tests will be used to compare baseline continuous data and Fishers exact test for categorical data. Paired students t test will be used to compare differences in continuous variables before commencing the low FODMAP diet and after 4 weeks on the diet.  A p value of =0.05 will be deemed statistically significant.
+
+The microbiome data will be analysed using the approaches of compositional data (CoDa) analysis that we have pioneered in the fields of microbiome and RNA-seq research, and all approaches used below follow a CoDa paradigm. CoDa analysis methods ensure that the analysis is robust to which OTU sequences are included, the order of the sequences, sequencing depth and random sampling. In essence, the CoDa approach examines the ratios between the OTU abundances, similar to what would be done with a quantitative PCR approach with an internal standard. The essential steps here are to convert the data into logarithms of ratios, and this step opens up the entire multivariate statistical toolkit.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/04/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>10</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/09/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Michael Schultz</primarysponsorname>
+    <primarysponsoraddress>Dunedin School of Medicine
+
+First Floor, Dunedin Hospital
+Great King Street
+Dunedin 9016
+New Zealand 
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago</fundingname>
+      <fundingaddress>Dunedin School of Medicine
+
+First Floor, Dunedin Hospital
+Great King Street
+Dunedin 9016
+New Zealand 
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>Lawson Health Research Institute, London, Ontario</sponsorname>
+      <sponsoraddress>268 Grosvenor St, 
+London, 
+ON N6A 4V2</sponsoraddress>
+      <sponsorcountry>Canada</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The low FODMAP diet has been shown to be effective for ~70% of IBS patients. However, concerns have been raised that as it is lower in oligosaccharides it may reduce the variety of bacteria in the bowel (microbial diversity). Microbial diversity is associated with health. Two recently published studies have suggested that for people with IBS(D) following a low FODMAP diet may not have a reduction in microbial diversity. One other factor associated with increased diversity is longer transit time through the gastrointestinal tract. We are using a wireless motility capsule or a smartpill to measure intestinal transit time, pH, temperature and pressure when participants are following a normal diet and when they are following a low FODMAP diet.
+
+The purpose of this study is to see if a low FODMAP diet slows down transit through the intestines and if it has an effect on pH inside the gastrointestinal tract.
+
+10 people with IBS who enrolled for ACTRN12616001162404 but did not have SIBO will be asked to participate in this study.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Western University Health Science Research Ethics Board</ethicname>
+      <ethicaddress>Western University
+Research Support Services Building Rm 5150
+London 
+Ontario
+N6G 1G9 
+</ethicaddress>
+      <ethicapprovaldate>8/02/2017</ethicapprovaldate>
+      <hrec>107228</hrec>
+      <ethicsubmitdate>7/12/2016</ethicsubmitdate>
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Schultz</name>
+      <address>Department of Medicine
+9th Floor, Dunedin Hospital
+Great King Street
+Dunedin Central
+Dunedin 9016
+New Zealand 
+</address>
+      <phone>+64 3 474 0999 </phone>
+      <fax />
+      <email>michael.schultz@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Ruth Harvie</name>
+      <address>c/- The Canadian centre for the human microbiome and probiotics
+Lawson Research Institute
+268 Grosvenor St
+London
+Ontario
+N6A 4V2 
+</address>
+      <phone>+1 519 317 2384 </phone>
+      <fax />
+      <email>ruth.harvie@postgrad.otago.ac.nz</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Schultz</name>
+      <address>Department of Medicine
+9th Floor, Dunedin Hospital
+Great King Street
+Dunedin Central
+Dunedin 9016
+New Zealand </address>
+      <phone>+64 3 474 0999 </phone>
+      <fax />
+      <email>michael.schultz@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Ruth Harvie</name>
+      <address>c/- The Canadian centre for the human microbiome and probiotics
+Lawson Research Institute
+268 Grosvenor St
+London
+Ontario
+N6A 4V2 </address>
+      <phone>+1 519 317 2384 </phone>
+      <fax />
+      <email>ruth.harvie@postgrad.otago.ac.nz</email>
+      <country>Canada</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,758 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6722">
+  <stage>Registered</stage>
+  <submitdate>4/04/2017</submitdate>
+  <approvaldate>4/04/2017</approvaldate>
+  <nctid>NCT03112603</nctid>
+  <trial_identification>
+    <studytitle>A Study of Ruxolitinib vs Best Available Therapy (BAT) in Patients With Steroid-refractory Chronic Graft vs. Host Disease (GvHD) After Bone Marrow Transplantation (REACH3)</studytitle>
+    <scientifictitle>A Phase III Randomized Open-label Multi-center Study of Ruxolitinib vs. Best Available Therapy in Patients With Corticosteroid-refractory Chronic Graft vs Host Disease After Allogenic Stem Cell Transplantation (REACH3)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>CINC424D2301</secondaryid>
+    <secondaryid>INCB 18424-365 (REACH3)</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Graft-versus-host Disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Ruxolitinib
+Treatment: drugs - Extracorporeal photopheresis (ECP)
+Treatment: drugs - Low-dose methotrexate (MTX)
+Treatment: drugs - Mycophenolate mofetil (MMF)
+Treatment: drugs - mechanistic Target of Rapamycin (mTOR) inhibitors (everolimus or sirolimus)
+Treatment: drugs - Infliximab
+Treatment: drugs - Rituximab
+Treatment: drugs - Pentostatin
+Treatment: drugs - Imatinib
+
+Experimental: Ruxolitinib - Ruxolitinib for the treatment period and extension period.
+
+Active Comparator: Best Available Therapy - Best available therapy for the treatment period and extension period, with optional crossover to ruxolitinib after Cycle 6.
+
+
+Treatment: drugs: Ruxolitinib
+Ruxolitinib twice daily at the protocol-defined starting dose.
+
+Treatment: drugs: Extracorporeal photopheresis (ECP)
+Best available therapy (BAT) will be selected by the investigator for each participant. BAT may not include experimental agents (ie, those not approved for the treatment of any indication) as well as a limited number of other selected drugs in accordance with the protocol-defined requirements. The BAT in this study will be among the following treatments currently used in this setting (no other types or combinations of BATs are permitted in this study).
+
+Treatment: drugs: Low-dose methotrexate (MTX)
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: Mycophenolate mofetil (MMF)
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: mechanistic Target of Rapamycin (mTOR) inhibitors (everolimus or sirolimus)
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: Infliximab
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: Rituximab
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: Pentostatin
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+Treatment: drugs: Imatinib
+Patients will receive BAT based on the Investigator's opinion, taking into account the manufacturer's instructions, labeling, subject's medical condition, and institutional guidelines for any dose adjustment.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Efficacy of ruxolitinib versus investigator's choice best available therapy (BAT) in participants with moderate or severe SR-cGvHD assessed by overall response rate (ORR) at the Cycle 7 Day 1 visit - ORR defined as the percentage of participants in each arm demonstrating a complete response (CR) or partial response (PR) based on NIH Consensus Criteria without the requirement of additional systemic therapies for an earlier progression, mixed response or non-response. Scoring of response will be relative to the organ score at the time of randomization.</outcome>
+      <timepoint>Cycle 7 Day 1 (from baseline to Day 168)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of failure-free survival (FFS) - Composite time to event endpoint incorporating the following FFS events: i) relapse or recurrence of underlying disease or death due to underlying disease, ii) nonrelapse mortality, or iii) addition or initiation of another systemic therapy for chronic GvHD (cGvHD).</outcome>
+      <timepoint>From baseline to end of study treatment, up to 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in the modified Lee cGvHD symptom scale score - To assess improvement of symptoms based on the total symptom score (TSS); a responder is defined as having achieved a clinically relevant reduction from baseline of the TSS.</outcome>
+      <timepoint>Cycle 7 Day 1 (from baseline to Day 168)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Best overall response (BOR) - Defined as percentage of participants who achieved an overall response (CR+PR) based on NIH consensus criteria at any time point (up to Cycle 7 Day 1 or the start of additional systemic therapy for cGvHD).</outcome>
+      <timepoint>From baseline to crossover or end of treatment up to 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ORR at end of Cycle 3 - Percentage of participants who achieved an overall response (CR+PR) based on NIH consensus criteria at Cycle 4 Day 1.</outcome>
+      <timepoint>Cycle 4 Day 1 (from baseline to Day 84)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of response - Assessed for responders only; response based on NIH consensus criteria.</outcome>
+      <timepoint>Time from first response until GvHD progression or death, up to approximately 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival (OS) - Defined as the time from the date of randomization to the date of death due to any cause.</outcome>
+      <timepoint>From the date of randomization to the date of death due to any cause up to approximately 36 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cumulative incidence of non-relapse mortality (NRM) - Defined as date of randomization to date of death not preceded by underlying disease relapse/recurrence.</outcome>
+      <timepoint>Months 1, 2, 6, 12, 18, and 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of participants with = 50% reduction in daily corticosteroid dose at Cycle 7 Day 1 - All corticosteroid dosages prescribed to the patient and all dose changes during the study will be recorded for assessment of participants with = 50% reduction in daily corticosteroid dose.</outcome>
+      <timepoint>Cycle 7 Day 1 (from baseline to Day 168)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of participants successfully tapered off all corticosteroids at Cycle 7 Day 1 - All corticosteroid dosages prescribed to the patient and all dose changes during the study will be recorded for assessment of participants who successfully tapered off all corticosteroids.</outcome>
+      <timepoint>Cycle 7 Day 1 (from baseline to Day 168)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cumulative incidence of malignancy relapse/recurrence (MR) - Defined as the time from date of randomization to hematologic malignancy relapse/recurrence. Calculated for participants with underlying hematologic malignant disease.</outcome>
+      <timepoint>At 3, 6, 12, 18, and 24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in Functional Assessment of Cancer therapy - Bone Marrow Transplantation (FACT-BMT) - FACT-BMT will be administered to measure symptoms and quality of life for patients affected by cGvHD, and potential changes over time.</outcome>
+      <timepoint>From baseline to end of treatment, up to 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Changes in EQ-5D - EQ-5D will be administered to measure symptoms and quality of life for patients affected by cGvHD, and potential changes over time.</outcome>
+      <timepoint>From baseline to end of treatment, up to 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Incidence and severity of adverse events - Adverse events include occurrence of any second primary malignancies, infections, physical exam findings, changes in vital signs, routine serum chemistry, hematology results, and coagulation profile.</outcome>
+      <timepoint>From baseline to 30-35 days after end of treatment, up to approximately 36 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Have undergone allogenic stem cell transplantation (alloSCT) from any donor source
+             (matched unrelated donor, sibling, haplo-identical) using bone marrow, peripheral
+             blood stem cells, or cord blood. Recipients of non-myeloablative, myeloablative, and
+             reduced intensity conditioning are eligible
+
+          -  Evident myeloid and platelet engraftment: Absolute neutrophil count (ANC) &gt; 1000/mm^3
+             and platelet count &gt; 25,000/ mm^3
+
+          -  Participants with clinically diagnosed moderate to severe cGvHD according to NIH
+             Consensus Criteria prior to randomization:
+
+               -  Moderate cGvHD: At least one organ (not lung) with a score of 2, 3 or more organs
+                  involved with a score of 1 in each organ, or lung score of 1
+
+               -  Severe cGvHD: at least 1 organ with a score of 3, or lung score of 2 or 3
+
+          -  Participants currently receiving systemic or topical corticosteroids for the treatment
+             of cGvHD for a duration of &lt; 6 months prior to Cycle 1 Day 1 (if applicable), and have
+             a confirmed diagnosis of steroid-refractory cGvHD defined per 2014 NIH consensus
+             criteria irrespective of the concomitant use of a calcineurin inhibitor (CNI), as
+             follows:
+
+               -  A lack of response or disease progression after administration of minimum
+                  prednisone 1 mg/kg/day for at least 1 week, OR
+
+               -  Disease persistence without improvement despite continued treatment with
+                  prednisone at &gt; 0.5 mg/kg/day or 1 mg/kg/every other day for at least 4 weeks, OR
+
+               -  Increase to prednisolone dose to &gt; 0.25 mg/kg/day after 2 unsuccessful attempts
+                  to taper the dose
+
+          -  Participant must accept to be treated with only one of the following BAT options on
+             Cycle 1 Day 1 (additions and changes are allowed during the course of the study, but
+             only with BAT from the following BAT options): extracorporeal photopheresis (ECP),
+             low-dose methotrexate (MTX), mycophenolate mofetil (MMF), mTOR inhibitors (everolimus
+             or sirolimus), infliximab, rituximab, pentostatin, imatinib</inclusivecriteria>
+    <inclusiveminage>12</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Participants who have received systemic treatment for cGvHD in addition to
+             corticosteroids ± CNI for cGvHD
+
+          -  Participants with overlap syndrome, defined as presence of simultaneous features of
+             both cGvHD and acute GvHD (aGvHD), or participants that transition from aGvHD to cGvHD
+             without tapering off corticosteroids ± CNI and any systemic treatment
+
+          -  Participants who were treated with prior JAK inhibitors for aGvHD; except when the
+             participant achieved complete or partial response and has been off JAK inhibitor
+             treatment for at least 8 weeks prior to Cycle 1 Day 1
+
+          -  Failed prior alloSCT within the past 6 months from Cycle 1 Day 1
+
+          -  Participants with relapsed primary malignancy, or who have been treated for relapse
+             after the alloSCT was performed
+
+          -  Steroid refractory cGvHD occurring after a non-scheduled donor lymphocyte infusion
+             (DLI) administered for preemptive treatment of malignancy recurrence. Participants who
+             have received a scheduled DLI as part of their transplant procedure and not for
+             management of malignancy relapse are eligible
+
+          -  Any corticosteroid therapy for indications other than cGvHD at doses &gt; 1 mg/kg/day
+             methylprednisolone or equivalent within 7 days of Cycle 1 Day 1</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional(has expanded access)</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>23/06/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>324</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/01/2022</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Novartis Investigative Site - Parkville</hospital>
+    <postcode>3002 - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Delaware</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Brugge</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liege</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Czech Republic</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>CZE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Czechia</country>
+      <state>Praha 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Copenhagen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Amiens cedex1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 08</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier cedex 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris cedex 10</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>PARIS Cedex 12</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 19</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre-Benite Cédex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rennes Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen Cedex 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Priest en Jarez Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre les Nancy cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Duesseldorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Koeln</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mannheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Muenster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Würzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Maharashtra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Vellore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Peta? Tiqwa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>AN</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>BG</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>BO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>BS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>GE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>MI</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PR</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>PV</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>RM</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>TO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>UD</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Perugia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hokkaido</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Miyagi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Okayama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Jordan</country>
+      <state>Amman</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>the Netherlands</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Leiden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nijmegen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Rotterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Saudi Arabia</country>
+      <state>Riyadh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucía</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Castilla y Leon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Catalunya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cataluña</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Comunidad Valenciana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Galicia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pais Vasco</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Las Palmas de Gran Canaria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zürich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Soguksu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Incyte Corporation</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to assess the efficacy of ruxolitinib against best available
+      therapy in participants with steroid-refractory chronic graft-versus-host disease (SR cGvHD).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT03112603</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Patricia Delaite, MD</name>
+      <address>Incyte Corporation</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Incyte Corporation Call Center (US)</name>
+      <address />
+      <phone>1.855.463.3463</phone>
+      <fax />
+      <email>medinfo@incyte.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

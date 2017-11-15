@@ -1,0 +1,405 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4984">
+  <stage>Registered</stage>
+  <submitdate>14/05/2013</submitdate>
+  <approvaldate>14/05/2013</approvaldate>
+  <nctid>NCT01864746</nctid>
+  <trial_identification>
+    <studytitle>A Study of Palbociclib in Addition to Standard Endocrine Treatment in Hormone Receptor Positive Her2 Normal Patients With Residual Disease After Neoadjuvant Chemotherapy and Surgery</studytitle>
+    <scientifictitle>Phase III Study Evaluating Palbociclib (PD-0332991), a Cyclin-Dependent Kinase (CDK) 4/6 Inhibitor in Patients With Hormone-receptor-positive, HER2-normal Primary Breast Cancer With High Relapse Risk After Neoadjuvant Chemotherapy "PENELOPEB"</scientifictitle>
+    <utrn />
+    <trialacronym>PENELOPE-B</trialacronym>
+    <secondaryid>2013-001040-62</secondaryid>
+    <secondaryid>GBG78/BIG 1-13/NSABP-B-54-I</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Breast Cancer</healthcondition>
+    <healthcondition>Hormonreceptor Positive</healthcondition>
+    <healthcondition>Her2-normal</healthcondition>
+    <healthcondition>Postneoadjuvant Treatment With CDK 4/6 Inhibitor</healthcondition>
+    <healthcondition>CPS-EG Score</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Palbociclib PD-0332991
+Treatment: drugs - Placebo
+
+Experimental: Palbociclib - Palbociclib at a dose of 125 mg once daily, day 1 to day 21 followed by 7 days off treatment in a 28-day cycle for thirteen cycles
+
+Placebo Comparator: Placebo - Placebo of palbociclib once daily day 1 to day 21 followed by 7 days off treatment in a28-day cycle for thirteen cycles
+
+
+Treatment: drugs: Palbociclib PD-0332991
+palbociclib at a dose of 125 mg once daily, day 1 to day 21 followed by 7 days off treatment in a 28-day cycle
+
+Treatment: drugs: Placebo
+Arm B: Placebo of palbociclib once daily day 1 to day 21 followed by 7 days off treatment in a 28-day cycle for thirteen cycles
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Invasive disease free survival (iDFS) for palbociclib vs. placebo in patients with high CPS-EG score after neoadjuvant chemotherapy receiving standard adjuvant endocrine therapy for HR-positive/HER2-normal primary breast cancer. - Invasive disease-free survival (iDFS) is defined according to Hudis (J Clin Oncol 2007) as the time period between randomization and first event (ipsi- or contralateral invasive in-breast or loco-regional recurrence, distant recurrence, death from breast cancer, death from non-breast cancer cause, death from unknown cause, invasive contralateral breast cancer, second primary invasive cancer (non-breast)).
+Two interim efficacy analyses will be performed in the study. First interim analysis: Safety, early stopping Second interim analysis: Safety, early stopping, sample size adjustment</outcome>
+      <timepoint>Time-to-Event Outcome measure. Final analysis on the primary endpoint and secondary efficacy endpoints (except for OS) Analysis will be conducted when 255 events observed. Assessed until approx. Dec 2020.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>iDFS excluding second non-breast cancers - Invasive disease-free survival (iDFS) is defined according to Hudis (J Clin Oncol 2007) as the time period between randomization and first event.</outcome>
+      <timepoint>Time-to-Event Outcome Measure up to 71 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>distant disease free survival (DDFS) - Distant disease free survival (DDFS) is defined as the time period between randomization and diagnosis of first distant breast cancer recurrences.</outcome>
+      <timepoint>Time-to-Event Outcome Measure up to 71 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>overall survival (OS) - Overall survival (OS) is defined as the time period between randomization and death of any cause. An interim OS analysis will be conducted at the time of final iDFS analysis and final OS analysis will be conducted at a later time. In addition Relapse and Mortality data will be collected post study.</outcome>
+      <timepoint>Time-to-Event Outcome Measure up to 71 months - and post study</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>iDFS per treatment group in patients with luminal-B tumors (as determined by e.g. PAM50 or any other commercially available test at the time of analysis) - see above for event definition</outcome>
+      <timepoint>Time-to-Event Outcome Measure up to 71 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>compliance and safety according to NCI-CTCAE Version 4.0 - Descriptive statistics for the 2 treatments will be given on the number of patients whose treatment had to be reduced, delayed or permanently stopped.</outcome>
+      <timepoint>2019 and with interim analysis on safety</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>patients reported outcomes EORTC QLQ C30,  EORTC QLQ BR-23,  EORTC QLQ FA-13 Fatigue,  GAD7 patient self-rating mood scale - Screening, Cycle 1, 3, 5, 7, 9, 11, End of treatment and thereafter every 6 months until 233 events are observed</outcome>
+      <timepoint>Change Outcome up to 71 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>quality-adjusted life years (QALY), health economic outcomes EQ-5D - Screening, Cycle 1, 3, 5, 7, 9, 11, End of treatment and thereafter every 6 months</outcome>
+      <timepoint>Change Outcome Measure up to 71 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Area under the Curve (AUC), Cmax - Drug-drug interactions (DDI) potential for palbociclib - endocrine combination therapy
+In the first 24 patients receiving tamoxifen or anastrozol together with palbociclib/placebo plasma PK samples will be drawn on pre-dose and 2, 4, 6, 8, and 24 hours post-dose for DDI assessment.
+In the first 24 patients receiving gosereline and tamoxifen together with palbociclib/placebo, plasma PK samples will be drawn on Cycle 2 and Cycle 3 Days 1 and Day 14 pre-dose for DDI assessment.
+In addition in the first 24 patients receiving gosereline and tamoxifen together with palbociclib/placebo, plasma PK samples will be drawn on Cycle 2 and Cycle 3 Days 1 and Day 14 pre-dose for DDI assessment.</outcome>
+      <timepoint>pre-dose, 2, 4, 6, 8, and 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>correlations between exposure and efficacy and/or safety findings - Trough concentrations of PD-0332991 will be collected pre-dose on Day 14 of cycle 1 and 2 for all patients (including letrozol taking patients).</outcome>
+      <timepoint>Pharmacokinetic Outcomes Measure mit Cmax and AUC</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Based on protocol G version 11 dated 04 May 2017
+
+        Inclusion Criteria
+
+          1. Written informed consent prior to beginning specific protocol procedures, including
+             expected cooperation of the patients for the treatment and follow-up, must be obtained
+             and documented according to the local regulatory requirements.
+
+          2. Willingness and ability to provide archived formalin fixed paraffin embedded tissue
+             block or a partial block from surgery after neoadjuvant chemotherapy and from
+             core-biopsy before start of neoadjuvant chemotherapy, which will be used for
+             centralized retrospective confirmation of hormone- and HER2-status and to evaluate
+             correlation between genes, proteins, and mRNAs relevant to the endocrine and cell
+             cycle pathways and sensitivity/resistance to the investigational agents. In case of
+             bilateral breast cancer, tumor tissue of both sides needs to be assessable.
+
+          3. Histologically confirmed unilateral or bilateral primary invasive carcinoma of the
+             breast.
+
+          4. Residual invasive disease post-neoadjuvant either in the breast or as residual nodal
+             invasion.
+
+          5. Centrally confirmed hormone-receptor-positive (=1% ER and/or PR positive stained
+             cells) and HER2-normal (IHC score 0-1 or FISH negative (in-situ hybridization (ISH)
+             ratio) &lt;2.0 status) assessed preferably on tissue from post-neoadjuvant residual
+             invasive disease or core biopsy of the breast, or if no other tissue is available the
+             residual tumor of the lymphnode can be assessed.
+
+             In case of bilateral breast cancer hormonreceptor positivity and HER2-normal status
+             has to be centrally confirmed for both sides.
+
+          6. Centrally assessed Ki-67, pRB, and Cyclin D1 status assessed preferably on
+             post-neoadjuvant residual invasive disease of the breast, or if not possible, of
+             residual nodal invasion or core biopsy. In case of bilateral breast cancer, tumor
+             tissue of both sides needs to be assessable.
+
+          7. Patients must have received neoadjuvant chemotherapy of at least 16 weeks. This period
+             must include 6 weeks of a taxane -containing neoadjuvant therapy (Exception: For
+             patients with progressive disease that occurred after at least 6 weeks of
+             taxane-containing neoadjuvant treatment, a total treatment period of less than 16
+             weeks is also eligible).
+
+          8. Adequate surgical treatment including resection of all clinically evident disease and
+             ipsilateral axillary lymph node dissection. Histologically complete resection (R0) of
+             the invasive and ductal in situ tumor is required in case of breast conserving surgery
+             as the final treatment. No evidence of gross residual disease (R2) is required after
+             total mastectomy (R1 resection is acceptable). Axillary dissection is not required in
+             patients with a negative sentinel-node biopsy before (pN0, pN+(mic)) or after (ypN0,
+             ypN+(mic) neoadjuvant chemotherapy.
+
+          9. Less than 16 weeks interval since the date of final surgery or less than 10 weeks from
+             completing radiotherapy (whichever occurs last) at date of randomization.
+
+         10. Completion of adjuvant radiotherapy according to standard guidelines (e.g. AGO Mamma,
+             NCCN) is strongly recommended. If radiotherapy is not performed the reason for this
+             needs to be documented in the eCRF.
+
+         11. No clinical evidence for locoregional or distant relapse during or after preoperative
+             chemotherapy. Local progression during chemotherapy is not an exclusion criterion.
+
+         12. A clinical-pathologic stage - estrogen/grade (CPS-EG) score of =3, or score 2 if nodal
+             status at surgery is ypN+, calculated using local estrogen receptor status and grade
+             assessed on either core biopsies taken before start of neoadjuvant treatment or
+             surgical specimen (see chapter 21.1).
+
+         13. Age at diagnosis at least 18 years.
+
+         14. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1 (see Appendix
+             21.2).
+
+         15. Resolution of all acute toxic effects of prior anti cancer therapy or surgical
+             procedures to NCI CTCAE version 4.0 Grade =1 (except alopecia or other toxicities not
+             considered a safety risk for the patient at investigator's discretion).
+
+         16. Estimated life expectancy of at least 5 years irrespective of the diagnosis of breast
+             cancer.
+
+         17. The patient must be accessible for scheduled visits, treatment and follow-up. Patients
+             registered on this trial must be treated at the participating center which could be
+             the Principal or a Co- investigator's site.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Female</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion Criteria
+
+          1. Known severe hypersensitivity reactions to compounds similar to palbociclib or
+             palbociclib/placebo excipients or to endocrine treatments.
+
+          2. Inadequate organ function immediate prior to randomization including: Hemoglobin
+             &lt;10g/dL (100g/L); ANC &lt; 2000/mm³ (&lt; 2.0 x 109/L); Platelets &lt;100,000/mm³ (&lt; 100 x
+             109/L); AST or ALT &gt;1.5 x upper limit of normal (ULN); alkaline phosphatase &gt; 2.5 x
+             ULN, total serum bilirubin &gt; 1.25 x ULN; serum creatinine &gt;1.25 x ULN or estimated
+             creatinine clearance &lt; 60 mL/min as calculated using the method standard for the
+             institution; severe and relevant co-morbidity that would interact with the
+             participation in the study
+
+          3. Evidence for infection including wound infections, Human Immunodeficiency Virus (HIV)
+             or any type of Hepatitis
+
+          4. QTc &gt;480 msec
+
+          5. Uncontrolled electrolyte disorders (eg, hypocalcemia, hypokalemia, hypo¬magnesemia).
+
+          6. Any of the following within 6 months of randomization: myocardial infarction,
+             severe/unstable angina, ongoing cardiac dysrhythmias of NCI CTCAE version 4.0 Grade
+             =2, atrial fibrillation of any grade, coronary/peripheral artery bypass graft,
+             symptomatic congestive heart failure, cerebrovascular accident including transient
+             ischemic attack, or symptomatic pulmonary embolism.
+
+          7. Active inflammatory bowel disease or chronic diarrhea, short bowel syndrome, or any
+             upper gastrointestinal surgery including gastric resection.
+
+          8. Prior malignancy (including invasive or ductal in-situ breast cancer) within 5 years
+             prior to randomization, except curatively treated basal cell carcinoma of the skin and
+             carcinoma in situ of the cervix.
+
+          9. Current severe acute or uncontrolled chronic systemic disease (e.g. diabetes mellitus)
+             or psychiatric condition or laboratory abnormality that may increase the risk
+             associated with study participation or investigational product administration or may
+             interfere with the interpretation of study results and, in the judgment of the
+             investigator, would make the patient inappropriate for entry into this study.
+
+         10. Recent (within the past year) or active suicidal behavior.
+
+         11. Pregnancy or lactation period. Women of childbearing potential must implement adequate
+             non-hormonal contraceptive measures (barrier methods, intrauterine contraceptive
+             devices, sterilization) during study treatment and for 90 days after discontinuation.
+             A serum pregnancy test must be negative in premenopausal women or women with
+             amenorrhea of less than 12 months.
+
+         12. Major surgery within 2 weeks prior to randomization.
+
+         13. 10 weeks or more have passed since completion of radiotherapy at day of randomization
+             and 16 weeks interval since the date of final surgery have passed.
+
+         14. Prior treatment with any CDK4/6 inhibitor.
+
+         15. Patients treated within the last 7 days prior to randomization and/or concurrent use
+             of drugs known to be strong CYP3A4 inhibitors or inducers (see appendix 21.3)
+
+         16. Concurrent treatment with other experimental drugs. Participation in another clinical
+             trial with any investigational not marketed drug within 30 days prior to
+             randomization.
+
+         17. Male patients.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>1250</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/11/2023</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Contact: Australia and New Zealand Breast Cancer Trials Group - Newcastle</hospital>
+    <postcode>PO Box 155 - Newcastle</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Multiple</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Neu-Isenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Multiple</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>San Sebastián de los Reyes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>German Breast Group</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Pfizer</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>AGO Study Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>NSABP Foundation Inc</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Breast International Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The PENELOPEB study is designed to demonstrate that in the background of standard
+      anti-hormonal therapy palbociclib provides superior invasive disease-free survival (iDFS)
+      compared to placebo in pre- and postmenopausal women with HR-positive/HER2-normal early
+      breast cancer at high risk of relapse after showing less than pathological complete response
+      to neoadjuvant taxane- containing chemotherapy. Considering the high risk of recurrence in
+      patients after neoadjuvant chemotherapy and a high CPS-EG score, palbociclib appears to be an
+      attractive option with a favourable safety profile for these patients.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01864746</trialwebsite>
+    <publication>Mittendorf EA, Jeruss JS, Tucker SL, Kolli A, Newman LA, Gonzalez-Angulo AM, Buchholz TA, Sahin AA, Cormier JN, Buzdar AU, Hortobagyi GN, Hunt KK. Validation of a novel staging system for disease-specific survival in patients with breast cancer treated with neoadjuvant chemotherapy. J Clin Oncol. 2011 May 20;29(15):1956-62. doi: 10.1200/JCO.2010.31.8469. Epub 2011 Apr 11.
+Musgrove EA, Caldon CE, Barraclough J, Stone A, Sutherland RL. Cyclin D as a therapeutic target in cancer. Nat Rev Cancer. 2011 Jul 7;11(8):558-72. doi: 10.1038/nrc3090. Review.
+ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome. Nature. 2012 Sep 6;489(7414):57-74. doi: 10.1038/nature11247.
+Finn RS, Dering J, Conklin D, Kalous O, Cohen DJ, Desai AJ, Ginther C, Atefi M, Chen I, Fowst C, Los G, Slamon DJ. PD 0332991, a selective cyclin D kinase 4/6 inhibitor, preferentially inhibits proliferation of luminal estrogen receptor-positive human breast cancer cell lines in vitro. Breast Cancer Res. 2009;11(5):R77. doi: 10.1186/bcr2419.
+Symmans WF, Peintinger F, Hatzis C, Rajan R, Kuerer H, Valero V, Assad L, Poniecka A, Hennessy B, Green M, Buzdar AU, Singletary SE, Hortobagyi GN, Pusztai L. Measurement of residual breast cancer burden to predict survival after neoadjuvant chemotherapy. J Clin Oncol. 2007 Oct 1;25(28):4414-22. Epub 2007 Sep 4.
+Mauri D, Pavlidis N, Ioannidis JP. Neoadjuvant versus adjuvant systemic treatment in breast cancer: a meta-analysis. J Natl Cancer Inst. 2005 Feb 2;97(3):188-94.
+von Minckwitz G, Untch M, Blohmer JU, Costa SD, Eidtmann H, Fasching PA, Gerber B, Eiermann W, Hilfrich J, Huober J, Jackisch C, Kaufmann M, Konecny GE, Denkert C, Nekljudova V, Mehta K, Loibl S. Definition and impact of pathologic complete response on prognosis after neoadjuvant chemotherapy in various intrinsic breast cancer subtypes. J Clin Oncol. 2012 May 20;30(15):1796-804. doi: 10.1200/JCO.2011.38.8595. Epub 2012 Apr 16.
+</publication>
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Gunter von Minckwitz, MD, Prof</name>
+      <address>ASCO, AACR, ESMO, DKG, DGGG, AGO, DGS, BIG, BCIRG, St. Gallen Consensus Panel</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Anja Lomnitz</name>
+      <address />
+      <phone>+49 6102 7480</phone>
+      <fax />
+      <email>penelope@germanbreastgroup.de</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

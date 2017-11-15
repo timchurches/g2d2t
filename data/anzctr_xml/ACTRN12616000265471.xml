@@ -1,0 +1,279 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370135">
+  <stage>Registered</stage>
+  <submitdate>24/02/2016</submitdate>
+  <approvaldate>26/02/2016</approvaldate>
+  <actrnumber>ACTRN12616000265471</actrnumber>
+  <trial_identification>
+    <studytitle>A proactive Inpatient Diabetes Service to improve diabetes care in hospitalised patients.</studytitle>
+    <scientifictitle>Randomised study of a proactive Inpatient Diabetes Service on hospitalised patients with diabetes, evaluating its effect on adverse glycaemia and hospital complications. </scientifictitle>
+    <utrn />
+    <trialacronym>RAPIDS</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A proactive inpatient diabetes service (IDS)
+
+1) Consists of an endocrinology registrar &amp; diabetes nurse practitioner, overseen by an endocrinologist. The IDS will also include diabetes nurse educators and a dietician.
+
+2) Identifies inpatients with known diabetes or new hyperglycaemia without diabetes (fasting BGL &gt; 7.0 mmol/L or random BGL &gt; 11.1 mmol/L) using Connectivity Blood Glucose Meters (CBGM) and a central repository of point of care blood glucose levels (BGL).
+
+3) Identifies inpatients with unstable BGL or altered clinical state via the Glucose Alert Pathway. Glucose alert pathway is a paper-based clinical escalation guideline for nursing and treating team medical staff in response to hypoglycaemia, hyperglycaemia or a change in diabetes-related clinical status. 
+
+4) Delivers a consult service on all patients with known diabetes or new hyperglycaemia, early in their admission (aim within 48 hours after admission) &amp; without referral from the treating team (proactive care).  The consultation includes:
+  a) Assessment of diabetes control prior to admission and during hospitalisation. 
+  b) Appropriate adjustment of diabetes-related medications and insulin during hospitalisation
+  c) Provision of appropriate diabetes education and/or dietary advice
+  d) Optimisation of diabetes therapy at discharge from hospital
+A typical consult may last 5 - 20 minutes depending on the clinical scenario. The IDS may provide a single or multiple consults depending on clinical status. (e.g. if regular insulin or diabetes medication dose titration is required, there may be daily or second-daily consults, until discharge).
+
+5) Delivers individualised diabetes care in hospital using a variety of appropriate diabetes medication and insulin regimens depending on the clinical scenario.
+
+6) Facilitate discharge by formulating diabetes regimen and follow up plans following discharge. These plans will be communicated to the patient's local medical officer by a discharge summary. 
+
+The IDS intervention will be in place for 3 months. </interventions>
+    <comparator>Usual care: 
+Inpatient diabetes care will be managed by the treating team. The treating team can refer to the endocrinology registrar for advice and consult on patients as required. (As per current practice) </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Adverse glycaemic days (defined as any patient-day with BGL &lt; 4.0 mmol/L or &gt; 15.0 mmol/L) as a proportion of all patient-days.
+
+(BGL values will be collected from point-of-care tests performed on connectivity blood glucose meters)</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse clinical outcomes: A composite of infections (wound, urinary, respiratory, bacteraemia), acute kidney injury, myocardial infarct, unplanned critical care admission and in-hospital mortality. Data will be collected from hospital notes. 
+
+</outcome>
+      <timepoint>During hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Prescription of basal insulin during hospitalisation (data collected from inpatient medication chart)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Appropriate cessation of unsuitable anti-diabetic medications. (data obtained from inpatient medication chart)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Documented diabetes regimen and follow-up plan at discharge. (Data collected from patient discharge summary in patient notes)</outcome>
+      <timepoint>At patient discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient-day weighted mean glucose 
+(Data collected from point-of-care BGL values from connectivity blood glucose meters)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patient-days with hypoglycaemia (BGL &lt; 4.0 mmol/L). 
+(data collected from point-of-care BGL values from connectivity blood glucose meters)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patient-days with mean BGL &gt; 10.0 mmol/L 
+(data collected from point-of-care BGL values from connectivity blood glucose meters)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patient-days with mean BGL &gt; 15.0 mmol/L 
+(data collected from point-of-care BGL values from connectivity blood glucose meters)</outcome>
+      <timepoint>during hospitalisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay 
+(data collected from hospital inpatient administration database)</outcome>
+      <timepoint>at patient discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Consecutive inpatients with 
+1) Known diabetes OR
+2) New hyperglycaemia without known diabetes (fasting BGL &gt; 7.0 mmol/L or random BGL &gt; 11.1 mmol/L)
+that are admitted to the 8 participating wards at the Royal Melbourne Hospital.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients admitted under the diabetes and endocrinology team as the treating team.
+Patients admitted under palliative care team
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Cluster randomised design, based on participating wards.  
+8 participating wards are included (4 medical and 4 surgical).
+The wards will be randomised to 4 control and 4 intervention arms in a stratified manner so that even number of surgical and medical wards will be in each arm. 
+
+A random list of randomisation codes will be generated by a statistician and paired against a random medical or surgical ward in a stratified manner. </concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>In an initial 3-months baseline period, patient and glycaemic outcomes will be recorded from all 8 participating wards.
+Following this, the wards will be cluster randomised into 4 intervention and 4 control wards.
+A 3-month intervention period will then follow, where the 4 intervention wards will receive proactive IDS, and 4 control wards will continue usual care.
+
+The initial 3 month baseline period will help evaluate the effect of intervention as a change from baseline for each ward. 
+</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Baseline adverse glycaemic days (from pilot study) = 30%
+Expected recruitment during baseline phase = 600 (8 wards)
+Expected recruitment during intervention phase = 600 (8 wards) or 300 patients in each arm (4 wards) totalling 1050 patient-days.
+Using inter-cluster correlation coefficient of 0.05, and alpha of 0.05, there is &gt; 80% power to detect a change of adverse glycaemic days from 30% to 20%. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>7/03/2016</anticipatedstartdate>
+    <actualstartdate>7/03/2016</actualstartdate>
+    <anticipatedenddate>4/09/2016</anticipatedenddate>
+    <actualenddate>3/09/2017</actualenddate>
+    <samplesize>1200</samplesize>
+    <actualsamplesize>1107</actualsamplesize>
+    <currentsamplesize />
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <postcode>3050 - Royal Melbourne Hospital</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Royal Melbourne Hospital</primarysponsorname>
+    <primarysponsoraddress>Department of Diabetes and Endocrinology
+Level 4 West
+300 Grattan Street
+Parkville, Victoria 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Australian Diabetes Society</fundingname>
+      <fundingaddress>145 Macquarie street, Sydney, NSW 2000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Melbourne Hospital Home Lottery Grant</fundingname>
+      <fundingaddress>300 Grattan Street,
+Parkville 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background:
+The prevalence of diabetes in hospitalised patients is 25-30% in Australian hospitals. During hospitalisation for surgery or acute medical illness, diabetes management becomes more difficult. Resultantly, hypoglycaemia (low blood glucose) and hyperglycaemia (high blood glucose) frequently occur with associated  complications including infections, longer length of stay and mortality.
+
+The management of inpatient diabetes remains suboptimal due to multiple factors, including altered physiology, dynamic hospital processes and medication changes. There is inattention and clinical inertia to inpatient diabetes management due to numerous pressures on hospital beds, expediting acute care and the increasing prevalence of diabetes.  This study seeks to investigate a novel, proactive model of inpatient diabetes care. 
+
+Methods:
+This study is a cluster-randomised controlled trial of a proactive Inpatient Diabetes Service (IDS) model of care.  The IDS will identify inpatients with known diabetes and inpatients with new-onset hyperglycaemia using connectivity blood glucose meters and a "glucose alert pathway". The IDS will deliver a proactive consult service to these patients without referral from the treating teams, early in their admission. The IDS will manage inpatient diabetes care and facilitate discharge for these patients with the aim of increasing safety, reducing adverse glycaemia and reducing diabetes related complications. 
+
+Consecutive inpatients with known diabetes or new-onset hyperglycaemia, admitted to the 8 participating wards will be included. The participating 8 wards will be cluster-randomised to 4 intervention and 4 control wards. The trial consists of a 3-months baseline period followed by a 3-months intervention period. 
+
+It is hypothesised that the proactive IDS will reduce adverse glycaemia (unsafe blood glucose levels), adverse clinical outcomes and reduce length of stay in hospitalised patients with diabetes. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Melbourne Health, Human Research Ethics Committee</ethicname>
+      <ethicaddress>PO Box
+Royal Melbourne Hospital
+Parkville
+Victoria 3050</ethicaddress>
+      <ethicapprovaldate>24/06/2015</ethicapprovaldate>
+      <hrec>2015.126</hrec>
+      <ethicsubmitdate>27/05/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Spiros Fourlanos</name>
+      <address>Department of Diabetes and Endocrinology
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+613 9342 7365</phone>
+      <fax />
+      <email>spiros.fourlanos@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Mervyn Kyi</name>
+      <address>Department of Diabetes and Endocrinology
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+613 9342 7365</phone>
+      <fax />
+      <email>mervyn.kyi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Mervyn Kyi</name>
+      <address>Department of Diabetes and Endocrinology
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+613 9342 7365</phone>
+      <fax />
+      <email>mervyn.kyi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Mervyn Kyi</name>
+      <address>Department of Diabetes and Endocrinology
+Royal Melbourne Hospital
+300 Grattan Street
+Parkville, Victoria 3050</address>
+      <phone>+613 9342 7365</phone>
+      <fax />
+      <email>mervyn.kyi@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

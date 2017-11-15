@@ -1,0 +1,188 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372371">
+  <stage>Registered</stage>
+  <submitdate>16/02/2017</submitdate>
+  <approvaldate>20/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000253303</actrnumber>
+  <trial_identification>
+    <studytitle>Can placebo pills improve well-being even when you know you're taking a placebo?</studytitle>
+    <scientifictitle>Open-label placebo administration and well-being in healthy participants</scientifictitle>
+    <utrn>U1111-1193-1778 </utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Well-being</healthcondition>
+    <healthcondition>Sleep quality</healthcondition>
+    <healthcondition>Physical symptoms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Alternative and Complementary Medicine</conditioncode1>
+      <conditioncode2>Other alternative and complementary medicine</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Studies of normal psychology, cognitive function and behaviour</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Open-label placebo administration (1 placebo pill per day versus 4 placebo pills per day) for 5 days compared to a no treatment control condition. Adherence will be assessed via self-report at follow-up after completion of the course of placebo pills (day 6). </interventions>
+    <comparator>No treatment control condition - control participants will not take placebo pills and will be observation only through completion of study questionnaires </comparator>
+    <control>Active</control>
+    <interventioncode>Other interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Psychological well-being (DASS-21; Lovibond &amp; Lovibond, 1995; WEMWBS; Tennant et al., 2007)</outcome>
+      <timepoint>Follow-up 6 days post-randomisation (at completion of the 5-day course of placebo pills)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Sleep quality (PSQI, Buysse et al., 1989)</outcome>
+      <timepoint>6 days post-randomisation (at completion of the 5-day course of placebo pills)</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Physical symptoms (SHC; Eriksen, Ihlebaek &amp; Ursin, 1999)</outcome>
+      <timepoint>6 days post-randomisation (at completion of the 5-day course of placebo pills)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adherence to placebo treatment - assessed using brief self-report measures (number of pills missed, visual analog scale)</outcome>
+      <timepoint>6 days post-randomisation (at completion of the 5-day course of placebo pills)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants will be healthy undergraduate students</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Lactose intolerance</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation concealment via sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation table created by computer software (Excel) </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>3-way ANCOVA assessing primary outcomes across groups, controlling for baseline</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>27/02/2017</anticipatedstartdate>
+    <actualstartdate>7/03/2017</actualstartdate>
+    <anticipatedenddate>26/05/2017</anticipatedenddate>
+    <actualenddate>29/03/2017</actualenddate>
+    <samplesize>150</samplesize>
+    <actualsamplesize>92</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate>2/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate>6/04/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <postcode>2052 - Unsw Sydney</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Kate Faasse</primarysponsorname>
+    <primarysponsoraddress>School of Psychology
+UNSW Sydney
+NSW 2052</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of New South Wales</fundingname>
+      <fundingaddress>School of Psychology
+UNSW Sydney
+NSW 2052</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will investigate the role of dose in open-label placebo administration.  Recent studies have found that open-label placebo treatments are effective in improving symptoms of IBS, depression, ADHD, and low-back and migraine pain. These findings suggest the possibility of generating a placebo effect without deception. Participants will be recruited to take part in a study investigating the effect of open-label placebo administration on well-being and randomly assigned to one of three conditions: no-treatment control, low dose (1 pill per day), or high dose (4 pills per day) placebo administration. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname />
+      <ethicaddress />
+      <ethicapprovaldate>10/02/2017</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry />
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Kate Faasse</name>
+      <address>School of Psychology
+UNSW Sydney
+NSW 2052</address>
+      <phone>+61293850364</phone>
+      <fax />
+      <email>k.faasse@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kate Faasse</name>
+      <address>School of Psychology
+UNSW Sydney
+NSW 2052</address>
+      <phone>+61293850364</phone>
+      <fax />
+      <email>k.faasse@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Kate Faasse</name>
+      <address>School of Psychology
+UNSW Sydney
+NSW 2052</address>
+      <phone>+61293850364</phone>
+      <fax />
+      <email>k.faasse@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

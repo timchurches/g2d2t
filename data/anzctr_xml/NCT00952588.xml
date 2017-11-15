@@ -1,0 +1,349 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2449">
+  <stage>Registered</stage>
+  <submitdate>4/08/2009</submitdate>
+  <approvaldate>4/08/2009</approvaldate>
+  <nctid>NCT00952588</nctid>
+  <trial_identification>
+    <studytitle>Study to Investigate the Efficacy, Safety and Tolerability of AZD1152 Alone and in Combination With Low Dose Cytosine Arabinoside (LDAC)in Acute Myeloid Leukaemia (AML) Patients</studytitle>
+    <scientifictitle>A Randomised, Open-label, Multi-centre, 2-stage, Parallel Group Study to Assess the Efficacy, Safety and Tolerability of AZD1152 Alone and in Combination With Low Dose Cytosine Arabinoside (LDAC) in Comparison With LDAC Alone in Patients Aged = 60 With Newly Diagnosed Acute Myeloid Leukaemia (AML)</scientifictitle>
+    <utrn />
+    <trialacronym>SPARK-AML1</trialacronym>
+    <secondaryid>D1531C00009</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Myeloid Leukemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Acute leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Leukaemia - Chronic leukaemia</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Children's - Leukaemia &amp; Lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - AZD1152
+Treatment: drugs - LDAC
+
+Experimental: AZD1152 1200 mg - AZD1152 1200 mg, iv, 7 day infusion monotherapy
+
+Active Comparator: LDAC 20 mg - LDAC 20 mg, sc, bd, 10 days (400mg per cycle)
+
+
+Treatment: drugs: AZD1152
+1200 mg, iv, 7 day infusion
+
+Treatment: drugs: LDAC
+20 mg, sc, bd, 10 days
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Percentage of Patients With Overall Complete Response for Stage I - Percentage of patients achieving either a complete response (CR) or a confirmed complete remission with incomplete recovery of neutrophils or platelets (confirmed CRi). Per Cheson Criteria: Confirmed complete remission (CRi) is defined as a disappearance of blasts in the peripheral blood; a decrease in bone marrow blasts to &lt;5% total bone marrow nucleated cells demonstrated in bone marrow aspirate; absence of Auer rods; no persistent extramedullary leukaemia. Complete response (CR) is defined as all requirements to meet CRi and in addition: recovery of neutrophils to =1.0 x 109/L and platelets to =100 x 109/L; transfusion-independence.</outcome>
+      <timepoint>IWG Cheson criteria every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DoR): Stage I and Transition Phase - DoR was defined for the median of days which showed a confirmed CRi or CR, as the time from first documented evidence of CRi or CR until the first documented sign of disease progression or death. Duration of Response was measured from the Response Start date until evidence of patient relapse or death. Stage I : 45 patients randomized in a 2:1 ratio to AZD1152 or LDAC. Transition phase: enrollment of up to 30 additional patients randomized as per stage I.</outcome>
+      <timepoint>DoR was measured every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Free Survival (DFS) - Disease-free Survival is defined as the time from randomisation to relapse or death from any cause.</outcome>
+      <timepoint>DFS was measured every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time To Complete Response (TTCR) - TTCR is measured as time from randomization to either a complete response (CR) or a confirmed complete remission with incomplete recovery of neutrophils or platelets (confirmed CRi)</outcome>
+      <timepoint>Response was measured every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - Overall Survival is defined as the median time from randomisation to death from any cause. Patients who were not known to have died at the time of the analysis were censored at the date they were last known to be alive.</outcome>
+      <timepoint>Assessed from randomisation until the date of death from any cause, assessed up to 24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Patients With Worsened Trial Outcome Index (TOI) - TOI is derived from the sum of the Functional Well Being (FWB), Physical Well Being (PWB) and additional subscales of the FACT-Leu. The TOI subscale consists of 31 items with TOI scores ranging from 0 to 124. The TOI is described as a summary measure of HRQoL. Higher scores indicate better HRQoL. Negative changes from baseline indicate a worsening of HRQoL while positive changes indicate an improvement in HRQoL. A response of "Worsened" was a change from baseline in score of less than or equal to -9.</outcome>
+      <timepoint>TOI was measured every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percent of Patients With Worsened Functional Assessment of Cancer Therapy - Leukaemia (FACT-Leu) Score. - The total FACT-Leu score consists of 44 items with total scores ranging from 0 to 176. Higher scores indicate better HRQoL. Negative changes from baseline indicate a worsening of HRQoL while positive changes indicate an improvement in HRQoL. A response of "Worsened" was a change from baseline in score of less than or equal to -11.</outcome>
+      <timepoint>FACT-Leu was measured every 28 days from randomization for study duration (24 months, between 2009 - 2011)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Provision of written informed consent
+
+          -  Newly diagnosed male or female patients aged 60 and over
+
+          -  De Novo or Secondary AML
+
+          -  Not eligible for intensive induction with anthracycline-based combination chemotherapy
+             as a result of at least one of the following:Age =75 years; Adverse cytogenetics,
+             e.g., as defined by the MRC Prognostic Groupings; WHO performance status &gt;2; Organ
+             dysfunction arising from significant co-morbidities not directly linked to leukaemia</inclusivecriteria>
+    <inclusiveminage>60</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Participation in another clinical study in which an investigational product was
+             received within 14 days before the first dose in this study, or at any time if the
+             patient has not recovered from side-effects associated with that investigational
+             product
+
+          -  Administration of LDAC is clinically contraindicated
+
+          -  Patients with AML of FAB M3 classification Acute Promyelocytic Leukaemia (APL)
+
+          -  Patients with blast crisis of chronic myeloid leukaemia</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2/Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/07/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>74</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/06/2011</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Research Site - Westmead</hospital>
+    <hospital>Research Site - Herston</hospital>
+    <hospital>Research Site - Melbourne</hospital>
+    <hospital>Research Site - Parkville</hospital>
+    <postcode> - Westmead</postcode>
+    <postcode> - Herston</postcode>
+    <postcode> - Melbourne</postcode>
+    <postcode> - Parkville</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clermont-ferrand</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble Cedex 09</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 03</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille Cedex 09</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Duisburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Munster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Villingen-schwenningen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>BO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>GE</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>TO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>UD</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukui</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Gunma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Brasov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Tg Mures</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Asturias</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cataluna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Comunidad de Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Comunidad Valenciana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Brighton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>AstraZeneca</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of this study is to assess the efficacy, safety and tolerability of AZD1152 alone
+      and in combination with low dose cytosine arabinoside (LDAC) in comparison with LDAC alone in
+      AML patients.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00952588</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Paul Stockman</name>
+      <address>AstraZeneca</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

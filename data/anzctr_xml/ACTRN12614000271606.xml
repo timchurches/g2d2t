@@ -1,0 +1,241 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365907">
+  <stage>Registered</stage>
+  <submitdate>4/03/2014</submitdate>
+  <approvaldate>14/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000271606</actrnumber>
+  <trial_identification>
+    <studytitle>Abnormal fibre utilisation in ulcerative colitis in remission</studytitle>
+    <scientifictitle>Does increased dietary fibre intake improve colonic fermentation in patients with ulcerative colitis in remission compared with healthy subjects?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ulcerative colitis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Inflammatory bowel disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Dietary fibre was supplemented into the habitual diet for two intervention periods of 17 days each.  The supplements were introduced at 25% of full dose and incrementally increased to the total dose over 3 days. This was to reduce the risk of gut symptoms to improve compliance.
+Arm 1
+Fibre added into provided food, at low doses consisting of
+2-5 g resistant starch and 2-5 g of wheat bran fibre
+Arm 2
+15 g resistant starch and 12 g wheat bran fibre.
+There was a wash out period of 14 days between intervention arms.
+
+Compliance was measured and monitored with food intake diaries, check lists and returned food items. 
+
+</interventions>
+    <comparator>There was a control comparator for both patient and healthy subject groups. This consisted of an observation of 7 days on their habitual diet, without the intervention of dietary fibre supplementation.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Composite primary outcome; 
+Faecal indices:
+Faecal daily output, products of fermentation
+Faecal starch and non-starch polysaccharide output
+Microbial abundance 
+
+Faecal output was weighed, pH probed and SCFAs and Phenolic compounds measured with high performamce gas chromatography. Freeze dried faecal samples were analysed with commercial enzyme kits for residual fibres.  Microbial abundances were tested with quantative polymerase chain reaction and denaturing gradient gel electrophoresis.
+
+</outcome>
+      <timepoint>After 7 days of usual diet (baseline), after each dietary intervention (after 17 days of supplementation with low or high amounts of fibre).</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical indices:
+Tolerability of dietary supplements with regard to bowel symptoms was recorded on a 4 point Likert scale</outcome>
+      <timepoint>At the end of each dietary intervention period (day 17 of each arm)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Whole gut transit time 
+Measured using radio-opaque markers x-rayed in 3 day faecal collection </outcome>
+      <timepoint>Measured during the last 3 days of each observed period; baseline control period, and both intervention arms. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Age over 18 years
+Diagnosis of ulcerative colitis, in remission
+
+Healthy control inclusion criteria were age over 18 yrs, absence of bowel disease and absence of medication which affect bowel function and microbiota
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Diagnosis of Crohn's disease, colectomy
+Use of any of the following medication within the preceding 4 weeks, due to their effect on bowel and or microbial function:
+Sulfasalazine, antibiotics, laxatives, topical rectal therapy, codeine or constipating drugs.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by computer</concealment>
+    <sequence>Simple randomisation via computerised random sequence generator</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The study was planned to be exploratory only, and therefore, no sample size calculations were utilised.
+To examine the differences between controls and subjects with UC, unpaired t tests were utilised and, for non-parametric data, the Kruskal-Wallis test was used. 
+Paired biochemical data were compared using paired t tests.  Bonferroni corrections were made to determine statistical significance.  
+Microbiological data were analysed using the PRIMER 6+Permanova package. The baseline data were analysed using a Euclidian distance matrix and differences between controls and subjects were calculated a one-way Permanova analysis.  Differences between volunteers and diets during diet supplementation were assessed using a Euclidian distance matrix followed by a two-way and pair-wise Permanova analysis.  DGGE banding patterns were analysed using a Bray-Curtis similarity matrix on log-transformed data followed by Permanova analysis.  The Shannon index values, calculated based on log-transformed DGGE banding patterns, were analysed using a Euclidian distance matrix.  </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>3/06/2002</anticipatedstartdate>
+    <actualstartdate>8/07/2002</actualstartdate>
+    <anticipatedenddate>18/08/2008</anticipatedenddate>
+    <actualenddate>18/08/2008</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Box Hill Hospital - Box Hill</hospital>
+    <postcode>3128 - Box Hill Central</postcode>
+    <postcode>3128 - Box Hill</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Sally James</primarysponsorname>
+    <primarysponsoraddress>Department of Gastroenterology
+Eastern Health Clinical School, Monash University,
+Level 2, 5 Arnold Street
+Box Hill, 
+Victoria 3128</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The main author was in receipt of a scholarship from
+Gastroenterological Society of Australia </fundingname>
+      <fundingaddress>PO Box 508
+Mulgrave 3170
+Victoria, Australia </fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>Commonwealth Scientific and Industrial Research Organisation</sponsorname>
+      <sponsoraddress>CSIRO Animal, Food &amp; Health Sciences,
+Food Futures National Research Flagship,
+Gate 13 Kintore Ave, 
+Adelaide, 
+SA 5000</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Already known about fibre and ulcerative colitis is that
+a) Fibre intake goals not achieved by patients with ulcerative colitis 
+b) Gut microbiota differ in patients with ulcerative colitis from healthy people
+c) Dietary management of ulcerative colitis is not well established
+
+New Findings are that
+a) Patients with inactive ulcerative colitis often have reduced ability to ferment fibre
+b) Supplementation with fibre as a combination of resistant starch and wheat bran-associated non-starch polysaccharide is well tolerated in patients with ulcerative colitis in remission 
+c) Supplementation with this fibre combination tends to normalise gut transit, but does not increase the proportion of dietary fibre fermented 
+d) Diminished fermentation is not related to rapid gut transit, but more likely resides in the abnormal microbiota
+
+Impact on future clinical practice
+a) The effects of dietary manipulation directed at changing colonic physiology and/or gut microbiota in healthy subjects cannot be extrapolated to patients with ulcerative colitis 
+b) Supplementation with a combination of resistant starch and wheat bran in patients with ulcerative colitis may have some benefits to colonic physiology and health
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Eastern Health Research and Ethics Committee</ethicname>
+      <ethicaddress>5 Arnold St
+Box Hill 
+VIc 3128</ethicaddress>
+      <ethicapprovaldate>6/05/2002</ethicapprovaldate>
+      <hrec>E17 0203</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Sally L James</name>
+      <address>Department of Gastroenterology
+Eastern Health Clinical School 
+Monash University
+5 Arnold St
+Box Hill
+Vic 3128</address>
+      <phone>61 3 9094 9555</phone>
+      <fax />
+      <email>sally.james@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sally L James</name>
+      <address>Department of Gastroenterology
+Eastern Health Clinical School 
+Monash University
+5 Arnold St
+Box Hill
+Vic 3128</address>
+      <phone>61 3 9094 9555</phone>
+      <fax />
+      <email>sally.james@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sally L James</name>
+      <address>Department of Gastroenterology
+Eastern Health Clinical School 
+Monash University
+5 Arnold St
+Box Hill
+Vic 3128</address>
+      <phone>61 3 9094 9555</phone>
+      <fax />
+      <email>sally.james@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sally L James</name>
+      <address>Department of Gastroenterology
+Eastern Health Clinical School 
+Monash University
+5 Arnold St
+Box Hill
+Vic 3128</address>
+      <phone>61 3 9094 9555</phone>
+      <fax />
+      <email>sally.james@monash.edu</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

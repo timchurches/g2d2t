@@ -1,0 +1,994 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="5560">
+  <stage>Registered</stage>
+  <submitdate>16/07/2010</submitdate>
+  <approvaldate>16/07/2010</approvaldate>
+  <nctid>NCT01168973</nctid>
+  <trial_identification>
+    <studytitle>A Study of Chemotherapy and Ramucirumab Versus Chemotherapy Alone in Second Line Non-Small Cell Lung Cancer (NSCLC) Participants Who Received Prior First Line Platinum-based Chemotherapy</studytitle>
+    <scientifictitle>A Randomized, Double-Blind, Phase 3 Study of Docetaxel and Ramucirumab Versus Docetaxel and Placebo in the Treatment of Stage IV Non-Small Cell Lung Cancer Following Disease Progression After One Prior Platinum-Based Therapy</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>I4T-MC-JVBA</secondaryid>
+    <secondaryid>13852</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Non-Small Cell Lung Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Mesothelioma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Other interventions - Ramucirumab
+Treatment: drugs - Placebo (for Ramucirumab)
+Treatment: drugs - Docetaxel
+
+Experimental: Ramucirumab + Docetaxel - 
+
+Placebo Comparator: Placebo + Docetaxel - 
+
+
+Other interventions: Ramucirumab
+10 milligrams per kilogram (mg/kg) administered intravenously (IV) on Day 1 of 21-day cycle until disease progression, unacceptable toxicity, or another withdrawal criterion is met
+
+Treatment: drugs: Placebo (for Ramucirumab)
+Administered IV on Day 1 of 21-day cycle until disease progression, unacceptable toxicity, or another withdrawal criterion is met
+
+Treatment: drugs: Docetaxel
+75 milligrams per square meter (mg/m^2) (60 mg/m^2 for the countries of Korea and Taiwan only with protocol amendment dated 22 May 2012) administered IV on Day 1 of 21-day cycle until disease progression, unacceptable toxicity, or another withdrawal criterion is met
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival - Overall survival was the time from randomization until the date of death from any cause. Participants who were alive at the end of the follow-up period (or lost to follow-up) were censored on the last date the participant was known to be alive.</outcome>
+      <timepoint>Randomization to date of death from any cause (up to 34 months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS) Time - PFS time was the time from randomization until the date of objectively determined progressive disease (PD) or death due to any cause, whichever occurred first. According to Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1), PD was at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. In addition to the 20% relative increase, the sum must have also demonstrated an absolute increase of at least 5 millimeters (mm). The appearance of 1 or more new lesions and/or unequivocal progression of existing nontarget lesions was also considered progression. Participants without objectively determined PD who were alive at the end of the follow-up period (or lost to follow-up) were censored on the date of the participant's last complete radiographic tumor assessment; if no baseline or post-baseline radiologic assessment was available, the participant was censored at the date of randomization.</outcome>
+      <timepoint>Randomization to measured PD or date of death from any cause (up to 29 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Achieving an Objective Response (Objective Response Rate) - Participants achieved an objective response if they had a best overall response of partial response (PR) or complete response (CR). According to RECIST v1.1, PR was defined as at least a 30% decrease in the sum of the diameters of target lesions (including the short axes of any target lymph node), taking as reference the baseline sum diameter; CR was the disappearance of all non-nodal target lesions, with the short axes of any target lymph node reduced to &lt;10 mm, the disappearance of all nontarget lesions, and the normalization of tumor marker levels [if tumor markers were initially above the upper limit of normal (ULN)]. The percentage of participants who achieved an objective response=(number of participants with CR or PR)/(number of participants assessed)*100.</outcome>
+      <timepoint>Baseline to measured PD (up to 29 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Achieving Disease Control (Disease Control Rate) - Participants achieved disease control if they had a best overall response of PR, CR or stable disease (SD). According to RECIST v1.1, PR was defined as at least a 30% decrease in the sum of the diameters of target lesions (including the short axes of any target lymph node), taking as reference the baseline sum diameter; CR was the disappearance of all non-nodal target lesions, with the short axes of any target lymph node reduced to &lt;10 mm, the disappearance of all nontarget lesions, and the normalization of tumor marker levels (if tumor markers were initially above the ULN). SD was neither sufficient shrinkage to qualify as PR nor sufficient increase to qualify as PD, taking as reference the smallest sum diameter since treatment started. The percentage of participants who achieved disease control=(number of participants with CR, PR, or SD)/(number of participants assessed)*100.</outcome>
+      <timepoint>Baseline to measured PD (up to 29 months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum Improvement on Lung Cancer Symptom Scale (LCSS) - The LCSS consisted of 9 items: 6 items focused on lung cancer symptoms [loss of appetite, fatigue, cough, dyspnea (shortness of breath), hemoptysis (blood in sputum), and pain] and 3 items were global items (symptom distress, interference with activity level, and global quality of life). Participant responses to each item were measured using visual analogue scales (VAS) with 100-mm lines. A higher score for any item represented a higher level of symptoms/problems. The Average Symptom Burden Index (ASBI) was the mean of the 6 symptom items of the LCSS, and the Total LCSS was the mean of all 9 LCSS items. ASBI and Total LCSS were not computed for a participant if he/she had 1 or more missing values for the 6 and 9 items, respectively. Maximum improvement in LCSS scores, ASBI, and Total LCSS score was the largest decrease from baseline for each variable, which was the smallest (most negative or smallest positive) non-missing value among all change from baseline values for each variable.</outcome>
+      <timepoint>Baseline, Day 21 of each cycle, and 30 days following last infusion (up to Cycle 38, 21 days/cycle)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline to 30-Day Follow-Up Visit on European Quality of Life Questionnaire-5 Dimension (EQ-5D) Health State Scores - The EQ-5D is a quality-of-life instrument that consists of 2 parts. The first part (Health State Index score) allowed participants to rate their health state in 5 health domains: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression using a scale from 1 to 3 (no problem, some problems, and extreme problems, respectively). These combinations of attributes were converted into a weighted Health State Index score according to a United Kingdom population-based algorithm; the possible values for the Health State Index score ranged from -0.59 (severe problems in all 5 dimensions) to 1.0 (no problem in any dimension). The second part of the EQ-5D was a VAS that allowed participants to rate their present health condition. Possible EQ-5D VAS scores ranged from 0 (worst imaginable health state) to 100 (best imaginable health state).</outcome>
+      <timepoint>Baseline, 30 days following last infusion (up to Cycle 38, 21 days/cycle)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum and Minimum Serum Concentrations (Cmax and Cmin) of Ramucirumab</outcome>
+      <timepoint>Prior to infusion and 1 hour following infusion for 4 and 8 (cycles 3 and 5 at 21 days/cycle)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Anti-Ramucirumab Antibodies - The number of participants who had treatment-emergent or follow-up emergent anti-drug antibodies (ADA) is reported. Participants with treatment-emergent ADA were defined as participants who had any sample from baseline through Cycle 5 pre-infusion that was a 4-fold increase (2 dilution increase) in immunogenicity titer over the baseline titer, or participants who tested negative at baseline and positive post-baseline (at titer of =1:20). Participants with follow-up emergent ADA were defined as participants who had any sample during 30 days post last infusion that was a 4-fold increase (2 dilution increase) in immunogenicity titer over the baseline titer.</outcome>
+      <timepoint>Baseline, prior to infusion for week 4 and 8 (cycles 3 and 5), and 30 days following last infusion (up to Cycle 38, 21 days/cycle)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Disease progression during or after one prior first-line platinum-based chemotherapy
+             with or without maintenance therapy
+
+          -  Prior bevacizumab as first-line and/or maintenance therapy is allowed
+
+          -  Signed informed consent
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1
+
+          -  Histologically or cytologically confirmed NSCLC
+
+          -  Stage IV NSCLC disease
+
+          -  Participants have measurable or nonmeasurable disease
+
+          -  Adequate organ function, defined as:
+
+               -  Total bilirubin less than or equal to Upper Limit of Normal (ULN),
+
+               -  Aspartate Aminotransferase (AST) and Alanine Aminotransaminase (ALT) less than or
+                  equal to 2.5 x ULN, or less than or equal to 5 x ULN if the transferase elevation
+                  is due to liver metastases,
+
+               -  Serum creatinine less than or equal to 1.5 x ULN or calculated creatinine
+                  clearance greater than or equal to 50 milliliters per minute (ml/min) (per the
+                  Cockcroft-Gault formula or equivalent and/or 24-hour urine collection),
+
+               -  Absolute Neutrophil Count (ANC) greater than or equal to 1.5 x 10^3/microliters
+                  (µL), hemoglobin greater than or equal to 10.0 grams/deciliter (g/dL), and
+                  platelets greater than or equal to 100 x 10^3/µL,
+
+               -  Adequate coagulation function as defined by International Normalized Ratio (INR)
+                  less than or equal to 1.5, or prothrombin time and partial thromboplastin time
+                  less than or equal to 1.5 x ULN.
+
+               -  The participant does not have cirrhosis at a level of Child-Pugh B (or worse) or
+                  cirrhosis (any degree) and a history of hepatic encephalopathy or clinically
+                  meaningful ascites resulting from cirrhosis. Clinically meaningful ascites is
+                  defined as ascites resulting from cirrhosis and requiring ongoing treatment with
+                  diuretics and/or paracentesis.
+
+          -  Urinary protein is less than or equal to 1+ on dipstick or routine urinalysis. If
+             urine dipstick or routine analysis indicates proteinuria greater than or equal to 2+,
+             a 24-hour urine must be collected and must demonstrate less than 1000 milligrams (mg)
+             of protein.
+
+          -  Participants of reproductive potential (both sexes) must agree to use reliable method
+             of birth control (hormonal or barrier methods) during the study period and at least 12
+             weeks after the last dose of study therapy
+
+          -  Life expectancy of greater than or equal to 3 months
+
+          -  Prior radiation therapy is allowed if: In the case of chest radiotherapy at least 28
+             days have elapsed from the completion of radiation treatment prior to randomization;
+             In the case of focal or palliative radiation treatment at least 7 days have elapsed
+             from last radiation treatment prior to randomization (and provided that 25% or less of
+             total bone marrow had been irradiated); In the case of Central Nervous System (CNS)
+             radiation at least 14 days have elapsed from the completion of radiation treatment
+             prior to randomization</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Disease progression on more than 1 prior chemotherapy regimens
+
+          -  Participants whose only prior treatment was a tyrosine kinase inhibitor
+
+          -  The participant's tumor wholly or partially contains small cell lung cancer
+
+          -  Major surgery within 28 days prior to randomization, or subcutaneous venous access
+             device placement within 7 days prior to randomization. Postoperative bleeding
+             complications or wound complications from a surgical procedure performed in the last 2
+             months.
+
+          -  Concurrent treatment with other anticancer therapy, including other chemotherapy,
+             immunotherapy, hormonal therapy, chemoembolization, or targeted therapy
+
+          -  Last dose of bevacizumab must be at least 28 days from time of randomization
+
+          -  Last dose of cytotoxic chemotherapy must be at least 14 days from time of
+             randomization
+
+          -  The participant has untreated CNS metastases. Participants with treated brain
+             metastases are eligible if they are clinically stable with regard to neurologic
+             function, off steroids after cranial irradiation ending at least 2 weeks prior to
+             randomization, or after surgical resection performed at least 28 days prior to
+             randomization. No evidence of Grade greater than or equal to 1 CNS hemorrhage based on
+             pretreatment Magnetic Resonance Imaging (MRI) or IV contrast Computed Tomography (CT)
+             scan.
+
+          -  Radiologically documented evidence of major blood vessel invasion or encasement by
+             cancer
+
+          -  Radiographic evidence of intratumor cavitation
+
+          -  History of uncontrolled hereditary or acquired thrombotic disorder
+
+          -  Chronic therapy with nonsteroidal anti-inflammatory drug (NSAIDs) or other
+             antiplatelet agents; Aspirin use at doses up to 325 milligrams per day (mg/day) is
+             permitted
+
+          -  History of gross hemoptysis (defined as bright red blood or greater than or equal to
+             1/2 teaspoon) within 2 months prior to randomization
+
+          -  Clinically relevant congestive heart failure [New York Heart Association (NYHA II-IV)]
+             or symptomatic or poorly controlled cardiac arrhythmia
+
+          -  Any arterial thrombotic event, including myocardial infarction, unstable angina,
+             cerebrovascular accident, or transient ischemic attack, within 6 months prior to
+             randomization
+
+          -  Uncontrolled arterial hypertension greater than or equal to 150 / greater than or
+             equal to 90 millimeters of mercury (mm Hg) despite standard medical management
+
+          -  Serious or nonhealing wound, ulcer, or bone fracture within 28 days prior to
+             randomization
+
+          -  Significant bleeding disorders, vasculitis, or Grade 3/4 gastrointestinal bleeding
+             within 3 months prior to randomization
+
+          -  Gastrointestinal (GI) perforation and/or fistulae within 6 months prior to
+             randomization
+
+          -  Bowel obstruction, history or presence of inflammatory enteropathy or extensive
+             intestinal resection Crohn's disease, ulcerative colitis, or chronic diarrhea
+
+          -  Peripheral neuropathy greater than or equal to Grade 2 [National Cancer Institute
+             Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 4.02]
+
+          -  Serious illness or medical condition(s) including, but not limited to: Human
+             immunodeficiency virus (HIV) infection or acquired immunodeficiency syndrome
+             (AIDS)-related illness; Active or uncontrolled clinically serious infection; Severe
+             acute or chronic medical or psychiatric condition or laboratory abnormality that may
+             increase the risk associated with study participation or study drug administration
+
+          -  Known allergy or hypersensitivity reaction to any of the treatment components
+
+          -  The participant is pregnant or breastfeeding
+
+          -  Current or recent (within 28 days prior to randomization) treatment with an
+             investigational drug or device that has not received regulatory approval for any
+             indication at the time of randomization, or participation in another interventional
+             clinical trial
+
+          -  Prior therapy with docetaxel</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/12/2010</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>1253</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/08/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Iowa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Louisiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nevada</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Hampshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Córdoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>La Rioja</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Rosario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Tucumain</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Viedma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Grimmenstein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Barretos</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Belo Horizonte</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Goiania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>São Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>New Brunswick</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre Les Nancy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Augsburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bad Soden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bielefeld</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Gerlingen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Großhansdorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Halle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Immenhausen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Oldenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Villingen-Schwenningen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Chania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Kifissia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Patras</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Gyula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Matrahaza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Nyiregyhaza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Pécs</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szekesfehervar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Bangalore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Cuttack</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Jaipur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Kochin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Madurai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Mumbai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Pune</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Trivandrum</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Jerusalem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Kfar Saba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Safed</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Tel-Aviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Livorno</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Monza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Novara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Palermo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pisa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rome</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Suwon-City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Guadalajara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Mexico City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Arnhem</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Harderwijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>S-Hertogenbosch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Zwolle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Grafton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tromsø</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdynia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Glucholazy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Opole</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Otwock</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Puerto Rico</country>
+      <state>Bayamon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Saint Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Stavropol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Girona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Las Palmas De Gran Canaria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Mataró</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pamplona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pozuelo De Alarcon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Eskilstuna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Linkoping</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Lund</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Solna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Fribourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Luzern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zurich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kuei Shan Hsiang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Neihu Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Niao Sung Hsiang</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Kayseri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>East Yorkshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Greater London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Lancashire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>North Lincolnshire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Scotland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>West Midlands</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Eli Lilly and Company</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>ImClone LLC</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The purpose of the study is to compare the survival of participants who receive chemotherapy
+      and ramucirumab versus chemotherapy alone as second line treatment for NSCLC after prior
+      first line platinum-based chemotherapy.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01168973</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9AM - 5PM Eastern time (UTC/GMT - 5 hours, EST)</name>
+      <address>Eli Lilly and Company</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

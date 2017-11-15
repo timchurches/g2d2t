@@ -1,0 +1,782 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2764">
+  <stage>Registered</stage>
+  <submitdate>8/04/2010</submitdate>
+  <approvaldate>8/04/2010</approvaldate>
+  <nctid>NCT01122472</nctid>
+  <trial_identification>
+    <studytitle>Study of Lenalidomide Maintenance Versus Placebo in Responding Elderly Patients With DLBCL and Treated With R-CHOP</studytitle>
+    <scientifictitle>Double Blind Randomized Phase III Study of Lenalidomide Maintenance Versus Placebo in Responding Elderly Patients With DLBCL and Treated With R-CHOP in First Line</scientifictitle>
+    <utrn />
+    <trialacronym>REMARC</trialacronym>
+    <secondaryid>REMARC</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lymphoma</healthcondition>
+    <healthcondition>Diffuse Large B-cell Lymphoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - High grade lymphoma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lymphoma (non Hodgkin's lymphoma) - Low grade lymphoma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Lenalidomide
+Treatment: drugs - Placebo
+
+Experimental: Lenalidomide - Lenalidomide daily for 3 weeks every 4 weeks for 24 months
+
+Placebo Comparator: Placebo - Placebo daily for 3 weeks every 4 weeks for 24 months
+
+
+Treatment: drugs: Lenalidomide
+Daily for 3 weeks every 4 weeks for 24 months
+
+Treatment: drugs: Placebo
+Daily for 3 weeks every 4 weeks for 24 months
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-Free-Survival (PFS) - PFS will be measured from the date of randomization to the date of first documented disease progression or death. Progression data will be assigned to the earliest time when any progression is observed without prior missing assessments during the study up to the end of the follow up phase.</outcome>
+      <timepoint>Final PFS analysis will be realized when the number of events (160) has been reached or at the latest when the last patient into the study will finish follow up. The approximate schedule will be 75 months after the first patient randomized.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival (OS) - From the date of randomization to the date of death from any cause Interim analysis of OS will be performed at the time of the PFS final analysis; it is projected to have 97 deaths at this time. Final analysis of OS at the end of the study, defined by the last visit of follow-up for the last patient randomized, 5 years after its randomization</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Event-Free Survival (EFS) - From the date of randomization to the date of first documented disease progression, relapse, initiation of new anti-lymphoma therapy or death from any cause Interim analysis of EFS will be performed at the time of the PFS final analysis. Final analysis of OS at the end of the study, defined by the last visit of follow-up for the last patient randomized, 5 years after its randomization</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Response rate at the end of maintenance treatment</outcome>
+      <timepoint>24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients who convert from PR (partial response) to CR (complete response)</outcome>
+      <timepoint>24 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety of lenalidomide in maintenance - Toxicities occured during maintenance phase will be measured and reported from grade 2 for infection and neurological toxicities and from grade 3 for other toxicities according to CTCAE v3</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>PFS2 - From randomization to objective tumor progression on next-line treatment or death from any cause</outcome>
+      <timepoint>5 years</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Ages Eligible for Study: Between 60 and 80 years old
+
+        Genders Eligible for Study: Both
+
+        Accepts Healthy Volunteers: No
+
+        
+
+        For patients registered at the time of initial diagnosis
+
+          -  Patient with histologically proven CD20+ diffuse large B cel LYMPHOMA (DLBCL) 5WHO
+             classification 2008) including clinical subtypes (primitive mediastinal,
+             intravascular, etc.). Patients with De Novo Transformed DLBCL from low grade lymphoma
+             (Follicular, other..) may also be included. Patients with DLBCL associated with some
+             small cell infiltration in bone marrow may also be included Or CD20+ B-cell lymphoma
+             with intermediate features between DLBCL and Burkitt or with intermediate features
+             between DLBCL and classical Hodgkin lymphoma Or CD20+ Follicular lymphoma grade 3B Or
+             CD20+ Aggressive B-cell lymphoma unclassifiable
+
+          -  previous untreated with chemo- or radiotherapy
+
+        For patients registered after response evaluation to first line treatment with R-CHOP:
+
+          -  Patient with histologically proven CD20+ diffuse large B cell LYMPHOMA (DLBCL) 5WHO
+             classification 2008) including clinical subtypes (primitive mediastinal,
+             intravascular, etc.). Patients with De Novo Transformed DLBCL from low grade lymphoma
+             (Follicular, other..) may also be included. Patients with DLBCL associated with some
+             small cell infiltration in bone marrow may also be included Or CD20+ B-cell lymphoma
+             with intermediate features between DLBCL and Burkitt or with intermediate features
+             between DLBCL and classical Hodgkin lymphoma Or CD20+ Follicular lymphoma grade 3B Or
+             CD20+ Aggressive B-cell lymphoma unclassifiable
+
+          -  Have reached a CR or PR after first line treatment with at least 6 cycles of R-CHOP 14
+             regimens and up to 8 cycles of R-CHOP21
+
+          -  Previously untreated with Radiotherapy
+
+        For all patients:
+
+          -  aged from 60 to 80 years at time of registration
+
+          -  Ann Arbor stages II-IV at time of initial diagnosis
+
+          -  aaIPI&gt; 1 at time of initial diagnosis
+
+          -  ECOG performance status 0-2
+
+          -  Minimum life expectancy of 3 months
+
+          -  Following laboratory values at screening:
+
+               -  ANC= 1000.10^6/L and Platelets=60000.10^6/L
+
+               -  AST&lt;5*ULN, ALT&lt;5*ULN, Total Bilirubin&lt;1,5*ULN
+
+               -  Creatinine clearance&gt;30mL/min
+
+          -  Women are are using effective contraception, are not pregnant and agree not to become
+             pregnant during participation in the trial and after end of study. Men agree not to
+             father a child during participation in the trial and during the 12 months thereafter.
+
+          -  Having previously signed a written informed consent form</inclusivecriteria>
+    <inclusiveminage>60</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Any other histological type of Lymphoma, Burkitt included.
+
+          -  Any history of treated or non treated small B-cell lymphoma
+
+          -  Central nervous system or meningeal involvement by lymphoma
+
+          -  Contraindication to any drug contained in the chemotherapy regimen Myocardial
+             infarction during last 3 months or unstable coronary disease or uncontrolled chronic
+             symptomatic congestive heart insufficiency NYHA III-IV
+
+          -  Uncontrolled hypertension
+
+          -  Uncontrolled diabetes mellitus as defined by the investigator
+
+          -  Active systemic infection requiring treatment
+
+          -  previously known HIV positive serology
+
+          -  Active hepatitis B or C
+
+          -  Prior history of malignancies other than lymphoma within 3 years
+
+          -  Serious medical or psychiatric illness</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>650</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/09/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Flinders Medical Centre - Repatriation General Hospital - Adelaïde south australia</hospital>
+    <hospital>Bendigo Hospital - Bendigo</hospital>
+    <hospital>Concord Repatriation General Hospital - Concord - nsw</hospital>
+    <hospital>St Vincent's Hospital, Melbourne - Fitzroy</hospital>
+    <hospital>Frankston Hospital Monash Medical Centre - Frankston</hospital>
+    <hospital>Fremantle Hospital - Fremantle - WA</hospital>
+    <hospital>Austin Hospital - Heidelberg</hospital>
+    <hospital>Royal Hobart Hospital - Hobart</hospital>
+    <hospital>Mater Misericordiae Hospital - Calvary Mater NewCastle - Hunter</hospital>
+    <hospital>St George Hospital - Kogarah</hospital>
+    <hospital>Sir Charles Gardiner Hospital - Nedlands - WA</hospital>
+    <hospital>Gold Coast Hospital - Southport</hospital>
+    <hospital>Canberra Hospital - Woden - ACT</hospital>
+    <hospital>Albury Base Hospital/Murray Valley Private Hospital - Wodonga</hospital>
+    <hospital>Queen Elizabeth Hospital - Woodville -sa</hospital>
+    <postcode>5000 - Adelaïde south australia</postcode>
+    <postcode>3550 - Bendigo</postcode>
+    <postcode>2139 - Concord - nsw</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3199 - Frankston</postcode>
+    <postcode>6160 - Fremantle - WA</postcode>
+    <postcode>69126 - Heidelberg</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>2310 - Hunter</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>6009 - Nedlands - WA</postcode>
+    <postcode>4215 - Southport</postcode>
+    <postcode>2606 - Woden - ACT</postcode>
+    <postcode>3690 - Wodonga</postcode>
+    <postcode>5011 - Woodville -sa</postcode>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Feldkirch</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Innsbruck</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Leoben</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Steyr</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Antwerpen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Arlon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruges</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Bruxelles</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Charleroi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Chimay</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gosselies</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Haine saint paul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>HUY</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Jette</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Kortrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liege</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Mons</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Ottignies</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Roeselare</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Verviers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Wilrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Yvoir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Annecy Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Antibes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Arras Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Avignon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bayonne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Blois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bobigny</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>BONDY Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Boulogne sur Mer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bourg-en-Bresse</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brive-La-Gaillarde</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>CAEN Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cannes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Chalon sur Saone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Chambery</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Chartres Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clamart</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Colmar Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Compiegne Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Corbeil-Essonnes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Créteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dijon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Dunkerque</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Evreux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Frejus</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Gueret</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Kremlin Bicêtre Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>La Rochelle Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Le Chesnay</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>LE Mans</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>LIMOGES Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>LYON Cedex 08</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Macon Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Meaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>MELUN Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Metz Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Mougins</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>MULHOUSE Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Neuilly sur seine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 04</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris Cedex 13</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Perpignan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre Bénite Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pontoise</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>REIMS Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Saint Cloud Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>St Germain en Laye</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Toulouse Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Troyes Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Valence Cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Valenciennes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Vandoeuvre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>VILLEJUIF Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Afula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ashkelon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beer sheva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Haifa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Kfar saba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah Tikwah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Rehovot</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Chorzow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Krakow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warsaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Coimbra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>A coruna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alcorcon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>El palmar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Jerez de la frontera</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Leon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Oviedo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santander</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Tarragona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Terrassa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Lausanne</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>The Lymphoma Academic Research Organisation</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is designed as a phase III, randomized, double-blind, placebo-controlled trial to
+      explore the effect of maintenance therapy with lenalidomide versus placebo on
+      progression-free survival (PFS) in patients treated with R-CHOP responding to induction
+      therapy
+
+      For the primary efficacy variable, PFS, an improvement in median PFS from 38.6 months for
+      Treatment Arm B to 54 months for Treatment Arm A (corresponding to a 2-year PFS of 65% vs
+      73.6%), is considered clinically relevant.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01122472</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Bertrand COIFFIER, Prof</name>
+      <address>The Lymphoma Study Association (LYSA)</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

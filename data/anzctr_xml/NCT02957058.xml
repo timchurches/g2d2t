@@ -1,0 +1,181 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6170">
+  <stage>Registered</stage>
+  <submitdate>3/11/2016</submitdate>
+  <approvaldate>3/11/2016</approvaldate>
+  <nctid>NCT02957058</nctid>
+  <trial_identification>
+    <studytitle>PROSpective Assessment of Post EmR Recurrence</studytitle>
+    <scientifictitle>A Prospective Study Stratifying Patients to Follow up Intervals Based on Risk of Recurrence Post Wide Field Colonic EMR</scientifictitle>
+    <utrn />
+    <trialacronym>PROSPER</trialacronym>
+    <secondaryid>AU RED HREC/16/WMEAD/130</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Colonic Adenoma</healthcondition>
+    <healthcondition>Colonic Polyp</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other endocrine disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: surgery - SCAR technique
+
+Active Comparator: SERT 0, SCAR (low risk) - Patients with Sydney EMR Recurrence Tool (SERT scoring) score 0. These patients will be invited to return for follow up at 18 months and will have thermal ablation (SCAR technique) of the endoscopic resection defect margin.
+
+Active Comparator: SERT 1-4, SCAR (high risk) - Patients with Sydney EMR Recurrence Tool score 1-4 (SERT scoring). These patients will be invited to return for follow up at 4-6 months and will have thermal ablation (SCAR technique) of the endoscopic resection defect margin.
+
+
+Treatment: surgery: SCAR technique
+Thermal ablation of the EMR margin using ERBE Soft Coagulation (Effect 4, 80 watts) and the operator choice of endoscopic resection snare
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: surgery</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Adenoma recurrence - Recurrence of adenoma at first and second surveillance colonoscopy</outcome>
+      <timepoint>Variable dependent on SERT score</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Need for surgery - need for surgery due to adenoma recurrence or complication</outcome>
+      <timepoint>18 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Bleeding after EMR</outcome>
+      <timepoint>2 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pain after EMR</outcome>
+      <timepoint>2 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Delayed perforation after EMR</outcome>
+      <timepoint>2 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  All laterally spreading lesions &gt;= 20mm referred to the named tertiary referral
+             centres
+
+          -  Must consent to involvement</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Histology other than specified
+
+          -  Lesion involving the ileocaecal valve
+
+          -  Pregnancy: currently pregnant or attempting to become pregnant
+
+          -  Lactation: currently breastfeeding
+
+          -  Taken clopidogrel within 7 days
+
+          -  Taken warfarin within 5 days
+
+          -  Had full therapeutic dose unfractionated heparin within 6 hours
+
+          -  Had full therapeutic dose low molecular weight heparin (LMWH) within 12 hours
+
+          -  Known clotting disorder
+
+          -  Previous attempt at EMR of the polyp referred for resection</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/01/2017</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>700</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/08/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <postcode>2145 - Westmead</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Western Sydney Local Health District</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>To prospectively validate the SERT (Sydney EMR Recurrence Tool) scoring system for adenoma
+      recurrence rates around the endoscopic mucosal resection (EMR) scar after wide field-EMR with
+      thermal treatment applied to the defect margin. The primary aim of the study will be to
+      ensure the safety of this approach and there will be constant monitoring to ensure that this
+      is the case.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02957058</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Michael Bourke</name>
+      <address />
+      <phone>+61296335953</phone>
+      <fax />
+      <email>reception@citywestgastro.com.au</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

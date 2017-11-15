@@ -1,0 +1,161 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="80">
+  <stage>Registered</stage>
+  <submitdate>27/07/2005</submitdate>
+  <approvaldate>1/08/2005</approvaldate>
+  <actrnumber>ACTRN12605000062628</actrnumber>
+  <trial_identification>
+    <studytitle>Placebo versus Adrenaline in Cardiac Arrest</studytitle>
+    <scientifictitle>A randomised placebo controlled trial of adrenaline in improving survival from out of hospital cardiac arrest.</scientifictitle>
+    <utrn />
+    <trialacronym>PACA Trial</trialacronym>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Out of hospital cardiac arrest</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Adrenaline 1:1000 according to current resuscitation guidelines</interventions>
+    <comparator>Placebo (0.9% Sodium Chloride)</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Survival to hospital discharge</outcome>
+      <timepoint />
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Return of Spontaneous Circulation</outcome>
+      <timepoint />
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neurological function</outcome>
+      <timepoint />
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>All patients who suffer a cardiac arrest ouitside of hospital.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Advanced life support measures not initiated.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Numbered vials - concealed</concealment>
+    <sequence>Computerised random number generation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/10/2005</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>4500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Australia</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress />
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Nil</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary />
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Associate Professor Ian Jacobs</name>
+      <address>Emergency Medicine
+University of Western Australia
+M516
+35 Stirling Hwy
+Crawley WA 6009</address>
+      <phone>+61 8 93464354</phone>
+      <fax>+61 8 93461665</fax>
+      <email>ijacobs@cyllene.uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Associate Professor Ian Jacobs</name>
+      <address>Emergency Medicine
+University of Western Australia
+M516
+35 Stirling Hwy
+Crawley WA 6009</address>
+      <phone>+61 8 93464354</phone>
+      <fax>+61 8 93461665</fax>
+      <email>ijacobs@cyllene.uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

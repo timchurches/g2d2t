@@ -1,0 +1,279 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371904">
+  <stage>Registered</stage>
+  <submitdate>7/12/2016</submitdate>
+  <approvaldate>13/12/2016</approvaldate>
+  <actrnumber>ACTRN12616001707459</actrnumber>
+  <trial_identification>
+    <studytitle>Prostate Cancer Vitamin D Clinical Trial</studytitle>
+    <scientifictitle>A phase II randomised controlled trial of vitamin D in localised prostate cancer cases with intermediate risk of progression (ProsD).</scientifictitle>
+    <utrn>NA</utrn>
+    <trialacronym>ProsD</trialacronym>
+    <secondaryid>NA</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Prostate Cancer progression</healthcondition>
+    <healthcondition>Vitamin D in preventing prostate cancer progression</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Prostate</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Men in the intervention arm will take one vitamin D tablet orally (50,000IU), every month,  for 24 months. To monitor adherence, each participant will be sent a reminder SMS and email reminding them to take their monthly tablet, when it is due. Each man will be followed up one week later by telephone to ensure compliance and check his well-being.  </interventions>
+    <comparator>Men in the control arm will take one placebo tablet orally, every month,  for 24 months. To monitor adherence, each participant will be sent a reminder SMS and email reminding them to take their monthly tablet. Each man will be followed up one week later by telephone to ensure compliance and check well-being.
+
+ The placebo tablet contains the following ingredients (mg/tablet):
+Calcium hydrogen phosphate dehydrate  (43.70 mg)
+Colloidal anhydrous silica 
+Croscarmellose sodium (4.94 mg)
+Macrogol 
+Magnesium stearate (0.49 mg) 
+Mica-based pearlescent pigment 
+Microcrystalline cellulose (148.12 mg) 
+Polysorbate 80 
+Polyvinyl alcohol  part hydrolysed 
+Talc 
+Titanium dioxide
+</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Active therapy-free survival (ATFS) will be defined as men who do not undergo any active therapy (e.g. radical prostatectomy or radiotherapy) during the course of the trial. This will be determined by their treating urologist.</outcome>
+      <timepoint>24 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Conversion to active therapy due to non-clinical reasons, this is the number of patients opting out of AS for non-cancer progression (e.g. anxiety). 
+</outcome>
+      <timepoint>24 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Men with localised prostate cancer with intermediate risk of progression on active surveillance.
+All participants must have a visible lesion on mpMRI (centrally reviewed, not limited to any PIRADS score) and:
+*. Gleason score = 7 (e.g. Gleason grade 3+4) or
+*&gt;2 positive biopsy core (which may include Gleason 6) or
+*Clinical stage T2 (which may include Gleason 6) or
+*PSA&gt;10 ng/mL (which may include Gleason 6).
+</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Men with low risk disease: 
+*No visible tumour on MRI or 
+*Gleason score 6 or less and
+*PSA&lt;10ng/mL and 
+*Clinical stage &lt;T2
+
+Men with high risk disease:
+*Gleason score 8 or more or
+*PSA&gt;20ng/mL or 
+*Clinical stage T3 or T4 or N/M &gt;0.
+
+Other exclusion criteria are:
+* Daily Vitamin D supplementation more than 50% of RDI (more than 300IU/day). 
+* Hyperparathyroidism, hypercalcaemia, or osteomalacia.
+* With a glomerular filtration rate (GFR) below 30 which will include those with severe loss of kidney function, and that is, to exclude anyone with Stage 4 or Stage 5 kidney disease  4. *History of renal calculi.
+* Taking orlistat, cholesterol-lowering drug called bile acid sequestrants such as cholestyramine and cholestipol or other drugs known to reduce vitamin D absorption.
+*Those with gastrointestinal abnormalities that may affect nutrient absorption such as, those who are unable to swallow oral medication, those who have clinically diagnosed malabsorption syndrome with evidence of malabsorption, or those who have had prior surgical procedure affecting absorption.
+* We will also exclude those unable to comprehend study information and its requirements for intellectual reasons, or if they do not have sufficient English proficiency.  
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by Interactive Voice Response System IVRS). </concealment>
+    <sequence>The method of randomisation is that of minimisation, through a central Interactive Voice Response System IVRS). Treatment allocation will be balanced using this method based on the strata (identified in the protocol). This will ensure that there is a reasonable balance in treatment allocation over the course of the trial.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The primary outcome for the trial is the change from AS to active therapy by 24 months. This is currently estimated to be ~35% at 2 years for intermediate-risk patients on AS. Using Simons two-stage design, a sample size of 80 patients in the group receiving the vitamin D supplement would have &gt; 80% power with 95% confidence to exclude a success rate of 65% in favour of a more interesting rate of 77.5% (i.e. active therapy rate of 22.5% rather than 35%). If 8 of the first 24 (33.3%) patients in the intervention group have progressed after 2 years of therapy, consideration will be given to modifying the intervention or stopping the study for futility. In order to obtain contemporary estimates for the control group it is proposed to randomise patients 2:1 resulting in a total sample size of 120 patients (80 vitamin D supplementation, 40 placebo controls). </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/03/2017</anticipatedstartdate>
+    <actualstartdate>3/05/2017</actualstartdate>
+    <anticipatedenddate>1/06/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>120</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>10</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/03/2021</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+    <hospital>Macquarie University Hospital - Macquarie Park</hospital>
+    <hospital>Westmead Private Hospital - Westmead</hospital>
+    <hospital>St George Private Hospital - Kogarah</hospital>
+    <hospital>Hurstville Private - Hurstville</hospital>
+    <hospital>The Wesley Hospital - Auchenflower</hospital>
+    <hospital>Australian Urology Associates - Malvern</hospital>
+    <hospital>Bairnsdale Regional Health Service - Bairnsdale</hospital>
+    <postcode>2109 - Macquarie Park</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2220 - Hurstville</postcode>
+    <postcode>4066 - Auchenflower</postcode>
+    <postcode>3144 - Malvern</postcode>
+    <postcode>2065 - St Leonards</postcode>
+    <postcode>2103 - Mona Vale</postcode>
+    <postcode>2099 - Dee Why</postcode>
+    <postcode>2076 - Wahroonga</postcode>
+    <postcode>2148 - Blacktown</postcode>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2525 - Figtree</postcode>
+    <postcode>2560 - Campbelltown</postcode>
+    <postcode>4000 - Brisbane</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Macquarie University</primarysponsorname>
+    <primarysponsoraddress>Faculty of Medicine and Health Sciences
+Macquarie University
+Level 4, Suite 407
+2 Technology Place
+Macquarie University, NSW 2109 
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Prostate Cancer Foundation of Australia: Movember Clinical Trial Award </fundingname>
+      <fundingaddress>Prostate Cancer Foundation of Australia
+Level 5
+437 St Kilda Road
+Melbourne, VIC 3004
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>Cancer Council NSW</sponsorname>
+      <sponsoraddress>Cancer Research Division
+Cancer Council NSW
+PO Box 572
+Kings Cross, NSW 1340
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of this trial is to evaluate the efficacy of vitamin D supplementation for the prevention of progression in men with prostate cancer who have an immediate risk of progression.
+
+Who is it for?
+Men are eligible to participate in this trial if they are aged 50 to 75 and have been diagnosed with localised prostate cancer with intermediate risk of progression, for which they have chosen to go on active surveillance.
+
+Study details
+All participants enrolled in this trial will be randomly allocated (by chance) to receive either vitamin D tablets, or to receive inactive sham tablets. Tablets in both groups will be taken orally, once per month, for two years. Participants will be followed up at the end of this period to assess for incidence of disease progression and commencement of active therapy.
+
+It is hoped that the findings from this trial will provide information on whether vitamin D supplementation is effective for preventing disease progression in men with prostate cancer.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Belllberry Limited</ethicname>
+      <ethicaddress>Belllberry Limited
+129 Glen Osmond Road
+Eastwood, SA 5063
+</ethicaddress>
+      <ethicapprovaldate>16/01/2017</ethicapprovaldate>
+      <hrec>2016-06-459-A-1</hrec>
+      <ethicsubmitdate>9/09/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Macquarie University Ethics Committee</ethicname>
+      <ethicaddress>Ethics Secretariat Research Office
+Level 3, C5C Building
+Macquarie University, NSW 2109
+</ethicaddress>
+      <ethicapprovaldate>21/03/2017</ethicapprovaldate>
+      <hrec>5201700188</hrec>
+      <ethicsubmitdate>6/02/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Howard Gurney</name>
+      <address>Faculty of Medicine and Health Sciences
+Macquarie University
+Level 4, Suite 407
+2 Technology Place
+Macquarie University, NSW 2109 
+</address>
+      <phone>+ 61 2 9812 3561</phone>
+      <fax />
+      <email>Howard.gurney@mq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jennifer Rodger</name>
+      <address>Cancer Research Division
+Cancer Council NSW
+PO Box 572
+Kings Cross, NSW 1340
+</address>
+      <phone>+ 61 2 9334 1793</phone>
+      <fax>+ 61 2 8302 3518</fax>
+      <email>enquiriesProsD@nswcc.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Visalini Nair-Shalliker</name>
+      <address>Cancer Research Division
+Cancer Council NSW
+PO Box 572
+Kings Cross, NSW 1340
+
+</address>
+      <phone>+ 61 2 9334 1410</phone>
+      <fax>+ 61 2 8302 3518</fax>
+      <email>enquiriesProsD@nswcc.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jennifer Rodger</name>
+      <address>Cancer Research Division
+Cancer Council NSW
+PO Box 572
+Kings Cross, NSW 1340</address>
+      <phone>+ 61 2 9334 1793</phone>
+      <fax>+ 61 2 8302 3518</fax>
+      <email>enquiriesProsD@nswcc.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

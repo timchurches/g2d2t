@@ -1,0 +1,216 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="335139">
+  <stage>Registered</stage>
+  <submitdate>29/03/2010</submitdate>
+  <approvaldate>1/04/2010</approvaldate>
+  <actrnumber>ACTRN12610000270011</actrnumber>
+  <trial_identification>
+    <studytitle>Randomized phase III trial of irinotecan in combination with capecitabine or fluorouracil (5-FU)/leucovorin (LV) and bevacizumab as first-line treatment in patients with metastatic colorectal cancer</studytitle>
+    <scientifictitle>Randomized phase III trial to compare progression free survival in patients with metastatic colorectal cancer receiving irinotecan in combination with capecitabine or fluorouracil (5-FU)/leucovorin (LV) and bevacizumab: (xeliri-bevacizumab vs folfiri-bevacizumab) as first-line treatment. A study of the Hellenic Cooperative Oncology Group (HeCOG)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Metastatic colorectal cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Bevacizumab (AVASTIN): 7.5 mg/kg of body weight, 90min intravenous (i.v.) infusion day 1 (AVASTIN should not be mixed into Dextrose solutions) 
+followed by
+Irinotecan (CPT-11): 240mg/m2 intravenous (i.v.), 90 minutes infusion day 1
+followed by
+Capecitabine (XELODA):1000 mg/m2 per os (it is administered orally within 30 minutes after the end of breakfast or dinner) twice daily  days 1-14
+
+The regimen will be repeated every 3 weeks for a total of 6 cycles. Treatment should be continued for 6 cycles and be interrupted in case of progression of disease during treatment or non-acceptable toxicity or consent withdrawal. After the end of treatment, patients are followed every 3 months until death or until the date of interruption (date of disease progression or initiation of other antineoplastic treatment).</interventions>
+    <comparator>Bevacizumab (AVASTIN): 5 mg/kg body weight, i.v. 90min infusion day 1
+followed by
+Irinotecan (CPT-11):	180mg/m2 i.v, 30-90 min infusion day 1 
+followed by  
+Leucovorin (LV): 200mg/m2 i.v, 2 hours infusion  (concomitantly with irinotecan) day 1, 5-Fluorouracil (5-FU): 400 mg/m2 IV bolus day 1 followed by 5-FU 2400 mg/m2 46 hours continuous infusion.
+
+The regimen will be repeated every 2 weeks for a total of 12 cycles</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression Free Survival (PFS)</outcome>
+      <timepoint>8 months from study initiation. This outcome is assessed by laboratory evaluation of hematology and biochemistry (including tumor markers), computed tomography (CT) scan or other imaging studies as indicated.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety of administration of each chemotherapeutic arm</outcome>
+      <timepoint>1 month since the last administration of the drug. Toxicity is assessed by laboratory evaluation of hematology and biochemistry, physical examination etc.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective response rate (ORR)</outcome>
+      <timepoint>The ORR will be assessed by imaging methods including computed tomography (CT) scan, bone scan, X-ray etc. They will be repeating after 3 cycles of XELIRI or 6 cycles of FOLFIRI,  after the completion of chemotherapy and every 3 months thereafter until date of disease progression or consent withdrawal or death.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival</outcome>
+      <timepoint>5 years from study initiation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.Histologically or cytologically documented  locally advanced or metastatic colorectal cancer
+2.Two-dimensional measurable disease at least at one site, not previously irradiated (newly emerged disease at previously irradiated sites is acceptable). Ascites and pleural fluid are not considered measurable disease.  
+3. The diameter of one measurable lesion should be (at least one dimension)&gt;=15 mm 
+4. No previous administration of chemotherapy (only neoadjuvant or adjuvant chemotherapy completed at least 4 months before patient enrollment in the protocol is acceptable). 
+5. Time between other anticancer treatments and patient enrollment should be:&gt;= 4 weeks for major surgical intervention · &gt;= 4 weeks for radiotherapy
+6. Age&gt;=18 years and performance status ECOG (Eastern Cooperative Oncology Group) 0-2 
+7.   Expected life span &gt; 3 months
+8.   Written informed consent 
+9.   Adequate bone marrow function:
+Hemoglobin &gt;= 10 gr/dL
+White blood cell &gt;= 4 x 10^9/ L
+Neutrophils &gt;= 2 x 10^9/ L 
+Platelets &gt;= 100 x 10^9/ L
+10.  Adequate hepatic and renal function   
+Total bilirubin  &lt;= 1.5  x UNL
+Serum glutamic oxaloacetic transaminase (SGOT) &lt;= 2.5 x UNL
+Serum glutamic pyruvic transaminase  (SGPT)&lt;= 2.5 x UNL
+Alkaline phosphates &lt;= 2.5 x UNL 
+Creatinine &lt;= 1.5 x UNL
+11.  In case of liver metastases:
+Total bilirubin  &lt;= 2.5  x UNL
+Serum glutamic oxaloacetic transaminase (SGOT) &lt;= 5.0 x UNL
+Serum glutamic pyruvic transaminase  (SGPT) &lt;= 5.0 x UNL
+Alkaline phosphatase  &lt;= 5.0 x UNL 
+12.   In case of bone metastases:
+Alkaline phosphatase  &lt;=  10.0 x UNL
+
+UNL: Upper normal limit of approved normal values.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.Malignant tumors other than colorectal adenocarcinoma
+2.History of other malignant disease, excluding non-melanoma cancer of the skin and in-situ cervical cancer
+3.Concomitant irradiation of a measurable lesion
+4.Other concomitant anticancer treatment 
+5.Concomitant (or in the last 4 weeks before patient enrollment) administration of other investigational drugs   
+6.Measurable liver lesion affecting &gt;50% of organ function 
+7.Other serious concomitant diseases or compromised general condition, including major neurological and psychiatric disorders 8.Severe cardiac disease (congestive heart failure, symptomatic coronary insufficiency, history of myocardial infarction in the last 6 months, uncontrolled high-risk arterial hypertension or uncontrolled cardiac arrhythmia) 
+9.Uncontrolled metabolic disorders (unstable diabetes mellitus or other contraindications to corticosteroids) or serious uncontrolled active infection 
+10.Brain metastases and patients with bone metastases or serosal effusions as the only sites of disease 
+11.Inflammatory bowel disease or loss of proximal gastrointestinal tract integrity or malabsorption syndrome
+12.Complete or partial bowel obstruction
+13. Current history of chronic diarrhea 
+14.The patient had a major surgical operation in the last 4 weeks before enrollment and has not recovered yet 
+15.Pregnant or breastfeeding women 
+16.Female fertile patients not using an appropriate form of contraception 
+17.Patients with allo-transplanted organs 18.Inadequate follow-up because of psychological, socioeconomic, or other factors.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>12/09/2006</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>309</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry />
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Hellenic Cooperative Oncology Group</primarysponsorname>
+    <primarysponsoraddress>18, Hatzikostandi str, 11524, Athens</primarysponsoraddress>
+    <primarysponsorcountry>Greece</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Hellenic Cooperative Oncology Group</fundingname>
+      <fundingaddress>18, Hatzikostandi str, 11524, Athens</fundingaddress>
+      <fundingcountry>Greece</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a randomized phase III trial of irinotecan in combination with capecitabine or 5-Fluorouracil/Leucovorin and bevacizumab: (xeliri-bevacizumab vs folfiri-bevacizumab) as first-line treatment in patients with metastatic colorectal cancer. The primary objective of this study is to test the antineoplastic activity, expressed as progression-free survival, of XELIRI regimen vs FOLFIRI, in patients with metastatic colorectal cancer not previously treated for advanced disease. The secondary objectives are to evaluate the convenience and safety of the two regimens as well as to evaluate the response rate and the overall survival.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dimitrios Pectasides</name>
+      <address>Hellenic Cooperative Oncology Group, 18, Hatzikostandi str, 11524, Athens</address>
+      <phone>+302106912520</phone>
+      <fax>+302106912713</fax>
+      <email>pectasid@otenet.gr</email>
+      <country>Greece</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Eleni Papakostaki</name>
+      <address>Hellenic Cooperative Oncology Group, 18, Hatzikostandi str, 11524, Athens</address>
+      <phone>+302106912520</phone>
+      <fax>+302106912713</fax>
+      <email>hecogoff@otenet.gr</email>
+      <country>Greece</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Maria Moschoni</name>
+      <address>Hellenic Cooperative Oncology Group, 18, Hatzikostandi str, 11524, Athens</address>
+      <phone>+302106912520</phone>
+      <fax>+302106912713</fax>
+      <email>hecogoff@otenet.gr</email>
+      <country>Greece</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

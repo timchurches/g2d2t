@@ -1,0 +1,265 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369353">
+  <stage>Registered</stage>
+  <submitdate>21/09/2015</submitdate>
+  <approvaldate>15/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001359527</actrnumber>
+  <trial_identification>
+    <studytitle>Digestive and nutrient-bioavailability benefits of goat-milk formula</studytitle>
+    <scientifictitle>In young adults, does the ingestion of a goat's milk infant formula or hydrolysed cow's milk infant formula, compared to a whole protein cow's milk formula, result in better digestibility and nutrient bioavailability?</scientifictitle>
+    <utrn>U1111-1174-2954</utrn>
+    <trialacronym>DiNGo Trial</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Impaired digestion</healthcondition>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Other diet and nutrition disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Normal oral and gastrointestinal development and function</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Protein quantity matched beverages, consisting of infant formula, to provide 0.23g/kg of body weight protein (total 350-600ml formula) to be consumed only once on three different occasions separated by at least one week washout period between beverages. Beverages will be consumed in full in the presence of the researchers to confirm compliance. Intervention infant formulas:
+1. Whole protein goat growing-up milk formula 
+2. Hydrolysed protein cow growing-up formula
+Each formula, including the whole protein cow's milk control formula, contain the following active ingredients within the range listed, per 100ml of prepared formula:
+-minerals
+--calcium (94-122 mg)
+--phosphorus (68-77 mg)
+--magnesium (6.7-32 mg)
+--iron (1.0-1.3 mg)
+--zinc (0.50-0.60 mg)
+--iodine (9-14 mcg)
+-marine fish oil
+-vitamins
+--vitamin A (RE) (41-63 mcg)
+--vitamin D3 (1.0 mcg)
+--vitamin E (TE) (1.4-1.6 mg)
+--vitamin C (9 mg)
+--thiamine (62-116 mcg)
+--riboflavin (120-193 mcg)
+--niacin (0.6-0.8 mg)
+--folic acid (12-21 mcg)
+-probiotic cultures (lactobaccillus and bifidobacterium: 40-45 million cfu)</interventions>
+    <comparator>Control infant formula: Whole protein cow growing-up formula</comparator>
+    <control>Active</control>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Differences in plasma amino acid concentrations measured by UPLC after formula ingestion relative to control formula plasma amino acid concentrations</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Differences in  amino acid concentrations measured by UPLC in plasma after each formula ingestion relative relative to formula amino acid concentrations</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in plasma glucose concentrations measured by enzymatic colorimetric assay after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in chylomicron TAG composition measured by lipidomic analysis (GC-FID) after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in plasma mineral concentrations measured by ICP-MS after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in plasma vitamin concentrations as measured by HPLC, ID-LC-MS/MS, and LC-MS after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in gastric emptying measured by recovered plasma paracetamol by enzymatic colorimetric assay after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and every 15 minute for 90 minutes, every 30 minutes until 2 hours, and hourly until 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in appetite scores as measured by a visual analog scale before and following formula ingestion relative to control formula</outcome>
+      <timepoint>Appetite measures taken once upon arrival, and once immediately prior to drink ingestion (two baseline assessments to account for individual variation), immediately following ingestion, and then at 15 min intervals for the first 90 minutes, then hourly starting at 2 hours for 5 hours. Taken at each visit.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in plasma insulin concentrations measured by radio-immunoassay array after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in plasma appetite hormone concentrations measured by flow cytometric multiplex array after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 5 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in liking scores as measured by a visual analog scale following formula ingestion relative to control formula</outcome>
+      <timepoint>Hedonic liking scores will be completed immediately following drink ingestion, and prior to paracetamol ingestion. Taken at each visit.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Differences in carbohydrate malabsorption measured by breath hydrogen concentrations after formula ingestion relative to control formula</outcome>
+      <timepoint>Baseline and hourly for 3 hours post-meal at each visit</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>18 - 28 years old
+BMI 18-25kg/m2
+Healthy (no current or past history of gastric reflux, irritable bowel syndrome, Crohn's disease, anosmia, diabetes, heart disease, hypertension, hyper(dys)lipidemia)
+Dairy, lactose, and paracetamol tolerant</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>28</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Allergy or intolerance to dairy, lactose, or paracetamol
+Current or past history of gastric reflux, irritable bowel syndrome, Crohn's disease, anosmia, diabetes, cardiovascular disease (myocardial infarction, angina, stroke), hypertension, hyper(dys)lipidemia
+Self reported alcohol intake exceeding a moderate intake (&gt;28 unites/week)
+Abnormal liver function or haematology</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be recruited by public notices and advertisements placed in community newspapers. Telephone screening will firstly identify participants within the required age ranges and exclude those likely to be experiencing exclusion factors (family history of diabetes and heart disease). Participants meeting this screening will be forwarded the Participant Information Sheet and Consent form. The participants will be invited to a face to face meeting with the researchers to ensure the Participant Information Sheet has been read and understood. Participants meeting the inclusion requirement will be invited to undertake the study and a date provided for the first beverage consumption. Allocation will be concealed by use of sealed opaque envelopes.</concealment>
+    <sequence>Treatment randomisation by using a randomization table created by a computer software (i.e. computerised sequence generation)</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>18/12/2015</anticipatedstartdate>
+    <actualstartdate>18/12/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>18/02/2016</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize>30</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>AgResearch Ltd.</primarysponsorname>
+    <primarysponsoraddress>5th Floor, Tower Block
+Ruakura Research Centre
+Bisley Road
+Private Bag 3115
+Hamilton 3240</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>AgResearch Ltd.</fundingname>
+      <fundingaddress>5th Floor, Tower Block
+Ruakura Research Centre
+Bisley Road
+Private Bag 3115
+Hamilton 3240</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>Auckland UniServices Ltd.</sponsorname>
+      <sponsoraddress>Level 10, UniServices House,
+70 Symonds Street, Auckland
+Private Bag 92019, Victoria Street West,
+Auckland 1142, New Zealand</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Goats milk is increasingly used as an alternative to cows milk for infant formula. This study aims to determine how goats milk digestion differs from cows milk digestion, and in particular look at the digestibility of proteins, fats, vitamins and minerals in goat or cows milk infant formula preparations. The study will use infant formula designed for infants after 12 months of age, who consume a mixed diet including solid foods, making a comparison of digestive capacity comparable to young adults, allowing for an intervention in young adults rather than in infants.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Freyberg Building
+Reception  Ground Floor
+20 Aitken Street
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>27/11/2015</ethicapprovaldate>
+      <hrec>15/STH/167</hrec>
+      <ethicsubmitdate>16/09/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>David Cameron-Smith</name>
+      <address>Liggins Institute
+University of Auckland
+2-6 Park Avenue
+Grafton, Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499231336</phone>
+      <fax />
+      <email>d.cameron-smith@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Cameron-Smith</name>
+      <address>Liggins Institute
+University of Auckland
+2-6 Park Avenue
+Grafton, Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499231336</phone>
+      <fax />
+      <email>d.cameron-smith@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Cameron-Smith</name>
+      <address>Liggins Institute
+University of Auckland
+2-6 Park Avenue
+Grafton, Auckland
+Private Bag 92019
+Auckland 1142</address>
+      <phone>+6499231336</phone>
+      <fax />
+      <email>d.cameron-smith@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

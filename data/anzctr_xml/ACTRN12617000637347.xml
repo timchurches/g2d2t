@@ -1,0 +1,234 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372358">
+  <stage>Registered</stage>
+  <submitdate>2/03/2017</submitdate>
+  <approvaldate>2/05/2017</approvaldate>
+  <actrnumber>ACTRN12617000637347</actrnumber>
+  <trial_identification>
+    <studytitle>Optimised drug therapy during extracorporeal circulation</studytitle>
+    <scientifictitle>Changes in the pharmacokinetics of drugs administered to patients during extracorporeal circulation:  a pilot study</scientifictitle>
+    <utrn>U1111-1193-2526</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Unpredicted response to critical drugs during heart surgery with cardiopulmonary bypass (CPB) and Extracorporeal Membrane Oxygenation (ECMO)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>5 substrates of liver enzymes in a low and single doses will be administered orally to participants before and a day after heart surgery with CPB (Cardiopulmonary bypass) or at the beginning,  during and a day after termination of treatment with ECMO (Extracorporeal membrane oxygenation) to estimate the impact of treatment on the activities of liver enzymes. 
+The substrates are caffeine 100 mg, losartan 5 mg, omeprazole 20 mg, dextromethorphan 30 mg, and midazolam 1 mg. Then, 5 blood samples (one teaspoon) will be collected from participants at time 0, 1, 2 and 4 hours after taking the substrates. The blood samples will then be analysed to measure the amount of each substrate and its product after being broken down with the liver enzymes. Using well-establish metrics, the activity of each 5 liver enzyme will be estimated.
+*Each participant receives all five substrates pre and post CPB; during and after ECMO.
+The drugs are administered at a single time point.
+
+
+</interventions>
+    <comparator>Patients undergoing a different surgery not involving extracorporeal circuits ( laparoscopic cholecystectomy) will be used as control group.. The control group will receive the same liver enzymes substrates and blood sampling schedule as the study groups;  1-2 days before and 1-2 days after the surgery. 
+</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The activities of liver enzymes before and after treatment with short-term (CPB) and at the beginning, during and after termination of long-term (ECMO) extracorporeal circuits will be evaluated.
+CYP1A2: Ratio of paraxanthine to caffeine plasma concentrations (micro mol/L) at 4 hours post-dose.
+CYP3A4: Ratio of 1´-hydroxymidazolam AUC0-6h to midazolam AUC0-6h in Plasma.</outcome>
+      <timepoint>CYP1A2: 0, 1, 2, 4, 6 h
+CYP3A4: 0, 1, 2, 4, 6 h </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>CYP2C19: Ratio of 5-hydroxyomeprazole to omeprazole plasma concentrations (micro mol/L) at 4 or 6 hours post-dose (at 4 hours if detectable otherwise at 6 hours).
+CYP2C9: Ratio of EXP-3174 Losartan carboxylic acid Area Under the plasma concentration Vs Time Curve (AUC)0-6h to losartan AUC0-6h.
+</outcome>
+      <timepoint>CYP2C19: 0, 1, 2, 4, &amp; 6 h
+CYP2C9: 0, 1, 2, 4, &amp; 6 h</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>CYP2D6: Ratio of dextrorphan AUC0-6h to dextromethorphan AUC0-6h in plasma</outcome>
+      <timepoint>0, 1, 2, 4, 6 h</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>None</outcome>
+      <timepoint>None</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>For study group:
+Age &gt; 18 years and &lt; 90 years.
+Eligible for mitral valve and aortic root surgeries involving CPB or 
+Eligible for ECMO support
+
+For control Group:
+Age &gt;18 years &amp; &lt;90 Years
+Written informed consent by patient or legally authorized person
+Patients undergoing Laparoscopic cholecystectomy</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>No consent
+Pregnancy
+Serum bilirubin &gt; 150 micro mol/L
+Ongoing massive blood transfusion requirement (&gt; 50% blood volume transfused in the previous 8 hours)
+Therapeutic plasma exchange in the preceding 24 hours
+Adverse reaction to any elements of the cocktail mixture
+People with cognitive impairment or mental illness
+Patients with significant coronary artery disease and /or aortic stenosis 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures />
+    <endpoint>Pharmacokinetics</endpoint>
+    <statisticalmethods>The activity of major liver enzymes before/ at the beginning, and after CPB/ECMO/Laparoscopic cholecystectomy, and also among study and control groups will be statistically analysed using non-parametric Mann-Whitney test.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>22/05/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>22/05/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>80</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>22/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>The Prince Charles Hospital - Chermside</hospital>
+    <postcode>4032 - Chermside</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>The University of Queensland</primarysponsorname>
+    <primarysponsoraddress>The University of Queensland, St. Lucia, Brisbane, Queensland, Australia. 4072</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Prince Charles Hospital Foundation</fundingname>
+      <fundingaddress>The Prince Charles Hospital, Rode Rd, Chermside, Brisbane, QLD, Australia, Post code: 4032,</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Heart surgery using extracorporeal circulation alters how drugs stay and move within the body, which can lead to sub optimal therapy and adverse effects in patients. Although multiple factors potentially contributing to these changes have been identified, there has been minimal research on the impact of extracorporeal circulation on the function of liver enzymes that have a major role in clearing medications from the body. Extracorporeal circulation is associated with an intense inflammatory response which may alter the extent to which liver enzymes breakdown essential drugs leading to sub optimal dosing and adverse effects. Changes in liver enzyme activities may be associated with unpredictable responses seen in patients during and after treatment with extracorporeal circulation, e.g. increased ventilation times or memory impairment. 
+
+This pilot study aims to identify factors contributing to the altered breakdown of critical medications and estimate the extent to which changes in the activity of liver enzymes in patients undergoing treatment with short-term (surgeries requiring CPB) or long-term (treatment with ECMO) extracorporeal cuircuits , compared with a control group undergoing a different surgery without extracorporeal circulation (laparoscopic cholecystectomy).
+
+Hypothesis
+Extracorporeal circulation, triggers an inflammatory response in patients altering the capability of liver enzymes to breakdown critical drugs.
+
+Outcomes and benefits of the completed pilot study include:
+1. Understanding the inflammatory response triggered by extracorporeal circulation and how this affects the ability of liver enzymes to breakdown essential medications.
+2 .Utilising new approaches to measure the activities of major enzymes in the clinical setting.
+3. Informing the design of a future larger clinical study.
+4. Developing guidelines to assist clinicians in delivering optimised drug therapy and personalised health care.
+5. Minimising adverse effects associated with altered breakdown of medications in patients thereby reducing length of stay in the ICU and costs associated with complications caused by sub optimal drug therapy.
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>The Prince Charles Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>The Prince Charles Hospital
+Building 14
+Rode Road, Chermside QLD 4032</ethicaddress>
+      <ethicapprovaldate>12/09/2016</ethicapprovaldate>
+      <hrec>HREC/16/QPCH/39</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The University of Queensland Human Research Ethics Committee</ethicname>
+      <ethicaddress>Cumbrae-Stewart Building #72
+The University of Queensland
+St Lucia, QLD 4072
+</ethicaddress>
+      <ethicapprovaldate>10/01/2017</ethicapprovaldate>
+      <hrec>2016001643</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Sussan Ghassabian</name>
+      <address>Room 717A, Level 7, Block 6, Herston Campus, University of Queensland, Brisbane, QLD.4029</address>
+      <phone>+61733465194</phone>
+      <fax />
+      <email>s.ghassabian@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Santosh Kumar Sreevatsav Adiraju</name>
+      <address>Room 717B, Level 7, Block 6, Herston Campus, University of Queensland, Brisbane, QLD,4029.</address>
+      <phone>+61452347421</phone>
+      <fax>+61733655444</fax>
+      <email>s.adiraju@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sussan Ghassabian</name>
+      <address>Room 717A, Level 7, Block 6, Herston Campus, University of Queensland,  Brisbane, QLD. 4029</address>
+      <phone>+61733465194</phone>
+      <fax />
+      <email>s.ghassabian@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Sussan Ghassabian</name>
+      <address>Room 717A, Level 7, Block 6, Herston Campus, University of Queensland, Brisbane, QLD</address>
+      <phone>+61733465194</phone>
+      <fax>+61733655444</fax>
+      <email>s.ghassabian@uq.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

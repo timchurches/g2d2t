@@ -1,0 +1,237 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368969">
+  <stage>Registered</stage>
+  <submitdate>21/07/2015</submitdate>
+  <approvaldate>10/08/2015</approvaldate>
+  <actrnumber>ACTRN12615000819527</actrnumber>
+  <trial_identification>
+    <studytitle>The Healthy Heart-Mind Trial: Efficacy of melatonin for decreasing the incidence and severity of delirium following cardiac surgery</studytitle>
+    <scientifictitle>The Healthy Heart-Mind Trial: Efficacy of melatonin versus placebo for decreasing the incidence and severity of delirium following cardiac surgery in adults</scientifictitle>
+    <utrn>U1111-1172-4046</utrn>
+    <trialacronym>Nil</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>delirium</healthcondition>
+    <healthcondition>cardiac surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>melatonin 3mg oral capsules once daily for 7 days (2 days prior and 5 days after surgery). Medication adherence monitored through pill count and review of medication charts</interventions>
+    <comparator>microcrystalline cellulose placebo capsules </comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome of interest for this trial is the difference in the incidence of delirium (as determined by the Confusion Assessment Method and DSM-5 criteria) between the groups after cardiac surgery.</outcome>
+      <timepoint>7 days</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Severity of delirium as assessed with the Memorial Delirium Assessment Scale
+
+
+
+</outcome>
+      <timepoint>Assessed daily for 7 days or until discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of delirium</outcome>
+      <timepoint>Assessed daily with Confusion Assessment Method and DSM 5 criteria from day 1 post surgery until discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Use of psychiatric medications during admission - assessed by review of medication charts</outcome>
+      <timepoint>From admission to hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in cognitive performance at discharge and 3 months as measured by Telephone Interview for Cognitive Status</outcome>
+      <timepoint>Cognition assessed at baseline (enrollment), day 7 post surgery or day of discharge and at 3 months post surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mood and anxiety symptoms as rated by Hospital Anxiety and Depression Scale
+
+</outcome>
+      <timepoint>Assessed at baseline, day7/hospital discharge and 3 months after surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital length of stay</outcome>
+      <timepoint>Assessed at time of discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Aged 50 years and older
+2. Undergoing elective or semi-elective cardiac surgery (on or off cardiopulmonary bypass) for coronary artery bypass grafting (CABG) and/or valvular surgery
+</inclusivecriteria>
+    <inclusiveminage>50</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Decline or are unable to give informed consent
+2. Are undergoing emergency surgery
+3. Are not fluent in written or spoken English (for the purposes of being able to complete the study assessments and questionnaires)
+4. Have a contraindication to taking melatonin, such as a prior allergic reaction 
+5. Are currently using melatonin
+6. Have a diagnosis of dementia or score 19 or less on the Telephone Interview for Cognitive Status
+7. Score 15 or greater on the alcohol use disorders identification test (AUDIT)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>We will recruit 210 participants undergoing elective/semi-elective cardiac surgery in Perth, Western Australia. Participants will be randomly allocated to melatonin 3mg or matching placebo. The randomisation list will be generated and maintained by the hospital pharmacy and not accessible to the investigators.</concealment>
+    <sequence>Participants will be randomised to treatment with melatonin or matching placebo on a ratio of 1:1 according to a list of computer-generated random numbers.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Baseline data will be compared using descriptive statistics, Student t tests for normally distributed continuous variables, Mann-Whitney test for skewed variables and Pearsons chi-square statistic for categorical variables. Analyses will be based on completers and intention-to-treat. The primary hypothesis (difference in the proportion of participants who develop delirium) will be tested using intention-to-treat analysis of panel data (xtlogit). This approach to the analysis of the data allows for the inclusion of all available information and for the investigation of interactions between terms (such as intervention and time). A similar approach will be used to analyse other binary outcomes (e.g., use of psychotropic medication). We will use multilevel mixed models to investigate changes in scores of the MDAS and TICS (continuous variables). All probability tests will be two-tailed and will be declared as significant when p&lt;0.05. 
+
+We based our sample size on a previous trial (Al-Aama et al. 2011) that reported a 15.6% absolute reduction (19.2% versus 3.6%, p&lt;0.02) in the incidence of delirium in their sample. Assuming a 15.6% absolute risk reduction in our patients with a conservative 25% incidence of delirium in the control group and an incidence of 9.4% in the intervention group, we will require 91 participants per group (182 participants in total) to detect a difference of this magnitude with a power of 80% and a two-sided alpha of 0.05. Allowing for a drop out rate of around 15%, we plan to recruit 210 participants.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2 / Phase 3</phase>
+    <anticipatedstartdate>1/10/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/05/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>210</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <postcode>6009 - Broadway Nedlands</postcode>
+    <postcode>6150 - Murdoch</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>35 Stirling Highway
+Crawley
+WA
+6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>WA Department of Health</fundingname>
+      <fundingaddress>PO Box 8172
+Perth Business Centre
+Perth
+WA 6849</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Delirium is common in patients recovering from surgical procedures, particularly those involving major cardiac surgery. It is associated with numerous adverse consequences, including increased patient suffering, longer hospital stays, increased postoperative complications, increased mortality and poorer cognitive outcomes. Current strategies are only modestly effective in treating delirium and the cornerstone of management is prevention, however even best practice multifactorial interventions only result in a modest reduction in delirium incidence. Melatonin is a naturally occurring compound that is important in the regulation of sleep. Melatonin metabolism dysregulation has been implicated in the development of delirium, although only sparse evidence about its possible role in delirium prevention exists. 
+
+The main aim of this randomised, placebo-controlled, double blind clinical trial is to determine if 3mg melatonin can reduce the incidence, severity and complications of delirium following cardiac surgery.  
+
+We plan to enrol 210 participants due to undergo elective cardiac surgery. Participants will be randomly allocated to melatonin 3mg or matching placebo for 7 days beginning two nights prior to the scheduled surgery. We are primarily interested in whether those given melatonin have a lower rate of new-onset delirium but will also be interested to see if they experience less delirious symptoms, less depression and anxiety, less cognitive impairment, require less medications during their admission (especially sedative medications) and have shorter stays in hospital and ICU. 
+
+Melatonin is safe, inexpensive and readily available and thus offers a potentially simple, cost effective intervention suitable for use in routine clinical practice. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Sir Charles Gairdner Hospital</ethicname>
+      <ethicaddress>Hospital Avenue
+Nedlands
+Perth 
+WA 6009</ethicaddress>
+      <ethicapprovaldate />
+      <hrec>2015-118</hrec>
+      <ethicsubmitdate>22/07/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Ford</name>
+      <address>University of Western Australia (M573)
+35 Stirling Highway
+Crawley
+Western Australia
+6009</address>
+      <phone>+61892242855</phone>
+      <fax />
+      <email>andrew.ford@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Ford</name>
+      <address>University of Western Australia (M573)
+35 Stirling Highway
+Crawley
+Western Australia
+6009</address>
+      <phone>+61892242855</phone>
+      <fax />
+      <email>andrew.ford@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew Ford</name>
+      <address>University of Western Australia (M573)
+35 Stirling Highway
+Crawley
+Western Australia
+6009</address>
+      <phone>+61892242855</phone>
+      <fax />
+      <email>andrew.ford@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

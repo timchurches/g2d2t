@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363567">
+  <stage>Registered</stage>
+  <submitdate>17/02/2014</submitdate>
+  <approvaldate>25/02/2014</approvaldate>
+  <actrnumber>ACTRN12614000201673</actrnumber>
+  <trial_identification>
+    <studytitle>A Study to Compare Oral Vitamin D to Placebo for the Prevention of Low Calcium in the Blood after Surgery for the Total Removal of the Thyroid Gland.</studytitle>
+    <scientifictitle>A Randomised, Double Blind, Placebo Controlled Trial to Assess the Efficacy of Preoperative Oral Vitamin D3 at Preventing Postoperative Hypocalcaemia in Patients Undergoing Total Thyroidectomy.</scientifictitle>
+    <utrn />
+    <trialacronym>Vitid Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Post-operative Hypocalcaemia</healthcondition>
+    <healthcondition>Total Thyroidectomy</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Other metabolic disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>300 000 IU (6 capsules) of oral Vitamin D3 taken once, one week prior to surgery.</interventions>
+    <comparator>Placebo 6 capsules (sugar pills) taken once, one week prior to surgery.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The incidence of low blood calcaemia (defined as any post-operative corrected calcium &lt;2.10 mmol/L)</outcome>
+      <timepoint>At 6 hours, days 1, 2, 3 (if still in hospital), 1 week, 2 weeks, 4 weeks, and 3 and 6 months  post-operatively (reference range 2.10-2.55mmol/L). </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>The incidence of symptomatic hypocalcaemia (defined as any one of positive Chvosteks sign, tetany, perioral paraesthesia or palpitations confirmed with ECG changes associated with any corrected calcium measurement below 2.10 mmol/L). </outcome>
+      <timepoint>At 6 hours, days 1, 2, 3 (if still in hospital), 1 week, 2 weeks, 4 weeks, and 3 and 6 months  post-operatively </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The incidence of permanent hypoparathyroidsm (defined as a parathyroid blood level of &lt;1.1 pmol/L (lower end of normal range) and requiring ongoing supplementation with 1,25(OH)D3 to maintain a corrected calcium level within the normal range </outcome>
+      <timepoint>At 6 hours, days 1, 2, 3 (if still in hospital), 1 week, 2 weeks, 4 weeks, and 3 and 6 months  post-operatively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The dose of calcium and calcitriol as recorded in patient medical record, and prescribed as an outpatient.</outcome>
+      <timepoint>At day 1, day 2 day 3, 1 week, 2 weeks and 4 weeks from date of surgery.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Length of inpatient hospital stay in days.</outcome>
+      <timepoint>Prior to discharge post-operatively.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in parathyroid hormone blood levels from baseline.</outcome>
+      <timepoint>Days one and two post-operatively.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing total thyroidectomy for any cause, able to provide written informed consent.
+Must be able to complete follow-up.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-Current treatment for vitamin D deficiency at time of assessment with any form of vitamin D supplementation
+-Chronic kidney disease (eGFR &lt;60)
+-Need for urgent surgery precluding completion of the intervention course
+-Known primary parathyroid disease
+-Pregnancy
+-Current treatment with bisphosphonates
+-Known severe liver disease (previous INR &gt;1.4 without anticoagulant treatment in the presence of known liver disease, or Bilirubin &gt; 40 in the presence of obstructive LFT profile )
+-Hypercalcaemia (&gt;2.55nmol/L) on initial pre-operative blood tests. 
+Refuse or are unable to provide written consent to participate
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>After written informed consent has been provided, the Research Nurse will randomise the participant via a username and password protected web-based system. A Pharmacist will provide the corresponding allocated drug pack to the participant.</concealment>
+    <sequence>Randomisation will be computer generated randomisation to control and intervention in a 1:1 ratio. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The predicted rate of post-operative hypocalcaemia in a general population undergoing thyroidectomy is between 25 and 30%. As this study is using a more sensitive definition of hypocalcaemia, we can expect a slightly higher incidence and therefore have used 30% as the expected incidence for our control group. 
+Assuming correction of deficiency between 50 and 75nmols/L, and using a conservative numbers based on prior studies we estimate an incidence on the treatment group of around 10%
+Using these numbers, the required sample size to reach signifiacance (alpha 0.05 and beta 0.8) is 72 per arm. After allowing for a 10% dropout rate the sample size is 160 in total.
+Categorical data will be analysed using a Chi square test and Fishers exact test. Continuous data will be analysed using the Students t-test. Furthermore, the treatment groups will be analysed in subgroups (quartiles) according to pre-treatment vitamin D level. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>1/04/2014</anticipatedstartdate>
+    <actualstartdate>14/07/2014</actualstartdate>
+    <anticipatedenddate>1/08/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>160</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Newcastle Private Hospital - New Lambton Heights</hospital>
+    <hospital>The Maitland Hospital - Maitland</hospital>
+    <hospital>Lingard Private Hospital - Merewether</hospital>
+    <hospital>Lake Macquarie Private Hospital - Gateshead</hospital>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>2320 - Maitland</postcode>
+    <postcode>2291 - Merewether</postcode>
+    <postcode>2290 - Gateshead</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Hunter New England Local Health District</primarysponsorname>
+    <primarysponsoraddress>Locked Bag 1 
+Hunter Region Mail Centre NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>John Hunter Hospital Staff Specialist Grants</fundingname>
+      <fundingaddress>Locked Bag 1
+Hunter Region Mail Centre NSW 2310
+
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Surgical removal of the thyroid gland is a relatively safe procedure, but can be associated with a number of specific complications. The parathyroid glands are close to the thyroid gland and can be affected  by the surgery. These glands help to maintain calcium levels in the blood and damage to these glands from the surgery can result in low blood calcium levels. Low calcium levels can result in tingling, numbness and muscle cramps. The condition is usually treated with Vitamin D and calcium supplements after it occurs and may prolong the length of stay in hospital. 
+Vitamin D is a very important vitamin that helps to control bone and calium metabolism in the body. This study wants to see if by giving Vitamin D before the surgery low calcium levels can be prevented.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>26/02/2014</ethicapprovaldate>
+      <hrec>14/02/19/3.06</hrec>
+      <ethicsubmitdate>31/01/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Cino Bendinelli</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1 
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax>+61 2 49214274</fax>
+      <email>cino.bendinelli@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rosemary Carroll</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1 
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>rosemary.carroll@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Cino Bendinelli</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1 
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>cino.bendinelli@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rosemary Carroll</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1 
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>rosemary.carroll@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

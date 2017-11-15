@@ -1,0 +1,689 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2505">
+  <stage>Registered</stage>
+  <submitdate>18/09/2009</submitdate>
+  <approvaldate>18/09/2009</approvaldate>
+  <nctid>NCT00982111</nctid>
+  <trial_identification>
+    <studytitle>First-line Treatment of Patients With Stage IV Nonsquamous Non-Small Cell Lung Cancer With Necitumumab (IMC-11F8) and Pemetrexed-Cisplatin</studytitle>
+    <scientifictitle>A Randomized, Multicenter, Open-Label Phase 3 Study of Pemetrexed-Cisplatin Chemotherapy Plus Necitumumab (IMC-11F8) Versus Pemetrexed-Cisplatin Chemotherapy Alone in the First-Line Treatment of Patients With Stage IV Nonsquamous Non-Small Cell Lung Cancer (NSCLC)</scientifictitle>
+    <utrn />
+    <trialacronym>INSPIRE</trialacronym>
+    <secondaryid>2009-012574-12</secondaryid>
+    <secondaryid>13908</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Non Small Cell Lung Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Mesothelioma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Pemetrexed
+Treatment: drugs - Cisplatin
+Other interventions - Necitumumab
+
+Experimental: Necitumumab + Pemetrexed + Cisplatin - Necitumumab + Pemetrexed + Cisplatin
+
+Active Comparator: Pemetrexed + Cisplatin - Pemetrexed + Cisplatin
+
+
+Treatment: drugs: Pemetrexed
+500 milligram per square meter (mg/m2) administered Intravenously (I.V.) on Day 1 of every 3-week cycle, for a maximum of six cycles
+
+Treatment: drugs: Cisplatin
+75 mg/m2 administered I.V. on Day 1 of every 3-week cycle, for a maximum of six cycles
+
+Other interventions: Necitumumab
+800 mg (absolute dose) on Days 1 and 8 of every 3-week cycle, administered as an I.V.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+    <interventioncode>Other interventions interventions</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival Time (OS) - OS is defined as the time from randomization to death from any cause. Participants who do not die at the end of the extended follow-up period, or were lost to follow-up during the study, were censored at the last date they were known to be alive. OS was estimated using the Kaplan-Meier method.</outcome>
+      <timepoint>Randomization to Death from Any Cause (Up to 31.6 Months)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS) - PFS is defined as the time from randomization until the first radiographic documentation of measured progressive disease as defined by RECIST (Version 1.0), or death from any cause. Participants who die without a reported prior progression will be considered to have progressed on the day of their death. Participants who did not progress or were lost to follow-up were censored at the day of their last radiographic tumor assessment. If no baseline or postbaseline radiologic assessment was available, the participant was censored at the date of randomization. If death or PD occurs after two or more consecutive missing radiographic visits, censoring occurred at the date of the last radiographic visit prior to the missed visits.</outcome>
+      <timepoint>Randomization to Measured Progressive Disease or Death from Any Cause (Up to 30.4 Months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants Who Achieve Best Overall Tumor Response of Complete Response (CR) or Partial Response (PR) (Objective Tumor Response Rate [ORR]) - ORR is confirmed best overall tumor response of CR or PR. According to RECIST v1.0, CR was defined as the disappearance of all target and non-target lesions; PR defined as a &gt;30% decrease in the sum of the longest diameters (LD) of the target lesions, taking as reference the baseline sum of the LD. Percentage of participants was calculated as: (total number of participants with CR or PR from start of the treatment until disease progression or recurrence)/total number of participants treated) * 100.</outcome>
+      <timepoint>Baseline to Measured Progressive Disease (Up to 30.4 Months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Treatment Failure (TTF) - TTF was defined as the time from study enrollment/randomization to the first observation of measured progressive disease, death from any cause, or early discontinuation of treatment or initiation of new anti-cancer therapies. Response was defined using Response Evaluation Criteria In Solid Tumors (RECIST, version 1.0) criteria. Progressive Disease (PD) was defined as having at least a 20% increase in sum of longest diameter of target lesions. Time to treatment failure was censored at the date of the last follow-up visit for participants who did not discontinue early, who were still alive, and who have not progressed.</outcome>
+      <timepoint>Randomization to Measured Progressive Disease, Death from Any Cause, Discontinuation of Treatment or Initiation of New Anticancer Therapy (Up to 30.4 Months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pharmacokinetics (PK): Minimum Concentration (Cmin) of Necitumumab</outcome>
+      <timepoint>Predose Day 1 of Cycle 2,3,4,5 and 6 Prior to Necitumumab Infusion, Up to 23 Weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of Participants With Serum Anti-Necitumumab Antibody Assessment (Immunogenicity) - A participant was considered to have an anti-Necitumumab antibody response if anti-drug antibodies (ADA) were confirmed positive. Treatment emergent antibodies were defined as any anti-Necitumumab antibody titer equal to or greater than 4-fold the participant's baseline titer.</outcome>
+      <timepoint>Baseline to Study Completion (Up to 31.6 Months)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change From Baseline in Patient Reported Outcomes (PRO) Using the European Quality of Life-5 Dimensions (EQ-5D) - The EQ-5D is a generic, multidimensional, health-related, quality-of-life instrument. The profile allows participants to rate their health state in 5 health domains: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression using a three level scale 1-3 (no problem, some problems, and major problems). These combinations of attributes were converted into a weighted health-state Index Score according to the United Kingdom (UK) population-based algorithm. The possible values for the Index Score ranged from -0.59 (severe problems in all 5 dimensions) to 1.0 (no problem in any dimension).</outcome>
+      <timepoint>Baseline, Cycle 6 (Cycle = 3 weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean Change From Baseline in PRO as Measured Using the Lung Cancer Symptom Scale (LCSS) - The LCSS consisted of 9 items: 6 items focused on lung cancer symptoms [loss of appetite, fatigue, cough, dyspnea (shortness of breath), hemoptysis (blood in sputum), and pain] and 3 items were global items (symptom distress, interference with activity level, and global quality of life). Participant responses to each item were measured using visual analogue scales (VAS) with 100-mm lines. A higher score for any item represented a higher level of symptoms/problems. Scores for each of the reported categories ranged from 0 (for best outcome) to 100 (for worst outcome). The Average Symptom Burden Index (ASBI) was the mean of the 6 symptom items of the LCSS, and the Total LCSS was the mean of all 9 LCSS items. ASBI and Total LCSS were not computed for a participant if he/she had 1 or more missing values for the 6 and 9 items, respectively.</outcome>
+      <timepoint>Baseline, Cycle 6 (Cycle =3 Weeks)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Epidermal Growth Factor Hormone (EGFR) Protein Expression Measured by Immunohistochemistry (IHC) - EGFR IHC H-score = weighted sum of % 1+ cells, twice % 2+ cells, and three times % 3+ cells. IHC H-score criteria assesses participants with a low EGFR expression defined by a H-score cutoff value of &lt; 200 and participants with a high EGFR expression defined by a H-score of cutoff value of &gt;=200.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With EGFR Measured by IHC - EGFR IHC H-score = weighted sum of % 1+ cells, twice % 2+ cells, and three times % 3+ cells. IHC H-score criteria assesses participants with a low EGFR expression defined by a H-score cutoff value of &lt; 200 and participants with a high EGFR expression defined by a H-score of cutoff value of &gt;=200.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Has histologically or cytologically confirmed nonsquamous (adenocarcinoma/large cell
+             or other) non small cell lung cancer
+
+          -  Has Stage IV disease at the time of study entry
+
+          -  Measurable or nonmeasurable disease (as defined by the Response Evaluation Criteria in
+             Solid Tumors RECIST 1.0) at the time of study entry (participants with only truly
+             nonmeasurable disease are not eligible)
+
+          -  Has resolution to Grade = 1 of all clinically significant toxic effects of prior
+             chemotherapy, surgery, radiotherapy, or hormonal therapy (with the exception of
+             alopecia)
+
+          -  Has an Eastern Cooperative Oncology Group performance status score of 0-2
+
+          -  Has adequate hepatic function
+
+          -  Has adequate renal function
+
+          -  Has adequate hematologic function
+
+          -  If female, is surgically sterile, postmenopausal, or compliant with a highly effective
+             contraceptive method during and for 6 months after the treatment period (oral hormonal
+             contraception alone is not considered highly effective and must be used in combination
+             with a barrier method). If male, the participants surgically sterile or compliant with
+             a highly effective contraceptive regimen during and for 6 months after the treatment
+             period
+
+          -  Female participants of childbearing potential must have a negative serum</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Has squamous non small cell lung cancer
+
+          -  Has received prior anticancer therapy with monoclonal antibodies, signal transduction
+             inhibitors, or any therapies targeting the Epidermal Growth Factor Hormone (EGFR),
+             vascular endothelial growth factor (VEGF), or VEGF receptor
+
+          -  Received previous chemotherapy for advanced NSCLC (participants who have received
+             adjuvant chemotherapy are eligible if the last administration of the prior adjuvant
+             regimen occurred at least 1 year prior to randomization)
+
+          -  Undergone major surgery or received any investigational therapy in the 4 weeks prior
+             to randomization
+
+          -  Undergone chest irradiation within 12 weeks prior to randomization (except palliative
+             irradiation of bone lesions, which is allowed)
+
+          -  Has brain metastases that are symptomatic or require ongoing treatment with steroids
+             or anticonvulsants. Participants who have undergone previous radiotherapy for brain
+             metastases, who are now nonsymptomatic and no longer require treatment with steroids
+             or anticonvulsants, are eligible
+
+          -  Has superior vena cava syndrome contraindicating hydration
+
+          -  Has current clinically-relevant coronary artery disease or uncontrolled congestive
+             heart failure
+
+          -  Has experienced myocardial infarction within 6 months prior to randomization
+
+          -  Has an ongoing or active infection (requiring antibiotics), including active
+             tuberculosis or known infection with the human immunodeficiency virus
+
+          -  Has a history of significant neurological or psychiatric disorders, including
+             dementia, seizures, or bipolar disorder, potentially precluding protocol compliance
+
+          -  Has Grade = 2 peripheral neuropathy
+
+          -  Has significant third space fluid retention, requiring repeated drainage
+
+          -  Has any other serious uncontrolled medical disorders or psychological conditions that
+             would, in the opinion of the investigator, limit the participant's ability to complete
+             the study or sign an informed consent document The participant has a known allergy /
+             history of hypersensitivity reaction to any of the treatment components, including any
+             ingredient used in the formulation of IMC-11F8, or any other contraindication to one
+             of the administered treatments
+
+          -  Is pregnant or breastfeeding
+
+          -  Has a known history of drug abuse
+
+          -  Has a concurrent active malignancy other than adequately-treated basal cell carcinoma
+             of the skin or preinvasive carcinoma of the cervix. A participant with previous
+             history of malignancy other than NSCLC is eligible, provided that he/she has been free
+             of disease for = 3 years</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/11/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>633</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/12/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,TAS,VIC</recruitmentstate>
+    <hospital>ImClone Investigational Site - Kogarah</hospital>
+    <hospital>ImClone Investigational Site - Hobart</hospital>
+    <hospital>ImClone Investigational Site - East Bentleigh</hospital>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>3165 - East Bentleigh</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Rankweil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wien</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Duffel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liège</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Barretos - SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Brasilia, Distrito Federal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Goiania - GO</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Ijui</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Itajai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Lajeado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre/RS</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Ribeirão Preto - SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Salvador</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Santo Andre - SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>São Paulo - SP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Croatia</country>
+      <state>Pula</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Frankfurt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Gauting</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Großhansdorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Halle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hemer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hofheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Karlsruhe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Lostau</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Löwenstein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Münster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Regensburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Ulm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Heraklion, Crete</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Patras</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Deszk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Mosonmagyaróvár</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szombathely</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Székesfehérvár</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Törökbálint</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lucca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Pordenone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Frosinone</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Genova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Perugia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Olsztyn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Otwock</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Poznan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Radom</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Szczecin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Wroclaw</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Coimbra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Brasov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Bucharest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Cluj-Napoca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Craiova, Dolj</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Iasi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Romania</country>
+      <state>Sibiu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ivanovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kirov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ufa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Bratislava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Nitra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Free State</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Gauteng</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cataluña</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Communidad de Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>L'Hospitalet de Llobregat</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Aberdeen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bournemouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Edinburgh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Guildford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Preston</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Eli Lilly and Company</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Quintiles, Inc.</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Parexel</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>PPD</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Medidata Solutions</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Laboratory Corporation of America</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>University of Colorado, Denver</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Thermo Fisher Scientific</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>Pacific Biomarkers</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Intertek</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Sysmex Inostics GmbH</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The research study is testing the investigational drug necitumumab in the treatment of
+      advanced non-small cell lung cancer. The aim of this study is to determine if necitumumab,
+      given together with a standard chemotherapy combination consisting of cisplatin and
+      pemetrexed will be more effective in improving participant disease than the standard
+      chemotherapy combination alone.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00982111</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</name>
+      <address>Eli Lilly and Company</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

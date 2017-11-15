@@ -1,0 +1,238 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365806">
+  <stage>Registered</stage>
+  <submitdate>27/02/2014</submitdate>
+  <approvaldate>10/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000249651</actrnumber>
+  <trial_identification>
+    <studytitle>Pilot Study: Do Wounds Heal Faster When Using Electric Stimulation Therapy</studytitle>
+    <scientifictitle>A single blinded randomised controlled trial to determine the clinical effect size and client concordance following eight weeks using a portable electrostimulation device among people with an active leg ulcer who do not tolerate moderate to high compression therapy</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Venous leg ulcers</healthcondition>
+    <conditioncode>
+      <conditioncode1>Skin</conditioncode1>
+      <conditioncode2>Other skin conditions</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Physical Medicine / Rehabilitation</conditioncode1>
+      <conditioncode2>Other physical medicine / rehabilitation</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will be instructed to self-administer Electrostimulation Therapy using a small portable device four times daily for 20 minute sessions, over a period of 8 weeks. The device will be pre-set to a single, non-adjustable specific low frequency found between 1-2 Hertz, a current that specifically targets smooth muscle to promote stimulation of arterial, venous and lymphatic systems. Adherence will be monitored using a self-report participant treatment log.</interventions>
+    <comparator>Both control and active intervention groups will continue the standard treatment they are currently using: no compression or low compression therapy (&lt;18mmHg; light or extra light compression).
+Participants allocated to the control group will use the Electrostimulation Therapy as recommended for the same duration and mode of administration as the intervention group. Participants in the control group will however be provided with placebo devices that although they appear to be operational, the circuit to deliver the Electrostimulation will be non-operational. 
+</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Wound healing rate for the study wound (determined as a daily healing rate from total wound surface tracings quantified using VisiTrak tracings and VisiTrak annotating board)
+</outcome>
+      <timepoint>Baseline, and at 2, 4, 6 and 8 weeks after intervention commencement.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of wounds healed in study timeframe / date wound healed</outcome>
+      <timepoint>Baseline, and at 2, 4, 6 and 8 weeks after intervention commencement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Limb volume measured using water displacement method or water plethysmography</outcome>
+      <timepoint>Baseline, and at 2, 4, 6 and 8 weeks after intervention commencement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Limb measurements recorded in centimetres of smallest ankle, widest calf, and big toe distal to web space</outcome>
+      <timepoint>Baseline, and at 2, 4, 6 and 8 weeks after intervention commencement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adherence to four daily (20 minute) treatments of electrostimulation Therapy. Adherence will be self-reported in a log stored with Electrostimulation Therapy device. 
+
+Data will be reported as:
+1. Total time (minutes) implementing Electrostimulation Therapy per week during the assessment period, and in total.
+2. Proportion of time implementing the Electrostimulation Therapy as per the recommended treatment regimen per week during the assessment period, and in total.</outcome>
+      <timepoint>Adherence will be self-reported daily in the treatment log and confirmed with researchers weekly after intervention commencement.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Wound pain assessed using an 11 point Numeric Rating Scale (NRS) (0=no pain to 10 the most pain imaginable)</outcome>
+      <timepoint>Baseline, and at 2, 4, 6 and 8 weeks after intervention commencement.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Client has an existing leg ulcer with either primary venous or lymphedema as its primary aetiology
+2. Client is appropriate for, and the best practice treatment would involve the highest compression therapy available (+40mmHg)
+3. Client is currently using (1) no compression therapy or (2) low compression therapy (less than 18mmHg)
+4. Client has received wound care education specifically promoting the use of compression therapy 
+5. The client or carer/legal guardian is able to provide informed consent to participate in the study
+6. Client has had a Doppler ultrasound in the last 12 weeks  
+7. Ankle Pressure Brachial Index is between greater than or equal to 0.8 and less than or equal to 1.2
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Client is using moderate or high compression therapy (equal to or greater than 18mmHg) for any period of the day for one or more days of the week. 
+2. Client is unable to or does not have someone who can physically implement the Electrostimulation Therapy. 
+3. Client is unable to or does not have someone who can take low compression garments (for those currently wearing compression) on and off in between Electrostimulation Therapy treatments 
+4. Client has an existing diagnosis of Deep Vein Thrombosis (DVT) 
+5. Client has an implanted cardiac device such as a permanent pace-maker or internal defibrillator 
+6. Diagnosed with an active malignant disease 
+7. Client is pregnant 
+8. Client has signs of clinical infection in their ulcer 
+9. Client has a known reaction to adhesive chemicals such as those used on dressings 
+10. Client is assessed by their clinician as having fragile skin that is at risk of damage when removing the adhesive pads 
+11. Client has one of the following medical diagnoses: hypothyroidism, hyperthyroidism, congestive cardiac failure, or hypertension 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by phone</concealment>
+    <sequence>Randomisation lists will be generated for each setting and will be stratified by participants use of compression bandaging  using a random number function in Microsoft excel.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>As Electrostimulation Therapy generates sensation to the leg, to mask the placebo devices study participants will be advised that some people do, and some people do not, feel sensation when using the Electrostimulation device.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The sample size was not drawn from a power analysis rather it is an indicative sample to enable determination of an effect size.
+Data collected will be entered directly into SPSS database. A 10 per cent validation of all data will be undertaken.  Generation of effect sizes will be based on two-way repeated measures analysis of variance tests for wound healing rate.  Analysis will be in accordance with intention to treat with additional consideration of a complete case analysis. A modified intention-to-treat analysis will also be conducted to indicate of the effects associated with the treatment.  </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>3/04/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>25/12/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Austin Health - Heidelberg Repatriation Hospital - Heidelberg West</hospital>
+    <postcode>3181 - Prahran</postcode>
+    <postcode>3081 - Heidelberg West</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>BodyFlow International Pty Ltd</primarysponsorname>
+    <primarysponsoraddress>Unit 1, 297 Ingles Street, Port Melbourne, Vic, 3207</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>BodyFlow International Pty Ltd</fundingname>
+      <fundingaddress>Unit 1, 297 Ingles Street, Port Melbourne, Vic, 3207</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>University</othercollaboratortype>
+      <othercollaboratorname>La Trobe University</othercollaboratorname>
+      <othercollaboratoraddress>La Trobe Clinical School, Level 4, The Alfred Centre, 99 Commercial Road, Prahran, VIC, 3004</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Alfred Health</othercollaboratorname>
+      <othercollaboratoraddress>Level 4, The Alfred Centre, 99 Commercial road, Prahran, VIC, 3004</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Austin Health</othercollaboratorname>
+      <othercollaboratoraddress>Heidelberg Repatriation Hospital, PO BOX 5444, Heidelberg West, VIC, 3081</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Leg ulcers have a big impact on the lives of those affected. Compression therapy is recommended to help heal an ulcer but many people find it difficult to wear high or moderate compression therapy products. Electric stimulation therapy has been used by physiotherapists to improve circulation in the legsthe goal of compression therapy. This study has been developed as a small clinical trial that will see if electric stimulation therapy can help heal ulcers and will help determine if further large clinical trials are worthwhile.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Commitee</ethicname>
+      <ethicaddress>Human Research Ethics Committee (HREC), Governance &amp; Low &amp; Negligible Risk Research (LNRR)  
+P.O Box 5555 Heidelberg 3084
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>20/02/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Alfred Health Human Research Ethics Commitee</ethicname>
+      <ethicaddress>The Alfred
+55 Commercial Road
+Prahran, Vic, 3004</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>24/02/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>William McGuiness</name>
+      <address>Level 4, The Alfred Centre, 99 Commercial road, Prahran, VIC, 3004</address>
+      <phone>+61 3 9479 6743</phone>
+      <fax />
+      <email>w.mcguiness@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Charne Miller</name>
+      <address>Level 4, The Alfred Centre, 99 Commercial road, Prahran, VIC, 3004</address>
+      <phone>+61 421047911</phone>
+      <fax />
+      <email>C.Miller@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Charne Miller</name>
+      <address>Level 4, The Alfred Centre, 99 Commercial road, Prahran, VIC, 3004</address>
+      <phone>+61 421047911</phone>
+      <fax />
+      <email>C.Miller@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Sean Wilson</name>
+      <address>Level 4, The Alfred Centre, 99 Commercial road, Prahran, VIC, 3004</address>
+      <phone>+61 9479 6742</phone>
+      <fax />
+      <email>sean.wilson@latrobe.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

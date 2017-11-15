@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363646">
+  <stage>Registered</stage>
+  <submitdate>5/02/2013</submitdate>
+  <approvaldate>6/02/2013</approvaldate>
+  <actrnumber>ACTRN12613000144718</actrnumber>
+  <trial_identification>
+    <studytitle>Pilot study to assess an evidence-based anaesthesia monitoring system</studytitle>
+    <scientifictitle>A pilot study in patients undergoing anaesthesia for major surgery who will be monitored using an additional computer based system (EBMi); whether the EBMi system has any advantages  over conventional monitoring will be assessed by the anaesthetist in charge of the patients care. </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None
+</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Adverse events during anaesthesia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Use of novel software to augment present anaesthesia monitoring.
+The software includes the ability to detect / diagnose various adverse events during anaesthesia...including hypovolaemia, age and disease related hypotension, Cushing response, sympathetic response, low anaesthetic concentration, damped arterial trace.  The alerts are presented visually and audibly in plain English. The software will run for the duration of the anaesthetic .</interventions>
+    <comparator>This is a pilot study of an auxiliary monitoring system and as such it will be assessed for its 'usability' and ability to detect adverse events; for this pilot study  it is not being compared with any other system</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>1.  The software functions without failure / downtime
+
+Failure or downtime  a simple observation that the software keeps running despite artefacts in the monitored data</outcome>
+      <timepoint>End of surgery</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>2.  The degree of agreement between the clinician and the software using Kappa analysis</outcome>
+      <timepoint>End of the pilot study</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>3  Determination of specificity / sensitivity of diagnoses
+
+Each alert will be assessed by the clinician(s) and will be classified as a True positive or False positive.  This will be done using clinical acumen/experience</outcome>
+      <timepoint>End of study period</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nil</outcome>
+      <timepoint>Nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult - aged over 16 years
+Able to give consent
+Major surgery involving the use of intra-arterial monitoring</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Younger than 16 years of age</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>The patient’s that are potentially able to be audited will be noted at the time of the preoperative visit by the anaesthetist.</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment />
+    <designfeatures>This is an observational interventional study.  The intervention is the use of an additional monitoring system that may give the anaesthetist more information than normal.  The anaesthetist is in sole charge of the management of the patient.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Kappa analysis and free text observational notes</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/04/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>South Island</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Michael Harrison</primarysponsorname>
+    <primarysponsoraddress>University Department of Surgery and Anaesthesia, Otago University (Wellington)
+21 Mein St., Newtown, Wellington, 6242
+North Island
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>N/A</fundingname>
+      <fundingaddress>N/A</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The anaesthesia monitors we now use have not changed significantly over the last 25 years.  We are still presented with simple trend displays of various parameters over time, digital values that are updated every 10s and waveforms of some variables.   There is virtually no interpretation of these variables and it is very easy to miss significant changes that take place slowly over time.
+The Evidence-Based monitor software follows trend in key variables and detects patterns of changes in these variable that are associated with 'organised' physiological responses and alerts the anaesthetist to the possibility of an adverse state.
+This software has been tested off-line on two patient databases (both had ethical approval for data collection) but has never been tested in real-time in an operating theatre.
+Objectives
+
+1.	To show that the software will run continuously without breakdowns
+2.	To assess its ease of use 
+3.	To assess its usefulness
+
+a)	Did it highlight events that may have been missed because of other factors
+
+b)	Did it stimulate a change in patient management.
+
+4.	To determine the correctness of the advice
+a)	Did it suggest diagnoses that were incorrect (False positives)
+b)	Did it fail to suggest a diagnosis when the clinician expected a response (False negative)
+c)	Did it 'keep quiet' when nothing was happening (True negatives)
+d)	Did it correctly diagnose adverse events for which it is designed (True positive)
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HDEC New Zealand</ethicname>
+      <ethicaddress>HDEC
+Ministry of Health
+No 1 The Terrace
+PO Box 5013
+Wellington
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>14/02/2013</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Harrison</name>
+      <address>Department of Surgery and Anaesthesia,
+University of Otago (Wellington)
+21 Mein St., Newtown, Wellington, 6242
+North Island
+</address>
+      <phone>+64-21-640-618</phone>
+      <fax />
+      <email>michael.harrison@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Harrison</name>
+      <address>Department of Surgery and Anaesthesia,
+University of Otago (Wellington)
+21 Mein St., Newtown, Wellington, 6242
+North Island
+</address>
+      <phone>+64-21-640-618</phone>
+      <fax />
+      <email>michael.harrison@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Harrison</name>
+      <address>Department of Surgery and Anaesthesia,
+University of Otago (Wellington)
+21 Mein St., Newtown, Wellington, 6242
+North Island
+</address>
+      <phone>+64-21-640-618</phone>
+      <fax />
+      <email>michael.harrison@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Michael Harrison</name>
+      <address>Department of Surgery and Anaesthesia,
+University of Otago (Wellington)
+21 Mein St., Newtown, Wellington, 6242
+North Island
+</address>
+      <phone>+64-21-640-618</phone>
+      <fax />
+      <email>michael.harrison@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

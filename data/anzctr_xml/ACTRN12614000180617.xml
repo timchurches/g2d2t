@@ -1,0 +1,236 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364522">
+  <stage>Registered</stage>
+  <submitdate>11/02/2014</submitdate>
+  <approvaldate>17/02/2014</approvaldate>
+  <actrnumber>ACTRN12614000180617</actrnumber>
+  <trial_identification>
+    <studytitle>A Study to Compare Loperimide to Placebo for the Prevention of Excess Fluid Losses From the Stoma in Patients with New Loop Ileostomy.</studytitle>
+    <scientifictitle>A Double-blind Randomised, Placebo-controlled Trial to Assess the Efficacy of Loperamide versus Placebo as Post-operative Prevention of High Output Ileostomy Losses in Patients with New Loop Ileostomy.</scientifictitle>
+    <utrn />
+    <trialacronym>ALPHI Study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>High output ileostomy</healthcondition>
+    <healthcondition>Dehydration</healthcondition>
+    <healthcondition>Acute kidney failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Loperamide 4mg three times per day orally for 3 months commencing on day of first passage of flatus post-operatively. Patients will weigh themselves at home daily and keep a diary of stoma output. Empty drug packs will be returned to pharmacy for drug accountability.</interventions>
+    <comparator>Placebo administered three times per day orally for 3 months commencing on day of first passage of flatus post-operatively. Patients will weigh themselves at home daily and keep a diary of stoma output. Empty drug packs will be returned to pharmacy for drug accountability.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Incidence of high output ileostomy </outcome>
+      <timepoint>Whenever the output is greater than 1000mls measured daily for 3 months.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum creatinine above 110 umol/L</outcome>
+      <timepoint>Monthly for 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Estimated glomerular filtration rate of less than 
+60 ml/min/1.73m2</outcome>
+      <timepoint>Monthly for 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Participant readmission rate</outcome>
+      <timepoint>At any time in the 3 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total hospital length of stay</outcome>
+      <timepoint>3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stoma output more than 2 litres per day.</outcome>
+      <timepoint>Daily for 3 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Serum sodium below 130 mmol/L or above 145mmol/L</outcome>
+      <timepoint>Monthly for 3 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean weight loss after hospital discharge</outcome>
+      <timepoint>3 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Weight loss in excess of 10% after discharge</outcome>
+      <timepoint>Measured twice weekly for 3 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Surgical complications, according to the validated Clavien Dindo surgical complication score</outcome>
+      <timepoint>28 days post-operatively from ileostomy formation.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Written informed consent
+-All adult (&gt;18 years) patients undergoing elective or semi-urgent booked operations involving a loop ileostomy at the participating hospitals.
+-Must have passed flatus post-operatively, tolerating diet and no signs and symptoms of ileus.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-Refuse or are unable to give written informed consent to participate in the study, or
+-Have a known allergy or adverse drug reaction to loperamide 
+-Pregnant or lactating females
+-Have a eGFR less than 60ml/min/1.73m3 pre-operatively
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Written informed consent will be provided pre-operatively. Randomisation will occur on the day of first passage of flatus. 
+Randomisation will be performed by a research nurse, via a centralised web-based randomisation program which will allocate a treatment pack number. The allocated pack number will be dispensed to the patient whilst in hospital by the hospital pharmacy.</concealment>
+    <sequence>Randomisation will be computer generated with randomisation to control and intervention in a 1:1 ratio. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Based on an audit of local data, 60% of patients with a new ileosotomy have an output of greater than 1000 ml/day on discharge from hospital.
+
+In order to detect a clinically relevant difference in the proportion of high output (&gt;1000 ml) of 30%, a study size of 78 (39 in each arm) is needed to detect such a difference with adequate level of significance (alpha 0.05, beta 0.8). Taking into consideration any subject dropouts or withdrawals we calculate we will need a target accrual of 86 patients.
+Statistical analysis on the all data will consist of Chi Square and Fishers exact tests to compare categorical data. Continuous data conforming to a normal distribution will be compared using Student's t test.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>31/08/2014</anticipatedstartdate>
+    <actualstartdate>28/08/2014</actualstartdate>
+    <anticipatedenddate>7/08/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>86</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>John Hunter Hospital Royal Newcastle Centre - New Lambton</hospital>
+    <hospital>Newcastle Private Hospital - New Lambton Heights</hospital>
+    <postcode>2305 - New Lambton Heights</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Hunter New England Local Health District</primarysponsorname>
+    <primarysponsoraddress>Lookout Road 
+New Lambton Heights NSW 2305</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>John Hunter Hospital</fundingname>
+      <fundingaddress>Lookout Road
+New Lambton Heights NSW 2305</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>One of the commonest complications of an ileostomy is the potential loss of a large amount of fluids and salts from the ileostomy, and this is called a high output ileostomy. A high output ileostomy can cause a person to become dehydrated and when the losses are large enough, it can lead to kidney failure, and re-presentation to hospital, with admission to hospital with long hospital stay 
+The purpose of this study is to see if large ileostomy output can be prevented from occurring, rather than waiting for it to happen and then treating it. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Human Research Ethics Committee</ethicname>
+      <ethicaddress>Locked Bag 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate>4/07/2013</ethicapprovaldate>
+      <hrec>13/06/19/3.04</hrec>
+      <ethicsubmitdate>31/05/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/364522-HREC approval.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Smith</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>stephen.smith@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rosemary Carroll</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>rosemary.carroll@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Stephen Smith</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>stephen.smith@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rosemary Carroll</name>
+      <address>Division of Surgery
+John Hunter Hospital
+Locked Bag 1
+Hunter Region Mail Centre NSW 2310</address>
+      <phone>+61 2 49855153</phone>
+      <fax />
+      <email>rosemary.carroll@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

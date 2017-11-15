@@ -1,0 +1,228 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369917">
+  <stage>Registered</stage>
+  <submitdate>14/01/2016</submitdate>
+  <approvaldate>18/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000032459</actrnumber>
+  <trial_identification>
+    <studytitle>Low Intensity Intervention to Reduce Depression and Anxiety in Women Exposed to Gender-Based Violence </studytitle>
+    <scientifictitle>Randomised Controlled Trial of Problem Management Plus versus Enhanced Treatment as Usual to Reduce Depression and Anxiety in Women Exposed to Gender-Based Violence </scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Posttraumatic stress disorder</healthcondition>
+    <healthcondition>Depression</healthcondition>
+    <healthcondition>Anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>There are two arms to this trial. Arm 1: Problem Management Plus. Arm 2: Enhanced Treatment as Usual. Therapy is administered once-weekly over 5 weeks on an individual 60 minute basis. Problem Management Plus includes skills in identifying emotional and practical problems that can be managed and strategies to reduce and cope with these problems. Attendance at sessions will be monitored via session attendance records. Adherence to strategies will be monitored by checklists of strategies employed. The duration of the study for any participant will conclude after immediate post-trial follow-up assessment, resulting in participation duration of 1.5 months. Therapy is provided by local health workers. </interventions>
+    <comparator>Enhanced Treatment as Usual comprises normal treatment provided by local primary care providers (usually nurses) who have received training in supportive counseling and psychological first aid. Treatment as Usual involves non-directive counselling about daily problems reported by participants, as well as provision of basic education about common psychological problems. Attendance at sessions will be monitored via session attendance records. Adherence to strategies will be monitored by checklists of strategies employed. The duration of the study for any participant will conclude after immediate post-trial follow-up assessment, resulting in participation duration of 1.5 months. </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Anxiety and depression are a composite outcome that are measured by mean score on the General Health Questionnaire </outcome>
+      <timepoint>Pretreatment (week 1), posttreatment (week 7), follow up (13) </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean scores on the World Health Organisation Disability Assessment Schedule 2.0</outcome>
+      <timepoint>Pretreatment (week 1), posttreatment (week 7), follow up (13)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Posttraumatic stress disorder measured by the PTSD Checklist</outcome>
+      <timepoint>Pretreatment (week 1), posttreatment (week 7), follow up (13)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Personalised outcomes as measured by the Psychological Outcomes Profile (PSYCHLOPS) scale </outcome>
+      <timepoint>Pretreatment (week 1), posttreatment (week 7), follow up (13)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health service use as measured by reported access of Nairobi health services</outcome>
+      <timepoint>Pretreatment (week 1), follow up (13)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stressful life events as measured by the Life Events Checklist</outcome>
+      <timepoint>Pretreatment (week 1),  follow up (13)</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Women exposed to gender-based violence and indicate significant distress as reflected in scores on GHQ &gt; 2 and impaired functioning reflected in scores on WHODAS &gt; 16 </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>(a) Imminent suicidal intent, (b) severe mental disorder, (c) severe cognitive impairment, (d) acute protection risks, (e) exposure to trauma in last month, (f) male gender, (g) acute protection risks </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be adult females who will be included through community screening by independent assessors in the catchment area of volunteer Community Health Workers. Participants will be enrolled when indicating moderate distress &amp; impaired functioning. Participants wishing to participate will be randomly allocated according to a random numbers system administered by an individual unit. </concealment>
+    <sequence>Participants will be randomized by an independent research assistant, not involved in the assessments. There is no stratification in this pilot trial. Randomisation will occur by a randomization table created by a computerized sequence. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Analyses will use hierarchical linear models (HLM) to investigate the relative effects of the treatments.  The benefit of this approach is that it presumes intent-to-treat analyses as HLM allows the number of observations to vary between participants and effectively handles missing data. Time (linear and quadratic), treatment condition, and their interaction will be  included in the models. Fixed effects parameters will be tested at 95%CI.  The Level 1 model will represent within-patient change over time, and the Level 2 model will predict variation in within-patient change over time and encompass between-patient variables (treatment condition, injury characteristics, gender). Primary measures will comprise the GHQ, PCL, and WHODAS. </statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>15/04/2015</actualstartdate>
+    <anticipatedenddate>1/04/2016</anticipatedenddate>
+    <actualenddate>15/08/2015</actualenddate>
+    <samplesize>490</samplesize>
+    <actualsamplesize>522</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Kenya</country>
+      <state>Nairobi</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Richard Bryant </primarysponsorname>
+    <primarysponsoraddress>School of Psychology
+University of New South Wales
+Sydney NSW 2052
+
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Grand Challenges Canada </fundingname>
+      <fundingaddress>MaRS Centre
+South Tower
+101 College Street
+Suite 406
+Toronto, Ontario, M5G 1L7 
+</fundingaddress>
+      <fundingcountry>Canada</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>World Health Organisation </sponsorname>
+      <sponsoraddress>Avenue Appia 20
+1211 Geneva 27
+</sponsoraddress>
+      <sponsorcountry>Switzerland</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Government body</sponsortype>
+      <sponsorname>World Vision Kenya </sponsorname>
+      <sponsoraddress>P.O Box 50816 - 00200
+Nairobi
+</sponsoraddress>
+      <sponsorcountry>Kenya</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The rationale of the pilot study is to evaluate the feasibility of conducting a definitive RCT of a low intensity intervention to reduce mental health problems in people in low-resource settings. This study compares the relative efficacy of (a) Problem Management Plus will lead to greater symptom reduction than (b) Enhanced Treatment as Usual. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>World Health Organisation Ethics Review Committee </ethicname>
+      <ethicaddress>World Health Organization
+Avenue Appia 20
+1211 Geneva 27
+</ethicaddress>
+      <ethicapprovaldate>30/05/2014</ethicapprovaldate>
+      <hrec>292935 0</hrec>
+      <ethicsubmitdate>21/02/2014</ethicsubmitdate>
+      <ethiccountry>Switzerland</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Bryant </name>
+      <address>School of Psychology
+University of New South Wales
+Sydney NSW 2052 
+</address>
+      <phone>+61 2 9385 3640</phone>
+      <fax>+61 2 9385 3641</fax>
+      <email>r.bryant@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Bryant </name>
+      <address>School of Psychology
+University of New South Wales
+Sydney NSW 2052 
+</address>
+      <phone>+61 2 9385 3640</phone>
+      <fax>+61 2 9385 3641</fax>
+      <email>r.bryant@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Bryant </name>
+      <address>School of Psychology
+University of New South Wales
+Sydney NSW 2052 
+</address>
+      <phone>+61 2 9385 3640</phone>
+      <fax>+61 2 9385 3641 </fax>
+      <email>r.bryant@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Richard Bryant </name>
+      <address>School of Psychology
+University of New South Wales
+Sydney NSW 2052 
+</address>
+      <phone>+61 2 9385 3640</phone>
+      <fax>+61 2 9385 3641</fax>
+      <email>r.bryant@unsw.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

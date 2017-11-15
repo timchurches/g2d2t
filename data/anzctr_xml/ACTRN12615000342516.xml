@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368243">
+  <stage>Registered</stage>
+  <submitdate>25/03/2015</submitdate>
+  <approvaldate>15/04/2015</approvaldate>
+  <actrnumber>ACTRN12615000342516</actrnumber>
+  <trial_identification>
+    <studytitle>A non-inferiority randomised clinical trial of the use of the smartphone-based health applications IBDsmart and IBDoc in the care of inflammatory bowel disease patients in New Zealand.</studytitle>
+    <scientifictitle>A non-inferiority randomised clinical trial of the use of the smartphone-based health applications IBDsmart and IBDoc in the care of inflammatory bowel disease patients in New Zealand.</scientifictitle>
+    <utrn>U1111-1168-7172</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Inflammatory bowel disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Inflammatory bowel disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The interventions are the IBDsmart and IBDoc smartphone apps. The duration of the intervention is 12 months.
+
+
+IBDsmart is an app that allows inflammatory bowel disease (IBD) patients to regularly fill in symptom scores and get them sent to their doctor. It is used by the patients by logging in and filling out a questionnaire (Crohn's Disease Activity Index for Crohn's disease and Simple Clinical Colitis Activity Index for ulcerative colitis). When they fill out the questionnaire, a score is produced which indicates the severity of the disease. This way long term trends of symptom scores are kept on the smartphone and the health care team can be contacted immediately via the app in cases where disease severity is high.
+
+IBDoc is an app that allows IBD patients to measure their faecal calprotectin levels and get their results sent to their doctor. The way the app works is the participant provides a stool sample which is analysed using a medical device which produces an output that can be read via the camera by an app built into IBDoc called CalApp. CalApp communicates with IBDoc which produces a faecal calprotectin score which is high, medium, or low; the level indicates how much physical disease activity is occurring in the patient. These results can also be sent to the healthcare professional team.
+
+The use of IBDsmart and IBDoc together allows both clinical and laboratory-based information to be assessed at home by the patient and sent to their medical team. The apps can be used as often as the participants want and can be sent to their medical team at any time. If the patient wishes to report a "flare" they can prompt the app to send the results immediately. The information from the apps will be used to determine if the disease is in remission and if any change in treatment is required. Adherence will be monitored by seeing how often the participants log in and how many scores they send.
+
+Participants in the intervention group will be required to use both apps. The other treatment received in the intervention group is normal medical care if and when the disease is determined to be in a "flare."</interventions>
+    <comparator>Usual outpatient treatment. The usual treatment group will not  have access to the smartphone apps. Usual outpatient treatment, for the purposes of this studies, entails the patient seeing their treating gastroenterologist as they usually would.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Are IBDsmart/IBDoc acceptable to patients and doctors?
+(composite)
+Doctor completes usability questionnaire for doctors while patient completes usability questionnaire for patients.
+Both the doctor and patient questionnaires are a mix of app specific questions about usability but also contain a validated questionnaire called the System Usability Scale (SUS) which produces a number between 0 and 100. SUS is standardized and therefore allows comparisons to be made between apps; it has an industry average of 68.</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Are IBDsmart/IBDoc non-inferior to standard care delivered through outpatient clinic appointments only?
+(Composite)
+Inflammatory bowel disease questionnaire is the tool used to measure non-inferiority.</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Is the information gathered by IBDsmart/IBDoc sufficient to replace an outpatient appointment?
+(Composite)
+Doctors and patients asked this directly.</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Is IBDsmart/IBDoc equivalent to normal outpatient management in terms of changes in QoL as measured by the inflammatory bowel disease questionnaire (IBDQ) and symptom scores as measured by the DAIs?</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>What is the impact on disease burden as measured by DAI scores?</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>How does the CDAI compare with the abbreviated sCDAI (which has no examination or blood test)?
+The CDAI and sCDAI are used. The sCDAI only uses patient reported questions whereas the CDAI has a question that is answered medically by a blood test.</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>How well does IBDoc FC correlate with DAI scores?
+The IBDoc FC scores are correlated with the symptom scores (SCCAI for UC and sCDAI for CD)</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>What is the contribution of the DISQ to the traditional scoring systems?
+The Dudley Inflammatory Bowel Symptom Questionnaire (DISQ) is used.</outcome>
+      <timepoint>52 weeks post randomisation.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Confirmed UC or CD
+At least 2 outpatient appointments in last 12 months.
+&lt;3 disease flares in last 12 months
+Willing and able to provide written consent
+18 years of age or over
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Indeterminate colitis
+Severe disease with close monitoring
+Possible surgical intervention
+Previous surgery
+Pregnancy
+Unwilling or unable to provide written consent
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The participants will be recruited from outpatient clinics in Dunedin, Christchurch, and Auckland from June 2015 to December 2015; they will be randomized to the IBDsmart-IBDoc group or the usual treatment group. Allocation is not concealed</concealment>
+    <sequence>Randomization will occur by a computer program randomly allocating participants to one of the two groups. </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>The data will be managed by the study administrator and all patient information will be partially de-identified. Appropriate descriptive statistics will be provided for all measures of interest. Acceptability of IBDsmart/IBDoc will be evaluated through descriptions of patient and doctor responses. Non-inferiority of the primary outcomes (IBDQ, sCDAI, SCCAI) will be investigated through linear mixed models of the follow-up scores (12, 24, 36, and 52 weeks) adjusting for baseline scores to estimate the difference between usual care and IBDsmart/IBDoc at each time point. The primary outcome, non-inferiority at 52 weeks, will be established where the 90% two-sided CI for the between group effect (usual care-IBDsmart/IBDoc) is strictly above the lower equivalence limits (-20, -70, and -3 respectively). Secondary analyses will be performed similarly using group differences at interim time points. If missing data rates exceed the expected 5% rate, multiple imputation will be used for sensitivity analyses. Correlations between the simple CDAI and full CDAI and between IBDoc FC scores and DAI scores (sCDAI and SCCAI) will be investigated using Pearsons correlation coefficients. All statistical analyses will be conducted using Stata 13.1 or a later version with tests performed at the 0.05 level (two-sided).
+A sample size of 31 patients with Crohns Disease (CD) per group (n=62) at follow-up will provide 80% power to detect non-inferiority (p&lt;0.05) using sCDAI assuming a standard deviation of 110 and an equivalence limit of 70. A sample size of 17 patients with Ulcerative Colitis (UC) per group (n=34) at follow-up will similarly provide 80% power to detect non-inferiority (p&lt;0.05) using SCCAI assuming a standard deviation of 3.5 and an equivalence limit of 3.Finally, a sample size of 45 patients with either CD or UC per group (n=90) at follow-up will provide 80% power to detect non-inferiority (p&lt;0.05) using IBDQ assuming a standard deviation of 38 and an equivalence limit of 20.Thus, the study could be adequately powered with a total of 96 participants (62 with CD and 34 with UC) at follow-up. Allowing for 5% loss to follow-up, 102 participants (66 with CD and 36 with UC) will be enrolled at baseline.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>102</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Waitemata</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>Department of Medicine
+University of Otago
+PO Box 56
+Dunedin 9054
+New Zealand</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Healthcare Otago Charitable Trust</fundingname>
+      <fundingaddress>Private Bag 1921
+Dunedin 9054</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Southern District Health Board</sponsorname>
+      <sponsoraddress>Great King Street, Dunedin, 9016</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Inflammatory bowel disease (IBD) is a chronic relapsing and remitting disease that can negatively affect quality of life (QoL) of its sufferers. In terms of IBD management, there are reports of inadequate access to IBD professionals, such as gastroenterologists and IBD nurses, and so there is a need for IBD care to be improved through cost-efficient means. This study aims to test the usability of two smartphone apps, namely IBDsmart and IBDoc, and compare them to usual treatment in terms of IBD-related QoL and IBD symptom scores. IBDsmart is an app for monitoring the clinical symptoms of IBD and IBDoc is an app for measuring the faecal calprotectin (an important biomarker) of IBD patients. The objectives are to see if (a) the information gathered by IBDsmart and IBDoc are sufficient to replace an outpatient appointment, (b) if the apps are acceptable to patients and doctors, and (c) what the impact of the apps is on QoL and IBD symptoms. The participants will be recruited from outpatient clinics in Dunedin, Christchurch, and Auckland from June 2015 to November 2015; they will be randomized to the IBDsmart-IBDoc group or the usual treatment group. It is expected that the smartphone apps (a) will be sufficient to replace an outpatient appointment, (b) will be acceptable to patients and doctors, and (c) will not have a negative impact on QoL or IBD symptoms.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Reception - Ground Floor
+20 Aitken Street
+Thorndon
+WELLINGTON 6144</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>25/03/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Schultz</name>
+      <address>Dunedin School of Medicine
+PO Box 56
+Dunedin 9054
+New Zealand</address>
+      <phone>+64276102395</phone>
+      <fax />
+      <email>michael.schultz@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew McCombie</name>
+      <address>University of Otago, Christchurch
+PO Box 4345
+Christchurch 8140</address>
+      <phone>+64272626111</phone>
+      <fax />
+      <email>mccombieandrew@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew McCombie</name>
+      <address>University of Otago, Christchurch
+PO Box 4345
+Christchurch 8140</address>
+      <phone>+64272626111</phone>
+      <fax />
+      <email>mccombieandrew@hotmail.com</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Andrew McCombie</name>
+      <address>PO Box 4345
+Christchurch</address>
+      <phone>+64272626111</phone>
+      <fax />
+      <email />
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

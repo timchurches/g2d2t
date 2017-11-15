@@ -1,0 +1,222 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373018">
+  <stage>Registered</stage>
+  <submitdate>25/05/2017</submitdate>
+  <approvaldate>30/05/2017</approvaldate>
+  <actrnumber>ACTRN12617000793314</actrnumber>
+  <trial_identification>
+    <studytitle>The Vitamin C after Cardiac Surgery Study</studytitle>
+    <scientifictitle>A Pilot, Randomised, Double-Blind Study of Vitamin C in the treatment of Vasoplegic Shock after Cardiac Surgery</scientifictitle>
+    <utrn />
+    <trialacronym>The VICCSS study</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Low blood pressure</healthcondition>
+    <healthcondition>Vasoplegia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intravenous Vitamin C 1500 mg administered 6-hourly given every six hours until no vasopressor is required for a period of 24 hours or a maximum of 96 hours (4 days) or the patient is discharged from ICU, whichever occurs first) with clinical monitoring and evaluation of the patient's blood pressure prior to study drug administration</interventions>
+    <comparator>Intravenous normal saline 0.9% administered 6-hourly given every six hours until no vasopressor is required for a period of 24 hours or a maximum of 96 hours (4 days) or the patient is discharged from ICU, whichever occurs first).with clinical monitoring and evaluation of the patient's blood pressure prior to study drug administration</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Cessation of vasopressor therapy</outcome>
+      <timepoint>Cessation of vasopressor therapy is defined as the time from randomisation to cessation of vasopressor therapy (defined as four consecutive hours of vasopressor-free time).</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Total dose of noradrenaline given in the first 48-hours following randomisation</outcome>
+      <timepoint>Accumulative dose in milligrams of noradrenaline administered from randomisation until 48-hours post randomisation as documented in the patient's medical record</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of intensive care unit admission</outcome>
+      <timepoint>Duration in hours from randomisation until discharge from the intensive care unit as documented in the patient's medical record</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality at ICU discharge</outcome>
+      <timepoint>Mortality status at the time of intensive care unit dischage as documented in the patient's medical record</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality at hospital discharge</outcome>
+      <timepoint>Mortality status at the time of hospital dischage as documented in the patient's medical record</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients aged greater than or equal to 18 years of age
+Admitted to the ICU following elective or urgent cardiac surgery (coronary artery bypass graft, cardiac valvular surgery, or mixed)
+Vasoplegic syndrome in the postoperative period defined as:
+Hypotension (mean arterial pressure &lt; 65 mmHg) not responsive to fluid resuscitation defined as:
+i) need for vasopressor drug
+ii) cardiac index that is less than or equal to 2.2 L/min/m2
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Pregnancy 
+Diagnosis of cardiogenic shock
+Use of vasopressor drugs in the preoperative period
+Off-pump cardiac surgery
+Chronic use of corticosteroid therapy
+History of oxalate nephrolithiasis
+Haemochromatosis
+Glucose 6 phosphate dehydrogenase deficiency
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Blinded allocation using sealed opaque envelopes</concealment>
+    <sequence>permuted block randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Outcomes will be compared after log transformation where appropriate. Comparisons will be made using t-test and ANOVA for repeated-measures or Wilcoxon rank-signed test and Kruskall-Wallis according to the underlying distribution for continuous data and Chi-square for categorical data.  Logistic regression analysis will also be performed to adjust for baseline imbalances.  Analysis will be on an intention-to-treat basis.
+
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>26/06/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <postcode>3084 - Heidelberg</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Austin Hospital</primarysponsorname>
+    <primarysponsoraddress>145 Studley Road
+Heidelberg VIC 3084</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Austin Hospital</fundingname>
+      <fundingaddress>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Rinaldo Bellomo</sponsorname>
+      <sponsoraddress>Director, Intensive Care Research
+Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Patients after cardiac surgery often develop a low blood pressure because of the inflammation associated with surgery and bypass. This low blood pressure is mostly due to the small blood vessels losing their normal tightness. This condition is called vasoplegia. When vasoplegia occurs after cardiac surgery, it can lower the blood pressure to dangerous levels, which can lead to organ malfunction and may even be life-threatening. In order to maintain safety under such a situation, intensive care doctors administer drugs that tighten blood vessels. These drugs are called vasopressors. Such vasopressors can restore safe levels of blood pressure. However, they have significant side effects. Thus, it would be desirable to restore a safe blood pressure without the use of such vasopressor drugs. Over the last few years, evidence has emerged that high dose vitamin C injected into the blood stream can restore the normal tightness of blood vessels and is free of side effects. This makes treatment with vitamin C potentially desirable in cardiac surgery patients with vasoplegia. However, no studies have assessed whether vitamin C at high dose is effective in this setting. Thus, we propose to conduct a pilot study to test whether vitamin C at high dose can improve blood pressure and decrease the need for vasopressor drugs in patients with vasoplegia after cardiac surgery.</summary>
+    <trialwebsite>Not applicable</trialwebsite>
+    <publication>Nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>17/05/2017</ethicapprovaldate>
+      <hrec>HREC/17/Austin/162</hrec>
+      <ethicsubmitdate>3/04/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/373018-20170517 HREC17Austin162 May17 (FULL ETHICS APPROVAL).pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61394965992</phone>
+      <fax>+61394963932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Glenn Eastwood</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61394964835</phone>
+      <fax>+61394963932</fax>
+      <email>glenn.eastwood@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61394965992</phone>
+      <fax>+61394963932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Glenn Eastwood</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61394964835</phone>
+      <fax>+61394963932</fax>
+      <email>glenn.eastwood@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

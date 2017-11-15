@@ -1,0 +1,170 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366663">
+  <stage>Registered</stage>
+  <submitdate>14/07/2014</submitdate>
+  <approvaldate>31/07/2014</approvaldate>
+  <actrnumber>ACTRN12614000816651</actrnumber>
+  <trial_identification>
+    <studytitle>Single-session behavioural activation treatment for depression</studytitle>
+    <scientifictitle>Evaluation of a single session of Brief Behavioural Activation for Treatment for Depression (BATD): A randomised control trial in a community sample of individuals meeting diagnostic criteria for depression.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Depression</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will be randomly allocated to either the treatment or wait-list control condition after completing a diagnostic interview and relevant psychometric measures. The current intervention protocol will be based on Gawrysiak et al.s (2009) modification of the revised Behavioral Activation Treatment for Depression (BATD-R) protocol, in which they condensed central components of the 10-session intervention into one 90-minute treatment session that includes psychoeducation on depression, treatment rationale, a life values assessment, setting weekly activity goals, and discussing ways the participant can monitor and modify weekly goals. The treatment interval is two weeks, during which time the participant will engage in scheduled activities and complete monitoring forms. Participants will complete the psychometric measures at the end of the two-week treatment interval and again at three-month follow-up.
+</interventions>
+    <comparator>Wait-list control. This group will be offered the treatment approximately one month after the initial interview/assessment has been conducted.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patient Health Questionnaire-9 (PHQ-9)</outcome>
+      <timepoint>Two-week follow-up</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient Health Questionnaire-9 (PHQ-9)</outcome>
+      <timepoint>Three-month follow up</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary Outcome 2: Valued Living Questionnaire score</outcome>
+      <timepoint>Timepoint: following treatment interval of two weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Secondary Outcome 3: Reward Probability Index (RPI) score</outcome>
+      <timepoint>Timepoint: Following treatment interval of two weeks.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Meets diagnostic criteria for depression</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Current active suicidal intent;current psychosis; bipolar disorder diagnosis; currently undergoing psychological treatment for depression.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation by computer</concealment>
+    <sequence>A spreadsheet column with equal parts study condition (intervention + control) will be sorted according to a randomly generated number sequence, using Microsoft excel software. Resulting in a randomly sorted list of study condition, to which participants will be allocated chronologically as they volunteer for the study.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>A power analysis using G*power was calculated to determine the number of participants required for an 80% probability of capturing a moderate interaction (i.e., f =.25) between group (intervention, control) and time (pre-test, post-test). According to G*Power, approximately 48 participants will be required (24 in each group). This was determined at an adjusted Bonferroni level of .0125. 
+
+Hypotheses will be tested with a series of Generalised Linear Mixed Models (GLMM). In order to optimise the likelihood of convergence, the GLMMs will be be tested separately for each of the outcome measures. To control for inflation of familywise errorrate, as a result of analysing each outcome independently of other, each GLMM will be evaluated at a Bonferroni adjusted alpha-level of .0125</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>14/08/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>School of Psychology and Speech Pathology, Curtin University</primarysponsorname>
+    <primarysponsoraddress>Kent Street, Bentley, Western Australia 6102</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>School of Psychology and Speech Pathology, Curtin University</fundingname>
+      <fundingaddress>Kent Street, Bentley, Western Australia 6102</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The proposed study aims to assess the efficacy of a single 90-minute session of a Brief Behavioural Activation for Depression (BATD) intervention in treating depressive symptoms in adults. BATD is a single-component intervention that increases access to environmental reward to improve mood. Treatment efficacy will be assessed by comparing outcome measures of a treatment group to a wait-list control group at pre-intervention and post-intervention. It is hypothesised that the treatment group will show significant reductions in self-reported depressive symptoms, as well as increases on measures of environmental reward and valued living, relative to the wait-list control group. It is hypothesised that these gains will be maintained at three-month follow-up.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee </ethicname>
+      <ethicaddress>Kent Street, Bentley, W.A. 6102</ethicaddress>
+      <ethicapprovaldate>25/07/2014</ethicapprovaldate>
+      <hrec>HR 149/2014</hrec>
+      <ethicsubmitdate>30/05/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Trevor Mazzucchelli</name>
+      <address>Curtin University, Kent Street, Bentley W.A. 6102</address>
+      <phone>+61 8 92667182</phone>
+      <fax />
+      <email>Trevor.Mazzucchelli@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Natalie Burge</name>
+      <address>Curtin University, Kent Street, Bentley W.A. 6102</address>
+      <phone>+61 8 92663436</phone>
+      <fax />
+      <email>natalie.burge@postgrad.curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Trevor Mazzucchelli</name>
+      <address>Curtin University, Kent Street, Bentley W.A. 6102</address>
+      <phone>+61 8 92667182</phone>
+      <fax />
+      <email>Trevor.Mazzucchelli@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Natalie Burge</name>
+      <address>Curtin University, Kent Street, Bentley W.A. 6102</address>
+      <phone>+61 8 92663436</phone>
+      <fax />
+      <email>natalie.burge@postgrad.curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,232 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="343299">
+  <stage>Registered</stage>
+  <submitdate>8/08/2011</submitdate>
+  <approvaldate>10/08/2011</approvaldate>
+  <actrnumber>ACTRN12611000848909</actrnumber>
+  <trial_identification>
+    <studytitle>GAP: Phase II gemcitabine and nab-paclitaxel for resectable pancreas cancer</studytitle>
+    <scientifictitle>The effect of preoperative gemcitabine and nab-Paclitaxel compared to historical controls on RO surgical rate in patients with resectable pancreas cancer</scientifictitle>
+    <utrn />
+    <trialacronym>GAP</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Resectable pancreas cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Pancreatic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>2 pre-operative chemotherapy cycles with 1000mg/m2 gemcitabine and 125mg/m2 nab-paclitaxel given intravenously on day 1, day 8 and day 15 of a 28 day cycle. Patient will then undergo surgical resection of their pancreas cancer with curative intent. Patients will be allocated to receive different post surgical adjuvent treatment depending on their surgical outcome. R0 (complete resection) patients will recieve 4 further cycles of gemcitabine 1000mg/m2 and 125mg/m2 nab-paclitaxel as described above. R1 (incomplete resection) patients will receive 45Gy radiation in 20 fractions daily over 5 weeks in combination with continous infusion of 5FU 200mg/m2/day for the duration of the radiotherapy. This is then followed by 4 cycles of gemcitabine and nab-paclitaxel chemotherapy as described above OR chemotherapy as per R0 resection outcome group (at treating clinician's discretion)</interventions>
+    <comparator>There will be no control as this is a single arm study looking at the affect of pre-operatve chemotherapy on the surgical resection outcome</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To evaluate R0 surgical resection rate in patients with resectable pancreatic cancer following pre-operative treatment with gemcitabine and nab-paclitaxel.   (R0 resection rate). 
+This will be determined by histopathological examination at the study site with a determination made if there is any microscopic disease left after surgery (R0). This will later be centrally reviewed by a histopatholgoist as quality assurance (all patients will have their slides reviewed centrally).</outcome>
+      <timepoint>After Surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine markers of response following pre-operative treatment of patients with resectable pancreatic cancer. (Ca19.9; CEA)</outcome>
+      <timepoint>following pre-operative chemotherapy, 9 weeks following randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess treatment efficacy via disease-free survival, patterns of relapse, loco-regional control and overall survival following treatment.  (disease-free survival, disease relapse, loco-regional control and overall survival)</outcome>
+      <timepoint>survival data will be collected for 12 months post treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess treatment morbidity. (e.g. rates of pancreatic leak, stent occlusion, sepsis, hospital re-admission rates , chemotherapy and radiotherapy toxicity)</outcome>
+      <timepoint>AE data collected at each study visit.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess feasibility of planned chemotherapy/ chemoradiotherapy (proportions of patients starting and finishing &gt; 80% of the planned doses of chemotherapy / chemoradiotherapy pre and post-operatively; dose delays, dose reductions and dose intensity of chemotherapy).</outcome>
+      <timepoint>data will be collected at each cycle throughout treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess feasibility of planned surgery (proportion of patients completing all three planned treatments)</outcome>
+      <timepoint>Data will be collected at each cycle throughout treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To assess the impact of this regimen on the quality of life with particular focus on the impact of pre-operative chemotherapy, the impact of surgery on quality of life and degree of recovery time.</outcome>
+      <timepoint>QOL scores determined before and after pre-operative chemotherapy, QOL scores after surgery compared to 12 months post-operatively</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-Males or females with histologically or cytologically confirmed adenocarcinoma or poorly differentiated carcinoma of the pancreas. In those patients with histology or cytology highly suspicious for adenocarcinoma, the diagnosis of pancreatic adenocarcinoma will be made by integrating this histological data with the clinical and radiographic data (tumour mass visible on three phase CT scan (or MRI scan) of the pancreas). Patients with islet cell neoplasms are excluded;
+-Disease is clearly resectable on the basis of physical examination and the following objective CT criteria (or MRI if indicated): 	
+(i) no evidence of extra-pancreatic disease; 
+(ii) no evidence of tumour abutment of the superior mesenteric artery (SMA) or coeliac axis (T4); and 
+(iii) no evidence of portal vein infiltration of more than 180 degrees of the circumference or occlusion of the superior mesenteric vein (SMV) or SMVportal vein (PTV) confluence.  
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- Patient considered to have a borderline resectable tumour.
+-  Patients with locally advanced disease.
+- Evidence of systemic disease (cardiovascular, renal, hepatic, etc.) that would preclude surgery, chemotherapy or chemoradiotherapy.
+- Concurrent illness including severe infection that may jeopardize the ability of the patient to undergo the procedures outlined in this protocol with reasonable safety.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Patients will be registered before recieving the pre-operative chemotherapy with gemcitabine and nab-paclitaxel. after 2 cycles patients will undergo surgery to remove their cancer. Depending on surgical out come the patients will either be allocated to recieve a further 4 cycle of the chemotherapy (R0) or radiochemotherapy (radation in combination with 5-FU)  followed by 4 cycles of chemotherapy with gemcitabine and nab-paclitaxel.</concealment>
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>27/06/2012</anticipatedstartdate>
+    <actualstartdate>19/06/2013</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>1/05/2014</actualenddate>
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up continuing</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC,ACT,QLD,SA,WA</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>AGITG</primarysponsorname>
+    <primarysponsoraddress>GI CANCER Institute
+Medical Foundation Building
+University of Sydney
+Level 6 92-94 Parramatta Road
+Camperdown NSW 2050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Australasian Gastro-Intestinal Trials Group (AGITG)</fundingname>
+      <fundingaddress>GI CANCER Institute
+Medical Foundation Building
+University of Sydney
+Level 6 92-94 Parramatta Road
+Camperdown NSW 2050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Specialised Therapeutics Australia</fundingname>
+      <fundingaddress>PO Box 250 
+East Kew, Victoria 3102, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Specialised Therapeutics Australia</fundingname>
+      <fundingaddress>PO Box 250 
+East Kew, Victoria 3102, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to determine the effect of pre-operative chemotherapy in patients with resectable pancreatic cancer. Patients may be eligible to join this study if they are aged 18 years or more and have been diagnosed with cancer of the pancreas for which they plan to undergo surgery. All participants in this trial will undergo pre-operative chemotherapy with the drugs gemcitabine and nab-paclitaxel. The chemotherapy will be administered intravenously on day 1, day 8 and day 15 of a 28 day cycle. Patients will receive 2 cycles before undergoing surgery to remove their cancer. Participants will be assessed after surgery to determine whether all the cancerous tissue has been successfully removed. If all the cancer has been removed the patients will have another 4 cycles of chemotherapy with gemcitabine and nab-paclitaxel. If all the cancer is not removed during surgery, the treating clinician may decide that patients will receive radiotherapy everyday for 5 weeks, at the same time as receiving a continuous infusion of 5-flurouracil which will then be followed by 4 cycles of chemotherapy with gemcitabine and nab-paclitaxel. They may also decide to to treat patients with chemotherapy as described for patients who have had all their cancer removed. Blood tests and safety assessments will also be regularly conducted throughout the 12 month duration of the trial. The results from this study will be compared to previous data to determine whether pre-operative chemotherapy will improve resection, and thus, survival outcomes in patients with pancreatic cancer.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Cancer Institute NSW</ethicname>
+      <ethicaddress>Australian Technology Park
+Level 9, 8 Central Avenue
+EVELEIGH NSW 2015
+AUSTRALIA</ethicaddress>
+      <ethicapprovaldate>3/01/2013</ethicapprovaldate>
+      <hrec>2011C/09/169</hrec>
+      <ethicsubmitdate>9/12/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Ms</title>
+      <name>GAP trial coordinator</name>
+      <address>NHMRC Clinical Trials Centre
+University of Sydney
+Locked Bag 77
+Camperdown
+NSW
+1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>gap@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>GAP trial coordinator</name>
+      <address>NHMRC Clinical Trails Centre
+University of Sydney
+Locked Bag 77
+Camperdown
+NSW
+1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>gap@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>GAP trial coordinator</name>
+      <address>NHMRC Clinical Trails Centre
+University of Sydney
+Locked Bag 77
+Camperdown
+NSW
+1450</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax>+61 2 9562 5094</fax>
+      <email>gap@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andrew Barbour</name>
+      <address>NHMRC Clinical Trials Centre
+Locked Bag 77
+Camperdown, NSW 1450
+  
+ 
+</address>
+      <phone>+61 2 9562 5000</phone>
+      <fax />
+      <email>gap@ctc.usyd.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,1023 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="1939">
+  <stage>Registered</stage>
+  <submitdate>25/04/2008</submitdate>
+  <approvaldate>25/04/2008</approvaldate>
+  <nctid>NCT00667251</nctid>
+  <trial_identification>
+    <studytitle>Chemotherapy and Lapatinib or Trastuzumab in Treating Women With HER2/Neu-Positive Metastatic Breast Cancer</studytitle>
+    <scientifictitle>A Randomized, Open-Label, Phase III Study of Taxane Based Chemotherapy With Lapatinib or Trastuzumab as First-Line Therapy for Women With HER2/Neu Positive Metastatic Breast Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>EGF108919</secondaryid>
+    <secondaryid>108919</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Breast Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Breast</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Other interventions - trastuzumab
+Treatment: drugs - docetaxel
+Treatment: drugs - lapatinib ditosylate
+Treatment: drugs - paclitaxel
+
+Active Comparator: Lapatinib - Plus taxane based chemotherapy
+
+Active Comparator: Trastuzumab - Plus taxane based chemotherapy.
+
+
+Other interventions: trastuzumab
+IV q weekly (loading dose 4mg/kg; subsequent doses 2mg/kg) or IV q 3 weekly (loading dose 8mg/kg, subsequent doses 6mg/kg).
+
+Treatment: drugs: docetaxel
+75mg/m2 IV q 3 weekly, day 1 of a 3 week cycle for 8 cycles plus G-CSF (when given together with lapatinib).
+
+Treatment: drugs: lapatinib ditosylate
+1250 mg po daily (while given with taxane). 1500mg PO daily (when given alone after taxane completion).
+
+Treatment: drugs: paclitaxel
+80mg/m2 IV q weekly days 1, 8 and 15 of a 4-week cycle for 6 cycles.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Other interventions interventions</interventioncode>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-free Survival - Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions</outcome>
+      <timepoint>From randomization to RECIST V 1.0 progression or death assessed up to 39 months.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival - OS median follow-up not achieved; estimated with quartile estimates</outcome>
+      <timepoint>From randomization to death from any cause, assessed up to 44 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to CNS Metastases at the Time of First Progression</outcome>
+      <timepoint>From randomization to CNS metastases at time of first progression, assessed up to 39 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>CNS Metastases at the Time of Progression (ITT)</outcome>
+      <timepoint>Incidence rate of CNS metastases at first progression assessed up to 39 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>CNS Metastases at the Time of Progression (HER2+)</outcome>
+      <timepoint>Incidence rate of CNS mestastes at first progression, assessed up to 39 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Objective Response Rate (Complete or Partial) ITT - Patients included in this assessment must have had at least one measurable lesion at baseline, and had at least one RECIST re-evaluation after baseline while on protocol therapy, prior to, or on, date of progression. Best overall response was classified to be Complete Response (CR) or Partial Response (PR).</outcome>
+      <timepoint>4 years</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Objective Response Rate (Complete or Partial) HER2/Neu+ - Response determined by RECIST V 1.0</outcome>
+      <timepoint>Median follow-up of 21.5 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical Benefit Response Rate (ITT) - Best overall response of CR, PR or stable disease at end of week 24.</outcome>
+      <timepoint>24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical Benefit Response Rate (HER2/Neu+)) - Best overall response of CR, PR, or stable disease at end of week 24.</outcome>
+      <timepoint>24 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life as Measured by the EORTC QLQ-C30 Global Score From Baseline to 12 Weeks - The EORTC QLQ-C30 is a questionnaire developed to assess the quality of life of cancer patients. The global score ranges from 0-100, with higher values representing a better quality of life. At 12 weeks: Group mean difference between arms</outcome>
+      <timepoint>12 weeks</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Effects of Changes in Biomarkers on Clinical Outcomes</outcome>
+      <timepoint>Not available at this time</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Economic Evaluation, Including Health Utilities, as Measured by the EQ-5D Questionnaire, and Healthcare Utilization</outcome>
+      <timepoint>Not available at this time</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed adenocarcinoma of the breast
+
+          -  Metastatic (stage IV) disease at primary diagnosis or at relapse after curative intent
+             therapy
+
+          -  Local or central laboratory confirmedHER2/neu* overexpressing and/or amplified disease
+             in the invasive component of the primary or metastatic lesion as defined by the
+             following:
+
+               -  3+ overexpression (in &gt; 30% of invasive tumor cells) by immunohistochemistry
+                  (IHC)
+
+               -  2+ or 3+ overexpression (in = 30% of invasive tumor cells) by IHC AND
+                  demonstrates HER2/neu gene amplification by fluorescence in situ hybridization
+                  (FISH) or chromogenic in situ hybridization (CISH)
+
+               -  HER2/neu gene amplification by FISH/CISH (&gt; 6 HER2/neu gene copies per nucleus,
+                  or a FISH/CISH ratio [HER2 gene copies to chromosome 17 signals] of = 2.2) NOTE:
+                  *Patients with a negative or equivocal overall result (FISH/CISH ratio of &lt; 2.2,
+                  = 6.0 HER2/neu gene copies per nucleus, or staining scores of 0, 1+, 2+, or 3+
+                  [in = 30% of neoplastic cells] by IHC) are not eligible
+
+          -  Formalin-fixed paraffin-embedded tumor specimen available
+
+          -  No CNS metastases (including leptomeningeal involvement)
+
+          -  Hormone receptor status not specified
+
+        PATIENT CHARACTERISTICS:
+
+          -  Menopausal status not specified
+
+          -  ECOG performance status 0-2
+
+          -  Life expectancy &gt; 6 months
+
+          -  Absolute granulocyte count &gt; 1,500/mm³
+
+          -  Platelet count &gt; 75,000/mm³
+
+          -  Hemoglobin &gt; 10 g/dL
+
+          -  Serum creatinine = 2.0 times upper limit of normal (ULN)
+
+          -  Total bilirubin = 1.5 times ULN (&lt; 3 times ULN for patients with Gilbert's disease)
+
+          -  AST and/or ALT = 2.5 times ULN (&lt; 5 times ULN for patients planning to receive
+             paclitaxel-based therapy)
+
+          -  LVEF = 50% by MUGA or ECHO
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  Must be accessible for study treatment and follow-up
+
+          -  No history of other malignancies, except adequately treated ductal carcinoma in situ
+             or lobular carcinoma in situ, adequately treated nonmelanoma skin cancer, curatively
+             treated carcinoma in situ of the cervix, or other curatively treated solid tumor
+             (non-breast) with no evidence of disease for = 5 years
+
+          -  No serious cardiac illness or condition including, but not limited to, any of the
+             following:
+
+               -  History of documented congestive heart failure
+
+               -  Systolic dysfunction (LVEF &lt; 50%)
+
+               -  High-risk uncontrolled arrhythmias (i.e., ventricular tachycardia, high-grade
+                  atrioventricular block, or supraventricular arrhythmias that are not adequately
+                  rate-controlled)
+
+               -  Unstable angina pectoris requiring anti-anginal medication
+
+               -  Clinically significant valvular heart disease
+
+               -  Evidence of transmural infarction on ECG
+
+               -  Inadequately controlled hypertension (i.e., systolic blood pressure [BP] &gt; 180 mm
+                  Hg or diastolic BP &gt; 100 mm Hg)
+
+               -  New York Heart Association class III-IV functional status
+
+          -  No serious illness or medical condition that would not allow the patient to be managed
+             according to the protocol including, but not limited to, any of the following:
+
+               -  History of significant neurologic or psychiatric disorder that would impair the
+                  ability to obtain informed consent or limit compliance with study requirements
+
+               -  Active uncontrolled infection
+
+               -  Serious or nonhealing wound, ulcer, or bone fracture
+
+          -  No peripheral neuropathy = grade 2
+
+          -  No gastrointestinal (GI) tract disease resulting in an inability to take oral
+             medication including, but not limited to, any of the following:
+
+               -  Malabsorption syndrome
+
+               -  Requirement for IV alimentation
+
+               -  Uncontrolled inflammatory GI disease (e.g., Crohn's disease or ulcerative
+                  colitis)
+
+          -  No history of allergic or hypersensitivity reactions to any study drug or their
+             excipients or to compounds with similar chemical composition to any of the study drugs
+
+               -  Prior allergic reactions to taxanes are allowed provided they were adequately
+                  treated and, according to the treating physician, would not prohibit further
+                  treatment with taxanes
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  Recovered from all prior therapy
+
+          -  No prior chemotherapy, immunotherapy, biological therapy, or anti-HER2/neu-targeted
+             therapy for recurrent or metastatic breast cancer
+
+          -  At least 12 months since prior chemotherapeutic agents, including taxanes, in the
+             neoadjuvant or adjuvant setting
+
+          -  At least 12 months since prior anti-HER2/neu-targeted therapy in the neoadjuvant or
+             adjuvant setting
+
+          -  Prior treatment with endocrine therapy in the neoadjuvant, adjuvant, or metastatic
+             setting allowed
+
+          -  At least 2 weeks since prior radiotherapy in the adjuvant or metastatic setting
+
+               -  Prior radiotherapy to a solitary metastatic lesion allowed provided there is
+                  documented disease progression after completion of radiotherapy
+
+          -  More than 30 days (or 5 half-lives) since prior investigational drugs
+
+          -  At least 7 days since prior and no concurrent CYP3A4 inhibitors (6 months for
+             amiodarone)
+
+          -  At least 14 days since prior and no concurrent CYP3A4 inducers
+
+          -  No prior surgical procedures affecting absorption (e.g., resection of stomach or small
+             bowel)
+
+          -  No concurrent palliative radiotherapy
+
+          -  No other concurrent anticancer treatment
+
+          -  No other concurrent investigational drugs for breast cancer</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Female</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria />
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>7/10/2008</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>649</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,QLD,SA,TAS,VIC,WA</recruitmentstate>
+    <hospital>Novartis Investigative Site - Garran</hospital>
+    <hospital>Novartis Investigative Site - Liverpool</hospital>
+    <hospital>Novartis Investigative Site - North Sydney</hospital>
+    <hospital>Novartis Investigative Site - Tweed Heads</hospital>
+    <hospital>Novartis Investigative Site - Woolloongabba</hospital>
+    <hospital>Novartis Investigative Site - Adelaide</hospital>
+    <hospital>Novartis Investigative Site - Bedford Park</hospital>
+    <hospital>Novartis Investigative Site - Kurralta Park</hospital>
+    <hospital>Novartis Investigative Site - Hobart</hospital>
+    <hospital>Novartis Investigative Site - Box Hill</hospital>
+    <hospital>Novartis Investigative Site - Fitzroy</hospital>
+    <hospital>Novartis Investigative Site - Wodonga</hospital>
+    <hospital>Novartis Investigative Site - Subiaco</hospital>
+    <postcode>2606 - Garran</postcode>
+    <postcode>2170 - Liverpool</postcode>
+    <postcode>2060 - North Sydney</postcode>
+    <postcode>2485 - Tweed Heads</postcode>
+    <postcode>4102 - Woolloongabba</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>5037 - Kurralta Park</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3690 - Wodonga</postcode>
+    <postcode>6008 - Subiaco</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alaska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arkansas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Georgia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Idaho</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Indiana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Nebraska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Jersey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oregon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>South Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Washington</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Wisconsin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Río Negro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Santa Fe</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Tucuman</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Jette</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Liege</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Namur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Alberta</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>British Columbia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Manitoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>New Brunswick</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Prince Edward Island</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Quebec</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Saskatchewan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Angers</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Bordeaux</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille cedex 9</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Metz-Tessy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Baden-Wuerttemberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Brandenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hessen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Niedersachsen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Nordrhein-Westfalen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Rheinland-Pfalz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Saarland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Sachsen-Anhalt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Sachsen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Schleswig-Holstein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Bangalore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Nagpur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Pune</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Beer-Sheva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Holon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Petah-Tikva</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Poriya</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Israel</country>
+      <state>Ramat Gan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Friuli-Venezia-Giulia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Lazio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Liguria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Puglia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sardegna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Toscana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Chieti</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kagoshima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kanagawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Saitama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shizuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>songpa-gu, Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Morelos</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Sonora</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Mexico City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Delft</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Dordrecht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Maastricht</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Gdansk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Lodz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Olsztyn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Plock</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Rzeszow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Poland</country>
+      <state>Warszawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Arkhangelsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ivanovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kirov</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Lipetsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St. Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Stavropol</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ufa,</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alcorcon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Badalona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Elche</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Girona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Jaen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>La Coruna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Lugo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Majadahonda (Madrid)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pozuelo de Alarcon (Madrid)</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Changhua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan County</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Bangkok</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Thailand</country>
+      <state>Chiangmai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnepropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipropetrovsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Lviv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Sumy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Bournemouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Brighton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Chelmsford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cheltenham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Colchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Cottingham, Hull</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Derby</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Edmonton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Guildford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Harrogate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Huddersfield</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Newcastle upon Tyne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Norwich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Oxford</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Poole, Dorset</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sheffield</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Shrewsbury</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Sutton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Whitchurch, Cardiff</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>York</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Novartis Pharmaceuticals</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>NCIC Clinical Trials Group</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>RATIONALE: HER2/neu is a receptor (protein) which is found in unusually high amounts in
+      approximately 1 in 5 cancer patients. Scientific evidence suggests that having high amounts
+      of the HER2/neu receptor is important for breast cancer to grow and spread. Women with
+      previously untreated metastatic breast cancer (breast cancer that has spread to other organs)
+      and with high levels of the HER2/neu receptor receive as their usual treatment chemotherapy
+      with one of the approved chemotherapy drugs paclitaxel or docetaxel (called "taxanes")
+      together with another approved drug called "trastuzumab". Chemotherapy drugs, such as
+      paclitaxel and docetaxel, work either by killing tumour cells or by stopping them from
+      dividing. Trastuzumab is an antibody that is given through a vein in the arm and it works by
+      specifically "targeting" the HER2/neu i.e. it attaches to it and "turns it off". Although
+      some of the patients who receive this taxane plus trastuzumab treatment feel better for some
+      months, the cancer usually starts to grow again. Lapatinib is a new drug. Like trastuzumab,
+      it also works by specifically "targeting" the HER2/neu receptor, but it does so in a
+      different way. Lapatinib is not an antibody. It is a pill that is taken daily by mouth.
+      Because lapatinib works in a different way than trastuzumab, it may be worse, as good as or
+      better than trastuzumab in keeping metastatic HER/neu positive cancer from growing. However,
+      this is not known.
+
+      Purpose: This randomized Phase III trial is comparing chemotherapy (a taxane) given together
+      with lapatinib with chemotherapy (a taxane) given together with trastuzumab in women with
+      HER2/neu positive breast cancer.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT00667251</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Novartis pharmaceuticals</name>
+      <address>Novartis Pharmaceuticals</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

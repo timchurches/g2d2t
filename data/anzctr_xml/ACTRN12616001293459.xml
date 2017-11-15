@@ -1,0 +1,279 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371404">
+  <stage>Registered</stage>
+  <submitdate>29/08/2016</submitdate>
+  <approvaldate>14/09/2016</approvaldate>
+  <actrnumber>ACTRN12616001293459</actrnumber>
+  <trial_identification>
+    <studytitle>Detecting atrial fibrillation, a common heart rhythm abnormality and preventable cause of devastating strokes, using smartphones in patients admitted to hospitals with strokes.</studytitle>
+    <scientifictitle>Evaluating the efficacy of smartphone electrographic monitoring for atrial Fibrillation detection in Acute Ischemic Stroke and transient ischemic attack patients</scientifictitle>
+    <utrn>U1111-1187-0105</utrn>
+    <trialacronym>SPOT AF</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Ischemic stroke</healthcondition>
+    <healthcondition>Atrial fibrillation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The AliveCor Mobile ECG device comprise a micro-miniaturised ECG device embedded in a smartphone case and an application (Kardia) compatible with many devices running the Apple iOS and Google Android software.  United States Food and Drug Administration and the Australian Therapeutic Goods Administration have approved the AliveCor Mobile ECG device for use as a medical device.
+
+Recording of 30 seconds of ECG equivalent to lead I of 12-lead ECG commences automatically with skin contact when the right and left hands are placed on the electrodes . Cardiac electrical activity is transmitted from the case to the smart phone by ultrasound signal. The Kardia application modulates the signal to a digital ECG trace, which can be viewed in real-time or stored, and is instantly transmitted by the smartphone to a secure server which is Health Insurance Portability and Accountability Act (US HIPAA) confidentiality  / privacy standards compliant. The file is stored as a PDF file for physician interpretation accessible through a password-protected website. An automated algorithm in the application produces noise-filtered traces and a computer-averaged complex for AF diagnosis based on criteria of p-wave absence and R-R interval irregularity.
+ 
+The stroke care unit nursing staff at the participating stroke centres will be trained by the coordinating principal investigator and the local principal investigator on the operation of the 
+AliveCor Mobile ECG device and the Kardia application prior to study commencement.  
+
+Consecutive stroke and transient ischemic attack patients admitted to the stroke care unit at participating stroke centres who fulfil the inclusion and exclusion criteria will receive Intermittent electrocardiographic monitoring administered by the stroke care unit nursing staff at the same frequency as vital observations of pulse and blood pressure using the AliveCor Mobile ECG device until discharge from the stroke care unit. The coordinating principal investigator and the local principal investigator will arrange regular meetings with the stroke care unit nursing staff to monitor the AliveCor Mobile ECG usage during the study. As this is a pragmatic study, no other strategy will be used to improve intervention adherence.</interventions>
+    <comparator>Current standard testing for atrial fibrillation following stroke or transient ischemic attack including 12-lead electrocardiogram, cardiac telemetry and Holter monitoring at each participating stroke centre.</comparator>
+    <control>Active</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of patients with new paroxysmal atrial fibrillation detected using AliveCor Mobile ECG compared to 12-lead ECG, Holter monitoring and cardiac telemetry according to current standard local paradigm.
+</outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Proportion of new paroxysmal atrial fibrillation detected using AliveCor Mobile ECG compared to Holter monitoring, in the subset of patients who received Holter monitoring.
+</outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of new paroxysmal atrial fibrillation detected using AliveCor mobile ECG compared to 12-lead ECG, in the subset of patients who received one or more 12-lead ECG during the admission. </outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of new paroxysmal atrial fibrillation detected using AliveCor mobile ECG compared to cardiac telemetry, in the subset of patients who received cardiac telemetry
+
+</outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time from stroke onset to paroxysmal atrial fibrillation detection for AliveCor Mobile ECG, 12-lead ECG, Holter monitoring and cardiac telemetry.
+</outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who have been prescribed an oral anticoagulant daily (including Vitamin K antagonists, direct thrombin inhibitor and factor Xa inhibitor) by their treating stroke physician or family physician following AliveCor Mobile ECG monitoring compared to 12-lead ECG, 24 Holter monitoring and Cardiac telemetry, as documented in the medical records at the participating stroke centres,</outcome>
+      <timepoint>Within 3 months following admission to a participating stroke centre</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with ischemic stroke or transient ischemic attack without known atrial fibrillation presenting to a participating stroke centre
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Ischemic stroke or transient ischemic attack patients with known atrial fibrillation
+2.	Patients with isolated sensory change or vertigo without acute infarction on brain imaging
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Not applicable</concealment>
+    <sequence>Not applicable</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures>Repeated monitoring in the same cohort of patients</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size estimates:
+
+Using the standard settings of two-tailed alpha=0.05, a total sample of 296 patients will yield 80% power to reliably observe the McNemars paired proportions test effect size delta=0.04 or higher (Holter monitoring detection) proportion 0.07 and smart phone detection proportion of 0.11), assuming the correlation between devices of 0.65.8 This sample size estimation is conservative as higher values of correlation and hypothesized effect size will lead to lower sample size requirements.
+
+Statistical analyses:
+
+The primary outcome will be tested using the McNemars paired proportions test. All continuous variables will be described as mean with standard deviation or median with interquartile range and analysed using either the paired or unpaired t test, the Mann Whitney U test or the Wilcoxon signed-rank test depending on the underlying data distribution and the relationship between the sample populations. Categorical and dichotomized variables will be described as percentages and analysed using either the Fishers exact test or the McNemars paired proportions test depending on the relationship between the sample populations. Unadjusted outcome effect sizes will be estimated as differences in mean, median (Hodges-Lehmann nonparametric shift) or odds ratio with 95% confidence interval as appropriate. 
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2 / Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>3/08/2015</actualstartdate>
+    <anticipatedenddate>30/08/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/11/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>SA,WA,VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>Sunshine Hospital - St Albans</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <postcode>3050 - Parkville</postcode>
+    <postcode>3021 - St Albans</postcode>
+    <postcode>5000 - Adelaide</postcode>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Jiangsu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Melbourne Brain Centre at the Royal Melbourne Hospital, the University of Melbourne</primarysponsorname>
+    <primarysponsoraddress>Level 4 Centre, Main Block, the Royal Melbourne Hospital, Grattan Street, Parkville VIC 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>The Royal Melbourne Hospital</fundingname>
+      <fundingaddress>Grattan Street, Parkville. VIC 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Sunshine Hospital</fundingname>
+      <fundingaddress>176 Furlong Road
+St Albans VIC 3021</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>The Royal Adelaide Hospital</fundingname>
+      <fundingaddress>North Terrace
+Adelaide SA 5000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>AliveCor Inc.</fundingname>
+      <fundingaddress>444 Castro St, Mountain View, CA 94041</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Not applicable</sponsorname>
+      <sponsoraddress>Not applicable</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Prince of Wales Hospital</othercollaboratorname>
+      <othercollaboratoraddress>30 Ngan Shing St, Sha Tin
+New Territories, Hong Kong 999077</othercollaboratoraddress>
+      <othercollaboratorcountry>China</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Hospital</othercollaboratortype>
+      <othercollaboratorname>Nanjing General Hospital of Nanjing Military Command</othercollaboratorname>
+      <othercollaboratoraddress>305 East Zhongshan Road, Nanjing 
+Jiangsu 21002</othercollaboratoraddress>
+      <othercollaboratorcountry>China</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>BACKGROUND
+
+Stroke is a leading cause of disability and death. Four out of five strokes are due to blockage of blood supply to a part of the brain. Atrial fibrillation (AF) is a common heart rhythm irregularity associated with blood clot formation in the heart that can migrate to the brain and cause strokes. There are proven treatments that can greatly reduce the occurrence of stroke in people with AF. AF can be present intermittently and without any symptoms, therefore can be hard to detect. However, strokes occur just as frequently in people with intermittent AF as in those with continuous AF. Currently stroke sufferers frequently undergo 24 to 48 hours of continuous heart rhythm monitoring using either a non-portable (telemetry) or a portable (Holter) external monitor. However, the cause cannot be determined in a quarter of all strokes despite these tests. 
+
+The AliveCor Mobile ECG is a novel device that comprises a smart phone case containing 2 electrocardiogram (ECG) electrodes and a smart phone application that generates 30 seconds of ECG (equivalent to lead I of 12-lead ECG) and automatically diagnose the presence of AF with 97% accuracy. We hypothesize the use of AliveCor Mobile ECG by nurses in the stroke unit will be an effective and inexpensive way to increase in-hospital AF detection following stroke.
+
+AIMS
+
+We aim to compare the number of stroke sufferers with previously undiagnosed intermittent AF that are detected by the AliveCor Mobile ECG to that detected using current standard testing with 12-lead ECG and 24 to 48 hours of Holter monitoring or cardiac telemetry.
+
+PROPOSED RESEARCH DESIGN
+
+Up to 300 consecutive stroke sufferers without known AF admitted to the participating stroke centers will be included in the study. All nurses working in the participating stroke centers will be trained to use the AliveCor Mobile ECG. All participating stroke sufferers will receive checks with the AliveCor Mobile ECG at the same frequency as all their other regular nursing checks from the time they arrive in the participating stroke centers to the time they are well enough to go home or are transferred to another ward or facility. All participating stroke sufferers will also receive all standard heart monitoring available at each participating stroke center.
+</summary>
+    <trialwebsite>Not applicable</trialwebsite>
+    <publication>Not applicable</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>Not applicable</publicnotes>
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee </ethicname>
+      <ethicaddress>Office for Research
+Level 2 South West
+300 Grattan Street
+Parkville Victoria 3050</ethicaddress>
+      <ethicapprovaldate>5/03/2015</ethicapprovaldate>
+      <hrec>HREC/14/MH/358</hrec>
+      <ethicsubmitdate>25/11/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Hans Tu</name>
+      <address>Melbourne Brain Centre at the Royal Melbourne Hospital
+Level 4 Centre, Main Block
+Grattan Street, Parkville VIC 3050</address>
+      <phone>+61 3 9349 2477</phone>
+      <fax>+61 3 9349 4489</fax>
+      <email>hans.tu@mh.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bernard Yan</name>
+      <address>Melbourne Brain Centre at the Royal Melbourne Hospital
+Level 4 Centre, Main Block
+Grattan Street, Parkville VIC 3050</address>
+      <phone>+61 3 9349 2477</phone>
+      <fax>+61 3 9349 4489</fax>
+      <email>bernard.yan@mh.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Bernard Yan</name>
+      <address>Melbourne Brain Centre at the Royal Melbourne Hospital
+Level 4 Centre, Main Block
+Grattan Street, Parkville VIC 3050</address>
+      <phone>+61 3 9349 2477</phone>
+      <fax>+61 3 9349 4489</fax>
+      <email>bernard.yan@mh.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Hans Tu</name>
+      <address>Melbourne Brain Centre at the Royal Melbourne Hospital
+Level 4 Centre, Main Block
+Grattan Street, Parkville VIC</address>
+      <phone>+61 3 9349 2477</phone>
+      <fax>+61 3 9349 4489</fax>
+      <email>hans.tu@mh.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

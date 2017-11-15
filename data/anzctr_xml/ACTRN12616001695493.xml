@@ -1,0 +1,177 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371978">
+  <stage>Registered</stage>
+  <submitdate>6/12/2016</submitdate>
+  <approvaldate>9/12/2016</approvaldate>
+  <actrnumber>ACTRN12616001695493</actrnumber>
+  <trial_identification>
+    <studytitle>Can we prevent recurrent severe low blood glucose reactions using a new glucose sensing device?</studytitle>
+    <scientifictitle>Assessment of the utility of the Flash Libre subcutaneous glucose monitoring system to prevent recurrent severe hypoglycaemia in patients with diabetes</scientifictitle>
+    <utrn>U1111-1190-6146</utrn>
+    <trialacronym />
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>diabetes</healthcondition>
+    <healthcondition>severe hypoglycaemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients with a documented episode of severe hypoglycaemia will be randomised to the Flash Libre subcutaneous glucose sensing system or usual care over a 6-month follow-up period. The Flash Libre device is an adhesive sensor disc with a thin needle that is placed on the upper arm and which can be read as required. Each sensor lasts 2 weeks before it has to be replaced (patients allocated to this arm will be using the device continuously for 6 months) and is precalibrated so that the patient does not need to do any finger prick blood glucose readings. The readings can be downloaded to a PC which will also be access by the Study Nurse to assess compliance. Training on use of the Flash Libre system will be implemented by the Study Nurse but the patients themselves will insert each sensor, and perform data collection at least 4 times per day and when a hypoglycaemic episode is suspected. The Research Nurse will also co-ordinate usual care for those randomised to this arm. Both intervention (Flash Libre) and usual care patients will have a 30-minute face-to-face session with the Research Nurse as soon as possible after the index severe hypoglycaemic episode. The Nurse will perform a review of medication and self blood glucose monitoring, re-educate patients as to avoidance measures and ensure that the patient's usual health care professionals are aware of the hypoglycaemic episode so that they can take over care in the community. </interventions>
+    <comparator>Usual care from multidisciplinary diabetes team (including Endocrinologist, Diabetes Nurse Educator and Dietitian) comprising blood glucose medication and self blood glucose monitoring review, re-education on avoidance measures such as ensuring meal regularity, diabetes treatment dose reduction when physically active etc.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Recurrence of severe hypoglycaemia defined as a hypoglycaemic episode requiring second party assistance with or without a documented blood or subcutaneous glucose &lt;3.9 mmol/L as per American Diabetes Association guidelines. </outcome>
+      <timepoint>The number of episodes of recurrent severe hypoglycaemia over a 6-month period.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Occurrence of non-severe hypoglycaemia (that not requiring second part assistance with appropriate symptoms with or without a documented blood or subcutaneous glucose &lt;3.9 mmol/L).</outcome>
+      <timepoint>The number of episodes of recurrent non-severe hypoglycaemia over a 6-month period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first recurrence of severe hypoglycaemia</outcome>
+      <timepoint>The time between recruitment to the study and first recurrence of severe hypoglycaemia within the 6-month follow-up period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first occurrence of non-severe hypoglycaemia</outcome>
+      <timepoint>The time between recruitment to the study and first occurrence of non-severe hypoglycaemia within the 6-month follow-up period.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adults with diabetes who experiencean episode of severe hypoglycaemia as an inpatient or who attend the Emergency Department with severe hypoglycaemia</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Not able to operate the Flash Libre device due to cognitive or visual impairment. Allergy to the adhesive used to attach the sensor in place,</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Computerised sequence generation</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>We hypothesise that 40% of the patients in the usual care group will experience an episode of severe hypoglycaemia during six months of follow-up and that this will be reduced to 10% in the Flash Libre group. The sample size necessary to show this difference with 80% power and a one-tailed level of significance of 5% is 29 in each group or n=58 total. We will increase this by 10% to 64 total to allow for attrition, Kaplan Meier analysis with log rank test will determine whether there are intervention-related differences in time to primary and secondary endpoints.  </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/06/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/09/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>64</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/06/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Fremantle Hospital and Health Service - Fremantle</hospital>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>6160 - Fremantle</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Western Australia</primarysponsorname>
+    <primarysponsoraddress>35 Stirling Highway, Perth WA 6009</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Spinnaker Health Research Foundation</fundingname>
+      <fundingaddress>Fremantle Hospital, Alma St, Fremantle, WA 6160</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will determine whether a new relatively non-invasive glucose monitoring system (Flash Libre) helps adults with diabetes who have a severe glucose reaction to avoid further such episodes. The hypothesis is that the non-invasive system will be superior to usual care in preventing both severe and non-severe hypoglycaemia after the index severe hypoglcyaemic event.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>11 Robin Warren Drive, Murdoch WA 6150</ethicaddress>
+      <ethicapprovaldate>27/03/2017</ethicapprovaldate>
+      <hrec>RGS0000000001</hrec>
+      <ethicsubmitdate>8/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Timothy Davis</name>
+      <address>University of Western Australia, School of Medicine and Pharmacology, Fremantle Hospital, P.O. Box 480, Fremantle, Western Australia 6959</address>
+      <phone>+618 9431 3229</phone>
+      <fax />
+      <email>tim.davis@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Timothy Davis</name>
+      <address>University of Western Australia, School of Medicine and Pharmacology, Fremantle Hospital, P.O. Box 480, Fremantle, Western Australia 6959</address>
+      <phone>+618 9431 3229</phone>
+      <fax />
+      <email>tim.davis@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Timothy Davis</name>
+      <address>University of Western Australia, School of Medicine and Pharmacology, Fremantle Hospital, P.O. Box 480, Fremantle, Western Australia 6959</address>
+      <phone>+618 9431 3229</phone>
+      <fax />
+      <email>tim.davis@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Timothy Davis</name>
+      <address>University of Western Australia, School of Medicine and Pharmacology, Fremantle Hospital, P.O. Box 480, Fremantle, Western Australia 6959</address>
+      <phone>+618 9431 3229</phone>
+      <fax />
+      <email>tim.davis@uwa.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

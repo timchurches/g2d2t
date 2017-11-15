@@ -1,0 +1,179 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365836">
+  <stage>Registered</stage>
+  <submitdate>20/02/2014</submitdate>
+  <approvaldate>4/03/2014</approvaldate>
+  <actrnumber>ACTRN12614000226606</actrnumber>
+  <trial_identification>
+    <studytitle>Investigation of the effects of anaesthetic choice on ventilation-perfusion scatter and lung gas exchange.</studytitle>
+    <scientifictitle>A parallel group randomised comparison study of the effects of TIVA propofol versus inhalational sevoflurane anaesthesia on lung ventilation-perfusion matching and gas exchange, in patients undergoing general anaesthesia for surgery requiring relacant GA with an arterial line for cardiovascular monitoring.</scientifictitle>
+    <utrn>U1111-1153-6278</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Impaired lung function under anaesthesia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Normal development and function of the respiratory system</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Total intravenous anaesthesia with propofol, titrated against depth of anaesthesia measured using bisepectral index (BIS 40-60).</interventions>
+    <comparator>Inhalational anaesthesia with sevoflurane, titrated against depth of anaesthesia measured using bisepectral index (BIS 40-60).</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in ventilation-perfusion scatter in the lung indexed by the log standard deviation of the distribution of ventilation and blood flow (d log SD) measured using the Multiple Inert Gas Elimination Technique (MIGET).</outcome>
+      <timepoint>d log SD between measurement made pre-induction of anaesthesia to 2 hours after induction.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood gas indices of ventilation-perfusion (V/Q) scatter: PaO2, P(A-a)O2, P(A-a)CO2, shunt fraction and deadspace fraction.</outcome>
+      <timepoint>Change from measurement made pre-induction of anaesthesia to 2 hours after induction.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing general anaesthesia for surgery requiring relacant GA with an arterial line for cardiovascular monitoring.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>85</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Severe impairment of lung function. (FEV1 or FVC less than 30% predicted), or morbid obesity (Body mass index (BMI) greater than 40 kg/m2)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Bio-equivalence</endpoint>
+    <statisticalmethods>A relative difference between the Groups in d log SD of 20% or more will be considered significant. Analysis will be done using a t-test for unpaired data.
+Similarly, change in PaO2, shunt fraction and deadspace fraction will be calculated and the two groups compared using an unpaired t-test. 
+The primary endpoint will be comparison of d log SD. 
+
+From previously published studies using halothane, a d log SD of 50% above awake baseline values is typical after establishment of anaesthesia, with a range of around 25% either side of this. Using a t-test for unpaired data, at an alpha of 0.05 and a beta of 0.9, 16 patients are required. To allow for multiple comparisons, data from 20 patients is required.
+To allow for a smaller change in either ventilation or blood flow distributions, or data loss due to technical or logistic difficulties, data from 24 patients will be collected</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>2/02/2015</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>24</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Austin Health</primarysponsorname>
+    <primarysponsoraddress>145 Studley Rd
+Heidelberg 3084
+VIC</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Australian and New Zealand College of Anaesthetists</fundingname>
+      <fundingaddress>630 St Kilda Road
+Melbourne Vic 3004
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The relative effects on V/Q matching in the lung of modern inhalational anaesthetics such as sevoflurane have not been compared with those of the intravenous agent propofol. There are potentially important implications for the management of patients with reduced lung function undergoing surgery.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Philip Peyton</name>
+      <address>Dept of Anaesthesia
+Austin Health
+145 Studley Rd
+Heidelberg 3084
+VIC</address>
+      <phone>61402282398</phone>
+      <fax />
+      <email>phil.peyton@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Philip Peyton</name>
+      <address>Dept of Anaesthesia
+Austin Health
+145 Studley Rd
+Heidelberg 3084
+VIC</address>
+      <phone>61402282398</phone>
+      <fax />
+      <email>phil.peyton@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Philip Peyton</name>
+      <address>Dept of Anaesthesia
+Austin Health
+145 Studley Rd
+Heidelberg 3084
+VIC</address>
+      <phone>61402282398</phone>
+      <fax />
+      <email>phil.peyton@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Philip Peyton</name>
+      <address>Dept of Anaesthesia
+Austin Health
+145 Studley Rd
+Heidelberg 3084
+VIC</address>
+      <phone>61402282398</phone>
+      <fax />
+      <email>phil.peyton@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

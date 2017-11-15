@@ -1,0 +1,206 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373219">
+  <stage>Registered</stage>
+  <submitdate>29/06/2017</submitdate>
+  <approvaldate>10/07/2017</approvaldate>
+  <actrnumber>ACTRN12617000993392p</actrnumber>
+  <trial_identification>
+    <studytitle>Clinical Outcome of Epidermal Growth Factor Receptor mutated (EGFR+) Non-small cell lung cancer (NSCLC) patients with first-line tyrosine kinase inhibitors (TKI) resistance on Osimertinib (CONTROL)</studytitle>
+    <scientifictitle> Clinical outcome of advanced EGFR-mutated NSCLC patients who developed acquired resistance to first generation EGFR inhibitors with positive plasma T790M treated with osimertinib in NSW, Australia. </scientifictitle>
+    <utrn />
+    <trialacronym>CONTROL</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>metastatic EGFR mutated non small cell lung cancer
+</healthcondition>
+    <healthcondition>Acquired resistance to first line EGFR inhibitor</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Metastatic EGFR mutated NSCLC patients who developed acquired resistance with a secondary EGFR mutation T790M. These patients were started on osimertinib (80mg daily orally until disease progression/significant toxicities) and clinical outcomes of these patients will be observed (response rate, progression free survival and overall survival). The duration of observation will be a minimum of one year since the start of treatment with osimertinib. Maximum duration of observation will be 3 years from the start of treatment.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Objective response rate (ORR) is defined as the proportion of patients with a documented complete response, partial response (CR + PR) based on iRECIST criteria/investigator defined. </outcome>
+      <timepoint>3 months into treatment with osimertinib</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival (OS) is a secondary endpoint of this study. 
+It is defined as the time from the first dose of Osimertinib to the date of death due to any cause. Patients who are alive at the time of the final analysis or who have become lost to follow-up will be censored at their last known alive date. All patients who meet the eligibility criteria will be included in the analysis of OS. A Kaplan-Meier estimate of proportions of patients alive will be displayed. The 95% confidence intervals for the median OS will be computed using the method of Brookmeyer and Crowley. The effect of potential prognostic factors on survival (ie. RAF) will be assessed using Cox regression model. The Schoenfeld residual plots will be used to check the model assumption for the Cox regression. 
+</outcome>
+      <timepoint>analysis of OS will be after minimum of one year follow up ie. assessed one year after the last patient commence on osimertinib therapy.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression free survival (PFS) is a secondary endpoint of this study, which is defined as the time from the first dose of Osimertinib to the date of the first documented disease progression (based on investigator-defined progression) or death due to any cause. A patient who stops treatment with study drug and goes on to receive alternative therapy for NSCLC, prior to documentation of disease progression, will be censored on the date alternative therapy began. If a patient has not progressed or received alternative therapy, PFS will be censored on the date of the last disease assessment. All patients will be included in the analysis of PFS. All analyses for OS will be similarly performed for PFS. 
+</outcome>
+      <timepoint>analysis of PFS will be after minimum of one year follow up ie. assessed one year after the last patient commence on osimertinib therapy.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Over 18 years old
+Metastatic EGFR mutated NSCLC
+Developed acquired resistance to first generation EGFR inhibitor
+Plasma/Tumour positivity for T790M
+Started on Osimertinib in second line/subsequent line setting</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Early lung cancer
+Not T790M positive
+Not on Osimertinib
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Sample Size: We estimate to have approximately 70 patients for this study. The patients will be stratified based on RAF of T790M (divided into 2 groups: (1) Group 1 = RAF greater than or equal to 10%; (2) Group 2= RAF less than 10%. Based on our preliminary data of 15 patients, 1/3 of the patients will be in group 1 and 2/3 of the patients will be in group 2, giving a 1:2 ratio. Assuming response rate of 70% for group 1 and 30% for group 2, 66 subjects are needed to achieve 80% power using a 2-sided Type 1 error of 5%. 
+Cox-regression will be used to analysed data for PFS and OS. Fishers exact test will be used to analyse the association between Relative Alleilic frequency of T790M with response rate.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/09/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>66</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/03/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Medical Oncology Department, Liverpool Hospital</primarysponsorname>
+    <primarysponsoraddress>Elizabeth Street, Liverpool, NSW 2170</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Liverpool Hospital Medical Oncology</fundingname>
+      <fundingaddress>Elizabeth Street, Liverpool NSW 2170</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Western Sydney University</fundingname>
+      <fundingaddress>School Of Medicine
+30, Western Sydney University, Narellan Road &amp; Gilchrist Drive, Campbelltown NSW 2560</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Western Sydney University</sponsorname>
+      <sponsoraddress>School Of Medicine
+30, Western Sydney University, Narellan Road &amp; Gilchrist Drive, Campbelltown NSW 2560</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to evaluate clinical outcomes of patients with non-small cell lung cancer (NSCLC) with specific clinical and tumour mutation characteristics treated with osimertinib in NSW, Australia.
+
+Who is it for?
+You may be eligible to join this study if you are aged 18 years or above and have metastatic EGFR mutated NSCLC with plasma/tumour positivity for T790M, currently taking osimertinib, and were previously treated with first generation EGFR inhibitor (gefitinib/erlotinib).
+
+Study details
+We will perform a retrospective analysis of the clinical outcomes in NSCLC patients. We will follow up on your clinical data (first CT scan results and long term outcome from your treatment) and correlate this with the level of T790M mutation shown in your plasma ctDNA. 
+
+Participants will not be required to undergo any additional tests beside routine clinical tests requested by their oncologists.
+
+It is hoped that this study will add to the currently limited knowledge on the correlation between T790M mutation load (relative allelic frequency) and clinical outcomes.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Liverpool Hospital HREC</ethicname>
+      <ethicaddress>Liverpool Hospital
+Elizabeth Street
+Liverpool, NSW 2170</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/08/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Pei Ni Ding</name>
+      <address>Ingham Institute for Applied Medical Research
+1, Campbell Street
+Liverpool, NSW 2170</address>
+      <phone>+61425292277</phone>
+      <fax />
+      <email>pei.ding@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pei Ni Ding</name>
+      <address>Ingham Institute for Applied Medical Research
+1, Campbell Street
+Liverpool, NSW 2170</address>
+      <phone>+61425292277</phone>
+      <fax />
+      <email>pei.ding@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Pei Ni Ding</name>
+      <address>Ingham Institute for Applied Medical Research
+1, Campbell Street
+Liverpool, NSW 2170</address>
+      <phone>+61425292277</phone>
+      <fax />
+      <email>pei.ding@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

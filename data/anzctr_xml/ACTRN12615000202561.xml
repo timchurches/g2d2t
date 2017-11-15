@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367991">
+  <stage>Registered</stage>
+  <submitdate>17/02/2015</submitdate>
+  <approvaldate>3/03/2015</approvaldate>
+  <actrnumber>ACTRN12615000202561</actrnumber>
+  <trial_identification>
+    <studytitle>Development of a Pathogen Blood Test for patients with Lyme-like symptoms</studytitle>
+    <scientifictitle>Patients with Lyme-like symptoms are tested for presence of infectious agents including Borrelia, Rickettsia, Babesia, and fungal infections by combining microscopy and genetic DNA analysis</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Suspected Lyme Disease</healthcondition>
+    <healthcondition>Neurological conditions</healthcondition>
+    <healthcondition>Arthritis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Neurological</conditioncode1>
+      <conditioncode2>Neurodegenerative diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Musculoskeletal</conditioncode1>
+      <conditioncode2>Other muscular and skeletal disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients presenting to the NIIM clinic with Lyme-like symptoms, including those with joint pain, chronic fatigue, and neurological conditions will be invited to undertake the Pathogen Blood test. The first part of the test involves a Pathogen screen by filtration of 10 ml of blood and microscopy.The second part of the test involves DNA extraction out of whole blood and PCR-DNA analysis of infectious agents, specifically Borrelia bacteria, Rickettsia, Babesia and fungal pathogens. To further identify the nature of the fungal infection, the PCR products are sequenced.</interventions>
+    <comparator>Standard diagnostic test for Borrelia, including culturing of blood of the same patient and subsequent PCR analysis, using standardised methods by a pathology service.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>PCR-DNA analysis test results: Presence or absence of Borrelia bacteria</outcome>
+      <timepoint>baseline</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>PCR-DNA analysis test results: Presence or absence of fungal elements</outcome>
+      <timepoint>baseline</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>PCR-DNA analysis test results: Presence or absence of Rickettsia bacteria</outcome>
+      <timepoint>baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>This is a composite secondary outcome. Visual presence or absence of bacteria, fungal elements or other infectious agents after filtration using cytopathological and microbiological criteria.</outcome>
+      <timepoint>baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients presenting with Lyme-like symptoms (including joint pain, chronic fatigue, neurological problems), as suggested by a treating medical practitioner
+May or may not know if bitten by a tick
+May or may not developed bull's eye rash
+May or may not have been diagnosed with Borrelia infection previously</inclusivecriteria>
+    <inclusiveminage>3</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>not able to provide consent</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Patients will be invited to participate in this study via the NIIM website, NIIM doctors, and other clinics and institutes interested in the Pathogen Blood Test. Patients who cannot come to the clinic in person or don't live locally, can order a blood test kit.</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Descriptive &amp; qualitative analysis, correlation of novel diagnostic method and standard diagnostic method, correlation of cytopathological findings and PCR-DNA analysis.
+This is an exploratory study. The suggested sample size is based on clinical practice patients enquiring about treatment for Lyme-like illness within 12 months.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>31/03/2015</anticipatedstartdate>
+    <actualstartdate>31/03/2015</actualstartdate>
+    <anticipatedenddate>30/12/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <postcode>3122 - Hawthorn West</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>National Institute of Integrative Medicine</primarysponsorname>
+    <primarysponsoraddress>21 Burwood Rd, Hawthorn, VIC 3122</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>Patients coming to the National Institute of Integrative Medicine</fundingname>
+      <fundingaddress>21 Burwood Rd, Hawthorn, VIC 3122</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Michael Thomsen
+</othercollaboratorname>
+      <othercollaboratoraddress>Naturopath Clinic
+29 Macfarlane St
+Hobart, TAS 7004
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof Avni Sali
+National Institute of Integrative Medicine</othercollaboratorname>
+      <othercollaboratoraddress>National Institute of Integrative Medicine
+21 Burwood Rd, Hawthorn, VIC 3122</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Lyme Borreliosis or Lyme disease, caused by the tick-borne bacteria pathogen (Borrelia species), is a serious and often chronic condition causing pain, fatigue and loss of quality of life. Diagnosis of Lyme disease is often complicated by the fact that Borrelia bacteria develop into different forms, including cysts and spores, which become more difficult to identify with time. Current diagnosis is undertaken by PCR-DNA analysis and serology, however, the more chronic the condition usually the more difficult to diagnose. At NIIM we have been able to isolate and identify Borrelia bacteria in a patient with chronic Lyme Disease using the ISET-filtration technology (Rarecells, France, www.rarecells.com) combined with subsequent PCR-DNA analysis.
+
+Prior filtration and enrichment of bacteria on the ISET filters circumvents laborious culturing of Borrelia bacteria, which usually takes 3-6 weeks requiring a specific broth, available only in specialised laboratories. In addition, the ISET buffer lyses the red blood cells and therefore releases Borrelia bacteria, further facilitating identification by PCR-DNA analysis.  
+
+This project seeks to establish whether the combined isolation &amp; identification method may help improve diagnosis in patients presenting with chronic symptoms, thought to be caused by Borrelia infection. Better diagnosis of underlying causes would improve patient treatment and recovery. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>NIIM HREC</ethicname>
+      <ethicaddress>National Institute of Integrative Medicine
+21 Burwood Rd, Hawthorn, VIC 3122</ethicaddress>
+      <ethicapprovaldate>16/02/2015</ethicapprovaldate>
+      <hrec>0022N-2015</hrec>
+      <ethicsubmitdate>10/02/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+21 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax />
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+21 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax />
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+21 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax />
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Karin Ried</name>
+      <address>National Institute of Integrative Medicine
+21 Burwood Rd
+Hawthorn, VIC 3122</address>
+      <phone>+61 3 9912 9545</phone>
+      <fax />
+      <email>karinried@niim.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

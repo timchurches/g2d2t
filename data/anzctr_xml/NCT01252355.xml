@@ -1,0 +1,852 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="3010">
+  <stage>Registered</stage>
+  <submitdate>30/11/2010</submitdate>
+  <approvaldate>30/11/2010</approvaldate>
+  <nctid>NCT01252355</nctid>
+  <trial_identification>
+    <studytitle>Efficacy and Safety of Teriflunomide in Patients With Relapsing Multiple Sclerosis and Treated With Interferon-beta</studytitle>
+    <scientifictitle>A Multi-center Double-blind Parallel-group Placebo-controlled Study of the Efficacy and Safety of Teriflunomide in Patients With Relapsing Multiple Sclerosis Who Are Treated With Interferon-beta</scientifictitle>
+    <utrn />
+    <trialacronym>TERACLES</trialacronym>
+    <secondaryid>2010-023172-12</secondaryid>
+    <secondaryid>EFC6058</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Multiple Sclerosis Relapse</healthcondition>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Teriflunomide
+Treatment: drugs - Placebo (for teriflunomide)
+Treatment: drugs - Interferon-beta (IFN-beta)
+
+Experimental: Teriflunomide 7 mg + IFN-beta - Teriflunomide 7 milligram (mg) once a day concomitantly with IFN-beta therapy.
+
+Experimental: Teriflunomide 14 mg + IFN-beta - Teriflunomide 14 mg once a day concomitantly with IFN-beta therapy.
+
+Placebo Comparator: Placebo + IFN-beta - Placebo (for teriflunomide) once a day concomitantly with IFN-beta therapy.
+
+
+Treatment: drugs: Teriflunomide
+Film-coated tablet
+Oral administration
+
+Treatment: drugs: Placebo (for teriflunomide)
+Film-coated tablet
+Oral administration
+
+Treatment: drugs: Interferon-beta (IFN-beta)
+Any of the IFN-beta which are approved for marketed use in the country where the patient is enrolled.
+Administration according to the package insert.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Annualized Relapse Rate (ARR) (Poisson Regression Estimates) - ARR is the total number of confirmed relapses that occurred during the treatment period divided by the total number of patient-years treated. Each episode of relapse (appearance, or worsening of a clinical symptom that was stable for at least 30 days, that persisted for a minimum of 24 hours in the absence of fever) was to be confirmed by an increase in Expanded Disability Status Scale (EDSS) score or Functional System scores. To account for the different treatment durations among participants, a Poisson regression model with robust error variance was used (total number of confirmed relapses as response variable; log-transformed treatment duration as "offset" variable; treatment group, region of enrollment and IFN-beta dose stratum, and number of relapses in the year prior to randomization as covariates).</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Brain Magnetic Resonance Imaging (MRI) Assessment: Number of Gadolinium Enhancing (Gd-enhancing) T1-lesions Per Scan (Poisson Regression Estimates) - Number of Gd-enhancing T1-lesions per scan is the total number of Gd-enhancing T1-lesions that occurred during the treatment period divided by the total number of scans performed during the treatment period. To account for the different number of scans among participants, a Poisson regression model with robust error variance was used (total number of Gd-enhancing T1-lesions as response variable; log-transformed number of scans as offset variable; treatment group, region of enrollment, IFN-beta dose stratum and baseline number of Gd-enhancing T1-lesions as covariates).</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to 12-Week Sustained Disability Progression - The 12-week sustained disability progression was defined as an increase from baseline of at least 1-point in EDSS score (at least 0.5-point for participants with baseline EDSS score &gt;5.5) that persisted for at least 12 weeks. Probability of disability progression was to be estimated using Kaplan-Meier method.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Brain MRI Assessment: Volume of Gd-enhancing T1-lesions Per MRI Scan - Total volume of Gd-enhancing T1-lesions per scan is the sum of the volumes of Gd-enhancing T1-lesions observed during the treatment period divided by the total number of scans performed during the treatment period.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Brain MRI Assessment: Change From Baseline in Total Lesion Volume (Burden of Disease) at Week 24 - The total lesion volume (burden of disease) is the total volumes of hyperintense on T2 plus hypointense on T1 as measured by MRI scan. Least-square means were estimated using a Mixed-effect model with repeated measures (MMRM) on cubic root transformed volume data with factors for treatment, region, IFN-beta dose stratum, visit, treatment-by-visit interaction, cubic root transformed baseline burden of disease, and baseline-by-visit interaction.</outcome>
+      <timepoint>Baseline, Week 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Relapse: Kaplan-Meier Estimates of the Probability of no Relapse at Week 24, 48, and 72 - Probability of no relapse at 24, 48 and 72 weeks was estimated using Kaplan-Meier method on the time to relapse defined as the time from randomization to first EDSS confirmed relapse. Participants free of confirmed relapse (no EDSS confirmed relapse observed on treatment) were censored at the date of the last study drug intake. Kaplan-Meier method consists in computing probabilities of non-occurrence of event at any observed time of event and multiplying successive probabilities for time &lt;=t by any earlier computed probabilities to estimate the probability of being event-free for the amount of time t.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Fatigue Impact Scale (FIS) Total Score at Week 24 - FIS is a participant-reported scale that qualifies the impact of fatigue on daily life in participants with MS.</outcome>
+      <timepoint>Baseline, Week 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change From Baseline in Short Form Generic Health Survey - 36 Items, Version 2 (SF-36v2) Summary Scores at Week 24 - SF-36 scale is a generic, self-administered, health-related quality-of-life (QOL) instrument.</outcome>
+      <timepoint>Baseline, Week 24</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Resource Utilization When Relapse - Resource utilization each time a participant experiences an MS relapse, specifically the number of hospitalizations, the number of over night spent in the hospital and number of intensive care admissions if hospitalized were to be reported.</outcome>
+      <timepoint>Up to a maximum of 108 weeks depending on time of enrollment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overview of Adverse Events (AEs) - AEs are any unfavorable and unintended sign, symptom, syndrome, or illness observed by the investigator or reported by the participant during the study.</outcome>
+      <timepoint>First study drug intake up to 28 days after last study drug intake, for up to 112 weeks</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Inclusion criteria :
+
+          -  Patient with relapsing forms of MS treated with IFN-beta
+
+          -  Stable dose of IFN-beta (approved brand) for at least 6 months prior to randomization
+
+          -  Disease activity in the 12 months prior to randomization and after first 3 months of
+             IFN-beta treatment (defined by at least 1 relapse supported by EDSS or equivalent
+             neurological examination, or, at least 1 brain or spinal cord MRI with at least one T1
+             gadolinium enhancing lesion)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>55</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Exclusion criteria:
+
+          -  McDonald criteria for MS diagnosis not met at time of screening visit
+
+          -  EDSS score greater than (&gt;) 5.5 at randomization visit
+
+          -  A relapse within 30 days prior randomization
+
+          -  Persistent significant or severe infection
+
+          -  Patients must not have used adrenocorticotrophic hormone or systemic corticosteroids
+             for 2 weeks prior to randomization
+
+          -  Prior or concomitant use of cytokine therapy (except baseline interferons), glatiramer
+             acetate or intravenous immunoglobulins in the 3 months preceding randomization
+
+          -  Liver function impairment or persisting elevations (confirmed by retest) of alanine
+             aminotransferase (ALT), aspartate aminotransferase (AST), or direct bilirubin greater
+             than 2 times the upper limit of normal range (ULN)
+
+          -  Active hepatitis or hepatobiliary disease or known history of severe hepatitis
+
+          -  Pregnant or breast-feeding women or those who were planning to become pregnant during
+             the study
+
+          -  Significantly impaired bone marrow function or significant anemia, leukopenia, or
+             thrombocytopenia
+
+          -  Human Immunodeficiency Virus (HIV) positive
+
+          -  Known history of active tuberculosis not adequately treated
+
+          -  Prior use within 2 years preceding randomization or concomitant use of cladribine and
+             mitoxantrone
+
+          -  Prior use within 6 months preceding randomization or concomitant use of natalizumab,
+             or any other immunosuppressive agents such as azathioprine, cyclophosphamide,
+             cyclosporine, methotrexate, mycophenolate, or fingolimod
+
+        The above information is not intended to contain all considerations relevant to a patient's
+        potential participation in a clinical trial.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2 />
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/01/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>534</actualsamplesize>
+    <recruitmentstatus>Terminated</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/04/2013</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Investigational Site Number 036008 - Bedford Park</hospital>
+    <hospital>Investigational Site Number 036005 - Chatswood</hospital>
+    <hospital>Investigational Site Number 036001 - Heidelberg West</hospital>
+    <hospital>Investigational Site Number 036004 - Kogarah</hospital>
+    <hospital>Investigational Site Number 036010 - New Lambton</hospital>
+    <postcode>5042 - Bedford Park</postcode>
+    <postcode>2067 - Chatswood</postcode>
+    <postcode>3081 - Heidelberg West</postcode>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>2305 - New Lambton</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alabama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Alaska</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Arizona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Kentucky</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Montana</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New Mexico</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Dakota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Tennessee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Argentina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Buenos Aires</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Argentina</country>
+      <state>Caba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Graz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Linz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Charleroi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Gent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Hasselt</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>La Louvière</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Sijsele-Damme</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Wilrijk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Joinville</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Passo Fundo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Calgary</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Edmonton</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Gatineau</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Kingston</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Montreal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ottawa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Regina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Sherbrooke</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Winnipeg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Santiago</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Viña Del Mar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Colombia</country>
+      <state>Barranquilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Colombia</country>
+      <state>Bogota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Colombia</country>
+      <state>Medellin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Aarhus C</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Estonia</country>
+      <state>Tallinn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Estonia</country>
+      <state>Tartu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Helsinki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Hyvinkää</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Oulu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Pori</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Turku</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Besancon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clermont Ferrand Cedex 1</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lyon Cedex 03</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier Cedex 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nancy Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes Cedex 01</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bad Mergentheim</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bamberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayreuth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bonn</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Düsseldorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erbach</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Erlangen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Gießen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hennigsdorf</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kassel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Leipzig</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Minden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Münster</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Rostock</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Wiesbaden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Wuppertal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Athens</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Heraklion</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Greece</country>
+      <state>Thessaloniki</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Eger</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Esztergom</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szeged</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Szekesfehervar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Zalaegerszeg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Catania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Cefalù</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Fidenza</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Gallarate</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Montichiari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Padova</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Verona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Goyang-Si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Kaunas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Klaipeda</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Lithuania</country>
+      <state>Siauliai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Breda</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Nieuwegein</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Sittard-Geleen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Venray</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Tønsberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Amadora</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Coimbra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Setubal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kaluga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kemerovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Nizhny Novgorod</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Novosibirsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Rostov-On-Don</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Smolensk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St-Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavl</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Martin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Slovakia</country>
+      <state>Trnava</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Córdoba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Girona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Göteborg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Stockholm</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Manouba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Monastir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Sfax</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Tunisia</country>
+      <state>Tunis</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leeds</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Liverpool</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Plymouth</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Salford</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Sanofi</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary objective was to demonstrate the effect of teriflunomide, in comparison to
+      placebo, on frequency of Multiple Sclerosis (MS) relapses in patients with relapsing forms of
+      MS who are treated with Interferon-beta (IFN-beta).
+
+      The secondary objectives were:
+
+        -  Assess the effect of teriflunomide, in comparison to placebo, when added to IFN-beta on:
+
+             -  Disease activity as measured by brain Magnetic Resonance Imaging (MRI)
+
+             -  Disability progression
+
+             -  Burden of disease and disease progression as measured by brain MRI
+
+        -  Evaluate the safety and tolerability of teriflunomide when added to IFN-beta therapy
+
+        -  Assess the pharmacokinetics of teriflunomide in use in addition to baseline IFN-beta
+           therapy
+
+        -  Assess associations between variations in genes and clinical outcomes (safety and
+           efficacy)
+
+        -  Assess other measures of efficacy of teriflunomide such as fatigue and health-related
+           quality of life
+
+        -  Assess measures of health economics (hospitalization due to relapse, including the
+           length of stay and any admission to intensive care unit)</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01252355</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Sciences &amp; Operations</name>
+      <address>Sanofi</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369980">
+  <stage>Registered</stage>
+  <submitdate>22/01/2016</submitdate>
+  <approvaldate>15/07/2016</approvaldate>
+  <actrnumber>ACTRN12616000940471</actrnumber>
+  <trial_identification>
+    <studytitle>A Phase II Feasibility study to determine the efficacy and dose-response of a single enteral dose of Ivabradine to reduce participant heart rate in patients admitted to the intensive care unit with sepsis and sinus tachycardia</studytitle>
+    <scientifictitle>Ivabradine in Sepsis for Heart Rate, Benefits and Disadvantages trial  (IS-HR-BAD)</scientifictitle>
+    <utrn>U1111-1178-8141</utrn>
+    <trialacronym>IS-HR-BAD</trialacronym>
+    <secondaryid>Nil Known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Sepsis</healthcondition>
+    <healthcondition>tachycardia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Single dose enteral ivabradine (initially 5mg, however dose response will be reviewed after first 5 patients and dose may be increased to 10mg if inadequate response). Administered via oral/ nasogastric route. Dose will be administered under the supervision of study staff to ensure adherence.</interventions>
+    <comparator>Uncontrolled</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Heart rate, assessed by continuous ECG monitoring with supplimentary confirmation from pulse oximetry, arterial line and Vigileo.</outcome>
+      <timepoint>Continuously monitored with hourly timepoints for data collection from time of ivabradine administration to 12 hours post administration</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Haemodynamics from arterial line: (MAP, stroke volume, cardiac output)
+</outcome>
+      <timepoint>Continuously assessed by waveform analysis of arterial line by attached continuous cardiac output monitor, with hourly timepoints for data collection from time of ivabradine administration to 12 hours post administration</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>plasma Lactate</outcome>
+      <timepoint>Blood sampling from time of ivabradine administration to 12 hours post administration at time 0, 3 hours, 6 hours and 12 hours)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Non cardiovascular organ function (urine output, renal and liver biochemistry, paO2/FiO2 ratio)</outcome>
+      <timepoint>Hourly urine output from time of ivabradine administration to 12 hours post administration from IDC output.
+Renal and liver biochemistry with blood sample at time of ivabradine administration and 12 hours post administration. 
+PaO2/FiO2  from time of ivabradine administration to 12 hours post administration at time 0, 3 hours, 6 hours and 12 hours (PaO2 from blood gas results).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Significant adverse events:
+Bradycardia assessed by continuous ECG, arterial line and pulse oximeter readings
+Hypotension, assessed by continuous arterial line pressures,
+Low cardiac output, assessed by continuous cardiac output monitor and serum lactate,</outcome>
+      <timepoint>over 12 hours</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Age greater than or equal to 18 years of age;
+2.	Presumed diagnosis of sepsis on intravenous antibiotics;
+3.	A heart rate of &gt;100/min in sinus rhythm;
+4.	The requirement for vasopressor infusion to maintain a mean arterial pressure &gt; 65mmHg despite adequate fluid resuscitation (defined by a central venous pressure &gt; 8mmHg); 
+5.	Informed consent is obtained from the patient or surrogate decision maker;
+6.	The patient is anticipated to require ICU care beyond the next calendar day; and
+7.	Presence of an indwelling urinary catheter (IDC) and arterial line
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Pacemaker in situ; or
+2.	Use of a beta blocker within the last 48 hours; or
+3.	History of rhythm disturbance or bradycardia; or
+4.	Concurrent use of inhibitors of CYP3A4 (macrolide antibiotics, azole antifungals) that interact with the metabolism of ivabradine; or
+5.	Inability to administer enteral medication; or
+6.	Severe hepatic dysfunction  defined as an AST or ALT &gt; 5 x upper limit of normal (ULN), or and AST or ALT &gt; 3 x ULN with an associated total bilirubin  &gt; 2 x ULN; or
+7.	Pregnancy; or
+8.	Breast-feeding mothers; or
+9.	Inability to complete the monitoring period in ICU following ivabradine administration; or
+10.	Patient not expected to survive next 24-48 hours and/or clinician not committed to ongoing life support
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>N/A</concealment>
+    <sequence>N/A</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Statistical considerations:
+
+Enrollment will consist of a 20 patient cohort. 
+Data from Morelli et al (JAMA 2015) demonstrate that the median heart rate in a similar patient cohort was 114/min at baseline, with a decrease to 85/min following esmolol infusion. In 2014, ~280 patients were admitted to the Alfred ICU with a sepsis related diagnosis (not specifically requiring vasopressor infusion). The mean maximum HR was ~100/min on admission, with a standard deviation of 25/min. 
+Therefore, with an anticipated mean heart rate of 110 +/- 25/min at baseline, and a type-1 error of 0.05, a 20 patient cohort provides 80% power to detect an absolute reduction in mean heart rate of 15/min following study drug administration. 
+Analysis will primarily be conducted using SPSS version 22 (Chicago, IL, USA). 
+
+Data will be presented in text and tabulated formats.  We will develop a prospective data analysis plan that will be ratified by the investigators prior to analysis.  This will include (but not be limited to) the following sections:
+a.	Patient demographics
+b.	Physiological and biochemical derangements and ICU supports prior to enrolment
+c.	Changes in haemodynamics and intensive Care supports following administration of a single dose of enteric ivabradine
+Descriptive statistics will be used to describe overall cases (n) and proportions (%).  Distributed data will be described according to the median and inter-quartile range (IQR).  Inferential statistics will involve the Mann-Whitney U test for distributed data and the chi-sq / Fischers exact test for categorical data.  
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate />
+    <actualstartdate>2/03/2016</actualstartdate>
+    <anticipatedenddate>31/01/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>20</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/01/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>A/Prof Andrew Udy,</primarysponsorname>
+    <primarysponsoraddress>c/o: A/Prof Andrew Udy,
+The Alfred hospital, 55 Commercial Rd, Melbourne VIC 3004</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The Alfred Research Trust: Alfred Small Projects Grants</fundingname>
+      <fundingaddress>The Alfred hospital, 55 Commercial Rd, Melbourne VIC 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Thomas Rozen</sponsorname>
+      <sponsoraddress>c/o: A/Prof Andrew Udy,
+The Alfred hospital, 55 Commercial Rd, Melbourne VIC 3004</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Severe infection (sepsis) represents a common reason for admission to the ICU, often involving older people with multiple medical problems. These patients often have a prolonged hospital stay, complicated by multi-organ dysfunction leading to greater morbidity and mortality. Typically, patients have a high cardiac output, low resistance circulation, with rapid heart rates and low blood pressures requiring infusions of medications to increase blood pressure. There is an emerging body of evidence that elevated heart rates in sepsis contributes to morbidity in some people and can cause numerous complications including myocardial infarction, stress cardiomyopathy, immunosuppression and insulin resistance. Elevated heart rates may limit the time for the heart to fill between contractions, and at high rates may actually reduce the cardiac output. Controlling heart rate could therefore be beneficial. 
+While the drug class beta-blockers are traditionally used, they have the potential to reduce blood pressure which may worsen the clinical state.  Ivabradine is currently used in heart failure patients to prevent elevated heart rates, and acts via a novel receptor to reduce heart rates without impacting on contractility. The use of ivabradine in the septic population is highly novel and previously untested.
+This study aims to evaluate if a single dose of ivabradine is effective at reducing heart rate in septic patients, without escalation of ICU supports.
+</summary>
+    <trialwebsite>n/a</trialwebsite>
+    <publication>n/a</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Alfred HREC</ethicname>
+      <ethicaddress>The Alfred hospital, 55 Commercial Rd, Melbourne VIC 3004</ethicaddress>
+      <ethicapprovaldate>4/11/2015</ethicapprovaldate>
+      <hrec>Alfred HREC: 482/15</hrec>
+      <ethicsubmitdate>21/09/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/369980-Protocol (version 6) ISHRBAD 5-1-16 final.doc</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Thomas Rozen</name>
+      <address>Royal Children's Hospital
+50 Flemington Rd, Parkville VIC 3052</address>
+      <phone>+61419331973</phone>
+      <fax />
+      <email>tomrozen@alumni.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andrew Udy</name>
+      <address>Alfred Hospital, 
+55 Commercial Rd, Prahran VIC 3181</address>
+      <phone>+61390762000</phone>
+      <fax />
+      <email>andrew@udy.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Andrew Udy</name>
+      <address>Alfred Hospital, 
+55 Commercial Rd, Prahran VIC 3181</address>
+      <phone>+61390762000</phone>
+      <fax />
+      <email>andrew@udy.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Thomas Rozen</name>
+      <address>Royal Children's Hospital
+50 Flemington Rd, Parkville VIC 3052</address>
+      <phone>+61419331973</phone>
+      <fax />
+      <email>tomrozen@alumni.unimelb.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

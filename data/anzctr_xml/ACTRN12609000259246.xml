@@ -1,0 +1,196 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="83551">
+  <stage>Registered</stage>
+  <submitdate>29/01/2009</submitdate>
+  <approvaldate>13/05/2009</approvaldate>
+  <actrnumber>ACTRN12609000259246</actrnumber>
+  <trial_identification>
+    <studytitle>Azithromycin in older people with airway disease</studytitle>
+    <scientifictitle>A double-blind randomised controlled study of the anti-inflammatory effects of azithromycin 250mg daily for 12 weeks in adults with symptomatic neutrophilic airway disease</scientifictitle>
+    <utrn />
+    <trialacronym>MAZDA</trialacronym>
+    <secondaryid>MAZDA study</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Asthma</healthcondition>
+    <healthcondition>Chronic obstructive pulmonary disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Chronic obstructive pulmonary disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Asthma</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Azithromycin 250mg daily for 12 weeks, by oral administration.</interventions>
+    <comparator>Placebo (lactose) 250mg daily for 12 weeks, by oral administration.</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Interleukin-8 (IL-8) concentrations in sputum supernatant, detected via the use of laboratory Enzyme Linked Immunosorbent Assay (ELISA) kits.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sputum bacterial load, which will be assessed by a Pathology service through counting and identifying bacterial colonies in sputum samples.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neutrophil concentrations in sputum, which will be established through a differential cell count of muco-cellular clumps in sputum samples.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Neutrophil elastase levels in sputum, which will be established through the use of a commercially available neutrophil elastase immunocapture activity assay kit.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Forced expiratory volume in 1 second (FEV1) as a percentage of participants' predicted FEV1 (FEV1 %pred),  measured through the use of spirometry.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Short acting beta agonist use, assessed by  participant self-report of average short acting beta agonist use per day and week.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life, assessed by administration of the Juniper Quality of Life Questionnaire.</outcome>
+      <timepoint>Assessed at randomisation and at the end of treatment.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Symptomatic stable asthma or Chronic Obstructive Pulmonary Disease (COPD), increased sputum neutrophils.</inclusivecriteria>
+    <inclusiveminage>55</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Hypersensitivity to macrolides, other respiratory disease, taking macrolide, tetracycline, antibiotic or oral corticosteroid in past month, taking antacid treatment, taking medication that prolongs the heart's corrected QT interval (QTc), current smoking, pregnancy, impaired liver function.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Randomised by pharmacy using random number list, concealed from investigators by manufacturing identical active and placebo tablets and labelling in a non-identifying manner.</concealment>
+    <sequence>Permuted block randomisation.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>2/03/2009</anticipatedstartdate>
+    <actualstartdate>16/06/2009</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>23/11/2010</actualenddate>
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>2305</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Hunter New England Area Health Service</primarysponsorname>
+    <primarysponsoraddress>Locked Bag 1, Hunter Region Mail Centre, Newcastle NSW 2310</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>GPO Box 1421 Canberra City ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary purpose of the study is to further the identification of effective treatment options for people with obstructive airway diseases, such as asthma and chronic obstructive pulmonary disease, and neutrophilic inflammation. The study will investigate the anti-inflammatory effect of a macrolide antibiotic, azithromycin, on airway inflammation, symptoms, quality of life and lung function. It is hypothesised that azithromycin therapy will reduce bacteria in the sputum and inflammatory cells of participants with neutrophilic airway disease.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Research Ethics Unit</ethicname>
+      <ethicaddress>Hunter New England Area Health Service
+Locked Bag 1, Hunter Region Mail Centre, Newcastle NSW 2310</ethicaddress>
+      <ethicapprovaldate>19/12/2006</ethicapprovaldate>
+      <hrec>06/12/13/3.08</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Professor Peter Gibson</name>
+      <address>Respiratory and Sleep Medicine, Hunter Medical Research Institute
+Level 2 West Wing
+Locked bag 1
+Hunter Region Mail Centre
+Newcastle NSW 2310</address>
+      <phone>+61 2 4985 5766</phone>
+      <fax>+61 2 4985 5850</fax>
+      <email>peter.gibson@hnehealth.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jodie Simpson</name>
+      <address>Respiratory and Sleep Medicine, Hunter Medical Research Institute
+Level 2 West Wing
+Locked bag 1
+Hunter Region Mail Centre
+Newcastle NSW 2310</address>
+      <phone>+61240420148</phone>
+      <fax>+61240420046</fax>
+      <email>jodie.simpson@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Jodie Simpson</name>
+      <address>Respiratory and Sleep Medicine, Hunter Medical Research Institute, Level 3 John Hunter Hospital, Locked Bag 1, Hunter Region Mail Centre, Newcastle NSW 2310</address>
+      <phone>+6140420148</phone>
+      <fax>+61240420046</fax>
+      <email>jodie.simpson@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jodie L Simpson</name>
+      <address>HMRI Level 2 West Wing
+Lot 1 Kookaburra Circuit
+New Lambton 
+NSW 2305</address>
+      <phone>+61240420148</phone>
+      <fax>+61240420046</fax>
+      <email>jodie.simpson@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,208 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369301">
+  <stage>Registered</stage>
+  <submitdate>11/09/2015</submitdate>
+  <approvaldate>20/01/2016</approvaldate>
+  <actrnumber>ACTRN12616000052437p</actrnumber>
+  <trial_identification>
+    <studytitle>Pharmacokinetics of potent antibiotics with Sustained Low Efficiency Dialysis in Intensive Care.</studytitle>
+    <scientifictitle>Pharmacokinetics of meropenem and tazocin in septic patients requiring slow efficiency dialysis (SLED) with haemodiafiltration (HDF).</scientifictitle>
+    <utrn />
+    <trialacronym>N/A</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Kidney Injury</healthcondition>
+    <healthcondition>Sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Open label pharmacokinetic study of meropenem and tazocin in septic patients requiring slow low efficiency dialysis (SLED) with haemodiafiltration (HDF).
+Both the dialysis therapy and antibiotic therapy will be administered regardless of enrolment. 
+The pharmacokinetic study relates to a single SLED-HDF session, where the antibiotic (meropenem or tazocin) has been administered intravenously prior to the start of the dialysis session. Samples are then taken to measure antibiotic concentrations over time during the dialysis session.  Where possble the pharmacokinetic study will be repeated during the next dialysis session which may be 24 or 48 hours later, depending upon the patient's clinicall status.</interventions>
+    <comparator>No control group.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Determination of pharmacokinetics of meropenem or tazocin for septic patients requiring SLED-HDF for the treatment of their acute kidney injury.
+The pharmacokinetics of these drugs on SLED-HDF will be estimated using a population pharmacokinetic approach with the standard software NONMEM (ver 7.2.0).</outcome>
+      <timepoint>Timed sampling across a dialysis session. 
+Baseline pre-antibiotic dose, then at 15min, 30min, 60 min, 2hours post antibiotic but pre-SLED-HDF.
+ Commencement SLED-HDF. Blood samples at 15 min, 30 min, 45 min, 60 min, 2hours, 4hours and 6 hours and then immediately prior to next dose.
+Blood samples wil be taken before and after dialysis membrane.
+Dialysate samples: baseline, 30 mins, 60 mins, 2 hours, 4 hours, 6 hours.
+Urine samples (if not anuric). Baseline, 0-2hours (predialysis). 0-2 hours on dialysis, 2 - 6 hours on dialysis (before next dose of antibiotic).
+Each participant will undergo 2 pharmacokinetic clearance studies on SLED-HDF. These will be separated by at least 24  48 hours as SLED-HDF is usually scheduled on alternate days.
+</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>None</outcome>
+      <timepoint>None</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Any septic ICU patient, treated with meropenem or tazocin who requires SLED-HDF for the treatment of their acute kidney injury</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>The next of kin do not consent to particpation. (Rarely will the individual be able to give consent as they will be ventilated and sedated). 
+Intensivist deem the participant is not suitable for the study on clinical grounds.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods> There is no data on the pharmacokinetics of meropenem or tazocin for patients on SLED-HDF, so a power calculation is not appropriate. By repeating the clearance studies for each patient twice, we assume that with 5-6 participants we will have sufficient data to undertake the pharmacokinetic modeling.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>4/07/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>6</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Withdrawn</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason>Other reasons/comments</withdrawnreason>
+    <withdrawnreasonother>Study not approved by ethics due to new Crown Law ruling on studies in ICU</withdrawnreasonother>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Otago</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Otago</primarysponsorname>
+    <primarysponsoraddress>University of Otago
+PO Box 56 Dunedin 9054</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Application to Otago Medical Research Foundation currently being submitted</fundingname>
+      <fundingaddress>PO Box 56 Dunedin 9054</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Other Collaborative groups</sponsortype>
+      <sponsorname>Health Research South</sponsorname>
+      <sponsoraddress>SDHB
+Private Bag 1970
+Dunedin 9054</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to investigate how quickly two potent anitbiotics used to treat septic patients in the ICU are removed by dialysis. Septic patients often have acute kidney injury and require dialysis support to maintain kidney function. We do not know how well antibiotics are removed by dialysis and therefore do not have appropriate dosing guidelines to ensure adequate therapeutic concentrations of the antibiotic is maintained. This study will measure the changes in antibiotic concentrations over a dialysis session. The results will enable us to more accurately recommend the correct dose and timing for the dose for septic patients with acute kidney injury.</summary>
+    <trialwebsite>Do not have one.</trialwebsite>
+    <publication>None at present</publication>
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes>None at present</publicnotes>
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee NZ</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Reception - Ground Floor
+20 Aitken Street
+Thorndon
+WELLINGTON 6011</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>21/09/2015</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56 
+Dunedin 9054
+New Zealand</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 474 7641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56 
+Dunedin 9054
+New Zealand</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56 
+Dunedin 9054
+New Zealand</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Robert Walker</name>
+      <address>Department of Medicine
+University of Otago
+PO Box 56 
+Dunedin 9054
+New Zealand</address>
+      <phone>+64 3 4740999</phone>
+      <fax>+64 3 4747641</fax>
+      <email>rob.walker@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

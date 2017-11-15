@@ -1,0 +1,223 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370476">
+  <stage>Registered</stage>
+  <submitdate>5/04/2016</submitdate>
+  <approvaldate>12/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000478415</actrnumber>
+  <trial_identification>
+    <studytitle>Efficacy of 48-hour intravenous (IV) lidocaine infusions in open colorectal surgery.</studytitle>
+    <scientifictitle>Intravenous (IV) lidocaine infusions for 48 hours in open colorectal surgery: a prospective, randomised, double-blinded, placebo-controlled trial.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>bowel cancer</healthcondition>
+    <healthcondition>inflammatory bowel disease</healthcondition>
+    <healthcondition>colorectal surgery</healthcondition>
+    <healthcondition>Ileus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Pain management</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients undergoing elective open colorectal surgery were randomised into the lidocaine group or control group.
+The lidocaine group received 1.5 mg/kg i.v. bolus at induction of anaesthesia immediately followed by 1 mg/kg/hr i.v. infusion for a total of 48 hours duration.
+
+On arrival at the post-anaesthesia care unit (PACU), all patients were connected to an i.v. fentanyl patient-controlled analgesia (PCA) pump (20 mcg bolus, 5 min lockout, maximum dose 240 mcg/hr). PCA fentanyl consumption and numerical pain rating scale (NRS, 0-10) at rest were recorded by a blinded non-study nurse at 30min, 1, 2, 4, 8, 12, 24, 36, 48, 60, and 72 hours post-surgery. A blinded non-study pain physician monitored the patient daily, and adjusted the PCA dose if pain was not controlled. </interventions>
+    <comparator>Patients undergoing elective open colorectal surgery were randomised into the lidocaine group or control group.
+The control group was administered intravenous saline infusion of equal volume to the lidocaine group. Patients were given a fentanyl opioid PCA for pain management. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to first bowel movement.
+The nurse caring for the patient filled out a study-specific questionnaire form documenting time of return of first bowel movement and flatus, and adverse effects.</outcome>
+      <timepoint>Time (hours) from arrival in the post-anaesthesia care unit (PACU).</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to first flatus. 
+The nurse caring for the patient filled out a study-specific questionnaire form documenting time of return of first bowel movement and flatus, and adverse effects.</outcome>
+      <timepoint>Time (hours) from arrival in the post-anaesthesia care unit (PACU).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to hospital discharge.
+Duration was measured from time of beginning of surgical procedure, until the documented time of hospital discharge from the ward. This was measured by review of medical records. No specific tests were used. </outcome>
+      <timepoint>Time (days) from the beginning of procedure.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cumulative rest numerical rating scale pain scores (NRS, 0-10).
+The nurse caring for the patient filled out a PCA study data form documenting the PCA opioid consumption and NRS pain scores. </outcome>
+      <timepoint>NRS at rest were recorded by a blinded non-study nurse at 30min, 1, 2, 4, 8, 12, 24, 36, 48, 60, and 72 hours post-surgery. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cumulative opioid use.
+The nurse caring for the patient filled out a PCA study data form documenting the PCA opioid consumption and NRS pain scores. </outcome>
+      <timepoint>PCA opioid consumption (mcg fentanyl) was recorded by a blinded non-study nurse at 30min, 1, 2, 4, 8, 12, 24, 36, 48, 60, and 72 hours post-surgery. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse effects. Examples include: nausea, vomiting, itch, confusion, tremor, anxiety, and palpitations.
+The nurse caring for the patient filled out a study-specific questionnaire form documenting time of return of first bowel movement and flatus, and adverse effects. No specific tools were used.</outcome>
+      <timepoint>Adverse effects were documented by name and date/time. This was performed by the nurse caring for the patient, who assessed for adverse effects from the end of the procedure, every 4 hours up to 72 hours post procedure.
+
+
+</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients aged 18-80 undergoing elective open colorectal surgery </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>80</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>ASA classification status IV or above; liver cirrhosis; severe chronic renal impairment (serum creatinine &gt; 200 umol L-1); pregnancy; cardiac conduction abnormalities; congestive heart failure; epilepsy; allergy to any of the study medications; opioid or alcohol abuse; and reported bowel movement frequencies greater than 3 per day, or less than 3 per week.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The allocation sequence was concealed from the study team and kept in an opaque envelope in the locked possession of the in-charge operating room nurse (not otherwise involved in the study). </concealment>
+    <sequence>Patients were allocated into two groups (lidocaine or control) by an independent statistician using a computer-generated randomisation number list in Microsoft Excel with a 1:1 ratio.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Placebo-controlled trial</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>To detect a difference in mean time to first bowel movement of 12 hours, a sample size of 28 patients in each group was calculated as sufficient, with 80% power at a two-tailed 5% significance level. This estimation was based on a meta-analysis (Sun et al. 2012) reporting a reduction in mean time to first bowel movement by 15.1 hours. Twenty-nine patients per group were enrolled to compensate for possible dropouts.
+Statistical analysis was conducted with Stata 14 (Statacorp, College Station, TX, USA). The primary outcome measure was time to first bowel movement. Secondary outcome measures were time to first flatus, duration of hospital stay, pain scores, and cumulative opioid use up to 72 hours post-operatively. The Normality of study endpoint distributions were assessed graphically and with the ShapiroWilk test. Normally distributed variables were reported as mean (SD) and comparisons made by calculating the mean difference and 95%CI between the lidocaine and placebo arms. Non-normally distributed data were reported as the median and inter-quartile range (IQR) and analysed using the Wilcoxon test. Post-operative pain scores and cumulative opioid use were compared between treatment arms at 1, 4, 12, 24, 48, and 72 hours post-operatively. Categorical characteristics were summed as n (%), and analysed using a chi-square or Fishers exact test, as appropriate. A formal comparison of the post-operative pain scores over the total duration of follow-up was made with a generalised estimating equation (GEE).    </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate />
+    <actualstartdate>4/03/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>22/07/2015</actualenddate>
+    <samplesize>56</samplesize>
+    <actualsamplesize>58</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>St Vincent's Private Hospital (Darlinghurst) - Darlinghurst</hospital>
+    <hospital>St Vincent's Hospital (Darlinghurst) - Darlinghurst</hospital>
+    <postcode>2010 - Darlinghurst</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>St Vincent's Hospital Sydney Department of Anaesthesia</primarysponsorname>
+    <primarysponsoraddress>Level 4, Aikenhead Building, St Vincent's Hospital, 390 Victoria Street, Darlinghurst NSW, Australia 2010</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>St Vincent's Hospital Sydney Department of Anaesthesia</fundingname>
+      <fundingaddress>Level 4, Aikenhead Building, St Vincent's Hospital, 390 Victoria Street, Darlinghurst NSW, Australia 2010</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background
+Although i.v. lidocaine is used as a perioperative analgesic in abdominal surgery, evidence of efficacy in terms of surgical recovery, pain scores, and opioid use is limited. The infusion dose and duration remain unclear. This study aimed to investigate the effect of a longer low-dose 48-hour infusion regimen on these outcomes. 
+
+Methods
+Fifty-eight adult patients undergoing elective open colorectal surgery were randomised into the lidocaine group (1.5 mg kg-1 followed by 1 mg kg-1 h-1 infusion for 48 hours) and control group (administered equal volumes of normal saline). After surgery, patients were given a patient-controlled analgesia (PCA) machine and time to first bowel movement (primary outcome) and flatus were recorded. Postoperative pain scores (numeric rating scale) and fentanyl PCA consumption were assessed for 72 post-operative hours.
+
+Results 
+There was no significant difference in time to first bowel movement [80.1 (42.2) vs 82.5 (40.4) hours; (P=0.83)], time to first flatus [64.7 (38.5) vs 70.0 (31.2) hours; P=0.57], length of hospital stay [9 (813) vs 11 (914) days; P=0.53], nor post-operative pain scores in the lidocaine vs control arms. Cumulative opioid consumption was significantly lower in the lidocaine vs the control group from 24 hours onwards. At 72 hours, cumulative opioid consumption (mcg fentanyl) in the lidocaine group [1570 (825-3587)] was over 40% lower than in the placebo group [2730 (1778-5327); P=0.039]. 
+
+Conclusion 
+A 48-hour low-dose i.v. lidocaine infusion reduces postoperative opioid consumption. This is not associated with faster return of bowel function, hospital discharge, or lower pain scores. 
+</summary>
+    <trialwebsite />
+    <publication>Sun Y, Li T, Wang N, et al. Perioperative systemic lidocaine for postoperative analgesia and recovery after abdominal surgery: a meta-analysis of randomized controlled trials. Dis Colon Rectum 2012; 55: 118394.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Vincent's Hospital HREC</ethicname>
+      <ethicaddress>St Vincent's Research Office
+Level 6 De Lacy Building
+390 Victoria Street Darlinghurst NSW 2010</ethicaddress>
+      <ethicapprovaldate>10/12/2013</ethicapprovaldate>
+      <hrec>HREC/12/SVH/297</hrec>
+      <ethicsubmitdate>8/11/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew LJ Ho</name>
+      <address>St Vincent's Hospital Sydney
+390 Victoria St 
+Darlinghurst NSW 2010
+Australia</address>
+      <phone>+612 83823200</phone>
+      <fax>+612 83823981</fax>
+      <email>matthew.lj.ho@gmail.com</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew LJ Ho</name>
+      <address>St Vincent's Hospital Sydney
+390 Victoria St 
+Darlinghurst NSW 2010
+Australia</address>
+      <phone>+612 83823200</phone>
+      <fax>+612 83823981</fax>
+      <email>matthew.lj.ho@gmail.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew LJ Ho</name>
+      <address>St Vincent's Hospital Sydney
+390 Victoria St 
+Darlinghurst NSW 2010
+Australia</address>
+      <phone>+612 83823200</phone>
+      <fax>+612 83823981</fax>
+      <email>matthew.lj.ho@gmail.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Matthew LJ Ho</name>
+      <address>St Vincent's Hospital Sydney
+390 Victoria St 
+Darlinghurst NSW 2010
+Australia</address>
+      <phone>+612 83823200</phone>
+      <fax>+612 83823981</fax>
+      <email>matthew.lj.ho@gmail.com</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

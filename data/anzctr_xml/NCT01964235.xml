@@ -1,0 +1,254 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="4123">
+  <stage>Registered</stage>
+  <submitdate>14/10/2013</submitdate>
+  <approvaldate>14/10/2013</approvaldate>
+  <nctid>NCT01964235</nctid>
+  <trial_identification>
+    <studytitle>Study of Efficacy and Safety INC280 in Patients With Advanced Hepatocellular Carcinoma</studytitle>
+    <scientifictitle>A Randomized Phase II, Double-blind, Placebo-controlled, Multi-center Study to Evaluate the Efficacy and Safety of INC280 in Adult Patients With Advanced Hepatocellular Carcinoma After Progression or Intolerance to Sorafenib Treatment</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>CINC280X2203</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Advanced Hepatocellular Carcinoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Non melanoma skin cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Liver</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - INC280
+Treatment: drugs - Placebo
+
+Experimental: INC280 plus best supportive care - Approximately 46 patients will be treated with INC280 600 mg twice a day plus best supportive care.
+
+Placebo Comparator: Placebo plus best supportive care - Approximately 23 patients will be treated with matching placebo twice a day plus best supportive care.
+
+
+Treatment: drugs: INC280
+INC280 will be administered orally and continuously on a twice a day dosing schedule.
+
+Treatment: drugs: Placebo
+Placebo will be administered orally and continuously on a twice a day dosing schedule.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Time to progression using Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 - Time to progression is the time from the date of baseline evaluation to the date of the first documented radiological confirmation of disease progression.</outcome>
+      <timepoint>baseline, 6 weeks up to 6 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Best Overall Response - Best overall response is defined as the best response recorded from the date of randomization until the date of last tumor assessment per RECIST version 1.1.</outcome>
+      <timepoint>date of treatment, every 6 weeks up to 6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Response Rate - Overall Response Rate is defined as the proportion of patients with a best overall response of complete response or partial response at any time on study per RECIST version 1.1.</outcome>
+      <timepoint>baseline, every 6 weeks up to 6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Disease Control Rate - Disease control rate is defined as the proportion of patients with a best overall response of complete response, partial response or stable disease at any time on study per RECIST version 1.1.</outcome>
+      <timepoint>baseline, every 6 weeks up to 6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression Free Survival - Progression free survival is defined as the time from date of randomization to the date of the first radiologically documented progression or death due to any cause. If a patient has not experienced radiologically documented progression or death, progression free survival is censored at the date of last adequate tumor assessment.</outcome>
+      <timepoint>randomization, every 6 weeks up to 6 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival - Overall survival is defined as the time from date of randomization to the date of death due to any cause. If a patient is not known to have died, survival will be censored at the date of last contact.</outcome>
+      <timepoint>randomization until death, average 10 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety: adverse events, serious adverse events - Frequency, duration and severity of adverse events.</outcome>
+      <timepoint>From baseline until 30 days post study treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Safety: hematology and chemistry values, vital signs, electrocardiograms - Change from baseline values.</outcome>
+      <timepoint>From baseline until end of treatment, average 6 months from baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Tolerability of study drug - Tolerability will be assessed by summarizing the number of dose interruptions, dose reductions and dose intensity.</outcome>
+      <timepoint>From date of randomization until end of treatment, average 6 months from baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Confirmed c-MET pathway dysregulation.- Hepatocellular carcinoma stage B or C
+             according to the Barcelona Clinic Liver cancer staging classification. - Current
+             cirrhotic status of Child-Pugh class A with no encephalopathy. - Documented disease
+             progression during or after discontinuation of sorafenib treatment or intolerance to
+             sorafenib treatment. - Measurable disease as determined by RECIST v1.1. - ECOG
+             performance status = 1</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Previous local antineoplastic therapy or investigational drug completed less than 5
+             half-lives of the agent prior to randomization and have not recovered from clinically
+             significant toxicity from such treatment to grade =1 by the NCI-CTCAE. - Received any
+             targeted therapy other than sorafenib.
+
+          -  Active bleeding within 28 days prior to screening visit including variceal bleeding
+             (esophageal varices should be treated according to standard practice and procedure
+             completed 28 days prior to screening visit). - Clinically significant venous or
+             arterial thrombotic disease within past 6 months.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/12/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>0</actualsamplesize>
+    <recruitmentstatus>Withdrawn</recruitmentstatus>
+    <anticipatedlastvisitdate>1/07/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>Novartis Investigative Site - Kogarah</hospital>
+    <hospital>Novartis Investigative Site - Heidelberg</hospital>
+    <postcode>2217 - Kogarah</postcode>
+    <postcode>3084 - Heidelberg</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Missouri</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Clichy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>LILLE Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Montpellier Cedex 5</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice Cedex 3</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Essen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Würzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong SAR</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Andalucia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Bern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Genève</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Novartis Pharmaceuticals</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is establish whether INC280 is safe and has beneficial effects in patients with
+      advanced hepatocellular carcinoma known to have dysregulation of c-MET pathway and whose
+      disease progressed while on, or after, treatment with sorafenib or who are intolerant to
+      sorafenib.
+
+      Patients will be randomized in a 2:1 ratio to receive INC280 at 600mg BID plus best
+      supportive care (BSC) or placebo plus BSC, until disease progression or intolerable to study
+      treatment. Patients treated with placebo plus BSC will have the opportunity to receive INC280
+      treatment upon documented further disease progression (RECIST 1.1) per investigator's
+      discretion after unblinding.
+
+      Patient will be stratified to geographical region (Asia vs Rest of World ) and tumor burden
+      (present macroscopic vascular invasion and/or extra-hepatic spread vs not present).</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01964235</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Novartis Pharmaceuticals</name>
+      <address>Novartis Pharmaceuticals</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

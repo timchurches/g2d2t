@@ -1,0 +1,243 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372752">
+  <stage>Registered</stage>
+  <submitdate>22/04/2017</submitdate>
+  <approvaldate>28/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000607370</actrnumber>
+  <trial_identification>
+    <studytitle>SMS SOS: Using SMS text messages to prevent self-harm</studytitle>
+    <scientifictitle>SMS SOS: Effectiveness of SMS text messages in improving survival and rehabilitation rates of deliberate self harm patients and reducing re-presentation of DSH patients to hospital. </scientifictitle>
+    <utrn>U1111-1195-7926</utrn>
+    <trialacronym>Not Applicable</trialacronym>
+    <secondaryid>New South Wales Ministry of Health, Translational Research Grant Scheme, 2016, TRGS Application No: 155.  </secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Deliberate self-poisoning</healthcondition>
+    <healthcondition>Deliberate self-injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Poisoning</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Injuries and Accidents</conditioncode1>
+      <conditioncode2>Other injuries and accidents</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Suicide</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>This is a non-drug trial.
+Individuals who present to hospital Emergency Departments with deliberate self-harm, and who meet eligibility criteria, will be randomly allocated to one of two follow up conditions:
+1a. Control group: will receive hospital follow-up treatment-as-usual (TAU). This consists of hospital and/or community mental health contact with the presenting individual, typically within 24 hours of their presentation, and a follow-up program of care including clinical re-assessment and individual or family-based psychological therapies, as indicated.  
+1b. Intervention group: will receive TAU plus supportive Short Message Service (SMS) text messages (TAU + SMS) scheduled at 1,2,3,4,5,6,8,10 and 12 months after their index presentation/randomisation. The content of the SMS message uses the same wording as the "Postcard from the EDge" study (Carter, Clover, Whyte, Dawson &amp; D'Este, 2007); Dear [first name of patient], It has been a little while since you were here at the xxx Hospital, and we hope things are going well for you. If you wish to drop us a note or telephone us on XXXXX we would be happy to hear from you. Best wishes, Dr X, Y and Z. 
+Mode of Delivery:
+The scheduled delivery of supportive SMS text messages will occur via an automated text messaging service, with this process being overseen by project research officers.
+Frequency and duration of intervention:
+Participants in the intervention condition will receive SMS text messages over 12 months on an identical time schedule; 1, 2, 3, 4, 5, 6, 8, 10 and 12 months after their index admission/randomisation. The message (detailed above) will be the same at each time point. Due to any potential concerns regarding ongoing surveillance, there will be no direct monitoring of message receipt or opening.
+</interventions>
+    <comparator>The control group will receive hospital follow-up treatment as usual (TAU) which consists of hospital and/or community mental health contact with the presenting individual, typically within 24 hours of their presentation, and a follow-up program of care including clinical re-assessment and individual or family-based psychological therapies, as indicated. </comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of deliberate self-harm (DSH) re-presentations to hospital Emergency Departments within 12 months following index presentation/randomisation. All primary and secondary outcomes of the study will be assessed by review of hospital medical records at the three study sites, as well as data linkage to hospital admission records of all New South Wales hospitals.  </outcome>
+      <timepoint>Any DSH re-presentation within 12 months following  index presentation/randomisation.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Median time of first DSH re-presentation to hospital Emergency Department within 12 months following index presentation/randomisation. </outcome>
+      <timepoint>Median time of first DSH re-presentation within 12 months following index presentation/randomisation. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality rate</outcome>
+      <timepoint>Mortality rate within 12 months of index presentation/randomisation. </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Individuals will be eligible for study inclusion if they present with DSH during the recruitment period, have access to a mobile phone for personal use and are aged 16 years and over. We will include individuals who present with either a first or subsequent episode of DSH. </inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients who are incapable of or unwilling to give informed consent, those of no fixed address, those with insufficient English to read an SMS, and those without a mobile phone, will be excluded from the study.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed.</concealment>
+    <sequence>Study participants will be stratified by first DSH presentation or subsequent DSH presentation. Participants will then be randomised within strata, using random permuted blocks, to either the intervention (SMS+TAU) group or the control (TAU) group using a computer-generated randomisation program. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Randomisation and enrolment of participants:
+To minimise participant burden, a randomised consent design (Zelen: single consent version) will be used (Zelen, 1979, 1990). This design is a variation on the standard randomised controlled experimental design, in which participants are randomised to control or intervention before consent is sought. In the single consent version, written informed consent to receive the intervention (nine scheduled SMS text messages) is sought only from participants randomised to the intervention condition.
+</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Sample size calculations:
+Our study is powered to detect a clinically important difference in outcomes for all patients. Assuming an incidence rate ratio (based on event rates) of RR=0.66  for the intervention group compared to the control group, with a 5% significance level and 80% power and 10% adjustment for correlation of individuals within centres, a total sample size of 796 participants is required (398 in the intervention group and 398 in the control group). This assumes a median survival time (time to first repetition) in the control group of 4.3 years.  Currently ~15% in the usual care  group who present for DSH re-present within the following 12-months, or a probability of survival of 0.85. Median survival (m) after 1 year (t) in the usual care group = t*loge(1/2)loge(p) = 4.3 years. For assessing differences in median time to first repetition, assuming a median survival time in the usual care group of 73.5 days  and a similar relative difference in event rates between intervention and controls groups as above (RR=0.66), the estimated median survival time in the intervention group is 121.8 days, which requires a total sample size of 138 participants (69 participants in the intervention group and 69 participants in the control group), with 5% significance and 80% power, and 10% adjustment for correlation of individuals within centres. The number of patients likely to die within the study period is very small. A previous longitudinal study in our centre found a 1% suicide rate after 24 months and nearly a 2% suicide rate after 5 years. These are lower than the 12-month 1.8% rate reported in a recent meta-analysis of psychosocial interventions after self-harm.
+Feasibility:
+Our records show that there are about 650 DSH presentations to the three WSLHD study-sites annually i.e. approximately 1300 potential participants. We would anticipate, based on previous research, that approximately 15% of all DSP presentations will not meet the eligibility criteria (1105 eligible), 10% will not consent to study participation (i.e. the consent rate in our previous Postcards study), leaving approximately 995 potential participants over the 24-month recruitment period. It is anticipated that approximately 55% of participants will be women, thus there would be an estimated total of 547 (273 in the intervention group and 273 in the control group) women and 448 (224 in the intervention group and 224 in the control group) men, representing a sufficient sample size to evaluate the effect of the intervention for all participants.
+Statistical methods:
+Characteristics of participants will be compared between intervention groups using the t-test or a non-parametric equivalent for continuous variables and the X2 or Fishers exact for categorical variables. The primary analysis will involve comparing the number of participant re-presentations, or deaths, related to DSH in each group in the 12 months following recruitment. The number of re-admissions per patient (within 12 months following recruitment) in the intervention and control group will be compared using negative binomial regression, and differences between median time to first repetition between intervention and control group will be compared using survival analysis. Based on the Postcards from the EDge study the negative binomial is the most likely distribution for the number of DSH episodes per individual. If any baseline characteristics known to be associated with DSH readmission differ between the two intervention groups, these variables will be included in a secondary analysis which involves including imbalanced variables and other important covariates in a logistic (for any DSH readmission) or negative binomial (for the number of DSH readmissions) regression model.  All analyses will be intention to treat, with all patients being analysed according to their intervention group.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>8/05/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>8/05/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>995</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>8/05/2020</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+    <hospital>Blacktown Hospital - Blacktown</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>Nepean Hospital - Kingswood</hospital>
+    <postcode>2148 - Blacktown</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>2747 - Kingswood</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof Alison Jones</primarysponsorname>
+    <primarysponsoraddress>Northfields Ave
+Building 41, Room 260
+Faculty of Science, Medicine and Health, 
+University of Wollongong, 
+Wollongong, NSW, 2522</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Translational Research Grant Scheme (TRGS), New South Wales Ministry of Health</fundingname>
+      <fundingaddress>New South Wales Ministry of Health
+73 Miller Street
+Locked Mail Bag 961
+North Sydney NSW 2059
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Naren Gunja</sponsorname>
+      <sponsoraddress>Department of Pharmacology &amp; Toxicology
+Blacktown Hospital
+18 Blacktown Road
+Blacktown, NSW, 2148 
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of this study is to determine whether an SMS-text message follow-up intervention for deliberate self-harm (DSH) is more effective in reducing DSH re-presentation to hospital, than treatment-as-usual hospital follow-up.
+Method
+This study will be conducted at Blacktown, Westmead and Nepean Hospitals as a Randomised Controlled Trial (RCT). Individuals will be eligible for study inclusion if they present with DSH to a hospital Emergency Department during the recruitment period, have access to a mobile phone for personal use and are aged 16 years and over. Eligible study participants will be randomly assigned to either hospital follow-up treatment as usual (TAU) or TAU plus SMS-text message follow-up. The study will have a two year recruitment phase with participants in the intervention condition receiving a supportive SMS text message at 1, 2, 3, 4, 5, 6, 8, 10 and 12 months after their index admission/randomisation. The outcomes of interest are i) the number of DSH re-presentations in each group, ii) median time to first re-presentation in each group and, iii) deaths within each group, within 12 months following recruitment.
+Benefits
+Repetition of self-harm within 12 months of an index episode occurs at a median rate of 15% (interquartile range 12-25%). This has a strong association with subsequent completed suicide and significant ongoing resource implications for the health care system. We have demonstrated in our previous Postcards from the EDge study (Carter et al, 2005, 2007, 2013, Milner and Carter, 2015) that, in individuals with a prior admission for deliberate self-poisoning (DSP), a simple postcard follow-up significantly reduces hospital re-presentation rates and associated costs. 
+SMS text messaging has been demonstrated to be an effective method of communication with vulnerable people. Determining whether electronic communication is more effective than current practice in preventing DSH re-presentation is of the utmost importance, since DSH accounts for 5% of all general hospital admissions in Australia and mobile phone ownership is becoming almost universal, particularly among young people who are more at risk of self-harm. Should text messaging prove more effective, it allows for a vastly more flexible, direct and deliverable medical follow-up system than has ever existed under traditional models of care for DSH patients. 
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Western Sydney Local Health District Human Research Ethics Committee </ethicname>
+      <ethicaddress>Cnr Hawkesbury Road and Darcy Road
+Research Office
+Westmead Hospital, Rm 2050, Level 2
+Research and Education Network Building
+Westmead NSW 2145</ethicaddress>
+      <ethicapprovaldate>28/09/2016</ethicapprovaldate>
+      <hrec>AU RED HREC/16/WMEAD/336 (Research Office File No. 4826)</hrec>
+      <ethicsubmitdate>16/08/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372752-SMS SOS_Study protocol_SPIRIT Checklist_2013 version_Final.doc</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372752-Ethics Approval letter_WSLHD HREC_20082016.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372752-WSLHD HREC PICF_Local vesion_Westmead_final.doc</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372752-Scientific Advisory Comm_review letter_2018_001.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Alison Jones</name>
+      <address>Northfields Ave
+Building 41 Room 260
+Faculty of Science, Medicine and Health, 
+University of Wollongong, NSW, 2522</address>
+      <phone>+61 2 4221 5151</phone>
+      <fax />
+      <email>alisonj@uow.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Garry Stevens</name>
+      <address>School of Social Science and Psychology
+Kingswood Campus, P.G.12
+Western Sydney University
+Locked Bag 1797, 
+Penrith 2751, NSW, Australia
+
+</address>
+      <phone>+61421079011 </phone>
+      <fax />
+      <email>g.stevens@westernsydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Alison Jones</name>
+      <address>Northfields Ave
+Building 41 Room 260
+Faculty of Science, Medicine and Health, 
+University of Wollongong, NSW, 2522</address>
+      <phone>+61 2 4221 5151</phone>
+      <fax />
+      <email>alisonj@uow.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Suzanne Brownhill</name>
+      <address>Department of Consultation Liaison Psychiatry
+Westmead Hospital
+Westmead, NSW, 2145
+</address>
+      <phone>+61407711722 </phone>
+      <fax />
+      <email>Suzanne.Brownhill@health.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

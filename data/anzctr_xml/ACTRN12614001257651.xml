@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367294">
+  <stage>Registered</stage>
+  <submitdate>20/11/2014</submitdate>
+  <approvaldate>2/12/2014</approvaldate>
+  <actrnumber>ACTRN12614001257651</actrnumber>
+  <trial_identification>
+    <studytitle>Multicentre prospective study of pulse oximetry to evaluate arterial oxygen saturation in the clinical setting. </studytitle>
+    <scientifictitle>In patients requiring an arterial blood gas, a comparison between arterial oxygen saturation and pulse oximetry saturation measurements.</scientifictitle>
+    <utrn>U1111-1163-2103</utrn>
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Any condition requiring measurement of arterial blood gas</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants who require an arterial blood gas (ABG)  will  be identified. At the time of the ABG an oximetry value (SPO2) will be measured, taken from an earlobe or finger probe. The SpO2 value will be the first value measured following visualisation of blood entering the collection vial for the ABG analysis. Only one paired ABG/SpO2 measurement will be recorded for each participant. </interventions>
+    <comparator>The SpO2 value recorded by the pulse oximeter will be paired with the ABG measured oxygen saturation (SaO2) value for comparison.</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>SpO2, measured by pulse oximetry at the same time an ABG is performed.</outcome>
+      <timepoint>The SpO2 value will be the first value measured following visualisation of blood entering the collection vial for the ABG analysis. </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>SaO2, measured by ABG (while the pulse oximeter is in place).
+ABG is assessed by means of a blood sample taken from an artery which is then sent to the laboratory for analysis.</outcome>
+      <timepoint>Taken at time of the clinically indicated ABG. </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Nil</outcome>
+      <timepoint>Nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients requiring an ABG measurement as part of their clinical care at: Wellington Regional and Christchurch Hospitals in New Zealand; Westmead Prince Charles, Royal North Shore and Concord Hospitals in New South Wales, Australia; Austin Hospital, Victoria, Australia; or Royal Hobart Hospital, Tasmania, Australia.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Diagnosis of sickle cell anaemia, methaemoglobinemia, or carbon monoxide (CO) poisoning
+2. Patients previously recruited to the study with paired SpO2 and SaO2 values successfully recorded
+3. Any other condition which, at the investigators discretion, is believed may present a safety risk or impact upon the feasibility of the study or the interpretation of the study results. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Summary of Objectives:
+
+1.	To describe the agreement between SpO2 and SaO2 measurement in terms of bias and limits of agreement. 
+
+2.	To estimate the influence on bias of: 
+a.	The mean oxygen saturation (average of SpO2 and SaO2)
+b.	Location of measurement (ED, HDU, ward, or outpatient department)
+c.	Position of the probe (finger or ear)
+d.	Doctors diagnosis of recognised condition associated with chronic respiratory failure*
+e.	Current tobacco smoking status (current versus ex or non-smoker)
+f.	Skin pigmentation (based on modified Fitzpatrick scale with patient skin colour classified as either: Light (Type I to Type II), Medium (Type III to Type IV) or Dark (Type V to Type VI))
+g.	A doctors diagnosis of Diabetes Mellitus.
+
+3.	To describe the diagnostic performance of SpO2 to detect clinically important boundaries of SaO2 (90 %) and PaO2 (60 mmHg).
+
+4.	To estimate the variance component of the difference between SpO2 and SaO2 difference due to different oximetry devices.
+
+* Chronic obstructive pulmonary disease, obesity hypoventilation syndrome, bronchiectasis, cystic fibrosis, neuromuscular disease and chest wall deformities such as severe kyphoscoliosis
+
+Objective 1: 	Bland-Altman plots and estimation of bias and limits of agreement.
+Objective 2: 	Analysis of Covariance. Should important predictors of bias be identified Bland-Altman methods will be used to determine whether there is also an effect on limits of agreement.
+Objective 3: 	Estimation of variance components and associated intra-class correlation coefficients for the effect of oximeters as well as Best Linear Unbiased Predictors of the effect of individual oximeters; all by mixed linear models and estimation by Restricted Maximum Likelihood.
+Objective 4: 	Receiver Operating Characteristic curve estimation by logistic regression and associated prediction equations.
+
+The planned sample size is based on three considerations. Firstly, for the analysis of variables that predict the size of the bias we seek to have between 20 and 40 participants for each degree of freedom in the ANCOVA. This requires between 200 and 400 participants. Secondly the estimates of paired SD for the SpO2 to SaO2 difference from the papers of Van de Leow and Wouters were 2.1%, and 2.2% respectively. If there were two equal sized groups of 42 participants, 21 in each group, there is 80% power, with a type I error rate of 5%, to detect this size difference. This suggests if we have at least 20 participants with a particular characteristic we will have greater than 80% power to detect a difference of 2% between groups for dichotomous variables. We think that a sample size of 400 makes it likely that each individual characteristic will have at least 20 participants. Finally for estimation of variance of components for the different pulse oximeters by Best Unbiased Linear Predictors we need between 20 and 25 participants per oximeter brand. We anticipate between 10 and 20 oximeter brands and this leads to a requirement for between 200 and 400 participants.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>9/12/2014</anticipatedstartdate>
+    <actualstartdate>10/12/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>24/11/2015</actualenddate>
+    <samplesize>400</samplesize>
+    <actualsamplesize>400</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>NSW,TAS,VIC</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Wellington &amp; Christchurch</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Janine Pilcher</primarysponsorname>
+    <primarysponsoraddress>MRINZ, 
+Wellington Regional Hospital, 
+Riddiford Street, 
+Newtown, 
+Wellington 6021</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Medical Research Institute of New Zealand</fundingname>
+      <fundingaddress>Wellington Regional Hospital, 
+Riddiford Street, 
+Newtown, 
+Wellington 6021</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Nil</sponsorname>
+      <sponsoraddress>Nil</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr Leonie Eastlake</othercollaboratorname>
+      <othercollaboratoraddress>MRINZ, 
+Wellington Regional Hospital, 
+Riddiford Street, 
+Newtown, 
+Wellington 6021</othercollaboratoraddress>
+      <othercollaboratorcountry>New Zealand</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Pulse oximetry is commonly used in the clinical setting to titrate oxygen therapy to a target oxygen saturation range  in order to avoid the risks of hypoxaemia and hyperoxaemia.
+The purpose of this study is to investigate the level of agreement between pulse oximeter measured oxygen saturations and arterial blood gas measured oxygen saturations (the gold standard for oxygen saturation measurement) in Australian and New Zealand hospitals. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Health and Disability Ethics Committee (Northern B)</ethicname>
+      <ethicaddress>Ministry of Health
+Level 6, Deloitte House
+10 Brandon Street
+PO Box 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>9/09/2014</ethicapprovaldate>
+      <hrec>14/NTB/115</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellington Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64 4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellington Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64 4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellington Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64 4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Janine Pilcher</name>
+      <address>MRINZ, Wellington Regional Hospital, Riddiford Street, Newtown, Wellington 6021</address>
+      <phone>+64 4 8050241</phone>
+      <fax>+64 4 3895707</fax>
+      <email>janine.pilcher@mrinz.ac.nz</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

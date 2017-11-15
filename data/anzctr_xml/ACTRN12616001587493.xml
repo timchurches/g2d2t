@@ -1,0 +1,230 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371847">
+  <stage>Registered</stage>
+  <submitdate>14/11/2016</submitdate>
+  <approvaldate>16/11/2016</approvaldate>
+  <actrnumber>ACTRN12616001587493</actrnumber>
+  <trial_identification>
+    <studytitle>The impact of obesity on the quality of CPR: a randomised cross over trial</studytitle>
+    <scientifictitle>The impact of obesity on the quality of CPR: a randomised cross over trial</scientifictitle>
+    <utrn>U1111-1189-8417</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Obesity</healthcondition>
+    <healthcondition>Cardiac arrest</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Diet and Nutrition</conditioncode1>
+      <conditioncode2>Obesity</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Randomised cross over design
+
+The intervention arm will be asked to perform two minutes of CPR on a manikin that has been encased in a suit containing pig fat in a vacuum sealed bag to a depth that mimics a BMI of 40 kg/m2. 
+
+The washout period between mannikins will be 5 minutes. We were concerned that 15 minutes between trials was excessive. In a trial of the methodology we found that participants HR had returned to baseline by 5 minutes and the washout period was reduced to this as a result..</interventions>
+    <comparator>The control arm will comprise the same participants performing CPR on a normal manikin.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Quality of CPR (composite endpoint comprising rate of compressions, depth of compressions, and adequate chest recoil for &gt; 90% of compressions) assessed by data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.
+</outcome>
+      <timepoint>2 minutes</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of CPR lies between 100 and 120 BPM for &gt; 90% of compressions assessed by data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Depth of CPR lies between 1/3 and 1/2 of the AP diameter of the thorax for &gt; 90% of compressions assessed by data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adequate thoracic cage recoil (full recoil of the thoracic cage for &gt; 90% of compressions) assessed by data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time taken to fatigue (inability to deliver high quality CPR i.e.: insufficient rate of compressions, insufficient depth of compressions or inadequate time for chest recoil) assessed by data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Association between perceived effectiveness and recorded effectiveness measured by comparing self assessed effectiveness of CPR using a visual analogue scale rated from 1 (not effective) to 10 (very effective) and the objective data generated through electronic monitoring of chest wall movement (accelerometer) produced from specialised software.</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Staff discomfort / pain assessed by completion of a visual analogue scale from 1 (no discomfort / pain) to 10 (worse pain imaginable)</outcome>
+      <timepoint>2 minutes</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Health care staff who have previously undergone BLS training and would be expected to provide CPR during cardiopulmonary arrest.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Untrained in BLS
+Unable to undertake two minutes of CPR
+Currently undergoing a managed return to work program.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation generated by a coin toss</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Assuming that effective CPR will be conducted for 90% of compressions, to demonstrate a 15% deterioration in CPR efficacy, it is thought that a sample size of approximately 55 participants will be needed with an alpha of 0.05 and beta of 0.8. Calculated using Statistica(TM).
+
+Results will be analysed using Statistica(TM).  Non-parametric data will be analysed using the Chi squared statistic (efficacy of CPR, rate, adequate depth, adequate recoil for &gt; 90% of compressions, difference between perceived and actual effectiveness).  
+
+Parametric data will be analysed using the students t test (time taken to fatigue, level of discomfort).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>5/05/2017</anticipatedstartdate>
+    <actualstartdate>3/05/2017</actualstartdate>
+    <anticipatedenddate>31/05/2017</anticipatedenddate>
+    <actualenddate>16/05/2017</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize>100</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate>31/05/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate>16/05/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NT</recruitmentstate>
+    <postcode>0870 - Alice Springs</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Alice Springs Hospital</primarysponsorname>
+    <primarysponsoraddress>Gap Road
+Alice Springs  NT  0870</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Alice Springs Hospital</fundingname>
+      <fundingaddress>Gap Road
+Alice Springs NT 0870</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>There is little research regarding the efficacy of CPR in obese patients.  The primary aim will be to assess whether hospital staff trained in BLS can deliver effective chest compressions in the setting of a CPR simulation using a dummy which is modified to reflect a patient with morbid obesity.
+
+Aim of study:
+*	The aim of this study is to explore whether chest compressions in an obese patient are an effective part of the BLS and ALS algorithm and should continue to be used as part of resuscitative efforts during a cardiac arrest.  In addition, this study aims to explore whether providers of CPR fatigue more rapidly when delivering CPR to morbidly obese patients.
+
+Primary Outcome:
+*	The primary outcome is to measure the efficacy of chest compressions in a morbidly obese scenario. This will use digital mannequins to record the quality and adequacy of chest compressions over a period of 2 minutes of uninterrupted CPR.  Effective CPR will be defined as a composite measure of adequate depth of compression, adequate time for recoil and at an adequate rate for more than 90% of compressions delivered.
+
+Secondary outcomes:
+*	Adequacy of each component of CPR (namely depth, adequate recoil and rate).
+*	Time taken for staff to fatigue when performing CPR on a morbidly obese mannequin.  It is known that the maximum amount of time a member of staff can perform effective CPR for is 2 minutes in a normal scenario. 
+*	Staff discomfort/pain experienced performing CPR.
+*	The association between perceived effectiveness of chest compressions by staff and recorded adequacy.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>CENTRAL AUSTRALIAN HUMAN RESEARCH ETHICS COMMITTEE (CAHREC)</ethicname>
+      <ethicaddress>CAHREC
+PO BOX 4066
+ALICE SPRINGS NT 0871</ethicaddress>
+      <ethicapprovaldate>7/02/2017</ethicapprovaldate>
+      <hrec>HREC-16-445</hrec>
+      <ethicsubmitdate>27/10/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Secombe</name>
+      <address>c/o Intensive Care Unit
+Alice Springs Hospital
+Gap Road
+Alice Springs NT 0870</address>
+      <phone>+61 8 8951 7777</phone>
+      <fax>+61 8 8951 6936</fax>
+      <email>paul.secombe@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Secombe</name>
+      <address>c/o Intensive Care Unit
+Alice Springs Hospital
+Gap Road
+Alice Springs NT 0870</address>
+      <phone>+61 8 8951 7777</phone>
+      <fax>+61 8 8951 6936</fax>
+      <email>paul.secombe@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Secombe</name>
+      <address>c/o Intensive Care Unit
+Alice Springs Hospital
+Gap Road
+Alice Springs NT 0870</address>
+      <phone>+61 8 8951 7777</phone>
+      <fax />
+      <email>paul.secombe@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Secombe</name>
+      <address>c/o Intensive Care Unit
+Alice Springs Hospital
+Gap Road
+Alice Springs NT 0870</address>
+      <phone />
+      <fax />
+      <email>paul.secombe@nt.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

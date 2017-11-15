@@ -1,0 +1,236 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373889">
+  <stage>Registered</stage>
+  <submitdate>27/10/2017</submitdate>
+  <approvaldate>7/11/2017</approvaldate>
+  <actrnumber>ACTRN12617001543370</actrnumber>
+  <trial_identification>
+    <studytitle>Effect of focussed acceptance and commitment therapy on quality of life and depression in patients with depressive symptoms in primary care</studytitle>
+    <scientifictitle>Effect of focussed acceptance and commitment therapy on quality of life and depression in patients with depressive symptoms in primary care,</scientifictitle>
+    <utrn>U1111-1204-3366 </utrn>
+    <trialacronym>PrimeFACT </trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>depressive symptoms</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Depression</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention is based on the work of Kirk Strosahl who developed the therapy known as Focussed Acceptance and Commitment Therapy (FACT) which is modified Acceptance and Commitment therapy for primary care. 
+Each patient will get a work/love/play assessment which checks on a 1 to 10 scale for  how  daily life (work, study etc.) is going, love as in friends, love as in intimates, love as in family and play (recreation hobbies etc.). There will also be open ended questions on exercise, smoking, sleep, recreational drugs,  alcohol, gambling issues in self or family, violence, citizenship/community involvement and if there is a spiritual component to their lives. Any deficit in these aspects of life will be used as a target for behavioural change using a task sheet for homework. The patients will be asked if they can describe the emotional pain that is behind their distress (these are usually in the domains of being unlovable or helpless. They will then be shown the mindful anchor based on Kirk Strosahls Inside this moment book. This is a five step mindfulness technique designed to enable the patient to be present with their emotional pain and to stop resisting it. They may find it distressing to be asked to make behavioural changes in their lives (their task sheet) and will be advised that when the pain arises they should use the mindful anchor. 
+
+The persons who will do the FACT interview will either be GPs with a FRNZCGP or equivalent, a medical graduate with some training in FACT (either the Goodfellow Unit online course) or equivalent or a psychologist with similar training in FACT. The intervention will be delivered once on the day of enrolment  and face to face where possible. Where this is not possible it will be done either by phone or by a later face to face appointment. It will be done with individuals not groups. The outcomes will be measured one week after the intervention is given. The duration of the intervention will be about 20 to 30 minutes with an additional 10 minutes to complete the study documentation forms and questionnaires. The interviews will be done in a GP clinic in a separate room. 
+</interventions>
+    <comparator>Treatment as usual by their GP or practice nurse. The GP and practice nurse will be notified that the patient is eligible for the study but not be told what intervention the patient is being given. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patient Health Questionniare (PHQ-8),</outcome>
+      <timepoint>One week post- intervention. This may be longer than one week from enrolment as it may not be possible to do the initial interview on the same day as enrolment.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>euroquol 5-D depression questions  level changes in one of five levels</outcome>
+      <timepoint> One week post- intervention. This may be longer than one week from enrolment as it may not be possible to do the initial interview on the same day as enrolment.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Changes in the Euroquol 5D 1 to 100 quality of life scale</outcome>
+      <timepoint>One week post- intervention. This may be longer than one week from enrolment as it may not be possible to do the initial interview on the same day as enrolment.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome> Acceptance and Action version 2 questionnaire.</outcome>
+      <timepoint> One week post- intervention. This may be longer than one week from enrolment as it may not be possible to do the initial interview on the same day as enrolment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The Generalised anxiety disorder questionnaire (GAD-7 )</outcome>
+      <timepoint> One week post- intervention. This may be longer than one week from enrolment as it may not be possible to do the initial interview on the same day as enrolment.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Patients aged 16 and over with a PHQ-8 from 2 to 21
+2.	 Speak sufficient English (or have an interpreter).
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Currently on current major tranquilizer medication.
+2. Unable to comprehend the information sheet.
+3. Bipolar affective disorder.
+4. Currently accessing psychological treatment.
+5. Taking antidepressant medication for less than one month. 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>central randomisation by computer</concealment>
+    <sequence>We will use caseweaver.co.nz  which is software that allows for blinded
+and concealed randomisation once the baseline data has been entered. Patients are randomised to the control group or treatment arm(s) by
+way of the standard built-in random number generator on the server.
+This produces a random number between zero (assignment to the
+control group) and the number of treatment arms (assignment to the
+intervention arm). Each time the application launches, the random
+number generator is initialized with a random value, which is obtained
+from the system clock.
+
+</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The analysis will be done by intention to treat analysis. Categorical outcomes will be
+expressed using counts (percentages) and compared between treatment groups
+using the chi-squared test. Continuous variables were expressed using mean
+(standard deviation) and compared between groups using an analysis of variance.
+The secondary outcome of GAD will be expressed in medians and compared
+between groups using the MannWhitney U test. The multivariate models for
+the dichotomous outcomes will be evaluated using logistic regression to calculate
+odds ratios (which will be converted to risk ratios using the formula of Zhang)
+with confidence intervals. The continuous outcomes will be analyzed using multiple
+linear regression. All multivariate models controlled for age and gender
+(and the baseline levels  for the primary outcome of PHQ 8). A two-tailed p
+value&lt;0.05 will be  considered to be significant.
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/01/2018</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>24/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>228</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/12/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Auckland </state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Greenstone Family Clinic </primarysponsorname>
+    <primarysponsoraddress>PO BOx 75447
+Manurewa 
+Auckland 2102</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal New Zealand College ofGPs Auckland Faculty Charitable Trust</fundingname>
+      <fundingaddress>785 Mt Eden Rd
+Auckland
+1024
+PO Box 56340
+Postal code 1024
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Primary purpose of this study is to assess the feasibility of recruiting patients from a primary care waiting room when evaluating the effectiveness of Focussed Acceptance and Commitment Therapy (FACT). It is also designed to have sufficient power to determine if there is a benefit from FACT at one week after the interventions. 
+
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Southern Health and Disability Ethics Committee.</ethicname>
+      <ethicaddress>Health and disability Ethics Committee
+Address: 1 The Terrace
+PO Box 5013
+Welllington 6011
+New Zealand
+
+</ethicaddress>
+      <ethicapprovaldate>5/09/2017</ethicapprovaldate>
+      <hrec>17/STH/116</hrec>
+      <ethicsubmitdate>11/02/2017</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>University of Auckland
+Private Bag 92109
+Auckland 1142
+</address>
+      <phone>+64-9-9236978</phone>
+      <fax>+64-9-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>University of Auckland
+Private Bag 92109
+Auckland 1142</address>
+      <phone>+64-9-9236978</phone>
+      <fax>+64-9-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll </name>
+      <address>University of Auckland
+Private Bag 92109
+Auckland 1142</address>
+      <phone>+64-9-9236978</phone>
+      <fax>+64-9-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Bruce Arroll</name>
+      <address>University of Auckland
+Private Bag 92109
+Auckland 1142</address>
+      <phone>+64-9-9236978</phone>
+      <fax>+64-9-3737624</fax>
+      <email>bruce.arroll@auckland.ac.nz</email>
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

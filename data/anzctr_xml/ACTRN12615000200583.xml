@@ -1,0 +1,220 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367927">
+  <stage>Registered</stage>
+  <submitdate>16/02/2015</submitdate>
+  <approvaldate>2/03/2015</approvaldate>
+  <actrnumber>ACTRN12615000200583</actrnumber>
+  <trial_identification>
+    <studytitle>Family meetings for hospitalized palliative care patients: Benefits and resource implications</studytitle>
+    <scientifictitle>For family carers of hospitalised palliative care patients, does a Structured Family Meeting shortly after admission to palliative care, compared to standard care only, improve psychological distress? </scientifictitle>
+    <utrn>U1111-1167-0972</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Psychological distress</healthcondition>
+    <healthcondition>palliative care</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Other mental health disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>A structured family meeting which is a meeting with key members of the family and key members of the health care team to discuss prognosis, plan care and address concerns of the family members. One structured family meeting will be conducted shortly following admission to palliative care (for the intervention group). The meeting will be held at the hospital and be approximately one hour in duration.</interventions>
+    <comparator>Standard treatment which includes all aspects of regular care from the palliative care team (including medical, nursing and psychosocial care) and may include some form of family meeting or discussion with the family.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Psychological Distress measured by the General Health Questionnaire</outcome>
+      <timepoint>Psychological distress 8 weeks post-bereavement</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Unmet needs as measured by the Family Inventory of Needs (FIN)</outcome>
+      <timepoint>Unmet needs 10 days after time 1 data collection (approximately two weeks after admission to palliative care)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of Life (SF-12)</outcome>
+      <timepoint>Quality of life 8 weeks post-bereavement</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Family members of hospitalised patients with advanced, non-curable disease referred to a specialist palliative care in-patient unit or palliative care consultancy service for inpatients who have been nominated by a patient as their primary support person and willing to attend a Structured Family Meeting if allocated to the intervention arm. </inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Under 18; unable to understand English; unable to provide informed consent due to cognitive impairment; or not agreeable to being considered the primary family carer. A family carer of a patient who is imminently dying (unlikely to be alive in 7 days).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Not relevant</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Other</assignment>
+    <designfeatures>There are three sites participating in this trial. For th first six months all sites will recruit participants to the control condition. At six months, two of the three sites will be randomly selected (pulling two site names out of an envelope) to be the intervention sites. All participants recruited from the two intervention sites from that point will be recruited to the intervention condition. The remaining site will continue to recruit participants to the control condition only.</designfeatures>
+    <endpoint />
+    <statisticalmethods>The primary outcome (H1) is measured via the General Health Questionnair (GHQ), a 12-item scale with a possible range of 0-36. Our previous study of 275 carers in which the mean GHQ difference was 2.8 (SD=5.6), represents a medium effect size (ES) of 0.5 which is a common estimate of a minimal important difference. The sample size calculations are based on a smaller mean difference between groups of 2.4, as some carers in the control group will have family meetings as part of standard care. Estimated sample size for two-sample comparison of means Test Ho: m1 = m2, where m1 is the mean in population 1and m2 is the mean in population 2 is 97 per group (total n=194). This calculation assumes that alpha=.05 (two sided), power=.90 (90%), m1=16.8, m2-14, sd1=6, sd2=6, n2/n1=1.00. In order to ensure a robust sample we aim to recruit 70 participants per site (total of n=210).
+
+The main analyses will be performed on pooled data across sites for the intervention and control groups, following an analyses of the baseline data to identify any differences between sites. We will undertake analyses as follows. Summary statistics will be calculated to compare the characteristics of carers in each group. Linear mixed models will be used to (1) compare patterns of change over time by testing the intervention group by time interaction and (2) estimating and testing differences in scores between groups at T2 and at T3 via linear contrasts, and accounting for the non-independent nature of the data in clusters. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>16/02/2015</anticipatedstartdate>
+    <actualstartdate>16/02/2015</actualstartdate>
+    <anticipatedenddate>19/12/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>210</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>St Vincent's Hospital (Melbourne) Ltd - Fitzroy</hospital>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Centre for Palliative Care, St Vincent's Hospital Melbourne</primarysponsorname>
+    <primarysponsoraddress>PO Box 2900,
+Fitzroy VIC 3065</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Victorian Cancer Agency</fundingname>
+      <fundingaddress>Address: 50 Lonsdale St, Melbourne
+Postal: GPO Box 4057 (Level 15)
+MELBOURNE  VIC  3001
+
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Austin Health</sponsorname>
+      <sponsoraddress>145 Studley Road
+Heidelberg VIC 3084
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Royal Melbourne Hospital</sponsorname>
+      <sponsoraddress>300 Grattan Street
+Parkville VIC 3050
+
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Family meetings are recommended as standard practice, as a way for health professionals, together with family members and patients (where able) to discuss goals of care, site of care options, psychosocial issues, and plans for the future. However, family meetings do not occur consistently and are rarely conducted according to best available evidence. This research project aims to determine whether conducting a structured family meeting on admission to palliative care improves outcomes for patients and family members. This project also aims to determine the cost and resource implications of implementing family meetings into routine care.
+This research is significant because it will provide important evidence about what is optimal care for patients receiving palliative care and their family members. Further, it will provide information on the cost and resource implications of implementing family meetings into routine care. It is hoped that clinical practice will be improved as a result of this project.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>St Vincent's Health Human Research Ethics Committee (Low Risk)</ethicname>
+      <ethicaddress>41 Victoria Parade, 
+Fitzroy VIC 3065</ethicaddress>
+      <ethicapprovaldate>15/01/2015</ethicapprovaldate>
+      <hrec>LRR 128/14</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Melbourne Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Office for Research
+Level 6 East, Central Building
+The Royal Melbourne Hospital  City Campus
+300 Grattan Street, Parkville Victoria, 3050</ethicaddress>
+      <ethicapprovaldate>19/01/2015</ethicapprovaldate>
+      <hrec>HREC 2014 208</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>145 Studley Road
+Heidelberg, VIC 3084</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>17/11/2014</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Hudson</name>
+      <address>Centre for Palliative Care
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9416 0000</phone>
+      <fax>+61 3 9416 3919</fax>
+      <email>peter.hudson@svha.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Hudson</name>
+      <address>Centre for Palliative Care
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9416 0000</phone>
+      <fax>+61 3 9416 3919</fax>
+      <email>peter.hudson@svha.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Hudson</name>
+      <address>Centre for Palliative Care
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9416 0000</phone>
+      <fax>+61 3 9416 3919</fax>
+      <email>peter.hudson@svha.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Peter Hudson</name>
+      <address>Centre for Palliative Care
+PO Box 2900
+Fitzroy VIC 3065</address>
+      <phone>+61 3 9416 0000</phone>
+      <fax>+61 3 9416 3919</fax>
+      <email>peter.hudson@svha.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

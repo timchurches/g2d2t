@@ -1,0 +1,215 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370744">
+  <stage>Registered</stage>
+  <submitdate>14/06/2016</submitdate>
+  <approvaldate>29/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000850471</actrnumber>
+  <trial_identification>
+    <studytitle>Atrial fibrillation screening with smartphone ECG: implementation in a primary care setting </studytitle>
+    <scientifictitle>Identifying atrial fibrillation (AF) in patients aged 65 years and over by opportunistic screening during the annual influenza vaccination and chronic care assessments using a smartphone electrocardiogram</scientifictitle>
+    <utrn />
+    <trialacronym>AF SMART</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Atrial Fibrillation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Ten general practices will participate in the intervention-based study. Nurses at these practices will attend a one hour training session with a researcher. The session will feature a brief presentation on atrial fibrillation (AF), study protocol, and the use of an approved handheld iECG device (Kardia Mobile, ARTG Identifier 234417) and two accompanying mobile applications (Kardia and AliveCare). 
+
+The Kardia device is a portable iECG monitor that attaches to smartphones. It enables a single lead iECG to be taken using the Kardia application on the smartphone after a patient places two fingers on the electrodes. Practice nurses will use the ECG device to screen for AF during the period of observation of the patient after the administration of the annual flu shot or during chronic care assessments in general practice. Chronic care assessments in general practice is usually over 30 minutes which allows more time for AF screening. They include annual Diabetes Cycle of Care and health assessment for people aged 75 years and older which are funded under the current Medicare Scheme.  During screening, the patient will be asked to hold the smartphone ECG for a minimum of thirty seconds to record their heart rhythm. The Kardia application immediately analyses the ECG rhythm for the presence of AF using a validated algorithm, and provides an immediate provisional diagnosis on the smartphone. 
+
+The ECG recordings and provisional diagnoses are directly imported into the general practices local server. Staff can download them as PDFs to attach to patient files in the clinical management system. These results are also saved simultaneously through Wi-Fi connection to the AliveCor and AliveCare websites for secure online viewing. Secure access is granted to the researchers and practice staff directly involved in patient care. Data presented to the researchers are all de-identified. 
+
+For this study the practice nurses will facilitate a general practitioner review for all patients with a provisional diagnosis of AF, if they have no previous known history of this condition. Review of known AF patients current management plan is also recommended particularly if they are not being treated by anti-coagulants. The general practitioner will determine subsequent management strategy for both new and known AF patients using an electronic decision-support system (EDS) called HealthTracker-CVD. This system is developed by the George Institute in collaboration with Sydney University. It sits within the practice software (Medical Director or Best Practice) to provide healthcare staff with evidence-based guidelines for optimal therapeutic management of AF. 
+
+The screening intervention will commence in late 2016 and run for the entire 2017 flu vaccination as well as chronic care assessments within that period. Following completion of the intervention, semi-structured interviews will be conducted with the participating nurses, practice managers, and a selection of general practitioners from each practice to identify barriers and enablers of workflow as well as the usefulness of EDS
+</interventions>
+    <comparator>Nil</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Implementation success through process measures including proportion of eligible patients screened, fidelity to the protocol, and time taken to complete the intervention. Proportion of eligible patients screened will be calculated based on the number of patients screened for AF in proportion to the total number of patients eligible for annual flu shot and chronic care assessments in each participating GP clinic. Fidelity to protocol and time taken to complete the intervention will be assessed using semi-structured interviews with practice nurses, practice managers and selected general practitioners from participating clinics. 
+</outcome>
+      <timepoint>Completion of the screening intervention.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cost effectiveness analysis (i.e. incremental cost-effectiveness ratio of screening per quality adjusted life year gained, and per stroke avoided using an adaptation of the basic economic model for AF screening developed and utilised in the SEARCH-AF study) 
+
+SEARCH-AF study:
+Lowres, N., Neubeck, L., Salkeld, G., Krass, I., McLachlan, A. J., Redfern, J., ... &amp; Wallenhorst, C. (2014). Feasibility and cost-effectiveness of stroke prevention through community screening for atrial fibrillation using iPhone ECG in pharmacies. The SEARCH-AF study. Thromb Haemost, 111(6), 1167-76.
+</outcome>
+      <timepoint>Completion of the screening intervention.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>The proportion of people screened identified with actionable AF. This will be assessed by reviewing Kardia iECG results. The percentage of people identified with actionable AF will be calculated based on their number in proportion to the total number of people screened.  </outcome>
+      <timepoint>Completion of the screening intervention.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To identify the competing demands, barriers, enablers and assess the level of acceptability according to staff involved in the intervention. AF screening during flu vaccination, chronic care assessment, and random GP referral will be compared to find out the most effective mode of delivery. This will be assessed as part of the process evaluation. 
+
+This composite outcome will be assessed using semi-structured interviews with practice nurses, practice managers, and selected general practitioners from each participating clinic. </outcome>
+      <timepoint>Completion of the screening intervention.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients aged 65 years and over who are attending the general practice for flu vaccination and/or chronic care assessments.</inclusivecriteria>
+    <inclusiveminage>65</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Insufficient cognitive capacity to understand the consent process.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment>Allocation is not concealed.</concealment>
+    <sequence>Not applicable</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/08/2016</anticipatedstartdate>
+    <actualstartdate>15/11/2016</actualstartdate>
+    <anticipatedenddate>31/08/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>4000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Sydney</primarysponsorname>
+    <primarysponsoraddress>City Road, Darlington NSW 2008</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Heart Foundation Australia </fundingname>
+      <fundingaddress>Unit 1, Level 1, 17-23 Townshend Street, Phillip ACT 2606</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>Not applicable</sponsorname>
+      <sponsoraddress>Not applicable</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other</othercollaboratortype>
+      <othercollaboratorname>The George Institute for Global Health</othercollaboratorname>
+      <othercollaboratoraddress>Level 10, King George V Building, Royal Prince Alfred Hospital, Missenden Rd
+Camperdown NSW 2050 </othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Atrial fibrillation (AF) is the most common heart arrhythmia, affecting 1 in 4 adults worldwide, and at least 240,000 Australians. Prevalence rises with age from approximately 1% of the whole population to 5% in those over 65 years. People with AF are up to seven times more likely to have a stroke than the general population. Almost one in every three strokes is AF-related, and AF-related strokes are likely to be more severe, with a whole of life cost of each stroke estimated at $103,566. However, strokes in AF can be effectively prevented using oral anticoagulants. Unfortunately in Australia oral anticoagulant prescription is only about 60% even in those patients with known AF who are therefore at high risk for stroke. This gap has been difficult to close despite having therapeutic management guidelines.
+
+Many people in the general population are unaware that they have AF, with first diagnosis being made when they are admitted to hospital with a stroke or transient ischaemic attack. The diagnosis of unknown AF can be easily made using a 30 second ECG rhythm strip obtained with a TGA approved smartphone ECG (iECG). Using this device, unknown AF can be identified and treated, thus reducing the number of strokes due to AF. We have previously shown that community screening for AF to prevent stroke is likely to be cost-effective, but the magnitude of the benefit in terms of numbers of strokes prevented, is determined by the proportion of the population screened. 
+
+This study therefore explores screening for AF in primary care, by performing iECG screening during annual influenza vaccination currently administered to over 70% of patients aged 65 or over in general practice. Screening will also take place during annual chronic care assessments such as Diabetes Cycle of Care and Health Assessment for People Aged 75 and Older. This opportunistic method of screening, through its reach, could approximate systematic population screening for AF. Screening will be performed in 10 practices across NSW to gauge and efficacy and cost effectiveness of community-based AF screening. In addition to the handheld iECG device, this study will also implement the electronic decision support software called HealthTracker-CVD. A special AF module has been designed as part of this software to automatically calculate the stroke risk score for patients with AF, and provide individualised advice on evidence-based management of AF. An automated tool such as this available to both general practitioners and practice nurses is ideal to facilitate closing the gap in oral anticoagulant prescription for stroke prevention in patients with diagnosed AF.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>University of Sydney Human Research Ethics committee</ethicname>
+      <ethicaddress>University of Sydney
+City Road Darlington NSW 2008</ethicaddress>
+      <ethicapprovaldate>16/12/2014</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Nicole Lowres</name>
+      <address>Level 2, Building  D17 Charles Perkins Centre
+The University of Sydney 
+NSW 
+2006      </address>
+      <phone>+61 2 8627 5940</phone>
+      <fax />
+      <email>nicole.lowres@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jessica Orchard</name>
+      <address>Level 2, Building  D17 Charles Perkins Centre
+The University of Sydney 
+NSW 
+2006      </address>
+      <phone>+61 2 8627 1644 </phone>
+      <fax />
+      <email>jessica.orchard@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Ben Freedman</name>
+      <address>Level 3, Building  D17 Charles Perkins Centre
+The University of Sydney 
+NSW 
+2006      </address>
+      <phone>+61 411 591 633</phone>
+      <fax />
+      <email>ben.freedman@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Miss</title>
+      <name>Jialin Li</name>
+      <address>Level 2, Building  D17 Charles Perkins Centre
+The University of Sydney 
+NSW 
+2006  </address>
+      <phone>+61 2 86275036 </phone>
+      <fax />
+      <email>jialin.li@sydney.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

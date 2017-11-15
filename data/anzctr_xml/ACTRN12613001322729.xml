@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365379">
+  <stage>Registered</stage>
+  <submitdate>27/11/2013</submitdate>
+  <approvaldate>28/11/2013</approvaldate>
+  <actrnumber>ACTRN12613001322729</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluation of the introduction of conservative oxygen therapy compared to normal oxygen therapy practice in patients undergoing cardiac surgery: A before and after audit</studytitle>
+    <scientifictitle>Evaluation of a change in PaO2/FiO2 ratio following the introduction of conservative oxygen therapy compared to normal oxygen therapy practice in patients undergoing cardiac surgery: A before and after audit</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Patients undergoing cardiac surgery</healthcondition>
+    <healthcondition>Peri-operative change in oxygen therapy management</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Conservative oxygen therapy involves the deliberate manipulation of fraction of inspired oxygen (FiO2) concentration to achieve normal blood oxygen saturations (pulse oximetry derived oxygen saturation 94-98%) during mechanical ventilation with an endotracheal tube.  Data will be extracted from the medical records of 100 consecutive cardiac surigcal patients commencing in December 2013.</interventions>
+    <comparator>Patient in the before period will have recieved oxygen therapy to target oxygen saturations prior to, during and after surgery as determined by their treating clinicians.  Data will be extracted from the medical records of 100 consecutive cardiac surigcal patients prior to November 2013.</comparator>
+    <control>Historical</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in PaO2/FIO2 ratio.</outcome>
+      <timepoint>Assessment of arterial blood gas data obtained prior to, during and while the patient is mechanically ventiled in the intensive care unit following their cardiac surgical procedure.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood lactate levels</outcome>
+      <timepoint>At baseline (prior to surgery) to highest value for 7 days after cardiac surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in blood creatinine</outcome>
+      <timepoint>At baseline (prior to surgery) to highest value for 7 days after cardiac surgery</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>New non-respiratory organ failure</outcome>
+      <timepoint>While in ICU and defined as Sequential Organ Failure Assessment (SOFA) score  of at least 3 for any of the cardiovascular, renal, hepatic, or hematological systems after day 2 in patients who did not have such organ failure at day 1 for up to 7 days while in the intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Arrhythmia</outcome>
+      <timepoint>At baseline (prior to surgery) to discharge from the intensive care unit as determined by ECG monitoring and documentation of cardiac rhythm type on the patient's observation charts.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Infection</outcome>
+      <timepoint>Defined as a positive bacterial culture in sputum, urine or blood from samples collected between baseline (prior to surgery) to discharge from the intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>severe hypoxaemia</outcome>
+      <timepoint>Defined as an arterial oxygen concentration less than 55 mmHg from baseline (prior to surgery) to discharge from the intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>acquired renal replacement therapy</outcome>
+      <timepoint>Defined as the commencement of renal replacement therapy 24 hours after enrolment and discharge from the intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>anti-delirium drug use</outcome>
+      <timepoint>Defined as the use of Haloperidol, Olanzapine, Quetiapine and Dexmedetomidine from baseline (prior to surgery) to discharge from the intensive care unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Red blood cell tranfusion</outcome>
+      <timepoint>From  baseline (prior to surgery) to discharge from the intensive unit</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intensive care unit free days</outcome>
+      <timepoint>From baseline to day 28</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Hospital free days</outcome>
+      <timepoint>From baseline to day 28</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mortality</outcome>
+      <timepoint>At day 28 from baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Cardiac surgery</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>- pregnancy
+- less than 18 years of age
+- receiving extra-corporeal membrane oxygenation (ECMO)
+- death expected within 24 hours</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Variables will be assessed for normality and log-transformed if appropriate.  Baseline comparisons will be performed using Fishers exact tests and reported as n (%). Continuous normally distributed variables will be compared using Student t-tests and reported as means (standard deviation), while non-normally distributed data will be compared using Wilcoxon rank-sum tests and reported as medians [interquartile range]. Changes over time will be determined using repeated measures mixed linear modeling with each patient treated as a random effect, and therapy group, time and the interaction of therapy group and time as effect fixed effects.  All analysis will be performed by using SPSS version 19.0 (SPSS Inc, Chicago, IL, USA). To account for multiple comparisons and further reduce the chance of a type I error, a two-sided p value of 0.01 was used to indicate statistical significance.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Convenience sample</selection>
+    <timing>Both</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/12/2013</anticipatedstartdate>
+    <actualstartdate>27/03/2015</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>27/04/2015</actualenddate>
+    <samplesize>200</samplesize>
+    <actualsamplesize>546</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>18/09/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <postcode>3084 - Heidelberg</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Austin Health</primarysponsorname>
+    <primarysponsoraddress>Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Anaesthesia Intensive Care Trust Fund, Austin Hospital</fundingname>
+      <fundingaddress>c/o Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Cardiac surgical patients routinely receive supplemental oxygen immediately prior to, during and immediately following their cardiac surgical procedure.  A major goal of anaesthetic care of the cardiac surgical patient is the maintenance of haemodynamic stability as well as the preservation of myocardial and systemic tissue oxygenation.  Often cardiac surgical patients will receive supplemental oxygen and have supra-normal concentration of oxygen as a buffer of safety (Ihnken et al., 1998).  However, cardiac surgical patients are particular susceptible to lung and myocardial injury attributable to hyperoxic states.  Reactive oxygen species (ROS) are well known for their role in myocardial injury.  ROS are free radicals (unpaired electrons) involved with oxidation-reduction reactions with other molecules.   During cardiac surgery the formation of oxygen free radicals is accelerated from tissue injury and the use of cardiopulmonary bypass.  Clinical studies have demonstrated apoptosis and deoxyribonucleic acid (DNA) fragmentation occurring after ischemia-reperfusion injury.  In addition, prolonged high oxygen concentrations have been shown to decrease myocardial contractility and a decrease in heart rate which results in impaired cardiac function and may delay recovery (Joachimsson et al, 1996; Ihnken et al, 1998).
+
+The aim of this study is to evaluate the impact of a peri-operative change in oxygen therapy management for cardiac surgical patients based on emerging evidence.
+
+The change involved the adoption of a conservative oxygen therapy approach to oxygen therapy management during the perio-operative period.  Conservatiive oxygen therapy is  involves the deliberate manipulation of fraction of inspired oxygen (FiO2) concentration to achieve normal blood oxygen saturations.
+
+We plan to inlcude 100 cardiac surgical patients in the before period and 100 cardiac surgical patients in the after period.</summary>
+    <trialwebsite />
+    <publication>Publication: Suzuki S, Eastwood GM, Glassford NJ, Peck L, Young H, Garcia-Alvarez M, Schneider AG, Bellomo R. Conservative Oxygen Therapy In Mechanically Ventilated Pateints: A Pilot Before-and-After Trial. Crit Care Med. 2014 June;42(6):1414-22.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>c/o Office for Research
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>27/08/2013</ethicapprovaldate>
+      <hrec>HREC/13/Austin/100</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/365379-Satoshi et al_Conservative oxygen therapy in MC patients_a pilot before-after trial_CCM_2014_epub.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 5992</phone>
+      <fax>+61 3 9496 3932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Glenn Eastwood</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 4835</phone>
+      <fax>+ 61 3 9496 3932</fax>
+      <email>glenn.eastwood@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Rinaldo Bellomo</name>
+      <address>Department of Intensive Care
+Austin Hospital
+145 Studley Road
+Heidelberg VIC 3084</address>
+      <phone>+ 61 3 9496 5992</phone>
+      <fax>+61 3 9496 3932</fax>
+      <email>rinaldo.bellomo@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Glenn Eastwood</name>
+      <address>Department of Intensive Care
+Austin Hospital
+Heidelberg VIC 3084</address>
+      <phone>+61 3 9496 4835</phone>
+      <fax>+61 3 9496 5992</fax>
+      <email>glenn.eastwood@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

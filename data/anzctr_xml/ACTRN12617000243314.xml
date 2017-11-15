@@ -1,0 +1,218 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372355">
+  <stage>Registered</stage>
+  <submitdate>16/02/2017</submitdate>
+  <approvaldate>17/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000243314</actrnumber>
+  <trial_identification>
+    <studytitle>Gastrointestinal mechanisms underlying glucose lowering by metformin in type 2 diabetes</studytitle>
+    <scientifictitle>The glycaemic and hormonal effects of metformin when administered to the distal vs proximal small intestine in type 2 diabetes</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type 2 diabetes mellitus</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Following a screening visit, each subject will be studied on 3 occasions, separated by at least 7 days, in a double-blinded randomised order.  On each study day, a customised multilumen silicone catheter will be inserted nasally into the gastrointestinal (GI) tract. Passage to the desired small intestinal depth will be confirmed by continuous measurement of the transmucosal potential difference between proximal and distal channels along with the use of a reference electrode inserted subcutaneously into the left forearm. Once correctly positioned, one of three treatments will be administered: 0.9% saline (control), proximal metformin 1000 mg (10cm beyond pylorus), or distal metformin 1000 mg (190cm beyond pylorus) over 5 min, followed 60 min later by an oral glucose drink (containing 50 g glucose). The catheter will be removed 10 minutes prior to an oral glucose load. </interventions>
+    <comparator>50mL 0.9% saline infusions into the proximal and distal small intestine during one of the 3 study visits. </comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma glucose between the 3 treatments. </outcome>
+      <timepoint>at t = -60, -45, -30, -15, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma GLP-1 between the 3 treatments. </outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>differences in the gastric half-emptying time (T50) derived from 13CO2 concentrations in the breath samples between the 3 treatments. </outcome>
+      <timepoint>breath samples collected immediately before (t=0) and every 5 min after oral glucose in the first hour and every 15 min for a further 2 hours.   t = 0 is when oral glucose is given.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma insulin</outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma glucagon between the 3 treatments </outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma 3OMG between the 3 treatments.</outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma lactate between the 3 treatments.</outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for plasma metformin between the 3 treatments.</outcome>
+      <timepoint>at t = -60, -30, 0, 15, 30, 45, 60, 90, 120, 150 and 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for blood pressure between the 3 treatments</outcome>
+      <timepoint>every 5 minutes during the study period from t = -60 to 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>differences in the incremental area under the curve (iAUC) for heart rate between the 3 treatments.</outcome>
+      <timepoint>every 5 minutes during the study period from t = -60 to 180 min where t = -60 is when the intraluminal catheter is correctly positioned and t = 0 is when oral glucose given.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Type 2 diabetes (World Health Organisation (WHO) criteria), managed by diet only
+Body mass index (BMI) 20 - 40 kg/m2
+Males and post-menopausal females
+Glycated haemoglobin (HbA1c) less than 8.5%
+Haemoglobin above the lower limit of the normal range (ie. greater than 135g/L for men and 115g/L for women), and ferritin above the lower limit of normal (ie. greater than 30ng/mL for men and greater than 20mg/mL for women)
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>75</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Use of any medication that may influence gastrointestinal motor function within 48 hours or 5 half-lives of the study, specifically: opiates, anticholinergics, levodopa, clonidine, nitrates, phosphodiesterase type 5 inhibitors, sumatriptan, metoclopramide, domperidone, cisapride, tegaserod, or erythromycin
+Evidence of drug abuse, or consumption of more than 20 g alcohol or 10 cigarettes on a daily basis
+History of gastrointestinal disease, including significant upper or lower gastrointestinal symptoms, pancreatitis, or previous gastrointestinal surgery (other than uncomplicated appendicectomy or cholecystectomy)
+Other significant illness, including epilepsy, cardiovascular or respiratory disease
+Impaired renal or liver function (as assessed by calculated creatinine clearance less than 90 mL/min or abnormal liver function tests (greater than 2 times upper limit of normal range))
+Donation of blood within the previous 3 months
+Participation in any other research studies within the previous 3 months
+Females who are pre-menopausal 
+Inability to give informed consent
+Participants who do not eat beef
+Vegetarian diet
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Crossover</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>False</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>21/02/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>12</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <postcode>5000 - Adelaide</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Adelaide</primarysponsorname>
+    <primarysponsoraddress>Level 6, Eleanor Harrald Building
+Frome Road
+Royal Adelaide Hospital
+Adelaide SA 5000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Diabetes Australia</fundingname>
+      <fundingaddress>Level 1, 101 Northbourne Ave, Turner ACT 2612 Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Emerging evidence suggests that the anti-diabetic action of metformin resides primarily in the gut. Metformin has been shown to increase plasma concentrations of GLP-1 which are released from enteroendocrine L-cells located in the ileum and colon. GLP-1 has the capacity to restore blood glucose homeostasis in type 2 diabetes via pleiotropic actions including stimulation of insulin secretion and suppression of glucagon in a glucose-dependent manner, slowing of gastric emptying, and inhibition of hepatic glucose production and energy intake. Hence, the region of the gut exposed to metformin may be an important determinant of the lowering of blood glucose in type 2 diabetes.  In this trial, we wish to investigate whether administration of metformin into the 'distal small intestine' (190cm beyond the pylorus) results in a lower glycaemic response to oral glucose when compared with administration into the 'proximal small intestine' (10cm beyond the pylorus) and evaluate the associated changes in plasma GLP-1, insulin, glucagon, 3OMG, lactate and metformin and rate of gastric emptying in patients with type 2 diabetes.  There is increasing evidence that the incretin system has important cardiovascular effects and hence, we also wish to assess the changes in blood pressure and heart rate, in response to oral glucose, in the presence and absence of "proximal" or  "distal" metformin. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Royal Adelaide Hospital Human Research Ethics Committee</ethicname>
+      <ethicaddress>Level 4, Women's Health Centre, 
+Royal Adelaide Hospital, 
+North Terrace, Adelaide, SA 5000</ethicaddress>
+      <ethicapprovaldate>23/12/2016</ethicapprovaldate>
+      <hrec>R20161132</hrec>
+      <ethicsubmitdate>24/11/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Tongzhi Wu</name>
+      <address>Discipline of Medicine, Royal Adelaide Hospital, Level 6, Eleanor Harrald Building, Frome Road, Adelaide, SA 5000</address>
+      <phone>+61 8 8222 5038</phone>
+      <fax />
+      <email>tongzhi.wu@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tongzhi Wu</name>
+      <address>Discipline of Medicine, Royal Adelaide Hospital, Level 6, Eleanor Harrald Building, Frome Road, Adelaide, SA 5000</address>
+      <phone>+61 8 8222 5038</phone>
+      <fax />
+      <email>tongzhi.wu@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Tongzhi Wu</name>
+      <address>Discipline of Medicine, Royal Adelaide Hospital, Level 6, Eleanor Harrald Building, Frome Road, Adelaide, SA 5000</address>
+      <phone>+61 8 8222 5038</phone>
+      <fax />
+      <email>tongzhi.wu@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

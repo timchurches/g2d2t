@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336771">
+  <stage>Registered</stage>
+  <submitdate>6/04/2011</submitdate>
+  <approvaldate>7/04/2011</approvaldate>
+  <actrnumber>ACTRN12611000361909</actrnumber>
+  <trial_identification>
+    <studytitle>Does the anaesthetic drug propofol affect the blood levels of the endogenous cannabis-like substance anandamide?</studytitle>
+    <scientifictitle>Effect of propofol on the peri-operative plasma level of the endogenous cannabinoid anandamide in patients undergoing minor elective surgery</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>peri-operative Anandamide Plasma Levels</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Anaesthetics</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Maintenance of anaesthesia with intravenous propofol (target controlled infusion as clinically required: 4-6 mcg/ml)/fentanyl (as clinically required)</interventions>
+    <comparator>Induction of anaesthesia with intravenous Thiopentone (3-5 mg/kg) and maintenance with sevoflurane (0.8-1.2 MAC)/fentanyl (as clinically required)</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Anandamide Plasma levels</outcome>
+      <timepoint>T0: Baseline (pre-operatively)
+T1: 15 minutes after induction of anaesthesia
+T2: 5 minutes after cessation of sevoflurane or propofol
+T3: 25 minutes after T2
+T4: 55 minutes after T2</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>nil</outcome>
+      <timepoint>nil</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>patients scheduled for minor non-emergency surgery</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Age &lt; 18 yrs and &gt; 65 yrs, ASA physical status &gt; 2 (= significant comorbidity), history of chronic pain, a contraindication for any of the used drugs, and the incapacity to consent.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Diagnosis</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients are randomised into one of two groups: Propofol or Sevo. This is done via opening a sealed envelope directly prior to surgery.</concealment>
+    <sequence>30 sealed envelopes containing information about the group allocation (either PROP or SEVO, n=15 each). 
+Envelopes randomly mixed after sealing and numbered from 1-30
+Envelopes drwan for randomisation in order of patients consented (e.g. patient 1 = envelope 1).
+Seal broken directly prior to surgery.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>10/03/2011</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Thomas Ledowski</primarysponsorname>
+    <primarysponsoraddress>Royal Perth Hospital
+Dept. of Anaesthesia
+Wellington Street
+Perth WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof. Kevin Croft</othercollaboratorname>
+      <othercollaboratoraddress>Level 4 RPH MRF Building
+Rear 50 Murray Street
+Perth WA 6000</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof. Trevor Mori</othercollaboratorname>
+      <othercollaboratoraddress>Level 4 RPH MRF Building
+Rear 50 Murray Street
+Perth WA 6000</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Prof. Anne Barden</othercollaboratorname>
+      <othercollaboratoraddress>Level 4 RPH MRF Building
+Rear 50 Murray Street
+Perth WA 6000</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Anandamide is a body-own (endogenous) cannabis-like substance that is significantly involved in our response to stress, but also affects mood and has anti-nausea effects.
+In the proposed project we will investigate the effect of the drugs propofol and sevoflurane (two of the most commonly used anaesthetic agents) on the blood concentration of the cannabis-like substance anandamide in 30 patients having an operation at Royal Perth Hospital.
+In this trial, patients (15 each) will either receive an anaesthetic with propofol or with sevoflurane and we will measure the blood levels of anandamide by drawing blood (2x5ml) from a venous cannula anyway used to give the anaesthetic at 5 time points.
+Results of this project will help us to understand significant positive side effects of propofol, such as its anti-nausea properties.</summary>
+    <trialwebsite>nil</trialwebsite>
+    <publication>not yet published</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>EC of the Royal Perth Hospital</ethicname>
+      <ethicaddress>Colonial House
+Royal Perth Hospital
+Wellington Street
+Perth WA 6000</ethicaddress>
+      <ethicapprovaldate>14/02/2011</ethicapprovaldate>
+      <hrec>EC 2010/096</hrec>
+      <ethicsubmitdate>1/10/2010</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Thomas Ledowski</name>
+      <address>Royal Perth Hospital
+Dept. of Anaesthesia
+Wellington Street
+Perth WA 6000</address>
+      <phone>0061 8 9224 1037</phone>
+      <fax />
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Thomas Ledowski</name>
+      <address>Royal Perth Hospital
+Dept. of Anaesthesia
+Wellington Street
+Perth WA 6000</address>
+      <phone>0061 8 9224 1037</phone>
+      <fax>0061 8 9224 1111</fax>
+      <email>thomas.ledowski@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,242 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="367159">
+  <stage>Registered</stage>
+  <submitdate>25/09/2014</submitdate>
+  <approvaldate>16/10/2014</approvaldate>
+  <actrnumber>ACTRN12614001096640</actrnumber>
+  <trial_identification>
+    <studytitle>Self Reported Health Outcomes over 12 months of Patients Undergoing Coronary Angiography for the Evaluation of Chest Pain in South Australia - Coronary Angiogram Database of South Australia (CADOSA) Outcomes Study</studytitle>
+    <scientifictitle>Coronary Angiogram Database of South Australia (CADOSA) Outcomes Study - Health Outcomes Follow-up of Patients Undergoing Coronary Angiography for the Evaluation of Chest Pain</scientifictitle>
+    <utrn />
+    <trialacronym>CADOSA-Outcomes</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Coronary artery disease</healthcondition>
+    <healthcondition>Quality of life</healthcondition>
+    <healthcondition>Depression</healthcondition>
+    <healthcondition>Coronary angiography</healthcondition>
+    <healthcondition>Chest pain</healthcondition>
+    <healthcondition>Percutaneous coronary intervention</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The Coronary Angiogram Database of South Australia (CADOSA) is a registry of cardiac catheterisation procedures performed in the four public tertiary hospitals of South Australia (SA). This will be referred to the CADOSA-Quality Assurance (or CADOSA-QA) registry and is distinguished from the research protocol referred to as the CADOSA Outcomes study (CADOSA-Outcomes). The CADOSA-QA registry collects a standardised 8-page case report form (CRF) for all public coronary angiograms and percutaneous coronary interventions (PCI) performed in the SA. The CRF is compatible with the American College of Cardiology National Cardiovascular Data Registry. The purpose of this registry is a quality assurance measure to monitor the patients and the in-hospital care they receive undergoing angiography/PCI. This registry will also evaluate future cardiac events (30-day &amp; 12-month all-cause mortality/myocardial infarction/cardiac re-admission) by analysis of administrative datasets. 
+
+The CADOSA-Outcomes Study will compliment the CADOSA-QA Registry by obtaining 12-month health outcomes in a subpopulation of the CADOSA cohort. Patients participating in this study will be provided with a patient information sheet during their admission for the procedure and consented for follow-up contact. Consenting patients will complete a health status assessment via administration of quality of life questionnaires (QoL) in hospital. Patients will then be contacted via phone by the study staff  at 1 and 12 months following angiography. The will be asked several questions relating to their cardiac status and medications changes, as well as being asked several quality of life questionnaires over the phone. The QoL questionnaires will include: Seattle Angina Questionnaire (SAQ), EuroQol 5D (EQ-5D), Patient Health Questionnaire 9 (PHQ-9) and Short Form-36 (SF-36).</interventions>
+    <comparator>There is no comparator/control treatment in this study</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Self reported angina status assessed by the Seattle Angina Questionnaire </outcome>
+      <timepoint>12 months post coronary angiography procedure </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Self reported qualify of life assessed by the Short Form-36 and EuorQol-5D</outcome>
+      <timepoint>12 months post coronary angiography procedure </timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Self reported depression status assessed by the Patient Health Questionnaire 9. </outcome>
+      <timepoint>12 months post coronary angiography procedure </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Frequency of MACE (major adverse cardiac events) assessed by review of hospital administrative databases. </outcome>
+      <timepoint>12 months post coronary angiography procedure </timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Undergoing coronary angiography/PCI at a South Australian Teaching hospital for the investigation of chest pain
+AND
+Able to complete quality of life questionnaires in English
+AND
+Able to be followed up for 12 months post procedure</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to complete QoL questionnaires in English
+Unable to be followed up for 12 months post procedure
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Clinical characteristics and health status outcomes will be reported as general descriptive statistics. Categorical variables will be presented as frequency values and proportions and continuous variables with a normal distribution are presented as mean/SD and median/IQR for non-parametric data. The cumulative incidence of mortality will be presented by Kaplan-Meier event curves for the different years and cohorts. Cox regression analyses will be performed to adjust for covariates. The adjusted hazard ratio (HR) will be reported together with the corresponding 95% CI. In regards to sample size determination, this was based on Seattle Angina Questionnaire (SAQ) scores. The treatment satisfaction scale of the SAQ has the smallest difference over time. Mean treatment satisfaction scores are 77.1 +- 10 in coronary heart disease populations. In order to detect a 1-point change in scores over 12months, with repeated measures analyses, at a power of 90% and statistical significance of 5%, 1051 patients would be required. To allow for a 10% patients dropout, recruitment targets will aim for 1,200 patients. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>12</followup>
+    <followuptype>Months</followuptype>
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/12/2011</anticipatedstartdate>
+    <actualstartdate>6/01/2012</actualstartdate>
+    <anticipatedenddate>31/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1200</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>SA</recruitmentstate>
+    <hospital>The Queen Elizabeth Hospital - Woodville</hospital>
+    <hospital>The Royal Adelaide Hospital - Adelaide</hospital>
+    <hospital>Lyell McEwin Hospital - Elizabeth Vale</hospital>
+    <hospital>Flinders Medical Centre - Bedford Park</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Prof John Beltrame</primarysponsorname>
+    <primarysponsoraddress>The University of Adelaide
+Discipline of Medicine
+The Queen Elizabeth Hospital 
+28 Woodville Road 
+Woodville South
+South Australia 5011</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>The South Australian Cardiovascular Research Development Program</fundingname>
+      <fundingaddress>Heart Foundation
+SA Division
+155-159 Hutt Street
+Adelaide 
+South Australia 5000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The Coronary Angiogram Database of South Australia (CADOSA) Outcomes Study was established in 2011 to evaluate self-reported health outcomes of patients undergoing coronary angiography for the evaluation of chest pain. 
+The CADOSA Outcomes study assesses baseline,
+1 and 12 month health status which includes symptomatic status, physical impairment from their condition, quality of life, and depression) in patients who agree to participate in a 12 month follow-up assessment. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>HUMAN RESEARCH ETHICS COMMITTEE (TQEH/LMH/MH)</ethicname>
+      <ethicaddress>The Queen Elizabeth Hospital
+28 Woodville Road
+Woodville South SA 5011</ethicaddress>
+      <ethicapprovaldate>18/04/2011</ethicapprovaldate>
+      <hrec>2011012</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Royal Adelaide Hospital Research Ethics Committee</ethicname>
+      <ethicaddress>North Terrace
+Adelaide SA 5000</ethicaddress>
+      <ethicapprovaldate>17/08/2011</ethicapprovaldate>
+      <hrec>110816</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Southern Adelaide Clinical Research Ethics Committee</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate>1/06/2011</ethicapprovaldate>
+      <hrec>232.11</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>John Beltrame</name>
+      <address>The University of Adelaide
+Discipline of Medicine
+The Queen Elizabeth Hospital
+28 Woodville Road 
+Woodville South
+South Australia 5011</address>
+      <phone>+61 8 8222 6740</phone>
+      <fax />
+      <email>john.beltrame@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rosanna Tavella</name>
+      <address>The University of Adelaide
+Discipline of Medicine
+The Queen Elizabeth Hospital
+28 Woodville Road 
+Woodville South
+South Australia 5011</address>
+      <phone>+61 8 81334016</phone>
+      <fax />
+      <email>rosanna.tavella@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rosanna Tavella</name>
+      <address>The University of Adelaide
+Discipline of Medicine
+The Queen Elizabeth Hospital
+28 Woodville Road 
+Woodville South
+South Australia 5011</address>
+      <phone>+61 8 81334016</phone>
+      <fax />
+      <email>rosanna.tavella@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Rosanna Tavella</name>
+      <address>The University of Adelaide
+Discipline of Medicine
+The Queen Elizabeth Hospital
+28 Woodville Road 
+Woodville South
+South Australia 5011</address>
+      <phone>+61 8 81334016</phone>
+      <fax />
+      <email>rosanna.tavella@adelaide.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

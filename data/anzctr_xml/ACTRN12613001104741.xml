@@ -1,0 +1,315 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="365053">
+  <stage>Registered</stage>
+  <submitdate>26/09/2013</submitdate>
+  <approvaldate>2/10/2013</approvaldate>
+  <actrnumber>ACTRN12613001104741</actrnumber>
+  <trial_identification>
+    <studytitle>Home-based human papillomavirus (HPV) self-sampling for improving participation in cervical screening</studytitle>
+    <scientifictitle>Randomized controlled trial of home-based HPV self-sampling for improving participation in cervical screening by never and under screened women, when compared to reminder letters to attend for a Pap test</scientifictitle>
+    <utrn>U1111-1148-3885</utrn>
+    <trialacronym>iPAP</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cervical cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Cervical (cervix)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Other public health</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>a)A pre-invitation letter will be sent out first. This letter will inform women that a kit will be sent and explaining the purpose of the kit.
+b)Women will receive the kit within three weeks of mailout of the pre-invitation letter. The kit includes:
+a.Invitation letter
+b.Information brochure on HPV and cervical cancer
+c.HPV self-sampling kit: includes a cotton tipped swab enclosed in a plastic tube within a ziplock bag
+d.Instruction sheet (written and pictorial) for collection and mailing of the sample
+e.Pathology information form: asks for minimal information relevant to screening history, routinely collection information by the Registry, including womens country of birth, information on indigenous status and hysterectomy status. We are also collecting specifically for the purposes of this study pregnancy status and her GPs contact details if she wishes to provide them
+f.Reply paid envelope for return of the swab with the pathology information form 
+
+The participants will be instructed (instruction sheet) to post their samples with the completed information form as soon as possible, preferably within 24 hours of collection. 
+</interventions>
+    <comparator>Reminder letter to attend for a Pap test (standard practice in Victoria)</comparator>
+    <control>Active</control>
+    <interventioncode>Early detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of women who participate, by returning the self-sampling kit to the Victorian Cytology Services Laboratory for women in the intervention arm, and notification of a Pap test result to the Victorian Pap test Registry for women allocated to the reminder letter arm</outcome>
+      <timepoint>3 months after mailout of the last batch of self-sampling kits. We will also be looking at participations at 6 months of mailout of the last batch of self-sampling kits given that these are never and underscreened women</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine proportion of women who have a positive screening test who undergo appropriate further investigation using the Victorian Pap test Registry</outcome>
+      <timepoint>6 months and 12 months after the mailout of the test positive letter</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>To determine womens experience with self-sampling including reasons for not returning a complete kit using the survey questionnaire</outcome>
+      <timepoint>3 months after the mailout of the survey questionnaire</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Victorian women with no record of a Pap test in the Victorian Pap test Registry (never screened) or the last recorded Pap test was at least 5 years ago (underscreened)</inclusivecriteria>
+    <inclusiveminage>30</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>69</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>-Pregnant women
+-Women with a history of hysterectomy
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Two different data sources will be used to identify women for the study: The Victorian Cervical Cytology Registry (VCCR) and the Victorian Electoral Roll (VER). We will link the VCCR dataset to the VER dataset to identify women with no history of a previous Pap smear. Variable that will be used in the linkage includes full name, address, and date of birth. After linkage between the VER and VCCR datasets have occurred, two dataset will be generated.  These are neverscreened women, appearing on the electoral roll only, and underscreened women, who are lapsed screeners based on the information from the Registry alone. Within each screening groups women will be allocated a study ID number. Randomization will be performed using this study ID number (but no other information).  An external statistician will oversee the complete process of randomization to comply with ethics.  </concealment>
+    <sequence>Women will be randomly allocated to the intervention and the current practice arm in a 7:1 randomization ratio, stratified by their screening history (i.e never and underscreened). Underscreened women will be further stratified by year of last Pap test (5 years, 6 years, 7 years, 8 years, 9 years and 10-14 years). 
+
+Within strata, simple randomization will be performed in the presence of an external staistician and will be computer generated.
+</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>None</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>We plan to contact 16,000 women, including 8,000 who have never attended a Pap smear (i.e. never screened group) and 8,000 who had their last Pap smear 5 or more years ago (i.e. under-screened group). Within each of these groups, 7000 women will be randomly allocated to the HPV self-sampling kit group and 1000 to receive a reminder letter to attend a health practitioner for a Pap test. With 7000 women receiving the HPV self-sampling kit within each screening group and based on the conservative estimate of 20% participation (the literature suggest this estimate could be somewhere between 20-30% participation) and prevalence of positive result for HPV test of 10%, we will have at least 140 women invited for a follow-up Pap smear. With 140 women we will obtain a 95% confidence interval of +/- 5 % points around an estimated follow-up proportion of 90%. For the primary aim, with 7000 women in the HPV arm and 1000 women in the standard practice arm, we have 95% confidence and 87% power to detect an absolute difference of 4 % points assuming that 15% of those receiving standard screening practice attend a Pap smear. 
+
+Within each stratum (never screened and under screened) the proportion of women in each arm participating (i.e. primary outcome) will be calculated as will the absolute difference in the proportion of participation between HPV self sampling and current policy arms and the corresponding 95% confidence interval and two-sided p-value. An intention to treat approach will be used for the analysis, with women who subsequently report they are adequately screened, are pregnant, or have had a hysterectomy, analysed within the arm to which they were randomised. We will also calculate adjusted participation rates, in which women who report that they are pregnant, have had a hysterectomy, or that they are adequately screened are removed from the denominators.  Additionally, the distribution of age and SES will be compared between the women who participate and not participate within each screening group and trial arm stratum.  
+Estimates and 95% confidence intervals of the proportion of women having appropriate further investigation (i.e. secondary outcome) in the sub-groups of positive HPV test and positive Pap test for each stratum will also be calculated.  
+The responses to the different items (i.e. items within the themes: psycho-social, feasibility and practical issues) of the questionnaire survey completed by the women randomised to the home-based self-sampling will be summarised and reported as the total number and proportion within each category of the items. We will also report the reasons for not returning a self-sampling kit.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>17/02/2014</anticipatedstartdate>
+    <actualstartdate>24/03/2014</actualstartdate>
+    <anticipatedenddate>26/06/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>16320</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Associate Prof Dorota Gertig</primarysponsorname>
+    <primarysponsoraddress>Medical Director,
+Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+GPO Box 1421
+Canberra ACT 2601
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Professor Dallas English</sponsorname>
+      <sponsoraddress>Director of the Centre for MEGA Epidemiology,
+Level3, 207 Bouverie Street
+Melbourne School of Population and Global Health
+The University of Melbourne 
+VIC 3010
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Associate Professor Julie Simpson</sponsorname>
+      <sponsoraddress>Centre for MEGA Epidemiology
+Level3, 207 Bouverie Street
+Melbourne School of Population and Global Health
+The University of Melbourne 
+VIC 3010
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Associate Professor Marion Saville</sponsorname>
+      <sponsoraddress>Executive Director,
+Victorian Cytology Service Inc
+PO BOX 178
+Carlton South VIC 3053
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr. Julia Brotherton</sponsorname>
+      <sponsoraddress>Epidemiologist,
+National HPV Vaccination Program Register
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr. Farhana Sultana</sponsorname>
+      <sponsoraddress>PhD Student
+Centre for MEGA Epidemiology
+Level3, 207 Bouverie Street
+Melbourne School of Population and Global Health
+The University of Melbourne 
+VIC 3010
+</sponsoraddress>
+      <sponsorcountry>Bangladesh</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Kelly Drennan</sponsorname>
+      <sponsoraddress>Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Ms Robyn Mullins</othercollaboratorname>
+      <othercollaboratoraddress>Senior Research Fellow, 
+Centre for Behavioural Research in Cancer
+Cancer Council Victoria
+100 Drummond Street,
+Carlton VIC 3053
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr. Stella Heley</othercollaboratorname>
+      <othercollaboratoraddress>Liaison Physician,
+Victorian Cytology Service Inc
+PO BOX 178
+Carlton South VIC 3053
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Dr. David Wrede</othercollaboratorname>
+      <othercollaboratoraddress>Consultant Gynaecologist/Lead for Dysplasia
+Royal Women's Hospital
+Locked Bag 300
+Cnr Flemington Road and Grattan Street
+Parkville Victoria 3052
+ 
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study is evaluating whether mailing a human papillomavirus (HPV) self-sampling kit will increase participation in cervical screening. 
+
+Who is it for? 
+You may be eligible to join this study if you are a Victorian woman aged between 30-69 years with no record of a Pap test in the Victorian Pap Test Registry (never screened) or the last recorded Pap test was at least 5 years ago (underscreened). 
+
+Study details: The National Cervical Screening Program based on conventional Pap test has substantially reduced deaths from cervical cancer; however, some women are missing out on the benefit because they do not have regular Pap tests. A new method of screening has recently become available. This is based on testing for human papillomavirus (HPV), which is the virus that causes cervical cancer. Because women can obtain their own HPV sample at home, this test has the potential to overcome some of the reasons why women dont have Pap tests. 
+
+Participants in this study will be randomly (by chance) allocated to one of two groups. Participants in one group will be mailed an invitation letter and a testing kit, which includes an information brochure, HPV self-sampling kit, instruction sheet, pathology information form and a reply paid envelope. Participants in the other group will receive a reminder letter to attend for a Pap test, which is standard practice in Victoria. 
+
+We will evaluate the proportion of women in each group who participate in screening, the proportion of women with a positive screening test who undergo appropriate further investigation, and womens experiences with self-sampling over a period of 12 months.</summary>
+    <trialwebsite>http://www.vccr.org/HPVselfsample/</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Department of Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>50 Lonsdale Street
+Melbourne VIC 3000
+</ethicaddress>
+      <ethicapprovaldate>8/08/2013</ethicapprovaldate>
+      <hrec>05/13</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Dorota Gertig</name>
+      <address>Medical Director,
+Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</address>
+      <phone>+613 92500370</phone>
+      <fax>+613 84176835</fax>
+      <email>dgertig@vcs.org.au </email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Kelly Drennan</name>
+      <address>Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</address>
+      <phone>+613 84176817</phone>
+      <fax>+613 84176836</fax>
+      <email>kdrennan@vcs.org.au </email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Dorota Gertig</name>
+      <address>Medical Director,
+Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</address>
+      <phone>+613 92500370</phone>
+      <fax>+613 84176835</fax>
+      <email> dgertig@vcs.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Kelly Drennan</name>
+      <address>Victorian Cervical Cytology Registry
+Victorian Cytology Service Inc
+Level 1, 250 Victoria Parade
+East Melbourne VIC 3002
+</address>
+      <phone>+613 84176817</phone>
+      <fax>+613 84176836</fax>
+      <email>kdrennan@vcs.org.au </email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

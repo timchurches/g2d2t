@@ -1,0 +1,203 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="362548">
+  <stage>Registered</stage>
+  <submitdate>25/05/2012</submitdate>
+  <approvaldate>29/05/2012</approvaldate>
+  <actrnumber>ACTRN12612000580875</actrnumber>
+  <trial_identification>
+    <studytitle>Best practice pain management in the emergency department: a cluster-randomised, controlled, clinical intervention trial</studytitle>
+    <scientifictitle>The administration to emergency department patients of an adequate analgesia intervention or standard care and its effects on patient satisfaction with their pain management.</scientifictitle>
+    <utrn />
+    <trialacronym>The TARGET Pain trial</trialacronym>
+    <secondaryid>NIL</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Pain</healthcondition>
+    <conditioncode>
+      <conditioncode1>Other</conditioncode1>
+      <conditioncode2>Conditions of unknown or disputed aetiology (such as chronic fatigue syndrome/myalgic encephalomyelitis)</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Health service research</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The study intervention will be the introduction of an 'adequate analgesia' target into clinical practice for a period of 6 months. In this study, 'adequate analgesia' is defined as that providing a decrease in the patient's triage pain score of at least 2 points and to a level that is less than 4 points (scale 0-10). Emergency Department staff will use this definition as a target to guide the management of their patient's pain. Any treatment used (including drug, dose, mode of administration, etc.) will be at the discretion of the treating clinician.</interventions>
+    <comparator>The participating emergency departments will be randomised to a cluster that will introduce the study intervention and a cluster that does not. The cluster that does not introduce the intervention will provide patients with standard pain management. Standard pain management will serve as the control. Standard pain management is any treatment used (including drug, dose, mode of administration, etc.) at the discretion of the treating clinician.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Patient satisfaction with their pain management in the Emergency Department. This will be assessed using a 6 point ordinal scale (very unsatisfied, unsatisfied, slightly unsatisfied, slightly satisfied, satisfied, very satisfied)</outcome>
+      <timepoint>48 hours post-discharge from the Emergency Department</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Sustainability of the intervention. This will be assessed by measuring patient satifaction (ordinal scale) six months after the intervention is introduced.</outcome>
+      <timepoint>6 months post-intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportions of patients who receive any analgesia/opioids/parenteral analgesia</outcome>
+      <timepoint>At discharge from the emergency department</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients meeting the clinical target (pain decreased by at least 2 and to a level of less than 4) using a 10 point numerical rating scale.</outcome>
+      <timepoint>At discharge from the emergency department</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-age 18 years or more
+-moderate/severe pain (triage pain score of at least 4)</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-suspected cardiac chest pain (pain is treated differently)
+-triage category 1 (often treated differently)
+-inability to communicate a pain score (dementia, delirium, significant illness, poor English) 
+-patients being treated by a study investigator (to avoid a Hawthorne affect)
+-inability to follow up (eg. no telephone)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>The participating emergency departments will be randomised to an intervention cluster or a control cluster. Randomisation will be undertaken at the central administration site using computer generated numbers. Each site will then be advised by mail of their allocation and management will be 'open' (not blinded). For the first 3 months, the emergency departments will provide pain management for their patients that is consistent with their allocation. That is, either striving for the 'adequate analgesia' target or standard pain management. Individual patients will not be randomised.
+
+At the end of 3 months, the emergency departments that were providing standard care will introduce the study intervention for the next 3 months. The original interventioncluster will continue with the study intervention.</concealment>
+    <sequence>Computer generated randomisation will be used to randomise the emergency departments</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The first 3 months of the study, patients will receive the type of pain management to which their emergency department has been allocated. They will either receive intervention or standard management. In the second 3 months all patients will receive intervention management.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/08/2012</anticipatedstartdate>
+    <actualstartdate>3/06/2013</actualstartdate>
+    <anticipatedenddate>1/03/2014</anticipatedenddate>
+    <actualenddate>30/03/2014</actualenddate>
+    <samplesize>1500</samplesize>
+    <actualsamplesize>1317</actualsamplesize>
+    <recruitmentstatus>Closed: follow-up complete</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <postcode>3220</postcode>
+    <postcode>4215</postcode>
+    <postcode>6231</postcode>
+    <postcode>4814</postcode>
+    <postcode>4101</postcode>
+    <postcode>4102</postcode>
+    <postcode>6001</postcode>
+    <postcode>6992</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Australasian College for Emergency Medicine Clinical Trials Group</primarysponsorname>
+    <primarysponsoraddress>Australasian College for Emergency Medicine
+Westcott Street
+West Melbourne
+Victoria 3003</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Australasian College for Emergency Medicine Research Foundation</fundingname>
+      <fundingaddress>Australasian College for Emergency Medicine
+Westcott Street
+West Melbourne
+Victoria 3003</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>It is well known that pain management in emergency departments (EDs) could often be improved. A recent study demonstrated that the provision of 'adequate analgesia' (defined as a reduction in the patient's triage pain score of at least 2 and to a level &lt;4 [0-10 scale]) is significantly associated with a high level of patient satisfaction with their pain management. The study concluded that this definition of 'adequate analgesia' could be used as a clinical target for ED staff to aim for. However, this study was only able to demonstrate an association between the provision of 'adequate analgesia' and patient satisfaction. Despite this, the strength of the association is very strong and the 'adequate analgesia' target is about to be rolled out into ED clinical practice. The proposed study aims to take advantage of this proposed roll out by determining if the use of the 'adequate analgesia' target (the intervention) will result in improved patient satisfaction.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Austin Health Human Research Ethics Committee</ethicname>
+      <ethicaddress>Austin Hospital, Studley Rd, Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>10/10/2012</ethicapprovaldate>
+      <hrec>HREC/12/Austin/58</hrec>
+      <ethicsubmitdate>10/06/2012</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Professor David Taylor</name>
+      <address>Emergency Department
+Austin Hospital
+Studley Rd
+Heidelberg
+Victoria 3084</address>
+      <phone>+61 3 9496 4711</phone>
+      <fax>+61 3 9496 3380</fax>
+      <email>David.Taylor@austin.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Professor David Taylor</name>
+      <address>Emergency Department
+Austin Hospital
+Studley Rd
+Heidelberg
+Victoria 3084</address>
+      <phone>+61 3 9496 4711</phone>
+      <fax>+61 3 9496 3380</fax>
+      <email>David.Taylor@austin.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Professor David Taylor</name>
+      <address>Emergency Department
+Austin Hospital
+Studley Rd
+Heidelberg
+Victoria 3084</address>
+      <phone>+61 3 9496 4711</phone>
+      <fax>+61 3 9496 3380</fax>
+      <email>David.Taylor@austin.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Taylor</name>
+      <address>Emergency Department, Austin Hospital, Heidelberg, Victoria, Australia 3084</address>
+      <phone>+61 3 9496 4711</phone>
+      <fax />
+      <email>David.Taylor@austin.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

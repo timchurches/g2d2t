@@ -1,0 +1,664 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6153">
+  <stage>Registered</stage>
+  <submitdate>30/03/2016</submitdate>
+  <approvaldate>30/03/2016</approvaldate>
+  <nctid>NCT02737501</nctid>
+  <trial_identification>
+    <studytitle>ALTA-1L Study: A Phase 3 Study of Brigatinib Versus Crizotinib in ALK-positive Advanced Non-Small Cell Lung Cancer Patients</studytitle>
+    <scientifictitle>A Phase 3 Multicenter Open-label Study of Brigatinib (AP26113) Versus Crizotinib in Patients With ALK-positive Advanced Lung Cancer</scientifictitle>
+    <utrn />
+    <trialacronym>ALTA-1L</trialacronym>
+    <secondaryid>AP26113-13-301</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Non-small Cell Lung Cancer</healthcondition>
+    <healthcondition>Lung Cancer</healthcondition>
+    <healthcondition>Advanced Malignancies</healthcondition>
+    <healthcondition>Carcinoma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Non melanoma skin cancer</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Kidney</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Mesothelioma</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Non small cell</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Lung - Small cell</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Brigatinib
+Treatment: drugs - Xalkori (crizotinib)
+
+Experimental: Brigatinib - Brigatinib will be administered orally to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors at a dose of 90 mg QD for 7 days, then 180 mg QD, continuously, with or without food until disease progression, unacceptable toxicity, withdrawal of consent or death.
+
+Active Comparator: Crizotinib - Crizotinib will be administered to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors as 250 mg orally BID, with or without food until disease progression, unacceptable toxicity, withdrawal of consent or death.
+
+
+Treatment: drugs: Brigatinib
+Brigatinib will be administered orally to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors at a dose of 90 mg QD for 7 days, then 180 mg QD, continuously, until disease progression, unacceptable toxicity, withdrawal of consent or death.
+
+Treatment: drugs: Xalkori (crizotinib)
+Crizotinib will be administered to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors as 250 mg orally BID, until disease progression, unacceptable toxicity, withdrawal of consent or death.
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-free survival (PFS) as assessed by a blinded Independent Review Committee (bIRC)</outcome>
+      <timepoint>At least 36 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective response rate (ORR) - Defined as the proportion of the patients who are confirmed to have achieved CR or PR using RECIST v. 1.1 criteria.</outcome>
+      <timepoint>At least 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intracranial ORR - Defined as the proportion of the patients who have achieved CR or PR in the CNS.</outcome>
+      <timepoint>At least 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intracranial PFS - Defined as the time from randomization until first CNS disease progression is documented, or death due to any cause.</outcome>
+      <timepoint>At least 36 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall Survival (OS) - Defined as the time from randomization until death due to any cause.</outcome>
+      <timepoint>At least 36 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health-related quality of life (HRQoL) - Defined as the perceived quality of the patient's life, which includes self-reported multidimensional measures of physical and mental health.</outcome>
+      <timepoint>Until 30 days after the last dose of study treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of patients with adverse events - To evaluate the safety and tolerability of brigatinib in the Intention to Treat (ITT) population. Measured by routine physical and laboratory evaluations, ECG, and adverse event (AE) monitoring.</outcome>
+      <timepoint>Until at least 30 days after the last dose of study treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady state pharmacokinetic (PK) parameter: Maximum Plasma Concentration [Cmax] - PK samples will be taken to assess limited elements of PK in the Treated population.</outcome>
+      <timepoint>Up to 28 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady state pharmacokinetic (PK) parameter: Minimum plasma concentration [Cmin] - PK samples will be taken to assess limited elements of PK in the Treated population.</outcome>
+      <timepoint>Up to 28 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady state pharmacokinetic (PK) parameter: Area Under the Curve [AUC] - PK samples will be taken to assess limited elements of PK in the Treated population.</outcome>
+      <timepoint>Up to 28 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady state pharmacokinetic (PK) parameter: Time to maximum plasma concentration (Tmax) - PK samples will be taken to assess limited elements of PK in the Treated population.</outcome>
+      <timepoint>Up to 28 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady state pharmacokinetic (PK) parameter: Apparent oral clearance [CL/F] - PK samples will be taken to assess limited elements of PK in the Treated population.</outcome>
+      <timepoint>Up to 28 months.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Have histologically or cytologically confirmed stage IIIB (and not a candidate for
+             definitive multimodality therapy) or stage IV NSCLC.
+
+          2. Must have documented ALK rearrangement.
+
+          3. Have sufficient tumor tissue available for central analysis.
+
+          4. Have at least 1 measurable (i.e., target) lesion per RECIST v1.1.
+
+          5. Recovered from toxicities related to prior anticancer therapy to NCI CTCAE v 4.0 grade
+             =1.
+
+          6. Are a male or female patient =18 years old.
+
+          7. Have adequate organ function, as defined by the study protocol.
+
+          8. Have Eastern Cooperative Oncology Group (ECOG) performance status =2.
+
+          9. Have normal QT interval on screening ECG evaluation, defined as QT interval corrected
+             (Fridericia) (QTcF) of =450 milliseconds (msec) in males or =470 msec in females.
+
+         10. For female patients of childbearing potential, have a negative pregnancy test
+             documented prior to randomization.
+
+         11. For female and male patients who are fertile, agree to use a highly effective form of
+             contraception, as defined by the study protocol.
+
+         12. Provide signed and dated informed consent indicating that the patient has been
+             informed of all pertinent aspects of the study, including the potential risks, and is
+             willingly participating.
+
+         13. Have the willingness and ability to comply with scheduled visit and study procedures.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Previously received an investigational antineoplastic agent for NSCLC.
+
+          2. Previously received any prior TKI, including ALK-targeted TKIs.
+
+          3. Previously received more than 1 regimen of systemic anticancer therapy for locally
+             advanced or metastatic disease.
+
+          4. Received chemotherapy or radiation within 14 days of first dose of study drug, except
+             stereotactic radiosurgery (SRS) or stereotactic body radiation therapy (SBRT).
+
+          5. Received anti-neoplastic monoclonal antibodies within 30 days of the first dose of
+             study drug.
+
+          6. Had major surgery within 30 days of the first dose of study drug, minor surgical
+             procedures such as catheter placement or minimally invasive biopsies are allowed.
+
+          7. Have been diagnosed with another primary malignancy other than NSCLC, except for
+             adequately treated non-melanoma skin cancer or cervical cancer in situ; definitively
+             treated non-metastatic prostate cancer; or patients with another primary malignancy
+             who are definitively relapse-free with at least 3 years elapsed since the diagnosis of
+             the other primary malignancy.
+
+          8. Have symptomatic CNS metastases (parenchymal or leptomeningeal) at screening or
+             asymptomatic disease requiring an increasing dose of corticosteroids to control
+             symptoms within 7 days prior to randomization.
+
+          9. Have current spinal cord compression (symptomatic or asymptomatic and detected by
+             radiographic imaging). Patients with leptomeningeal disease and without cord
+             compression are allowed.
+
+         10. Be pregnant, planning a pregnancy, or breastfeeding
+
+         11. Have significant, uncontrolled, or active cardiovascular disease, as defined by the
+             study protocol.
+
+         12. Have uncontrolled hypertension.
+
+         13. Have a history or the presence at baseline of pulmonary interstitial disease,
+             drug-related pneumonitis, or radiation pneumonitis.
+
+         14. Have an ongoing or active infection.
+
+         15. Have a known history of human immunodeficiency virus (HIV) infection.
+
+         16. Have a known or suspected hypersensitivity to brigatinib or its excipients and/or
+             crizotinib or its excipients.
+
+         17. Have malabsorption syndrome or other gastrointestinal (GI) illness or condition.
+
+         18. Have any condition or illness that, in the opinion of the investigator, would
+             compromise patient safety or interfere with the evaluation of the study drug.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>30/04/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>270</actualsamplesize>
+    <recruitmentstatus>Active, not recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/04/2021</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,VIC</recruitmentstate>
+    <hospital>St Vincent's Hospital, Pharmacy, Site #406 - Darlinghurst</hospital>
+    <hospital>Gosford Hospital Central Coaast Cancer Centre, Site #402 - Gosford</hospital>
+    <hospital>Royal North Shore Hospital, Site #941 - St Leonards</hospital>
+    <hospital>St. Vincent's Hospital, Site #997 - Fitzroy</hospital>
+    <hospital>Frankston Hospital, Site #994 - Frankston</hospital>
+    <hospital>Monash Cancer Centre Site #425 - Bentleigh East</hospital>
+    <hospital>St George Hospital Site #403 - Kogarah</hospital>
+    <postcode>2010 - Darlinghurst</postcode>
+    <postcode>2250 - Gosford</postcode>
+    <postcode>2065 - St Leonards</postcode>
+    <postcode>3065 - Fitzroy</postcode>
+    <postcode>3199 - Frankston</postcode>
+    <postcode>VIC 3165 - Bentleigh East</postcode>
+    <postcode>NSW 2217 - Kogarah</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>California</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Connecticut</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Florida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Massachusetts</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Michigan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Oklahoma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Texas</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Utah</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Virginia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Salzburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>St. Polten</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Vienna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Austria</country>
+      <state>Wels</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Ontario</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Tampere</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Cedex 05</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rhone Alpes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Creteil</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nice</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Paris</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Bayern</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Cologne</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Freiburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hemer</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Kiel</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Oldenburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Oststeinbek</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Hong Kong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Kowloon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hong Kong</country>
+      <state>Tuen Mun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>MB</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Sicily</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Avellino</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Aviano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bari</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Meldola</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Milano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Novara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Perugia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ravenna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Ilsan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seongnam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seowon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Luxembourg</country>
+      <state>Luxembourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>AP</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Amsterdam</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Breda</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Netherlands</country>
+      <state>Zwolle</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Norway</country>
+      <state>Oslo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Singapore</country>
+      <state>Singapore</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Cantabria</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Murcia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>A Coruna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Alicante</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Badalona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Baracaldo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Lugo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Malaga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Oviedo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Molnlycke</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Solna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Sweden</country>
+      <state>Umea</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Winterthur</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Zurich</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Tainan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Kent</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>LE2</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>N7</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Ariad Pharmaceuticals</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A Phase 3 Multicenter Open-label Study of Brigatinib (AP26113) versus Crizotinib in
+      ALK-positive Advanced Lung Cancer Patients</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02737501</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

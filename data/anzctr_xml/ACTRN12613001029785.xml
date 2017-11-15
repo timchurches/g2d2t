@@ -1,0 +1,189 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364969">
+  <stage>Registered</stage>
+  <submitdate>12/09/2013</submitdate>
+  <approvaldate>16/09/2013</approvaldate>
+  <actrnumber>ACTRN12613001029785</actrnumber>
+  <trial_identification>
+    <studytitle>Calcium balance during citrate hemodialysis</studytitle>
+    <scientifictitle>Comparison of calcium mass balance with two different ionized calcium target ranges during hemodialysis with regional citrate anticoagulation</scientifictitle>
+    <utrn>U1111-1147-9668</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>hemodialysis</healthcondition>
+    <healthcondition>Kidney disease</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Single hemodialysis with regional citrate anticoagulation; target ionized calcium range 0.95 - 1.05 mmol/l
+</interventions>
+    <comparator>Single hemodialysis with regional citrate anticoagulation; target ionized calcium range 1.1 - 1.2 mmol/l</comparator>
+    <control>Dose comparison</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>calcium mass balance; calculated as (volume * concentration of calcium in infusion) - (spent dialysate volume * calcium concentration in dialysate); total calcium in dialysate measured with standard laboratory test</outcome>
+      <timepoint>during hemodialysis</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>blood ionized calcium &lt; 0.9 mmol/l; determined with point-of-care analyzer</outcome>
+      <timepoint>during hemodialysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>change in intact parathiroid hormone (serrum assay)</outcome>
+      <timepoint>during hemodialysis</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>adult patients, needing hemodialysis with regional citrate anticoagulation due to increased bleeding risk</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>99</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>known intolerance of citrate anticoagulation</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Simple randomisation using a randomisation table created by computer software</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/10/2013</anticipatedstartdate>
+    <actualstartdate>14/01/2014</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>12/01/2016</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize>30</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>14/01/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Slovenia</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>University Medical Center Ljubljana, Dept. of Nephrology</primarysponsorname>
+    <primarysponsoraddress>Zaloska 7
+1000 LJubljana</primarysponsoraddress>
+    <primarysponsorcountry>Slovenia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Javna agencija za raziskovalno dejavnost RS</fundingname>
+      <fundingaddress>Bleiweisova cesta 30
+1000 Ljubljana</fundingaddress>
+      <fundingcountry>Slovenia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>To compare calcium mass balance and effect on iPTH during regional citrate anticoagulation in hemodialysis with two different target ranges for ionized calcium</summary>
+    <trialwebsite />
+    <publication>- Gubensek J, Orsag A, Ponikvar R, Buturovic-Ponikvar J. Calcium Mass Balance during Citrate Hemodialysis: A Randomized Controlled Trial Comparing Normal and Low Ionized Calcium Target Ranges. PLoS One. 2016 Dec 28;11(12):e0168593. doi: 10.1371/journal.pone.0168593
+- J Gubensek, A Orsag, R Ponikvar, A Jerman and J Buturovic-Ponikvar. CALCIUM MASS BALANCE DURING CITRATE HEMODIALYSIS: A RANDOMIZED CONTROLLED TRIAL COMPARING NORMAL AND LOW IONIZED CALCIUM TARGET RANGE. Oral presentation at 53rd ERA-EDTA Congress, May 21st-24th, 2016, Vienna, Austria; Published in Nephrology Dialysis Transplantation Volume 31, Issue suppl 1, pp. i66-i67, doi: 10.1093/ndt/gfw145.03</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>National medical ethics committee</ethicname>
+      <ethicaddress>prof. Joze Trontelj
+Inst. za klinicno nevrofiziologijo
+UKC Ljubljana
+Zaloska 7
+1000 LJubljana</ethicaddress>
+      <ethicapprovaldate>19/03/2013</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>4/03/2012</ethicsubmitdate>
+      <ethiccountry>Slovenia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jakob Gubensek</name>
+      <address>University Medical Center Ljubljana
+Dept. of Nephrology
+Zaloska 7
+1000 Ljubljana</address>
+      <phone>+386 1 522 3112</phone>
+      <fax />
+      <email>jakob.gubensek@kclj.si</email>
+      <country>Slovenia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jakob Gubensek</name>
+      <address>University Medical Center Ljubljana
+Dept. of Nephrology
+Zaloska 7
+1000 Ljubljana</address>
+      <phone>+386 1 522 3112</phone>
+      <fax />
+      <email>jakob.gubensek@kclj.si</email>
+      <country>Slovenia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jakob Gubensek</name>
+      <address>University Medical Center Ljubljana
+Dept. of Nephrology
+Zaloska 7
+1000 Ljubljana</address>
+      <phone>+386 1 522 3112</phone>
+      <fax />
+      <email>jakob.gubensek@kclj.si</email>
+      <country>Slovenia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

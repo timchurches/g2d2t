@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364889">
+  <stage>Registered</stage>
+  <submitdate>23/09/2013</submitdate>
+  <approvaldate>24/09/2013</approvaldate>
+  <actrnumber>ACTRN12613001066774</actrnumber>
+  <trial_identification>
+    <studytitle>Liver Image Guided High Dose Radiation Therapy for the Treatment of Colorectal Liver Metastases </studytitle>
+    <scientifictitle>TROG13.02: A phase II single arm trial of stereotactic image guided radiotherapy for colo-rectal liver metastases to determine if it can be performed in a multidisciplinary setting with acceptable toxicity (Liver Image Guided High Dose Radiation Therapy)</scientifictitle>
+    <utrn>U1111-1136-9625</utrn>
+    <trialacronym>LIGHT</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Liver metastases from colo-rectal cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Bowel - Back passage (rectum) or large bowel (colon)</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Stereotactic Radiation; 
+Six fractions of radiotherapy delivered with 2-3 fractions per week at least one fraction 24 hours apart per week with risk adjusted dosing based on mean liver dose;
+1. 60Gy in 6# delivered over 2-3 weeks for mean liver dose &lt; 13.3Gy
+2. 51Gy in 6# delivered over 2-3 weeks for mean liver dose 13.3-15.0Gy
+3. 42Gy in 6# delivered over 2-3 weeks for mean liver dose 15.1-17.5Gy
+</interventions>
+    <comparator>None</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>To determine that delivery of high dose stereotactic image guided radiotherapy for colo-rectal liver metastases can be performed in a multidisciplinary setting.  Successful delivery of stereotactic image guided radiotherapy for liver cancer  will be indicated by 0 major clinical violations and &lt;4 minor clinical violations on the planning review. </outcome>
+      <timepoint>3 months post treatment </timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Determine the efficacy and toxicity of stereotactic image guided radiotherapy in patients with liver metastases, determined by CT scans and toxicity measurements (Child-Pugh function and CTCAE)
+</outcome>
+      <timepoint>3 years post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Determine the dose response relationship of stereotactic image guided radiotherapy with decline in liver function as measured by HIDA liver function scans and biochemistry</outcome>
+      <timepoint>3 years post treatment </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Determine the prognostic value of pre treatment and post treatment 18-FDG PET scans in treating liver metastases with stereotactic image guided radiotherapy</outcome>
+      <timepoint>Pre Treatment and 3 months post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Develop standardised normal tissue dose reporting, dose prescription and planning for treatment of liver SBRT using image guidance </outcome>
+      <timepoint>Pre Treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Compare the variance in risks between different TCP/NTCP models with SBRT plans and to observed rates of toxicity</outcome>
+      <timepoint>Pre-treatment and 3 yrs post treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Assess potential prognostic and predictive factors for liver SBRT</outcome>
+      <timepoint>3 years post treatment</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with up to 5 medically or surgically inoperable colo-rectal cancer liver metastases with a maximum metastasis size of 8cm in whom progression of the liver disease is expected to cause significant morbidity are eligible for the trial</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients with previous upper abdominal radiotherapy or inadequate liver reserve (&lt;800mL of normal liver) will be excluded from the trial.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Non-randomised trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Open (masking not used)</masking>
+    <assignment>Single group</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>Considering that the percentage of participants having no major violation and less than 4 minor violations will be 90% and considering an unacceptable percentage as 70% or less, the required sample size for 80% power is 28 participants. Allowing for potential drop out of 2 participants a total sample size of 30 participants will be recruited. 
+Major and minor violations for each treatment course will be described and the 95% CI will be reported for the unacceptable rate of 1 major and/or 4 minor treatment violations.
+Means and their 95% confidence intervals for each outcome will be used to assess variability of TCP/NTCP between each dose strata. Multilevel models will be used to account for and investigate centre level differences in the outcomes. Interclass correlation as well as mixed modelling will be used to assess potential variation.
+Different NTCP/TCP models will be used to determine estimated TCP/NTCP for each patient and the variance detected between the models using linear regression. The model parameters will be adjusted to provide line of best fit for each strata comparing decline in liver function (HIDA) and observed tumour control.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/07/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>1/01/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>30</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Withdrawn</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason>Lack of funding/staff/facilities</withdrawnreason>
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,QLD,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Trans Tasman Radiation Oncology Group (TROG)</primarysponsorname>
+    <primarysponsoraddress>Calvary Mater Newcastle, Locked Bag 7, HRMC, NSW 2310, </primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Colo-rectal cancer is increasing in the community and the most common site of spread is to the liver. Isolated liver deposits can be cured by surgery. For patients not fit or suitable for surgery other options need to be investigated.
+This clinical trial is investigating the use of stereotactic image guided radiotherapy for the treatment of colorectal liver metastases.
+
+Who is it for? This study will recruit participants that are aged 18 years or above and have up to 5 medically or surgically inoperable colorectal cancer liver metastases.
+
+Study details: All participants in this study will undergo stereotactic radiation therapy. This is a type of external radiation therapy that uses special equipment to more precisely deliver radiation to a tumour. Six radiotherapy sessions will be delivered over 2-3 weeks. Participants will be assessed for 3 years post treatment in order to evaluate treatment safety and disease response.
+</summary>
+    <trialwebsite>www.trog.com.au</trialwebsite>
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>SWSLHD Human Research Ethics Committee </ethicname>
+      <ethicaddress>Research and Ethics Office
+Locked Bag 7279
+LIVERPOOL BC NSW 1871</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>1/06/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Mark Lee</name>
+      <address>Liverpool Hospital, 
+Elizabeth Street 
+Liverpool 
+NSW, 2170 </address>
+      <phone>+61 2 9828 3000</phone>
+      <fax />
+      <email>Mark.Lee@sswahs.nsw.gov.au </email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Rebecca Montomery </name>
+      <address>TROG Central Office
+Calvary Mater Newcastle 
+Locked Bag 7
+HRMC 
+NSW 2310
+</address>
+      <phone>+61 2 40143910</phone>
+      <fax />
+      <email>Rebecca.montgomery@trog.com.au </email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Mark Lee</name>
+      <address>Liverpool Hospital 
+Elizabeth Street 
+Liverpool
+NSW, 2170</address>
+      <phone>+61 2 9828 3000</phone>
+      <fax />
+      <email>Mark.Lee@sswahs.nsw.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>TROG Administrator</name>
+      <address>TROG Central Office
+Calvary Mater Newcastle 
+Locked Bag 7
+HRMC 
+NSW 2310
+</address>
+      <phone>+61 2 40143910</phone>
+      <fax />
+      <email>administrator@trog.com.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

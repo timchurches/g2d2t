@@ -1,0 +1,228 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="363101">
+  <stage>Registered</stage>
+  <submitdate>1/10/2012</submitdate>
+  <approvaldate>3/10/2012</approvaldate>
+  <actrnumber>ACTRN12612001054808</actrnumber>
+  <trial_identification>
+    <studytitle>Feasibility study of normoxic versus hyperoxic therapy after cardiac arrest</studytitle>
+    <scientifictitle>A multi-centred feasibility study investigating whether a strategy of titrated oxygen administration leads to a lower mean oxygen saturation measured by pulse oximetry at hospital admission than standard care with high concentration oxygen in adults resuscitated from out-of-hospital VF and VT cardiac arrest</scientifictitle>
+    <utrn>U1111-1135-3116</utrn>
+    <trialacronym>HOT OR NOT feasibility study</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Out-of-hospital cardiac arrest</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular</conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients assigned to the avoidance of hyperoxia arm will receive titrated oxygen from the time of ROSC aiming to achieve oxygen saturation of 90-94% via pulse oximeter.  If pulse oximetry cannot be established or stops working in the ambulance, patients will be administered 100% oxygen until such time as working pulse oximetry can be established to avoid any risk of severe undetected hypoxaemia.  Titrated oxygen therapy via adjustments in ventilator inspired oxygen concentration will then be maintained throughout the period of treatment in the emergency department and ICU up until extubation or 72 hours post ROSC (whichever is sooner).  Once patients have arrived in the hospital, oxygen can be titrated according to blood gases if pulse oximetry is not reading reliably.  In these circumstances, the oxygen concentration should be titrated to the oxygen saturation on the blood gases rather than to the PaO2.</interventions>
+    <comparator>Patients assigned to the standard care arm will receive usual care.  This will involve administration of 100% oxygen by the ambulance officers.  Subsequently, the treating hospital clinician, in accordance with usual clinical practice, will determine the oxygen target.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mean oxygen saturation measured by pulse oximetry (in the pre-hospital period)</outcome>
+      <timepoint>Oxygen saturation will be recorded minutely in the pre-hospital post-resuscitation period (where measurements are available)</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean oxygen saturation measured by pulse oximetry (in the emergency department)</outcome>
+      <timepoint>First recorded oxygen saturation on hospital arrival and every 30 minutes thereafter while in the emergency department.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean oxygen saturation measured by pulse oximetry (in the Intensive Care Unit)</outcome>
+      <timepoint>Six hourly until 72 hours post ICU admission or extubation (whichever is first)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean partial pressure of oxygen in arterial whole blood based on arterial blood gas measurements (in the Intensive Care Unit)</outcome>
+      <timepoint>Six hourly until 72 hours post ICU admission or extubation (whichever is first)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Documented desaturation below 88% on pulse oximetry in the intensive care unit (based on episodes of desaturation documented in the clinical record)</outcome>
+      <timepoint>Any episodes documented on the ICU clinical record until 72 hours or extubation (whichever is sooner).  Note that the end of an individual episode will be defined by when there is a documented saturation of more than 88% recorded</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mean partial pressure of carbon dioxide in whole arterial blood based on arterial blood gas measurements (in the Intensive Care Unit)</outcome>
+      <timepoint>Six hourly until 72 hours post ICU admission or extubation (whichever is first)</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of patients who survive with sufficiently good neurological outcome to be discharged to home or rehabilitation.  (Note that we intend to use this as the primary end point for a phase III study which will follow this feasibility study. We intend to include patients enrolled in this study in the phase III study provided that significant protocol amendments are not required.  The end of this study current study will be used as an interim analysis for the phase III study and will be used to make adjustments in the required sample size for the main study if required.)</outcome>
+      <timepoint>Hospital discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Intensive Care Unit stay</outcome>
+      <timepoint>Determined at Intensive Care Unit discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Hospital stay</outcome>
+      <timepoint>Determined at Hospital Discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life measure by the EQ5D</outcome>
+      <timepoint>6 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. Return of spontaneous circulation following cardiac arrest due to a primary cardiac cause with an initial rhythm of VF or VT 
+2. Aged 16-90 years
+3. Ventilated via endotracheal tube or laryngeal mask airway.</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>90</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Obvious pregnancy 2. Living in supported care or a nursing home 3. Terminal disease 4. More than 20 minutes have elapsed since return of spontaneous circulation</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>1. When paramedics have a patient who fulfils eligibility criteria they will contact the local ICU who will check the participant's eligibility and open an opaque envelope that contains treatment allocation. The ICU staff will relay this to the paramedic. All patients enrolled will be unconscious at the time of enrolment. 
+OR
+2. The Ambulance manager on site at the cardiac arrest will open an opaque envelope containing the patient's treatment allocation and will tell the treating paramedic</concealment>
+    <sequence>Randomisation will be achieved by sequential numbered sealed envelopes, which will be prepared by a third party, who will receive a randomisation schedule generated by a statistician. There will be block randomisation stratified by ICU randomisation centre OR ambulance manager vehicle. Patients will be randomly assigned to either the ‘avoidance of hyperoxia’ or ‘standard care’ in a 1:1 ratio by the local study ICU when they fulfil eligibility criteria. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Patients will be blinded as to the treatment allocation; however, due to the nature of the intervention, blinding of investigators will not be possible.</designfeatures>
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>6/10/2012</anticipatedstartdate>
+    <actualstartdate>13/10/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>21/09/2013</actualenddate>
+    <samplesize>42</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Stopped early</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Medical Research Institute of New Zealand</primarysponsorname>
+    <primarysponsoraddress>Medical Research Institute of New Zealand
+Private Bag 7902
+Wellington 6242</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname>N/A</fundingname>
+      <fundingaddress>N/A</fundingaddress>
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>Wellington Free Ambulance</sponsorname>
+      <sponsoraddress>19 Davis Street, 
+Pipitea 6011
+Wellington</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>In animal models, exposure to high levels of oxygen after cardiac arrest worsens neurological outcome.  However, clinical data are limited, and standard care of patients after cardiac arrest includes exposure to abnormally high levels of oxygen for prolonged periods.  In this RCT, 42 patients resuscitated from community cardiac arrest will receive either standard therapy with high concentration oxygen or careful titration of oxygen to avoid either abnormally high or low oxygen levels.  The feasibility study will be undertaken in Auckland, Wellington, and Christchurch.  This study will determine whether patients can be effectively randomised into a study with the proposed design, and whether separation of oxygen exposure between study groups can be achieved.  If careful titration of oxygen is ultimately shown to reduce brain injury after cardiac arrest, this finding will have a major impact on the management of cardiac arrest in New Zealand and internationally.</summary>
+    <trialwebsite />
+    <publication>Young P, Bailey M, Bellomo R, Bernard S, Dicker B, Freebairn R, Henderson S,
+Mackle D, McArthur C, McGuinness S, Smith T, Swain A, Weatherall M, Beasley R.
+HyperOxic Therapy OR NormOxic Therapy after out-of-hospital cardiac arrest (HOT
+OR NOT): a randomised controlled feasibility trial. Resuscitation. 2014
+Dec;85(12):1686-91. doi: 10.1016/j.resuscitation.2014.09.011. Epub 2014 Sep 28.</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Northern A Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+1 The Terrace
+PO BOX 5013
+Wellington
+6011</ethicaddress>
+      <ethicapprovaldate>28/08/2012</ethicapprovaldate>
+      <hrec>12/NTA/13</hrec>
+      <ethicsubmitdate>3/08/2012</ethicsubmitdate>
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Intensive Care Unit
+Wellington Regional Hospital
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+6448060432</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Intensive Care Unit
+Wellington Regional Hospital
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+6448060432</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Paul Young</name>
+      <address>Intensive Care Unit
+Wellington Regional Hospital
+Private Bag 7902
+Wellington 6242</address>
+      <phone>+6448060432</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Intensive Care Unit
+Wellington Hospital
+Private Bag 7902
+Newtown
+Wellington 6242</address>
+      <phone>+64274552269</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

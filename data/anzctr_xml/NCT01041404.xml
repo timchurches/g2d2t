@@ -1,0 +1,663 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="2627">
+  <stage>Registered</stage>
+  <submitdate>29/12/2009</submitdate>
+  <approvaldate>29/12/2009</approvaldate>
+  <nctid>NCT01041404</nctid>
+  <trial_identification>
+    <studytitle>ToGA Study - A Study of Herceptin (Trastuzumab) in Combination With Chemotherapy Compared With Chemotherapy Alone in Patients With HER2-Positive Advanced Gastric Cancer</studytitle>
+    <scientifictitle>A Randomized, Open-label Study of the Effect of First-line Herceptin in Combination With a Fluoropyrimidine and Cisplatin Versus Chemotherapy Alone on Overall Survival in Patients With HER2-positive Advanced Gastric Cancer</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>BO18255</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Gastric Cancer</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Stomach</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Trastuzumab
+Treatment: drugs - Fluorouracil
+Treatment: drugs - Cisplatin
+Treatment: drugs - Capecitabine
+
+Experimental: Trastuzumab, Fluoropyrimidine, Cisplatin - Participants received an initial loading dose of 8 milligrams per kilogram (mg/kg) trastuzumab i.v. on Day 1 of cycle, followed by 6 mg/kg i.v. every 3 weeks until disease progression; 800 mg/m2 fluorouracil i.v. on Days 1 through 5 of cycle every 3 weeks for 6 cycles; 80 mg/m2 cisplatin i.v. on Day 1 of cycle every 3 weeks for 6 cycles; and 1000 mg/m2 capecitabine p.o. twice daily on Days 1 through 15 of cycle every 3 weeks for 6 cycles.
+
+Active Comparator: Fluoropyrimidine, Cisplatin - Participants received 800 milligrams per square meter (mg/m2) fluorouracil intravenous (i.v.) on Days 1 through 5 of cycle every 3 weeks for 6 cycles; 80 mg/m2 cisplatin i.v. on Day 1 of cycle every 3 weeks for 6 cycles; and 1000 mg/m2 capecitabine orally (p.o.) twice daily on Days 1 through 15 of cycle every 3 weeks for 6 cycles.
+
+
+Treatment: drugs: Trastuzumab
+Initial loading dose 8 mg/kg i.v. infusion on Day 1 of cycle, followed by 6 mg/kg i.v. infusion every 3 weeks until disease progression
+
+Treatment: drugs: Fluorouracil
+800 mg/m2 i.v. infusion on Days 1 through 5 of cycle every 3 weeks for 6 cycles
+
+Treatment: drugs: Cisplatin
+80 mg/m2 i.v. infusion on Day 1 of cycle every 3 weeks for 6 cycles
+
+Treatment: drugs: Capecitabine
+1000 mg/m2 p.o. twice daily on Days 1 through 15 of cycle every 3 weeks for 6 cycles
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Overall Survival (OS) - Percentage of Participants With an Event - OS was defined as the time from the date of randomization to the date of death due to any cause. Participants were censored at the last date of tumor measurement, the last date in the study drug log, or the date of last follow-up.</outcome>
+      <timepoint>Baseline (BL), Days 1, 8, 15, 22, 43, 64, 85, 106, 127, and every 21 days until the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Overall Survival - Time to Event - The median time, in months, from the date of randomization to the date of an OS event. Participants were censored at the last date tumor measurement, the last date in the study drug log, or the date of last follow-up.</outcome>
+      <timepoint>BL, Days 1, 8, 15, 22, 43, 64, 85, 106, 127, and every 21 days until the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS) - Percentage of Participants With an Event - PFS was defined as the time from the date of randomization to the date of the first documentation of progressive disease (PD) or date of death, whichever occurs first. For target lesions (TL), PD was defined as at least a 20 percent (%) increase in the sum of the longest diameter (SLD) of TLs, taking as a reference the smallest SLD recorded since the treatment started, or the appearance of one or more lesions. For non-target lesions (NTL), PD was defined as an unequivocal progression of existing NTLs. Participants were censored at the last date of tumor measurement, the last date in the study drug log, or the date of last follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival - Time to Event - The median time, in months, from the date of randomization to the date of a PFS event. Participants were censored at the last date of tumor measurement, the last date in the study drug log, or the date of last follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Progression (TTP) - Percentage of Participants With an Event - TTP was defined as the time from the date of randomization and the date of the first occurrence of PD. Participants were censored at the last date of tumor assessment, the last date in the study drug log, or the last date of follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to Progression - Time to Event - The median time, in months, from the date of randomized to the date of a TTP event. Participants were censored at the last date of tumor assessment, the last date in the study drug log, or the last date of follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Confirmed Complete Response (CR) or Partial Response (PR) Determined by Response Evaluation Criteria in Solid Tumors (RECIST) - For TLs, a CR was defined as the disappearance of all TLs and a PR was defined as at least a 30% decrease in the SLD of the TLs, taking as a reference the baseline SLD. For NTLs, a CR was defined as the disappearance of all NTLs and normalization of tumor marker levels.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response - Percentage of Participants With an Event - Duration of response was defined for responders as the time from the date on which the CR or PR was first recorded to the date on which PD is first noted. Participants were censored on the date of death, the date of last tumor measurement, the last date in study drug log, or the date of last follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response - The median time, in months, of the duration of response. Participants were censored at the date of death, the date of last tumor measurement, the last date in study drug log, or the date of last follow-up.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Clinical Benefit - Clinical benefit was defined as stable disease (SD), CR, or PR for 6 weeks or longer as determined by RECIST. For TLs, SD was defined as neither sufficient shrinkage to qualify for PR, nor sufficient increase to qualify for PD, taking as a reference the smallest SLD recorded since treatment had started. For NTLs, SD was defined as a persistence of one or more NTLs and/or maintenance of tumor marker levels above the normal limits.</outcome>
+      <timepoint>BL, Days 43, 85, and 127, and every 21 days thereafter until disease progression or the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Organisation For the Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire-Core 30 (QLQ C-30) Questionnaire Scores - EORTC QLQ-C30: included functional scales (physical, role, cognitive, emotional, and social), global health status, symptom scales (fatigue, pain, nausea/vomiting) and single items (dyspnoea, appetite loss, insomnia, constipation/diarrhea and financial difficulties). Most questions used 4 point scale (1 'Not at all' to 4 'Very much'; 2 questions used 7-point scale (1 'very poor' to 7 'Excellent'). Scores averaged, transformed to 0-100 scale; higher score equals (=) better level of functioning or greater degree of symptoms.</outcome>
+      <timepoint>BL, Days 1, 22, 43, 64, 85, 106, 127, and every 21 days until disease progression of the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>EORTC Quality of Life Questionnaire-Stomach Cancer Specific (QLQ STO22) Questionnaire Scores - The QLQ-STO22 is a gastric cancer quality of life questionnaire. There are 22 questions concerning disease, treatment related symptoms, side effects, dysphagia, nutritional aspects, and questions about the emotional problems of gastric cancer (dysphagia, pain, reflux, eating restrictions, anxiety, dry mouth, body image, and hair loss). The questions are grouped into five scales and 4 single items which are related to the symptoms of the disease. Most questions used 4-point scale (1 'Not at all' to 4 'Very much'; 1 question was a yes or no answer). A linear transformation was used to standardize all scores and single-items to a scale of 0 to 100; higher score=better level of functioning or greater degree of symptoms.</outcome>
+      <timepoint>BL, Days 1, 22, 43, 64, 85, 106, 127, and every 21 days until disease progression of the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Pain Intensity Scores as Assessed By Visual Analog Scale (VAS) - The participant assessed their pain on a 0 to 100 millimeter (mm) horizontal VAS. The left-hand extreme of the line equals 0 mm, and is described as "no pain" and the right-hand extreme equals 100 mm as "unbearable pain". A negative change indicated improvement.</outcome>
+      <timepoint>BL, Days 1, 22, 43, 64, 85, 106, 127, and every 21 days until disease progression of the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With a Change in Analgesic Medication During the Study - Analgesic medications were recorded throughout the study until disease progression.</outcome>
+      <timepoint>BL, Days 1, 22, 43, 64, 85, 106, 127, and every 21 days until disease progression of the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Body Weight (Kilograms [kg]) at BL</outcome>
+      <timepoint>BL</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Percentage of Participants With Change From Baseline in Body Weight by Percentage Change in Weight - Change in body weight was categorized as an increase of greater than (&gt;)5 percent (%), no change (plus or minus [±]5%), decrease of &gt;5-10%, or a decrease of &gt;10% from BL to the end of study. Time windows were applied in order to assign visits to weight measurements, and the lowest post-screening value recorded was used for the analysis. The percentage change in weight from screening was summarized over time.</outcome>
+      <timepoint>BL, Days 1, 22, 43, 64, 85, 106, 127, and every 21 days until disease progression of the end of study, 1 year after the cut-off date for the 2nd interim efficacy analysis</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Steady State Trastuzumab Area Under the Concentration (AUC) - Individual steady state predicted exposure, as assessed by median AUC (measured as mg multiplied by [*] day per liter [L]) calculated for all treated participants using the nominal dosage schedule administered as an IV infusion. Individual steady state AUC was calculated using all available PK samples from all timepoints.</outcome>
+      <timepoint>Predose and end of infusion on Days 1, 8, 15, and 64, and predose on Days 22 and 106</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Trastuzumab Minimum Serum Concentration (Cmin) - Median Cmin (measured as milligrams per liter [mg/L]) calculated for all treated participants using the nominal dosage schedule administered as an IV infusion.</outcome>
+      <timepoint>Predose and end of infusion on Days 1, 8, 15, and 64, and predose on Days 22 and 106</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Trastuzumab Maximum Serum Concentration (Cmax) - Median Cmax (measured as mg/L) calculated for all treated participants using the nominal dosage schedule administered as an IV infusion.</outcome>
+      <timepoint>Predose and end of infusion on Days 1, 8, 15, and 64, and predose on Days 22 and 106</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Adult patients &gt;=18 years of age
+
+          -  Inoperable locally advanced, recurrent, and/or metastatic cancer of the stomach or
+             gastro-esophageal junction
+
+          -  Adenocarcinoma
+
+          -  HER2-positive tumors</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Previous chemotherapy for advanced/metastatic disease
+
+          -  Lack of physical integrity of the upper gastrointestinal tract, or malabsorption
+             syndrome
+
+          -  History of cardiac disease
+
+          -  Dyspnoea at rest, due to complications of advanced malignancy or other disease, or
+             patients who require supportive oxygen therapy</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>1/09/2005</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize />
+    <actualsamplesize>584</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>1/06/2010</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital> - Adelaide</hospital>
+    <hospital> - Kurralta Park</hospital>
+    <hospital> - Melbourne</hospital>
+    <hospital> - Milton</hospital>
+    <hospital> - Perth</hospital>
+    <hospital> - Sydney</hospital>
+    <postcode>5011 - Adelaide</postcode>
+    <postcode>5037 - Kurralta Park</postcode>
+    <postcode>3128 - Melbourne</postcode>
+    <postcode>4064 - Milton</postcode>
+    <postcode>6008 - Perth</postcode>
+    <postcode>2217 - Sydney</postcode>
+    <countryoutsideaustralia>
+      <country>Belgium</country>
+      <state>Leuven</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Barretos</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio de Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Beijing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Guangdong</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Guangzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Jiangsu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Nanjing</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Shanghai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Suzhou</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>China</country>
+      <state>Wuhan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Costa Rica</country>
+      <state>San Jose</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Costa Rica</country>
+      <state>San José</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Herlev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Denmark</country>
+      <state>Odense</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Finland</country>
+      <state>Tampere</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Brest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Caen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Colmar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Lille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Marseille</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Reims</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Rouen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Heidelberg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Mainz</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>München</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Trier</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Witten</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Guatemala</country>
+      <state>Guatemala City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Hyderabad</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Kochi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>Mumbai</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>India</country>
+      <state>New Delhi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ancona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Firenze</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Napoli</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Parma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Roma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Udine</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Aichi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Chiba</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ehime</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Nagano</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Saitama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Shizuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tochigi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Yamagata</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Buchun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Bundang City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Daegu</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Goyang-si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Pusan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Guadalajara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Merida</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Mexico City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Mexico</country>
+      <state>Monterrey</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Panama</country>
+      <state>Panama City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Callao</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Peru</country>
+      <state>Lima</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Braga</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Coimbra</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Faro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Guimaraes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Lisboa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Portugal</country>
+      <state>Porto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Chelyabinsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ekaterinburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ivanovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>St Petersburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>UFA</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Yaroslavl</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Cape Town</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>South Africa</country>
+      <state>Durban</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Girona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Changhua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Kaohsiung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Istanbul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Izmir</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Turkey</country>
+      <state>Shhiye, Ankara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Birmingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Denbigh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Dundee</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Glasgow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Weston Super Mare</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Wirral</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Wolverhampton</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>Hoffmann-La Roche</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Chugai Pharmaceutical</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This parallel, randomized, open-label, multi-centre study will evaluate the effect on overall
+      survival of trastuzumab (Herceptin) in combination with a chemotherapy compared to the
+      chemotherapy alone in patients with HER2-positive advanced gastric cancer. Trastuzumab
+      (Herceptin) will be administered as intravenous infusion of 6 mg/kg (loading dose 8 mg/kg)
+      every 3 weeks. The chemotherapy consists of a combination of 6 cycles of fluorouracil (800
+      mg/m2/day intravenous infusion every 3 weeks) and cisplatin (80 mg/m2 intravenous infusion
+      every 3 weeks), or capecitabine (Xeloda, 1000 mg/m2 po twice daily for 14 days every 3 weeks)
+      and cisplatin (80 mg/m2 intravenous infusion every 3 weeks). Treatment with trastuzumab
+      (Herceptin) will continue until disease progression. The target sample size is 300-600
+      patients.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT01041404</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Clinical Trials</name>
+      <address>Hoffmann-La Roche</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

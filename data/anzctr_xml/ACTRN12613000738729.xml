@@ -1,0 +1,191 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="364104">
+  <stage>Registered</stage>
+  <submitdate>22/04/2013</submitdate>
+  <approvaldate>3/07/2013</approvaldate>
+  <actrnumber>ACTRN12613000738729</actrnumber>
+  <trial_identification>
+    <studytitle>Nebulised Heparin for Heart Surgery</studytitle>
+    <scientifictitle>Nebulised Heparin for Heart Surgery: A Randomised, Double-Blind, Placebo-Controlled Trial to evaluate the effect of nebulised heparin on PaO2/FiO2 in patients undergoing coronary artery bypass grafting (CABG)</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Lung injury following cardiac surgery</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>a single dose of nebulised heparin (50,000 IU in 10 ml) or placebo (0.9% sodium chloride 10 ml) will be administered following anaesthetic induction.</interventions>
+    <comparator>placebo nebulised (0.9% sodium chloride 10 ml)
+
+</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in the partial pressure of arterial oxygen to the fraction of inspired oxygen (PaO2/FiO2) over the operative period, assessed by analysis of arterial blood gas levels.</outcome>
+      <timepoint>at end of surgery</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>duration of mechanical ventilation</outcome>
+      <timepoint>measured while managed in ICU</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number and days of organ supports (mechanical ventilation, inotropes and haemofiltation) required over first 7 post-operative days.</outcome>
+      <timepoint>over first 7 post-operative days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>mortality</outcome>
+      <timepoint>hospital discharge</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>coronary artery bypass grafting (CABG) with 4 or more grafts 
+or a combined procedure of CABG  with open aortic valve replacement.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>79</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Allergy to heparin; any history of heparin induced thrombocytopenia
+Renal impairment (defined as creatinine &gt;130 umol/L)
+Planned to receive pre-operative heparin
+Receiving systemic immunosuppressant (such as steroids, cyclosporine, azathioprine)
+Marked limitation of physical activity: defined as development of fatigue or shortness of breath on walking 100 meters.
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>allocation concealment will be undertaken. Allocation involved contacting the holder of the allocation schedule who was “off-site.” </concealment>
+    <sequence>Permuted block randomisation</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>nil</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>mixed model of primary end-point.
+
+Based on the results on a study we undertook of the anti-inflammatory agent Etanercept on patients undergoing elective cardiac surgery we expect the fall in the PaO2/FiO2 over the operative period in the nebulised heparin arm to be 110 lower than that of the placebo arm. The SD is expected to be 100.  Based on these assumptions, for the study to have a power of 0.9 and alpha of 0.05, a total of 37 patients are required. We have rounded this up to 40 patients.</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 1</phase>
+    <anticipatedstartdate>30/06/2013</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/06/2016</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Barwon Health - Geelong Hospital campus - Geelong</hospital>
+    <postcode>3220 - Geelong</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Barwon Health</primarysponsorname>
+    <primarysponsoraddress>Bellerine St  Geelong VIC 3220</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname> St.Vincent's Hospital Departmental funds</fundingname>
+      <fundingaddress>St.Vincents Hospital 41 Victoria Pde Fitzroy Victoria, 3065
+</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Hypothesis and Outcomes: This study will test the primary hypothesis that nebulised heparin improves lung function, assessed by the change in the partial pressure of arterial oxygen to the fraction of inspired oxygen (PaO2/FiO2) over the operative period. Secondary outcomes include the extent of post-operative organ supports and duration of intensive care and hospital stays.
+Significance: Nebulised heparin offers the possibility of a cost-effective strategy to prevent respiratory failure developing in patients following heart surgery. Health benefits and healthcare cost savings could be substantial. An effective strategy could save the Australian healthcare system at least $8.5 million per year in intensive care costs alone. 
+</summary>
+    <trialwebsite>nil</trialwebsite>
+    <publication>nil</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>nil</publicnotes>
+    <ethicscommitee>
+      <ethicname>Barwon Health</ethicname>
+      <ethicaddress>Bellerine St  Geelong VIC 3220</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>16/04/2013</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Barry Dixon</name>
+      <address>ST. Vincents Hospital 41 Victoria Parade, Fitzroy VIC 3065</address>
+      <phone>+ 61 3 92884488</phone>
+      <fax>+ 61 3 92884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Barry Dixon</name>
+      <address>ST. Vincents Hospital 41 Victoria Parade, Fitzroy VIC 3065</address>
+      <phone>+ 61 3 92884488</phone>
+      <fax>+ 61 3 92884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Barry Dixon</name>
+      <address>ST. Vincents Hospital 41 Victoria Parade, Fitzroy VIC 3065</address>
+      <phone>+ 61 3 92884488</phone>
+      <fax>+ 61 3 92884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Barry Dixon</name>
+      <address>ST Vincents Hospital 41 Victoria Parade, Fitzroy VIC 3065</address>
+      <phone>+ 61 3 92884488</phone>
+      <fax>+ 61 3 92884487</fax>
+      <email>barry.dixon@svhm.org.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,221 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373202">
+  <stage>Registered</stage>
+  <submitdate>27/06/2017</submitdate>
+  <approvaldate>28/07/2017</approvaldate>
+  <actrnumber>ACTRN12617001105336p</actrnumber>
+  <trial_identification>
+    <studytitle>Effects of endurance training on muscle adaptations in males.</studytitle>
+    <scientifictitle>The effects of exercise on markers of mitochondrial dynamics and mitochondrial remodelling in males.</scientifictitle>
+    <utrn> U1111-1198-3624</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Metabolic disorders</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Metabolic disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Group 1: low-intensity high-volume exercise.
+Participants will train 3 to 4 times per week throughout the 8-week period. Each exercise session will consist of a continuous cycling bout at an intensity of 90% of the first lactate threshold (WLT1) on a stationary bike for a length of 60 to 150 min. Each training session will be performed at the Exercise Physiology laboratory at Footscray Park Campus (Victoria University). The intensity is selected for the exercise to be continuous without requiring high effort, and the duration of the bout is selected based on the usual session duration done by endurance athletes at low intensity and is progressively increased to a maximum of 150 min  to stimulate training adaptations.
+
+Group 2: high-intensity low-volume exercise.
+Participants will train 3 to 4 times per week throughout the 8-week period. Each exercise session will consist of an interval session with 30-seconds all-out sprints at a maximum intensity on a stationary bike (load imposed in the bike corresponds to 0.075 kg/kg body mass, this is derived from the Wingate test), performing a total of 4 to 10 sprints. Rest interval between sprints will be 4 minutes at a very low intensity (50 W). Each training session will be performed at the Exercise Physiology laboratory at Footscray Park Campus (Victoria University). The intensity is based on previous literature performing 30-seconds all-out sprints, and the number of sprints performed in previous studies varies between 4 and 10, so to stimulate training adaptations the number of sprints performed in each session is progressively increased.
+
+Both training groups are matched in the training load fold increase throughout the training period (e.g., both groups increase 2.5 times their weekly load from week 1 to week 8). Progression of the training is as follows: Week 1 (W1) will represent 100% of the training load; Week 2 training load will be the same as W1 + 25% of the load (in minutes for Group 1, and in sprints for Group 2); Week 3 will also be W1 + 50% of the load; this same pattern will be followed for Week 4 (W1 + 75 %), Week 6 (W1 + 100 %), Week 7 (W1 + 125 %), and Week 8 (W1 + 150 %). Only Week 5 will be different, as it will be like Week 3 (W1 + 50 %) to allow the training to follow a traditional periodised structure.
+
+All training sessions will be supervised by an experienced sport scientist. </interventions>
+    <comparator>Group 1 will act as a control group. </comparator>
+    <control>Active</control>
+    <interventioncode>Lifestyle</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Mitochondrial content measured as mitochondrial volume are from electron microscopy (EM) images and citrate synthase activity from the enzyme activity assay. Both measurements are from skeletal muscle obtained from the vastus lateralis.</outcome>
+      <timepoint>Before the first exercise session in week 1 and 72h after the last exercise session in week 8.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Mitochondrial respiratory function in permeabilised fibres assessed with an oxygen respirometer that tracks changes in oxygen levels when substrates are added to the permeabilised fibres..</outcome>
+      <timepoint>Before the first exercise session in week 1 and 72h after the last exercise session in week 8.</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Mitochondrial dynamics measured as protein content (via Western Blot technique) and gene expression (via quantitative polymerase chain reaction technique; qPCR) of MFN2, and OPA1 (mitochondrial fusion); protein content and gene expression of DRP1 and Mff (mitochondrial fission). All measurements are from skeletal muscle obtained from the vastus lateralis.This is a composite primary outcome.</outcome>
+      <timepoint>Before and after the first exercise session in week 1.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Relationship between endurance performance adaptation (measured as time to complete 20 km) and mitochondrial content (as citrate synthase activity from the enzyme activity assay, and mitochondrial volume density from electron microscopy images from the skeletal muscle samples obtained from the vastus lateralis).</outcome>
+      <timepoint>Before the first exercise session in week 1 and 72h after the last exercise session in week 8.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Mitochondrial specific degradation (mitophagy) measured as protein content (via Western Blot technique) and gene expression (via quantitative polymerase chain reaction technique; qPCR) of markers such as PINK1, phosphorylation of Ubiquitin at Serine 65, and Parkin. All measurements are from skeletal muscle obtained from the vastus lateralis. This is a composite secondary outcome.</outcome>
+      <timepoint>Before and after the first exercise session in week 1.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Active participants (taking part in physical activity 1 to 3 times per week)
+Free of injury
+Free of any adverse health condition.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>35</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Males</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Any of the following:
+1) sedentary 
+2) current muscle or ligament injury of the lower body.
+3) current or previous cardiovascular or respiratory condition or abnormality.
+4) current metabolic disease (e.g. diabetes)
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Allocation is not concealed</concealment>
+    <sequence>Stratified randomisation based on the fitness level (measured as power output at the lactate threshold).</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Results will be analysed using two-way repeated ANOVA where the within factor will be time and the between factor will be condition. Individual relationships between variables will be studied by means of linear regressions. The level of significance will be set at p&lt;0.05 level. Assumptions of normality will be verified using the Shapiro-Wilk test before using parametric tests</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>1/09/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/03/2019</anticipatedenddate>
+    <actualenddate />
+    <samplesize>28</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/06/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <postcode>3011 - Footscray</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>VICTORIA UNIVERSITY</primarysponsorname>
+    <primarysponsoraddress>Institute of Sport, Exercise &amp; Active Living
+College of Sport and Exercise Science
+Melbourne VIC 3011, Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>VICTORIA UNIVERSITY</fundingname>
+      <fundingaddress>Institute of Sport, Exercise &amp; Active Living
+College of Sport and Exercise Science
+Melbourne VIC 3011, Australia</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The project aims to investigate the effects of different types of endurance exercise typically performed by endurance athletes on changes in mitochondria (note: Mitochondria are our muscles power houses, producing the energy required to enable your muscles to contract). This will allow us to understand what type of endurance exercise increases the mitochondrial reticulum (network of interconnected mitochondria) and what type of exercise stimulates a higher quality control (recycling of mitochondria). The information obtained from this research has implications for both performance and health, as it will allow better prescribe exercise and to best promote mitochondrial adaptations. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>VICTORIA UNIVERSITY HUMAN RESEARCH ETHICS COMMITTEE</ethicname>
+      <ethicaddress>Victoria University
+Ballarat Rd
+Footscray Park Campus
+Footscray, Melbourne
+3011, VIC
+Australia</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>26/04/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>David Bishop</name>
+      <address>Victoria University
+Ballarat Rd
+Footscray Park Campus
+Footscray, Melbourne
+3011, VIC
+Australia</address>
+      <phone>+61 399199471</phone>
+      <fax />
+      <email>david.bishop@vu.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>David Bishop</name>
+      <address>Victoria University
+Ballarat Rd
+Footscray Park Campus
+Footscray, Melbourne
+3011, VIC
+Australia</address>
+      <phone>+61 399199471</phone>
+      <fax />
+      <email>david.bishop@vu.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Javier Botella Ruiz</name>
+      <address>Victoria University
+Ballarat Rd
+Footscray Park Campus
+Footscray, Melbourne
+3011, VIC
+Australia</address>
+      <phone>+61 490534229</phone>
+      <fax />
+      <email>javier.botellaruiz@live.vu.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Javier Botella Ruiz</name>
+      <address>Victoria University
+Ballarat Rd
+Footscray Park Campus
+Footscray, Melbourne
+3011, VIC
+Australia</address>
+      <phone>+61 490534229</phone>
+      <fax />
+      <email>javier.botellaruiz@live.vu.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

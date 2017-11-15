@@ -1,0 +1,201 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370115">
+  <stage>Registered</stage>
+  <submitdate>13/02/2016</submitdate>
+  <approvaldate>22/04/2016</approvaldate>
+  <actrnumber>ACTRN12616000530426</actrnumber>
+  <trial_identification>
+    <studytitle>Ultrasonography of respiratory muscles to estimate the probability of extubation failure after cardiothoracic surgery</studytitle>
+    <scientifictitle>Can extubation failure after cardiothoracic surgery be predicted by echography of the diaphragm muscles?</scientifictitle>
+    <utrn>U1111-1180-1999</utrn>
+    <trialacronym>EXPEDIA Study: EXtubation failure Prediction by Echography of the DIAphragm</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>acute respiratory failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Occurrence of acute respiratory failure during weaning process defined as:
+- Failure of a spontaneous breathing trial
+- Post extubation acute respiratory failure
+Duration of observation will be 2 days if extubation occurs
+Diaphragm thickness (tdi) will be measured in the zone of apposition of the diaphragm to the rib cage using a 10-MHz linear ultrasound probe. Diaphragm thickening fraction (TFdi) will be defined as the percentage change in tdi between end-expiration and end-inspiration. Those index will be calculated in each patients during ventilation with pressure support (PS) and during SBT on the right and left sides. Ultrasound performed 10 minutes after beginning of PS and 10 minutes after beginning of SBTWeaning failures will be defined by reintubation within 48 hours post extubation or failure of the SBT.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Diagnosis / Prognosis</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Diaphragm thickening fraction using a 10-MHz linear ultrasound probe. </outcome>
+      <timepoint>At the end of a spontaneous breathing trial</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Extubation failure defined as 
+failure of a spontaneous breathing trial or a respiratory failure occuring during the next 48 hours following extubation</outcome>
+      <timepoint>end of a spontaneous breathing trial and during the 48 hours after extubation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in diaphragm thickening fraction between breathing during pressure support and SBT, assessed by 10-MHz linear ultrasound probe</outcome>
+      <timepoint>end of the pressure support 
+end of the spontaneous breathing trial</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Adult patients after cardiothoracic surgery under mechanical ventilation and eligible to weaning process according to the attending physician</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>diaphragmatic palsy
+pregnant women
+patient's refusal
+infants and youngs</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Normality of data distribution will be assessed using the Kolmogorov-Smirnov test. Continuous variables will be described as mean (SD) or median [interquartile range (IQR)] and compared using Student's t test or the Mann-Whitney U test, as appropriate. The chi-square test or Fishers exact test are chosen to compare categorical variables. Sensitivity (Se), specificity (Sp), and predictive values were computed using standard formulas. A P value &lt;0.05 was considered significant.
+After a preliminary study, we evaluated that a 30% increase of diaphragm thickening fraction led to a sensitivity of 100% and a specificity of 84% for extubation failure. Therefore, for a sensitivity with a 95%-condidence interval=90%-100%, we need to evaluate 5 patients with extubation failure. For a specificity with a 95%-condidence interval=77%-97%, we need to evaluate 43 patients with extubation success. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>True</patientregistry>
+    <followup>2</followup>
+    <followuptype>Days</followuptype>
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Convenience sample</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>2/05/2016</anticipatedstartdate>
+    <actualstartdate>2/05/2016</actualstartdate>
+    <anticipatedenddate>28/10/2016</anticipatedenddate>
+    <actualenddate>25/11/2016</actualenddate>
+    <samplesize>48</samplesize>
+    <actualsamplesize>53</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>27/11/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Hopital Marie Lannelongue</primarysponsorname>
+    <primarysponsoraddress>133 avenue de la Resistance 92350 Le Plessis robinson</primarysponsoraddress>
+    <primarysponsorcountry>France</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Hopital Marie Lannelongue</fundingname>
+      <fundingaddress>133 avenue de la Resistance
+92350 Le Plessis robinson</fundingaddress>
+      <fundingcountry>France</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>None</sponsorname>
+      <sponsoraddress>None</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The failure of weaning from mechanical ventilation can be associated with a diaphragmatic dysfunction after thoracic cardiovascular surgery. Ultrasound measurements of diaphragm tickening may be useful to monitor diaphragm activity of each half diaphragm. We expect to establish a sonographic criteria during the spontaneous breathing trial (SBT) to predict weaning failure from mechanical ventilation after cardio thoracic surgery. Patients after majors cardio or thoracic surgery who met criteria for a spontaneous breathing trial will be enrolled. All patients with a half diaphragm paralyzed will be excluded. Diaphragm thickness (tdi) will be measured in the zone of apposition of the diaphragm to the rib cage using a 10-MHz linear ultrasound probe. Diaphragm thickening fraction (TFdi) will be defined as the percentage change in tdi between end-expiration and end-inspiration. Those index will be calculated  in each patients during ventilation with pressure support (PS) and during SBT on the right and left sides. Weaning failures will be defined by reintubation within 48 hours post extubation or failure of the SBT. 
+We have planne to enrolled  prospectively 48 patients. We will evaluate the sensitivity and specificity of diaphragm thickening fraction to predict SBT or extubation failure. The area under the receiver operating characteristic curve will be calculated. We expected to show that ultrasound measures of diaphragm thickening may be useful to predict extubation success or failure. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comite de Protection des Personnes Ile de France VII</ethicname>
+      <ethicaddress>Hopital de Bicetre
+78 rue du General Leclerc
+94275 Le Kremlin</ethicaddress>
+      <ethicapprovaldate>11/12/2013</ethicapprovaldate>
+      <hrec>2013-A01552</hrec>
+      <ethicsubmitdate>6/11/2013</ethicsubmitdate>
+      <ethiccountry>France</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>STEPHAN Francois</name>
+      <address>Reanimation adulte
+Hopital Marie Lannelongue
+133 avenue de la Resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 1 40 94 85 80</phone>
+      <fax>+ 33 1 40 94 85 86</fax>
+      <email>f-stephan@hotmail.fr</email>
+      <country>France</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>STEPHAN Francois</name>
+      <address>Reanimation adulte
+Hopital Marie Lannelongue
+133 avenue de la Resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 1 40 94 85 80</phone>
+      <fax>+33 1 40 94 85 86</fax>
+      <email>f-stephan@hotmail.fr</email>
+      <country>France</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>STEPHAN Francois</name>
+      <address>Reanimation adulte
+Hopital Marie Lannelongue
+133 avenue de la Resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 1 40 94 85 80</phone>
+      <fax>+33 1 40 94 85 86</fax>
+      <email>f-stephan@hotmail.fr</email>
+      <country>France</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Mrs</title>
+      <name>TRAORE Aminata</name>
+      <address>Unite de Recherche Clinique
+Hopital Marie Lannelongue
+133 avenue de la Resistance
+92350 Le Plessis Robinson</address>
+      <phone>+33 1 40 94 8664</phone>
+      <fax>+33 1 40 94 85 86</fax>
+      <email>a.traore@ccml.fr</email>
+      <country>France</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

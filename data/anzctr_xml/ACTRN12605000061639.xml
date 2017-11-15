@@ -1,0 +1,185 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="100">
+  <stage>Registered</stage>
+  <submitdate>1/08/2005</submitdate>
+  <approvaldate>1/08/2005</approvaldate>
+  <actrnumber>ACTRN12605000061639</actrnumber>
+  <trial_identification>
+    <studytitle>Randomised controlled trial of maintenance fluids in paediatric intensive care.</studytitle>
+    <scientifictitle>Randomised controlled trial of maintenance fluids in paediatric intensive care: effect on plasma sodium concentration.</scientifictitle>
+    <utrn />
+    <trialacronym />
+  </trial_identification>
+  <conditions>
+    <healthcondition>Children admitted to paediatric intensive care (PICU)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Blood</conditioncode1>
+      <conditioncode2>Haematological diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Main study: randomised to either traditional maintenance fluid rate or 2/3 this rate as either 0.9% saline or 4% dextrose 0.18% saline for 12 to 24 hours (factorial design).
+Secondary study: randomised to 2/3 traditional maintenance rate as either 0.9% saline or 4% dextrose 0.18% saline for 12 to 24 hours.</interventions>
+    <comparator>4% dextrose 0.18% saline</comparator>
+    <control>Active</control>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Change in plasma sodium concentration</outcome>
+      <timepoint>At 12 to 24 hours.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion of subjects whose plasma sodium concentration changed by &gt;5 mmol/L.</outcome>
+      <timepoint>After 12-24 hours.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Rate of change of plasma sodium concentration.</outcome>
+      <timepoint>Per hour.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in plasma and urinary osmolarity.</outcome>
+      <timepoint>After 12 to 24 hours.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse neurological events.</outcome>
+      <timepoint>Within 12 to 24 hours.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Frequency of hypoglycaemia.</outcome>
+      <timepoint>Within 12 to 24 hours.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion needing fluid resuscitation boluses.</outcome>
+      <timepoint>Within 12 to 24 hours.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Net fluid balance.</outcome>
+      <timepoint>Within 12 to 24 hours.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Children over 28 days old admitted to PICU who would normally receive IV maintenance fluids for at least 12 hours.</inclusivecriteria>
+    <inclusiveminage>28</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>Not stated</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Dysnatraemia (sodium &lt;135mmol/L or &gt;145 mmol/L), glucose &lt;3.5 mmol/L, contra-indications to maintenance fluids (full list available from the chief investigator, includes renal failure, diabetic ketoacidosis, gastroenteritis, raised intra-cranial pressure), previous enrolment, blood tests or IV fluids not indicated.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>After enrolment, subjects are assigned the next available study number and allocated a correspondingly numbered, sealed box containing blinded study fluids and instructions on the infusion rate.</concealment>
+    <sequence>Computer-generated random number sequence (randplan command from Stata version 8) in blocks.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Factorial</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>14/03/2005</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>48</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up continuing</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Women's and Children's Hospital Adelaide. Not sponsored financially.</primarysponsorname>
+    <primarysponsoraddress>Women's and Children's Hospital, North Adelaide SA Australia</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary />
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Women's and Children's Hospital Adelaide</ethicname>
+      <ethicaddress />
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Dr Michael Yung</name>
+      <address>Women's and Children's Hospital Adelaide
+72 Kingwilliam Rd
+North Adelaide SA 5006</address>
+      <phone>+61 8 81616479</phone>
+      <fax>+61 8 81617457</fax>
+      <email>michael.yung@cywhs.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Michael Yung</name>
+      <address>Women's and Children's Hospital Adelaide
+72 Kingwilliam Rd
+North Adelaide SA 5006</address>
+      <phone>+61 8 81616479</phone>
+      <fax>+61 8 81617457</fax>
+      <email>yungm@wch.sa.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title />
+      <name />
+      <address />
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,217 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371828">
+  <stage>Registered</stage>
+  <submitdate>12/02/2017</submitdate>
+  <approvaldate>3/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000484347</actrnumber>
+  <trial_identification>
+    <studytitle>Influence of central venous pressure reducing manouvres on the postoperative outcome in patients undergoing major liver surgery</studytitle>
+    <scientifictitle>The influence of two different central venous pressure (CVP) reducing regimes used in patients undergoing liver resection using low CVP anesthesia principle on their clinical outcome, hemodynamic stability and global oxygen balance. </scientifictitle>
+    <utrn>U1111-1189-6855</utrn>
+    <trialacronym>HOLIRES (Hemodynamic Optimization in LIver REsection Surgery)</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>perioperative outcomes</healthcondition>
+    <healthcondition>liver resection</healthcondition>
+    <healthcondition>low central venous pressure anesthesia</healthcondition>
+    <healthcondition>hemodynamic stability</healthcondition>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Comparison of two strategies of reaching low central venous pressure (Low-CVP; below 5 mmHg) during liver resection surgery. 
+One strategy is using absolute fluid restriction (Arm 1 - intervention), the other one relative volume redistribution caused by systemic vasodilation (Arm 2 - control). Treatments in both groups will be administered by treating anaesthesiologist (member of the study team) according to the randomization during the preoperative (from morning till surgery) and intraoperative period. Treatments in both arms will be graded into predefined steps.
+In the Arm 1 absolute restriction of circulating volume will be provided by reduction of preoperative fluids (neither intravenous nor oral intake 6 hours prior surgery) coupled with minimal (1ml/kg/hour, Ringerfundin solution - B´Braun) intraoperative intravenous supplementation. If needed, given the CVP value assessed by the treating anaesthesiologist, diuretics will be further administered (Furosemide 10mg intravenous per step, maximum 3 doses allowed i.e. up to three steps) to reach the low-CVP target.  Participants will receive only the minimal number of steps required to reach the 5mmHg CVP target.</interventions>
+    <comparator>In the Arm 2 standard preoperative intravenous fluid replacement for fasting (6 hours prior surgery, 100ml/hour Plasmalyte solution - Baxter) will be provided coupled with restrictive fluid loading in the pre-resection period (2ml/kg/hour, Ringerfundin solution- B´Braun). Relative fluid redistribution using volatile anesthetics (inhaled sevoflurane in O2 + N2O mixture; 1.6 and 2 times minimal alveolar concentrations as steps 1 and 2) and continuous infusion of vasodilators (isosorbid dinitrate 0.1% 5ml/hour intravenous  step 3) will be used to decrease the central venous pressure till the end of liver resection phase. Participants will receive only the minimal number of steps required to reach the 5mmHg CVP target.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Ease of reaching low central venous pressure (CVP lower 5 mmHg) measured as number of predefined protocol steps needed</outcome>
+      <timepoint>intraoperatively, prospectively - number of predefined steps of intervention needed to reach the target</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Composite postoperative outcome (rate of postoperative complications and/or death). Postoperative complications will be assessed by clinical, radiological or laboratory examination; screened events: death of any origin, complications - infectious (pneumonia, abdominal, urinary, catheter related blood stream infections), respiratory (respiratory failure, fluidothorax, atelectasis), cardiovascular or thrombotic (myocardial infarction, deep vein thrombosis, pulmonary embolization, stroke, postoperative bleeding), acute kidney injury and gastrointestinal (biliary leakage, hepatic dysfunction, ileus).</outcome>
+      <timepoint>30 days,assessed by daily observation by member of the study group unaware of patients group allocation</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Hospital length of stay</outcome>
+      <timepoint>till discharge, assessed by daily observation by member of the study group unaware of patients group allocation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intraoperative blood loss</outcome>
+      <timepoint>Intraoperatively, prospectivelly collcted by the treating anesthesiologist</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite secondary outcome concerning oxygen debt markers (serum lactate levels and mixed venous oxygen saturation)</outcome>
+      <timepoint>In the end of operation and 4, 8, 24 hours postoperatively</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Intraoperative hemodynamic stabíility</outcome>
+      <timepoint>Assessed prospectivelly during the operation in 3 minutes intervals using advanced hemodynamic monitoring (Vigileo/FloTrac). Time spent in hypodynamic state (Cardiac index below 2 l/min/m2) will be collected.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>patients scheduled for hepatic resection of more than 2 liver segments, general anesthesia, regullar heart rhythm, signed informed consent</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>body weight less than 50 kg or more than 150 kg, irregular heart rythm, severe cardiovascular disease (chronic heart failure, valvular abnormality, cardiomyopathy etc.), severe liver dysfunction (Child Pugh score B or C)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes</concealment>
+    <sequence>Simple randomization be performed by random drafting of sealed envelopes containing group allocation (Intervention vs. Control; 1:1 ratio)</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>As the treating anesthesiologist will provide the intervention he cannot be blinded to the group allocation. All other members and hospital staff will be unaware of the group allocation (partial blinding).</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Study is designed as a hypothesis and sample size generating for further research. It is limited  by study time, no calulation of  minimal number of participants has been made.
+The analysis will be performed using the MedCalc software (Frank Schoonjans, MedCalc Software, Broekstraat 52, 9030, Mariekerke, Belgium). The Kolmogorov Smirnov test will be  used for normality assessment. Difference in normaly distributed data will be assessed using paired or unpaired student´s t test and Mann Whitney test will be used for abnormally distributed data. For time-dependent variables, repeated measures ANOVA test or Friedman test will be performed. Categorical variables will be tested using the Chi-square test. </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate />
+    <actualstartdate>11/01/2012</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>4/02/2015</actualenddate>
+    <samplesize>30</samplesize>
+    <actualsamplesize>34</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>4/03/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Czech Republic</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Dpt. of Anesthesia and Intensive Care of The Faculty of Medicine Plzen - Charles University Prague)</primarysponsorname>
+    <primarysponsoraddress>The University hospital and The Faculty of Medicine in Plzen
+Charles University Prague
+alej Svobody 80
+Plzen
+304 06</primarysponsoraddress>
+    <primarysponsorcountry>Czech Republic</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Charles University Research Fund (project number P36)</fundingname>
+      <fundingaddress>The Faculty of Medicine in Plzen
+Charles University in Prague
+Husova 3
+Plzen
+306 05</fundingaddress>
+      <fundingcountry>Czech Republic</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The aim of the study is to compare the effectivity of two methods of lowering central venous pressure (CVP) on the ease to reach the predefined target of CVP lower than 5 mmHg. Patients´ postoperative outcome assessed via composite morbidity (complications rate) and mortality till 30 days and hospital length of stay as well as intraoperative safety outcomes (hemodynamic stability, markers of global oxygen debt, blood loss,) will be assessed, allowing to define simple, standardized and safe approach of low-CVP anesthesia.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Local ethics committee of the Charles University hospital in Plzen</ethicname>
+      <ethicaddress>Charles University hospital in Plzen
+E. Benese 13
+Plzen
+305 99</ethicaddress>
+      <ethicapprovaldate>12/08/2010</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>4/08/2010</ethicsubmitdate>
+      <ethiccountry>Czech Republic</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jan Benes, M.D. Ph.D.</name>
+      <address>Dpt. of Anesthesiology and Intensive Care Medicine
+Faculty of Medicine and Hospital in Plzen, Charles University 
+alej Svobody 80
+Plzen, 32300</address>
+      <phone>+420377104381</phone>
+      <fax>+420377104359</fax>
+      <email>benesj@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jan Zatloukal</name>
+      <address>Dpt. of Anesthesiology and Intensive Care Medicine
+Faculty of Medicine and Hospital in Plzen, Charles University 
+alej Svobody 80
+Plzen, 32300</address>
+      <phone>+420377104381</phone>
+      <fax>+420377104359</fax>
+      <email>zatloukalj@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Jan Zatloukal</name>
+      <address>Dpt. of Anesthesiology and Intensive Care Medicine
+Faculty of Medicine and Hospital in Plzen, Charles University 
+alej Svobody 80
+Plzen, 32300</address>
+      <phone>+420377104381</phone>
+      <fax>+420377104359</fax>
+      <email>zatloukalj@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Jan Benes, M.D., Ph.D.</name>
+      <address>Dpt. of Anesthesiology and Intensive Care Medicine
+Faculty of Medicine and Hospital in Plzen, Charles University 
+alej Svobody 80
+Plzen, 32300</address>
+      <phone>+420377104381</phone>
+      <fax>+420377104359</fax>
+      <email>benesj@fnplzen.cz</email>
+      <country>Czech Republic</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

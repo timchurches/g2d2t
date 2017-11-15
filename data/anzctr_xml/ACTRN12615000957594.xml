@@ -1,0 +1,254 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369229">
+  <stage>Registered</stage>
+  <submitdate>1/09/2015</submitdate>
+  <approvaldate>11/09/2015</approvaldate>
+  <actrnumber>ACTRN12615000957594</actrnumber>
+  <trial_identification>
+    <studytitle>Evaluating the effects of two approaches to oxygen therapy in Intensive Care Unit patients requiring life support (mechanical ventilation)</studytitle>
+    <scientifictitle>A multicentre, randomised, single-blinded clinical trial comparing the effect of conservative oxygen therapy with standard care on ventilator-free days in mechanically ventilated adults in the intensive care unit.</scientifictitle>
+    <utrn>1111-1167-0569</utrn>
+    <trialacronym>The ICU -ROX trial</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <healthcondition>Mechanical ventilation</healthcondition>
+    <healthcondition>Hyperoxaemia</healthcondition>
+    <healthcondition>Respiratory failure</healthcondition>
+    <conditioncode>
+      <conditioncode1>Respiratory</conditioncode1>
+      <conditioncode2>Other respiratory disorders / diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Anaesthesiology</conditioncode1>
+      <conditioncode2>Other anaesthesiology</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The intervention arm is a conservative approach to oxygen therapy, which aims to minimise unnecessary exposure to hyperoxaemia and reduce the exposure to higher than necessary inspired oxygen concentrations. When a participant is allocated to conservative oxygen therapy, the inspired oxygen concentration will be decreased to room air as rapidly as possible provided that the SpO2 measured by peripheral pulse oximetry is greater than the acceptable lower limit. SpO2 levels of greater than 96% will be strictly avoided and an upper SpO2 alarm limit of 97% will apply whenever supplemental oxygen is being administered in the ICU to minimise the risk of hyperoxaemia. After extubation, in the conservative oxygen group, the upper monitored alarm limit of acceptable SpO2 of 97% will still apply whenever supplemental oxygen is being administered. In the event that the SpO2 exceeds the acceptable upper limit, downward titration of supplemental oxygen will be undertaken as a high priority and supplemental oxygen will be discontinued as soon possible.  The lower limit alarm for SpO2 will be set at 90% (or lower if clinically appropriate).  If the PaO2 or the SaO2 is lower than the acceptable limit, inspired oxygen may be increased if clinically appropriate, irrespective of the SpO2 reading.  The intervention will be applied whenever the patient is in the ICU (including any periods of ICU readmission). The duration of the intervention period is until 28 days or hospital discharge, whichever occurs first.  The site principal investigators will take primary responsibility for training local staff and will use study tools provided by the coordinating centre including posters describing the intervention.  On-site monitoring will be performed by a project manger from the coordinating centre to ensure compliance with the protocol.</interventions>
+    <comparator>Patients assigned to the comparator arm will receive standard care both while ventilated and after extubation with no specific measures taken to avoid high FiO2 or high SpO2. The use of upper alarm limits for SpO2 in the comparator arm group will be prohibited as upper alarm limits for SpO2 are not used as part of standard care. The lower limit alarm for SpO2 will be set at 90% (or lower if clinically appropriate). If the PaO2 or the SaO2 is lower than the acceptable limit, inspired oxygen may be increased if clinically appropriate, irrespective of the SpO2 reading.  The use of an FiO2 of less than 0.3 whilst ventilated is discouraged.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Other</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome measure is Ventilator Free Days. VFDs is defined as the total number of days (or part days) of unassisted breathing between randomisation and day 28 (672 hours post-randomisation) with the exception that all patients who die by day 28 will be defined as having zero VFDs and any periods of assisted breathing lasting less than 24 hours for the purpose of a surgical procedure will not count against the VFD calculation. For the purposes of this definition, assisted breathing is defined as any form of invasive positive pressure ventilation via an endotracheal tube or tracheostomy tube or non-invasive ventilation provided via a face mask or nasal mask. Patients who are receiving extracorporeal membrane oxygenation (ECMO) will be defined as receiving assisted breathing irrespective of whether they are ventilated or not.
+
+Unassisted breathing will be defined as any other form of breathing, including but not limited to patients who are:
+1. Extubated and receiving supplemental oxygen (including high flow nasal prongs) or breathing room air; or
+2. Breathing spontaneously through a tracheostomy tube.
+
+Patients transferred to another hospital or health care facility while still receiving assisted breathing will be followed to day 28 to assess VFDs. In patients who are breathing unassisted at the time of transfer to another hospital or health care facility, VFDs will be counted from the end of the last period of unassisted breathing prior to transfer.
+
+The outcome will be assessed by review of the hospital records</outcome>
+      <timepoint>Day 28 post randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>all cause mortality</outcome>
+      <timepoint>day 90 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>all cause mortality</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>duration of survival assessed hospital records or direct contact with next of kin or general practitioner to establish date of death.</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>quality of life assessed using the EuroQol5D5L</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Functional outcome assessed by the Extended Glasgow Outcome Scale (for patients with acute brain pathologies at baseline only)</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>proportion of patients in paid employment at baseline who are unemployed at 180 days.  Assessed by telephone interview.</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Cognitive function assessed using the telephone interview for cognitive status</outcome>
+      <timepoint>day 180 post randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients at least 18 years of age who require invasive mechanical ventilation in the ICU and are expected to be receiving mechanical ventilation beyond the next calendar day.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>After enrollment of 100 participants, in response to feedback from site investigators and research coordinators, the exclusion criteria were amended to read as follows:
+1. Greater than two hours of invasive mechanical ventilation and/ or non-invasive ventilation in an ICU during this hospital admission (includes time ventilated in another hospitals ICU)
+2. In the view of the treating clinician, hyperoxia is clinically indicated for reasons including (but not limited to) carbon monoxide poisoning or a requirement for hyperbaric oxygen therapy
+3. In the view of the treating clinician, avoidance of hyperoxia is clinically indicated for reasons including (but not limited to) chronic obstructive airways disease (COPD), paraquat poisoning, previous exposure to bleomycin, or chronic hypercapnic respiratory failure
+4. Pregnancy
+5.  Death is deemed to be inevitable as a result of the current acute illness and either the treating clinician, the patient, or the substitute decision maker are not committed to full active treatment
+6. Patients with a life expectancy of less than 90 days due to a chronic or underlying medical condition
+7.  Admitted following a drug overdose (including alcohol intoxication)
+8. Long-term dependence on invasive ventilation prior to this acute illness
+9. Confirmed or suspected diagnosis of any of the following: Guillain-Barré syndrome, cervical cord injury above C5, muscular dystrophy, or motor neurone disease
+10. Enrolment not considered in the patients best interests
+11. Enrolled in any other trial of targeted oxygen therapy
+12. Previously enrolled in the ICU-ROX study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomisation will be performed using a secure, web-based, randomisation interface. Randomisation will not be performed until participants fulfil all eligibility criteria and are ready to be assigned to study treatment. Participants will be enrolled in the study by ICU doctors, nurses, and research staff and the assigned intervention will be communicated to the bedside nurse who will implement the study intervention.</concealment>
+    <sequence>A permuted block randomisation method will be used with variable block sizes, stratified by site. The allocation sequence will be generated by the study statistician using computer generated random numbers.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The study will commence with a pilot run-in phase of 100 participants.  The purpose of the pilot run-in phase is:
+1. to confirm that the recruitment rate is sufficient for the trial to be completed in a timely fashion.
+2. to determine that the intervention increases the proportion of hours when the inspired oxygen concentration is 21%, increases the proportion of hours when the oxygen saturation measured by pulse oximetry is at least 97%, and does not increase the proportion of hours when the oxygen saturation measured by pulse oximetry is less than 88%.
+3. to determine that the intervention does not result in a significant difference in PEEP levels applied between treatment groups.
+4. to determine that at least 95% of enrolled patients are eligible.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>The primary outcome (VFDs) will be analysed using both a Wilcoxon rank-sum test with results presented medians (interquartile range) and secondly using a boot-strapped t-test with results presented as mean difference (95% CI). 
+
+We consider a clinical difference of 2.6 VFDs to be a minimally important clinical difference.  This effect size was used for sample size calculations in a recently published New England Journal of Medicine publication investigating simvastatin use in patients with Acute Respiratory Distress Syndrome which used VFDs as the primary outcome variable.  Based on pilot work we anticipate that baseline VFDs will be 16.4 (SD 11.3).  A sample size of 800 participants will provide 90% power to detect a difference of 2.6 VFDs using a two tailed hypothesis at an alpha of 0.05.  We have set our minimum sample size at 1000 participants.  This includes a 15% inflation in the sample size to account for the expected non-Gaussian distribution of VFDs, and an additional 80 participants to allow for drop-outs and an expected temporal trend of reducing day 90 mortality after ICU admission.  
+
+A complete statistical analysis plan will be published in the public domain before the final patient is enrolled.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>20/09/2015</anticipatedstartdate>
+    <actualstartdate>18/09/2015</actualstartdate>
+    <anticipatedenddate>31/12/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1000</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>QLD,SA,WA,VIC</recruitmentstate>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other</primarysponsortype>
+    <primarysponsorname>Medical Research Institute of New Zealand</primarysponsorname>
+    <primarysponsoraddress>Private Bag 7902
+Wellington 6242
+Level 7, CSB Building
+Wellington Hospital
+Riddiford St, Newtown
+Wellington 6021
+New Zealand
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Self funded/Unfunded</fundingtype>
+      <fundingname />
+      <fundingaddress />
+      <fundingcountry />
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Hospital</sponsortype>
+      <sponsorname>Austin Hospital</sponsorname>
+      <sponsoraddress>145 Studley Rd, 
+Heidelberg, 
+VIC 3084, 
+Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Adequate delivery of oxygen to the organs is essential for human life and all organs of the body require oxygen to function normally. Normally, oxygen makes up just under a quarter of the gas in the air we breathe. In patients who require life support, much higher amounts of oxygen (up to 100% oxygen) can be used.  Sometimes it is necessary to provide higher than normal amounts of oxygen to patients on life support in order to achieve normal levels of oxygen in the blood. However, patients who require life support often receive more oxygen than is absolutely necessary to achieve normal oxygen levels in the blood.  This commonly causes abnormally high levels of oxygen in the blood. The purpose of this study is to find out whether a conservative oxygen strategy, which avoids giving more oxygen than is necessary to maintain normal levels of oxygen in the blood, improves ventilator-free days (the number of days free from life support) compared to standard care.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>New Zealand Central Health and Disability Ethics Committee</ethicname>
+      <ethicaddress>Ministry of Health
+Ethics Department
+Freyberg Building
+Reception  Ground Floor
+20 Aitken Street
+Wellington 6011</ethicaddress>
+      <ethicapprovaldate>6/03/2015</ethicapprovaldate>
+      <hrec>15CEN14</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>New Zealand</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Wellington Hospital
+Riddiford Street
+Newtown
+Wellington 6021</address>
+      <phone>+6443855999</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Wellington Hospital
+Riddiford Street
+Newtown
+Wellington 6021</address>
+      <phone>+6443855999</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Wellington Hospital
+Riddiford Street
+Newtown
+Wellington 6021</address>
+      <phone>+6443855999</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Paul Young</name>
+      <address>Wellington Hospital
+Riddiford Street
+Newtown
+Wellington 6021</address>
+      <phone>+6443855999</phone>
+      <fax />
+      <email>paul.young@ccdhb.org.nz</email>
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

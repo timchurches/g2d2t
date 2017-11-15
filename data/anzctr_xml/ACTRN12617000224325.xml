@@ -1,0 +1,263 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372315">
+  <stage>Registered</stage>
+  <submitdate>8/02/2017</submitdate>
+  <approvaldate>10/02/2017</approvaldate>
+  <actrnumber>ACTRN12617000224325</actrnumber>
+  <trial_identification>
+    <studytitle>Droperidol, Ondansetron, Placebo Antiemetic Trial for adult Emergency Department patients with nausea.  (DOPAT)</studytitle>
+    <scientifictitle>Droperidol and Ondansetron compared with Placebo: a randomized controlled Antiemetic Trial of adult patients with nausea in the Emergency Department. (DOPAT)</scientifictitle>
+    <utrn>U1111-1192-6351 </utrn>
+    <trialacronym>DOPAT</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Nausea and vomiting</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm D: Droperidol 1.25 mg intravenously, one dose only
+Arm O: Ondansetron 8 mg intravenously, one dose only
+</interventions>
+    <comparator>Arm P: 0.9% normal saline placebo</comparator>
+    <control>Placebo</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Proportion of participants with a reduction in nausea of 5 mm or greater on a visual analog scale.</outcome>
+      <timepoint>30 minutes post-treatment</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of mean change in nausea between groups on a Visual Analog Scale.</outcome>
+      <timepoint>30 minutes post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of patient centered outcome between groups, as response to the question The medicine I received had the desired effect for me, Yes or No.   </outcome>
+      <timepoint>30 minutes post-treatment.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison between groups of use of additional antiemetic medication, with drug and dose to be recorded on the study case report form..</outcome>
+      <timepoint>30 minutes post-treatment</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Description of adverse events for all groups.  Absence or presence (mild/moderate/severe) of headache or dizziness will be specifically noted.  Agitation or sedation will be rated on the Richmond Agitation-Sedation Scale.  Any other adverse events will be noted as free text.</outcome>
+      <timepoint>From 30 minutes post-treatment to conclusion of ED episode of care.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Emergency Department patients aged 18 years or more, with nausea and/or vomiting as a primary or secondary complaint (any underlying cause).</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>* Known allergy to ondansetron or droperidol
+* Use of an agent with known antiemetic properties in the previous 4 hours, either prior to ED arrival, or earlier in the current ED episode of care.  Includes: ondansetron, droperidol, metoclopramide, promethazine, chlorpromazine, prochlorperazine and any steroid medication. 
+* Patients considered too unwell to consent or participate for any reason, including cardiovascular instability, hepatic failure, renal failure or altered mental state. 
+* Contraindication to the administration of normal saline infusion during the study period (e.g. left ventricular failure, chronic renal failure) 
+* Patients with Parkinsons disease or restless leg syndrome.
+* Patients taking a dopamine antagonist for any reason. Includes: amisulpride, chlorpromazine, clopenthixol or flupenthixol, domperidone, haloperidol, paliperidone, quetiapine, risperidone, thioridazine.
+* Patients with cognitive impairment or language barrier which compromises understanding of the outcome measurements. 
+* Patients with motion related nausea or vertigo, which have other specific recommended treatments, albeit with little supporting evidence 
+* Pregnant or breast feeding women; ondansetron is category B and droperidol category C, with both being excreted to breast milk
+* Chemotherapy or radiotherapy induced nausea and vomiting (CINV or RINV), which have other specific recommended antiemetic treatments
+* Inability to comply with an instruction to not drive or operate machinery for a minimum of 4 hours post-dosage; droperidol may impair these functions for a period of time, although 1.25 mg IV is a relatively small dose compared with dosages used for other indications 
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Central randomization by Pharmacy Department, Clinical Trials.  This group is independent to all clinical units, will perform the randomization and will provide the syringes of de-identified study drugs..  </concealment>
+    <sequence>Permuted block randomization.</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Prior study support that ondansetron leads to symptom improvement (as defined for this study) in 83% of patients, compared with 63% for plabebo.  A similar figure for droperidol was not known, but previous research suggests droperidol is at least as effective as ondansetron..  Based on replication of this, a sample of 112 per group was required to demonstrate difference between ondansetron and/or droperidol versus placebo.  Aim to recruit 126 per group.  Comparisons will primary utilize the chi square (or Fisher's Exact) test, and a Number Needed to Treat will be calculated.  There was insufficient information to consider powering the study to compare ondansetron with droperidol.  </statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>True</masking2>
+    <masking3>True</masking3>
+    <masking4>True</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>14/03/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>14/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>378</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>14/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Dandenong Hospital - Dandenong</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>Casey Hospital - Berwick</hospital>
+    <postcode>3175 - Dandenong</postcode>
+    <postcode>3168 - Clayton</postcode>
+    <postcode>3806 - Berwick</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Robert Meek</primarysponsorname>
+    <primarysponsoraddress>c/- Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Monash Emergency Research Fund</fundingname>
+      <fundingaddress>c/- Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175.</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Morson Taylor Foundation</fundingname>
+      <fundingaddress>c/- Australasian College for Emergency Medicine
+34 Jeffcott Street
+West Melbourne, Vic, 3003</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Andis Graudins</sponsorname>
+      <sponsoraddress>c/- Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Michaela Mee</sponsorname>
+      <sponsoraddress>c/- Emergency Department
+Monash Medical Centre
+Clayton Road
+Clayton, Vic, 3168</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Diana Egerton-Warburton</sponsorname>
+      <sponsoraddress>c/- Emergency Department
+Monash Medical Centre
+Clayton Road
+Clayton, Vic, 3168</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Alastair Meyer</sponsorname>
+      <sponsoraddress>c/- Emergency Department
+Casey Hospital
+Kangan Drive
+Berwick, Vic, 3806</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Pourya Pouryaha</sponsorname>
+      <sponsoraddress>c/- Emergency Department
+Casey Hospital
+Kangan Drive
+Berwick, Vic, 3806</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Study Purpose: Previous ED-based antiemetic research has failed to show a benefit of antiemetic drugs over placebo, with the possible exception of droperidol 1.25 mg IV.  This has led to doubts about the value of ED antiemetic drug use, or further ED-based antiemetic research.  Recent literature has suggested that the primary outcome measure in the ED-based placebo controlled RCTs to date (comparison of mean VAS change between groups) may not have been sensitive enough to detect true differences.  Hence, for this study, an alternate primary outcome measure of VAS reduction in excess of 5 mm is being used, as this cut-off level has been shown to equate with symptom improvement.  Study findings should then clarify whether or not antiemetic drugs do have value for ED patients, and may guide future research directions regarding antiemetic drug use in the ED.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Monash Human Research Ethics Committee</ethicname>
+      <ethicaddress>Research Directorate
+Monash Medical Centre
+Clayton Road
+Clayton, Vic, 3168
+</ethicaddress>
+      <ethicapprovaldate>5/12/2016</ethicapprovaldate>
+      <hrec>RES-16-0000-574A</hrec>
+      <ethicsubmitdate>1/12/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Robert Meek</name>
+      <address>Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</address>
+      <phone>+61 3 9554 8475</phone>
+      <fax>+61 3 9554 8453</fax>
+      <email>robert.meek@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Robert Meek</name>
+      <address>Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</address>
+      <phone>+61 3 9554 8475</phone>
+      <fax>+61 3 9554 8453</fax>
+      <email>robert.meek@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Robert Meek</name>
+      <address>Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</address>
+      <phone>+61 3 9554 8475</phone>
+      <fax>+61 3 9554 8453</fax>
+      <email>robert.meek@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Robert Meek</name>
+      <address>Emergency Department
+Dandenong Hospital
+David Street
+Dandenong, Vic, 3175</address>
+      <phone>+61 3 9554 8475</phone>
+      <fax>+61 3 9554 8453</fax>
+      <email>robert.meek@monashhealth.org</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

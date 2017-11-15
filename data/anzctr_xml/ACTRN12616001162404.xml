@@ -1,0 +1,274 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371339">
+  <stage>Registered</stage>
+  <submitdate>22/08/2016</submitdate>
+  <approvaldate>26/08/2016</approvaldate>
+  <actrnumber>ACTRN12616001162404</actrnumber>
+  <trial_identification>
+    <studytitle>Comparing clinical symptoms and bacterial features in irritable bowel syndrome (IBS) patients with and without small intestine bacterial overgrowth (SIBO).</studytitle>
+    <scientifictitle>Comparing clinical symptoms and features of the microbiome and metabolome in diarrhoea predominant and mixed irritable bowel syndrome (IBS) patients with and without small intestine bacterial overgrowth (SIBO).</scientifictitle>
+    <utrn>U1111-1186-5261</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Irritable bowel syndrome (IBS)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Oral and Gastrointestinal</conditioncode1>
+      <conditioncode2>Other diseases of the mouth, teeth, oesophagus, digestive system including liver and colon</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants will be screened for small intestine bacterial overgrowth (SIBO) using a glucose breath test. Before consuming a 75g of glucose in 200ml of water the participants will provide a breath sample. They will then provide breath samples every 15 minutes for 2 hours. If they have a rise of &gt;=12 ppm of either hydrogen or methane from baseline this will be diagnosed as SIBO.
+
+Participants will be seen for one 2 hour session with no follow for those without SIBO. Those with SIBO will be part of the associated randomised control trial.</interventions>
+    <comparator>Participants with no evidence of SIBO and healthy controls.</comparator>
+    <control>Active</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Comparing symptom severity as measured on the IBS symptom severity scoring system (Francis 1997) between those with and without small intestine bacterial overgrowth.</outcome>
+      <timepoint>Baseline</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparing IBS related quality of life (Patrick 1998) between those with and without small intestine bacterial overgrowth.
+
+Patrick DL, Drossman DA, Frederick IO, DiCesare J, Puder KL. Quality of life in persons with irritable bowel syndrome: development and validation of a new measure. Digestive diseases and sciences. 1998;43(2):400-11.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparing nutritional intake of IBS patients with and without small intestine bacteria overgrowth and healthy controls (Diet history questionnaire version 2)</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparing the colonic microbiome of IBS patients with and without small intestine bacteria overgrowth and healthy controls. Stool samples will be stored at -80C until the DNA is extracted. DNA will be extracted using the powersoil kit. The V4 region of the 16 S rRNA gene will be amplified. DNA will be sequenced on the Ilumina platform. Data will be analysed using compositional data (CoDa) approaches (Gloor 2016) on R statistical programme. Specifically the ALDEx2 package will be used. Data will be presented as bi-plots, bar charts, dendograms and heat maps as appropriate.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparing the metabolome of IBS patients with and without small intestine bacterial overgrowth and healthy controls. Urine samples will be stored at -80C until analysis is undertaken. Liquid chromatograpy (LC/MS) and gas chromatography (GC/MS) will be used to identify small molecules present. Data will be analysed using compositional data (CoDa) approaches (Gloor 2016) on R statistical programme. Specifically the ALDEx2 package will be used. Data will be presented as bi-plots, bar charts, dendograms and heat maps as appropriate.</outcome>
+      <timepoint>Baseline</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants with IBS (D) or IBS (M) according to Rome III criteria who are fluent in English. Healthy controls are female and male, aged 18-65 with no gastrointestinal physiology and fluent in English.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>65</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>Organic gastrointestinal disease (e.g. coeliac, IBD), 
+Diabetes,
+Serious neurological or respiratory conditions 
+Previous gastrointestinal surgery (except appendectomy), 
+Pancreatitis, 
+Previous radiotherapy to the abdominal area or chemotherapy, 
+Pregnancy and lactation, 
+Antibiotics or probiotics within the last 6 weeks, </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>For the clinical trial we calculated that 66 participants were required. For the power calculation it was decided that a difference of 100 points on the IBS Symptom Severity Scoring System (IBS SS) would be a strong measure of clinical significance. This was based on the original paper describing the development of the IBS SS by Francis (1997). In this paper the mean for those with mild IBS was 133 (s.d 25), moderate was 243 (s.d 33) and severe 372 (s.d 66). Current did not attend rates for a dietetic service are approximately 20% and this figure was used as a proxy for likely drop outs. An alpha (p value) of 0.05 was selected with 80% power. It was calculated based on these numbers that 33 participants would be needed in each group. Approximately 1 in 4-5 people with IBS have SIBO when using the glucose breath test as a substrate for the test. Therefore to get 66 participants for the intervention we are likely to need to screen about 300.
+
+For continuous variables in the symptom severity scoring system and the quality of life questionnaire students' ttests will be used to compare those with and without small intestine bacteria overgrowth. For categorical variables on the symptom severity scoring system chi squared tests will be used.
+
+Student ttests will be used to compare nutrient intake between the two groups (from the diet history questionnaire.)
+
+The microbiome and metabolomics data will be analysed using compositional data (CoDa) analysis methods (Gloor Ann Epidemiol. 2016;26(5):322-9.). This analysis will be done on the R statistics platform. Data will be presented in compositional biplots, bar charts of abundance, phylogenetic trees and heatmaps as appropriate</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>19/04/2016</actualstartdate>
+    <anticipatedenddate>29/09/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>220</samplesize>
+    <actualsamplesize />
+    <currentsamplesize>153</currentsamplesize>
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>13/08/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state />
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Dunedin School of Medicine, University of Otago</primarysponsorname>
+    <primarysponsoraddress>First Floor, Dunedin Hospital
+Great King Street
+Dunedin 9016
+</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>University of Otago</fundingname>
+      <fundingaddress>Dunedin School of Medicine
+First Floor, Dunedin Hospital
+Great King Street
+Dunedin 9016
+
+</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>GutHealthNetwork, University of Otago</sponsorname>
+      <sponsoraddress>Department of Medicine,
+9th Floor, Dunedin Hospital
+Great King Street
+Dunedin 9016
+</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <secondarysponsor>
+      <sponsortype>Charities/Societies/Foundations</sponsortype>
+      <sponsorname>NZ Society of Gastroenterology</sponsorname>
+      <sponsoraddress>NZSG Secretariat
+NZ Society of Gastroenterologist Secreriat
+Anna Pears
+4th Floor, RACP College Office
+99 The Terrace
+PO Box 10-601
+Wellington 6143
+</sponsoraddress>
+      <sponsorcountry>New Zealand</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Individual</othercollaboratortype>
+      <othercollaboratorname>Adam Rahman</othercollaboratorname>
+      <othercollaboratoraddress>St Joseph's Health Care London
+268 Grosvenor St
+London 
+Ontario
+N6A 4V2 
+</othercollaboratoraddress>
+      <othercollaboratorcountry>Canada</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The data for this observational study comparing the clinical characteristics and features of the microbiome is being collected at the screening phase of ACTRN12616001149459
+
+In 371306 participants with diarrhoea predominant IBS and mixed type IBS are being screened for small intestine bacterial overgrowth (SIBO). 75g of glucose in 200ml of water is being provided as the test substrate. Prior to adminisitration of the glucose solution and every 15 minutes after consuming the test substrate for 2 hours participants are providing a breath sample. The breath sample is being analysed for hydrogen and methane. For participants with a rise of =&gt; than 12 ppm in either gas from baseline are defined as haing SIBO.
+
+In this observational study we are aiming to see whether there is a diference in clinical characteristics and microbiome features between those with and without SIBO. 
+
+Our hypothesis is that the clinical characteristics of those with and without SIBO will differ. Secondly we hypothesise that there will be differences in the products produced by the bacteria (detected in the urinary metabolome).
+
+Prior to attending the screening survey participants will complete 8 surveys on line and they will provide a stool and a urine sample. The questionnaires they will complete are a demographic questionnaire, a simple health questionnaire, the IBS symptom severity scoring system (Francis 1997), and IBS quality of life questionnaire (Drossman 1998). the physical activity adult questionnaire (Garriguet 2015), the hospital anxiety and depression index (Zigmond 1983) and a foods avoided questionnaire and the diet history questionnaire version 2 (http://epi.grants.cancer.gov/dhq2/).
+
+Faecal and urine samples will be stored at -80C until they are analysed. Faecal samples will be analysed for the bacteria present (in the colon) and urine samples will be analysed to see what the bacteria have been doing.
+
+
+</summary>
+    <trialwebsite>Not applicable</trialwebsite>
+    <publication>None as yet</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Western University Health Science Research Ethics Board</ethicname>
+      <ethicaddress>Western University
+Research Support Services Building Rm 5150
+1393 Western Rd
+London 
+Ontario
+N6G 1G9 
+</ethicaddress>
+      <ethicapprovaldate>27/11/2015</ethicapprovaldate>
+      <hrec />
+      <ethicsubmitdate>11/11/2015</ethicsubmitdate>
+      <ethiccountry>Canada</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Schultz</name>
+      <address>Department of Medicine
+9th Floor, Dunedin Hospital
+Great King Street
+Dunedin Central
+Dunedin 9016
+</address>
+      <phone>+64 3 474 0999</phone>
+      <fax />
+      <email>michael.schultz@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Ruth Harvie</name>
+      <address>c/- the Canadian centre for the human microbiome and probiotics
+Lawson Research Institute
+268 Grosvenor St
+London
+Ontario
+N6A 4V2 
+</address>
+      <phone>+1 519 317 2384</phone>
+      <fax />
+      <email>ruth.harvie@postgrad.otago.ac.nz</email>
+      <country>Canada</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Michael Schultz</name>
+      <address>Department of Medicine
+9th Floor, Dunedin Hospital
+Great King Street
+Dunedin Central
+Dunedin 9016
+</address>
+      <phone>+64 3 474 0999</phone>
+      <fax />
+      <email>michael.schultz@otago.ac.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Ruth Harvie</name>
+      <address>c/- the Canadian centre for the human microbiome and probiotics
+Lawson Research Institute
+268 Grosvenor St
+London
+Ontario
+N6A 4V2 
+</address>
+      <phone>+1 519 317 2384</phone>
+      <fax />
+      <email>ruth.harvie@postgrad.otago.ac.nz</email>
+      <country>Canada</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

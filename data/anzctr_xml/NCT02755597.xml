@@ -1,0 +1,620 @@
+<?xml-stylesheet type='text/xsl' href='ctgovTransform.xsl'?>
+<CT.GOV_Trial requestNumber="6033">
+  <stage>Registered</stage>
+  <submitdate>20/04/2016</submitdate>
+  <approvaldate>20/04/2016</approvaldate>
+  <nctid>NCT02755597</nctid>
+  <trial_identification>
+    <studytitle>A Study Evaluating Venetoclax (ABT-199) in Multiple Myeloma Subjects Who Are Receiving Bortezomib and Dexamethasone as Standard Therapy</studytitle>
+    <scientifictitle>A Phase 3, Multicenter, Randomized, Double Blind Study of Bortezomib and Dexamethasone in Combination With Either Venetoclax or Placebo in Subjects With Relapsed or Refractory Multiple Myeloma Who Are Sensitive or Naïve to Proteasome Inhibitors</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>2015-004411-20</secondaryid>
+    <secondaryid>M14-031</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Relapsed/Refractory Multiple Myeloma</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cancer</conditioncode1>
+      <conditioncode2>Other cancer types</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Treatment: drugs - Venetoclax
+Treatment: drugs - Placebo
+Treatment: drugs - Bortezomib
+Treatment: drugs - Dexamethasone
+
+Experimental: Venetoclax + Bortezomib and Dexamethasone - Cycles 1-8: Venetoclax 800mg orally every day (QD) on days 1 - 21 plus bortezomib 1.3mg/m2 on days 1,4,8 &amp; 11 and dexamethasone 20 mg on Days 1, 2, 4, 5, 8, 9, 11 and 12 Cycles 9 and beyond: Venetoclax 800mg orally every day (QD) on days 1 - 35 plus bortezomib 1.3mg/m2 on days 1, 8, 15 and 22 and dexamethasone 20 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23
+
+Placebo Comparator: Placebo + Bortezomib and Dexamethasone - Cycles 1-8: Placebo (to match venetoclax 100mg tablet) 800mg orally every day (QD) on days 1 - 21 plus bortezomib 1.3mg/m2 on days 1,4,8 &amp; 11 and dexamethasone 20 mg on Days 1, 2, 4, 5, 8, 9, 11 and 12 Cycles 9 and beyond: Placebo (to match venetoclax 100mg tablet) 800mg orally every day (QD) on days 1 - 35 plus bortezomib 1.3mg/m2 on days 1, 8, 15 and 22 and dexamethasone 20 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23
+
+
+Treatment: drugs: Venetoclax
+Tablet
+
+Treatment: drugs: Placebo
+Tablet
+
+Treatment: drugs: Bortezomib
+Solution for subcutaneous injection
+
+Treatment: drugs: Dexamethasone
+Tablet
+
+</interventions>
+    <comparator />
+    <control />
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Progression-free survival (PFS). - Collect International Myeloma Working Group (IMWG) disease assessments at Cycle 1 Day 1 (C1D1) of each cycle or to confirm disease progression.</outcome>
+      <timepoint>Measured at subject's baseline (prior to subject's first dose) and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Very Good Partial Response (VGPR) or better response rate. - Collect International Myeloma Working Group (IMWG) disease assessments at C1D1 of each cycle or to confirm disease progression.</outcome>
+      <timepoint>Measured at subject's baseline (prior to subject's first dose) and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Progression-Free Survival (PFS) in subjects with high B-cell lymphoma 2 (BCL-2) expression. - Bone marrow aspirate and bone marrow core biopsy tissue will be evaluated with the goal of defining the relationship between BCL-2 expression and disease status.</outcome>
+      <timepoint>Measured at subject's baseline (prior to subject's first dose) and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of Response (DOR). - Collect International Myeloma Working Group (IMWG) disease assessments at C1D1 of each cycle or to confirm disease progression.</outcome>
+      <timepoint>Measured at subject's initial response and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Overall survival (OS). - Measured from the date of the last dose and continuing either until the endpoint of death, until the subject is lost to follow-up, subject withdraws consent, or until study termination by AbbVie, whichever occurs first.</outcome>
+      <timepoint>Measured up to 6 years after the first subject is randomized.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to disease progression (TTP). - Collect International Myeloma Working Group (IMWG) disease assessments at C1D1 of each cycle or to confirm disease progression.</outcome>
+      <timepoint>Measured at subject's baseline (prior to subject's first dose) and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Objective Response Rate (ORR). - Collect International Myeloma Working Group (IMWG) disease assessments at C1D1 of each cycle or to confirm disease progression.</outcome>
+      <timepoint>Measured at subject's baseline (prior to subject's first dose) and at Day 1 of every Cycle thereafter for up to 3 years following the last subject first dose.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Minimal Residual Disease (MRD) status. - MRD status will be assessed using Next Generation Sequencing.</outcome>
+      <timepoint>Measured from baseline up to the time of suspected CR/stringent complete response (sCR) with an expected average of 6 months.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Brief Pain Inventory - Short Form [BPI-SF] - Worst Pain</outcome>
+      <timepoint>Starting with Cycle 1 (Cycles 1 - 8 are 21 days, Cycles 9 and beyond are 35 days), collect on Day 1 of every other cycle and the Treatment Completion Visit (TCV) while participant is on treatment (approximately 2 years).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core (EORTC QLQ-C30) - Physical Functioning</outcome>
+      <timepoint>Starting with Cycle 1 (Cycles 1 - 8 are 21 days, Cycles 9 and beyond are 35 days), collect on Day 1 of every other cycle and the Treatment Completion Visit (TCV) while participant is on treatment (approximately 2 years).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Patient Reported Outcomes Measurement Information System - (PROMIS)</outcome>
+      <timepoint>Starting with Cycle 1 (Cycles 1 - 8 are 21 days, Cycles 9 and beyond are 35 days), collect on Day 1 of every other cycle and the Treatment Completion Visit (TCV) while participant is on treatment (approximately 2 years).</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core (EORTC QLQ-C30) - Global Health Status</outcome>
+      <timepoint>Starting with Cycle 1 (Cycles 1 - 8 are 21 days, Cycles 9 and beyond are 35 days), collect on Day 1 of every other cycle and the Treatment Completion Visit (TCV) while participant is on treatment (approximately 2 years).</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>-  Eastern Cooperative Oncology Group (ECOG) performance score less than or equal to 2
+
+          -  Participant has documented relapsed or progressive multiple myeloma on or after any
+             regimen or who are refractory to the most recent line of therapy. Relapsed myeloma is
+             defined as previously treated myeloma that progresses and requires initiation of
+             salvage therapy, but does not meet the criteria for refractory myeloma. Refractory
+             myeloma is defined as disease that is non responsive (failure to achieve minimal
+             response or development of progressive disease [PD]) while on primary or salvage
+             therapy, or progresses within 60 days of last therapy.
+
+          -  Participant must have received prior treatment with at least one, but no more than
+             three, prior lines of therapy for multiple myeloma. A line of therapy consists of
+             greater than or equal to 1 complete cycle of a single agent, a regimen consisting of
+             combination of several drugs, or a planned sequential therapy of various regimens.
+
+          -  Prior treatment with bortezomib or other proteasome inhibitor is allowed, provided ALL
+             of the following criteria are met: Disease is NOT refractory to any proteasome
+             inhibitor, defined as no disease progression (i.e., PD, per IMWG or European Society
+             for Blood and Marrow Transplantation [EBMT] criteria) while receiving proteasome
+             inhibitor therapy or within 60 days after the last dose, AND best response achieved
+             with any proteasome inhibitor therapy (alone or in combination) was at least a PR, AND
+             participant did not discontinue any proteasome inhibitor due to intolerance or greater
+             than or equal to Grade 3 related toxicity.
+
+          -  Participant has measurable disease at Screening, defined as at least one of the
+             following: Serum M-protein greater than or equal to 0.5 g/dL, OR Urine M-protein
+             greater than or equal to 200 mg in 24-hours, OR serum immunoglobulin free light chain
+             (FLC) greater than or equal to 10 mg/dL provided serum FLC ratio is abnormal.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>99</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>-  Participant is refractory to any proteasome inhibitor, defined as progression on or
+             within 60 days of the last dose of a proteasome inhibitor-containing regimen.
+
+          -  Participant has had prior treatment with proteasome inhibitor within 60 days prior to
+             first dose of study drug.
+
+          -  Participant has any of the following conditions:
+
+        Non-secretory or oligo-secretory multiple myeloma, active plasma cell leukemia i.e., either
+        20% of peripheral white blood cells or greater than 2.0 X 10^9/liter (L) circulating plasma
+        cells by standard differential, waldenstrom's macroglobulinemia, amyloidosis, POEMS
+        syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, and skin
+        changes), known Human Immunodeficiency Viral (HIV) infection, active hepatitis B or C
+        infection based on blood screen tests, significant cardiovascular disease, including
+        uncontrolled angina, severe or uncontrolled arrhythmia, recent myocardial infarction within
+        6 months of randomization, or congestive heart failure New York Heart Association (NYHA)
+        Class greater than or equal to 3, Major surgery within 4 weeks prior to randomization,
+        acute infections requiring parenteral therapy (antibiotic, antifungal, or antiviral) within
+        14 days prior to randomization, peripheral neuropathy greater than or equal to Grade 3 or
+        greater than or equal to Grade 2 with pain within 2 weeks prior to randomization,
+        uncontrolled diabetes or uncontrolled hypertension within 14 days prior to randomization,
+        any other medical condition that, in the opinion of the Investigator, would adversely
+        affect the participant's participation in the study
+
+          -  Participant has a history of other active malignancies, including myelodysplastic
+             syndrome (MDS), within the past 3 years prior to study entry, with the following
+             exceptions: Adequately treated in situ carcinoma of the cervix uteri or the breast,
+             basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin,
+             prostate cancer Gleason grade 6 or lower AND with stable Prostate Specific Antigen
+             (PSA) levels off treatment, previous malignancy with no evidence of disease confined
+             and surgically resected (or treated with other modalities) with curative intent and
+             unlikely to impact survival during the duration of the study
+
+          -  If participant had prior allogeneic stem cell transplant (SCT), participant has
+             evidence of ongoing graft-versus-host disease (GvHD).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence />
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods />
+    <masking1>The people receiving the treatment/s</masking1>
+    <masking2>The people administering the treatment/s</masking2>
+    <masking3>The people assessing the outcomes</masking3>
+    <masking4>The people analysing the results/data</masking4>
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate />
+    <actualstartdate>11/07/2016</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>240</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>2/09/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate />
+    <hospital>Royal Adelaide Hospital /ID# 149109 - Adelaide</hospital>
+    <hospital>Box Hill Hospital /ID# 149112 - Box Hill</hospital>
+    <hospital>Royal Prince Alfred Hospital /ID# 149108 - Camperdown</hospital>
+    <hospital>Concord Hospital /ID# 149106 - Concord</hospital>
+    <hospital>Royal Brisbane and Women's Hospital /ID# 149105 - Herston</hospital>
+    <hospital>Royal Hobart Hospital /ID# 149111 - Hobart</hospital>
+    <hospital>Liverpool Hospital /ID# 149110 - Liverpool, Sydney</hospital>
+    <hospital>Alfred Health /ID# 150085 - Melbourne</hospital>
+    <hospital>Fiona Stanley Hospital /ID# 148967 - Murdoch</hospital>
+    <hospital>Perth Blood Institute Ltd /ID# 148966 - Nedlands</hospital>
+    <hospital>Peter MacCallum Cancer Centre /ID# 149107 - Parkville</hospital>
+    <hospital>The Queen Elizabeth Hospital /ID# 149104 - Woodville South</hospital>
+    <postcode>5000 - Adelaide</postcode>
+    <postcode>3128 - Box Hill</postcode>
+    <postcode>2050 - Camperdown</postcode>
+    <postcode>2139 - Concord</postcode>
+    <postcode>4029 - Herston</postcode>
+    <postcode>7000 - Hobart</postcode>
+    <postcode>2170 - Liverpool, Sydney</postcode>
+    <postcode>3004 - Melbourne</postcode>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>3000 - Parkville</postcode>
+    <postcode>5011 - Woodville South</postcode>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Colorado</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Illinois</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Maryland</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>New York</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>North Carolina</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States</country>
+      <state>Ohio</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Goiania</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Natal</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Porto Alegre</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Rio de Janeiro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Brazil</country>
+      <state>Sao Paulo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>Greenfield Park</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Canada</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>BREST Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Grenoble</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Limoges</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Nantes</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Pierre-Benite Cedex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Strasbourg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>France</country>
+      <state>Tours</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Berlin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Dresden</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Budapest</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Debrecen</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Hungary</country>
+      <state>Kaposvar</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Dublin 7</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ireland</country>
+      <state>Galway</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Ancona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Bologna</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Rome</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Italy</country>
+      <state>Turin</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Fukuoka</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Gunma</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Higashiibaraki-gun</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Hiroshima-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kobe-shi, Hyogo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kyoto-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Kyoto</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Maebashi-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Nagoya-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Ogaki-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Okayama-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Osaka-Shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Saitama</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Sendai-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tachikawa-shi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tochigi</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Japan</country>
+      <state>Tokyo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Gyeonggi-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Incheon</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Jeollanam-do</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seocho-gu, Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seongnam-si</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Korea, Republic of</country>
+      <state>Seoul</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Kemerovo</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Moscow</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Omsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Pjatigorsk</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ryazan</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Samara</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Russian Federation</country>
+      <state>Ufa</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Barcelona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Madrid</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Pamplona</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Salamanca</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Santiago De Compostela</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Sevilla</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Spain</country>
+      <state>Valencia</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Changhua</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taichung</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Taiwan</country>
+      <state>Taipei City</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Cherkasy</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Dnipro</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kiev</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Ukraine</country>
+      <state>Kyiv</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Blackpool, lancashire</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Essex</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Leicester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>London</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Manchester</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Nottingham</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Wolverhampton, West Midlands</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Commercial sector/Commercial sector/Industry</primarysponsortype>
+    <primarysponsorname>AbbVie</primarysponsorname>
+    <primarysponsoraddress />
+    <primarysponsorcountry />
+    <othercollaborator>
+      <othercollaboratortype>Commercial sector/Industry</othercollaboratortype>
+      <othercollaboratorname>Genentech, Inc.</othercollaboratorname>
+      <othercollaboratoraddress />
+      <othercollaboratorcountry />
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a Phase 3, multicenter, randomized, double blind, placebo-controlled study evaluating
+      the efficacy and safety of venetoclax plus bortezomib and dexamethasone in subjects with
+      relapsed or refractory multiple myeloma who are considered sensitive or naïve to proteasome
+      inhibitors and received 1 to 3 prior lines of therapy for multiple myeloma.</summary>
+    <trialwebsite>https://clinicaltrials.gov/show/NCT02755597</trialwebsite>
+    <publication />
+    <ethicsreview />
+    <publicnotes />
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title />
+      <name>Paulo Maciag, MD</name>
+      <address>AbbVie</address>
+      <phone />
+      <fax />
+      <email />
+      <country />
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title />
+      <name>AbbVie_Call Center</name>
+      <address />
+      <phone>847-283-8955</phone>
+      <fax />
+      <email>abbvieclinicaltrials@abbvie.com</email>
+      <country />
+      <type>Public Queries</type>
+    </contact>
+  </contacts>
+</CT.GOV_Trial>

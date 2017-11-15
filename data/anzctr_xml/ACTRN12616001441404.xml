@@ -1,0 +1,278 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371460">
+  <stage>Registered</stage>
+  <submitdate>20/09/2016</submitdate>
+  <approvaldate>14/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001441404</actrnumber>
+  <trial_identification>
+    <studytitle>Development and validation of a tool to rule out heart attacks</studytitle>
+    <scientifictitle>Development and validation of a multivariable prediction model to risk stratify patients being investigated for possible Acute Myocardial Infarction in the Emergency Department.</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Acute Myocardial Infarction</healthcondition>
+    <healthcondition>Acute Coronary Syndrome</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Observational study: Patients presenting to Emergency Departments with symptoms suggestive of Acute Coronary Syndrome are assessed for possible Type I Acute Myocardial Infarction
+A retrospective analysis of previously collected data.  Patients were participating in studies designed to assess the effectiveness of methodologies and biochemistry to rule-out and rule-in acute myocardial infarction.  
+The MI3 tool is a an algorithm developed from Age, Sex, serial troponin measurements, and the time between the troponin measurements.  It is designed to provide clinicians with an indication of the likelihood of an acute myocardial infarction.  It was applied only retrospectively on the validation cohort.
+
+Derivation Cohorts
+ BACC (Hamburg):  July 2013 to December 2014
+ HighSTEACS (Edinburgh): NCT01852123 June 2013 to January 2014
+Machine learning was used to derive the MI3 tool to predict events as recorded in the medical records (and previous studies).
+
+Validation cohorts
+UTROPIA (Minneapolis)
+APACE (Basal): April 2006 to June 2013
+ADAPT-Brisbane (Brisbane):  ACTRN12611001069943 November 2007 to February 2011
+IMPACT (Brisbane): February 2011 to March 2014
+ADAPT-Christchurch (Christchurch):  ACTRN12611001069943 November 2007 to February 2011
+TIMIRCT (Christchurch): ACTRN12610000766011 October 2010 to July 2012
+EDACSRCT (Christchurch): ACTRN12613000745741 June 2013 to July 2014
+
+The MI3 tool was applied in the validation cohort to assess its ability to predict outcomes recorded in medical records/previous studies.
+
+</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Early Detection / Screening</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Probability of Type I AMI as assessed by the MI3 tool</outcome>
+      <timepoint>index presentation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Probability of Type I AMI as assessed by the MI3 tool</outcome>
+      <timepoint> within 30 days of presentation to the ED</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients investigated for possible ACS in the cohorts described ( BACC (Hamburg, HighSTEACS (Edinburgh), UTROPIA (Minneapolis), APACE (Basal), ADAPT-Brisbane, IMPACT (Brisbane, ADAPT-Christchurch, TIMIRCT, EDACSRCT (Christchurch))
+
+The MI3 tool was applied in the validation cohort to assess its ability to predict outcomes recorded in medical records/previous studies.
+Serial (two) hs-cTnI troponin measurements.  The first made on arrival in the Emergency Department.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>STEMI diagnosed within the ED
+Missing data on sex, age, timing of two consecutive blood samples, high sensitivity cardiac troponin I.
+The universal definition not used to adjudicate for AMI
+Cohorts without adjudicated outcomes
+
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>A multi-centre international diagnostic biomarker development and validation study using a secondary analysis of data prospectively collected from multiple cohorts.
+
+The overall project objective:
+To develop and validate an assessment algorithm that allows:
+1.	The early rule in of AMI for as many patients was possible with a low false positive rate.
+2.	The early rule out of acute myocardial infarction (AMI) for a large proportion of patients with a very low false negative rate
+
+The overall aims are:
+1.	To derive and validate the Myocardial Ischaemic Injury Index (MI3) for identification of patients with acute myocardial infarction amongst patients being investigated for possible acute coronary syndrome.
+
+2.	To derive and validate Index Value thresholds for optimal (i) rule-out and (ii) rule-in of acute myocardial infarction with the MI3 algorithm for rapid assessment of patients being investigated for possible acute coronary syndrome.
+
+DERIVATION
+The Boosted Decision Trees (also called Additive Logistic Model) is to be applied to a derivation cohort using initial hsTnI value,  hsTnI change rate, gender, age, subjects MI status.
+Thresholds with 95% confidence intervals of the resulting index value (IV) will be derived using bootstrapping methods for (i) sensitivity &gt;=99.0%, (ii) NPV&gt;=99.5%, (iii) Specificity &gt;=90.0%, (iv) PPV&gt;=75%.
+
+VALIDATION
+In a separate cohort the sensitivity, NPV, specificity, PPV will be calculated at the IV thresholds identified in the development cohort.  
+
+No formal power calculation for sample size was done.
+
+
+
+
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Screening</purposeobs>
+    <duration>Cross-sectional</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate />
+    <actualstartdate>1/04/2006</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>31/12/2014</actualenddate>
+    <samplesize>5000</samplesize>
+    <actualsamplesize>101540</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>30/01/2015</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia,Outside</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>Royal Brisbane &amp; Womens Hospital - Herston</hospital>
+    <postcode>4029 - Herston</postcode>
+    <countryoutsideaustralia>
+      <country>New Zealand</country>
+      <state>Canterbury</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>Edinburgh</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Germany</country>
+      <state>Hamburg</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>United States of America</country>
+      <state>Minnesota</state>
+    </countryoutsideaustralia>
+    <countryoutsideaustralia>
+      <country>Switzerland</country>
+      <state>Basal</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Martin Than</primarysponsorname>
+    <primarysponsoraddress>Emergency Department
+Christchurch Hospital 
+2a Riccarton Ave
+Private Bag 4710
+Christchurch 8140</primarysponsoraddress>
+    <primarysponsorcountry>New Zealand</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Emergency Care Foundation</fundingname>
+      <fundingaddress>Emergency Department
+Christchurch Hospital 
+2a Riccarton Ave
+Christchurch 8140</fundingaddress>
+      <fundingcountry>New Zealand</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Commercial sector/Industry</fundingtype>
+      <fundingname>Abbott Diagnostics</fundingname>
+      <fundingaddress>Abbott Diagnostics
+5440 Patrick Henry Dr.
+Santa Clara, 
+California 95054</fundingaddress>
+      <fundingcountry>United States of America</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname>none</sponsorname>
+      <sponsoraddress>na</sponsoraddress>
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A multi-centre international diagnostic biomarker development and validation study using a secondary analysis of data prospectively collected from multiple cohorts.
+
+The overall project objective:
+To develop and validate an assessment algorithm that allows:
+1.	The early rule in of AMI for as many patients was possible with a low false positive rate.
+2.	The early rule out of acute myocardial infarction (AMI) for a large proportion of patients with a very low false negative rate
+
+The overall aims are:
+1.	To derive and validate the Myocardial Ischaemic Injury Index (MI3) for identification of patients with acute myocardial infarction amongst patients being investigated for possible acute coronary syndrome.
+
+2.	To derive and validate Index Value thresholds for optimal (i) rule-out and (ii) rule-in of acute myocardial infarction with the MI3 algorithm for rapid assessment of patients being investigated for possible acute coronary syndrome.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not required</ethicsreview>
+    <publicnotes>This was an analysis using data previously collected in studies at each study site. Each study at each site  had obtained ethics approval and consent from patients..</publicnotes>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Martin Than</name>
+      <address>Emergency Department
+Christchurch Hospital
+2a Riccarton Ave
+Private Bag 4170
+Christchurch 8140
+</address>
+      <phone>+64 3 364 0640</phone>
+      <fax />
+      <email>martinthan@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Martin Than</name>
+      <address>Emergency Department
+Christchurch Hospital
+2a Riccarton Ave
+Private Bag 4170
+Christchurch 8140</address>
+      <phone>+64 3 364 0640</phone>
+      <fax />
+      <email>martinthan@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Martin Than</name>
+      <address>Emergency Department
+Christchurch Hospital
+2a Riccarton Ave
+Private Bag 4170
+Christchurch 8140</address>
+      <phone>+64 3 364 0640</phone>
+      <fax />
+      <email>martinthan@xtra.co.nz</email>
+      <country>New Zealand</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>John Pickering</name>
+      <address>Emergency Department
+Christchurch Hospital
+2a Riccarton Ave
+Private Bag 4170
+Christchurch 8140</address>
+      <phone />
+      <fax />
+      <email />
+      <country>New Zealand</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

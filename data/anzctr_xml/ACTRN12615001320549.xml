@@ -1,0 +1,239 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="369331">
+  <stage>Registered</stage>
+  <submitdate>19/09/2015</submitdate>
+  <approvaldate>2/12/2015</approvaldate>
+  <actrnumber>ACTRN12615001320549</actrnumber>
+  <trial_identification>
+    <studytitle>WorryTime: A randomized controlled trial comparing smartphone and paper and pencil delivery of worry postponement in young Australians aged 16-25 years</studytitle>
+    <scientifictitle>In a sample of young Australians aged 16-25 years, does smartphone delivery, compared with paper and pencil delivery of the stimulus control technique of worry postponement, improve engagement with and ease of use of the technique and thereby improve levels of worry to a greater extent?</scientifictitle>
+    <utrn />
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Worry</healthcondition>
+    <healthcondition>Anxiety</healthcondition>
+    <conditioncode>
+      <conditioncode1>Mental Health</conditioncode1>
+      <conditioncode2>Anxiety</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Participants in the intervention group will be asked to use the stimulus control technique of worry postponement via a smartphone application called WorryTime for 7 days. The technique invites users to postpone worries they experience during the day and worry about them at a set time period each day, usually in the evening. During the day users make a brief note of their worry in the application and then attempt to continue with what they were doing. When the designated worry time arrives (the application provides a reminder alarm), the user reviews the list of worries generated during the day. Worries that no longer bother the user can be dismissed (via a swipe action on the application), allowing them to focus their attention on the remaining active worries. Users are encouraged to engage in problem solving to assist them during their scheduled worry time. When the worry time window elapses (time period is set by the user), users are again encouraged to continue with their day.</interventions>
+    <comparator>The comparator group will be asked to use the same worry postponement technique for 7 days, but using the traditional method of a paper and pencil diary. Participants in this group will record worries by hand in their diary and also to participate in the scheduled worry time (no reminders provided). They are asked to cross out any worries that are no longer bothering them and focus on the active worries, as in the intervention group.</comparator>
+    <control>Active</control>
+    <interventioncode>Prevention</interventioncode>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Engagement with the technique, as measured by:
+daily attempts to postpone worry (yes/no). Participant self report via daily text message survey for both groups and recorded via the smartphone application for those in the smart phone group.
+</outcome>
+      <timepoint>Days 1 through 7</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Engagement with the technique, as measured by:
+Number of worry entries recorded per day, Participant self report via daily text message survey for both groups and recorded via the smartphone application for those in the smart phone group.
+
+</outcome>
+      <timepoint>Days 1 through 7</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Engagement with the technique, as measured by:
+Daily adherence to scheduled worry time (yes/no). Participant self report via daily text message survey for both groups and recorded via the smartphone application for those in the smart phone group.
+
+</outcome>
+      <timepoint>Days 1 through 7</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>User satisfaction with the technique as measured by self report questions about the perceived helpfulness and level of satisfaction with the technique. These questions were designed specifically for the study.</outcome>
+      <timepoint>Day 7 for all participants and also day 35 for participants who continued to use the technique after the intervention period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Ease of use of the technique as measured by self report 5-point likert scale question about how easy the participant found the technique to use.</outcome>
+      <timepoint>Day 7 for all participants and also day 35 for participants who continued to use the technique after the intervention period.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical outcomes as measured by:
+- Generalised Anxiety Disorder 7-item scale (GAD-7)
+</outcome>
+      <timepoint>Days 1,  7 and 35</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Engagement with the technique, as measured by:
+- extended engagement measures (at the end of the 7 day intervention period, participants are asked to estimate how frequently they engaged with the technique over the 7 days</outcome>
+      <timepoint>Day 7</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Extended engagement with the technique:
+At the one month follow up, they are asked how frequently they engaged with the technique in the month following the intervention period (participants are encouraged to continue using the technique after the intervention).
+</outcome>
+      <timepoint>Day 35</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical outcomes as measured by:
+- Penn State Worry Questionnaire (PSWQ)
+</outcome>
+      <timepoint>Days 1, 7 and 35</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical outcomes as measured by:
+- Sheehan Disability Scale (SDS)
+</outcome>
+      <timepoint>Days 1, 7 and 35</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Participants must meet the following criteria to be included in the study:
+- be aged between 16 and 25 years (inclusive)
+- have sufficient English comprehension in order to complete the surveys
+- be located in Australia
+- have daily access to a smartphone that is compatible with the WorryTime application
+</inclusivecriteria>
+    <inclusiveminage>16</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>25</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>Yes</healthyvolunteer>
+    <exclusivecriteria>- outside of specified age range
+- located outside of Australia
+- insufficient English comprehension
+- lacks daily access to a compatible smartphone
+- does not provide informed consent
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment />
+    <sequence>Participants will be randomly allocated to groups using the online survey system Qualtrics randomisation function.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>4/01/2016</anticipatedstartdate>
+    <actualstartdate>15/02/2016</actualstartdate>
+    <anticipatedenddate>29/02/2016</anticipatedenddate>
+    <actualenddate>21/03/2016</actualenddate>
+    <samplesize>200</samplesize>
+    <actualsamplesize>475</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate>9/05/2016</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,NT,QLD,SA,TAS,WA,VIC</recruitmentstate>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>ReachOut.com</primarysponsorname>
+    <primarysponsoraddress>ReachOut Australia Ground Floor 97 Church Street Camperdown NSW 2050
+</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>the Grace and Emilio Foundation</fundingname>
+      <fundingaddress>PO Box 7411
+St Kilda
+VICTORIA 8004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Lotterywest</fundingname>
+      <fundingaddress>74 Walters Drive
+Osborne Park
+WA 6017</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>University</sponsortype>
+      <sponsorname>Curtin University</sponsorname>
+      <sponsoraddress>Kent St, Bentley WA 6102, Australia</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study aims to compared two methods of delivery for the stimulus control technique of worry postponement; the traditional paper and pencil diary method or a novel smartphone application 'WorryTime' method. The study will examine whether using the technique on a mobile phone platform increases the frequency and duration of use of the technique and improves the effectiveness of the technique, as compared with the traditional paper and pencil methods. Additionally the study aims to explore user satisfaction, acceptability and usability of the smartphone application compared with the paper and pencil diaries. Two hundred young adults (aged 16-25 years) will be recruited to the study via Facebook and asked to use the worry postponement technique for 7 days. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Curtin University Human Research Ethics Committee</ethicname>
+      <ethicaddress>Kent St, Bentley WA 6102, Australia</ethicaddress>
+      <ethicapprovaldate>21/10/2015</ethicapprovaldate>
+      <hrec>HR201/2015</hrec>
+      <ethicsubmitdate>20/08/2015</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Jonathan Hallet</name>
+      <address>School of Public Health, Faculty of Health Sciences, Curtin University
+Building 400, Room 473
+GPO Box U1987, Perth, Western Australia, Australia, 6845</address>
+      <phone>+61 08 92667021</phone>
+      <fax />
+      <email>j.hallet@curtin.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Atari Metcalf</name>
+      <address>ReachOut Australia Level 2, Building B, 35 Saunders street, Pyrmont, NSW, 2009
+</address>
+      <phone>+61 02 8029 7708 </phone>
+      <fax />
+      <email>atari@reachout.com</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Mr</title>
+      <name>Atari Metcalf</name>
+      <address>ReachOut Australia Level 2, Building B, 35 Saunders street, Pyrmont, NSW, 2009</address>
+      <phone>+61 02 8029 7708 </phone>
+      <fax />
+      <email>atari@reachout.com</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Alexandra Aiken</name>
+      <address>18/387-393 Marrickville Rd, Marrrickville, NSW, 2204</address>
+      <phone>+61 0423516130</phone>
+      <fax />
+      <email />
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

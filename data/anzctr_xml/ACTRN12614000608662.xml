@@ -1,0 +1,274 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366455">
+  <stage>Registered</stage>
+  <submitdate>3/06/2014</submitdate>
+  <approvaldate>6/06/2014</approvaldate>
+  <actrnumber>ACTRN12614000608662</actrnumber>
+  <trial_identification>
+    <studytitle>Improving medicine adherence in kidney transplantation</studytitle>
+    <scientifictitle>In adults more than one month post-kidney transplantation, is a multi-factorial intervention including medicine review, DVD and health coaching more effective than usual care in improving immunosuppressant medicine adherence?</scientifictitle>
+    <utrn>U1111-1157-5996</utrn>
+    <trialacronym />
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>End-stage kidney disease requiring kidney transplantation</healthcondition>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Kidney disease</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>All participants in the intervention group will receive a once only, one hour home visit comprising a home medicine review and a ten minute DVD to motivate people to take their medicines.
+Fortnightly ten minute telephone health coaching for three months will be conducted.</interventions>
+    <comparator>Ongoing medical care provided to a patient who has received a kidney transplant attending routine outpatient clinic follow up and primary care</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>7% improvement in  immunosuppressant medicine adherence compared to usual care in kidney transplantation measured by the Medication Event Monitoring System, laboratory tests, prescription refill and self-report.</outcome>
+      <timepoint>Outcomes will be assessed at baseline, 3, 6 and 9 months.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Medicine adherence will be set at equal to or &gt;80% for all other medicines assessed by prescription refill, laboratory tests, and self-report.</outcome>
+      <timepoint>Outcomes will be assessed at baseline, 3, 6 and 9 months.</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Comprehend English, and prescribed immunosuppressant medicines in kidney transplantation</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Adults living in supported accommodation (medicines are managed by staff)</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Educational / counselling / training</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Participants will be recruited by the PhD student and Research Fellow at kidney transplant outpatient clinics with the assistance of the renal transplant coordinators and nephrologists at the five sites. People who express interest in participating in the study will be visited in their homes for informed consent and enrolment by the Research Fellow. Each patient will be given a code number which will be given to the off-site statistician for treatment allocation</concealment>
+    <sequence>Centralised, stratified randomisation of participants based upon the site (5 sites involved)
+Off-site statistician prepares an excel file containing a sheet for each of the five sites containing the randomisation list and unique randomisation number and treatment allocation in sequential order</sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety/efficacy</endpoint>
+    <statisticalmethods>Intention-to-treat. Descriptive statistics will be used to compare baseline characteristics. Categorical data will be presented as frequencies and percentages. Normally distributed data will be presented as means and standard deviations and non-symmetrical data as medians and inter-quartile ranges. The primary analysis will be based on the follow-up data by assessing the difference in adherence based on the MEMS score using a linear mixed-effects model. This model will accommodate for the unequal variances in repeated measurements while adjusting for random effects of participant. Secondary analyses, including medication adherence measured using surrogate and self-reported measures of medication adherence will be analysed using linear mixed-effects model for continuous variables and generalized estimated equation for binomial outcomes.
+
+To estimate the sample size we wish to detect an increase of 7% in the MEMS score in the intervention group, allowing for a standard deviation of 9% in each group. Assuming a two-tailed hypothesis test with significance level of 5% and a power of 80%, we estimate at least 27 patients are required in each group. Taking into consideration an attrition rate of 20%, the number required is 32 per group, making a total sample of 64 participants. Our preliminary work with our partner investigators have suggested that attrition is likely to be higher based on their experience with this group of patients.</statisticalmethods>
+    <masking1>False</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>11/08/2014</anticipatedstartdate>
+    <actualstartdate>22/09/2014</actualstartdate>
+    <anticipatedenddate>9/10/2015</anticipatedenddate>
+    <actualenddate>13/10/2015</actualenddate>
+    <samplesize>64</samplesize>
+    <actualsamplesize>71</actualsamplesize>
+    <recruitmentstatus>Completed</recruitmentstatus>
+    <anticipatedlastvisitdate>30/11/2016</anticipatedlastvisitdate>
+    <actuallastvisitdate>13/01/2017</actuallastvisitdate>
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>The Alfred - Prahran </hospital>
+    <hospital>Austin Health - Austin Hospital - Heidelberg</hospital>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <hospital>Monash Medical Centre - Clayton campus - Clayton</hospital>
+    <hospital>St Vincent's Hospital (Melbourne) Ltd - Fitzroy</hospital>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>Monash University</primarysponsorname>
+    <primarysponsoraddress>Monash Nursing Academy  
+Monash University School of Nursing and Midwifery
+Clayton Campus
+Building 13D Level 3,
+Wellington Rd
+Clayton  VIC  3800</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health &amp; Medical Research Council Partnership project
+APP1056717</fundingname>
+      <fundingaddress>Level 1, 16 Marcus Clarke Street
+Canberra ACT 2601</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>University</fundingtype>
+      <fundingname>Monash University</fundingname>
+      <fundingaddress>Wellington Road
+Clayton VIC 3800</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>More people require kidney transplants which are in short supply. It is imperative that people who have kidney transplants take their medicines as prescribed. Poor adherence to prescribed medicines can cause a 60% increased risk of kidney transplant failure. Rejection requires costly hospitalisations, laboratory tests and anti-rejection therapies with associated poor outcomes. This project will develop and test an intervention to help adults requiring a kidney transplant to take their medicines as prescribed. Better medicine adherence results in improved graft life, general well-being, and reduced health care expenditure. Our industry partners share this vision of improved health for people requiring kidney transplantation.</summary>
+    <trialwebsite />
+    <publication>i.	Low, JK., Williams, A., Manias, E., &amp; Crawford, K. (2016) How to create a well-received consumer-centred video to support medication adherence in kidney transplantation. The Transplant Nurses Association National Conference in Adelaide. October 21st, 2016. Oral presentation. Best paper
+ii.	Low, JK., Williams, A., Manias, E., &amp; Crawford, K. (2016) Patients stories: can this insider view be used to support medication adherence in kidney transplantation? The International Society for Quality in Health Cares 33rd International Conference in Tokyo. October 19th, 2016. Oral presentation. 
+</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Monash Health HREC B</ethicname>
+      <ethicaddress>Monash Health
+Monash Medical Centre
+246 Clayton Road 
+Clayton VIC 3168</ethicaddress>
+      <ethicapprovaldate>4/07/2013</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash Health Research Governance</ethicname>
+      <ethicaddress>Monash Health
+Monash Medical Centre
+246 Clayton Road
+Clayton VIC 3168</ethicaddress>
+      <ethicapprovaldate>23/07/2013</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10 (local reference number: 13176B)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Austin Health Research Governance</ethicname>
+      <ethicaddress>145 Studley Road
+PO Box 5555
+Heidelberg VIC 3084</ethicaddress>
+      <ethicapprovaldate>23/10/2013</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10 (local reference number: SSA/13/Austin/83)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Melbourne Health Research Governance </ethicname>
+      <ethicaddress>Royal Melbourne Hospital
+Parkville VIC 3052</ethicaddress>
+      <ethicapprovaldate>25/09/2013</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10 (local reference number: 2013.142)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Alfred Health Research Governance</ethicname>
+      <ethicaddress>Alfred Health
+55 Commercial Road
+PO Box 315
+Prahran VIC 3181</ethicaddress>
+      <ethicapprovaldate>29/11/2013</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>St. Vincent's Hospital (Melbourne) Research Goverenance</ethicname>
+      <ethicaddress>St. Vincent's Hospital (Melbourne)
+41 Victoria Parade
+PO Box 2900
+Fitzroy VIC 3065</ethicaddress>
+      <ethicapprovaldate>7/01/2014</ethicapprovaldate>
+      <hrec>HREC/13/SHB/10 (local reference number: HREC-D094/13)</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash University HREC</ethicname>
+      <ethicaddress>Monash University HREC
+Building 3E
+Wellington Road
+Clayton VIC 3800</ethicaddress>
+      <ethicapprovaldate>20/08/2013</ethicapprovaldate>
+      <hrec>CF13/2440-2013001269</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Allison Fiona Williams</name>
+      <address>Monash Nursing Academy  
+Monash University School of Nursing and Midwifery
+Clayton Campus
+Building 13D Level 3,
+Wellington Rd
+Clayton  VIC  3800</address>
+      <phone>+ 61 3 9904 4377</phone>
+      <fax>+ 61 3 9905 4837 </fax>
+      <email>allison.williams@monash.edu</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Allison Fiona Williams</name>
+      <address>Monash Nursing Academy  
+Monash University School of Nursing and Midwifery
+Clayton Campus
+Building 13D Level 3,
+Wellington Rd
+Clayton  VIC  3800</address>
+      <phone>+ 61 3 9904 4377</phone>
+      <fax>+ 61 3 9905 4837 </fax>
+      <email>allison.williams@monash.edu</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Allison Fiona Williams</name>
+      <address>Monash Nursing Academy  
+Monash University School of Nursing and Midwifery
+Clayton Campus
+Building 13D Level 3,
+Wellington Rd
+Clayton  VIC  3800</address>
+      <phone>+ 61 3 9904 4377</phone>
+      <fax>+ 61 3 9905 4837 </fax>
+      <email>allison.williams@monash.edu</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Allison Fiona Williams</name>
+      <address>Monash Nursing Academy  
+Monash University School of Nursing and Midwifery
+Clayton Campus
+Building 13D Level 3,
+Wellington Rd
+Clayton  VIC  3800</address>
+      <phone>+ 61 3 9904 4377</phone>
+      <fax>+ 61 3 9905 4837 </fax>
+      <email>allison.williams@monash.edu</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

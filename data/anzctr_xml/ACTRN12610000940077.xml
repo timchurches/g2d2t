@@ -1,0 +1,200 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="336083">
+  <stage>Registered</stage>
+  <submitdate>12/10/2010</submitdate>
+  <approvaldate>4/11/2010</approvaldate>
+  <actrnumber>ACTRN12610000940077</actrnumber>
+  <trial_identification>
+    <studytitle>CAMERA - Combination Antibiotic treatment for Methicillin Resistant Staphylococcus Aureus</studytitle>
+    <scientifictitle>In adults with methicillin resistant staphylococcus aureus (MRSA)  bacteraemia, does the combination of vancomycin plus flucloxacillin lead to a faster resolution of bacteraemia than does vancomycin alone?</scientifictitle>
+    <utrn />
+    <trialacronym>CAMERA</trialacronym>
+    <secondaryid>N/A</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Methicillin Resistant Staphylococcus Aureus Bacteraemia</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Vancomycin 1.5 grams every 12 hours infused intravenously over 90 minutes (for standard duration of 2-6 weeks) PLUS flucloxacillin 2grams every six hours infused intravenously over 10-30 minutes (for 7 days). Both Vancomycin and Flucloxacillin will be comenced on day one. The duration of Vancomycin treatment will be decided by the treating clinician based on clinical variables and response.</interventions>
+    <comparator>Vancomycin 1.5 grams every 12 hours infused intravenously over 90 minutes (for standard duration of 2-6 weeks). The duration of Vancomycin treatment will be decided by the treating clinician based on clinical variables and response.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Duration of MRSA bacteraemia. Blood culutres will be collected daily for the first 7 days and, if still postitive at day 7, every 48 hours therafter until negative. A negative blood culture means no growth detected in an automated blood culture system after 48 hours of incubation.</outcome>
+      <timepoint>Blood cultures will be collected daily for the first 7 days and, if still postitive at day 7, every 48 hours therafter until negative. A negative blood culture means no growth detected in an automated blood culture system after 48 hours of incubation.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clinical cure, as judged by an infectious diseases physician. Clinical cure is defined as resolution of fever for more than 48 hours, resolution of all clinical signs of infection, no longer receving any antibiotic treatment for the index infection, and at least one negative blood culutre after the cessation of all antibiotics.</outcome>
+      <timepoint>90 days post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All-cause mortality as determined from hospital discharge data. If the patient is discharged from hospital prior to 28 days post randomisation, they or their general practitioner will be contacted to determine their vital status.</outcome>
+      <timepoint>28 days post randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Composite endpoint of development of new renal impairment or WHO grade 2 or higher abnormal liver enzymes. New renal impairment is defined as serum creatinine&gt;1.5 times the upper limit of normal if it was &lt;=1.25 upper limit of normal at trial entry; WHO Grade 2 or higher liver toxicity is defined as one or both of alanine transaminase or gamma glutaryl tranferase of &gt;2.6 times the upper limit of normal</outcome>
+      <timepoint>First 10 days following randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1. MRSA identified in a blood culture drawn within 48 hours prior to randomisation
+2. Hospital inpatient with expected stay of at least 7 days</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>100</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1. Definite history of allergy to vancomycin or flucloxacillin
+2. Renal impairment with estimated Glomerular Filtration Rate (eGFR) &lt;30ml/min
+3. Polymicrobial bacteraemia in the index MRSA blood culture
+4. Current treatment with a beta-lactam antibiotic which the patient's clinician deems necessary to continue
+5. Pregnancy
+6. Previous randomisation into this study</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Following written informed consent, the patient will be randomised by sequentially numbered opaque sealed envelopes.</concealment>
+    <sequence>Stratified by centre. Randomisation in permuted blocks of variable block size.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>Pilot study to determine feasibility and inform design of a larger study with mortality as the primary endpoint. Main aim is to determine the duration of bacteraemia in the treatment and control groups, rather than to demonstrate efficacy.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods />
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry />
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>22/11/2010</anticipatedstartdate>
+    <actualstartdate>12/01/2011</actualstartdate>
+    <anticipatedenddate />
+    <actualenddate>6/05/2014</actualenddate>
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Closed: follow-up continuing</recruitmentstatus>
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,NT,WA</recruitmentstate>
+    <postcode>0811</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Dr Joshua Davis</primarysponsorname>
+    <primarysponsoraddress>Menzies School of Health Research
+Rocklands Drive
+Tiwi
+NT 0811</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>Northern Territory Research and Innovation Board</fundingname>
+      <fundingaddress>Ground Floor
+Development House
+76 The Esplanade
+Darwin NT 0800</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Dr Steven Tong</sponsorname>
+      <sponsoraddress>Menzies School of Health Research
+Rocklands Drive
+Tiwi
+NT 0811</sponsoraddress>
+      <sponsorcountry>Australia</sponsorcountry>
+    </secondarysponsor>
+    <othercollaborator>
+      <othercollaboratortype>Other Collaborative groups</othercollaboratortype>
+      <othercollaboratorname>Australian Society for Infectious Diseases Clinical Research Network</othercollaboratorname>
+      <othercollaboratoraddress>C/- The Royal Australasian College of Physicians
+145 Macquarie Street
+Sydney, NSW 2000
+AUSTRALIA</othercollaboratoraddress>
+      <othercollaboratorcountry>Australia</othercollaboratorcountry>
+    </othercollaborator>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>MRSA bacteraemia has a mortality of 30-40%, exceeding that of sensitive Staphylococcus aureus primarily due to the shortcomings of vancomycin, the standard therapy for MRSA bacteraemia. Whilst several new antibiotics have become available for MRSA, none have been shown to be superior to vancomycin. Although MRSA is by definition resistant to oxacillin, multiple in-vitro and animal studies have demonstrated synergy of vancomycin with beta-lactams (including oxacillin) against MRSA and hetro-resistant vancomycin intermediate Staphylococcus aureus (hVISA). This study aims to answer the following question: In hospitalised adults with MRSA bacteraemia, does combination therapy with vancomycin and flucloxacillin lead to a shorter time to clearance of bacteraemia than vancomycin alone?</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee of the Menzies School of Health Research and Northern Territory Department of Health and Families</ethicname>
+      <ethicaddress>Menzies School of Health Research
+Rocklands Drive
+Tiwi
+NT 0811</ethicaddress>
+      <ethicapprovaldate>12/10/2010</ethicapprovaldate>
+      <hrec>1/10/1436</hrec>
+      <ethicsubmitdate>15/07/2010</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Josh Davis</name>
+      <address>Menzies School of Health Research
+Rocklands Drive
+Tiwi NT 0811</address>
+      <phone>+61 8 89448005</phone>
+      <fax />
+      <email>Joshua.Davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Dr Josh Davis</name>
+      <address>Menzies School of Health Research
+Rocklands Drive
+Tiwi NT 0811</address>
+      <phone>+61 8 89448005</phone>
+      <fax />
+      <email>Joshua.Davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title />
+      <name>Dr Josh Davis</name>
+      <address>Menzies School of Health Research
+Rocklands Drive
+Tiwi NT 0811</address>
+      <phone>+61 8 89448005</phone>
+      <fax />
+      <email>Joshua.Davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Josh Davis</name>
+      <address>Menzies School of Health Research Rocklands Drive Tiwi NT 0811 </address>
+      <phone>+61 8 89448005</phone>
+      <fax />
+      <email>Joshua.Davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

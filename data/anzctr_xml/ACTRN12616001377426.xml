@@ -1,0 +1,224 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="371402">
+  <stage>Registered</stage>
+  <submitdate>31/08/2016</submitdate>
+  <approvaldate>5/10/2016</approvaldate>
+  <actrnumber>ACTRN12616001377426</actrnumber>
+  <trial_identification>
+    <studytitle>The Mechanisms of Aspirin Therapy in Sepsis [MATHS] trial</studytitle>
+    <scientifictitle>The Mechanisms of Aspirin Therapy in Sepsis [MATHS] trial</scientifictitle>
+    <utrn />
+    <trialacronym>MATHS</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>sepsis</healthcondition>
+    <conditioncode>
+      <conditioncode1>Inflammatory and Immune System</conditioncode1>
+      <conditioncode2>Other inflammatory or immune system disorders</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Studies of infection and infectious agents</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Aspirin 100mg administered orally as single dose at time of randomization and at 24 hrs OR
+Aspirin 300mg administered orally as single dose at time of randomization and at 24 hrs 
+
+Both will be administered to septic patients that are in ICU at the time therefore adherence will not be an issue. If patients are intubated doses will be administered via NG tube. </interventions>
+    <comparator>The control group will consist of septic patients not treated with aspirin</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Measurement of the effect of low-dose aspirin on immunological pathways caused by ATL. Will be assessed using blood tests and subsequent assays on expression patterns of the above molecule taken at below specified timepoints. </outcome>
+      <timepoint>Baseline, at 1 hour, at 4 hours, at 8 hours, at 24 hours, and at 48 hours post intervention</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Measurement of the effect of low-dose aspirin on immunological pathways caused by NF-kB. Will be assessed using blood tests and subsequent assays on expression patterns of the above molecule taken at below specified timepoints. </outcome>
+      <timepoint>Baseline, at 1 hour, at 4 hours, at 8 hours, at 24 hours, and at 48 hours post intervention</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Exploratory assessment of trends in clinical outcomes shown by sequential organ failure assessment (SOFA) score reductions in treated compared with control populations. </outcome>
+      <timepoint>At 24 and 48 hours post intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Comparison of safety as measured by new onset bleeding or renal injury. Will be assessed using clinical examination, blood tests, scoring systems such as APACHE II, and imaging methods where appropriate. </outcome>
+      <timepoint>At 24 and 48 hours post intervention</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Inflammatory markers, such as platelet activation indices and immune cellular markers will be assessed using blood samples and subsequent assays including flow cytometry. </outcome>
+      <timepoint>At baseline, at 1 hour, at 4 hours, at 24 hours, and at 48 hours post intervention. </timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ATL and deterioration in SOFA scores  exact tests for comparisons of categorical outcomes </outcome>
+      <timepoint>At 24 and 48 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ATL and deterioration in APACHE II scores  log ranked tests for non-parametric data </outcome>
+      <timepoint>At 24 and 48 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ATL levels and mortality. Using ordinal logistic regression for multivariable analysis.</outcome>
+      <timepoint>24 and 48 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ATL levels and length of stay in ICU. Using ordinal logistic regression for multivariable analysis.</outcome>
+      <timepoint>At 24 and 48 hours</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Sepsis according to Sepsis-3 consensus definition</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Regular aspirin for myocardial ischaemia. 
+Aspirin/NSAID in last 7 days
+Hypersensitivity to aspirin/NSAIDs
+Platelet count &lt;100,000 x10^9/L
+Active bleeding (trauma, gastrointestinal, or intracranial)
+Life expectancy less than 24 hours </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Sealed opaque envelopes in a locked office</concealment>
+    <sequence>A list of random numbers will be generated by a computer software</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Pharmacodynamics</endpoint>
+    <statisticalmethods>This study has been adequately powered to detect a difference in baseline versus Day2 ATL concentrations in the control versus aspirin group. Baseline normal ATL concentrations and population standard deviation ATL concentrations used to determine sample size are derived from a randomised clinical trial of low doses of aspirin that showed a baseline concentration of ATL of 2.45ng/mL (std 0.96 ng/ml) with no significant change over time in healthy subjects not taking aspirin. We assume that regardless of any change that occurs in the setting of sepsis, the combined aspirin groups will have ATL concentrations at least 0.6 mg/ml higher than the control group. This being the case, we require a sample size of 45 participants per group to have 80% power to reject the null hypothesis - change in ATL concentrations of cases is identical to the change in ATL levels of controls- with a P-value of 0.05. The proposed sample size calculations used the most conservative available estimate for effect of low dose aspirin on ATL in human subjects. Blister studies, that reflect the effect of aspirin in the setting of inflammation, show an increase of ATL in the aspirin group of around 80% at 24 hours. We powered the study on the assumption that the effect of aspirin would be an increase of 25% in ATL. Measurements of SOFA and APACHE II scores at T0 with follow up SOFA at T24 and T48 will be made for comparison between groups using student-t tests and log ranked tests. Exploratory analyses, such as the correlation between ATL levels at 24 hours, and change in SOFA scores/mortality/length of stay in ICU, will involve exact tests for comparisons of categorical outcomes (SOFA), log ranked tests for non-parametric data (APACHE II) and ordinal logistic regression for multivariable analysis.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>1/12/2016</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate />
+    <actualenddate />
+    <samplesize>135</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>QLD</recruitmentstate>
+    <hospital>The Townsville Hospital - Douglas</hospital>
+    <postcode>4814 - Douglas</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Hospital</primarysponsortype>
+    <primarysponsorname>Townsville Hospital and Health Service</primarysponsorname>
+    <primarysponsoraddress>100 Angus Smith Dr, Douglas QLD 4814</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Townsville Hospital and Health Service</fundingname>
+      <fundingaddress>100 Angus Smith Dr, Douglas QLD 4814</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Background: Despite the high burden of mortality of sepsis, there are no clearly effective strategies to suppress the underlying inflammatory response. Studies have suggested that low-dose aspirin - a cost-effective and safe medication - has a potential role in the prevention and treatment of sepsis. This trial aims to measure the effects of low-dose aspirin on target inflammatory markers; activation of NF-KB, increases in aspirin triggered lipoxins (ATLs) pathway, platelet activation indices, immune cellular markers and the rate of organ dysfunction in septic patients.
+
+Method:
+The MATHS trial is a single-centre, randomised, open label, phase II trial. One hundred and thirty-five septic patients (Sepsis-3 definition) will be randomised to one of three treatment groups: aspirin 100mg, aspirin 300mg both given daily for two days or no treatment. Blood samples will be taken at regular set intervals and assays will be performed to quantify the inflammatory response via NF-KB activation, expression of aspirin triggered lipoxins (ATLs) and various other inflammatory markers. Initial SOFA and APACHE II scores will be calculated, with repeat SOFA scores at 24 and 48 hours. Exploratory analyses, such as the correlation between ATL levels at 24 hours, and deterioration in SOFA scores/mortality/length of stay in ICU, will involve exact tests for comparisons of categorical outcomes (SOFA), log ranked tests for non-parametric data (APACHE II) and ordinal logistic regression for multivariable analysis.
+
+Conclusions:
+The results of this this trial could add further evidence to support the use of low-dose aspirin in sepsis.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Townsville Hospital and Health Service Human Research Ethics Committee</ethicname>
+      <ethicaddress>Human Research Ethics Committee
+
+Townsville Hospital and Health Service
+Townsville Hospital 
+100 Angus smith drive, douglas, QLD, 4814</ethicaddress>
+      <ethicapprovaldate>30/08/2016</ethicapprovaldate>
+      <hrec>HREC/16/QTHS/160</hrec>
+      <ethicsubmitdate>11/07/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/371402-16QTHS160_3 Approved.pdf</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Damon Eisen</name>
+      <address>Townsville Hospital and Health Service
+Clinical School IMB 52, The Townsville Hospital
+100 Angus Smith Drive, Douglas, QLD, 4814</address>
+      <phone>+61 7 4433 2459</phone>
+      <fax />
+      <email>Damon.Eisen@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Damon Eisen</name>
+      <address>Director of Clinical Research
+The Townsville Hospital
+100 Angus Smith Drive, Douglas, QLD, 4814</address>
+      <phone>+61 7 4433 2459</phone>
+      <fax />
+      <email>Damon.Eisen@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Damon Eisen</name>
+      <address>Townsville Hospital and Health Service
+Clinical School IMB 52, The Townsville Hospital
+100 Angus Smith Drive, Douglas, QLD, 4814</address>
+      <phone>+61 7 4433 2459</phone>
+      <fax />
+      <email>Damon.Eisen@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>George Kerin</name>
+      <address>Townsville Hospital
+100 Angus Smith Drive, Douglas, QLD, 4814</address>
+      <phone>+61 7 4433 1111</phone>
+      <fax />
+      <email>georgie.kerin@health.qld.gov.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,239 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="370918">
+  <stage>Registered</stage>
+  <submitdate>16/06/2016</submitdate>
+  <approvaldate>24/06/2016</approvaldate>
+  <actrnumber>ACTRN12616000833460</actrnumber>
+  <trial_identification>
+    <studytitle>Real life assessment of SGLT2 inhibitors for type 2 diabetes</studytitle>
+    <scientifictitle>Efficacy of SGLT2 inhibitors in a tertiary hospital type 2 diabetes clinic</scientifictitle>
+    <utrn>U1111-1184-3691</utrn>
+    <trialacronym>RMH-SGLT2</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Type 2 diabetes</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Oral SGLT2 inhibitor, including dapagliflozin, empagliflozin and canagliflozin. The dose and frequency will be determined by the treating clinician as per standard care and will not be defined as part of this study. Each patient will be followed with blood tests and questionnaires at 3 and 6 months after starting SGLT2 inhibitor therapy.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>HbA1c by clinically accredited laboratory using EDTA blood sample</outcome>
+      <timepoint>3 months after starting SGLT2 inhibitor therapy</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>HbA1c by clinically accredited laboratory using EDTA blood sample
+</outcome>
+      <timepoint>3 and 6 months after starting SGTLTI</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Weight, measured by digital scales
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood pressure by automated sphygmomanometer
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood ketones measured by ambulatory home monitor (Abbott Freestyle Neo)
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urine fractional excretion of glucose and electrolytes (change from baseline)
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urine albumin/creatinine ratio (change from baseline)
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Change in number and dose of glucose-lowering and blood pressure-lowering medications from baseline. These data will be obtained through participant interview.
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Lipid profile, assessed by an accredited laboratory using a serum sample
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Quality of life, measured using the SF-36 survey
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Adverse events of interest (genitourinary infection, fracture and hypovolaemia) will be sought during clinician assessment at 3 and 6 months
+</outcome>
+      <timepoint>3 and 6 months after starting SGLT2I</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Health utility using the EQ-5D survey</outcome>
+      <timepoint>3 and 6 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Type 2 diabetes according to ADA criteria
+No planned changes to glucose-lowering or blood pressure-lowering therapy
+Due to commence SGLT2 inhibitor therapy
+Willing to comply with therapy, tests and clinical follow-up
+Deemed unlikely to require adjustment of blood pressure- or lipid-lowering medication over the next 6 months</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Unable to provide informed consent
+Use of SGLT2 inhibitor in previous fortnight
+Contra-indication to SGLT2 inhibitor therapy, including stage 4 or 5 chronic kidney disease (eGFR&lt;30) and history of genitourinary infection
+Presence of a comorbidity that, in the investigators opinion, would impair compliance with SGLT2 inhibitor therapy or the study protocol
+Pregnancy or desire for pregnancy within the next year
+Urinary frequency that may prevent abstinence from urination for the 5-hour period before clinic visits </exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>Analyses will be performed using GraphPad and R software. Grouped and categorical data will be compared by t-test and Fishers exact test respectively, and correlations will be performed using the method of Pearson. Multiple regression analyses will be performed using the lm function in R. 
+To determine if SGLT2 inhibitor therapy is associated with a mean+/-SD reduction in HbA1c of 0.5+/-1.0%, 40 participants need to complete the study to achieve &gt;85% statistical power (alpha=0.05, two-tail). We expect up to 10 patients will withdraw from the study. The final sample size will therefore be 50 participants. </statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Prospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>1/07/2016</anticipatedstartdate>
+    <actualstartdate>1/09/2016</actualstartdate>
+    <anticipatedenddate>30/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>50</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>VIC</recruitmentstate>
+    <hospital>Royal Melbourne Hospital - City campus - Parkville</hospital>
+    <postcode>3050 - Royal Melbourne Hospital</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>John Wentworth</primarysponsorname>
+    <primarysponsoraddress>RMH Diabetes and Endocrinology
+Grattan St
+Parkville, Vic 3050</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Melbourne Hospital Diabetes and Endocrinology</fundingname>
+      <fundingaddress>RMH Diabetes and Endocrinology
+Grattan St
+Parkville, Vic 3050</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This study will prospectively assess the clinical effects of SGLT2 inhibitors in people with type 2 diabetes who attend RMH diabetes clinic. The primary aim is to determine their effect on HbA1c after 3 months of therapy. We hypothesise that people who take these drugs will on average lower their HbA1c by 0.5%.</summary>
+    <trialwebsite>None</trialwebsite>
+    <publication>None</publication>
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>None</publicnotes>
+    <ethicscommitee>
+      <ethicname>Melbourne Health HREC</ethicname>
+      <ethicaddress>RMH Diabetes and Endocrinology
+Grattan St
+Parkville, Vic 3050</ethicaddress>
+      <ethicapprovaldate>6/06/2016</ethicapprovaldate>
+      <hrec>2016.009</hrec>
+      <ethicsubmitdate>8/04/2016</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>John Wentworth</name>
+      <address>RMH Diabetes and Endocrinology
+Grattan  St
+Parkville,  Vic 3050</address>
+      <phone>+61422992891</phone>
+      <fax>+61393470852</fax>
+      <email>wentworth@wehi.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>John Wentworth</name>
+      <address>RMH Diabetes and Endocrinology
+Grattan  St
+Parkville,  Vic 3050</address>
+      <phone>+61422992891</phone>
+      <fax>+61393470852</fax>
+      <email>wentworth@wehi.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>John Wentworth</name>
+      <address>RMH Diabetes and Endocrinology
+Grattan  St
+Parkville,  Vic 3050</address>
+      <phone>+61422992891</phone>
+      <fax>+61393470852</fax>
+      <email>wentworth@wehi.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>John Wentworth</name>
+      <address>RMH Diabetes and Endocrinology
+Grattan  St
+Parkville, 3050</address>
+      <phone>0422992891</phone>
+      <fax>61393470852</fax>
+      <email>wentworth@wehi.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

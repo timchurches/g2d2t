@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373619">
+  <stage>Registered</stage>
+  <submitdate>17/09/2017</submitdate>
+  <approvaldate>16/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001461381</actrnumber>
+  <trial_identification>
+    <studytitle>GELATIne fluid and acute kidney injury in critical illness: the GELATI trial </studytitle>
+    <scientifictitle>The effect of 4% succinylated gelatine fluid on acute kidney injury in critically ill patients</scientifictitle>
+    <utrn />
+    <trialacronym>GELATI</trialacronym>
+    <secondaryid>Nil known</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Critical illness</healthcondition>
+    <healthcondition>Circulatory failure
+</healthcondition>
+    <healthcondition>Acute kidney injury</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Other cardiovascular diseases</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Renal and Urogenital</conditioncode1>
+      <conditioncode2>Other renal and urogenital disorders</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Intravenous 4% succinylated gelatine fluid at a dose of at least 500mL, to be delivered over less than 60 minutes, Exact dose will be determined by treating physician. The study fluid will also be used for any further fluid boluses required within the next 24-hour period, up to a maximum of 50mL/kg or 3000mL. Any fluid required for blood volume expansion beyond 24 hours is open-label; however, the use of gelatine will be not allowed for 7 days post-enrolment. Other crystalloid fluids or blood products may be used for purposes other than blood volume expansion, such as maintenance requirements or transfusion. Use of albumin solution is also permitted, if specifically indicated. Volume and type of all fluids delivered with 7 days of enrolment, or until ICU discharge, will be recorded. </interventions>
+    <comparator>Intravenous compound sodium lactate at a dose of at least 500mL, to be delivered over less than 60 minutes, Exact dose will be determined by treating physician. The study fluid will also be used for any further fluid boluses required within the next 24-hour period, up to a maximum of 50mL/kg or 3000mL. </comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>A difference in the change in urine NGAL concentrations over time after first dose of study fluid </outcome>
+      <timepoint>0, 1, 5 and 24 hours</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>A difference in the change in urine cystatin C concentrations over time after first dose of study fluid </outcome>
+      <timepoint>0, 1, 5 and 24 hours</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urinary F2-isoprostanes concentration
+</outcome>
+      <timepoint>0, 1, 5 and 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Maximum KDIGO AKI stage within 7 days after randomisation</outcome>
+      <timepoint>7 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>RRT-free days within 28 days after randomisation </outcome>
+      <timepoint>28 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>60-day all-cause mortality</outcome>
+      <timepoint>60 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urinary a1-microglobulin concentration</outcome>
+      <timepoint>0, 1, 5, and 24 hours</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>ICU-free days within 28 days after randomisation </outcome>
+      <timepoint>28 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Patient within 96 hours of ICU admission
+2.	Treating physician has made a clinical decision to administer a fluid bolus at a dose of at least 500mL delivered over &lt;60 minutes
+3.	Presence of a urinary collection system
+4.	Treating physician believes there is an equipoise in using either GELO or CSL for intravascular volume expansion.
+</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	When an intravenous fluid bolus is not intended or planned on a clinical ground
+2.	Age &lt;18 years old
+3.	Imminent death and/or limitation of care order
+4.	Severe chronic renal failure (creatinine &gt;265µmol/L prior to acute illness, or end-stage renal failure receiving chronic dialysis) 
+5.	Urine output &lt;10mL/hr over the previous 4 hours
+6.	Currently receiving RRT, or planned RRT within the next 24 hours
+7.	Known allergy to GELO
+8.	Has received GELO in the previous 48 hours
+9.	Patient has been admitted to ICU for longer than 96 hours
+10.	Previous enrolment in the study
+11.	Treating clinician perceives that participation in the study is not in the patients best interests
+</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Numbered sealed envelope</concealment>
+    <sequence>Randomised block design of 4 blocks per treatment arm (2x4, 2x6) generated by statistical package software (Stata, College Station, TX, USA). </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Safety</endpoint>
+    <statisticalmethods>Change in biomarker concentration over time will be compared between the placebo and GELO groups using a linear treatment effects model with propensity scoring adjustment for APACHE II score and admission diagnosis group. For biomarkers with skewed distributions that are resistant to successful transformation, quantile regression will be employed to compare differences over time. Ordinal logistic regression methods will be used for testing differences in maximum AKI stage, and logistic regression for differences in binary clinical outcomes.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 2</phase>
+    <anticipatedstartdate>30/11/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>30/11/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>40</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>31/01/2019</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>WA</recruitmentstate>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>6000 - Perth</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Charities/Societies/Foundations</primarysponsortype>
+    <primarysponsorname>Royal Perth Hospital Medical Research Foundation</primarysponsorname>
+    <primarysponsoraddress>76 Murray St Perth, WA 6000</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Charities/Societies/Foundations</fundingtype>
+      <fundingname>Royal Perth Hospital Medical Research Foundation</fundingname>
+      <fundingaddress>76 Murray St Perth, WA 6000</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Synthetic colloid fluids are frequently used for blood volume expansion in critically ill patients. Starch-based synthetic colloid fluids have been associated with increased risk of acute kidney injury. There is some evidence that gelatine-based colloid fluids may also pose a similar risk. This randomised open-label controlled pilot trial will assess the effects of 4% succinylated gelatine fluid on urinary biomarkers of acute kidney injury in Intensive Care Unit (ICU) patients. This study will also assess clinical outcomes, as secondary endpoints, including change in AKI stage, need for renal replacement therapy (RRT), ICU length of stay and mortality. </summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>South Metropolitan Health Service Ethics Committee</ethicname>
+      <ethicaddress>Level 3, Harry Perkins Institute of Medical Research, Fiona Stanley Hospital
+11 Robin Warren Drive, MURDOCH WA 6150 </ethicaddress>
+      <ethicapprovaldate>31/08/2017</ethicapprovaldate>
+      <hrec>RGS0000000105</hrec>
+      <ethicsubmitdate>1/04/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Kwok Ming Ho</name>
+      <address>Intensive Care Unit, Royal Perth Hospital
+Wellington St 
+Perth, WA, 6001
+</address>
+      <phone> +618 92241056</phone>
+      <fax />
+      <email>kwok.ho@health.wa.gov.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lisa Smart</name>
+      <address>Murdoch University
+90 South St
+Murdoch, WA 6150</address>
+      <phone>+618 9360 6692</phone>
+      <fax />
+      <email>l.smart@murdoch.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lisa Smart</name>
+      <address>Murdoch University
+90 South St
+Murdoch, WA 6150</address>
+      <phone>+618 9360 6692</phone>
+      <fax />
+      <email>l.smart@murdoch.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Lisa Smart</name>
+      <address>Murdoch University
+90 South St
+Murdoch, WA 6150</address>
+      <phone>+618 9360 6692</phone>
+      <fax />
+      <email>l.smart@murdoch.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

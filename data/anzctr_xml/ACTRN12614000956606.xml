@@ -1,0 +1,204 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="366741">
+  <stage>Registered</stage>
+  <submitdate>17/07/2014</submitdate>
+  <approvaldate>8/09/2014</approvaldate>
+  <actrnumber>ACTRN12614000956606</actrnumber>
+  <trial_identification>
+    <studytitle>MiDoctor: A Randomized Trial in Patients with Diabetes</studytitle>
+    <scientifictitle>Randomized Trial in Patients with Diabetes in Curacavi, Chile: Can MiDoctor Improve Glycemic Control in Comparison to Usual Care?</scientifictitle>
+    <utrn>None</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Diabetes Mellitus Type 2</healthcondition>
+    <healthcondition>Hypertension</healthcondition>
+    <conditioncode>
+      <conditioncode1>Metabolic and Endocrine</conditioncode1>
+      <conditioncode2>Diabetes</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Hypertension</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Patients in the intervention group will be invited to participate for 12 months in "MiDoctor," an automated system that monitors individuals with chronic diseases and promotes self-care by providing timely diagnosis, automated calls, and continual reminders via text messaging. The system reinforces patient attendance, helps patients adhere to medication and lifestyle changes, and alerts health personnel to inadequate adherence or changes in risk factors. Specifically, MiDoctor is a web-based system with an interactive voice response (IVR) component and SMS components. The system makes automated phone calls and sends SMS to the patient and, depending on the patient's response, it will send an email alert and place the patient on a work list for the clinical team to respond. The system calls the patient approximately once a week and sends them 1 SMS per week. Each automated phone call lasts approximately 1.5 minutes. </interventions>
+    <comparator>Patients in the control group will not be invited to participate in MiDoctor during the evaluation phase of the study, but will be eligible to enroll in MiDoctor at the end of the evaluation phase. Patients in the control group will receive their usual care for diabetes.</comparator>
+    <control>Active</control>
+    <interventioncode>Behaviour</interventioncode>
+    <interventioncode>Lifestyle</interventioncode>
+    <interventioncode>Treatment: Devices</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Hemoglobin A1c, as measured by blood tests ordered by each patient's regular clinician</outcome>
+      <timepoint>One Year</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Adherence with appointments as ascertained from electronic appointment system maintained by Hospital de Curacavi</outcome>
+      <timepoint>One Year</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Blood Pressure (Systolic and Diastolic), as measured by clinicians at every patient contact with the hospital's ambulatory health centers</outcome>
+      <timepoint>One Year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>LDL Cholesterol, as measured by blood tests ordered by each patient's regular clinician</outcome>
+      <timepoint>One Year</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Urine Microalbumin, as measured by blood tests ordered by each patient's regular clinician</outcome>
+      <timepoint>One Year</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients with an established diagnosis of diabetes mellitus type 2, with or without hypertension, registered at Curacavi Hospital, Chile, as of June 15, 2014.</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>0</inclusivemaxage>
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>None</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>A total of 1,054 eligible patients was identified. Among this group, 650 were randomly assigned to the intervention group, while the remaining 404 were assigned to the control group. Allocation concealment through central randomization via computer.</concealment>
+    <sequence>Each of the 1,054 eligible patients was assigned a random number via a computerized random number generating routine. The patients were then ordered according their random number, and the lowest 650 values were assigned to the intervention group.</sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>When an individual in the intervention group is invited to participate, any other eligible individual residing in the same household will also be invited, even if that individual was originally designated as a control.</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Since the intervention constitutes an invitation to participate in the MiDoctor program, the study results will be subject to intention-to-treat (ITT) analysis. In addition, a supplementary per-protocol (PP) analysis will be performed based upon acceptance of the invitation to participate. The sample sizes were designed to detect a difference of 0.3 units of hemoglobin A1c at a significance level of 5% and a power of 80%, based on a standard deviation of A1c equal to 1.5.</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase />
+    <anticipatedstartdate>13/10/2014</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>10/11/2014</anticipatedenddate>
+    <actualenddate />
+    <samplesize>1054</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>Chile</country>
+      <state>Curacavi, Region Metropolitana</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Individual</primarysponsortype>
+    <primarysponsorname>Jeffrey E. Harris</primarysponsorname>
+    <primarysponsoraddress>Department of Economics
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, E18-258
+Cambridge, Massachusetts 02139 USA</primarysponsoraddress>
+    <primarysponsorcountry>Chile</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Hospital de Curacavi</fundingname>
+      <fundingaddress>Avenida O´Higgins 500
+Curacavi
+Region Metropolitana
+Chile 9630000</fundingaddress>
+      <fundingcountry>Chile</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Commercial sector/Industry</sponsortype>
+      <sponsorname>eHealthSystems</sponsorname>
+      <sponsoraddress>Jose Arrieta 89
+Providencia, Santiago
+Chile 7500000</sponsoraddress>
+      <sponsorcountry>Chile</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>A randomized controlled study of MiDoctor, an automated system that uses text messaging (SMS) to reinforce patient attendance, helps patients adhere to medication and lifestyle changes, and alerts health personnel to inadequate adherence or changes in risk factors. The study population consists of 1,054 patients with diabetes type 2, at least 18 years old, registered at Hospital de Curacavi, Chile, of whom 650 will be invited to participate in MiDoctor, while 404 controls will receive their usual care. One-year endpoints will include hemoglobin A1c, blood pressure, LDL cholesterol, urinary microalbumin, and patient adherence to appointments and medications. Intention to treat (ITT) analysis is planned, along with a supplementary per-protocol (PP) analysis of based upon acceptance of the invitation to participate.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Not yet submitted</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Comite de Etica Cientifico (CEC)</ethicname>
+      <ethicaddress>Servicio de Salud Metropolitano Occidente.
+Avenida Libertador Bernardo O'Higgins 2429, 
+Santiago, Region Metropolitana
+Chile 8320000</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>17/07/2014</ethicsubmitdate>
+      <ethiccountry>Chile</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>Jeffrey E. Harris</name>
+      <address>Department of Economics
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, E18-258
+Cambridge, Massachusetts 02139 USA</address>
+      <phone>+1 617 253 2677</phone>
+      <fax>+1 617 253 6915</fax>
+      <email>jeffrey@mit.edu</email>
+      <country>United States of America</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Francisca Donoso</name>
+      <address>eHealthSystems
+Avenida Lucas Pacheco 734
+Talagante, Region Metropolitana 9670000</address>
+      <phone>+56 9 7411 94 98</phone>
+      <fax />
+      <email>cfdonoso@uc.cl</email>
+      <country>Chile</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Jeffrey E. Harris</name>
+      <address>Department of Economics
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, E18-258
+Cambridge, Massachusetts 02139</address>
+      <phone>+1 617 253 2677</phone>
+      <fax>+1 617 253 6915</fax>
+      <email>jeffrey@mit.edu</email>
+      <country>United States of America</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>Jeffrey E. Harris</name>
+      <address>Department of Economics
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, E18-258
+Cambridge, Massachusetts 02139</address>
+      <phone>+1 617 253 2677</phone>
+      <fax>+1 617 253 6915</fax>
+      <email>jeffrey@mit.edu</email>
+      <country>United States of America</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

@@ -1,0 +1,297 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="373678">
+  <stage>Registered</stage>
+  <submitdate>19/09/2017</submitdate>
+  <approvaldate>6/10/2017</approvaldate>
+  <actrnumber>ACTRN12617001416381p</actrnumber>
+  <trial_identification>
+    <studytitle>CASSETTE - Clindamycin Adjunctive therapy for Severe Staphylococcus aurEus Treatment Evaluation  An investigator-initiated, multi-centre, parallel group, open labelled pilot randomised controlled trial</studytitle>
+    <scientifictitle>CASSETTE  Clindamycin Adjunctive therapy for Severe Staphylococcus aureus Treatment Evaluation. A multi-centre, pilot RCT to determine if 7 days of clindamycin in combination with standard therapy will lead to a faster resolution of systemic inflammation than standard therapy alone in adults and children with severe methicillin-susceptible S. aureus (MSSA) infection.</scientifictitle>
+    <utrn />
+    <trialacronym>CASSETTE</trialacronym>
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Severe methicillin-susceptible staphylococcus aureus (MSSA)</healthcondition>
+    <conditioncode>
+      <conditioncode1>Infection</conditioncode1>
+      <conditioncode2>Other infectious diseases</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>Arm1: Interventional Group (Combination therapy group) - will receive standard therapy as per control group in Arm 2. In addition, they will also receive open label clindamycin (10mg/kg/dose up to 600mg 4 times per day intravenously in both adult and children) for 7 days (day 1 being the day of randomisation  hence the actual duration of clindamycin use will range from 6 to 7 days, depending on the time of day that the patient is randomized). The intravenous route for clindamycin is recommended but not mandated for the entire duration of therapy (7days). If switch to oral therapy is thought to be necessary and appropriate by the site PI, transition to oral clindamycin 450mg 3 times per day for adults or 10mg/kg/dose orally 3 times per day (max 450mg) for children is recommended. Each dose of medication will be recorded in the case report form and analysised for adherence to at least 75%of the dosage over the 7 days. This will form part of the study analysis.</interventions>
+    <comparator>Arm 2: Control Group - will receive standard therapy, also called backbone therapy. This will consist of IV flucloxacillin 50mg/kg/dose up to 2g q4-6h given intermittently or given via 24-hour infusion; Flucloxacillin can be substituted with IV cefazolin 50mg/kg/dose up to 2g q6-8h if there is a history of minor allergic reaction to penicillin, as defined as rash or unclear allergic reaction, but not anaphylaxis or angioedema, or at the site PIs discretion. The dose of backbone therapy will be adjusted for renal function as per recommendations in TG15 and antimicrobial dosing in renal impairment guidelines of the Childrens Hospital at Westmead.</comparator>
+    <control>Active</control>
+    <interventioncode>Treatment: Drugs</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>Number of days alive and free of systemic inflammatory response syndrome (SIRS) within the first 14 days post randomisation.
+SIRS criteria:
+1.	Abnormal temperature (less than 36 or greater than 38 degrees centigrade)
+2.	Tachypnoea or mechanical ventilation (RR greater than 20 per minute in an adult, age dependent in children)
+3.	Tachycardia (HR greater than 90 beats per minute in an adult, age dependent in children) 
+4.	Abnormal leucocyte count (using last observation carried forward from any full blood count)
+Age-appropriate cut-offs will be used for those aged less than 16 years
+</outcome>
+      <timepoint>Within the first 14 days post randomisation</timepoint>
+    </primaryOutcome>
+    <primaryOutcome>
+      <outcome>Feasibility</outcome>
+      <timepoint>Feasibility defined as the ability to recruit the target sample size within 2 years.</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>All-cause mortality </outcome>
+      <timepoint>Post randomisation (Day 1) at 14, 42 and 90 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Time to resolution of SIRS (number of days until the patient meets less than 2 simultaneous SIRS criteria on a calendar day)
+SIRS criteria:
+1.	Abnormal temperature (less than 36 or greater than 38 degrees centigrade)
+2.	Tachypnoea or mechanical ventilation (RR greater than 20 per minute in an adult, age dependent in children)
+3.	Tachycardia (HR greater than 90 beats per minute in an adult, age dependent in children) 
+4.	Abnormal leucocyte count (using last observation carried forward from any full blood count)
+Age-appropriate cut-offs will be used for those aged less than 16 years
+</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with microbiological relapse (positive blood culture for MSSA at least 72 hours after a preceding negative culture)</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Proportion with microbiological treatment failure (positive sterile site culture for MSSA at least 14 days after randomisation).</outcome>
+      <timepoint>At least 14 days post randomisation (day 1) until 90 days.</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Number of surgical procedures needed to achieve source control</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Duration of intravenous antibiotic treatment</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Clostridium difficile-associated diarrhoea (3 or more loose stools per day along with a positive laboratory test for Clostridium difficile toxin)</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>All cause diarrhoea (3 or more loose stools per day)</outcome>
+      <timepoint>Post randomisation (day 1) until 90 days</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Slope of C-reactive protein (CRP) curve days 1-14  i.e. rate of change of CRP over time</outcome>
+      <timepoint>Post randomisation (day 1) until 14 days</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>1.	Age  both children and adults will be eligible. Infants must have a corrected age of greater than or equal to 28 days. 
+2.	MSSA cultured from at least one clinically relevant specimen (Including an isolation in a polymicrobial culture when the other isolates are determined by the Principal Investigator to be non-significant) 
+3.	Able to be randomised within 72 hours of index culture
+4.	Likely to remain as inpatient for at least 7 days following randomisation (or is accessible for follow up by the site Principal Investigator. eg Hospital in the home (HITH)
+5.	Index culture drawn no later than 48 hours after hospital admission
+6.	Severe disease  at least one of
+6.1	Septic shock (including Staphylococcal toxic shock syndrome)
+6.2	Necrotising lung/pleural space infection
+6.3	Complicated skin/soft tissue/osteoarticular infection which is multifocal and non-contiguous [e.g. pyomyositis, non-contiguous multifocal pyogenic skin infection (abscess/carbuncle)] </inclusivecriteria>
+    <inclusiveminage>28</inclusiveminage>
+    <inclusiveminagetype>Days</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>1.	Previous type 1 hypersensitivity reaction to ßeta-lactams or lincosamides
+2.	Previous participation in the trial
+3.	Known pregnancy
+4.	Currently receiving a lincosamide or other potentially anti-toxin antibiotic which cannot be ceased or substituted 
+5.	Participants primary clinician unwilling to enrol patient
+6.	Moribund (expected to die in next 24 hours with or without treatment)
+7.	Treatment limitations which preclude the use of antibiotics
+8.	Significant immunosuppression (Prednisolone &gt;0.5mg per kg per day for greater than or equal to 14 days in the last 30 days, other immunosuppressive medication, known human immunodeficiency virus (HIV) with CD4 count&lt;200 cells/microlitre, congenital immunodeficiency)
+9.	Necrotising fasciitis  
+10.	Current clostridium difficile associated diarrhoea or severe diarrhoea from any cause</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Treatment</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>Patients will be randomized using a module in the web-based study database. The randomisation list will be generated and held by an independent statistician. </concealment>
+    <sequence>Randomisation will be stratified by age (child versus adult) and be in a 1:1 ratio, in permuted blocks of variable size. Randomisation will not be stratified by site, as an average site is only likely to randomise 5-10 patients and hence the strata will be too small. </sequence>
+    <masking>Open (masking not used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures />
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>60 patients, at least 20 of whom are aged less than 16 years. As this is a pilot study, the sample size is based on the number achievable in the time frame, and the number needed to determine feasibility and to refine assumptions and study design. 
+
+Analysis of the primary outcome will be by modified intention to treat (all participants with data available for the primary endpoint will be analysed according to the treatment allocation, regardless of what treatment they received). The primary outcome measure will be compared using a Mann-Whitney U or Students t-test as appropriate.  A per protocol analysis will also be performed. The per-protocol population is defined as 1) for the clindamycin group: received at least 75% of clindamycin doses; 2) for the standard treatment group: received less than equal to 1 defined daily dose of clindamycin post randomisation; 3) has available data to determine primary endpoint. We also plan pre-specified subgroup analyses for the following groups: i) Main treatment was flucloxacillin vs. cefazolin ii) Those who received greater than 24 hours of lincosamides or other anti-toxin antibiotics in the 7 days prior to randomisation compared with those who did not. iii) Children (less than 16 years) versus adults (greater then or equal to 16 years).</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 4</phase>
+    <anticipatedstartdate>1/11/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>31/07/2018</anticipatedenddate>
+    <actualenddate />
+    <samplesize>60</samplesize>
+    <actualsamplesize />
+    <currentsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>1/11/2018</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>NSW,NT,QLD,WA,VIC</recruitmentstate>
+    <hospital>Fiona Stanley Hospital - Murdoch</hospital>
+    <hospital>Royal Perth Hospital - Perth</hospital>
+    <hospital>Princess Margaret Hospital - Subiaco</hospital>
+    <hospital>Royal Darwin Hospital - Tiwi</hospital>
+    <hospital>The Townsville Hospital - Douglas</hospital>
+    <hospital>John Hunter Hospital - New Lambton</hospital>
+    <hospital>John Hunter Children's Hospital - New Lambton</hospital>
+    <hospital>Westmead Hospital - Westmead</hospital>
+    <hospital>The Children's Hospital at Westmead - Westmead</hospital>
+    <hospital>Blacktown Hospital - Blacktown</hospital>
+    <hospital>Sydney Children's Hospital - Randwick</hospital>
+    <hospital>Royal Melbourne Hospital - Royal Park campus - Parkville</hospital>
+    <postcode>6150 - Murdoch</postcode>
+    <postcode>6000 - Perth</postcode>
+    <postcode>6008 - Subiaco</postcode>
+    <postcode>0810 - Tiwi</postcode>
+    <postcode>4814 - Douglas</postcode>
+    <postcode>2305 - New Lambton</postcode>
+    <postcode>2145 - Westmead</postcode>
+    <postcode>2148 - Blacktown</postcode>
+    <postcode>2031 - Randwick</postcode>
+    <postcode>3052 - Parkville</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Other Collaborative groups</primarysponsortype>
+    <primarysponsorname>Menzies School of Health Research</primarysponsorname>
+    <primarysponsoraddress>PO Box 41096
+Casuarina 
+NT 0811</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Menzies School of Health Research - Improving Health Outcomes in the Tropical North (HOT NORTH): Pilot Project Grant</fundingname>
+      <fundingaddress>Menzies School of Health Research
+PO Box 41096
+Casuarina 
+NT 0811</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <fundingsource>
+      <fundingtype>Other Collaborative groups</fundingtype>
+      <fundingname>Telethon Kids Institute - Wesfarmers WA health research seed grant</fundingname>
+      <fundingaddress>Telethon Kids Institute 
+100 Roberts Road
+Subiaco
+WA 6008</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>The primary objective of this pilot study is to determine if 7 days of clindamycin in combination with standard therapy will lead to a faster resolution of systemic inflammation than standard therapy alone in adults and children with severe methicillin-susceptible S. aureus (MSSA) infection. We hypothesise that the addition of lincosamides (clindamycin) to standard therapy will lead to more rapid resolution of local and systemic inflammation due to blockade of exotoxin production by Staphylococcus aureus(SA).  The results of this pilot study will be used to determine the feasibility and refine study design of a definitive randomised controlled trial assessing the effects of adjunctive lincosamide on patient-centred outcomes in children and adults with severe MSSA infection.</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Submitted, not yet approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Hunter New England Research Ethics Committee (EC00403)</ethicname>
+      <ethicaddress>Hunter New England Local Health District
+Locked Bag 1
+New Lambton NSW 2305</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>31/08/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Human Research Ethics Committee of Northern Territory Department of Health and Menzies School of Health Research (EC00153)</ethicname>
+      <ethicaddress>John Mathews Building (Bldg 58)
+Royal Darwin Hospital Campus, 
+Rocklands Drive, 
+Casuarina 
+NT 0810
+</ethicaddress>
+      <ethicapprovaldate />
+      <hrec />
+      <ethicsubmitdate>30/09/2017</ethicsubmitdate>
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>A/Prof</title>
+      <name>Joshua Davis</name>
+      <address>Menzies School of Health Research
+PO Box 41096, 
+Casuarina 
+NT 0811, 
+</address>
+      <phone>+61889468600</phone>
+      <fax />
+      <email>joshua.davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Joshua Davis</name>
+      <address>Menzies School of Health Research
+PO Box 41096, 
+Casuarina 
+NT 0811, </address>
+      <phone>+61889468600</phone>
+      <fax />
+      <email>joshua.davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>A/Prof</title>
+      <name>Joshua Davis</name>
+      <address>Menzies School of Health Research
+PO Box 41096, 
+Casuarina 
+NT 0811, </address>
+      <phone>+61889468600</phone>
+      <fax />
+      <email>joshua.davis@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Jane Nelson</name>
+      <address>Menzies School of Health Research
+PO Box 41096, 
+Casuarina 
+NT 0811, </address>
+      <phone>+61889468522</phone>
+      <fax />
+      <email>jane.nelson@menzies.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

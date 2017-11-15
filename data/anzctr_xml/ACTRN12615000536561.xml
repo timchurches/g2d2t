@@ -1,0 +1,287 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="368506">
+  <stage>Registered</stage>
+  <submitdate>8/05/2015</submitdate>
+  <approvaldate>27/05/2015</approvaldate>
+  <actrnumber>ACTRN12615000536561</actrnumber>
+  <trial_identification>
+    <studytitle>Australian Study for the Prevention through Immunisation of Cardiovascular Events</studytitle>
+    <scientifictitle>Pneumococcal polysaccharide vaccine versus Normal Saline for primary prevention of heart attacks and strokes in at-risk Australians aged 55-60 </scientifictitle>
+    <utrn>Nil</utrn>
+    <trialacronym>AUSPICE</trialacronym>
+    <secondaryid>Nil</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Cardiovascular Disease </healthcondition>
+    <healthcondition>Myocardial Infarction </healthcondition>
+    <healthcondition>Stroke</healthcondition>
+    <conditioncode>
+      <conditioncode1>Public Health</conditioncode1>
+      <conditioncode2>Epidemiology</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Coronary heart disease</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Stroke</conditioncode1>
+      <conditioncode2>Ischaemic</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>pneumococcal polysaccharide vaccine 0.25mcg(0.5mls) standard dose given intramuscularly at baseline recruitment only</interventions>
+    <comparator>normal saline</comparator>
+    <control>Placebo</control>
+    <interventioncode>Prevention</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>The primary outcome will be a composite of major CVD events: fatal and non-fatal acute coronary syndrome and ischaemic stroke, ascertained by linkage with AIHW and NDI. The following ICD-10 codes will be included: I20 (unstable angina), I21 (acute myocardial infarction) and I63 (cerebral infarction). Cardiovascular events will be assessed through data linkage to medical records.
+</outcome>
+      <timepoint>5 years after randomisation, with interim analysis at 3 years after randomisation</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Myocardial Infarction is assessed through data linkage to in  patient medical records (diagnosis by ICD code)</outcome>
+      <timepoint>5 years after randomisation, with interim analysis at 3 years after randomisation</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Stroke is assessed through data linkage to in patient medical records (diagnosis by ICD code)</outcome>
+      <timepoint>5 years after randomisation, with interim analysis at 3 years after randomisation</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Men and women aged 55-60 years with no known CVD events and two or more risk factors for CVD. Risk factors include hypercholesterolaemia, hypertension, elevated BMI, and elevated waist circumference.</inclusivecriteria>
+    <inclusiveminage>55</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage>60</inclusivemaxage>
+    <inclusivemaxagetype>Years</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Previous pneumococcal vaccination, previous cardiovascular events and any other condition for which the use of the vaccine is indicated (as per the Australian Immunisation Handbook).</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Interventional</studytype>
+    <purpose>Prevention</purpose>
+    <allocation>Randomised controlled trial</allocation>
+    <concealment>There will be a mailout to community dwelling residents in the target age range through the Department of Human Services. Recruitment methods have been expanded to include social media (e.g. Facebook), health and medical websites (e.g. Stroke Foundation), and other means of promotion (e.g. Research Newsletters). Respondents will reply by completing a screening survey to ascertain eligibility by surface mail or via web. Once eligibility criteria are verified again at the clinic, randomisation will be stratified by gender and centre, using a web-based randomization system; allocation will also be concealed by this system as participants will be randomised to group A or B. The study Nurse will draw up the allocated study drug in a room away from the participant. Participants will receive active or control vaccination, the latter being a saline syringe identical in appearance to the vaccine.
+
+</concealment>
+    <sequence>There will be a computer generated randomisation system that will be accessed online. The randomisation will be stratified by each centre. </sequence>
+    <masking>Blinded (masking used)</masking>
+    <assignment>Parallel</assignment>
+    <designfeatures>The study is a multi-centre trial (6 sites around Australia)</designfeatures>
+    <endpoint>Efficacy</endpoint>
+    <statisticalmethods>Due to slow recruitment (3000 over 1 year rather than 6000), the recruitment period has been extended to 2 years.  In order to accomodate a possible reduction in the total sample size, Power calculations have been modified to reflect a minimum total of 4500 people followed for a longer period, i.e 5 years after the end of recruitment (median of 6 years).  To accommodate the longer follow-up period, an interim analysis has been added 3 years after the end of follow-up (median 4 years).  The p-value for each of the 2 timepoints has been adjusted to 0.025 to preserve the total type I error.  . This will allow us to detect a hazard ratio of ~0.75 at 4 years and ~0.78 at 6 years, corresponding to a 25% and 22% reduction in CVD events respectively.
+
+
+</statisticalmethods>
+    <masking1>True</masking1>
+    <masking2>False</masking2>
+    <masking3>True</masking3>
+    <masking4>False</masking4>
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs />
+    <duration />
+    <selection />
+    <timing />
+  </trial_design>
+  <recruitment>
+    <phase>Phase 3</phase>
+    <anticipatedstartdate>23/02/2016</anticipatedstartdate>
+    <actualstartdate>23/02/2016</actualstartdate>
+    <anticipatedenddate>31/12/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>4500</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate />
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>Australia</recruitmentcountry>
+    <recruitmentstate>ACT,NSW,SA,WA,VIC</recruitmentstate>
+    <hospital>Caulfield Hospital - Caulfield</hospital>
+    <hospital>Sir Charles Gairdner Hospital - Nedlands</hospital>
+    <hospital>Gosford Hospital - Gosford</hospital>
+    <hospital>The Canberra Hospital - Garran</hospital>
+    <hospital>Hunter Medical Research Institute - New Lambton Heights</hospital>
+    <hospital>South Australian Health and Medical Research Institute (SAHMRI) - Adelaide</hospital>
+    <postcode>3162 - Caulfield</postcode>
+    <postcode>6009 - Nedlands</postcode>
+    <postcode>2250 - Gosford</postcode>
+    <postcode>2605 - Garran</postcode>
+    <postcode>2305 - New Lambton Heights</postcode>
+    <postcode>5000 - Adelaide</postcode>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>University</primarysponsortype>
+    <primarysponsorname>University of Newcastle</primarysponsorname>
+    <primarysponsoraddress>Level 3 The Pod
+Hunter Medical Research Institute
+1 Kookaburra Ct
+New Lambton Heights
+New South Wales
+2305</primarysponsoraddress>
+    <primarysponsorcountry>Australia</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Government body</fundingtype>
+      <fundingname>National Health and Medical Research Council</fundingname>
+      <fundingaddress>National Health and Medical Research Council
+Level 1
+Fawkner Centre
+499 St Kilda Road
+Melbourne Vic 3004</fundingaddress>
+      <fundingcountry>Australia</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>None</sponsortype>
+      <sponsorname />
+      <sponsoraddress />
+      <sponsorcountry />
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>This is a multi-centre trial to investigate the effects of the pneumococcal vaccination in the primary prevention of heart attacks and strokes. People aged 55 to 60 from 6 sites around Australia will be invited to participate in the study. The selected participants will attend a
+clinic in their area and will be randomly given the pneumococcal vaccine or a placebo vaccine. Outcomes on the expected 6000 participants will
+be ascertained by health record linkage with government databases after 5 years.</summary>
+    <trialwebsite> https://AUSPICE.apps.hmri.com.au</trialwebsite>
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes>There are multiple post-codes for recruitment. Each site will have postcodes within 25km radius of the main city postcode.
+
+The participants are otherwise healthy in that they do not have any immunological or chronic diseases or the outcome of cardiovascular diseases. The aim of the study is to see if the pneumococcal vaccine can prevent CVD in those at risk of CVD.</publicnotes>
+    <ethicscommitee>
+      <ethicname>University of Newcastle HREC</ethicname>
+      <ethicaddress>University of Newcastle HREC
+Research Services
+Research Integrity Unit
+The Chancellery
+University Drive
+University of Newcastle
+Callaghan
+NSW 2308</ethicaddress>
+      <ethicapprovaldate>16/04/2014</ethicapprovaldate>
+      <hrec>H-2014-0064</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>ACT Health HREC</ethicname>
+      <ethicaddress>ACT Health HREC
+Building 10
+Level 6
+Canberra Hospital
+PO Box 11
+Woden
+ACT 2606</ethicaddress>
+      <ethicapprovaldate>4/08/2014</ethicapprovaldate>
+      <hrec>ETH .7.14.177</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>NSW Population and Health Services Research Ethics Committee</ethicname>
+      <ethicaddress>NSW Population and Health Services Research Ethics Committee
+Level 9
+8 Central Avenue
+Australian Technology Park
+Eveleigh
+NSW 2015</ethicaddress>
+      <ethicapprovaldate>9/12/2014</ethicapprovaldate>
+      <hrec>HREC/14/CIPHS/49</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>Monash University HREC</ethicname>
+      <ethicaddress>Monash University HREC
+Building 3E
+Room 111
+Clayton Campus
+Wellington Road
+Clayton
+Victoria 3800</ethicaddress>
+      <ethicapprovaldate>13/10/2014</ethicapprovaldate>
+      <hrec>CF14/3016-2014001638</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+    <ethicscommitee>
+      <ethicname>The University of Western Australia HREC</ethicname>
+      <ethicaddress>The University of Western Australia HREC
+Human Ethics
+Office of Research Enterprise
+The University of Western Australia
+MA459
+35 Stirling Highway
+Crawley
+WA 6009</ethicaddress>
+      <ethicapprovaldate>3/09/2014</ethicapprovaldate>
+      <hrec>RA/4/1/7101</hrec>
+      <ethicsubmitdate />
+      <ethiccountry>Australia</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment />
+  <contacts>
+    <contact>
+      <title>Prof</title>
+      <name>John Attia</name>
+      <address>Level 3 The Pod
+Hunter Medical Research Institute
+1 Kookaburra Close
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61240420515</phone>
+      <fax>+61240420039</fax>
+      <email>john.attia@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Roseanne Peel</name>
+      <address>Level 4 West
+Hunter Medical Research Institute
+1 Kookaburra Cl
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61240420523</phone>
+      <fax>+61240420523</fax>
+      <email>roseanne.peel@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Prof</title>
+      <name>John Attia</name>
+      <address>Level 3 The Pod
+Hunter Medical Research Institute
+1 Kookaburra Cl
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61240420515</phone>
+      <fax>+61240420039</fax>
+      <email>john.attia@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Ms</title>
+      <name>Roseanne Peel</name>
+      <address>Level 4 West
+Hunter Medical Research Institute
+1 Kookaburra Cl
+New Lambton Heights
+NSW 2305</address>
+      <phone>+61240420523</phone>
+      <fax>+61240420044</fax>
+      <email>roseanne.peel@newcastle.edu.au</email>
+      <country>Australia</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>

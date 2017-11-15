@@ -1,0 +1,227 @@
+<?xml-stylesheet type='text/xsl' href='anzctrTransform.xsl'?>
+<ANZCTR_Trial requestNumber="372593">
+  <stage>Registered</stage>
+  <submitdate>21/03/2017</submitdate>
+  <approvaldate>10/04/2017</approvaldate>
+  <actrnumber>ACTRN12617000522314</actrnumber>
+  <trial_identification>
+    <studytitle>Frailty in patients undergoing major limb amputation for peripheral arterial disease</studytitle>
+    <scientifictitle>Frailty in patients undergoing major limb amputation for peripheral arterial disease: a retrospective cohort study</scientifictitle>
+    <utrn>U1111-1194-4554</utrn>
+    <trialacronym />
+    <secondaryid>None</secondaryid>
+  </trial_identification>
+  <conditions>
+    <healthcondition>Frailty</healthcondition>
+    <conditioncode>
+      <conditioncode1>Cardiovascular </conditioncode1>
+      <conditioncode2>Diseases of the vasculature and circulation including the lymphatic system</conditioncode2>
+    </conditioncode>
+    <conditioncode>
+      <conditioncode1>Surgery</conditioncode1>
+      <conditioncode2>Other surgery</conditioncode2>
+    </conditioncode>
+  </conditions>
+  <interventions>
+    <interventions>The frailty characteristics of patients undergoing major lower limb amputation at one of the hospitals run by Aneurin Bevan University Health Board in South East Wales from January 2010 until January 2017 will be recorded to determine the effects of frailty on outcome, and compared to established risk prediction models.  We will record basic demographics, comorbidity (in the form of the Charlson Comorbidity Index), functional status (Katz score), residential status, Waterlow score, pre-operative blood tests and ECG, and pre-operative haemodynamics (highest heart rate and lowest blood pressure on the day of surgery).  The Addenbrookes Vascular Frailty Score will be calculated, along with generic models for outcome following amputation.  In all cases, pre-operative values will be collected.</interventions>
+    <comparator>No control group</comparator>
+    <control>Uncontrolled</control>
+    <interventioncode>Not applicable</interventioncode>
+  </interventions>
+  <outcomes>
+    <primaryOutcome>
+      <outcome>All-cause mortality</outcome>
+      <timepoint>12 months</timepoint>
+    </primaryOutcome>
+    <secondaryOutcome>
+      <outcome>Post-operative length of inpatient stay during index admission</outcome>
+      <timepoint>This will be Censored at the end of the study for patients who are still inpatients</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Re-admission to hospital following discharge</outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Discharge destination</outcome>
+      <timepoint>Time of discharge</timepoint>
+    </secondaryOutcome>
+    <secondaryOutcome>
+      <outcome>Successful mobilisation with prosthesis as assessed by review of medical and rehabilitation notes.</outcome>
+      <timepoint>12 months</timepoint>
+    </secondaryOutcome>
+  </outcomes>
+  <eligibility>
+    <inclusivecriteria>Patients undergoing lower limb amputation above the ankle at any hospital in South East Wales overseen by Aneurin Bevan University Health Board between January 2010 and January 2017</inclusivecriteria>
+    <inclusiveminage>18</inclusiveminage>
+    <inclusiveminagetype>Years</inclusiveminagetype>
+    <inclusivemaxage />
+    <inclusivemaxagetype>No limit</inclusivemaxagetype>
+    <inclusivegender>Both males and females</inclusivegender>
+    <healthyvolunteer>No</healthyvolunteer>
+    <exclusivecriteria>Patients having amputation at or below the ankle.
+Patients undergoing revision amputation which does not cross a major joint: for example a patient having revision of a below knee amputation to a shorter below knee amputation would be excluded, but a patient who has had a below knee amputation who has a revision to an above knee amputation need not be excluded.</exclusivecriteria>
+  </eligibility>
+  <trial_design>
+    <studytype>Observational</studytype>
+    <purpose />
+    <allocation />
+    <concealment />
+    <sequence />
+    <masking />
+    <assignment />
+    <designfeatures />
+    <endpoint />
+    <statisticalmethods>The Addenbrookes Vascular Frailty Score will be calculated, along with generic models for outcome following amputation. An amputation-specific frailty score will then be developed using stepwise logistic regression modelling, with mortality at 12 months as the primary outcome.  Performance of the new tool will be compared to existing models.
+Missing data is a common issue observational studies such as this one, so we will use multiple imputation methodology to account for missing data.  During model generation, Information Criterion analysis will be used to select predictors.  This will enable us to develop a parsimonious model which avoids over-fitting.  Bootstrap methodology will then be used to assess performance of the model.
+</statisticalmethods>
+    <masking1 />
+    <masking2 />
+    <masking3 />
+    <masking4 />
+    <patientregistry>False</patientregistry>
+    <followup />
+    <followuptype />
+    <purposeobs>Natural history</purposeobs>
+    <duration>Longitudinal</duration>
+    <selection>Defined population</selection>
+    <timing>Retrospective</timing>
+  </trial_design>
+  <recruitment>
+    <phase>Not Applicable</phase>
+    <anticipatedstartdate>18/04/2017</anticipatedstartdate>
+    <actualstartdate />
+    <anticipatedenddate>28/06/2017</anticipatedenddate>
+    <actualenddate />
+    <samplesize>300</samplesize>
+    <actualsamplesize />
+    <recruitmentstatus>Not yet recruiting</recruitmentstatus>
+    <anticipatedlastvisitdate>30/06/2017</anticipatedlastvisitdate>
+    <actuallastvisitdate />
+    <dataanalysis />
+    <withdrawnreason />
+    <withdrawnreasonother />
+    <recruitmentcountry>,Outside</recruitmentcountry>
+    <recruitmentstate />
+    <countryoutsideaustralia>
+      <country>United Kingdom</country>
+      <state>South East Wales</state>
+    </countryoutsideaustralia>
+  </recruitment>
+  <sponsorship>
+    <primarysponsortype>Government body</primarysponsortype>
+    <primarysponsorname>Aneurin Bevan University Health Board</primarysponsorname>
+    <primarysponsoraddress>Clinical Research and Innovation Centre 
+St Woolos Hospital
+Block C
+Stow Hill
+Newport, South Wales
+NP20 4SZ</primarysponsoraddress>
+    <primarysponsorcountry>United Kingdom</primarysponsorcountry>
+    <fundingsource>
+      <fundingtype>Hospital</fundingtype>
+      <fundingname>Royal Gwent Hospital</fundingname>
+      <fundingaddress>Cardiff Road
+Newport
+Wales
+NP20 2UB</fundingaddress>
+      <fundingcountry>United Kingdom</fundingcountry>
+    </fundingsource>
+    <secondarysponsor>
+      <sponsortype>Individual</sponsortype>
+      <sponsorname>Christopher Twine</sponsorname>
+      <sponsoraddress>Vascular Institute
+Royal Gwent Hospital
+Cardiff Road
+Newport
+NP20 2UB</sponsoraddress>
+      <sponsorcountry>United Kingdom</sponsorcountry>
+    </secondarysponsor>
+  </sponsorship>
+  <ethicsAndSummary>
+    <summary>Frailty is a multi-factorial concept encompassing the accumulated effects of comorbidity, mobility, social isolation, cognitive decline and poor nutritional status which build up with age.  It is an increasing problem in our ageing population, and affects many outcomes following surgery.  In patients undergoing major limb amputation, it is also likely to affect the ability to mobilise with a prosthetic limb.
+Little is known about which aspects of frailty are most important in patients undergoing major limb amputation.  The aims of the project are:
+1)	Collect data on frailty-related factors in patients who have undergone major limb amputation, and information on outcomes, including whether the patient went on to successfully walk with a prosthesis.
+2)	Build statistical models to determine which factors are important in predicting outcomes. 
+3)	Compare the performance of these models, which include specific measures of frailty, with generic models of outcome following major lower limb amputation.
+</summary>
+    <trialwebsite />
+    <publication />
+    <ethicsreview>Approved</ethicsreview>
+    <publicnotes />
+    <ethicscommitee>
+      <ethicname>Aneurin Bevan University Health Board Research Risk Review Committee</ethicname>
+      <ethicaddress>R&amp;D Department
+Clinical Research &amp; Innovation Centre
+St Woolos Hospital
+Block C, Stow Hill
+Newport, South Wales
+NP20 4SZ</ethicaddress>
+      <ethicapprovaldate>15/02/2017</ethicapprovaldate>
+      <hrec>SA/736/17</hrec>
+      <ethicsubmitdate>10/02/2017</ethicsubmitdate>
+      <ethiccountry>United Kingdom</ethiccountry>
+    </ethicscommitee>
+  </ethicsAndSummary>
+  <attachment>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372593-sa-736-17 approval letter.pdf</filepath>
+    <filepath>http://www.anzctr.org.au/AnzctrAttachments/372593-Frailty in amputation protocol.docx</filepath>
+  </attachment>
+  <contacts>
+    <contact>
+      <title>Mr</title>
+      <name>Christopher Twine</name>
+      <address>Vascular Institute
+Royal Gwent Hospital
+Cardiff Road
+Newport
+NP20 2UB</address>
+      <phone>+44 1633 234234</phone>
+      <fax />
+      <email>christopher.twine@wales.nhs.uk</email>
+      <country>United Kingdom</country>
+      <type>Principal Investigator</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Graeme Ambler</name>
+      <address>Vascular Institute
+Royal Gwent Hospital
+Cardiff Road
+Newport
+NP20 2UB</address>
+      <phone>+44 1633 234234</phone>
+      <fax />
+      <email>graeme.ambler2@wales.nhs.uk</email>
+      <country>United Kingdom</country>
+      <type>Public Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Graeme Ambler</name>
+      <address>Vascular Institute
+Royal Gwent Hospital
+Cardiff Road
+Newport
+NP20 2UB</address>
+      <phone>+44 1633 234234</phone>
+      <fax />
+      <email>graeme.ambler2@wales.nhs.uk</email>
+      <country>United Kingdom</country>
+      <type>Scientific Queries</type>
+    </contact>
+    <contact>
+      <title>Dr</title>
+      <name>Graeme Ambler</name>
+      <address>Vascular Institute
+Royal Gwent Hospital
+Cardiff Road
+Newport
+NP20 2UB</address>
+      <phone>+44 1633 234234</phone>
+      <fax />
+      <email>graeme.ambler2@wales.nhs.uk</email>
+      <country>United Kingdom</country>
+      <type>Updating Information</type>
+    </contact>
+  </contacts>
+</ANZCTR_Trial>
