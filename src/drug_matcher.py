@@ -61,13 +61,12 @@ def main(texts=interventions_list, drug_names=drug_names_list, stoplist=drug_nam
     csvwriter.writerow(drug_fieldnames)
     print('DRUG ANNOTATION RESULTS', file=open(outfilename, "x"))
     outfile=open(outfilename, "a")
-    t = 0
     num_texts = len(texts)
+    t = 0
     # for trial_number, text in tqdm(texts, desc="Drug-tagging:"):
     for trial_number, text in texts:
       t += 1
-      if t % 10 == 0 or t == num_texts:
-          print(str(t) + "," + str(num_texts), file=open(recogniser_progress_file, "w"))
+      print(str(t) + "," + str(num_texts), file=open(recogniser_progress_file, "w"))
       text = text.replace('\n','  ')
       doc = nlp(text)
       if doc._.has_drug:
@@ -108,7 +107,7 @@ class DrugBankRecogniser(object):
         # for drug_id, drug_term in tqdm(drugs, desc='Adding drug matchers: '):
         for drug_id, drug_term in drugs:
           t += 1
-          if t % 100 == 0 or t == num_drugs:
+          if t % 10 == 0 or t ==num_drugs:
             print(str(t) + "," + str(num_drugs), file=open(progress_file, "w"))
           if drug_term is not None:
             pattern_dict_list = []
