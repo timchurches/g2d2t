@@ -4,11 +4,11 @@
 #  Custom pipeline components: https://spacy.io//usage/processing-pipelines#custom-components
 # Compatible with: spaCy v2.0.0+
 
-from __future__ import unicode_literals, print_function
+# from __future__ import unicode_literals, print_function
 import plac
 import feather
 import pandas as pd
-from tqdm import tqdm
+# from tqdm import tqdm
 import os, sys, csv
 
 from spacy.lang.en import English
@@ -63,7 +63,8 @@ def main(texts=interventions_list, drug_names=drug_names_list, stoplist=drug_nam
     outfile=open(outfilename, "a")
     t = 0
     num_texts = len(texts)
-    for trial_number, text in tqdm(texts, desc="Drug-tagging:"):
+    # for trial_number, text in tqdm(texts, desc="Drug-tagging:"):
+    for trial_number, text in texts:
       t += 1
       if t % 10 == 0 or t == num_texts:
           print(str(t) + "," + str(num_texts), file=open(recogniser_progress_file, "w"))
@@ -83,6 +84,7 @@ def main(texts=interventions_list, drug_names=drug_names_list, stoplist=drug_nam
           print('Recognised DrugBank.ca entities:', recognised_drug_entities, file=outfile)
     csvfile.close()
     outfile.close()
+    sys.exit()
     
 class DrugBankRecogniser(object):
     """A spaCy v2.0 pipeline component that sets entity annotations
@@ -103,7 +105,8 @@ class DrugBankRecogniser(object):
         #drug_counter = 0
         num_drugs = len(drugs)
         t = 0
-        for drug_id, drug_term in tqdm(drugs, desc='Adding drug matchers: '):
+        # for drug_id, drug_term in tqdm(drugs, desc='Adding drug matchers: '):
+        for drug_id, drug_term in drugs:
           t += 1
           if t % 100 == 0 or t == num_drugs:
             print(str(t) + "," + str(num_drugs), file=open(progress_file, "w"))
@@ -161,4 +164,4 @@ class DrugBankRecogniser(object):
         return any([t._.get('is_drug') for t in tokens])
 
 if __name__ == '__main__':
-    plac.call(main)
+   plac.call(main)
