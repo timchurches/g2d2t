@@ -1,7 +1,6 @@
 library(xml2)
 library(tidyverse)
 library(lubridate)
-library(progress)
 library(DBI)
 stopifnot("MonetDBLite" %in% rownames(installed.packages()))
   
@@ -35,7 +34,18 @@ datevec <- function(length = 0) {
    return(newDate)
 }
 
-anzctr_to_dfs <- function(xmlpath="") {
+# update progress indicator helper
+update_progress <- function(step_n, n_steps, progress_obj) {
+  if (!is.null(progress_obj)) {
+    progress_obj$set(value=(10000*step_n/n_steps), 
+                     message=paste("Creating ANZCTR data frame", step_n, "of", n_steps))
+  }
+}
+
+anzctr_to_dfs <- function(xmlpath="", progress_obj=NULL) {
+  if (!is.null(progress_obj)) {
+    progress_obj$set(value = NULL, message = "Preparing to process ANZCTR XML files...", detail = NULL)
+  }
   fpattern <- "ACTRN*.xml"
   a_filenames <- list.files(path=xmlpath, pattern=glob2rx(fpattern), full.names = FALSE)
   fpattern <- "NCT*.xml"
@@ -169,13 +179,13 @@ anzctr_to_dfs <- function(xmlpath="") {
   recruitment_other_countries_vec <- character(0)
   recruitment_other_countries_states_vec <- character(0)
   
-  pb <- progress_bar$new(
-      format = paste("Processing record :current of :total (:percent), estimated completion in :eta"),
-      total = nfiles, clear = FALSE, width= 60)
   fc <- 0
   for (f in filenames) {
     fc <- fc + 1
-    pb$tick()
+    if (!is.null(progress_obj)) {
+      progress_obj$set(value=(10000*fc/nfiles), 
+                     message=paste("Processing ANZCTR XML file", fc, "of", nfiles))
+    }
     doc <- read_xml(paste(xmlpath,f,sep="/"))
     if (stringr::str_sub(f,1,5) == "ACTRN") {
       current_trial_number <- get_text_xpath(doc, "actrnumber")
@@ -418,6 +428,7 @@ anzctr_to_dfs <- function(xmlpath="") {
     }
   }
   # assemble the core tibble
+  update_progress(1, 13, progress_obj)
   df <- tibble(
     trial_number = trial_number,
     trial_registration_type = trial_registration_type,
@@ -494,34 +505,43 @@ anzctr_to_dfs <- function(xmlpath="") {
     # see contacts tbl
   )
   # assemble the repeating data tibbles, trial_number is the foreign key in each.
+  update_progress(2, 13, progress_obj)
   secondary_ids_df <- tibble(trial_number=secondary_id_trial_numbers,
                              secondary_id_order=secondary_ids_orders_vec,
                              secondary_id=secondary_ids_vec)
+  update_progress(3, 13, progress_obj)
   health_conditions_df <- tibble(trial_number=health_conditions_trial_numbers,
                                  health_condition_order=health_conditions_orders_vec,
                                   health_condition=health_conditions_vec)
+  update_progress(4, 13, progress_obj)
   health_conditions_codes_df <- tibble(trial_number=health_conditions_codes_trial_numbers,
                                        health_condition_code_order=health_conditions_codes_orders_vec,
                                   health_condition_code1=health_conditions_code1s_vec,
                                   health_condition_code2=health_conditions_code2s_vec)
+  update_progress(5, 13, progress_obj)
   interventions_codes_df <- tibble(trial_number=interventions_codes_trial_numbers,
                                    intervention_order=interventions_codes_orders_vec,
                                   intervention_code=interventions_codes_vec) %>% filter(intervention_code != missing_string)
+  update_progress(6, 13, progress_obj)
   primary_outcomes_df <- tibble(trial_number=primary_outcomes_trial_numbers,
                                   primary_outcome_order=primary_outcomes_orders_vec,
                                   primary_outcome=primary_outcomes_vec,
                                   primary_outcome_timepoint=primary_outcomes_timepoints_vec) %>% filter(primary_outcome != missing_string, primary_outcome_timepoint != missing_string)
+  update_progress(7, 13, progress_obj)
   secondary_outcomes_df <- tibble(trial_number=secondary_outcomes_trial_numbers,
                                   secondary_outcome_order=secondary_outcomes_orders_vec,
                                   secondary_outcome=secondary_outcomes_vec,
                                   secondary_outcome_timepoint=secondary_outcomes_timepoints_vec) %>% filter(secondary_outcome != missing_string, secondary_outcome_timepoint != missing_string)
+  update_progress(8, 13, progress_obj)
   recruitment_hospitals_df <- tibble(trial_number=recruitment_hospitals_trial_numbers,
                                      recruitment_hospital_order=recruitment_hospitals_orders_vec,
                                   recruitment_hospital=recruitment_hospitals_vec) %>% filter(recruitment_hospital != missing_string)
+  update_progress(9, 13, progress_obj)
   recruitment_other_countries_df <- tibble(trial_number=recruitment_other_countries_trial_numbers,
                                   recruitment_other_country_order=recruitment_other_countries_orders_vec,
                                   recruitment_other_country=recruitment_other_countries_vec,
                                   recruitment_other_country_state=recruitment_other_countries_states_vec) %>% filter(recruitment_other_country != missing_string, recruitment_other_country_state != missing_string)
+  update_progress(10, 13, progress_obj)
   sponsor_funding_sources_df <- tibble(trial_number=sponsor_funding_sources_trial_numbers,
                                   sponsor_funding_source_order=sponsor_funding_sources_orders_vec,     
                                   sponsor_funding_source_type=sponsor_funding_sources_types_vec,
@@ -529,6 +549,7 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   sponsor_funding_source_address=sponsor_funding_sources_addresses_vec,
                                   sponsor_funding_source_country=sponsor_funding_sources_countries_vec
                                   ) %>% filter(sponsor_funding_source_type != missing_string, sponsor_funding_source_name != missing_string, sponsor_funding_source_address != missing_string, sponsor_funding_source_country != missing_string)
+  update_progress(11, 13, progress_obj)
   secondary_sponsors_df <- tibble(trial_number=secondary_sponsor_trial_numbers,
                                   secondary_sponsor_order=secondary_sponsor_orders_vec,
                                   secondary_sponsor_type=secondary_sponsor_types_vec,
@@ -537,6 +558,7 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   secondary_sponsor_country=secondary_sponsor_countries_vec
                                   ) %>% filter(secondary_sponsor_type != missing_string, secondary_sponsor_name != missing_string, secondary_sponsor_address != missing_string, secondary_sponsor_country != missing_string)
 
+  update_progress(12, 13, progress_obj)
   ethics_committees_df <- tibble(trial_number=ethics_committees_trial_numbers,
                                   ethics_committee_order=ethics_committees_orders_vec,
                                   ethics_committee_name=ethics_committees_names_vec,
@@ -545,6 +567,7 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   hrec=hrecs_vec,
                                   ethics_submit_date=ethics_submit_dates_vec,
                                   ethics_country=ethics_countries_vec)
+  update_progress(13, 13, progress_obj)
   contacts_df <- tibble(trial_number=contacts_trial_numbers,
                                   contact_order=contacts_orders_vec,
                                   contact_title=contacts_titles_vec,
@@ -556,6 +579,10 @@ anzctr_to_dfs <- function(xmlpath="") {
                                   contact_country=contacts_countries_vec,
                                   contact_type=contacts_types_vec)
   # return a named list of tibbles (data frames)
+  if (!is.null(progress_obj)) {
+    progress_obj$set(value=NULL, 
+                     message="Storing ANZCTR data frames")
+  }
   return(list("core"=df, 
               "secondary_ids"=secondary_ids_df, 
               "health_conditions"=health_conditions_df,
@@ -570,13 +597,17 @@ anzctr_to_dfs <- function(xmlpath="") {
               "ethics_committees"=ethics_committees_df,
               "contacts"=contacts_df
               ))  
+  if (!is.null(progress_obj)) {
+    progress_obj$set(value=NULL, 
+                     message="Idle")
+  }
 }
 
 store_anzctr_dfs <- function(df_suffix, df_list, dbcon) {
   df_name <- paste("anzctr_", df_suffix, sep="")
-  # load into database
+  # store in database
   dbWriteTable(dbcon, df_name, df_list[[df_suffix]], overwrite=TRUE)
-  message(paste("Loaded", df_name, "tbl containing", nrow(df_list[[df_suffix]]), "rows into MonetDB database."))
+  message(paste("Stored", df_name, "tbl containing", nrow(df_list[[df_suffix]]), "rows into MonetDB database."))
   invisible(NULL)
 }
 
@@ -589,8 +620,8 @@ assign_anzctr_dfs <- function(df_suffix, df_list, envir, dbcon) {
   invisible(NULL)
 }
 
-ingest_anzctr_xml <- function(xmlpath="", dbcon=NULL) {
-  anzctr_dfs <- anzctr_to_dfs(xmlpath=xmlpath)
+ingest_anzctr_xml <- function(xmlpath="", dbcon=NULL, progress_obj=NULL) {
+  anzctr_dfs <- anzctr_to_dfs(xmlpath=xmlpath, progress_obj=progress_obj)
   store_anzctr_dfs("core", anzctr_dfs, dbcon)
   store_anzctr_dfs("secondary_ids", anzctr_dfs, dbcon)
   store_anzctr_dfs("health_conditions", anzctr_dfs, dbcon)

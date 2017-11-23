@@ -7,9 +7,7 @@ jscode <- "shinyjs.closeWindow = function() { window.close(); }"
 shinyUI(navbarPage("g2d2t",
   tabPanel("Data",
     fluidRow(
-      column(12,
-        p("This page does drug recognition on the free text.")
-      )
+        actionButton("ingest_button", "Ingest ANZCTR XML files", class = "btn-primary")
     ),
     fluidRow(
         actionButton("NLP_button", "Perform NLP pre-processing", class = "btn-primary")
