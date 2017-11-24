@@ -3,7 +3,7 @@
 echo 'Fetching anzctr_xml.zip...'
 
 curl 'http://www.anzctr.org.au/TrialSearch.aspx?searchTxt=&conditionCategory=&conditionCode=&interventionCodeOperator=OR&interventionCode=&ageGroup=All&healthyVolunteers=All&gender=All&allocationToIntervention=All&dateOfRegistrationFrom=&dateOfRegistrationTo=&trialStartDateFrom=&trialStartDateTo=&recruitmentCountryOperator=OR&countryOfRecruitment=Australia%7cNew+Zealand&primarySponsorType=&fundingSource=&healthCondition=&interventionDescription=&phase=&recruitmentStatus=&registry=ALL&ethicsReview=&studyType=&isBasic=False&postcode=&distance=' \
--o anzctr_xml.zip \
+-o /Users/tim.churches/g2d2t/data/anzctr_xml.zip \
 -XPOST \
 -H 'Referer: http://www.anzctr.org.au/TrialSearch.aspx?searchTxt=&conditionCategory=&conditionCode=&interventionCodeOperator=OR&interventionCode=&ageGroup=All&healthyVolunteers=All&gender=All&allocationToIntervention=All&dateOfRegistrationFrom=&dateOfRegistrationTo=&trialStartDateFrom=&trialStartDateTo=&recruitmentCountryOperator=OR&countryOfRecruitment=Australia%7CNew%20Zealand&primarySponsorType=&fundingSource=&healthCondition=&interventionDescription=&phase=&recruitmentStatus=&registry=ALL&ethicsReview=&studyType=&isBasic=False&postcode=&distance=' \
 -H 'Content-Type: application/x-www-form-urlencoded' \

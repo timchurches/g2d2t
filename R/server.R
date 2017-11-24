@@ -1,21 +1,25 @@
 shinyServer(function(input, output, session) {
 
+  trainer_filename <- "/Users/tim.churches/g2d2t/data/trainer_progress.txt"
+  recogniser_filename <- "/Users/tim.churches/g2d2t/data/recogniser_progress.txt"
+  nlp_status_file <- "/Users/tim.churches/g2d2t/data/nlp_status.txt"
+  nlp_feather_file <- "/Users/tim.churches/g2d2t/data/recognised_drug_names.feather"
+  anzctr_download_shell_file <- "/Users/tim.churches/g2d2t/R/fetch_all_anzctr2.sh"
+  anzctr_download_file <- "/Users/tim.churches/g2d2t/data/anzctr_xml.zip"
+  anzctr_download_file_semaphore <- "/Users/tim.churches/g2d2t/data/anzctr_xml.txt"
+  dbdir <- "/Users/tim.churches/g2d2t/data/MonetDBLite"
+  anzctr_xmlpath <- "/Users/tim.churches/g2d2t/data/anzctr_xml"
+  
   # Exit Shiny app if browser window/tab is closed by user
   session$onSessionEnded(stopApp)
 
-  # initialise notifier
-  progress <- Progress$new(session, min=1, max=10000)
-  progress$set(message="Idle")
-
   # database connection
-  dbdir <- "playground/MonetDBLite"
   dbcon <- DBI::dbConnect(MonetDBLite::MonetDBLite(), dbdir)
 
   # code for loading the ANZCTR XML files
   source("read_anzctr_xml_funcs.R")
-  anzctr_xmlpath <- "/Users/tim.churches/g2d2t/data/anzctr_xml"
 
-  update_nlp_progress <- function(progress_obj,text, type) {
+  update_nlp_progress <- function(progress_obj, text, type) {
     progress_num <- NA
     progress_den <- NA
     try({vals <- strsplit(text,",")
@@ -35,30 +39,28 @@ shinyServer(function(input, output, session) {
     invisible(NULL)
   }
 
-  nlp_preprocessing <- function() {
-    trainer_filename <- "/Users/tim.churches/g2d2t/data/trainer_progress.txt"
-    recogniser_filename <- "/Users/tim.churches/g2d2t/data/recogniser_progress.txt"
+  nlp_preprocessing <- function(progress_obj) {
     writeLines("0,0", con=trainer_filename)
     writeLines("0,0", con=recogniser_filename)
+    # update the notifier
+    progress_obj$set(message="Initialising NLP pre-processing...")
+    # monitor the progress files    
     trainer_progress_data <- reactiveFileReader(500, session,
                                        trainer_filename, readLines)
     recogniser_progress_data <- reactiveFileReader(500, session,
                                        recogniser_filename, readLines)
-    progress$set(message = 'Initialising NLP pre-processing...')
 
-    observeEvent(trainer_progress_data(), 
-               update_nlp_progress(progress, trainer_progress_data(), "trainer"))
+    tp <- observeEvent(trainer_progress_data(), 
+               update_nlp_progress(progress_obj, trainer_progress_data(), "trainer"))
                
-    observeEvent(recogniser_progress_data(), 
-               update_nlp_progress(progress, recogniser_progress_data(), "recogniser"))
+    rp <- observeEvent(recogniser_progress_data(), 
+               update_nlp_progress(progress_obj, recogniser_progress_data(), "recogniser"))
 
+    # need to re-write (freshen) the feather interchnage file here
     system2("/Users/tim.churches/anaconda/bin/python", args = "/Users/tim.churches/g2d2t/src/drug_matcher.py", wait=FALSE, invisible=TRUE)
   }
 
-  nlp_status_file <- "/Users/tim.churches/g2d2t/data/nlp_status.txt"
-  nlp_feather_file <- "/Users/tim.churches/g2d2t/data/recognised_drug_names.feather"
-  
-  ingest_nlp_preprocessing <- function(progress_obj, dbcon) {
+  ingest_nlp_preprocessing <- function(nlp_observer, progress_obj, dbcon) {
     # check that we have finished and the data are ready to read
     if (file.exists(nlp_status_file)) {
       nlp_status <- as.numeric(readLines(nlp_status_file))[1]
@@ -82,6 +84,7 @@ shinyServer(function(input, output, session) {
       # re-enable the NLP preprocessing button
       updateActionButton(session, "NLP_button", label = "Perform NLP pre-processing")
       shinyjs::enable("NLP_button")
+      nlp_observer$destroy()
     }
   }
 
@@ -101,21 +104,93 @@ shinyServer(function(input, output, session) {
     }
   )
 
-  observeEvent(NLP_ready(), ingest_nlp_preprocessing(progress, dbcon))
+  anzctr_download_progress <- reactivePoll(1000, session,
+    checkFunc = function() {
+      if (file.exists(anzctr_download_file))
+        file.size(anzctr_download_file)
+      else
+        ""
+    },
+    # This function returns the size of the download file
+    valueFunc = function() {
+      if (file.exists(anzctr_download_file))
+        file.size(anzctr_download_file)
+      else
+        return(NULL)
+    }
+  )
 
+  anzctr_download_complete <- reactivePoll(1000, session,
+    checkFunc = function() {
+      if (file.exists(anzctr_download_file_semaphore))
+        file.size(anzctr_download_file_semaphore)
+      else
+        0
+    },
+    # This function returns the size of the download file
+    valueFunc = function() {
+      if (file.exists(anzctr_download_file_semaphore))
+        file.size(anzctr_download_file_semaphore)
+      else
+        return(NULL)
+    }
+  )
+  
+  format_anzctr_download_size <- function(dsize) {
+    if (!is.null(dsize)) {
+      return(paste("Downloaded", format(dsize, big.mark=","), "bytes so far..."))
+    } else {
+      return("Waiting for download to commence...")
+    }
+  }
+    
+  observeEvent(input$download_anzctr_button, {
+    updateActionButton(session, "download_anzctr_button", label = "Downloading ANZCTR XML files...")
+    shinyjs::disable("download_anzctr_button")
+    progress_obj <- Progress$new(session, min=0, max=10000) 
+    progress_obj$set(message="Waiting for download to commence...") 
+    # ensure any existing download file is deleted
+    unlink(anzctr_download_file)
+    observeEvent(anzctr_download_progress(), 
+                  progress_obj$set(message=format_anzctr_download_size(anzctr_download_progress())))
+    system2("sh", arg=anzctr_download_shell_file, wait=FALSE)
+    dlc <- observeEvent(anzctr_download_complete(), {
+      # remove the existing XML directory
+      unlink(anzctr_xmlpath, recursive = TRUE)
+      # unzip the downladed file to the target directory
+      unzip(anzctr_download_file, exdir=anzctr_xmlpath)
+      # delete the downloaded zip file and the semaphore
+      unlink(anzctr_download_file)
+      unlink(anzctr_download_file_semaphore)
+      # re-enable the ingest button
+      shinyjs::enable("download_anzctr_button")
+      updateActionButton(session, "download_anzctr_button", label = "Download ANZCTR XML files")
+      progress_obj$close()
+      # remove this observer
+      dlc$destroy()
+    })
+  })
+  
+  
   observeEvent(input$ingest_button, {
+    progress_obj <- Progress$new(session, min=1, max=10000)
     updateActionButton(session, "ingest_button", label = "Ingesting ANZCTR XML files...")
     shinyjs::disable("ingest_button")
-    ingest_anzctr_xml(xmlpath=anzctr_xmlpath, dbcon=dbcon, progress_obj=progress)
+    Sys.sleep(1.5)
+    ingest_anzctr_xml(xmlpath=anzctr_xmlpath, dbcon=dbcon, progress_obj=progress_obj)
     # re-enable the ingest button
-    updateActionButton(session, "ingest_button", label = "Ingest ANZCTR XML files")
     shinyjs::enable("ingest_button")
+    updateActionButton(session, "ingest_button", label = "Ingest ANZCTR XML files")
+    progress_obj$close()
   })
       
   observeEvent(input$NLP_button, {
+    progress_obj <- Progress$new(session, min=1, max=10000)
     updateActionButton(session, "NLP_button", label = "NLP pre-processing in progress...")
     shinyjs::disable("NLP_button")
-    nlp_preprocessing()
+    # create observer for completion flag
+    nr <- observeEvent(NLP_ready(), ingest_nlp_preprocessing(nr, progress_obj, dbcon))
+    nlp_preprocessing(progress_obj)
   })
 
   # quit tab

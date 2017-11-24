@@ -599,7 +599,7 @@ anzctr_to_dfs <- function(xmlpath="", progress_obj=NULL) {
               ))  
   if (!is.null(progress_obj)) {
     progress_obj$set(value=NULL, 
-                     message="Idle")
+                     message="XML processing completed")
   }
 }
 
@@ -622,6 +622,10 @@ assign_anzctr_dfs <- function(df_suffix, df_list, envir, dbcon) {
 
 ingest_anzctr_xml <- function(xmlpath="", dbcon=NULL, progress_obj=NULL) {
   anzctr_dfs <- anzctr_to_dfs(xmlpath=xmlpath, progress_obj=progress_obj)
+  if (!is.null(progress_obj)) {
+    progress_obj$set(value=NULL, 
+                     message="Storing processed ANZCTR data in database")
+  }
   store_anzctr_dfs("core", anzctr_dfs, dbcon)
   store_anzctr_dfs("secondary_ids", anzctr_dfs, dbcon)
   store_anzctr_dfs("health_conditions", anzctr_dfs, dbcon)
