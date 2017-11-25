@@ -16,9 +16,11 @@ shinyServer(function(input, output, session) {
   # database connection
   dbcon <- DBI::dbConnect(MonetDBLite::MonetDBLite(), dbdir)
 
+  # code for fetching ANZCTR XML files
+  source("httr_fetch_anzctr.R")
   # code for loading the ANZCTR XML files
   source("read_anzctr_xml_funcs.R")
-
+  
   update_nlp_progress <- function(progress_obj, text, type) {
     progress_num <- NA
     progress_den <- NA
@@ -148,27 +150,21 @@ shinyServer(function(input, output, session) {
     updateActionButton(session, "download_anzctr_button", label = "Downloading ANZCTR XML files...")
     shinyjs::disable("download_anzctr_button")
     progress_obj <- Progress$new(session, min=0, max=10000) 
-    progress_obj$set(message="Waiting for download to commence...") 
+    progress_obj$set(message="Downloading ANZCTR XML files...") 
     # ensure any existing download file is deleted
     unlink(anzctr_download_file)
-    observeEvent(anzctr_download_progress(), 
-                  progress_obj$set(message=format_anzctr_download_size(anzctr_download_progress())))
-    system2("sh", arg=anzctr_download_shell_file, wait=FALSE)
-    dlc <- observeEvent(anzctr_download_complete(), {
-      # remove the existing XML directory
-      unlink(anzctr_xmlpath, recursive = TRUE)
-      # unzip the downladed file to the target directory
-      unzip(anzctr_download_file, exdir=anzctr_xmlpath)
-      # delete the downloaded zip file and the semaphore
-      unlink(anzctr_download_file)
-      unlink(anzctr_download_file_semaphore)
-      # re-enable the ingest button
-      shinyjs::enable("download_anzctr_button")
-      updateActionButton(session, "download_anzctr_button", label = "Download ANZCTR XML files")
-      progress_obj$close()
-      # remove this observer
-      dlc$destroy()
-    })
+    # system2("sh", arg=anzctr_download_shell_file, wait=FALSE)
+    fetch_anzctr_xml_zip_file(anzctr_download_file)
+    # remove the existing XML directory
+    unlink(anzctr_xmlpath, recursive = TRUE)
+    # unzip the downladed file to the target directory
+    unzip(anzctr_download_file, exdir=anzctr_xmlpath)
+    # delete the downloaded zip file and the semaphore
+    unlink(anzctr_download_file)
+    # re-enable the ingest button
+    shinyjs::enable("download_anzctr_button")
+    updateActionButton(session, "download_anzctr_button", label = "Download ANZCTR XML files")
+    progress_obj$close()
   })
   
   
