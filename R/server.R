@@ -1,14 +1,13 @@
 shinyServer(function(input, output, session) {
 
-  trainer_filename <- "/Users/tim.churches/g2d2t/data/trainer_progress.txt"
-  recogniser_filename <- "/Users/tim.churches/g2d2t/data/recogniser_progress.txt"
-  nlp_status_file <- "/Users/tim.churches/g2d2t/data/nlp_status.txt"
-  nlp_feather_file <- "/Users/tim.churches/g2d2t/data/recognised_drug_names.feather"
-  anzctr_download_shell_file <- "/Users/tim.churches/g2d2t/R/fetch_all_anzctr2.sh"
-  anzctr_download_file <- "/Users/tim.churches/g2d2t/data/anzctr_xml.zip"
-  anzctr_download_file_semaphore <- "/Users/tim.churches/g2d2t/data/anzctr_xml.txt"
-  dbdir <- "/Users/tim.churches/g2d2t/data/MonetDBLite"
-  anzctr_xmlpath <- "/Users/tim.churches/g2d2t/data/anzctr_xml"
+  trainer_filename <- "/Users/tim.churches/g2d2t_data/trainer_progress.txt"
+  recogniser_filename <- "/Users/tim.churches/g2d2t_data/recogniser_progress.txt"
+  nlp_status_file <- "/Users/tim.churches/g2d2t_data/nlp_status.txt"
+  nlp_feather_file <- "/Users/tim.churches/g2d2t_data/recognised_drug_names.feather"
+  # anzctr_download_shell_file <- "/Users/tim.churches/g2d2t/R/fetch_all_anzctr2.sh"
+  anzctr_download_file <- "/Users/tim.churches/g2d2t_data/anzctr_xml.zip"
+  dbdir <- "/Users/tim.churches/g2d2t_data/MonetDBLite"
+  anzctr_xmlpath <- "/Users/tim.churches/g2d2t_data/anzctr_xml"
   
   # Exit Shiny app if browser window/tab is closed by user
   session$onSessionEnded(stopApp)
@@ -20,6 +19,12 @@ shinyServer(function(input, output, session) {
   source("httr_fetch_anzctr.R")
   # code for loading the ANZCTR XML files
   source("read_anzctr_xml_funcs.R")
+  # code for fetch and loading the DrugBank files
+  source("fetch_DrugData.R")
+  source("passwords.R")
+
+  # utilities
+  source("utils.R")
   
   update_nlp_progress <- function(progress_obj, text, type) {
     progress_num <- NA
@@ -58,7 +63,7 @@ shinyServer(function(input, output, session) {
     rp <- observeEvent(recogniser_progress_data(), 
                update_nlp_progress(progress_obj, recogniser_progress_data(), "recogniser"))
 
-    # need to re-write (freshen) the feather interchnage file here
+    # need to re-write (freshen) the feather interchange file here
     system2("/Users/tim.churches/anaconda/bin/python", args = "/Users/tim.churches/g2d2t/src/drug_matcher.py", wait=FALSE, invisible=TRUE)
   }
 
@@ -106,46 +111,6 @@ shinyServer(function(input, output, session) {
     }
   )
 
-  anzctr_download_progress <- reactivePoll(1000, session,
-    checkFunc = function() {
-      if (file.exists(anzctr_download_file))
-        file.size(anzctr_download_file)
-      else
-        ""
-    },
-    # This function returns the size of the download file
-    valueFunc = function() {
-      if (file.exists(anzctr_download_file))
-        file.size(anzctr_download_file)
-      else
-        return(NULL)
-    }
-  )
-
-  anzctr_download_complete <- reactivePoll(1000, session,
-    checkFunc = function() {
-      if (file.exists(anzctr_download_file_semaphore))
-        file.size(anzctr_download_file_semaphore)
-      else
-        0
-    },
-    # This function returns the size of the download file
-    valueFunc = function() {
-      if (file.exists(anzctr_download_file_semaphore))
-        file.size(anzctr_download_file_semaphore)
-      else
-        return(NULL)
-    }
-  )
-  
-  format_anzctr_download_size <- function(dsize) {
-    if (!is.null(dsize)) {
-      return(paste("Downloaded", format(dsize, big.mark=","), "bytes so far..."))
-    } else {
-      return("Waiting for download to commence...")
-    }
-  }
-    
   observeEvent(input$download_anzctr_button, {
     updateActionButton(session, "download_anzctr_button", label = "Downloading ANZCTR XML files...")
     shinyjs::disable("download_anzctr_button")
@@ -153,12 +118,17 @@ shinyServer(function(input, output, session) {
     progress_obj$set(message="Downloading ANZCTR XML files...") 
     # ensure any existing download file is deleted
     unlink(anzctr_download_file)
-    # system2("sh", arg=anzctr_download_shell_file, wait=FALSE)
-    fetch_anzctr_xml_zip_file(anzctr_download_file)
+    rc <- fetch_anzctr_xml_zip_file(outfile=anzctr_download_file, progress_obj=progress_obj)
+    progress_obj$set(message="Unpacking the downloaded ANZCTR XML files...") 
     # remove the existing XML directory
     unlink(anzctr_xmlpath, recursive = TRUE)
     # unzip the downladed file to the target directory
-    unzip(anzctr_download_file, exdir=anzctr_xmlpath)
+    unzip_results <- myTryCatch(unzip(anzctr_download_file, exdir=anzctr_xmlpath))
+    if (!is.null(unzip_results$warning)) {
+      # inform the user
+      showModal(modalDialog(title = "There was a problem downloading and/or unpacking the ANZCTR XML files.",
+        "Please check your internet connection, and/or try again later. You could also access this page in your web browser and click the DOWNLOAD button to check that downloads are currently operational from the ANZCTR web site: http://www.anzctr.org.au/TrialSearch.aspx?searchTxt=&isBasic=True"))
+    }  
     # delete the downloaded zip file and the semaphore
     unlink(anzctr_download_file)
     # re-enable the ingest button
@@ -170,6 +140,7 @@ shinyServer(function(input, output, session) {
   
   observeEvent(input$ingest_button, {
     progress_obj <- Progress$new(session, min=1, max=10000)
+    progress_obj$set(message="Initialising ingestion of ANZCTR XML files...")
     updateActionButton(session, "ingest_button", label = "Ingesting ANZCTR XML files...")
     shinyjs::disable("ingest_button")
     Sys.sleep(1.5)
@@ -189,6 +160,24 @@ shinyServer(function(input, output, session) {
     nlp_preprocessing(progress_obj)
   })
 
+  observeEvent(input$get_drugbank_data_button, {
+    updateActionButton(session, "get_drugbank_data_button", label = "Downloading of DrugBank.ca data in progress...")
+    shinyjs::disable("get_drugbank_data_button")
+    progress_obj <- Progress$new(session, min=1, max=10000)
+    drugbank_fetches <- get_drugbank("everything", username=drugbank_username, password=drugbank_password, progress_obj=progress_obj)
+    progress_obj$set(value=NULL, message="Storing the Drugbank.ca data files...")
+    create_drugbank_data_frames(drugbank_fetches)
+    wrangle_drugbank_data()
+    store_drugbank_dfs(drugbank_df_names, dbcon) 
+    load_drugbank_dfs(drugbank_df_names, dbcon)
+    progress_obj$close()
+    showModal(modalDialog(title = "DrugBank.ca files updated.",
+        paste("DrugBank.ca release", latest_drugbank_release, "files have been downloaded, processed and loaded into the database.")))
+    shinyjs::enable("get_drugbank_data_button")
+    updateActionButton(session, "get_drugbank_data_button", label = "Download DrugBank.ca files")
+    progress_obj$close()
+  })
+  
   # quit tab
   observeEvent(input$quit_and_close, {
     js$closeWindow()

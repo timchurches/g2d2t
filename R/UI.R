@@ -8,6 +8,12 @@ shinyUI(navbarPage("g2d2t", collapsible = TRUE,
   tabPanel("Data",
     fluidRow(
       column(6, offset=1,
+        actionButton("get_drugbank_data_button", "Download DrugBank.ca files", class = "btn-primary", width="300px")
+      )
+    ),
+    fluidRow(p()),
+    fluidRow(
+      column(6, offset=1,
         actionButton("download_anzctr_button", "Download ANZCTR XML files", class = "btn-primary", width="300px")
       )
     ),
