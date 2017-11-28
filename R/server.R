@@ -4,6 +4,8 @@ shinyServer(function(input, output, session) {
   recogniser_filename <- "/Users/tim.churches/g2d2t_data/recogniser_progress.txt"
   nlp_status_file <- "/Users/tim.churches/g2d2t_data/nlp_status.txt"
   nlp_feather_file <- "/Users/tim.churches/g2d2t_data/recognised_drug_names.feather"
+  interventions_feather_file <- "/Users/tim.churches/g2d2t_data/interventions.feather"
+  drug_names_feather_file <- "/Users/tim.churches/g2d2t_data/drug_names.feather"
   # anzctr_download_shell_file <- "/Users/tim.churches/g2d2t/R/fetch_all_anzctr2.sh"
   anzctr_download_file <- "/Users/tim.churches/g2d2t_data/anzctr_xml.zip"
   dbdir <- "/Users/tim.churches/g2d2t_data/MonetDBLite"
@@ -25,7 +27,10 @@ shinyServer(function(input, output, session) {
 
   # utilities
   source("utils.R")
-  
+
+  # Initialise DrugBank data 
+  drugbank_status_text <- load_drugbank_dfs(drugbank_df_names, dbcon)
+
   update_nlp_progress <- function(progress_obj, text, type) {
     progress_num <- NA
     progress_den <- NA
@@ -64,6 +69,12 @@ shinyServer(function(input, output, session) {
                update_nlp_progress(progress_obj, recogniser_progress_data(), "recogniser"))
 
     # need to re-write (freshen) the feather interchange file here
+    # first reload the data from the database
+    load_anzctr_dfs(dbcon)
+    load_drugbank_dfs(drugbank_df_names, dbcon)
+    # now write the feather interchange files
+    feather::write_feather(anzctr_core %>% select(trial_number, interventions), interventions_feather_file)  
+    feather::write_feather(drug_terms2drug_id %>% select(drug_id, term), drug_names_feather_file)
     system2("/Users/tim.churches/anaconda/bin/python", args = "/Users/tim.churches/g2d2t/src/drug_matcher.py", wait=FALSE, invisible=TRUE)
   }
 
@@ -128,6 +139,9 @@ shinyServer(function(input, output, session) {
       # inform the user
       showModal(modalDialog(title = "There was a problem downloading and/or unpacking the ANZCTR XML files.",
         "Please check your internet connection, and/or try again later. You could also access this page in your web browser and click the DOWNLOAD button to check that downloads are currently operational from the ANZCTR web site: http://www.anzctr.org.au/TrialSearch.aspx?searchTxt=&isBasic=True"))
+    } else {
+      status_df <- data.frame(status=paste(format(length(list.files(path=anzctr_xmlpath, pattern=glob2rx("*.xml"))), big.mark=","),  "ANZCTR XML files were last downloaded and stored at", format(Sys.time(), "%I:%M%p", tz="Australia/Sydney"), "on",  format(Sys.time(), "%a %d %b %Y", tz="Australia/Sydney")))
+      DBI::dbWriteTable(dbcon, "anzctr_download_status", status_df, overwrite=TRUE)
     }  
     # delete the downloaded zip file and the semaphore
     unlink(anzctr_download_file)
@@ -145,6 +159,8 @@ shinyServer(function(input, output, session) {
     shinyjs::disable("ingest_button")
     Sys.sleep(1.5)
     ingest_anzctr_xml(xmlpath=anzctr_xmlpath, dbcon=dbcon, progress_obj=progress_obj)
+    # re-looad the data
+    load_anzctr_dfs(dbcon)
     # re-enable the ingest button
     shinyjs::enable("ingest_button")
     updateActionButton(session, "ingest_button", label = "Ingest ANZCTR XML files")
@@ -168,7 +184,7 @@ shinyServer(function(input, output, session) {
     progress_obj$set(value=NULL, message="Storing the Drugbank.ca data files...")
     create_drugbank_data_frames(drugbank_fetches)
     wrangle_drugbank_data()
-    store_drugbank_dfs(drugbank_df_names, dbcon) 
+    store_drugbank_dfs(drugbank_df_names, dbcon)
     load_drugbank_dfs(drugbank_df_names, dbcon)
     progress_obj$close()
     showModal(modalDialog(title = "DrugBank.ca files updated.",
@@ -177,11 +193,30 @@ shinyServer(function(input, output, session) {
     updateActionButton(session, "get_drugbank_data_button", label = "Download DrugBank.ca files")
     progress_obj$close()
   })
-  
+
+  output$drugbank_data_status <- renderText({
+    input$get_drugbank_data_button
+    
+    paste(isolate(load_drugbank_dfs(drugbank_df_names, dbcon)),".",
+    "\nThe latest available release is ", get_latest_drugbank_release(),".", sep="")
+  })  
+
+  output$anzctr_download_status <- renderText({
+    input$download_anzctr_button
+    
+    get_anzctr_download_status(dbcon)
+  })  
+
+  output$anzctr_ingest_status <- renderText({
+    input$ingest_button
+    
+    load_anzctr_dfs(dbcon)
+  })  
+      
   # quit tab
   observeEvent(input$quit_and_close, {
     js$closeWindow()
     stopApp()
   }) 
-  
+
 })

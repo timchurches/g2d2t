@@ -21,6 +21,13 @@ fetch_anzctr_xml_zip_file <- function(outfile, progress_obj) {
   return(rc)
 }
 
+get_anzctr_download_status <- function(dbcon) { 
+  status_text <- ""
+  status_text <- try(as.character(as.tibble(dbReadTable(dbcon, "anzctr_download_status"))[1,"status"]))
+  return(status_text)
+}
+
+
 
 
 

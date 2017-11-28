@@ -2,6 +2,8 @@ library(xml2)
 library(tidyverse)
 library(lubridate)
 library(DBI)
+library(feather)
+
 stopifnot("MonetDBLite" %in% rownames(installed.packages()))
   
 missing_string <- "Not in record"
@@ -614,7 +616,7 @@ store_anzctr_dfs <- function(df_suffix, df_list, dbcon) {
 assign_anzctr_dfs <- function(df_suffix, df_list, envir, dbcon) {
   df_name <- paste("anzctr_", df_suffix, sep="")
   # assign to the calling environment
-  df <- as.tibble(dbReadTable(con, df_name))
+  df <- as.tibble(dbReadTable(dbcon, df_name))
   assign(df_name, df, envir=envir)
   message(paste("Loaded", df_name, "tbl containing", nrow(df), "rows."))
   invisible(NULL)
@@ -638,6 +640,10 @@ ingest_anzctr_xml <- function(xmlpath="", dbcon=NULL, progress_obj=NULL) {
   store_anzctr_dfs("secondary_sponsors", anzctr_dfs, dbcon)
   store_anzctr_dfs("ethics_committees", anzctr_dfs, dbcon)
   store_anzctr_dfs("contacts", anzctr_dfs, dbcon)
+  num_trials_stored <- nrow(anzctr_dfs[["core"]])
+  # store in database
+  status_df <- data.frame(status=paste(format(num_trials_stored, big.mark=","), "ANZCTR trial records in XML format were parsed and stored at", format(Sys.time(), "%I:%M%p", tz="Australia/Sydney"), "on",  format(Sys.time(), "%a %d %b %Y", tz="Australia/Sydney")))
+  DBI::dbWriteTable(dbcon, "anzctr_ingest_status", status_df, overwrite=TRUE)
   invisible(NULL)
 }
 
@@ -654,6 +660,8 @@ load_anzctr_dfs <- function(dbcon=NULL) {
   assign_anzctr_dfs("secondary_sponsors", anzctr_dfs, parent.frame(), dbcon)
   assign_anzctr_dfs("ethics_committees", anzctr_dfs, parent.frame(), dbcon)
   assign_anzctr_dfs("contacts", anzctr_dfs, parent.frame(), dbcon)
-  invisible(NULL)
+  status_text <- ""
+  status_text <- try(as.character(as.tibble(DBI::dbReadTable(dbcon, "anzctr_ingest_status"))[1,"status"]))
+  return(status_text)
 }
 

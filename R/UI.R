@@ -7,27 +7,31 @@ jscode <- "shinyjs.closeWindow = function() { window.close(); }"
 shinyUI(navbarPage("g2d2t", collapsible = TRUE,
   tabPanel("Data",
     fluidRow(
-      column(6, offset=1,
+      column(4, offset=1,
         actionButton("get_drugbank_data_button", "Download DrugBank.ca files", class = "btn-primary", width="300px")
-      )
+      ),
+      column(6, textOutput("drugbank_data_status"))
     ),
     fluidRow(p()),
     fluidRow(
-      column(6, offset=1,
+      column(4, offset=1,
         actionButton("download_anzctr_button", "Download ANZCTR XML files", class = "btn-primary", width="300px")
-      )
+      ),
+    column(6, textOutput("anzctr_download_status"))
     ),
     fluidRow(p()),
     fluidRow(
-      column(6, offset=1,
+      column(4, offset=1,
         actionButton("ingest_button", "Ingest ANZCTR XML files", class = "btn-primary", width="300px")
-      )
+      ),
+      column(6, textOutput("anzctr_ingest_status"))
     ),
     fluidRow(p()),
     fluidRow(
-      column(6, offset=1,
+      column(5, offset=1,
         actionButton("NLP_button", "Perform NLP pre-processing", class = "btn-primary", width="300px")
-      )
+      ),
+      column(6, textOutput("nlp_preprocessing_status"))
     )
   ),
   tabPanel("Search"),

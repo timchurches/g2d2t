@@ -17,18 +17,19 @@ from spacy.tokens import Doc, Span, Token
 from spacy import displacy
 import spacy
 
-path_prefix = "/Users/tim.churches/g2d2t/"
+data_path_prefix = "/Users/tim.churches/g2d2t_data/"
+src_path_prefix = "/Users/tim.churches/g2d2t/"
 
-drug_names_path = path_prefix + "data/drug_names.feather"
+drug_names_path = data_path_prefix + "drug_names.feather"
 drug_names_df = feather.read_dataframe(drug_names_path)
 a = drug_names_df['drug_id'].tolist()
 b = drug_names_df['term'].tolist()
 drug_names_list = [(a[i], b[i]) for i in range(len(a))]
 
-with open(path_prefix + 'src/drugbank_stoplist.txt') as f:
+with open(src_path_prefix + 'src/drugbank_stoplist.txt') as f:
     drug_names_stop_list = [w.lower() for w in f.read().splitlines()]
 
-interventions_path = path_prefix + "data/interventions.feather"
+interventions_path = data_path_prefix + "interventions.feather"
 interventions_df = feather.read_dataframe(interventions_path)
 a = interventions_df['trial_number'].tolist()
 b = interventions_df['interventions'].tolist()
@@ -39,24 +40,24 @@ def main(texts=interventions_list, drug_names=drug_names_list, stoplist=drug_nam
     # Use the standard en pipeline
     nlp = spacy.load('en')
     # Output files
-    outfilename = path_prefix + "data/drug_annotations.txt"
+    outfilename = data_path_prefix + "drug_annotations.txt"
     if os.path.exists(outfilename):
       os.remove(outfilename)
-    drugs_outfilename = path_prefix + "data/recognised_drugs.csv"
+    drugs_outfilename = data_path_prefix + "recognised_drugs.csv"
     if os.path.exists(drugs_outfilename):
       os.remove(drugs_outfilename)
-    trainer_progress_file = path_prefix + "data/trainer_progress.txt"
+    trainer_progress_file = data_path_prefix + "trainer_progress.txt"
     tfile = open(trainer_progress_file, "w")
     print("0,0", file=tfile)
     tfile.close()
-    recogniser_progress_file = path_prefix + "data/recogniser_progress.txt"
+    recogniser_progress_file = data_path_prefix + "recogniser_progress.txt"
     rfile = open(recogniser_progress_file, "w")
     print("0,0", file=rfile)
     rfile.close()
-    output_feather_path = path_prefix + "data/recognised_drug_names.feather"
+    output_feather_path = data_path_prefix + "recognised_drug_names.feather"
     if os.path.exists(output_feather_path):
       os.remove(output_feather_path)
-    nlp_status_file = path_prefix + "data/nlp_status.txt"    
+    nlp_status_file = data_path_prefix + "nlp_status.txt"    
     # create the drug recogniser
     component = DrugBankRecogniser(nlp, drugs=drug_names, progress_file=trainer_progress_file)  
     nlp.add_pipe(component, last=True)  # add last to the pipeline

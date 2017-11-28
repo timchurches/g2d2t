@@ -21,10 +21,13 @@ library(rvest)
 stopifnot("MonetDBLite" %in% rownames(installed.packages()))
 
 # fetch the details of DrugBank releases
-drugbank_releases_df <- read_html("https://www.drugbank.ca/releases") %>% html_nodes("table") %>% html_table() %>% .[[1]] %>% rename(version=Version, release_date="Released on", total_files="Total files", total_size="Total size") %>% select(version, release_date, total_files, total_size) %>% mutate(release_date=as.Date(release_date),  version=gsub("\\.","-",version)) %>% arrange(desc(release_date))
+get_latest_drugbank_release <- function() {
+  drugbank_releases_df <- read_html("https://www.drugbank.ca/releases") %>% html_nodes("table") %>% html_table() %>% .[[1]] %>% rename(version=Version, release_date="Released on", total_files="Total files", total_size="Total size") %>% select(version, release_date, total_files, total_size) %>% mutate(release_date=as.Date(release_date),  version=gsub("\\.","-",version)) %>% arrange(desc(release_date))
+  return(drugbank_releases_df[1,"version"])
+}
 
 # get the latest release
-latest_drugbank_release <- drugbank_releases_df[1,"version"]
+latest_drugbank_release <- get_latest_drugbank_release()
 
 get_drugbank <- function(types, username="", password="", version=latest_drugbank_release, progress_obj=NULL) {
   everything <- c("all-drug-links", "target-all-uniprot-links",
@@ -140,7 +143,7 @@ wrangle_drugbank_data <- function() {
 # Write to a database
 store_drugbank_df <- function(df_name, dbcon) {
   # load into database
-  dbWriteTable(dbcon, df_name, get(df_name), overwrite=TRUE)
+  DBI::dbWriteTable(dbcon, df_name, get(df_name), overwrite=TRUE)
   message(paste("Loaded", df_name, "tbl containing", nrow(get(df_name)), "rows into MonetDB database."))
   invisible(NULL)
 }
@@ -170,6 +173,9 @@ store_drugbank_dfs <- function(df_names=drugbank_df_names, dbcon) {
   for (df_name in df_names) {
     store_drugbank_df(df_name, dbcon)
   }
+  status_df <- data.frame(status=paste("DrugBank.ca Release", latest_drugbank_release,"data were last downloaded and stored at", format(Sys.time(), "%I:%M%p", tz="Australia/Sydney"), "on",  format(Sys.time(), "%a %d %b %Y", tz="Australia/Sydney")))
+  DBI::dbWriteTable(dbcon, "drugbank_data_status", status_df, overwrite=TRUE)
+  invisible(NULL)
 }
 
 assign_drugbank_df <- function(df_name,envir, dbcon) {
@@ -184,6 +190,9 @@ load_drugbank_dfs <- function(df_names, dbcon) {
   for (df_name in df_names) {
     assign_drugbank_df(df_name, parent.frame(), dbcon)
   }
+  status_text <- ""
+  status_text <- try(as.character(as.tibble(dbReadTable(dbcon, "drugbank_data_status"))[1,"status"]))
+  return(status_text)
 }
 
 # load_drugbank_dfs(dbcon=dbcon) 
