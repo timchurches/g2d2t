@@ -207,7 +207,7 @@ anzctr_to_dfs <- function(xmlpath="", progress_obj=NULL) {
     study_title[[fc]] <- get_text_xpath(doc, "trial_identification/studytitle")
     scientific_title[[fc]] <- get_text_xpath(doc, "trial_identification/scientifictitle")
     trial_acronym[[fc]] <- get_text_xpath(doc, "trial_identification/trialacronym")
-    interventions[[fc]] <- get_text_xpath(doc, "interventions/interventions")
+    interventions[[fc]] <- gsub("\n", " | ", get_text_xpath(doc, "interventions/interventions"))
     comparator[[fc]] <- get_text_xpath(doc, "interventions/comparator")
     control[[fc]] <- get_text_xpath(doc, "interventions/control")
     eligibity_inclusive[[fc]] <- get_text_xpath(doc, "eligibility/inclusivecriteria")

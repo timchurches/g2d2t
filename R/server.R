@@ -1,35 +1,17 @@
 shinyServer(function(input, output, session) {
-
-  trainer_filename <- "/Users/tim.churches/g2d2t_data/trainer_progress.txt"
-  recogniser_filename <- "/Users/tim.churches/g2d2t_data/recogniser_progress.txt"
-  nlp_status_file <- "/Users/tim.churches/g2d2t_data/nlp_status.txt"
-  nlp_feather_file <- "/Users/tim.churches/g2d2t_data/recognised_drug_names.feather"
-  interventions_feather_file <- "/Users/tim.churches/g2d2t_data/interventions.feather"
-  drug_names_feather_file <- "/Users/tim.churches/g2d2t_data/drug_names.feather"
-  # anzctr_download_shell_file <- "/Users/tim.churches/g2d2t/R/fetch_all_anzctr2.sh"
-  anzctr_download_file <- "/Users/tim.churches/g2d2t_data/anzctr_xml.zip"
-  dbdir <- "/Users/tim.churches/g2d2t_data/MonetDBLite"
-  anzctr_xmlpath <- "/Users/tim.churches/g2d2t_data/anzctr_xml"
   
   # Exit Shiny app if browser window/tab is closed by user
   session$onSessionEnded(stopApp)
 
-  # database connection
-  dbcon <- DBI::dbConnect(MonetDBLite::MonetDBLite(), dbdir)
-
-  # code for fetching ANZCTR XML files
-  source("httr_fetch_anzctr.R")
-  # code for loading the ANZCTR XML files
-  source("read_anzctr_xml_funcs.R")
-  # code for fetch and loading the DrugBank files
-  source("fetch_DrugData.R")
-  source("passwords.R")
-
-  # utilities
-  source("utils.R")
 
   # Initialise DrugBank data 
   drugbank_status_text <- load_drugbank_dfs(drugbank_df_names, dbcon)
+  # Initialise ANZCTR data
+  status_text <- load_anzctr_dfs(dbcon)
+  # Initialise anzctr2drug
+  anzctr2drug <-DBI::dbReadTable(dbcon, "recognised_drugs")
+  # Update trial browser span
+  updateNumericInput(session, "trial_num", label = NULL, value = 1, min=1, max=nrow(anzctr_core), step=1)
 
   update_nlp_progress <- function(progress_obj, text, type) {
     progress_num <- NA
@@ -87,8 +69,15 @@ shinyServer(function(input, output, session) {
     }
     if (nlp_status == 1) {
       # read the new data
-      new_nlp_data <- feather::read_feather(nlp_feather_file)
-      DBI::dbWriteTable(dbcon, "recognised_drugs", new_nlp_data, overwrite=TRUE)
+      anzctr2drug <- feather::read_feather(nlp_feather_file)
+      assign("anzctr2drug", anzctr2drug, envir=parent.frame())
+      instances_drugs_recognised <- anzctr2drug %>% nrow()
+      num_drugs_recognised <- anzctr2drug %>% distinct(drug_id) %>% nrow()
+      num_trials_with_recognised_drugs <- anzctr2drug %>% distinct(trial_number) %>% nrow()
+      num_trials <- anzctr_core %>% nrow()
+      status_df <- tibble(status=paste(format(instances_drugs_recognised, big.mark=","), "mentions of", format(num_drugs_recognised, big.mark=","), "distinct drugs were recognised in", format(num_trials_with_recognised_drugs, big.mark=","), "out of", format(num_trials, big.mark=","), "clinical trial records."))
+      DBI::dbWriteTable(dbcon, "recognised_drugs", anzctr2drug, overwrite=TRUE)
+      DBI::dbWriteTable(dbcon, "nlp_preprocessing_status", status_df, overwrite=TRUE)
       # remove the feather file
       unlink(nlp_feather_file)
       # reset the status file
@@ -194,29 +183,132 @@ shinyServer(function(input, output, session) {
     progress_obj$close()
   })
 
-  output$drugbank_data_status <- renderText({
-    input$get_drugbank_data_button
-    
-    paste(isolate(load_drugbank_dfs(drugbank_df_names, dbcon)),".",
-    "\nThe latest available release is ", get_latest_drugbank_release(),".", sep="")
-  })  
-
-  output$anzctr_download_status <- renderText({
-    input$download_anzctr_button
-    
-    get_anzctr_download_status(dbcon)
-  })  
-
-  output$anzctr_ingest_status <- renderText({
-    input$ingest_button
-    
-    load_anzctr_dfs(dbcon)
-  })  
-      
   # quit tab
   observeEvent(input$quit_and_close, {
     js$closeWindow()
     stopApp()
   }) 
 
+    output$drugbank_data_status <- renderText({
+    input$get_drugbank_data_button
+    
+    paste(isolate(load_drugbank_dfs(drugbank_df_names, dbcon)),".",
+    " The latest available release is ", isolate(get_latest_drugbank_release()),".", sep="")
+  })  
+
+  output$anzctr_download_status <- renderText({
+    input$download_anzctr_button
+    
+    paste(get_anzctr_download_status(dbcon), ".",
+          " The current number of trials registered with ANZCTR is ", format(isolate(get_current_number_anzctr_trials()), big.mark=","), ".", sep="")
+  })  
+
+  output$anzctr_ingest_status <- renderText({
+    input$ingest_button
+    
+    isolate(load_anzctr_dfs(dbcon))
+  })  
+
+  get_nlp_proprocessing_status <- function(dbcon) {
+  status_text <- ""
+  status_text <- try(as.character(as.tibble(DBI::dbReadTable(dbcon, "nlp_preprocessing_status"))[1,"status"]))
+  return(status_text)
+}
+
+  output$nlp_preprocessing_status <- renderText({
+    get_nlp_proprocessing_status(dbcon)
+      
+  })  
+
+  # updatePageruiInput(session, "pager", pages_total = nrow(anzctr_core))
+  output$search_interventions <- renderUI({
+    current_trial <- input$trial_num
+    anzctr_id <- anzctr_core[current_trial,]$trial_number
+    b <- anzctr2drug %>% filter(trial_number == anzctr_id) %>% arrange(desc(start_char))
+    # current_trial <- input$pager$page_current
+    # anzctr_core[input$search_results_pager$page_current,]$interventions
+    a <- anzctr_core[current_trial,]$interventions
+    # a <- gsub("\n", "", a)
+    if (nrow(b) > 0) {
+      for (i in 1:nrow(b)) {
+        span_start <- b[i,]$start_char
+        span_end <- b[i,]$end_char
+        a <- paste(stringr::str_sub(a,1,span_start-1), "<span style='color:red' class='drug' id='DB0001'>", stringr::str_sub(a,span_start,span_end), '</span>', stringr::str_sub(a,span_end + 1), sep="")
+      }
+    }
+    HTML(gsub(" \\| ", "<br />", a))
+    # HTML(a)
+  })  
+  
+  output$browse_interventions <- renderUI({
+    current_trial <- input$trial_num
+    anzctr_id <- anzctr_core[current_trial,]$trial_number
+    b <- anzctr2drug %>% filter(trial_number == anzctr_id) %>% arrange(desc(start_char))
+    # current_trial <- input$pager$page_current
+    # anzctr_core[input$search_results_pager$page_current,]$interventions
+    a <- anzctr_core[current_trial,]$interventions
+    # a <- gsub("\n", "", a)
+    if (nrow(b) > 0) {
+      for (i in 1:nrow(b)) {
+        span_start <- b[i,]$start_char
+        span_end <- b[i,]$end_char
+        a <- paste(stringr::str_sub(a,1,span_start-1), "<span style='color:red' class='drug' id='DB0001'>", stringr::str_sub(a,span_start,span_end), '</span>', stringr::str_sub(a,span_end + 1), sep="")
+      }
+    }
+    HTML(gsub(" \\| ", "<br />", a))
+    # HTML(a)
+    
+  })  
+
+  output$browse_trial_id <- renderText({
+    current_trial <- input$trial_num
+    # current_trial <- input$pager$page_current
+    # anzctr_core[input$search_results_pager$page_current,]$interventions
+    anzctr_core[current_trial,]$trial_number
+  })  
+
+  output$debug <- renderPrint({
+    str(input$pager)
+  })  
+
+  output$search_interventions <- renderUI({
+    trial_search_results <- drug_terms2drug_id %>% mutate(term_lower = tolower(term)) %>% filter(term_lower==tolower(input$search_drug_name)) %>% left_join(anzctr2drug, by="drug_id") %>% distinct(trial_number)
+    # print(input$search_drug_name)
+    # print(trial_search_results)
+    if (nrow(trial_search_results) > 0) {
+      updateNumericInput(session, "result_num", min=1, max=nrow(trial_search_results), step=1)
+      current_trial <- trial_search_results[input$result_num,]$trial_number
+    } else {
+      current_trial <- NULL
+    }
+    # print(current_trial)
+    if (!is.null(current_trial)) {
+      anzctr_id <- anzctr_core[anzctr_core$trial_number == current_trial,]$trial_number
+      b <- anzctr2drug %>% filter(trial_number == anzctr_id) %>% arrange(desc(start_char))
+      # current_trial <- input$pager$page_current
+      # anzctr_core[input$search_results_pager$page_current,]$interventions
+      a <- anzctr_core[anzctr_core$trial_number == current_trial,]$interventions
+      # a <- gsub("\n", "", a)
+      if (nrow(b) > 0) {
+        for (i in 1:nrow(b)) {
+          span_start <- b[i,]$start_char
+          span_end <- b[i,]$end_char
+          a <- paste(stringr::str_sub(a,1,span_start-1), "<span style='color:red' class='drug' id='DB0001'>", stringr::str_sub(a,span_start,span_end), '</span>', stringr::str_sub(a,span_end + 1), sep="")
+        }
+      }
+      HTML(gsub(" \\| ", "<br />", a))
+      # HTML(a)
+    } else {
+      NULL
+    }
+    
+  })  
+
+  output$search_trial_id <- renderText({
+    current_trial <- input$trial_num
+    # current_trial <- input$pager$page_current
+    # anzctr_core[input$search_results_pager$page_current,]$interventions
+    anzctr_core[current_trial,]$trial_number
+  })  
+        
 })

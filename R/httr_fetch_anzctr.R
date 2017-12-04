@@ -27,7 +27,12 @@ get_anzctr_download_status <- function(dbcon) {
   return(status_text)
 }
 
+# fetch the current number of ANZCTR trials
+get_current_number_anzctr_trials <- function() {
+  a <- list()
+  a[[1]] <- c(NA, NA)
+  try({a <- read_html("http://www.anzctr.org.au/TrialSearch.aspx?searchTxt=&isBasic=True") %>% html_nodes(xpath = '//*[@id="ctl00_body_resultCountLbl"]') %>% html_text() %>% strsplit(":")}, silent=TRUE)
+  as.numeric(a[[1]][2])
+}
 
-
-
-
+# get_current_number_anzctr_trials()

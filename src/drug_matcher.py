@@ -74,7 +74,7 @@ def main(texts=interventions_list, drug_names=drug_names_list, stoplist=drug_nam
     for trial_number, text in texts:
       t += 1
       print(str(t) + "," + str(num_texts), file=open(recogniser_progress_file, "w"))
-      text = text.replace('\n','  ')
+      # text = text.replace('\n',' \n ')
       doc = nlp(text)
       if doc._.has_drug:
         recognised_drug_entities = []

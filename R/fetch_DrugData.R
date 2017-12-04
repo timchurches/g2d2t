@@ -22,7 +22,10 @@ stopifnot("MonetDBLite" %in% rownames(installed.packages()))
 
 # fetch the details of DrugBank releases
 get_latest_drugbank_release <- function() {
-  drugbank_releases_df <- read_html("https://www.drugbank.ca/releases") %>% html_nodes("table") %>% html_table() %>% .[[1]] %>% rename(version=Version, release_date="Released on", total_files="Total files", total_size="Total size") %>% select(version, release_date, total_files, total_size) %>% mutate(release_date=as.Date(release_date),  version=gsub("\\.","-",version)) %>% arrange(desc(release_date))
+  drugbank_releases_df <- tibble(version="(unable to retrieve)")
+  try({
+        drugbank_releases_df <- read_html("https://www.drugbank.ca/releases") %>% html_nodes("table") %>% html_table() %>% .[[1]] %>% rename(version=Version, release_date="Released on", total_files="Total files", total_size="Total size") %>% select(version, release_date, total_files, total_size) %>% mutate(release_date=as.Date(release_date),  version=gsub("\\.","-",version)) %>% arrange(desc(release_date))
+  }, silent=TRUE)
   return(drugbank_releases_df[1,"version"])
 }
 
@@ -191,7 +194,7 @@ load_drugbank_dfs <- function(df_names, dbcon) {
     assign_drugbank_df(df_name, parent.frame(), dbcon)
   }
   status_text <- ""
-  status_text <- try(as.character(as.tibble(dbReadTable(dbcon, "drugbank_data_status"))[1,"status"]))
+  status_text <- try(as.character(as.tibble(DBI::dbReadTable(dbcon, "drugbank_data_status"))[1,"status"]))
   return(status_text)
 }
 
