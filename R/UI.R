@@ -36,45 +36,34 @@ shinyUI(navbarPage("g2d2t", collapsible = TRUE,
   ),
   tabPanel("Search",
     fluidRow(
-      column(6, offset=1, textInput("search_drug_name", label="Drug", value="", placeholder="aspirin"))
+      column(3, offset=1, textInput("search_drug_name", label=NULL, value="", placeholder="aspirin")),
+      column(2, actionButton("drug_search_button", " Search", class = "btn btn-info glyphicon glyphicon-search", with="300px"))
     ),
     fluidRow(p()),
     fluidRow(
-      column(4, offset=1, textOutput("search_trial_id"),
-      column(4,  numericInput("result_num", label="Result No.", value=1, min=1, max=1, step=1))
-)
+      column(4, offset=1, textOutput("num_search_results")),
+      column(4,  numericInput("result_num", label="Result No.", value=1, min=1, max=1, step=1)),
+      column(3, textOutput("search_trial_id"))
     ),
     fluidRow(p()),
     fluidRow(
-      column(11, offset=1,
-        htmlOutput('search_interventions')  
+      column(12, 
+        wellPanel(id="search_output", style = "overflow-y:scroll; max-height: 600px",
+          fluidRow(
+            column(1, "Scientific title"),
+            column(11, wellPanel(id="scientific_title_text", htmlOutput('search_scientific_title')))
+          ),
+          fluidRow(
+            column(1, "Intervention(s)"),
+            column(11, wellPanel(id="interventions_text", htmlOutput('search_interventions')))
+          )
+        ) 
       )
     ),
     fluidRow(p()),
     fluidRow(
       column(11, offset=1,
         verbatimTextOutput('search_debug')  
-      )
-    )
-  ),
-  tabPanel("Browse",
-    fluidRow(
-      column(6, offset=1, numericInput("trial_num", label="Trial No.", value=1, min=1, max=20000, step=1))
-    ),
-    fluidRow(p()),
-    fluidRow(
-      column(11, offset=1, textOutput("browse_trial_id"))
-    ),
-    fluidRow(p()),
-    fluidRow(
-      column(11, offset=1,
-        htmlOutput('browse_interventions')  
-      )
-    ),
-    fluidRow(p()),
-    fluidRow(
-      column(11, offset=1,
-        verbatimTextOutput('debug')  
       )
     )
   ),
